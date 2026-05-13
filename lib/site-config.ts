@@ -22,16 +22,16 @@ export const siteConfig = {
   stats: {
     lectures: 2600,
     years: 15,
-    subscribers: 2540,
+    subscribers: 88500, // Combined: YouTube (2.5K) + Facebook (86K)
     languages: 2,
   },
 
   // Social media
   social: {
     youtube: 'https://www.youtube.com/@sh.ahmadseif',
+    facebook: 'https://www.facebook.com/AhmedAbouseif0',
     telegram: 'https://t.me/DrAhmedAbouseif',
     twitter: '', // Add when ready
-    facebook: '', // Add when ready
     instagram: '', // Add when ready
   },
 
