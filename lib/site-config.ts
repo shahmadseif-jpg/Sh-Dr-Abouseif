@@ -37,7 +37,7 @@ export const siteConfig = {
 
   // Contact
   contact: {
-    email: 'admin@imamsacademy.com',
+    email: 'shahmadseif@gmail.com',
     academy: 'https://imamsacademy.com', // Update if different
   },
 
