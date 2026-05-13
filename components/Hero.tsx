@@ -48,7 +48,7 @@ export default function Hero() {
             <div className="relative">
               <div className="aspect-[4/5] rounded-lg overflow-hidden bg-navy-100 border border-navy-200">
                 <img
-                  src="/dr-ahmed.jpg..png"
+                  src="/dr-ahmed.jpg"
                   alt={locale === 'ar' ? 'د. أحمد أبو سيف' : 'Dr. Ahmed Abouseif'}
                   className="w-full h-full object-cover"
                   loading="eager"
