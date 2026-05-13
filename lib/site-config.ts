@@ -21,7 +21,7 @@ export const siteConfig = {
   // Stats (update these manually when they change significantly)
   stats: {
     lectures: 2600,
-    years: 15,
+    years: 35, // Since 1991
     subscribers: 88500, // Combined: YouTube (2.5K) + Facebook (86K)
     languages: 2,
   },
