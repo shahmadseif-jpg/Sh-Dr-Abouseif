@@ -2,6 +2,7 @@
 
 import { useTranslations, useLocale } from 'next-intl';
 import { siteConfig } from '@/lib/site-config';
+import { getEstimatedLectureCount } from '@/lib/lecture-counter';
 
 export default function Stats() {
   const t = useTranslations('stats');
@@ -14,8 +15,10 @@ export default function Stats() {
     return n.toLocaleString('en-US');
   };
 
+  const lectureCount = getEstimatedLectureCount();
+
   const stats = [
-    { value: `${formatNumber(siteConfig.stats.lectures)}+`, label: t('lectures') },
+    { value: `${formatNumber(lectureCount)}+`, label: t('lectures') },
     { value: `${formatNumber(siteConfig.stats.years)}+`, label: t('years') },
     { value: formatNumber(siteConfig.stats.subscribers), label: t('subscribers') },
     { value: formatNumber(siteConfig.stats.languages), label: t('languages') },
