@@ -16,6 +16,7 @@ export default function Header() {
     { href: '/lectures', label: t('lectures') },
     { href: '/articles', label: t('articles') },
     { href: '/events', label: t('events') },
+    { href: '/consultations', label: t('consultations'), highlight: true },
     { href: '/contact', label: t('contact') },
   ];
 
@@ -49,7 +50,11 @@ export default function Header() {
                 key={item.href}
                 href={item.href}
                 className={`px-3 py-2 text-sm rounded-md transition-colors no-underline ${
-                  isActive
+                  item.highlight
+                    ? isActive
+                      ? 'bg-gold-400 text-navy-900'
+                      : 'bg-gold-50 text-gold-700 hover:bg-gold-100 border border-gold-200'
+                    : isActive
                     ? 'text-navy-700 bg-navy-50'
                     : 'text-navy-600 hover:text-navy-700 hover:bg-navy-50/60'
                 }`}
