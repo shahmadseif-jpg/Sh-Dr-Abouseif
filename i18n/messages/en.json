@@ -63,6 +63,11 @@
     "read_more": "Read more",
     "no_articles": "No articles published yet. Stay tuned."
   },
+  "articles_page": {
+    "back_to_articles": "Back to articles",
+    "more_articles": "More articles",
+    "reading_time": "min read"
+  },
   "events": {
     "title": "Upcoming Events",
     "subtitle": "Schedule of upcoming lectures, classes, and khutbahs",
