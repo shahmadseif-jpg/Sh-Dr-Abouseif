@@ -21,6 +21,30 @@ export interface ArticleMeta {
 
 export const articlesMeta: ArticleMeta[] = [
   {
+    slug: 'fatwa-and-collective-voice',
+    category: 'imamship',
+    isoDate: '2026-05-16',
+    date: { ar: '١٦ مايو ٢٠٢٦', en: 'May 16, 2026' },
+    readingMinutes: 11,
+    series: {
+      ar: 'الإمام في الغرب — مدرسة في صناعة القائد',
+      en: 'The Imam in the West — A School in Crafting the Leader',
+    },
+    episode: 4,
+    title: {
+      ar: 'الإمام بين الفتوى الفردية وصوت الجماعة',
+      en: 'The Imam Between Individual Fatwa and Collective Voice',
+    },
+    subtitle: {
+      ar: 'الحلقة الرابعة والأخيرة — حين يَفقد الإفتاء بَوصلتَه في عَصر الخوارزميَّات',
+      en: 'Episode Four (Final) — When Fatwa Loses Its Compass in the Age of Algorithms',
+    },
+    excerpt: {
+      ar: 'مُسلمٌ واحد يَستفتي أربعة مَصادر — شيخ يوتيوب، إمام محلي، داعية إنستجرام، نموذج ذكاء اصطناعي — فيتلقَّى أربع فتاوى مُتناقضة. هذه أزمة الإفتاء في الغَرب. الحلقة الرابعة والأخيرة تَعرض شُروط الفَتوى الكلاسيكية، تُشَخِّص انهيار المرجعية، وتطرح مَنظومة «صوت الجماعة» بَديلًا، مع تَوظيف بَحث الشيخ لِدار الإفتاء ٢٠٢٥ عن الفَتوى والذكاء الاصطناعي.',
+      en: "A single Muslim consults four sources — a YouTube shaykh, a local imam, an Instagram preacher, and an AI model — and receives four contradictory fatwas. This is the crisis of issuing religious rulings in the West. The fourth and final episode of the series presents the classical conditions of fatwa, diagnoses the collapse of religious authority, and proposes a 'collective voice' alternative — drawing on Dr. Ahmed's 2025 paper for Dar al-Iftaa on fatwa in the age of artificial intelligence.",
+    },
+  },
+  {
     slug: 'institutional-mind',
     category: 'imamship',
     isoDate: '2026-05-15',
