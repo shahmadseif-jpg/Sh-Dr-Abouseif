@@ -1,9 +1,7 @@
 /**
- * Articles metadata and content loader
- * Markdown files live at the repository root (uploaded directly)
+ * Articles metadata — safe to import in client components.
+ * For file content loading (uses fs), see lib/articles-server.ts
  */
-import fs from 'fs';
-import path from 'path';
 
 export type ArticleCategory = 'imamship' | 'civilization' | 'family' | 'fiqh';
 
@@ -75,19 +73,6 @@ export function getAllArticles(): ArticleMeta[] {
   return [...articlesMeta]
     .filter((a) => !a.draft)
     .sort((a, b) => (a.isoDate < b.isoDate ? 1 : -1));
-}
-
-export function getArticleBody(slug: string, locale: 'ar' | 'en'): string | null {
-  try {
-    // Markdown files live at the repository root (uploaded directly)
-    const filePath = path.join(
-      process.cwd(),
-      `${slug}.${locale}.md`
-    );
-    return fs.readFileSync(filePath, 'utf-8');
-  } catch (e) {
-    return null;
-  }
 }
 
 export const categoryLabels = {
