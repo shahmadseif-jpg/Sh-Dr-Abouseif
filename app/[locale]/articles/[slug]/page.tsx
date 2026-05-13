@@ -1,7 +1,8 @@
 import { setRequestLocale, getTranslations } from 'next-intl/server';
 import { notFound } from 'next/navigation';
 import Link from 'next/link';
-import { getArticleMeta, getArticleBody, getAllArticles, categoryLabels } from '@/lib/articles';
+import { getArticleMeta, getAllArticles, categoryLabels } from '@/lib/articles';
+import { getArticleBody } from '@/lib/articles-server';
 import { ReactNode } from 'react';
 
 export const dynamic = 'force-dynamic';
