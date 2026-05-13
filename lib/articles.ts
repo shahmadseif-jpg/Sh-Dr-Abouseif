@@ -21,6 +21,30 @@ export interface ArticleMeta {
 
 export const articlesMeta: ArticleMeta[] = [
   {
+    slug: 'crafting-the-modern-imam',
+    category: 'imamship',
+    isoDate: '2026-05-14',
+    date: { ar: '١٤ مايو ٢٠٢٦', en: 'May 14, 2026' },
+    readingMinutes: 9,
+    series: {
+      ar: 'الإمام في الغرب — مدرسة في صناعة القائد',
+      en: 'The Imam in the West — A School in Crafting the Leader',
+    },
+    episode: 2,
+    title: {
+      ar: 'صناعة الإمام المعاصر: العلم، والإدارة، والاحتواء النفسي',
+      en: 'Crafting the Modern Imam: Knowledge, Management, and Pastoral Containment',
+    },
+    subtitle: {
+      ar: 'الحلقة الثانية — من تأسيس العلم إلى احتواء الأزمات والذات',
+      en: 'Episode Two — From Building Knowledge to Containing Crises and the Self',
+    },
+    excerpt: {
+      ar: 'لا تُبنى إمامةُ الغرب على عِلمٍ شرعيٍّ خالص ولا على مهارةٍ خَطابية وَحدها. الإمامُ المعاصر يحتاج إلى ثلاثة أركان متلازمة: علمٍ أزهري مُتَّصلٍ بفقه الأقليات، وإدارةٍ مؤسَّسية بأدواتها العملية، واحتواءٍ نفسي للناس وللذات. هذه الحلقة الثانية تقدِّم نموذج التَّأهيل.',
+      en: "Imamship in the West cannot be built on Sharia knowledge alone, nor on rhetorical skill. The contemporary imam needs three interlocking pillars: Azhari knowledge anchored in the fiqh of minorities, institutional management with operational tools, and pastoral containment for others and the self. Episode Two of the series presents the formation model.",
+    },
+  },
+  {
     slug: 'imam-in-the-west',
     category: 'imamship',
     isoDate: '2026-05-13',
