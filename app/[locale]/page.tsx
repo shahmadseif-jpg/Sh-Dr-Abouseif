@@ -3,6 +3,10 @@ import Stats from '@/components/Stats';
 import LatestVideos from '@/components/LatestVideos';
 import CTASection from '@/components/CTASection';
 import { setRequestLocale } from 'next-intl/server';
+import { Suspense } from 'react';
+
+export const dynamic = 'force-dynamic';
+export const revalidate = 3600;
 
 export default async function Home({
   params,
@@ -16,7 +20,9 @@ export default async function Home({
     <>
       <Hero />
       <Stats />
-      <LatestVideos />
+      <Suspense fallback={null}>
+        <LatestVideos />
+      </Suspense>
       <CTASection />
     </>
   );
