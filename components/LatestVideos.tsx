@@ -1,10 +1,10 @@
-import { useTranslations, useLocale } from 'next-intl';
+import { getTranslations, getLocale } from 'next-intl/server';
 import { Link } from '@/i18n/routing';
 import { fetchLatestVideos, formatDate } from '@/lib/youtube';
 
 export default async function LatestVideos() {
-  const t = useTranslations('latest_videos');
-  const locale = useLocale();
+  const t = await getTranslations('latest_videos');
+  const locale = await getLocale();
   const videos = await fetchLatestVideos(6);
 
   if (videos.length === 0) {
