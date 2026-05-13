@@ -1,3 +1,5 @@
+'use client';
+
 import { useTranslations, useLocale } from 'next-intl';
 import { Link } from '@/i18n/routing';
 
@@ -44,17 +46,13 @@ export default function Hero() {
 
           <div className="lg:col-span-2">
             <div className="relative">
-              <div className="aspect-[4/5] rounded-lg bg-navy-100 border border-navy-200 overflow-hidden">
-                {/* Placeholder for Dr. Ahmed's photo - replace with actual image */}
-                <div className="w-full h-full flex items-center justify-center text-navy-400 bg-gradient-to-br from-navy-100 to-navy-200">
-                  <div className="text-center">
-                    <svg width="60" height="60" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1" className="mx-auto mb-2 opacity-50">
-                      <circle cx="12" cy="8" r="4" />
-                      <path d="M6 21v-2a4 4 0 014-4h4a4 4 0 014 4v2" />
-                    </svg>
-                    <div className="text-xs">{locale === 'ar' ? 'صورة الدكتور' : "Dr. Ahmed's photo"}</div>
-                  </div>
-                </div>
+              <div className="aspect-[4/5] rounded-lg overflow-hidden bg-navy-100 border border-navy-200">
+                <img
+                  src="/dr-ahmed.jpg"
+                  alt={locale === 'ar' ? 'د. أحمد أبو سيف' : 'Dr. Ahmed Abouseif'}
+                  className="w-full h-full object-cover"
+                  loading="eager"
+                />
               </div>
               <div className="absolute -bottom-3 -end-3 w-24 h-1 bg-gold-400" />
             </div>
