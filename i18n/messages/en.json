@@ -1,0 +1,82 @@
+{
+  "site": {
+    "name": "Dr. Ahmed Abouseif",
+    "title": "Dr. Ahmed Abouseif - Islamic Scholar",
+    "tagline": "President · American Imams Academy",
+    "description": "Official website of Dr. Ahmed Abouseif - Islamic scholar, lecturer, and President of the American Imams Academy. Lectures and teachings in Arabic and English."
+  },
+  "nav": {
+    "home": "Home",
+    "about": "About",
+    "lectures": "Lectures",
+    "articles": "Articles",
+    "events": "Events",
+    "contact": "Contact",
+    "language": "العربية"
+  },
+  "hero": {
+    "role": "President · Imams Academy",
+    "name": "Dr. Ahmed Abouseif",
+    "description": "Islamic scholar, lecturer, and educator. Dedicated to authentic Islamic teaching in jurisprudence, theology, exegesis, and prophetic biography — in Arabic and English across the United States and the Arab world.",
+    "cta_primary": "Browse Lectures",
+    "cta_secondary": "About the Academy"
+  },
+  "stats": {
+    "lectures": "Lectures",
+    "years": "Years of teaching",
+    "subscribers": "Subscribers",
+    "languages": "Languages"
+  },
+  "latest_videos": {
+    "title": "Latest Lectures",
+    "subtitle": "Watch the newest videos from Dr. Abouseif's channel",
+    "watch_all": "Watch all lectures",
+    "watch_on_youtube": "Watch on YouTube"
+  },
+  "cta": {
+    "title": "Join the Imams Academy",
+    "description": "Specialized training programs in Islamic sciences and du'ah leadership for imams and seekers of knowledge.",
+    "button": "Learn more"
+  },
+  "about": {
+    "title": "About the Scholar",
+    "subtitle": "An academic and du'ah journey",
+    "intro": "Dr. Ahmed Abouseif is an Islamic scholar and President of the American Imams Academy, combining classical scholarship with contemporary discourse.",
+    "sections": {
+      "academic": "Academic Background",
+      "scholarly": "Scholarly & Du'ah Work",
+      "leadership": "Leadership & Roles"
+    }
+  },
+  "lectures": {
+    "title": "Lecture Library",
+    "subtitle": "Comprehensive archive of lectures, khatiras, and khutbahs",
+    "filter_all": "All",
+    "filter_arabic": "Arabic",
+    "filter_english": "English",
+    "search_placeholder": "Search lectures..."
+  },
+  "articles": {
+    "title": "Articles & Blog",
+    "subtitle": "Writings on jurisprudence, thought, and du'ah",
+    "read_more": "Read more",
+    "no_articles": "No articles published yet. Stay tuned."
+  },
+  "events": {
+    "title": "Upcoming Events",
+    "subtitle": "Schedule of upcoming lectures, classes, and khutbahs",
+    "register": "Register",
+    "details": "Details",
+    "no_events": "No upcoming events at the moment."
+  },
+  "contact": {
+    "title": "Get in Touch",
+    "subtitle": "For inquiries, lecture requests, or consultations",
+    "email": "Email",
+    "social": "Follow us on"
+  },
+  "footer": {
+    "rights": "All rights reserved",
+    "made_with": "Crafted with care"
+  }
+}
