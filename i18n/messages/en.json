@@ -1,9 +1,9 @@
 {
   "site": {
-    "name": "Dr. Ahmed Abouseif",
-    "title": "Dr. Ahmed Abouseif - Islamic Scholar",
-    "tagline": "President · American Imams Academy",
-    "description": "Official website of Dr. Ahmed Abouseif - Islamic scholar, lecturer, and President of the American Imams Academy. Lectures and teachings in Arabic and English."
+    "name": "Imam Dr. Ahmed Abouseif",
+    "title": "Imam Dr. Ahmed Abouseif - Doctor of Tafsīr & Qur'anic Sciences",
+    "tagline": "Imam & Founder · American Imams Academy",
+    "description": "Official website of Imam Dr. Ahmed Mohamed Ali Abouseif, Doctor of Tafsīr and Qur'anic Sciences from Al-Azhar University, holder of connected Qur'anic ijazahs, and Founder and President of the American Imams Academy in Texas."
   },
   "nav": {
     "home": "Home",
@@ -16,9 +16,9 @@
     "language": "العربية"
   },
   "hero": {
-    "role": "President · Imams Academy",
+    "role": "Imam & Founder · American Imams Academy",
     "name": "Dr. Ahmed Abouseif",
-    "description": "Islamic scholar, lecturer, and educator. Dedicated to authentic Islamic teaching in jurisprudence, theology, exegesis, and prophetic biography — in Arabic and English across the United States and the Arab world.",
+    "description": "Doctor of Tafsīr and Qur'anic Sciences from Al-Azhar University, holding connected Qur'anic ijazahs (isnād) to the Prophet ﷺ. Founder and President of the American Imams Academy in Texas, and founding member of the Supreme Council for Islamic Affairs in North America. Over three decades of experience spanning imamate, university teaching, scholarly research, and family counseling across Egypt and the United States.",
     "cta_primary": "Browse Lectures",
     "cta_secondary": "About the Academy"
   },
@@ -40,13 +40,13 @@
     "button": "Learn more"
   },
   "about": {
-    "title": "About the Scholar",
-    "subtitle": "An academic and du'ah journey",
-    "intro": "Dr. Ahmed Abouseif is an Islamic scholar and President of the American Imams Academy, combining classical scholarship with contemporary discourse.",
+    "title": "Biography",
+    "subtitle": "Scholarly and Da'wah Journey",
+    "intro": "Imam Dr. Ahmed Mohamed Ali Abouseif holds a Ph.D. in Tafsīr and Qur'anic Sciences from Al-Azhar University (2008), along with a Qur'anic ijazah in the recitation of Hafs through the Shāṭibiyyah and Ṭayyibah transmissions, with a connected isnād to the Prophet ﷺ. He is the Founder and President of the American Imams Academy in Plano, Texas (since March 2017), and serves as Imam and Director of Religious Affairs at the Academy's Mosque (since November 2021). His career spans more than three decades across imamate, university teaching, scholarly research, institutional leadership, and media engagement in both Egypt and the United States.",
     "sections": {
-      "academic": "Academic Background",
-      "scholarly": "Scholarly & Du'ah Work",
-      "leadership": "Leadership & Roles"
+      "academic": "Academic Qualifications & Ijazahs",
+      "scholarly": "Scholarly & Media Contributions",
+      "leadership": "Professional & Leadership Experience"
     }
   },
   "lectures": {
