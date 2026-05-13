@@ -21,6 +21,30 @@ export interface ArticleMeta {
 
 export const articlesMeta: ArticleMeta[] = [
   {
+    slug: 'institutional-mind',
+    category: 'imamship',
+    isoDate: '2026-05-15',
+    date: { ar: '١٥ مايو ٢٠٢٦', en: 'May 15, 2026' },
+    readingMinutes: 9,
+    series: {
+      ar: 'الإمام في الغرب — مدرسة في صناعة القائد',
+      en: 'The Imam in the West — A School in Crafting the Leader',
+    },
+    episode: 3,
+    title: {
+      ar: 'لماذا تحتاج مساجد الغرب إلى عقل مؤسسي؟',
+      en: 'Why Western Mosques Need an Institutional Mind',
+    },
+    subtitle: {
+      ar: 'الحلقة الثالثة — خمس عللٍ وخمسة أركان لبناء المسجد الذي يُورِّث',
+      en: 'Episode Three — Five Diseases and Five Pillars for the Mosque That Bequeaths',
+    },
+    excerpt: {
+      ar: 'مَسجدٌ بِلا ذاكرةٍ مؤسَّسية هو شَجرة بلا جذور: مُكتمِلٌ ظاهرًا، هَشٌّ في أوَّل ريح. خمس عِلَل تَنهَش مساجد الغَرب، وخمسة أركان عِلاجية تُحَوِّلها من مَكاتب خِدمات إلى مُؤَسَّسات تُورِّث للأجيال. تَأصيلٌ من فقه الأَوقاف، ونُبوءة ابن خَلدون عن الأَجيال الثلاثة.',
+      en: 'A mosque without institutional memory is a tree without roots: complete in appearance, fragile at the first gust. Five diseases plague Western mosques, and five remedial pillars transform them from service desks into institutions that bequeath. A foundation drawn from the fiqh of awqāf and Ibn Khaldūn\'s warning about the three generations.',
+    },
+  },
+  {
     slug: 'crafting-the-modern-imam',
     category: 'imamship',
     isoDate: '2026-05-14',
