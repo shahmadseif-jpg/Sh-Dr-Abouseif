@@ -3,6 +3,9 @@ import { useTranslations, useLocale } from 'next-intl';
 import { fetchLatestVideos, formatDate, YouTubeVideo } from '@/lib/youtube';
 import LectureFilters from '@/components/LectureFilters';
 
+export const dynamic = 'force-dynamic';
+export const revalidate = 3600;
+
 export async function generateMetadata({
   params,
 }: {
