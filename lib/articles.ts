@@ -21,6 +21,30 @@ export interface ArticleMeta {
 
 export const articlesMeta: ArticleMeta[] = [
   {
+    slug: 'sunan-of-civilization',
+    category: 'civilization',
+    isoDate: '2026-05-19',
+    date: { ar: '١٩ مايو ٢٠٢٦', en: 'May 19, 2026' },
+    readingMinutes: 14,
+    series: {
+      ar: 'القرآن والحضارة',
+      en: 'The Qur\'an and Civilization',
+    },
+    episode: 4,
+    title: {
+      ar: 'سُنَنُ الحَضارَة في القُرآن — سِتَّةُ قَوانينَ تَحكُم صُعودَ الأُمَم وَسُقوطَها',
+      en: "The Sunan of Civilization in the Qur'an — Six Laws That Govern the Rise and Fall of Nations",
+    },
+    subtitle: {
+      ar: 'الحلقة الرابعة — وَقفَةٌ جامِعَةٌ بَعد الكَهف ويوسُف وسُليمان',
+      en: "Episode Four — A Synthesizing Pause after al-Kahf, Yūsuf, and Sulaymān",
+    },
+    excerpt: {
+      ar: 'بَعد ثَلاث حَلَقات في الكَهف ويوسُف وسُليمان، تَأَتي هذه الحَلَقَة لِتَستَخلِص سِتَّ سُنَنٍ إلهيَّة تَحكُم صُعود الأُمَم وَسُقوطَها: الاستِخلاف، التَّغيير الذَّاتي، الابتِلاء، المُداوَلَة، التَّدافُع، إصلاح الأَرض. كُلُّ سُنَّةٍ مَأخوذَةٌ مِن آيَةٍ مُحكَمَة، وَمُؤَيَّدَةٌ بِما رَأَيناه في السُّوَر الثَّلاث. وَقفَةٌ جامِعَةٌ لا خاتِمَة، تُمَهِّد لِما بَعدها مِن سُوَر.',
+      en: "After three episodes on al-Kahf, Yūsuf, and Sulaymān, this episode extracts six divine sunan governing the rise and fall of nations: succession, self-change, trial, alternation, pressing-back, and reform of the earth. Each is drawn from a binding verse and corroborated by what we have seen in the three sūras. A synthesizing pause, not a closing — preparing the ground for further sūras to come.",
+    },
+  },
+  {
     slug: 'hudhud-and-sayl',
     category: 'civilization',
     isoDate: '2026-05-18',
