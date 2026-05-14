@@ -21,6 +21,30 @@ export interface ArticleMeta {
 
 export const articlesMeta: ArticleMeta[] = [
   {
+    slug: 'yusuf-diaspora-civilization',
+    category: 'civilization',
+    isoDate: '2026-05-17',
+    date: { ar: '١٧ مايو ٢٠٢٦', en: 'May 17, 2026' },
+    readingMinutes: 13,
+    series: {
+      ar: 'القرآن والحضارة',
+      en: 'The Qur\'an and Civilization',
+    },
+    episode: 2,
+    title: {
+      ar: 'سورة يوسُف ومَنحَنى الصُّعود الحَضاري',
+      en: 'Sūrat Yūsuf and the Curve of Civilizational Ascent',
+    },
+    subtitle: {
+      ar: 'الحلقة الثانية — من قاع البئر إلى عَرش الإمبراطورية، ومن الفَرد إلى الأُمَّة',
+      en: "Episode Two — From the Pit's Floor to an Imperial Throne, From the Individual to the Ummah",
+    },
+    excerpt: {
+      ar: 'الكَواكِب الإِحدى عَشرَة سَجَدَت لِيوسُف في رُؤياه قَبل أَن تَنحَني له إخوَتُه في مَجلِسه. مَنحَنى الصُّعود يُولَد في البَصيرَة قَبل أَن يَتَجَلَّى في الحَدَث. الحَلَقَة الثَّانيَة مِن سِلسلة «القُرآن والحَضارَة» تَستَخرِج مِن سورَة يوسُف أَربَعَة أَركان لِلصُّعود (العَفاف، العِلم، الاستِنباط، الهِمَّة)، تُشَخِّص ثَلاث أَزَمات لِلجاليَة المُسلِمَة في الغَرب، وَتَطرَح نَموذَج «الزَّرع في أَرض المَهجَر» الَّذي بَين يوسُف وموسى أَربَعَةُ قُرون.',
+      en: "The eleven stars bowed to Yūsuf in his dream long before his brothers bowed before his throne. The curve of ascent is born in vision before it manifests in event. Episode Two of the 'Qur'an and Civilization' series extracts from Sūrat Yūsuf four pillars of ascent (chastity, knowledge, foresight, ambition), diagnoses three crises of the Muslim community in the West, and proposes the model of 'sowing in the land of diaspora' — the four centuries that lay between Yūsuf and Mūsā.",
+    },
+  },
+  {
     slug: 'fatwa-and-collective-voice',
     category: 'imamship',
     isoDate: '2026-05-16',
@@ -122,13 +146,18 @@ export const articlesMeta: ArticleMeta[] = [
     isoDate: '2026-05-12',
     date: { ar: '١٢ مايو ٢٠٢٦', en: 'May 12, 2026' },
     readingMinutes: 8,
+    series: {
+      ar: 'القرآن والحضارة',
+      en: 'The Qur\'an and Civilization',
+    },
+    episode: 1,
     title: {
       ar: 'القرآن والتأصيل الحضاري',
       en: 'The Qur\'an and the Foundations of Civilization',
     },
     subtitle: {
-      ar: 'حين يصنع الوحي الإنسان… تُولد الحضارة',
-      en: 'When Revelation Shapes the Human, Civilization is Born',
+      ar: 'الحلقة الأولى — حين يصنع الوحي الإنسان… تُولد الحضارة',
+      en: 'Episode One — When Revelation Shapes the Human, Civilization is Born',
     },
     excerpt: {
       ar: 'سورة الكهف ليست مجرد سورة تُتلى يوم الجمعة طلبًا للبركة، بل هي بناء متكامل لأركان الحضارة الإنسانية: المورد البشري، المال الرشيد، العلم المتجدد، والقيادة العادلة. قراءة جديدة في معجم الكهف وأنبياء الحضارة.',
