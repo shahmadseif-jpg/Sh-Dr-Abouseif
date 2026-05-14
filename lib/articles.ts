@@ -21,6 +21,30 @@ export interface ArticleMeta {
 
 export const articlesMeta: ArticleMeta[] = [
   {
+    slug: 'hudhud-and-sayl',
+    category: 'civilization',
+    isoDate: '2026-05-18',
+    date: { ar: '١٨ مايو ٢٠٢٦', en: 'May 18, 2026' },
+    readingMinutes: 15,
+    series: {
+      ar: 'القرآن والحضارة',
+      en: 'The Qur\'an and Civilization',
+    },
+    episode: 3,
+    title: {
+      ar: 'جَناحُ الهُدهُد وَسَيلُ العَرِم — سُنَّةُ الصُّعود والسُّقوط في القُرآن',
+      en: "The Hoopoe's Wing and the Flood of al-ʿArim — The Law of Rise and Fall in the Qur'an",
+    },
+    subtitle: {
+      ar: 'الحلقة الثالثة — جدلية سورتي النَّمل وسَبَأ بين تَمَدُّد الحَضارة وانكفائها',
+      en: "Episode Three — A Dialectical Reading of Sūrat al-Naml and Sūrat Sabaʾ between Expansion and Withdrawal",
+    },
+    excerpt: {
+      ar: 'في الأَرض ذاتِها مِن جَزيرَة العَرَب نَهَضَت حَضارَتان: حَضارَة سُليمان تَتَمَدَّد وَتَستَكشِف، وَحَضارَة سَبَأ تَنكَفِئ ثُمَّ تَتَفَرَّق. الحَلقَة الثَّالِثَة مِن سِلسلة «القُرآن والحَضارَة» تَستَخرِج مِن سورَتَي النَّمل وسَبَأ ثَلاثَة أَركان تَنظيميَّة (تَوزيع الأَدوار، الاستِكشاف، نَقل التِّقنيَة)، وَتَطرَح جَدَليَّة المَسجِد السُّليماني مُقابِل المَسجِد السَّبَئي في الغَرب اليَوم.',
+      en: "In the same Arabian land, two civilizations arose: Sulaymān's expanding and exploring, and Sabaʾ's withdrawing and scattering. Episode Three of the 'Qur'an and Civilization' series extracts from Sūrat al-Naml and Sūrat Sabaʾ three organizational pillars (distribution of roles, exploration, technology transfer), and presents the dialectic of the Sulaymanic vs. the Sabaʾi mosque in the West today.",
+    },
+  },
+  {
     slug: 'yusuf-diaspora-civilization',
     category: 'civilization',
     isoDate: '2026-05-17',
@@ -190,3 +214,4 @@ export const categoryLabels = {
     fiqh: 'Jurisprudence',
   },
 };
+
