@@ -11,6 +11,7 @@
     "lectures": "Lectures",
     "articles": "Articles",
     "events": "Events",
+    "gallery": "Moments",
     "consultations": "Consultations",
     "contact": "Contact",
     "language": "العربية"
@@ -80,6 +81,19 @@
     "subtitle": "For inquiries, lecture requests, or consultations",
     "email": "Email",
     "social": "Follow us on"
+  },
+  "gallery": {
+    "title": "Moments in Da'wah",
+    "subtitle": "Glimpses from a journey of teaching, leadership, and institutional service",
+    "all": "All",
+    "categories": {
+      "lectures": "Lectures & Classes",
+      "events": "Events & Conferences",
+      "academy": "Imams Academy",
+      "community": "Community Activities",
+      "media": "Media Appearances"
+    },
+    "empty": "No images have been added yet. Stay tuned."
   },
   "footer": {
     "rights": "All rights reserved",

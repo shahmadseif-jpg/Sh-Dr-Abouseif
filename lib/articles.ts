@@ -21,6 +21,30 @@ export interface ArticleMeta {
 
 export const articlesMeta: ArticleMeta[] = [
   {
+    slug: 'isra-and-the-civic-state',
+    category: 'civilization',
+    isoDate: '2026-05-20',
+    date: { ar: '٢٠ مايو ٢٠٢٦', en: 'May 20, 2026' },
+    readingMinutes: 16,
+    series: {
+      ar: 'القرآن والحضارة',
+      en: 'The Qur\'an and Civilization',
+    },
+    episode: 5,
+    title: {
+      ar: 'الإِسراءُ قَبل المِعراج — السُّورَةُ الدُّستوريَّةُ وَنَموذَجُ الدَّولَةِ المَدَنيَّة',
+      en: 'The Isrāʾ Before the Miʿrāj — The Constitutional Sūra and the Civic State Model',
+    },
+    subtitle: {
+      ar: 'الحلقة الخامسة — حَركَةٌ أُفُقيَّةٌ، وَمَوادُّ تَأسيسيَّةٌ، وَتَحَدِّياتٌ مَفصَليَّة',
+      en: 'Episode Five — A Horizontal Movement, Foundational Articles, and Pivotal Challenges',
+    },
+    excerpt: {
+      ar: 'لِماذا سَمَّى القُرآنُ السُّورَةَ بِاسم الحَركَة الأُفُقيَّة (الإِسراء) دون الحَركَة العَموديَّة (المِعراج)؟ لِأَنَّ الحَقَّ يُسَمِّي بِما يَستَطيعُ النَّاسُ أَن يَفعَلوه. الحَلَقَة الخامِسَة مِن سِلسلة «القُرآن والحَضارَة» تَستَخرِج مِن سورَة الإِسراء — وَهي في وَسَط المُصحَف — مَوادَّ دُستوريَّة لِلدَّولَة المَدَنيَّة، وَثَلاثَة نَماذِجَ لِلحَركَة الحَضاريَّة (البُراق، السَّفينَة، العَصا)، وَتُشَخِّص ضَغطَي المُداهَنَة وَالإِخراج، وَتَكشِف مَنطِق التَّعجيز عِندَ المُجتَمَع المُهَيمِن.',
+      en: "Why did the Qur'an name the sūra after the horizontal movement (Isrāʾ) rather than the vertical movement (Miʿrāj)? Because the Truth names with what humans can imitate. Episode Five of the 'Qur'an and Civilization' series extracts from Sūrat al-Isrāʾ — at the center of the muṣḥaf — the constitutional articles of the civic state, three models of civilizational movement (the Burāq, the Ark, the Staff), and diagnoses the pressures of compromise and expulsion, exposing the logic of impossible-demands in dominant societies.",
+    },
+  },
+  {
     slug: 'sunan-of-civilization',
     category: 'civilization',
     isoDate: '2026-05-19',
@@ -238,4 +262,3 @@ export const categoryLabels = {
     fiqh: 'Jurisprudence',
   },
 };
-

@@ -16,6 +16,7 @@ export default function Header() {
     { href: '/lectures', label: t('lectures') },
     { href: '/articles', label: t('articles') },
     { href: '/events', label: t('events') },
+    { href: '/gallery', label: t('gallery') },
     { href: '/consultations', label: t('consultations'), highlight: true },
     { href: '/contact', label: t('contact') },
   ];
