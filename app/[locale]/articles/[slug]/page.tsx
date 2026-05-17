@@ -258,12 +258,19 @@ function renderMarkdown(md: string, locale: 'ar' | 'en'): ReactNode {
       continue;
     }
 
-    // Blockquote
+    // Blockquote — preserve line breaks within the quote (one <br> per
+    // markdown line) so poetry and multi-line citations render correctly.
     if (para.startsWith('> ')) {
-      const text = para.split('\n').map((l) => l.replace(/^>\s?/, '')).join(' ');
+      const quoteLines = para
+        .split('\n')
+        .map((l) => l.replace(/^>\s?/, ''));
       blocks.push(
         <blockquote key={`q-${i}`} className="border-r-4 border-gold-400 ps-5 pe-5 py-3 my-6 bg-gold-50 text-navy-700 text-lg leading-loose italic">
-          {processInline(text, locale)}
+          {quoteLines.map((line, idx) => (
+            <span key={idx} className="block">
+              {processInline(line, locale)}
+            </span>
+          ))}
         </blockquote>
       );
       continue;
@@ -334,8 +341,16 @@ function renderMarkdown(md: string, locale: 'ar' | 'en'): ReactNode {
 
 function processInline(text: string, locale: 'ar' | 'en'): ReactNode {
   // Process inline: **bold**, *italic*, [^N] footnote refs, line breaks within paragraphs
-  // Replace inline newlines (single \n within a paragraph) with spaces
-  let working = text.replace(/\n/g, ' ').replace(/\s+/g, ' ');
+  // 1) Decode common HTML entities that authors may use for fine-grained
+  //    spacing in poetry/quotations.
+  // 2) Replace inline newlines with spaces.
+  // 3) Collapse runs of regular whitespace ONLY — never touch non-breaking
+  //    spaces ( ), which are intentional spacing marks.
+  let working = text
+    .replace(/&nbsp;/g, ' ')
+    .replace(/&amp;/g, '&')
+    .replace(/\n/g, ' ')
+    .replace(/[ \t]+/g, ' ');
 
   const out: ReactNode[] = [];
   let keyCounter = 0;
