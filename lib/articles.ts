@@ -25,6 +25,35 @@ export interface ArticleMeta {
 
 export const articlesMeta: ArticleMeta[] = [
   {
+    slug: 'best-nation-best-religion',
+    category: 'wisdom-insights',
+    isoDate: '2026-05-17',
+    date: { ar: '١٧ مايو ٢٠٢٦', en: 'May 17, 2026' },
+    readingMinutes: 14,
+    series: {
+      ar: 'حِكَمٌ وبصائر',
+      en: 'Wisdoms & Insights',
+    },
+    episode: 3,
+    title: {
+      ar: 'خَيرُ أُمَّةٍ لخَيرِ دِين',
+      en: 'The Best Nation for the Best Religion',
+    },
+    subtitle: {
+      ar: 'قراءةٌ في الميزان القرآنيِّ لـ«خَيريَّة» الأُمَّة، ومَوقعنا منها اليومَ',
+      en: 'A Reading in the Qur\'anic Scale of the "Bestness" of the Ummah, and Where We Stand Today',
+    },
+    excerpt: {
+      ar: 'يَتلو المسلمون قولَه تعالى: ﴿كُنْتُمْ خَيْرَ أُمَّةٍ أُخْرِجَتْ لِلنَّاسِ﴾ كأنَّها وَسامُ انتماءٍ مَجَّاني. لكنَّ الآيةَ شَرطٌ لا وَصفٌ مَجَّاني، وفيها ثلاثُ مَشروطات. هذه الحلقة الثالثة من «حكم وبصائر» تَفكِّك معنى «الخَيريَّة» في الميزان الإسلاميِّ، وتَكشف عن مَوقع المسلمين في الغرب من هذا الميزان، وتُشخِّص ثلاثَ آفاتٍ تَفصم الأمَّةَ عن خَيريَّتها، وتَرسم أَربعَ طُرقٍ عمليَّةٍ للعودة إلى مَعنى «أُخرجَتْ للنَّاس» في زَماننا.',
+      en: 'Muslims recite the verse "You were the best nation produced for mankind" as if it were a gratuitous certificate of belonging. But the verse states a condition, not a free description — it lists three requirements. This third episode of "Wisdoms & Insights" unpacks the meaning of "bestness" in the Islamic scale, reveals where Muslims of the West stand in relation to this measure, diagnoses three afflictions that tear the community from its bestness, and charts four practical paths to recovering the meaning of "produced for mankind" in our time.',
+    },
+    coverImage: '/articles/best-nation-best-religion/charlotte-flyer.jpg',
+    coverCaption: {
+      ar: 'هذا المقال خُلاصةُ خُطبة الجمعة التي أُلقيتْ في «مسجد التَّوبة» — مَركز شارلوت الإسلاميِّ (ICC) بولاية كارولينا الشَّماليَّة (الولايات المتَّحدة الأمريكيَّة)، يوم الجمعة 16 أغسطس 2024م، ضِمن زيارة د. أحمد أبو سيف لرعاية أبناء الجالية المسلمة.',
+      en: 'This article is a written distillation of the Friday sermon delivered at Masjid al-Tawbah — the Islamic Center of Charlotte (ICC) in North Carolina (USA) on Friday, August 16, 2024, during Dr. Ahmed Abouseif\'s visit to support the Muslim community.',
+    },
+  },
+  {
     slug: 'servitude-deed-and-word',
     category: 'wisdom-insights',
     isoDate: '2026-05-17',
