@@ -158,15 +158,31 @@ export default async function ArticlePage({
    ============================================================ */
 
 function stripDuplicateHeaderFromMarkdown(md: string): string {
-  // Remove the first H1 (#), the first H2 (##), and any subseries H3 (###) line that appears
-  // before the first horizontal rule (---). We render these from meta.
   const lines = md.split('\n');
+  let i = 0;
+
+  // 1) Strip YAML frontmatter at the top: everything between an opening
+  //    `---` line and the matching closing `---` line. We render the
+  //    metadata (title, date, series, …) from articlesMeta, so the
+  //    frontmatter must never appear in the body.
+  if (lines[0]?.trim() === '---') {
+    i = 1;
+    while (i < lines.length && lines[i].trim() !== '---') i++;
+    if (i < lines.length) i++; // skip the closing ---
+    while (i < lines.length && lines[i].trim() === '') i++; // skip blank lines after
+    return lines.slice(i).join('\n').trim();
+  }
+
+  // 2) Legacy fallback (no frontmatter): strip the first H1/H2/H3 lines
+  //    that appear before the first horizontal rule (---), where the
+  //    title used to be duplicated at the top of the markdown body.
   const out: string[] = [];
   let strippedHeader = false;
   let seenHr = false;
-  for (const line of lines) {
+  for (; i < lines.length; i++) {
+    const line = lines[i];
     if (!seenHr && !strippedHeader) {
-      if (line.match(/^#\s/) || line.match(/^##\s/) || line.match(/^###\s/) || line.trim() === '') {
+      if (/^#{1,3}\s/.test(line) || line.trim() === '') {
         continue;
       }
       if (line.trim() === '---') {
