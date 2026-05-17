@@ -3,7 +3,7 @@
  * For file content loading (uses fs), see lib/articles-server.ts
  */
 
-export type ArticleCategory = 'imamship' | 'civilization' | 'family' | 'fiqh';
+export type ArticleCategory = 'imamship' | 'civilization' | 'family' | 'fiqh' | 'wisdom-insights';
 
 export interface ArticleMeta {
   slug: string;
@@ -16,10 +16,67 @@ export interface ArticleMeta {
   title: { ar: string; en: string };
   subtitle?: { ar: string; en: string };
   excerpt: { ar: string; en: string };
+  /** Optional cover image (path under /public, e.g. "/articles/slug/cover.jpg") */
+  coverImage?: string;
+  /** Optional caption displayed under the cover image */
+  coverCaption?: { ar: string; en: string };
   draft?: boolean;
 }
 
 export const articlesMeta: ArticleMeta[] = [
+  {
+    slug: 'wisdom-lost-property',
+    category: 'wisdom-insights',
+    isoDate: '2026-05-17',
+    date: { ar: '١٧ مايو ٢٠٢٦', en: 'May 17, 2026' },
+    readingMinutes: 14,
+    series: {
+      ar: 'حِكَمٌ وبصائر',
+      en: 'Wisdoms & Insights',
+    },
+    episode: 1,
+    title: {
+      ar: 'الحِكمةُ ضالَّةُ المؤمنِ',
+      en: 'Wisdom is the Lost Property of the Believer',
+    },
+    subtitle: {
+      ar: 'قراءةٌ تأصيليَّةٌ في معنًى مأثور، وفي معضلةٍ حضاريَّةٍ معاصرة',
+      en: 'A Foundational Reading of a Cherished Maxim and a Contemporary Civilizational Dilemma',
+    },
+    excerpt: {
+      ar: 'اشتُهر على الألسنة قولٌ مأثورٌ: «الحكمةُ ضالَّةُ المؤمن، أنَّى وَجَدها فهو أحقُّ بها». تُحرِّر هذه القراءةُ التأصيليَّةُ مَنزلةَ هذا المعنى علميًّا، وتَفتح بمقتضاه معادلةً حضاريَّةً عميقة يَعيشها المسلمُ المعاصر، وبخاصَّةٍ في الغرب: كيف يَنفتح على ميراث الإنسانيَّة دون أن يَذوب فيه؟ وكيف يأخذ من غيره دون أن يَفقد ذاتَه؟ مع تَخريجٍ دقيقٍ لكلِّ حديثٍ وأثرٍ، وثلاثة نماذجَ من واقعنا في أمريكا، وخاتمةٌ حضاريَّةٌ تَكشف أنَّ أزمةَ العالم اليومَ ليست أزمةَ معلومات، بل أزمةُ حكمة.',
+      en: 'A cherished maxim circulates: "Wisdom is the lost property of the believer; wherever he finds it, he is most worthy of it." This foundational reading clarifies the scholarly status of this meaning and opens, on its basis, a deep civilizational equation that the contemporary Muslim — especially in the West — must navigate: How do we open to humanity\'s heritage without dissolving into it? How do we receive from others without losing ourselves? With careful authentication of every prophetic tradition and saying cited, three vivid examples from our American reality, and a civilizational conclusion: the crisis of today\'s world is not a crisis of information, but a crisis of wisdom.',
+    },
+    coverImage: '/articles/wisdom-lost-property/tmc-flyer.png',
+    coverCaption: {
+      ar: 'هذا المقال خُلاصةُ محاضرة المساء التي أُلقيتْ في مسجد TMC بمدينة تامبا، ولاية فلوريدا (الولايات المتَّحدة الأمريكيَّة)، يوم الجمعة 10 أكتوبر 2025م، ضمن زيارة د. أحمد أبو سيف لرعاية أبناء الجالية المسلمة.',
+      en: 'This article is a written distillation of the evening lecture delivered at TMC Masjid in Tampa, Florida (USA) on Friday, October 10, 2025, during Dr. Ahmed Abouseif\'s visit to support the Muslim community.',
+    },
+  },
+  {
+    slug: 'philosophy-of-displacement',
+    category: 'civilization',
+    isoDate: '2026-05-23',
+    date: { ar: '٢٣ مايو ٢٠٢٦', en: 'May 23, 2026' },
+    readingMinutes: 16,
+    series: {
+      ar: 'القرآن والحضارة',
+      en: 'The Qur\'an and Civilization',
+    },
+    episode: 6,
+    title: {
+      ar: 'الإِخراجُ في القُرآن — قَوانينُ النَّمَطِ الثَّابِتِ في فَلسَفَةِ التَّهجير',
+      en: "Displacement in the Qur'an — The Laws of the Recurring Pattern in the Philosophy of Forced Migration",
+    },
+    subtitle: {
+      ar: 'الحلقة السادسة — قِراءَةٌ بِنيَويَّةٌ في خَمسَةِ نَماذِجَ قُرآنيَّةٍ تَكشِفُ ثَوابتَ السُّلطَةِ المُتَجَبِّرَةِ وَفِقهَ النَّجاةِ مِنها',
+      en: 'Episode Six — A Structural Reading of Five Qur\'anic Models Revealing the Constants of Tyrannical Power and the Jurisprudence of Deliverance',
+    },
+    excerpt: {
+      ar: 'مِن أَهَمِّ اللَّقَطاتِ الحَضاريَّةِ الَّتي يَستَوقِفُنا فيها القُرآنُ الكَريم، لَقطَةُ التَّهجيرِ القَسريِّ لِلمُصلِحين. هذه الحَلَقَة السَّادِسَة مِن سِلسلَة «القُرآن والحَضارَة» تَستَخرِج مِن خَمسَةِ نَماذِجَ قُرآنيَّة (شُعَيب، لُوط، مُحَمَّد ﷺ، فِرعَون، الإسراء) سَبعَ قَوانينَ ثابِتَة في فَلسَفَة الإِخراج، وَتُشَخِّص البُنيَة النَّفسيَّة لِلسُّلطَة المُتَجَبِّرَة، وَمُؤَشِّرات انفِلاتِ قَبضَتِها، وَثَلاثَ قَوانينَ لِلنَّجاة. تَأصيلٌ يَنقُل المُسلِم في الغُربَة مِن مَوقِع التَّفاعُل العاطِفي إلى مَوقِع التَّأَمُّل الفِقهي.',
+      en: 'Among the most significant civilizational scenes at which the Qur\'an pauses us is the scene of the forced displacement of reformers. This sixth episode of the "Qur\'an and Civilization" series extracts from five Qur\'anic models (Shu\'ayb, Lot, Muhammad ﷺ, Pharaoh, al-Isrāʾ) seven fixed laws in the philosophy of expulsion, diagnoses the psychological architecture of tyrannical power, the signs of its grip slipping, and three laws of deliverance. A foundational reading that moves the Muslim in exile from the position of emotional reaction to the position of jurisprudential reflection.',
+    },
+  },
   {
     slug: 'isra-and-the-civic-state',
     category: 'civilization',
@@ -254,11 +311,13 @@ export const categoryLabels = {
     civilization: 'القرآن والحضارة',
     family: 'الأسرة والتربية',
     fiqh: 'فقه وفكر',
+    'wisdom-insights': 'حِكَمٌ وبصائر',
   },
   en: {
     imamship: 'Imamship & Leadership',
     civilization: "Qur'an & Civilization",
     family: 'Family & Parenting',
     fiqh: 'Jurisprudence',
+    'wisdom-insights': 'Wisdoms & Insights',
   },
 };
