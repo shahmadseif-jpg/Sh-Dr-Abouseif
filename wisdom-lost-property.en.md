@@ -9,7 +9,7 @@ episode: 1
 readingMinutes: 14
 ---
 
-## An Opening: A Cherished Maxim That Sums Up an Entire Philosophy
+### An Opening: A Cherished Maxim That Sums Up an Entire Philosophy
 
 A widely circulated maxim, received by the people with general acceptance, declares: *"Wisdom is the lost property of the believer; wherever he finds it, he is most worthy of it."* It has been transmitted as a marfūʿ ḥadīth from Abū Hurayra (may Allah be pleased with him), recorded by al-Tirmidhī and Ibn Mājah, **though its marfūʿ chain has been judged extremely weak by the majority of ḥadīth specialists, and it cannot be confidently attributed to the Prophet ﷺ**[^1]. The meaning, however, is sound and weighty, supported by the Qurʾān and the authentic Sunna, and lived out in practice by the Companions and their successors. Of a similar genre, transmitted only with reservation, is the saying: *"Wisdom is the lost property of the believer; seek it even among the hypocrites."* It has been attributed to ʿAlī (may Allah be pleased with him), but we have not found for it a firm chain of transmission[^2].
 
