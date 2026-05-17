@@ -25,6 +25,35 @@ export interface ArticleMeta {
 
 export const articlesMeta: ArticleMeta[] = [
   {
+    slug: 'servitude-deed-and-word',
+    category: 'wisdom-insights',
+    isoDate: '2026-05-17',
+    date: { ar: '١٧ مايو ٢٠٢٦', en: 'May 17, 2026' },
+    readingMinutes: 15,
+    series: {
+      ar: 'حِكَمٌ وبصائر',
+      en: 'Wisdoms & Insights',
+    },
+    episode: 2,
+    title: {
+      ar: 'عبوديَّتنا بين المقام والمقال',
+      en: 'Our Servitude — Between Deed and Word',
+    },
+    subtitle: {
+      ar: 'قراءةٌ تأمُّليَّةٌ في الفجوة بين ما نَقول وما نَكون',
+      en: 'A Reflective Reading on the Gap Between What We Say and What We Are',
+    },
+    excerpt: {
+      ar: 'كان البلاغيُّون يَزِنون الفصاحة بـ«لكلِّ مقامٍ مقال»؛ لكنَّ في الدِّين معضلةً أَعمق: أن يَجد لكلِّ مقالٍ يَنطق به مقامًا يُصدِّقه في صدره وحياته. هذه الحلقة الثانية من سلسلة «حكم وبصائر» تَستخرج من الميزان القرآنيِّ ﴿لِمَ تَقُولُونَ مَا لَا تَفْعَلُونَ﴾ ثلاثَ درجاتٍ للعبوديَّة، وثلاثَ نماذجَ من واقع جالياتنا في الغرب، وثلاثَ آفاتٍ تَفصم المقامَ عن المقال، وخَريطةً عمليَّةً من خَمس خُطُواتٍ لردم الفجوة بين ما نَقول وما نَكون.',
+      en: 'The classical rhetoricians measured eloquence by "For every situation, a fitting speech." But in religion there is a deeper question: that the believer find for every word he utters a station within him that confirms it. This second episode of the "Wisdoms & Insights" series extracts from the decisive Qur\'anic scale ("Why do you say what you do not do?") three degrees of servitude, three examples from our communities in the West, three afflictions that tear station from speech, and a practical five-step map for bridging the gap between what we say and what we are.',
+    },
+    coverImage: '/articles/servitude-deed-and-word/qassam-flyer.jpg',
+    coverCaption: {
+      ar: 'هذا المقال خُلاصةُ محاضرة المساء التي أُلقيتْ في «مسجد القَسَّام» — مَركز الجالية الإسلاميَّة في تامبا، ولاية فلوريدا (الولايات المتَّحدة الأمريكيَّة)، يوم السبت 11 أكتوبر 2025م، ضِمن زيارة د. أحمد أبو سيف لرعاية أبناء الجالية المسلمة.',
+      en: 'This article is a written distillation of the evening lecture delivered at Masjid al-Qassam — the Islamic Community of Tampa, Florida (USA) on Saturday, October 11, 2025, during Dr. Ahmed Abouseif\'s visit to support the Muslim community.',
+    },
+  },
+  {
     slug: 'wisdom-lost-property',
     category: 'wisdom-insights',
     isoDate: '2026-05-17',
