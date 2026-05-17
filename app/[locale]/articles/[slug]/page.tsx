@@ -1,6 +1,7 @@
 import { setRequestLocale, getTranslations } from 'next-intl/server';
 import { notFound } from 'next/navigation';
 import Link from 'next/link';
+import Image from 'next/image';
 import { getArticleMeta, getAllArticles, categoryLabels } from '@/lib/articles';
 import { getArticleBody } from '@/lib/articles-server';
 import { ReactNode } from 'react';
@@ -37,15 +38,20 @@ export default async function ArticlePage({
   const body = getArticleBody(slug, lang);
   if (!body) notFound();
 
+  // Strip the YAML-like top metadata (lines we already store in articlesMeta)
+  // The .md file currently has its own title/subtitle in the first 3 lines (# / ## / ###)
+  // We render those from `meta` for consistent styling, so trim them from body.
   const trimmedBody = stripDuplicateHeaderFromMarkdown(body);
 
   const t = await getTranslations({ locale, namespace: 'articles_page' });
 
+  // Get other articles for "more articles" section
   const otherArticles = getAllArticles().filter((a) => a.slug !== slug).slice(0, 3);
 
   return (
     <article className="py-12 sm:py-16">
       <div className="mx-auto max-w-3xl px-4 sm:px-6 lg:px-8">
+        {/* Back link */}
         <Link
           href={`/${locale}/articles`}
           className="inline-flex items-center gap-2 text-sm text-navy-500 hover:text-gold-500 transition-colors mb-8"
@@ -56,6 +62,7 @@ export default async function ArticlePage({
           {t('back_to_articles')}
         </Link>
 
+        {/* Series badge */}
         {meta.series && (
           <div className="mb-4">
             <div className="text-xs uppercase tracking-[0.2em] text-gold-500 mb-1">
@@ -65,10 +72,12 @@ export default async function ArticlePage({
           </div>
         )}
 
+        {/* Category */}
         <div className="text-xs uppercase tracking-wider text-gold-500 mb-3">
           {categoryLabels[lang][meta.category]}
         </div>
 
+        {/* Title + subtitle */}
         <h1 className="text-3xl sm:text-4xl lg:text-5xl font-medium text-navy-700 leading-tight mb-3">
           {meta.title[lang]}
         </h1>
@@ -78,6 +87,7 @@ export default async function ArticlePage({
           </p>
         )}
 
+        {/* Metadata row */}
         <div className="flex flex-wrap items-center gap-3 text-xs text-navy-500 pb-6 mb-10 border-b border-navy-100">
           <span>{locale === 'ar' ? 'د. أحمد أبو سيف' : 'Dr. Ahmed Abouseif'}</span>
           <span className="text-gold-300">•</span>
@@ -86,10 +96,33 @@ export default async function ArticlePage({
           <span>{meta.readingMinutes} {locale === 'ar' ? 'دقائق قراءة' : 'min read'}</span>
         </div>
 
+        {/* Cover image (optional) */}
+        {meta.coverImage && (
+          <figure className="mb-12">
+            <div className="relative w-full overflow-hidden rounded-lg shadow-md bg-navy-50">
+              <Image
+                src={meta.coverImage}
+                alt={meta.title[lang]}
+                width={1600}
+                height={1000}
+                className="w-full h-auto object-cover"
+                priority
+              />
+            </div>
+            {meta.coverCaption && (
+              <figcaption className={`mt-4 text-sm text-navy-500 italic leading-relaxed text-center px-2 ${locale === 'ar' ? 'article-rtl' : 'article-ltr'}`}>
+                {meta.coverCaption[lang]}
+              </figcaption>
+            )}
+          </figure>
+        )}
+
+        {/* Article body */}
         <div className={`article-prose ${locale === 'ar' ? 'article-rtl' : 'article-ltr'}`}>
           {renderMarkdown(trimmedBody, locale as 'ar' | 'en')}
         </div>
 
+        {/* More articles section */}
         {otherArticles.length > 0 && (
           <div className="mt-20 pt-10 border-t border-navy-100">
             <h2 className="text-xl font-medium text-navy-700 mb-6">
@@ -118,7 +151,15 @@ export default async function ArticlePage({
   );
 }
 
+/* ============================================================
+   Markdown rendering — minimal custom parser
+   Handles: ## h2, ### h3, **bold**, > quote, - list, 1. list,
+   [^N] footnote refs, --- hr, *italic*, _italic_
+   ============================================================ */
+
 function stripDuplicateHeaderFromMarkdown(md: string): string {
+  // Remove the first H1 (#), the first H2 (##), and any subseries H3 (###) line that appears
+  // before the first horizontal rule (---). We render these from meta.
   const lines = md.split('\n');
   const out: string[] = [];
   let strippedHeader = false;
@@ -143,7 +184,9 @@ function stripDuplicateHeaderFromMarkdown(md: string): string {
 function renderMarkdown(md: string, locale: 'ar' | 'en'): ReactNode {
   const blocks: ReactNode[] = [];
   const paragraphs = md.split(/\n\n+/);
+  let footnoteIndex = 0;
 
+  // Find footnote definitions ([^N]: content)
   const footnoteDefs: { ref: string; content: string }[] = [];
   const filteredParagraphs: string[] = [];
   for (const p of paragraphs) {
@@ -160,11 +203,13 @@ function renderMarkdown(md: string, locale: 'ar' | 'en'): ReactNode {
     const para = filteredParagraphs[i].trim();
     if (!para) continue;
 
+    // Horizontal rule
     if (para === '---') {
       blocks.push(<hr key={`hr-${i}`} className="border-t border-gold-200 my-10" />);
       continue;
     }
 
+    // H2 (### Heading on its own line)
     if (para.startsWith('### ')) {
       const text = para.slice(4).trim();
       blocks.push(
@@ -175,6 +220,7 @@ function renderMarkdown(md: string, locale: 'ar' | 'en'): ReactNode {
       continue;
     }
 
+    // H4 (#### Heading)
     if (para.startsWith('#### ')) {
       const text = para.slice(5).trim();
       blocks.push(
@@ -185,6 +231,7 @@ function renderMarkdown(md: string, locale: 'ar' | 'en'): ReactNode {
       continue;
     }
 
+    // Author italic signature (lines starting with single *)
     if (para.startsWith('*') && para.endsWith('*') && !para.startsWith('**')) {
       const text = para.replace(/^\*+|\*+$/g, '').trim();
       blocks.push(
@@ -195,6 +242,7 @@ function renderMarkdown(md: string, locale: 'ar' | 'en'): ReactNode {
       continue;
     }
 
+    // Blockquote
     if (para.startsWith('> ')) {
       const text = para.split('\n').map((l) => l.replace(/^>\s?/, '')).join(' ');
       blocks.push(
@@ -205,6 +253,7 @@ function renderMarkdown(md: string, locale: 'ar' | 'en'): ReactNode {
       continue;
     }
 
+    // List (unordered with - or *)
     if (/^[\-*]\s/.test(para)) {
       const items = para.split('\n').filter((l) => /^[\-*]\s/.test(l)).map((l) => l.replace(/^[\-*]\s+/, ''));
       blocks.push(
@@ -220,6 +269,7 @@ function renderMarkdown(md: string, locale: 'ar' | 'en'): ReactNode {
       continue;
     }
 
+    // Numbered list
     if (/^\d+\.\s/.test(para)) {
       const items = para.split('\n').filter((l) => /^\d+\.\s/.test(l)).map((l) => l.replace(/^\d+\.\s+/, ''));
       blocks.push(
@@ -234,6 +284,7 @@ function renderMarkdown(md: string, locale: 'ar' | 'en'): ReactNode {
       continue;
     }
 
+    // Regular paragraph
     blocks.push(
       <p key={`p-${i}`} className="text-base sm:text-lg text-navy-700 leading-loose my-5">
         {processInline(para, locale)}
@@ -241,6 +292,7 @@ function renderMarkdown(md: string, locale: 'ar' | 'en'): ReactNode {
     );
   }
 
+  // Footnotes section
   if (footnoteDefs.length > 0) {
     blocks.push(
       <div key="footnotes" className="mt-16 pt-8 border-t border-navy-100">
@@ -248,7 +300,7 @@ function renderMarkdown(md: string, locale: 'ar' | 'en'): ReactNode {
           {locale === 'ar' ? 'الهوامش' : 'Notes'}
         </h3>
         <ol className="space-y-3 text-sm text-navy-600 leading-relaxed list-decimal list-inside">
-          {footnoteDefs.map((fn) => (
+          {footnoteDefs.map((fn, idx) => (
             <li key={fn.ref} id={`fn-${fn.ref}`} className="ps-2">
               <span>{processInline(fn.content, locale)}</span>
               <a href={`#fnref-${fn.ref}`} className="text-gold-500 hover:text-gold-700 ms-2 text-xs no-underline">
@@ -265,21 +317,27 @@ function renderMarkdown(md: string, locale: 'ar' | 'en'): ReactNode {
 }
 
 function processInline(text: string, locale: 'ar' | 'en'): ReactNode {
+  // Process inline: **bold**, *italic*, [^N] footnote refs, line breaks within paragraphs
+  // Replace inline newlines (single \n within a paragraph) with spaces
   let working = text.replace(/\n/g, ' ').replace(/\s+/g, ' ');
 
   const out: ReactNode[] = [];
   let keyCounter = 0;
+  let remaining = working;
 
-  const tokenRegex = /(\*\*[^*]+\*\*)|(\[\^(\w+)\])/g;
+  // Regex to match: **bold**, [^N] footnote ref
+  const tokenRegex = /(\*\*[^*]+\*\*)|(\[\^(\w+)\])|(\([^)]*?٢٠[0-9]+م?\))/g;
 
   let lastIndex = 0;
   let match: RegExpExecArray | null;
   while ((match = tokenRegex.exec(working)) !== null) {
+    // Push text before the match
     if (match.index > lastIndex) {
       out.push(working.slice(lastIndex, match.index));
     }
 
     if (match[1]) {
+      // **bold**
       const inner = match[1].slice(2, -2);
       out.push(
         <strong key={`b-${keyCounter++}`} className="font-semibold text-navy-800">
@@ -287,6 +345,7 @@ function processInline(text: string, locale: 'ar' | 'en'): ReactNode {
         </strong>
       );
     } else if (match[2]) {
+      // [^N] footnote ref
       const ref = match[3];
       out.push(
         <sup key={`fn-${keyCounter++}`} id={`fnref-${ref}`} className="mx-0.5">
@@ -298,11 +357,15 @@ function processInline(text: string, locale: 'ar' | 'en'): ReactNode {
           </a>
         </sup>
       );
+    } else if (match[4]) {
+      // parenthesized year - just keep as text
+      out.push(match[4]);
     }
 
     lastIndex = match.index + match[0].length;
   }
 
+  // Push remaining text after last match
   if (lastIndex < working.length) {
     out.push(working.slice(lastIndex));
   }
