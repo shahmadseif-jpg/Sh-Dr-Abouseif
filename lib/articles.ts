@@ -152,8 +152,8 @@ export const articlesMeta: ArticleMeta[] = [
     },
     episode: 6,
     title: {
-      ar: 'الإِخراجُ في القُرآن — قَوانينُ النَّمَطِ الثَّابِتِ في فَلسَفَةِ التَّهجير',
-      en: "Displacement in the Qur'an — The Laws of the Recurring Pattern in the Philosophy of Forced Migration",
+      ar: 'فلسفة التهجير في القرآن الكريم',
+      en: "The Philosophy of Displacement in the Noble Qur'an",
     },
     subtitle: {
       ar: 'الحلقة السادسة — قِراءَةٌ بِنيَويَّةٌ في خَمسَةِ نَماذِجَ قُرآنيَّةٍ تَكشِفُ ثَوابتَ السُّلطَةِ المُتَجَبِّرَةِ وَفِقهَ النَّجاةِ مِنها',
