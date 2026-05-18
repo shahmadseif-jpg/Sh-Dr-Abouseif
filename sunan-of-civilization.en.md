@@ -9,7 +9,7 @@ episode: 4
 readingMinutes: 16
 ---
 
-## Prelude: The Traveler's Pause Between Three Cities
+### Prelude: The Traveler's Pause Between Three Cities
 
 Three Qur'anic chapters we have walked through as one walks through three cities. The city of *al-Kahf*, where the very stone and dog and youths spoke to us of civilization's foundational pillars. Then the city of *Yūsuf*, where we followed a single man rising from the depths of a well to the throne of a kingdom — and a nation rose with him. Then the city of *Sulaymān and Sabaʾ*, where we beheld an organized community wielding its dominion, and watched how it unravels — when the dykes are neglected — in a sudden, devouring flood.
 
@@ -21,7 +21,7 @@ We do not claim to be closing the series, for the Qur'an is a sea that ten episo
 
 ---
 
-## In This Episode — Five Ideas
+### In This Episode — Five Ideas
 
 > 1. **The *sunan* are not events that happen, but laws that run their course**: they apply to the believer as they apply to the disbeliever, reaching the one settled in the East as they reach the migrant in the West — *"And you will never find any change in the way of Allah."*
 >
@@ -35,9 +35,9 @@ We do not claim to be closing the series, for the Qur'an is a sea that ten episo
 
 ---
 
-## First: The Six Sunan — A Reading in the Book of Decree
+### First: The Six Sunan — A Reading in the Book of Decree
 
-### The First: Stewardship — The Key to Empowerment
+#### The First: Stewardship — The Key to Empowerment
 
 *"Allah has promised those who have believed among you and done righteous deeds that He will surely grant them stewardship upon the earth just as He granted it to those before them, and that He will surely establish for them their religion which He has preferred for them, and that He will surely substitute for them, after their fear, security."* (al-Nūr 24:55)
 
@@ -49,7 +49,7 @@ Contemplate the verse's structure, for it is a covenant struck between heaven an
 
 ---
 
-### The Second: Self-Change — The Door Opens From Within
+#### The Second: Self-Change — The Door Opens From Within
 
 *"Indeed Allah will not change the condition of a people until they change what is within themselves."* (al-Raʿd 13:11)
 
@@ -63,7 +63,7 @@ Note also the precision of the phrase: *"what is within themselves"* — not "th
 
 ---
 
-### The Third: Trial — No Empowerment Without Examination
+#### The Third: Trial — No Empowerment Without Examination
 
 *"And We will surely test you with something of fear and hunger, and a loss of wealth and lives and fruits — and give good tidings to the patient."* (al-Baqara 2:155)
 
@@ -75,7 +75,7 @@ Contemplate the precision of the suppressed oath: *"We will surely test you"* �
 
 ---
 
-### The Fourth: Rotation — History Is Turning Tides, Not a Sealed Fate
+#### The Fourth: Rotation — History Is Turning Tides, Not a Sealed Fate
 
 *"And those days We alternate among the people."* (Āl ʿImrān 3:140)
 
@@ -89,7 +89,7 @@ History, from the moment Adam was created, has confirmed this *sunna*: a civiliz
 
 ---
 
-### The Fifth: Resistance — Without It, the Earth Would Spoil
+#### The Fifth: Resistance — Without It, the Earth Would Spoil
 
 *"And had it not been for Allah's repelling of people by means of others, the earth would surely have been corrupted."* (al-Baqara 2:251)
 
@@ -106,7 +106,7 @@ Resistance is a moral, social, and political *sunna* in one breath:
 
 ---
 
-### The Sixth: Reforming the Earth — No Salvation Without Reformers
+#### The Sixth: Reforming the Earth — No Salvation Without Reformers
 
 *"So why were there not, among the generations before you, people of knowledge and reflection forbidding corruption in the earth, except a few from among those We saved from them?"* (Hūd 11:116)
 
@@ -122,7 +122,7 @@ The presence of the righteous suffices for the individual's salvation in the Her
 
 ---
 
-## Second: How Do the Sunan Interweave?
+### Second: How Do the Sunan Interweave?
 
 The six *sunan* do not work in isolation; they interlace like strings on a single ʿūd — disturb one, and the music falters. Examine the table and you will see:
 
@@ -141,7 +141,7 @@ Do you see how the threads weave together? The believer performs the good deeds,
 
 ---
 
-## Third: The Sunan Govern Everyone — No Exemption By Faith
+### Third: The Sunan Govern Everyone — No Exemption By Faith
 
 Among the most dangerous illusions in the modern Muslim's mind is the supposition that faith abolishes the law. As though he says: *"I am a believer, so the *sunan* do not apply to me."* And this is **against the Qur'an's own logic**. Look at the noble verse: *"You will never find any change in the way of Allah, and you will never find any altering of the way of Allah"* (al-Fāṭir 35:43). A negation upon a negation. Two heavy *nūn*s within *"you will never find."* The *sunna* is not exchanged for anything, nor diverted from its course — not by faith, not by lineage, not by belonging.
 
@@ -153,7 +153,7 @@ The *sunan* confirm what we learned in the three earlier episodes: civilization 
 
 ---
 
-## A Practical Step After This Episode
+### A Practical Step After This Episode
 
 A *sunna* without application is speech that vanishes; and application without ordered discipline is wind that scatters. So that this reading may benefit you, choose **one *sunna* from the six** and apply it to yourself in the week to come:
 
@@ -173,7 +173,7 @@ Write down your choice. Then set for it a bounded, measurable step within a week
 
 ---
 
-## This Episode's Place in the Series
+### This Episode's Place in the Series
 
 | Episode | Title | Status |
 |---------|-------|--------|
@@ -186,7 +186,7 @@ Write down your choice. Then set for it a bounded, measurable step within a week
 
 ---
 
-## References and Pointers
+### References and Pointers
 
 - Ibn Kathīr, *Tafsīr al-Qur'ān al-ʿAẓīm*, on the verses of the *sunan* cited above.
 - Ibn Khaldūn, *al-Muqaddima*, the opening chapters on the "natures of civilization" and the "phases of the state."
