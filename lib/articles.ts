@@ -25,6 +25,30 @@ export interface ArticleMeta {
 
 export const articlesMeta: ArticleMeta[] = [
   {
+    slug: 'children-of-imams-grace-and-trial',
+    category: 'imamship',
+    isoDate: '2026-05-19',
+    date: { ar: '١٩ مايو ٢٠٢٦', en: 'May 19, 2026' },
+    readingMinutes: 11,
+    series: {
+      ar: 'قَضايا الإمام',
+      en: 'Issues of the Imam',
+    },
+    episode: 1,
+    title: {
+      ar: 'أبناءُ الأئمة بين المِنحة والمِحنة',
+      en: 'Children of the Imams: Between Grace and Trial',
+    },
+    subtitle: {
+      ar: 'تأمّلاتٌ في بيتِ الإمام، ومَن نَشَؤوا فيه بين ما يَراه الناسُ وما يَعرفه الأهل',
+      en: "Reflections on the Imam's Household, and Those Raised in It Between What People See and What the Family Knows",
+    },
+    excerpt: {
+      ar: 'في بيت الإمام بيئتان: واحدة يراها الناس، وأخرى يعرفها أهله. وأبناؤه هم الجسر بين العالمين، يحملون — وهم بعدُ صغار — ما لا يحمله الكبار، ويعيشون مفارقة "السيّد الفقير" ومحنة الهويّة وإرث الأخطاء... ثمّ يخرجون من هذه المدرسة بثمار لا يقطفها سواهم.',
+      en: 'In the imam\'s house there are two worlds: one people see, and one only the family knows. His children are the bridge between two realms — carrying, while still small, what grown men do not, living the paradox of the "impoverished eminence," the trial of identity, and the inheritance of mistakes… yet emerging from this school with fruits no one else can pluck.',
+    },
+  },
+  {
     slug: 'steadfastness-texts-and-souls',
     category: 'wisdom-insights',
     isoDate: '2026-05-17',
