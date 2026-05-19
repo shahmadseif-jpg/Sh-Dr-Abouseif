@@ -47,6 +47,11 @@ export const articlesMeta: ArticleMeta[] = [
       ar: 'في بيت الإمام بيئتان: واحدة يراها الناس، وأخرى يعرفها أهله. وأبناؤه هم الجسر بين العالمين، يحملون — وهم بعدُ صغار — ما لا يحمله الكبار، ويعيشون مفارقة "السيّد الفقير" ومحنة الهويّة وإرث الأخطاء... ثمّ يخرجون من هذه المدرسة بثمار لا يقطفها سواهم.',
       en: 'In the imam\'s house there are two worlds: one people see, and one only the family knows. His children are the bridge between two realms — carrying, while still small, what grown men do not, living the paradox of the "impoverished eminence," the trial of identity, and the inheritance of mistakes… yet emerging from this school with fruits no one else can pluck.',
     },
+    coverImage: '/articles/children-of-imams-grace-and-trial/flyer-children-of-imams.jpg',
+    coverCaption: {
+      ar: 'الفلاير الرسمي لمقال «أبناءُ الأئمة بين المِنحة والمِحنة» — قَضايا الإمام، الحلقة الأولى.',
+      en: 'Official cover for the article "Children of the Imams: Between Grace and Trial" — Issues of the Imam, Episode 1.',
+    },
   },
   {
     slug: 'steadfastness-texts-and-souls',
