@@ -1,0 +1,333 @@
+<!DOCTYPE html>
+<html lang="ar" dir="rtl">
+<head>
+<meta charset="UTF-8">
+<title>أبناءُ الأئمة بين المِنحة والمِحنة</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Amiri:ital,wght@0,400;0,700;1,400;1,700&display=swap" rel="stylesheet">
+<style>
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  html, body {
+    width: 1200px;
+    height: 1500px;
+    overflow: hidden;
+    font-family: 'Amiri', serif;
+  }
+  body {
+    background:
+      radial-gradient(ellipse at 50% 38%, #1e4570 0%, #102d50 50%, #061222 100%);
+    color: #f4ead0;
+    position: relative;
+  }
+
+  /* Geometric Islamic pattern (subtle) */
+  .pattern-bg {
+    position: absolute; inset: 0;
+    opacity: 0.08;
+    background-image:
+      radial-gradient(circle at 0 0, rgba(212, 175, 55, 1) 1px, transparent 2px),
+      radial-gradient(circle at 80px 80px, rgba(212, 175, 55, 1) 1px, transparent 2px);
+    background-size: 160px 160px;
+    pointer-events: none;
+  }
+
+  /* Star ornament SVG (Islamic 8-point star, large, faint) */
+  .star-ornament {
+    position: absolute;
+    top: 50%; left: 50%;
+    transform: translate(-50%, -50%);
+    width: 1400px; height: 1400px;
+    opacity: 0.04;
+    pointer-events: none;
+  }
+
+  /* Inner ornate border */
+  .inner-border {
+    position: absolute;
+    inset: 30px;
+    border: 1px solid rgba(212, 175, 55, 0.35);
+    pointer-events: none;
+  }
+  .inner-border::before {
+    content: '';
+    position: absolute;
+    inset: 8px;
+    border: 1px solid rgba(212, 175, 55, 0.15);
+  }
+
+  /* Top: AIA badge centered */
+  .top-section {
+    position: absolute;
+    top: 70px; left: 0; right: 0;
+    text-align: center;
+  }
+  .aia-badge {
+    display: inline-flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 14px;
+  }
+  .aia-emblem {
+    width: 78px; height: 78px;
+    border: 2px solid #d4af37;
+    border-radius: 50%;
+    display: flex; align-items: center; justify-content: center;
+    position: relative;
+    background: linear-gradient(135deg, rgba(212,175,55,0.18), rgba(212,175,55,0.04));
+  }
+  .aia-emblem::before {
+    content: ''; position: absolute; inset: 7px;
+    border: 1px solid rgba(212, 175, 55, 0.55);
+    border-radius: 50%;
+  }
+  .aia-emblem-letter {
+    font-family: 'Amiri', serif;
+    font-weight: 700;
+    color: #d4af37;
+    font-size: 44px;
+    line-height: 1;
+    transform: translateY(-2px);
+  }
+  .aia-name-ar {
+    font-family: 'Amiri', serif;
+    font-weight: 700;
+    color: #f4ead0;
+    font-size: 22px;
+    letter-spacing: 1px;
+  }
+  .aia-name-en {
+    font-family: 'Amiri', serif;
+    color: #c8b27a;
+    font-size: 12px;
+    letter-spacing: 6px;
+    direction: ltr;
+    margin-top: 2px;
+  }
+
+  /* Doctor's photo - prominent, central */
+  .photo-section {
+    position: absolute;
+    top: 270px; left: 50%; transform: translateX(-50%);
+    text-align: center;
+  }
+  .photo-frame {
+    width: 280px; height: 280px;
+    border-radius: 50%;
+    padding: 8px;
+    background: linear-gradient(135deg, #d4af37, #8d7234 70%, #d4af37);
+    box-shadow:
+      0 0 0 1px rgba(212, 175, 55, 0.3) inset,
+      0 8px 40px rgba(0, 0, 0, 0.5);
+    position: relative;
+    margin: 0 auto;
+  }
+  .photo-frame::before {
+    content: '';
+    position: absolute;
+    inset: -16px;
+    border: 1px solid rgba(212, 175, 55, 0.4);
+    border-radius: 50%;
+  }
+  .photo-frame::after {
+    content: '';
+    position: absolute;
+    inset: -30px;
+    border: 1px dashed rgba(212, 175, 55, 0.18);
+    border-radius: 50%;
+  }
+  .photo {
+    width: 100%; height: 100%;
+    border-radius: 50%;
+    object-fit: cover;
+    object-position: center 18%;
+    display: block;
+    background: #1e4570;
+  }
+
+  /* Author name + two-line credentials */
+  .author-section {
+    position: absolute;
+    top: 590px; left: 0; right: 0;
+    text-align: center;
+  }
+  .author-name {
+    font-family: 'Amiri', serif;
+    font-weight: 700;
+    color: #f4ead0;
+    font-size: 56px;
+    letter-spacing: 1px;
+    line-height: 1.1;
+  }
+  .credential-1, .credential-2 {
+    font-family: 'Amiri', serif;
+    font-weight: 400;
+    color: #d8c98a;
+    font-size: 24px;
+    line-height: 1.6;
+    margin-top: 6px;
+  }
+  .credential-2 { color: #b8a36d; font-size: 22px; }
+
+  /* Elegant divider with arabesque motif */
+  .divider {
+    position: absolute;
+    top: 790px; left: 50%; transform: translateX(-50%);
+    width: 800px;
+    display: flex; align-items: center; justify-content: center;
+  }
+
+  /* Title block */
+  .title-block {
+    position: absolute;
+    top: 840px; left: 80px; right: 80px;
+    text-align: center;
+  }
+  .title-line {
+    font-family: 'Amiri', serif;
+    font-weight: 700;
+    color: #f4ead0;
+    font-size: 112px;
+    line-height: 1.18;
+    text-shadow: 0 4px 30px rgba(0,0,0,0.55);
+    letter-spacing: 0.5px;
+  }
+  .gold-word {
+    color: #d4af37;
+    font-style: italic;
+  }
+
+  /* Teaser */
+  .teaser {
+    position: absolute;
+    top: 1130px; left: 110px; right: 110px;
+    text-align: center;
+    font-family: 'Amiri', serif;
+    font-style: italic;
+    color: #e6d9a8;
+    font-size: 40px;
+    line-height: 1.6;
+    font-weight: 400;
+    padding: 36px 40px;
+    position: absolute;
+  }
+  .teaser::before, .teaser::after {
+    content: '';
+    position: absolute;
+    left: 50%; transform: translateX(-50%);
+    width: 320px; height: 1px;
+    background: linear-gradient(to right, transparent, #d4af37, transparent);
+  }
+  .teaser::before { top: 0; }
+  .teaser::after { bottom: 0; }
+  .teaser-ellipsis { color: #d4af37; letter-spacing: 4px; }
+
+  /* Footer */
+  .footer {
+    position: absolute;
+    bottom: 75px; left: 0; right: 0;
+    text-align: center;
+  }
+  .footer-series {
+    font-family: 'Amiri', serif;
+    color: #d4af37;
+    font-size: 20px;
+    letter-spacing: 8px;
+    margin-bottom: 12px;
+  }
+  .footer-meta {
+    font-family: 'Amiri', serif;
+    color: #98884f;
+    font-size: 18px;
+    letter-spacing: 3px;
+  }
+  .footer-meta .sep { color: rgba(212,175,55,0.5); margin: 0 14px; }
+  .footer-url {
+    font-family: 'Amiri', serif;
+    color: #6e6238;
+    font-size: 14px;
+    letter-spacing: 4px;
+    margin-top: 16px;
+    direction: ltr;
+  }
+</style>
+</head>
+<body>
+  <div class="pattern-bg"></div>
+
+  <!-- Large faint Islamic star ornament behind everything -->
+  <svg class="star-ornament" viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg">
+    <g stroke="#d4af37" stroke-width="0.4" fill="none">
+      <!-- Eight-point star -->
+      <path d="M100,20 L120,70 L180,80 L130,115 L150,170 L100,140 L50,170 L70,115 L20,80 L80,70 Z"/>
+      <!-- Inner rotated square -->
+      <rect x="40" y="40" width="120" height="120" transform="rotate(45 100 100)"/>
+      <rect x="40" y="40" width="120" height="120"/>
+      <!-- Inner star -->
+      <path d="M100,50 L113,82 L148,86 L120,108 L131,142 L100,124 L69,142 L80,108 L52,86 L87,82 Z"/>
+      <circle cx="100" cy="100" r="30"/>
+      <circle cx="100" cy="100" r="60"/>
+    </g>
+  </svg>
+
+  <div class="inner-border"></div>
+
+  <!-- AIA badge top -->
+  <div class="top-section">
+    <div class="aia-badge">
+      <div class="aia-emblem">
+        <div class="aia-emblem-letter">أ</div>
+      </div>
+      <div class="aia-name-ar">أكاديميّة الأئمّة الأمريكيّة</div>
+      <div class="aia-name-en">AMERICAN IMAMS ACADEMY</div>
+    </div>
+  </div>
+
+  <!-- Doctor's photo -->
+  <div class="photo-section">
+    <div class="photo-frame">
+      <img class="photo" src="/dr-ahmed-headshot.jpg" alt="">
+    </div>
+  </div>
+
+  <!-- Author name + credentials -->
+  <div class="author-section">
+    <div class="author-name">د. أحمد أبو سيف</div>
+    <div class="credential-1">إمام ومؤسّس أكاديميّة الأئمّة الأمريكيّة — تكساس</div>
+    <div class="credential-2">دكتور التفسير وعلوم القرآن — جامعة الأزهر</div>
+  </div>
+
+  <!-- Divider arabesque -->
+  <svg class="divider" viewBox="0 0 800 30" xmlns="http://www.w3.org/2000/svg" style="height: 30px;">
+    <g stroke="#d4af37" stroke-width="1" fill="none">
+      <line x1="0" y1="15" x2="280" y2="15" stroke-opacity="0.6"/>
+      <line x1="520" y1="15" x2="800" y2="15" stroke-opacity="0.6"/>
+      <!-- Center motif -->
+      <path d="M340,15 Q360,5 380,15 Q400,25 420,15 Q440,5 460,15" fill="none"/>
+      <circle cx="400" cy="15" r="5" fill="#d4af37"/>
+      <circle cx="340" cy="15" r="2.5" fill="#d4af37"/>
+      <circle cx="460" cy="15" r="2.5" fill="#d4af37"/>
+    </g>
+  </svg>
+
+  <!-- Title -->
+  <div class="title-block">
+    <div class="title-line">أبناءُ الأئمّة</div>
+    <div class="title-line">بين <span class="gold-word">المِنحة</span> والمِحنة</div>
+  </div>
+
+  <!-- Teaser -->
+  <div class="teaser">
+    ما يَراه الناسُ نِصفُ الحكاية<span class="teaser-ellipsis">…</span>
+    <br>
+    والنِّصفُ الآخرُ عند أبنائه
+  </div>
+
+  <!-- Footer -->
+  <div class="footer">
+    <div class="footer-series">قَضايا الإمام</div>
+    <div class="footer-meta">١٩ مايو ٢٠٢٦ <span class="sep">◆</span> الحلقة الأولى <span class="sep">◆</span> ١١ دقيقة قراءة</div>
+    <div class="footer-url">SH-DR-ABOUSEIF.VERCEL.APP</div>
+  </div>
+</body>
+</html>
