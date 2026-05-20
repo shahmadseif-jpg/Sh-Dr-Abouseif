@@ -25,6 +25,30 @@ export interface ArticleMeta {
 
 export const articlesMeta: ArticleMeta[] = [
   {
+    slug: 'house-of-dawah-inherited-image-human-reality',
+    category: 'imamship',
+    isoDate: '2026-05-20',
+    date: { ar: '٢٠ مايو ٢٠٢٦', en: 'May 20, 2026' },
+    readingMinutes: 9,
+    series: {
+      ar: 'قَضايا الإمام',
+      en: 'Issues of the Imam',
+    },
+    episode: 2,
+    title: {
+      ar: 'بيتُ الدعوة: بين الصورةِ المَوروثة والحقيقةِ البَشريّة',
+      en: 'The House of Daʿwah: Between the Inherited Image and the Human Reality',
+    },
+    subtitle: {
+      ar: 'تأمُّلٌ في الفجوة بين الصورة الذهنيّة لبيت الإمام وبَشريّته الحقيقيّة — من بيت النبوّة إلى بيوت اليوم',
+      en: "A Reflection on the Gap Between the Mental Image of the Imam's Household and Its True Humanity — From the Prophetic Household to Today's Homes",
+    },
+    excerpt: {
+      ar: 'في مخيلة الجالية يَسكنُ بيتَ الداعية صورةٌ موروثةٌ مُسطَّحة لا تَحتمل البشريّة. لكنّ القرآن نفسه فَتَح نوافذَ بيت النبوّة على الجوع والغَيرة والإيلاء والإفك، وعالَج كلَّ ضغطٍ بنمطٍ مختلف. هذه الحلقة الثانية من «قضايا الإمام» تُفكِّك ثلاثَ "مُصادَرات" يَرزحُ تحتها بيتُ الإمام المعاصر، وتُفرد فصلاً لنفسيّة زوجته، وتُعيد تعريفَ القُدوة من "بيتٍ بلا توتّر" إلى "بيتٍ يُدير توتّرَه بحكمة".',
+      en: "In the imagination of the community, the daʿwah household is inhabited by a flat, inherited image that cannot bear humanity. Yet the Qurʾān itself opened the windows of the Prophetic household onto hunger, jealousy, separation, and slander — treating each pressure with a different mode. This second episode of 'Issues of the Imam' unpacks three 'confiscations' the contemporary imam's home labors under, devotes a section to his wife's inner life, and redefines exemplarity from 'a home without tension' to 'a home that manages its tension with wisdom'.",
+    },
+  },
+  {
     slug: 'children-of-imams-grace-and-trial',
     category: 'imamship',
     isoDate: '2026-05-19',
@@ -57,23 +81,23 @@ export const articlesMeta: ArticleMeta[] = [
     slug: 'steadfastness-texts-and-souls',
     category: 'wisdom-insights',
     isoDate: '2026-05-17',
-    date: { ar: '\u0661\u0667 \u0645\u0627\u064a\u0648 \u0662\u0660\u0662\u0666', en: 'May 17, 2026' },
+    date: { ar: '١٧ مايو ٢٠٢٦', en: 'May 17, 2026' },
     readingMinutes: 12,
     series: {
-      ar: '\u062d\u0650\u0643\u064e\u0645\u064c \u0648\u0628\u0635\u0627\u0626\u0631',
+      ar: 'حِكَمٌ وبصائر',
       en: 'Wisdoms & Insights',
     },
     episode: 4,
     title: {
-      ar: '\u0627\u0644\u0627\u0633\u062a\u0645\u0631\u0627\u0631\u064a\u0629 \u0628\u064a\u0646 \u062f\u0644\u0627\u0644\u0629 \u0627\u0644\u0646\u0635\u0648\u0635 \u0648\u062a\u062c\u0627\u0648\u0628 \u0627\u0644\u0646\u0641\u0648\u0633',
+      ar: 'الاستمرارية بين دلالة النصوص وتجاوب النفوس',
       en: 'Steadfastness Between the Indications of the Sacred Texts and the Response of the Human Soul',
     },
     subtitle: {
-      ar: '\u0643\u0644\u0645\u0629 \u0641\u064a \u0627\u0644\u0644\u0642\u0627\u0621 \u0627\u0644\u0634\u0647\u0631\u064a \u0628\u0645\u0633\u062c\u062f \u0627\u0644\u0623\u0643\u0627\u062f\u064a\u0645\u064a\u0629 \u0627\u0644\u0623\u0645\u0631\u064a\u0643\u064a\u0629 \u0644\u0644\u0623\u0626\u0645\u0629 (AIA) \u2014 \u062a\u0643\u0633\u0627\u0633',
-      en: 'A Reflection from the Monthly Gathering at the American Imams Academy Masjid (AIA) \u2014 Texas',
+      ar: 'كلمة في اللقاء الشهري بمسجد الأكاديمية الأمريكية للأئمة (AIA) — تكساس',
+      en: 'A Reflection from the Monthly Gathering at the American Imams Academy Masjid (AIA) — Texas',
     },
     excerpt: {
-      ar: '\u0645\u0627 \u0628\u0639\u062f \u0631\u0645\u0636\u0627\u0646 \u0644\u064a\u0633 \u0641\u0631\u0627\u063a\u064b\u0627\u060c \u0628\u0644 \u0627\u0645\u062a\u062f\u0627\u062f\u064b\u0627. \u062a\u062a\u0636\u0627\u0641\u0631 \u0627\u0644\u0646\u0635\u0648\u0635 \u0627\u0644\u0634\u0631\u0639\u064a\u0629 \u0639\u0644\u0649 \u0623\u0647\u0645\u064a\u0629 \u0627\u0644\u0627\u0633\u062a\u0645\u0631\u0627\u0631\u064a\u0629\u060c \u0648\u062a\u062a\u0641\u0627\u0648\u062a \u0627\u0644\u0646\u0641\u0648\u0633 \u0641\u064a \u0627\u0644\u062a\u062c\u0627\u0648\u0628 \u0645\u0639\u0647\u0627. \u0647\u0630\u0647 \u0627\u0644\u062d\u0644\u0642\u0629 \u0627\u0644\u0631\u0627\u0628\u0639\u0629 \u0645\u0646 \u0633\u0644\u0633\u0644\u0629 \u0640\u062d\u0650\u0643\u064e\u0645\u064c \u0648\u0628\u0635\u0627\u0626\u0631\u0640 \u062a\u0641\u0643\u0651\u0643 \u062a\u0636\u0627\u0641\u0631 \u0627\u0644\u0646\u0635\u0648\u0635 \u0639\u0644\u0649 \u0627\u0644\u0627\u0633\u062a\u0645\u0631\u0627\u0631\u064a\u0629\u060c \u0648\u062a\u0631\u0633\u0645 \u0639\u0634\u0631\u0629 \u0623\u0646\u0645\u0627\u0637 \u0633\u0644\u0648\u0643\u064a\u0629 \u0644\u0644\u0646\u0627\u0633 \u0628\u0639\u062f \u0645\u0648\u0627\u0633\u0645 \u0627\u0644\u0637\u0627\u0639\u0629\u060c \u0648\u062a\u0642\u062f\u0651\u0645 \u062b\u0645\u0627\u0646\u064a \u062e\u0637\u0648\u0627\u062a \u0639\u0645\u0644\u064a\u0629 \u0644\u062a\u062d\u0648\u064a\u0644 \u0627\u0644\u0641\u062a\u0648\u0631 \u0625\u0644\u0649 \u0627\u0633\u062a\u0645\u0631\u0627\u0631\u064a\u0629.',
+      ar: 'ما بعد رمضان ليس فراغًا، بل امتدادًا. تتضافر النصوص الشرعية على أهمية الاستمرارية، وتتفاوت النفوس في التجاوب معها. هذه الحلقة الرابعة من سلسلة ـحِكَمٌ وبصائرـ تفكّك تضافر النصوص على الاستمرارية، وترسم عشرة أنماط سلوكية للناس بعد مواسم الطاعة، وتقدّم ثماني خطوات عملية لتحويل الفتور إلى استمرارية.',
       en: 'What comes after Ramadan is not emptiness, but extension. The sacred texts converge on the meaning of continuity, while souls differ in how they respond. This fourth episode of the Wisdoms & Insights series unpacks the convergence of the texts on continuity, maps ten behavioral patterns of people after seasons of worship, and offers eight practical steps for turning post-season listlessness into sustained steadfastness.',
     },
     coverImage: '/articles/steadfastness-texts-and-souls/الاستمرارية بين دلالة النصوص وتجاوب النفوس .jpg',
