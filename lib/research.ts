@@ -99,6 +99,49 @@ export const researchMeta: ResearchMeta[] = [
     featured: true,
   },
 
+  // بحث المؤتمر العالمي العاشر — القاهرة 2025
+  {
+    slug: 'fatwa-us-ai-2025',
+    type: 'conference-paper',
+    category: 'fiqh-and-fatwa',
+    year: 2025,
+    isoDate: '2025-08-12',
+    date: { ar: 'أغسطس ٢٠٢٥', en: 'August 2025' },
+    title: {
+      ar: 'واقِع الفَتوى في الوِلايات المُتَّحدة الأَمريكيّة في عَصر الذَّكاء الاصطناعيّ',
+      en: 'The Reality of Fatwa in the United States in the Age of Artificial Intelligence',
+    },
+    subtitle: {
+      ar: 'إِشكاليّات وحُلول',
+      en: 'Challenges and Solutions',
+    },
+    abstract: {
+      ar: 'بَحثٌ محكَّم قُدِّم في المؤتمر العالميّ العاشر للأَمانة العامّة لدُور وهَيئات الإفتاء في العالم — القاهرة، أغسطس 2025، تَحت عُنوان «صِناعة المُفتي الرَّشيد في عَصر الذَّكاء الاصطناعيّ». يَرسم البَحث خارطةً دَقيقة لواقِع الفَتوى الرَّقميّة في الوِلايات المُتَّحدة الأَمريكيّة، مُتتبِّعاً الإِشكاليّات التِّقنيّة واللُّغويّة والثَّقافيّة التي يُواجِهها السّائل والمُفتي على السَّواء، ومُقترِحاً إِطاراً مَنهجيّاً إِصلاحيّاً يَضمَن مُطابقة المُخرَجات الفِقهيّة لمَقاصِد الشَّريعة وسَلامة الخُصوصيّة الثَّقافيّة. يَعتَمد البَحث المَنهَج الاستِقرائيّ التَّحليليّ، ويَستَنِد إلى اثنتي عَشرة مُقابلة شِبه مُهَيكَلة مَع أَئمّة ومُفتين في الواقِع الأَمريكيّ، ويَعرِض في ثَلاثة فُصول: واقِع الفَتوى في أَمريكا، التَّحدّيات المَنهجيّة والشَّرعيّة للفَتوى الرَّقميّة، ومَعالم بِناء مَنظومةٍ إِفتائيّةٍ رَقميّةٍ راشِدة في السِّياق الأَمريكيّ.',
+      en: 'A peer-reviewed paper presented at the 10th World Conference of the General Secretariat for Houses and Bodies of Iftaa Worldwide (Cairo, August 2025), held under the theme "Forming the Wise Mufti in the Age of Artificial Intelligence." The paper maps the reality of digital fatwa in the United States, tracing the technical, linguistic, and cultural challenges facing both the questioner (mustafti) and the mufti, and proposes a reformist methodological framework that secures alignment between juristic outputs, the higher objectives of Sharia, and the cultural specificity of American Muslims. Employing an inductive-analytical method grounded in twelve semi-structured interviews with imams and muftis active in the U.S. context, the paper unfolds across three chapters: the reality of fatwa in America; the methodological and Shariah-based challenges of digital fatwa; and the contours of a wise digital fatwa ecosystem for the American setting.',
+    },
+    venue: {
+      ar: 'المؤتمر العالميّ العاشر — الأَمانة العامّة لدُور وهَيئات الإفتاء في العالم',
+      en: '10th World Conference — General Secretariat for Houses and Bodies of Iftaa Worldwide',
+    },
+    location: {
+      ar: 'القاهرة — جُمهوريّة مِصر العربيّة',
+      en: 'Cairo — Arab Republic of Egypt',
+    },
+    publisher: {
+      ar: 'الأَمانة العامّة لدُور وهَيئات الإفتاء في العالم (تابِعة لدار الإفتاء المصريّة) — أَبحاث المؤتمر، المُجلَّد الخامس، المحور الرّابع: الذَّكاء الاصطناعيّ وتَطوير العَمل المؤسَّسيّ الإفتائيّ — ص ٢٣٠٢–٢٣٤٣',
+      en: 'General Secretariat for Houses and Bodies of Iftaa Worldwide (affiliated with the Egyptian Dar al-Iftaa) — Conference Proceedings, Volume 5, Track 4: AI and the Development of Institutional Fatwa Work — pp. 2302–2343',
+    },
+    pages: 42,
+    language: 'ar',
+    isbn: '978-977-6998-61-2',
+    pdfUrl: '/research/fatwa-us-ai-2025/paper.pdf',
+    keywords: {
+      ar: ['الفتوى الرقمية', 'الذكاء الاصطناعي', 'الولايات المتحدة', 'فقه الأقليات', 'صناعة المفتي', 'المنظومة الإفتائية', 'دار الإفتاء المصرية'],
+      en: ['digital fatwa', 'artificial intelligence', 'United States', 'minorities fiqh', 'mufti formation', 'fatwa ecosystem', 'Egyptian Dar al-Iftaa'],
+    },
+    featured: true,
+  },
+
   // البحث الأصلي 2018
   {
     slug: 'fatwa-mufti-eligibility-2018',
