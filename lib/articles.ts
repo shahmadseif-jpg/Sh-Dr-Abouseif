@@ -29,7 +29,7 @@ export const articlesMeta: ArticleMeta[] = [
     category: 'imamship',
     isoDate: '2026-05-20',
     date: { ar: '٢٠ مايو ٢٠٢٦', en: 'May 20, 2026' },
-    readingMinutes: 12,
+    readingMinutes: 9,
     series: {
       ar: 'قَضايا الإمام',
       en: 'Issues of the Imam',
@@ -40,12 +40,12 @@ export const articlesMeta: ArticleMeta[] = [
       en: 'The House of Daʿwah: Between the Inherited Image and the Human Reality',
     },
     subtitle: {
-      ar: 'قراءةٌ تأصيليّةٌ في الفجوة بين الصورة المثاليّة لبيت الإمام وبَشريّته الحقيقيّة - من بيت النبوّة إلى بيوت اليوم',
-      en: "A Foundational Reading on the Gap Between the Idealized Image of the Imam's Household and Its Human Reality — From the Prophetic Household to Today's Homes",
+      ar: 'تأمُّلٌ في الفجوة بين الصورة الذهنيّة لبيت الإمام وبَشريّته الحقيقيّة — من بيت النبوّة إلى بيوت اليوم',
+      en: "A Reflection on the Gap Between the Mental Image of the Imam's Household and Its True Humanity — From the Prophetic Household to Today's Homes",
     },
     excerpt: {
-      ar: 'يَقف الصحابيُّ الشابُّ على عَتَبة بيت النبوّة يَحمل صورةَ "البيت الملائكيّ"، فيُفاجَأ بكَسر القَصعة، ومَكيدة المَغافير التي نَزَل بسببها التحريم، واشتداد الأمر إلى الإيلاء شهراً ونزول التخيير من السماء. هذه الحلقة الثانية من «قضايا الإمام» تَستفتح بثلاث لَقَطاتٍ موثَّقة من الصحيحَين، ثم تَفتح المقارنةَ بين أمَّهات المؤمنين المُهَيَّآت بيئيّاً وبين زوجاتِ الأئمّة المعاصرات، وتُفكِّك ثلاثَ "مُصادَرات" يَرزحُ تحتها بيتُ الإمام اليومَ، وتُعيد تعريفَ القُدوة من "بيتٍ بلا توتّر" إلى "بيتٍ يُدير توتّرَه بحكمة".',
-      en: "A young companion stands at the threshold of the Prophet's household carrying an image of 'the angelic home,' only to be confronted by the breaking of the dish, the maghāfīr stratagem that occasioned the revelation of Sūrat al-Taḥrīm, and the escalation to a month-long īlāʾ and the descent of the Verses of Choice. This second episode of 'Issues of the Imam' opens with three documented scenes from the two Ṣaḥīḥs, then opens the comparison between the Mothers of the Believers — environmentally prepared — and the wives of contemporary imams; it unpacks three 'confiscations' under which the imam's home labors today, and redefines exemplarity from 'a home without tension' to 'a home that manages its tension with wisdom.'",
+      ar: 'في مخيلة الجالية يَسكنُ بيتَ الداعية صورةٌ موروثةٌ مُسطَّحة لا تَحتمل البشريّة. لكنّ القرآن نفسه فَتَح نوافذَ بيت النبوّة على الجوع والغَيرة والإيلاء والإفك، وعالَج كلَّ ضغطٍ بنمطٍ مختلف. هذه الحلقة الثانية من «قضايا الإمام» تُفكِّك ثلاثَ "مُصادَرات" يَرزحُ تحتها بيتُ الإمام المعاصر، وتُفرد فصلاً لنفسيّة زوجته، وتُعيد تعريفَ القُدوة من "بيتٍ بلا توتّر" إلى "بيتٍ يُدير توتّرَه بحكمة".',
+      en: "In the imagination of the community, the daʿwah household is inhabited by a flat, inherited image that cannot bear humanity. Yet the Qurʾān itself opened the windows of the Prophetic household onto hunger, jealousy, separation, and slander — treating each pressure with a different mode. This second episode of 'Issues of the Imam' unpacks three 'confiscations' the contemporary imam's home labors under, devotes a section to his wife's inner life, and redefines exemplarity from 'a home without tension' to 'a home that manages its tension with wisdom'.",
     },
   },
   {
@@ -71,7 +71,7 @@ export const articlesMeta: ArticleMeta[] = [
       ar: 'في بيت الإمام بيئتان: واحدة يراها الناس، وأخرى يعرفها أهله. وأبناؤه هم الجسر بين العالمين، يحملون — وهم بعدُ صغار — ما لا يحمله الكبار، ويعيشون مفارقة "السيّد الفقير" ومحنة الهويّة وإرث الأخطاء... ثمّ يخرجون من هذه المدرسة بثمار لا يقطفها سواهم.',
       en: 'In the imam\'s house there are two worlds: one people see, and one only the family knows. His children are the bridge between two realms — carrying, while still small, what grown men do not, living the paradox of the "impoverished eminence," the trial of identity, and the inheritance of mistakes… yet emerging from this school with fruits no one else can pluck.',
     },
-    coverImage: '/articles/children-of-imams-grace-and-trial/flyer-children-of-imams.jpg',
+    coverImage: '/articles/children-of-imams-grace-and-trial/children-of-imams-flyer.png',
     coverCaption: {
       ar: 'الفلاير الرسمي لمقال «أبناءُ الأئمة بين المِنحة والمِحنة» — قَضايا الإمام، الحلقة الأولى.',
       en: 'Official cover for the article "Children of the Imams: Between Grace and Trial" — Issues of the Imam, Episode 1.',
@@ -99,6 +99,11 @@ export const articlesMeta: ArticleMeta[] = [
     excerpt: {
       ar: 'ما بعد رمضان ليس فراغًا، بل امتدادًا. تتضافر النصوص الشرعية على أهمية الاستمرارية، وتتفاوت النفوس في التجاوب معها. هذه الحلقة الرابعة من سلسلة ـحِكَمٌ وبصائرـ تفكّك تضافر النصوص على الاستمرارية، وترسم عشرة أنماط سلوكية للناس بعد مواسم الطاعة، وتقدّم ثماني خطوات عملية لتحويل الفتور إلى استمرارية.',
       en: 'What comes after Ramadan is not emptiness, but extension. The sacred texts converge on the meaning of continuity, while souls differ in how they respond. This fourth episode of the Wisdoms & Insights series unpacks the convergence of the texts on continuity, maps ten behavioral patterns of people after seasons of worship, and offers eight practical steps for turning post-season listlessness into sustained steadfastness.',
+    },
+    coverImage: '/articles/steadfastness-texts-and-souls/الاستمرارية بين دلالة النصوص وتجاوب النفوس .jpg',
+    coverCaption: {
+      ar: 'هذا المقال خلاصة كلمة أُلقيت في اللقاء الشهري بمسجد الأكاديمية الأمريكية للأئمة (AIA Masjid) بمدينة سخسي، ولاية تكساس (الولايات المتحدة الأمريكية)، يوم الجمعة 3 إبريل 2026م، بين المغرب والعشاء، تلاها قيام بعد العشاء.',
+      en: 'This article is a written distillation of the talk delivered at the monthly gathering of the American Imams Academy Masjid (AIA) in Sachse, Texas (USA) on Friday, April 3, 2026, between Maghrib and ʻIshāʾ, followed by Qiyām after ʻIshāʾ.',
     },
   },
   {
@@ -352,7 +357,7 @@ export const articlesMeta: ArticleMeta[] = [
       en: 'Episode Three — Five Diseases and Five Pillars for the Mosque That Bequeaths',
     },
     excerpt: {
-      ar: 'مَسجدٌ بِلا ذاكرةٍ مؤسَّسية هو شَجرة بلا جذور: مُكتمِلٌ ظاهرًا, هَشٌّ في أوَّل ريح. خمس عِلَل تَنهَش مساجد الغَرب, وخمسة أركان عِلاجية تُحَوِّلها من مَكاتب خِدمات إلى مُؤَسَّسات تُورِّث للأجيال. تَأصيلٌ من فقه الأَوقاف, ونُبوءة ابن خَلدون عن الأَجيال الثلاثة.',
+      ar: 'مَسجدٌ بِلا ذاكرةٍ مؤسَّسية هو شَجرة بلا جذور: مُكتمِلٌ ظاهرًا، هَشٌّ في أوَّل ريح. خمس عِلَل تَنهَش مساجد الغَرب، وخمسة أركان عِلاجية تُحَوِّلها من مَكاتب خِدمات إلى مُؤَسَّسات تُورِّث للأجيال. تَأصيلٌ من فقه الأَوقاف، ونُبوءة ابن خَلدون عن الأَجيال الثلاثة.',
       en: 'A mosque without institutional memory is a tree without roots: complete in appearance, fragile at the first gust. Five diseases plague Western mosques, and five remedial pillars transform them from service desks into institutions that bequeath. A foundation drawn from the fiqh of awqāf and Ibn Khaldūn\'s warning about the three generations.',
     },
   },
