@@ -75,8 +75,8 @@ export const researchMeta: ResearchMeta[] = [
       en: 'From the Eligibility of the Mufti to the Fatwa Ecosystem',
     },
     abstract: {
-      ar: 'كتابٌ يُطوِّر ويُوسِّع بحثاً محكَّماً قُدِّم لمؤتمر الأَئمّة الخامس عشر لمَجمع فقهاء الشَّريعة بأمريكا (AMJA) عام 2018، ليُجيب على أَسئلة عَصرنا الجَديدة: كيف نَتعامل مع الإفتاء في عَصر الفيديو القَصير والذَّكاء الاصطناعيّ التَّوليديّ؟ يَتكوَّن الكتاب من عَشرة فصول في ثَلاثة أَقسام (التَّأصيل، التَّحوّل، المقترحات)، يَطرح فيها المؤلّف خَمسة مَفاهيم أَصيلة لم تَكن مَعهودة: تَعريف «الفوضى الرَّقميّة»، «المؤهّلات المركّبة للمُفتي المعاصر»، «المرتبة السابعة المعاصرة (المُجتهد الجَماعيّ المؤسّسيّ)»، «فقه المآلات الرَّقميّة»، ومدوّنة استخدام الذَّكاء الاصطناعيّ للمُفتي. ويَختم الكتاب بـ«خارطة طريق» بعَشر مَبادرات عمليّة قابلة للتَّنفيذ.',
-      en: 'A book that develops and expands a peer-reviewed paper originally presented at the 15th Annual Imams\' Conference of the Assembly of Muslim Jurists of America (AMJA) in 2018, to address our era\'s new questions: How do we approach fatwa in the age of short-form video and generative AI? Organized in ten chapters across three sections (Foundations, Transformation, Proposals), the book introduces five original concepts not previously articulated: a definition of "digital chaos in fatwa," the "Compound Qualifications of the Contemporary Mufti," the "Seventh Contemporary Rank: The Collective Institutional Mujtahid," the "Jurisprudence of Digital Consequences," and a proposed Code of Conduct for the Mufti\'s use of AI. The book concludes with a practical roadmap of ten actionable initiatives.',
+      ar: 'بحثٌ يُطوِّر ويُوسِّع بحثاً محكَّماً قُدِّم لمؤتمر الأَئمّة الخامس عشر لمَجمع فقهاء الشَّريعة بأمريكا (AMJA) عام 2018، ليُجيب على أَسئلة عَصرنا الجَديدة: كيف نَتعامل مع الإفتاء في عَصر الفيديو القَصير والذَّكاء الاصطناعيّ التَّوليديّ؟ يَتكوَّن البحث من عَشرة فصول في ثَلاثة أَقسام (التَّأصيل، التَّحوّل، المقترحات)، يَطرح فيها المؤلّف خَمسة مَفاهيم أَصيلة لم تَكن مَعهودة: تَعريف «الفوضى الرَّقميّة»، «المؤهّلات المركّبة للمُفتي المعاصر»، «المرتبة السابعة المعاصرة (المُجتهد الجَماعيّ المؤسّسيّ)»، «فقه المآلات الرَّقميّة»، ومدوّنة استخدام الذَّكاء الاصطناعيّ للمُفتي. ويَختم البحث بـ«خارطة طريق» بعَشر مَبادرات عمليّة قابلة للتَّنفيذ مرتَّبة على ثلاثة مدَيات: عاجل، متوسط، بعيد.',
+      en: 'A research monograph that develops and expands a peer-reviewed paper originally presented at the 15th Annual Imams\' Conference of the Assembly of Muslim Jurists of America (AMJA) in 2018, to address our era\'s new questions: How do we approach fatwa in the age of short-form video and generative AI? Organized in ten chapters across three sections (Foundations, Transformation, Proposals), the work introduces five original concepts not previously articulated: a definition of "digital chaos in fatwa," the "Compound Qualifications of the Contemporary Mufti," the "Seventh Contemporary Rank: The Collective Institutional Mujtahid," the "Jurisprudence of Digital Consequences," and a proposed Code of Conduct for the Mufti\'s use of AI. The work concludes with a practical roadmap of ten initiatives organized across three timelines: urgent, medium-term, and long-term.',
     },
     venue: {
       ar: 'تَطوير لبَحث محكَّم — مَجمع فقهاء الشَّريعة بأمريكا (AMJA)',
@@ -86,7 +86,7 @@ export const researchMeta: ResearchMeta[] = [
       ar: 'مَشروع نَشر متعدّد الطَّبقات',
       en: 'Multi-layer Publication Project',
     },
-    pages: 164,
+    pages: 154,
     language: 'bilingual',
     pdfUrl: {
       ar: '/research/fatwa-digital-transformation/book.pdf',
@@ -209,7 +209,7 @@ export function getPdfUrl(item: ResearchMeta, locale: 'ar' | 'en'): string | und
 
 export const researchTypeLabels = {
   ar: {
-    book: 'كتاب',
+    book: 'بحث',
     'conference-paper': 'بحث محكَّم في مؤتمر',
     'journal-paper': 'بحث محكَّم في دوريّة',
     'book-chapter': 'فصل في كتاب',
