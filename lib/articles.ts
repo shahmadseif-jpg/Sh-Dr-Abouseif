@@ -25,26 +25,79 @@ export interface ArticleMeta {
 
 export const articlesMeta: ArticleMeta[] = [
   {
+    slug: 'house-of-dawah-inherited-image-human-reality',
+    category: 'imamship',
+    isoDate: '2026-05-20',
+    date: { ar: '٢٠ مايو ٢٠٢٦', en: 'May 20, 2026' },
+    readingMinutes: 12,
+    series: {
+      ar: 'قَضايا الإمام',
+      en: 'Issues of the Imam',
+    },
+    episode: 2,
+    title: {
+      ar: 'بيتُ الدعوة: بين الصورةِ المَوروثة والحقيقةِ البَشريّة',
+      en: 'The House of Daʿwah: Between the Inherited Image and the Human Reality',
+    },
+    subtitle: {
+      ar: 'قراءةٌ تأصيليّةٌ في الفجوة بين الصورة المثاليّة لبيت الإمام وبَشريّته الحقيقيّة - من بيت النبوّة إلى بيوت اليوم',
+      en: "A Foundational Reading on the Gap Between the Idealized Image of the Imam's Household and Its Human Reality — From the Prophetic Household to Today's Homes",
+    },
+    excerpt: {
+      ar: 'يَقف الصحابيُّ الشابُّ على عَتَبة بيت النبوّة يَحمل صورةَ "البيت الملائكيّ"، فيُفاجَأ بكَسر القَصعة، ومَكيدة المَغافير التي نَزَل بسببها التحريم، واشتداد الأمر إلى الإيلاء شهراً ونزول التخيير من السماء. هذه الحلقة الثانية من «قضايا الإمام» تَستفتح بثلاث لَقَطاتٍ موثَّقة من الصحيحَين، ثم تَفتح المقارنةَ بين أمَّهات المؤمنين المُهَيَّآت بيئيّاً وبين زوجاتِ الأئمّة المعاصرات، وتُفكِّك ثلاثَ "مُصادَرات" يَرزحُ تحتها بيتُ الإمام اليومَ، وتُعيد تعريفَ القُدوة من "بيتٍ بلا توتّر" إلى "بيتٍ يُدير توتّرَه بحكمة".',
+      en: "A young companion stands at the threshold of the Prophet's household carrying an image of 'the angelic home,' only to be confronted by the breaking of the dish, the maghāfīr stratagem that occasioned the revelation of Sūrat al-Taḥrīm, and the escalation to a month-long īlāʾ and the descent of the Verses of Choice. This second episode of 'Issues of the Imam' opens with three documented scenes from the two Ṣaḥīḥs, then opens the comparison between the Mothers of the Believers — environmentally prepared — and the wives of contemporary imams; it unpacks three 'confiscations' under which the imam's home labors today, and redefines exemplarity from 'a home without tension' to 'a home that manages its tension with wisdom.'",
+    },
+  },
+  {
+    slug: 'children-of-imams-grace-and-trial',
+    category: 'imamship',
+    isoDate: '2026-05-19',
+    date: { ar: '١٩ مايو ٢٠٢٦', en: 'May 19, 2026' },
+    readingMinutes: 11,
+    series: {
+      ar: 'قَضايا الإمام',
+      en: 'Issues of the Imam',
+    },
+    episode: 1,
+    title: {
+      ar: 'أبناءُ الأئمة بين المِنحة والمِحنة',
+      en: 'Children of the Imams: Between Grace and Trial',
+    },
+    subtitle: {
+      ar: 'تأمّلاتٌ في بيتِ الإمام، ومَن نَشَؤوا فيه بين ما يَراه الناسُ وما يَعرفه الأهل',
+      en: "Reflections on the Imam's Household, and Those Raised in It Between What People See and What the Family Knows",
+    },
+    excerpt: {
+      ar: 'في بيت الإمام بيئتان: واحدة يراها الناس، وأخرى يعرفها أهله. وأبناؤه هم الجسر بين العالمين، يحملون — وهم بعدُ صغار — ما لا يحمله الكبار، ويعيشون مفارقة "السيّد الفقير" ومحنة الهويّة وإرث الأخطاء... ثمّ يخرجون من هذه المدرسة بثمار لا يقطفها سواهم.',
+      en: 'In the imam\'s house there are two worlds: one people see, and one only the family knows. His children are the bridge between two realms — carrying, while still small, what grown men do not, living the paradox of the "impoverished eminence," the trial of identity, and the inheritance of mistakes… yet emerging from this school with fruits no one else can pluck.',
+    },
+    coverImage: '/articles/children-of-imams-grace-and-trial/flyer-children-of-imams.jpg',
+    coverCaption: {
+      ar: 'الفلاير الرسمي لمقال «أبناءُ الأئمة بين المِنحة والمِحنة» — قَضايا الإمام، الحلقة الأولى.',
+      en: 'Official cover for the article "Children of the Imams: Between Grace and Trial" — Issues of the Imam, Episode 1.',
+    },
+  },
+  {
     slug: 'steadfastness-texts-and-souls',
     category: 'wisdom-insights',
     isoDate: '2026-05-17',
-    date: { ar: '\u0661\u0667 \u0645\u0627\u064a\u0648 \u0662\u0660\u0662\u0666', en: 'May 17, 2026' },
+    date: { ar: '١٧ مايو ٢٠٢٦', en: 'May 17, 2026' },
     readingMinutes: 12,
     series: {
-      ar: '\u062d\u0650\u0643\u064e\u0645\u064c \u0648\u0628\u0635\u0627\u0626\u0631',
+      ar: 'حِكَمٌ وبصائر',
       en: 'Wisdoms & Insights',
     },
     episode: 4,
     title: {
-      ar: '\u0627\u0644\u0627\u0633\u062a\u0645\u0631\u0627\u0631\u064a\u0629 \u0628\u064a\u0646 \u062f\u0644\u0627\u0644\u0629 \u0627\u0644\u0646\u0635\u0648\u0635 \u0648\u062a\u062c\u0627\u0648\u0628 \u0627\u0644\u0646\u0641\u0648\u0633',
+      ar: 'الاستمرارية بين دلالة النصوص وتجاوب النفوس',
       en: 'Steadfastness Between the Indications of the Sacred Texts and the Response of the Human Soul',
     },
     subtitle: {
-      ar: '\u0643\u0644\u0645\u0629 \u0641\u064a \u0627\u0644\u0644\u0642\u0627\u0621 \u0627\u0644\u0634\u0647\u0631\u064a \u0628\u0645\u0633\u062c\u062f \u0627\u0644\u0623\u0643\u0627\u062f\u064a\u0645\u064a\u0629 \u0627\u0644\u0623\u0645\u0631\u064a\u0643\u064a\u0629 \u0644\u0644\u0623\u0626\u0645\u0629 (AIA) \u2014 \u062a\u0643\u0633\u0627\u0633',
-      en: 'A Reflection from the Monthly Gathering at the American Imams Academy Masjid (AIA) \u2014 Texas',
+      ar: 'كلمة في اللقاء الشهري بمسجد الأكاديمية الأمريكية للأئمة (AIA) — تكساس',
+      en: 'A Reflection from the Monthly Gathering at the American Imams Academy Masjid (AIA) — Texas',
     },
     excerpt: {
-      ar: '\u0645\u0627 \u0628\u0639\u062f \u0631\u0645\u0636\u0627\u0646 \u0644\u064a\u0633 \u0641\u0631\u0627\u063a\u064b\u0627\u060c \u0628\u0644 \u0627\u0645\u062a\u062f\u0627\u062f\u064b\u0627. \u062a\u062a\u0636\u0627\u0641\u0631 \u0627\u0644\u0646\u0635\u0648\u0635 \u0627\u0644\u0634\u0631\u0639\u064a\u0629 \u0639\u0644\u0649 \u0623\u0647\u0645\u064a\u0629 \u0627\u0644\u0627\u0633\u062a\u0645\u0631\u0627\u0631\u064a\u0629\u060c \u0648\u062a\u062a\u0641\u0627\u0648\u062a \u0627\u0644\u0646\u0641\u0648\u0633 \u0641\u064a \u0627\u0644\u062a\u062c\u0627\u0648\u0628 \u0645\u0639\u0647\u0627. \u0647\u0630\u0647 \u0627\u0644\u062d\u0644\u0642\u0629 \u0627\u0644\u0631\u0627\u0628\u0639\u0629 \u0645\u0646 \u0633\u0644\u0633\u0644\u0629 \u0640\u062d\u0650\u0643\u064e\u0645\u064c \u0648\u0628\u0635\u0627\u0626\u0631\u0640 \u062a\u0641\u0643\u0651\u0643 \u062a\u0636\u0627\u0641\u0631 \u0627\u0644\u0646\u0635\u0648\u0635 \u0639\u0644\u0649 \u0627\u0644\u0627\u0633\u062a\u0645\u0631\u0627\u0631\u064a\u0629\u060c \u0648\u062a\u0631\u0633\u0645 \u0639\u0634\u0631\u0629 \u0623\u0646\u0645\u0627\u0637 \u0633\u0644\u0648\u0643\u064a\u0629 \u0644\u0644\u0646\u0627\u0633 \u0628\u0639\u062f \u0645\u0648\u0627\u0633\u0645 \u0627\u0644\u0637\u0627\u0639\u0629\u060c \u0648\u062a\u0642\u062f\u0651\u0645 \u062b\u0645\u0627\u0646\u064a \u062e\u0637\u0648\u0627\u062a \u0639\u0645\u0644\u064a\u0629 \u0644\u062a\u062d\u0648\u064a\u0644 \u0627\u0644\u0641\u062a\u0648\u0631 \u0625\u0644\u0649 \u0627\u0633\u062a\u0645\u0631\u0627\u0631\u064a\u0629.',
+      ar: 'ما بعد رمضان ليس فراغًا، بل امتدادًا. تتضافر النصوص الشرعية على أهمية الاستمرارية، وتتفاوت النفوس في التجاوب معها. هذه الحلقة الرابعة من سلسلة ـحِكَمٌ وبصائرـ تفكّك تضافر النصوص على الاستمرارية، وترسم عشرة أنماط سلوكية للناس بعد مواسم الطاعة، وتقدّم ثماني خطوات عملية لتحويل الفتور إلى استمرارية.',
       en: 'What comes after Ramadan is not emptiness, but extension. The sacred texts converge on the meaning of continuity, while souls differ in how they respond. This fourth episode of the Wisdoms & Insights series unpacks the convergence of the texts on continuity, maps ten behavioral patterns of people after seasons of worship, and offers eight practical steps for turning post-season listlessness into sustained steadfastness.',
     },
   },
@@ -299,7 +352,7 @@ export const articlesMeta: ArticleMeta[] = [
       en: 'Episode Three — Five Diseases and Five Pillars for the Mosque That Bequeaths',
     },
     excerpt: {
-      ar: 'مَسجدٌ بِلا ذاكرةٍ مؤسَّسية هو شَجرة بلا جذور: مُكتمِلٌ ظاهرًا، هَشٌّ في أوَّل ريح. خمس عِلَل تَنهَش مساجد الغَرب، وخمسة أركان عِلاجية تُحَوِّلها من مَكاتب خِدمات إلى مُؤَسَّسات تُورِّث للأجيال. تَأصيلٌ من فقه الأَوقاف، ونُبوءة ابن خَلدون عن الأَجيال الثلاثة.',
+      ar: 'مَسجدٌ بِلا ذاكرةٍ مؤسَّسية هو شَجرة بلا جذور: مُكتمِلٌ ظاهرًا, هَشٌّ في أوَّل ريح. خمس عِلَل تَنهَش مساجد الغَرب, وخمسة أركان عِلاجية تُحَوِّلها من مَكاتب خِدمات إلى مُؤَسَّسات تُورِّث للأجيال. تَأصيلٌ من فقه الأَوقاف, ونُبوءة ابن خَلدون عن الأَجيال الثلاثة.',
       en: 'A mosque without institutional memory is a tree without roots: complete in appearance, fragile at the first gust. Five diseases plague Western mosques, and five remedial pillars transform them from service desks into institutions that bequeath. A foundation drawn from the fiqh of awqāf and Ibn Khaldūn\'s warning about the three generations.',
     },
   },
