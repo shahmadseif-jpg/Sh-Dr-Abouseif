@@ -86,7 +86,7 @@ export const researchMeta: ResearchMeta[] = [
       ar: 'مَشروع نَشر متعدّد الطَّبقات',
       en: 'Multi-layer Publication Project',
     },
-    pages: 154,
+    pages: 254,
     language: 'bilingual',
     pdfUrl: {
       ar: '/research/fatwa-digital-transformation/book.pdf',
