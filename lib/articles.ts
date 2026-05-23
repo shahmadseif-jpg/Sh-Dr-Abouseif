@@ -25,6 +25,30 @@ export interface ArticleMeta {
 
 export const articlesMeta: ArticleMeta[] = [
   {
+    slug: 'island-of-quran',
+    category: 'civilization',
+    isoDate: '2026-02-06',
+    date: { ar: '٦ فبراير ٢٠٢٦', en: 'February 6, 2026' },
+    readingMinutes: 13,
+    series: {
+      ar: 'القرآن والحضارة',
+      en: "The Qur'an and Civilization",
+    },
+    episode: 7,
+    title: {
+      ar: 'جَزيرَةُ القُرآن',
+      en: "The Island of the Qur'an",
+    },
+    subtitle: {
+      ar: 'حين يَنقَسِم العالَمُ إلى جَزيرَتَين: جَزيرَةُ الإذنِ والكَرامَة، وجَزيرَةُ الفَوضى والعَبَث',
+      en: 'When the World Splits into Two Islands — One of Permission and Dignity, One of Chaos and Indulgence',
+    },
+    excerpt: {
+      ar: 'في الكَوكَب جُزُرٌ كثيرة، لكنّها في الجَوهَر صِنفان: جزيرةٌ يَعبُر إليها الإنسانُ بإذنٍ من السماء فيَستردّ كَرامتَه، وجزيرةٌ يَتسلّل إليها خُفيةً ليُخفي عارَه. هذه الحلقة السابعة من «القرآن والحضارة» تَستخرج من باء «بسم الله» قانونَ الإذن في دُخول جزيرة الوَحي، تَقرأ افتتاحَ القرآن بـ«اقرأ» قبل «آمِنْ» قانونًا لحماية الإنسان من الفَشل، تُشَخِّص أنّ أزمة العالم ليست تقنيّةً بل أزمةُ فراغٍ أخلاقي، وتَطرح رمضان ثَورةً على الفَوضى الداخليّة وتدريبًا على السيادة الذاتيّة.',
+      en: "On our planet there are countless islands — but in essence only two: an island crossed by permission from the heavens where the human recovers his dignity, and an island sneaked into to hide one's shame. This seventh episode of 'The Qur'an and Civilization' extracts from the bāʾ of 'In the name of God' the law of permission for entering the island of revelation, reads the Qur'an's opening with 'Read' before 'Believe' as a law of human protection from failure, diagnoses that the world's crisis is not technological but a crisis of moral emptiness, and presents Ramadan as a revolution against inner chaos and a training in self-sovereignty.",
+    },
+  },
+  {
     slug: 'awakened-consciences',
     category: 'wisdom-insights',
     isoDate: '2026-05-23',
