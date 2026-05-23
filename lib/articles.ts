@@ -25,6 +25,30 @@ export interface ArticleMeta {
 
 export const articlesMeta: ArticleMeta[] = [
   {
+    slug: 'awakened-consciences',
+    category: 'wisdom-insights',
+    isoDate: '2026-05-23',
+    date: { ar: '٢٣ مايو ٢٠٢٦', en: 'May 23, 2026' },
+    readingMinutes: 12,
+    series: {
+      ar: 'حِكَمٌ وبصائر',
+      en: 'Wisdoms & Insights',
+    },
+    episode: 4,
+    title: {
+      ar: 'الضَّمائرُ اليقظَة',
+      en: 'Awakened Consciences',
+    },
+    subtitle: {
+      ar: 'قراءةٌ في حركةِ الإيمان من مشاهد الخليل إلى وعيِ الإنسان المعاصر',
+      en: 'A Reading in the Movement of Faith — From the Scenes of the Khalīl to the Awareness of the Modern Soul',
+    },
+    excerpt: {
+      ar: 'ما الذي يجعل القلبَ يهفو إلى بيتٍ في صحراء، والنفسَ تتجرَّد من ألقابها لِتقفَ على صعيدٍ واحد؟ إنّه سرُّ الضمير اليقظ. هذه الحلقة الرابعة من «حِكَمٌ وبصائر» تَتَتَبَّع نبضَ الضمير في مَشاهد إبراهيمَ وهاجرَ وإسماعيل، ثم تَقرأ سورةَ القيامة شاهداً على بصيرة الإنسان على نفسه، وتَكشِف عن المنظومة التعبّديّة في الإسلام بوصفها نظاماً لإيقاظ الضمائر، وتُحدّد للضمير المعاصر أربعةَ أدوار في الأبوّة والزوجيّة والعمل والرسالة، وتَختمُ بأنّ من ماتَ ضميرُه فقد ماتَ مع إيقاف التنفيذ لبقيّة جسده.',
+      en: 'What makes the heart yearn for a house in the desert, and the soul strip itself of titles to stand on a single ground? It is the secret of the awakened conscience. This fourth episode of "Wisdoms & Insights" traces the pulse of the conscience through the scenes of Ibrāhīm, Hājar, and Ismāʿīl, then reads Sūrat al-Qiyāmah as testimony to the human being\'s sure insight over himself, exposes Islam\'s devotional system as a regimen for awakening the conscience, defines four contemporary roles for it — in fatherhood, marriage, work, and message — and closes on the truth that whoever\'s conscience dies has died, with the body merely on suspended sentence.',
+    },
+  },
+  {
     slug: 'house-of-dawah-inherited-image-human-reality',
     category: 'imamship',
     isoDate: '2026-05-20',
