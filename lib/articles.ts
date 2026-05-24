@@ -25,6 +25,54 @@ export interface ArticleMeta {
 
 export const articlesMeta: ArticleMeta[] = [
   {
+    slug: 'engineering-of-hope',
+    category: 'wisdom-insights',
+    isoDate: '2026-05-24',
+    date: { ar: '٢٤ مايو ٢٠٢٦', en: 'May 24, 2026' },
+    readingMinutes: 7,
+    series: {
+      ar: 'بشارات القرآن',
+      en: "Glad Tidings of the Qur'an",
+    },
+    episode: 1,
+    title: {
+      ar: 'بِشاراتُ القرآن',
+      en: "Glad Tidings of the Qur'an",
+    },
+    subtitle: {
+      ar: 'صِناعةُ الأملِ بهندسةِ ترتيبِ السُّوَر',
+      en: 'Engineering Hope through the Architecture of Sūra Order',
+    },
+    excerpt: {
+      ar: 'ليس ترتيبُ سُورِ القرآنِ نَسَقاً موضوعيّاً فحسب، بل هو نَسَقٌ نفسيٌّ تربويٌّ بَديع: يَجعلُ البِشارةَ تَجيءُ بعدَ التَّخويف، والفجرَ بعدَ الغاشية، والضُّحى بعدَ السُّجى. هذه الحلقةُ الأولى من سلسلة «بشارات القرآن» تَستخرجُ من ثلاثِ مُجاوَراتٍ راسخة (الغاشية/الفجر، الليل/الضحى، الضحى/الشرح) نَمَطَ البِشارة المُتعاقبة مع الإنذار، ثم تَستأنِسُ بمثالَين من نَمَطَين مُجاوِرَين (هود/يوسف، الفيل/قريش)، وتَستخلصُ أربعَ سُنَنٍ غالبةٍ تَحكُمُ بِشاراتِ القرآن، مع لَفتةٍ منهجيّةٍ تَضبُطُ القراءة في تقاليد علم المناسبات.',
+      en: "The order of the Qur'an's sūras is not merely a thematic sequence — it is a marvelous psychological and pedagogical one: glad tidings come after warning, dawn after Al-Ghāshiyah, morning brightness after the deepening night. This first episode of the series 'Glad Tidings of the Qur'an' draws from three solid pairings (Al-Ghāshiyah/Al-Fajr, Al-Layl/Al-Ḍuḥā, Al-Ḍuḥā/Al-Sharḥ) the pattern of glad tidings following warning, then supports the reading with two adjacent patterns (Hūd/Yūsuf, Al-Fīl/Quraysh), distills four prevailing patterns that govern the Qur'an's glad tidings, and concludes with a methodological note grounding the reading within the tradition of ʿilm al-munāsabāt.",
+    },
+  },
+  {
+    slug: 'where-we-stand',
+    category: 'wisdom-insights',
+    isoDate: '2026-05-24',
+    date: { ar: '٢٤ مايو ٢٠٢٦', en: 'May 24, 2026' },
+    readingMinutes: 14,
+    series: {
+      ar: 'حِكَمٌ وبصائر',
+      en: 'Wisdoms & Insights',
+    },
+    episode: 5,
+    title: {
+      ar: 'موقعُنا من الإعراب',
+      en: 'Where We Stand in the Sentence of History',
+    },
+    subtitle: {
+      ar: 'قراءةٌ في موضع المؤمن حين تَدور رحى الحوادث',
+      en: "A Reading of the Believer's Position When the Mill of Events Turns",
+    },
+    excerpt: {
+      ar: 'كلُّ كلمةٍ في الجملة العربيَّة لها موقعٌ من الإعراب: فإذا اختلَّ الموقعُ انكسرَ المعنى. وكذلك المؤمنُ في الحوادث: له موقعٌ ينبغي أن يَعرفه. هذه الحلقةُ الخامسةُ من «حِكَمٌ وبصائر» تَقرأ سورةَ الرُّوم بوصفها مَدرسةً في «موقع البَصيرة» حين تَدور الرَّحى بين قُوًى ليس بينك وبينها إلَّا التاريخ، تُشَخِّص فِتنةَ الشَّماتةِ بمسلمٍ يَختلف عنك مذهبُه، تَرسم موقعَ المسلمِ في الغربِ بين السفارةِ والنَّقد، وتُؤَصِّل لخطابٍ يَتعامل مع الأنماط لا مع الأعيان.',
+      en: "Every word in an Arabic sentence has a grammatical station: if the station fails, meaning collapses. So too with the believer in events — he has a station he ought to know. This fifth episode of 'Wisdoms & Insights' reads Sūrat al-Rūm as a school in the 'station of insight' when the mill turns between powers that share with us only history, diagnoses the trial of schadenfreude toward a Muslim of a different school, charts the position of the Muslim in the West between embassy and critique, and grounds a discourse that engages patterns, not personalities.",
+    },
+  },
+  {
     slug: 'island-of-quran',
     category: 'civilization',
     isoDate: '2026-02-06',
@@ -68,90 +116,8 @@ export const articlesMeta: ArticleMeta[] = [
       en: 'A Reading in the Movement of Faith — From the Scenes of the Khalīl to the Awareness of the Modern Soul',
     },
     excerpt: {
-      ar: 'ما الذي يجعل القلبَ يهفو إلى بيتٍ في صحراء، والنفسَ تتجرَّد من ألقابها لِتقفَ على صعيدٍ واحد؟ إنّه سرُّ الضمير اليقظ. هذه الحلقة الرابعة من «حِكَمٌ وبصائر» تَتَتَبَّع نبضَ الضمير في مَشاهد إبراهيمَ وهاجرَ وإسماعيل، ثم تَقرأ سورةَ القيامة شاهداً على بصيرة الإنسان على نفسه، وتَكشِف عن المنظومة التعبّديّة في الإسلام بوصفها نظاماً لإيقاظ الضمائر، وتُحدّد للضمير المعاصر أربعةَ أدوار في الأبوّة والزوجيّة والعمل والرسالة، وتَختمُ بأنّ من ماتَ ضميرُه فقد ماتَ مع إيقاف التنفيذ لبقيّة جسده.',
+      ar: 'ما الذي يجعل القلبَ يهفو إلى بيتٍ في صحراء، والنفسَ تتجرَّد من ألقابها لِتقفَ على صعيدٍ واحد؟ إنّه سرُّ الضمير اليقظ. هذه الحلقة الرابعة من «حِكَمٌ وبصائر» تَتَتَبَّع نبضَ الضمير في مَشاهد إبراهيمَ وهاجرَ وإسماعيل، ثم تَقرأ سورةَ القيامة شاهداً على بصيرة الإنسان على نفسه، وتَكشِف عن المنظومة التعبّديّة في الإسلام بوصفها نظاماً لإيقاظ الضمائر، وتُحدِّد للضمير المعاصر أربعةَ أدوار في الأبوّة والزوجيّة والعمل والرسالة، وتَختمُ بأنّ من ماتَ ضميرُه فقد ماتَ مع إيقاف التنفيذ لبقيّة جسده.',
       en: 'What makes the heart yearn for a house in the desert, and the soul strip itself of titles to stand on a single ground? It is the secret of the awakened conscience. This fourth episode of "Wisdoms & Insights" traces the pulse of the conscience through the scenes of Ibrāhīm, Hājar, and Ismāʿīl, then reads Sūrat al-Qiyāmah as testimony to the human being\'s sure insight over himself, exposes Islam\'s devotional system as a regimen for awakening the conscience, defines four contemporary roles for it — in fatherhood, marriage, work, and message — and closes on the truth that whoever\'s conscience dies has died, with the body merely on suspended sentence.',
-    },
-  },
-  {
-    slug: 'house-of-dawah-inherited-image-human-reality',
-    category: 'imamship',
-    isoDate: '2026-05-20',
-    date: { ar: '٢٠ مايو ٢٠٢٦', en: 'May 20, 2026' },
-    readingMinutes: 9,
-    series: {
-      ar: 'قَضايا الإمام',
-      en: 'Issues of the Imam',
-    },
-    episode: 2,
-    title: {
-      ar: 'بيتُ الدعوة: بين الصورةِ المَوروثة والحقيقةِ البَشريّة',
-      en: 'The House of Daʿwah: Between the Inherited Image and the Human Reality',
-    },
-    subtitle: {
-      ar: 'تأمُّلٌ في الفجوة بين الصورة الذهنيّة لبيت الإمام وبَشريّته الحقيقيّة — من بيت النبوّة إلى بيوت اليوم',
-      en: "A Reflection on the Gap Between the Mental Image of the Imam's Household and Its True Humanity — From the Prophetic Household to Today's Homes",
-    },
-    excerpt: {
-      ar: 'في مخيلة الجالية يَسكنُ بيتَ الداعية صورةٌ موروثةٌ مُسطَّحة لا تَحتمل البشريّة. لكنّ القرآن نفسه فَتَح نوافذَ بيت النبوّة على الجوع والغَيرة والإيلاء والإفك، وعالَج كلَّ ضغطٍ بنمطٍ مختلف. هذه الحلقة الثانية من «قضايا الإمام» تُفكِّك ثلاثَ "مُصادَرات" يَرزحُ تحتها بيتُ الإمام المعاصر، وتُفرد فصلاً لنفسيّة زوجته، وتُعيد تعريفَ القُدوة من "بيتٍ بلا توتّر" إلى "بيتٍ يُدير توتّرَه بحكمة".',
-      en: "In the imagination of the community, the daʿwah household is inhabited by a flat, inherited image that cannot bear humanity. Yet the Qurʾān itself opened the windows of the Prophetic household onto hunger, jealousy, separation, and slander — treating each pressure with a different mode. This second episode of 'Issues of the Imam' unpacks three 'confiscations' the contemporary imam's home labors under, devotes a section to his wife's inner life, and redefines exemplarity from 'a home without tension' to 'a home that manages its tension with wisdom'.",
-    },
-  },
-  {
-    slug: 'children-of-imams-grace-and-trial',
-    category: 'imamship',
-    isoDate: '2026-05-19',
-    date: { ar: '١٩ مايو ٢٠٢٦', en: 'May 19, 2026' },
-    readingMinutes: 11,
-    series: {
-      ar: 'قَضايا الإمام',
-      en: 'Issues of the Imam',
-    },
-    episode: 1,
-    title: {
-      ar: 'أبناءُ الأئمة بين المِنحة والمِحنة',
-      en: 'Children of the Imams: Between Grace and Trial',
-    },
-    subtitle: {
-      ar: 'تأمّلاتٌ في بيتِ الإمام، ومَن نَشَؤوا فيه بين ما يَراه الناسُ وما يَعرفه الأهل',
-      en: "Reflections on the Imam's Household, and Those Raised in It Between What People See and What the Family Knows",
-    },
-    excerpt: {
-      ar: 'في بيت الإمام بيئتان: واحدة يراها الناس، وأخرى يعرفها أهله. وأبناؤه هم الجسر بين العالمين، يحملون — وهم بعدُ صغار — ما لا يحمله الكبار، ويعيشون مفارقة "السيّد الفقير" ومحنة الهويّة وإرث الأخطاء... ثمّ يخرجون من هذه المدرسة بثمار لا يقطفها سواهم.',
-      en: 'In the imam\'s house there are two worlds: one people see, and one only the family knows. His children are the bridge between two realms — carrying, while still small, what grown men do not, living the paradox of the "impoverished eminence," the trial of identity, and the inheritance of mistakes… yet emerging from this school with fruits no one else can pluck.',
-    },
-    coverImage: '/articles/children-of-imams-grace-and-trial/children-of-imams-flyer.png',
-    coverCaption: {
-      ar: 'الفلاير الرسمي لمقال «أبناءُ الأئمة بين المِنحة والمِحنة» — قَضايا الإمام، الحلقة الأولى.',
-      en: 'Official cover for the article "Children of the Imams: Between Grace and Trial" — Issues of the Imam, Episode 1.',
-    },
-  },
-  {
-    slug: 'steadfastness-texts-and-souls',
-    category: 'wisdom-insights',
-    isoDate: '2026-05-17',
-    date: { ar: '١٧ مايو ٢٠٢٦', en: 'May 17, 2026' },
-    readingMinutes: 12,
-    series: {
-      ar: 'حِكَمٌ وبصائر',
-      en: 'Wisdoms & Insights',
-    },
-    episode: 4,
-    title: {
-      ar: 'الاستمرارية بين دلالة النصوص وتجاوب النفوس',
-      en: 'Steadfastness Between the Indications of the Sacred Texts and the Response of the Human Soul',
-    },
-    subtitle: {
-      ar: 'كلمة في اللقاء الشهري بمسجد الأكاديمية الأمريكية للأئمة (AIA) — تكساس',
-      en: 'A Reflection from the Monthly Gathering at the American Imams Academy Masjid (AIA) — Texas',
-    },
-    excerpt: {
-      ar: 'ما بعد رمضان ليس فراغًا، بل امتدادًا. تتضافر النصوص الشرعية على أهمية الاستمرارية، وتتفاوت النفوس في التجاوب معها. هذه الحلقة الرابعة من سلسلة ـحِكَمٌ وبصائرـ تفكّك تضافر النصوص على الاستمرارية، وترسم عشرة أنماط سلوكية للناس بعد مواسم الطاعة، وتقدّم ثماني خطوات عملية لتحويل الفتور إلى استمرارية.',
-      en: 'What comes after Ramadan is not emptiness, but extension. The sacred texts converge on the meaning of continuity, while souls differ in how they respond. This fourth episode of the Wisdoms & Insights series unpacks the convergence of the texts on continuity, maps ten behavioral patterns of people after seasons of worship, and offers eight practical steps for turning post-season listlessness into sustained steadfastness.',
-    },
-    coverImage: '/articles/steadfastness-texts-and-souls/الاستمرارية بين دلالة النصوص وتجاوب النفوس .jpg',
-    coverCaption: {
-      ar: 'هذا المقال خلاصة كلمة أُلقيت في اللقاء الشهري بمسجد الأكاديمية الأمريكية للأئمة (AIA Masjid) بمدينة سخسي، ولاية تكساس (الولايات المتحدة الأمريكية)، يوم الجمعة 3 إبريل 2026م، بين المغرب والعشاء، تلاها قيام بعد العشاء.',
-      en: 'This article is a written distillation of the talk delivered at the monthly gathering of the American Imams Academy Masjid (AIA) in Sachse, Texas (USA) on Friday, April 3, 2026, between Maghrib and ʻIshāʾ, followed by Qiyām after ʻIshāʾ.',
     },
   },
   {
@@ -253,8 +219,8 @@ export const articlesMeta: ArticleMeta[] = [
     },
     episode: 6,
     title: {
-      ar: 'فلسفة التهجير في القرآن الكريم',
-      en: "The Philosophy of Displacement in the Noble Qur'an",
+      ar: 'الإِخراجُ في القُرآن — قَوانينُ النَّمَطِ الثَّابِتِ في فَلسَفَةِ التَّهجير',
+      en: "Displacement in the Qur'an — The Laws of the Recurring Pattern in the Philosophy of Forced Migration",
     },
     subtitle: {
       ar: 'الحلقة السادسة — قِراءَةٌ بِنيَويَّةٌ في خَمسَةِ نَماذِجَ قُرآنيَّةٍ تَكشِفُ ثَوابتَ السُّلطَةِ المُتَجَبِّرَةِ وَفِقهَ النَّجاةِ مِنها',
