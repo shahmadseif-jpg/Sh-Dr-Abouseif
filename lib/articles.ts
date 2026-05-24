@@ -25,6 +25,30 @@ export interface ArticleMeta {
 
 export const articlesMeta: ArticleMeta[] = [
   {
+    slug: 'days-of-allah',
+    category: 'wisdom-insights',
+    isoDate: '2026-05-24',
+    date: { ar: '٢٤ مايو ٢٠٢٦', en: 'May 24, 2026' },
+    readingMinutes: 15,
+    series: {
+      ar: 'حِكَمٌ وبصائر',
+      en: 'Wisdoms & Insights',
+    },
+    episode: 7,
+    title: {
+      ar: 'وذَكِّرهم بأيّامِ الله',
+      en: 'Remind Them of the Days of Allah',
+    },
+    subtitle: {
+      ar: 'ستّةُ دروسٍ من جائحةِ كورونا — قراءةٌ في سُنَن الله حين تَدور الرَّحى على البشريّة',
+      en: "Six Lessons from the Pandemic — A Reading of God's Sunan When the Mill Turns Upon Humanity",
+    },
+    excerpt: {
+      ar: 'ما «أيّامُ الله»؟ ليست الأيّامَ الزمنيّةَ السائرةَ في عَدِّ الفَلَك، بل هي الأيّامُ التي تَنكشفُ فيها يَدُ الله على البشريّة. هذه الحلقةُ السابعةُ من «حِكَمٌ وبصائر» تَستخرجُ من جائحةِ كورونا ستّةَ دروسٍ كَونيّةٍ ونفسيّة: غَلَبَةُ الله على أمره، جنودُه التي لا يَعلمها إلا هو، المراحلُ النفسيّةُ الخمس في الأزمات، حالتا العزلةِ والاجتماعِ في البيوت، قانونُ الاتّحاد في الأزمات والانقسامِ في الرَّخاء، والأَمنُ الذي صَنَعَه الإغلاق. خاتمتُها العَودةُ إلى هَدْي النبيّ ﷺ في الصِّحَّة والوقاية، وأنّ الجائحةَ ما كانت إلا تَذكيراً.',
+      en: "What are 'the Days of Allah'? They are not the calendrical days that orbit with the celestial bodies, but the days in which the hand of God is unveiled upon humanity. This seventh episode of 'Wisdoms & Insights' extracts from the COVID-19 pandemic six cosmic and psychological lessons: God's predominance over His affair, the armies none knows but He, the five psychological stages of crisis, the two states of solitude and gathering at home, the law of uniting in crisis and dividing in prosperity, and the security the lockdown created. It concludes with a return to the Prophet's guidance on hygiene and prevention, and that the pandemic was nothing but a reminder.",
+    },
+  },
+  {
     slug: 'satan-and-man-goal-and-means',
     category: 'wisdom-insights',
     isoDate: '2018-10-12',
