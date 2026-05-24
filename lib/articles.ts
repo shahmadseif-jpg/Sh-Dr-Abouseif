@@ -25,6 +25,30 @@ export interface ArticleMeta {
 
 export const articlesMeta: ArticleMeta[] = [
   {
+    slug: 'where-we-stand',
+    category: 'wisdom-insights',
+    isoDate: '2026-05-24',
+    date: { ar: '٢٤ مايو ٢٠٢٦', en: 'May 24, 2026' },
+    readingMinutes: 14,
+    series: {
+      ar: 'حِكَمٌ وبصائر',
+      en: 'Wisdoms & Insights',
+    },
+    episode: 5,
+    title: {
+      ar: 'موقعنا من الإعراب',
+      en: 'Where We Stand in the Sentence of History',
+    },
+    subtitle: {
+      ar: 'قراءةٌ في موضع المؤمن حين تَدور رحى الحوادث',
+      en: "A Reading of the Believer's Position When the Mill of Events Turns",
+    },
+    excerpt: {
+      ar: 'كلُّ كلمةٍ في الجملة العربيَّة لها موقعٌ من الإعراب: فإذا اختلَّ الموقعُ انكسرَ المعنى. وكذلك المؤمنُ في الحوادث: له موقعٌ ينبغي أن يَعرفه. هذه الحلقةُ الخامسةُ من «حِكَمٌ وبصائر» تَقرأ سورةَ الرُّوم بوصفها مَدرسةً في «موقع البَصيرة» حين تَدور الرَّحى بين قُوًى ليس بينك وبينها إلَّا التاريخ، تُشَخِّص فِتنةَ الشَّماتةِ بمسلمٍ يَختلف عنك مذهبُه، تَرسم موقعَ المسلمِ في الغربِ بين السفارةِ والنَّقد، وتُؤَصِّل لخطابٍ يَتعامل مع الأنماط لا مع الأعيان.',
+      en: "Every word in an Arabic sentence has a grammatical station: if the station fails, meaning collapses. So too with the believer in events — he has a station he ought to know. This fifth episode of 'Wisdoms & Insights' reads Sūrat al-Rūm as a school in the 'station of insight' when the mill turns between powers that share with us only history, diagnoses the trial of schadenfreude toward a Muslim of a different school, charts the position of the Muslim in the West between embassy and critique, and grounds a discourse that engages patterns, not personalities.",
+    },
+  },
+  {
     slug: 'engineering-of-hope',
     category: 'wisdom-insights',
     isoDate: '2026-05-24',
