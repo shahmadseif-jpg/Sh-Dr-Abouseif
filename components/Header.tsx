@@ -15,6 +15,7 @@ export default function Header() {
     { href: '/about', label: t('about') },
     { href: '/lectures', label: t('lectures') },
     { href: '/articles', label: t('articles') },
+    { href: '/khawatir', label: t('khawatir') },
     { href: '/research', label: t('research') },
     { href: '/events', label: t('events') },
     { href: '/gallery', label: t('gallery') },
