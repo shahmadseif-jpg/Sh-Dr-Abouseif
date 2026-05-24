@@ -8,8 +8,9 @@
   "nav": {
     "home": "Home",
     "about": "About",
-    "lectures": "Lectures",
+    "lectures": "Video Library",
     "articles": "Articles",
+    "khawatir": "Reflections",
     "research": "Research",
     "events": "Events",
     "gallery": "Moments",
@@ -52,12 +53,18 @@
     }
   },
   "lectures": {
-    "title": "Lecture Library",
-    "subtitle": "Comprehensive archive of lectures, khatiras, and khutbahs",
+    "title": "Video Library",
+    "subtitle": "Comprehensive archive of lectures, khutbahs, and khatiras in Arabic and English",
     "filter_all": "All",
     "filter_arabic": "Arabic",
     "filter_english": "English",
-    "search_placeholder": "Search lectures..."
+    "type_all": "All",
+    "type_lecture": "Lectures",
+    "type_khutbah": "Khutbahs",
+    "type_khatira": "Khatiras",
+    "label_type": "Type",
+    "label_language": "Language",
+    "search_placeholder": "Search the library..."
   },
   "articles": {
     "title": "Articles & Blog",
@@ -69,6 +76,17 @@
     "back_to_articles": "Back to articles",
     "more_articles": "More articles",
     "reading_time": "min read"
+  },
+  "khawatir": {
+    "title": "Dawah Reflections",
+    "subtitle": "Transcripts of brief reflections delivered after the Fajr and Isha prayers",
+    "filter_all": "All",
+    "no_khawatir": "No reflections published yet. Stay tuned.",
+    "no_khawatir_in_filter": "No reflections in this category."
+  },
+  "khawatir_page": {
+    "back_to_khawatir": "Back to reflections",
+    "more_khawatir": "More reflections"
   },
   "research": {
     "title": "Research & Publications",

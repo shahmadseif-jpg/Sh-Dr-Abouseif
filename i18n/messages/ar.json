@@ -8,8 +8,9 @@
   "nav": {
     "home": "الرئيسية",
     "about": "السيرة الذاتية",
-    "lectures": "المحاضرات",
+    "lectures": "المكتبة المرئية",
     "articles": "المقالات",
+    "khawatir": "خواطر",
     "research": "الأبحاث",
     "events": "الفعاليات",
     "gallery": "محطات",
@@ -52,12 +53,18 @@
     }
   },
   "lectures": {
-    "title": "مكتبة المحاضرات",
-    "subtitle": "أرشيف شامل للمحاضرات والخواطر والخطب",
+    "title": "المكتبة المرئية",
+    "subtitle": "أرشيف شامل للمحاضرات والخطب والخواطر بالعربية والإنجليزية",
     "filter_all": "الكل",
     "filter_arabic": "العربية",
     "filter_english": "الإنجليزية",
-    "search_placeholder": "ابحث عن محاضرة..."
+    "type_all": "الكل",
+    "type_lecture": "محاضرات",
+    "type_khutbah": "خطب",
+    "type_khatira": "خواطر",
+    "label_type": "النوع",
+    "label_language": "اللغة",
+    "search_placeholder": "ابحث في المكتبة..."
   },
   "articles": {
     "title": "المقالات والمدونة",
@@ -69,6 +76,17 @@
     "back_to_articles": "العودة إلى المقالات",
     "more_articles": "مقالات أخرى",
     "reading_time": "دقائق قراءة"
+  },
+  "khawatir": {
+    "title": "خَواطِر دَعَويَّة",
+    "subtitle": "تَفريغُ الخَواطِر الدَّعَويَّة عَقِبَ صَلاتَي الفَجر والعِشاء",
+    "filter_all": "الكل",
+    "no_khawatir": "لم تُنشَر خواطر بعد. ترقّب قريباً.",
+    "no_khawatir_in_filter": "لا توجد خواطر في هذه الفئة."
+  },
+  "khawatir_page": {
+    "back_to_khawatir": "العودة إلى الخواطر",
+    "more_khawatir": "خواطر أخرى"
   },
   "research": {
     "title": "الأبحاث والمشاركات العلمية",
