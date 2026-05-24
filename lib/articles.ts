@@ -71,6 +71,11 @@ export const articlesMeta: ArticleMeta[] = [
       ar: 'كلُّ كلمةٍ في الجملة العربيَّة لها موقعٌ من الإعراب: فإذا اختلَّ الموقعُ انكسرَ المعنى. وكذلك المؤمنُ في الحوادث: له موقعٌ ينبغي أن يَعرفه. هذه الحلقةُ الخامسةُ من «حِكَمٌ وبصائر» تَقرأ سورةَ الرُّوم بوصفها مَدرسةً في «موقع البَصيرة» حين تَدور الرَّحى بين قُوًى ليس بينك وبينها إلَّا التاريخ، تُشَخِّص فِتنةَ الشَّماتةِ بمسلمٍ يَختلف عنك مذهبُه، تَرسم موقعَ المسلمِ في الغربِ بين السفارةِ والنَّقد، وتُؤَصِّل لخطابٍ يَتعامل مع الأنماط لا مع الأعيان.',
       en: "Every word in an Arabic sentence has a grammatical station: if the station fails, meaning collapses. So too with the believer in events — he has a station he ought to know. This fifth episode of 'Wisdoms & Insights' reads Sūrat al-Rūm as a school in the 'station of insight' when the mill turns between powers that share with us only history, diagnoses the trial of schadenfreude toward a Muslim of a different school, charts the position of the Muslim in the West between embassy and critique, and grounds a discourse that engages patterns, not personalities.",
     },
+    coverImage: '/articles/where-we-stand/aia-flyer.jpg',
+    coverCaption: {
+      ar: 'هذا المَقال خُلاصَةُ خُطبَة الجُمعَة بِعُنوان «موقعنا من الإعراب» (Where Do We Stand?) الَّتي أَلقاها د. أحمد أبو سيف في «مَسجد أكاديميَّة الأَئمَّة بأمريكا» (AIA Masjid) بِمَدينَة Sachse، ولاية تكساس (الولايات المتَّحدة الأَمريكيَّة)، يوم الجُمعَة 3 أبريل 2026م المُوافِق 15 شَوّال 1447هـ، ضِمن مَهامِّه في رِعايَة أَبناء الجاليَة المُسلِمَة.',
+      en: "This article is a written distillation of the Friday sermon 'Where Do We Stand?' (موقعنا من الإعراب) delivered by Dr. Ahmed Abouseif at the American Imams Academy (AIA) Masjid in Sachse, Texas (USA) on Friday, April 3, 2026 (15 Shawwāl 1447 AH), as part of his pastoral service to the Muslim community.",
+    },
   },
   {
     slug: 'engineering-of-hope',
