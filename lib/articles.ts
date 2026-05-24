@@ -25,6 +25,30 @@ export interface ArticleMeta {
 
 export const articlesMeta: ArticleMeta[] = [
   {
+    slug: 'nourishing-fatherhood',
+    category: 'family',
+    isoDate: '2026-05-20',
+    date: { ar: '٢٠ مايو ٢٠٢٦', en: 'May 20, 2026' },
+    readingMinutes: 14,
+    series: {
+      ar: 'الأسرة والتربية',
+      en: 'Family & Parenting',
+    },
+    episode: 1,
+    title: {
+      ar: 'غَزَلُ الأبِ لابنتِه',
+      en: "A Father's Tender Affection for His Daughter",
+    },
+    subtitle: {
+      ar: 'حِصْنٌ من الحُبِّ يَقي قلبَها من سهامِ المتربِّصين — بين هَدْي النبوّة، وشهادةِ علم النفس، وفِقْه الحدود',
+      en: 'A Shield of Love That Guards Her Heart Against the Predators — Between Prophetic Guidance, Psychological Insight, and the Boundaries of the Sacred Law',
+    },
+    excerpt: {
+      ar: 'بنتُ المُسلِم في زمنِ المتربِّصين: كيف يَحْمِيها أبوها بالكلمةِ الحانيةِ قبل أن يَسبِقَه إليها مَن يَكِيدُ بقلبِها الغَضّ؟ هذه الحلقة الأولى من سلسلة «الأسرة والتربية» تُؤَصِّل لِما نُسَمِّيه ـ مع التحفُّظ على اللَّفظ ـ «غَزَلَ الأبِ المُباح»: تَبدأ بِتَحريرِ المُصطَلَح، ثُمَّ تَستَخرِج من هَدْي النبوّة مع فاطمةَ رضي الله عنها أَربَعَ تَعبيراتٍ مُتَتاليةٍ للحُبِّ المُعلَن، وتَستَشهِد بشهاداتِ علماء النَّفس المُسلِمين والمُعاصِرين، وتَرسُم سَبعةَ مَيادينَ تَطبيقيَّةٍ، ثُمَّ تَضَع سَبعةَ ضَوابطَ شَرعيَّةٍ تَحفَظ هذا الغَزَلَ المُباحَ في دائرةِ الأُبوَّةِ الراشدة.',
+      en: "The Muslim daughter in an age of predators: how does her father shield her with tender words before someone with ill intent reaches her tender heart first? This first episode of the 'Family & Parenting' series roots what we are calling — with reservation about the term — 'a father's permissible tender affection': it begins by clarifying the term, then extracts from Prophetic guidance with Fātimah (may Allah be pleased with her) four consecutive expressions of openly declared love, draws on the testimonies of Muslim and contemporary psychologists, charts seven fields of practical application, and lays down seven Sharia guidelines that keep this permissible paternal affection within the dignity of mature fatherhood.",
+    },
+  },
+  {
     slug: 'where-we-stand',
     category: 'wisdom-insights',
     isoDate: '2026-05-24',
