@@ -4,10 +4,15 @@ subtitle: "A Shield of Love That Guards Her Heart Against the Predators — Betw
 date: "2026-05-20"
 locale: "en"
 slug: "nourishing-fatherhood"
-series: "Family & Upbringing"
+series: "Family & Parenting"
 episode: 1
-readingMinutes: 12
+readingMinutes: 14
+author: "Dr. Ahmed Abouseif"
+coverImage: "/lib/cover.jpg"
+description: "The Muslim daughter in an age of predators: how does her father shield her with tender words before someone with ill intent reaches her tender heart first? A rooting in Prophetic guidance with Fātimah (may Allah be pleased with her), the testimony of contemporary psychology, and seven boundaries that keep this permissible paternal affection within the dignity of mature fatherhood."
 ---
+
+### A Word to the Reader
 
 When I first read the question, I paused at the very word "flirtation." In the modern ear, the term carries shades that one is reluctant to associate with the relationship between a father and his daughter. Yet, upon reflection, the question touches a deep wound in many of our homes: an adolescent girl whose early femininity is awakening in her depths, longing for a word that will quench this thirst and reassure her that she is beautiful, valued, and beloved. All around her are predators waiting to seize this tender heart with the first compliment, so will the dignified father leave this void open for someone else to fill with what is forbidden?
 
@@ -23,25 +28,25 @@ Those who find the term unsettling may prefer alternatives such as "paternal end
 
 The Prophet Muhammad, peace and blessings be upon him — the most dignified and revered of all people — never shied from openly expressing his love for his daughter, from showing her tenderness, and from praising her in public. Among the most beautiful narrations in this regard is that reported by the Mother of the Believers, ʿĀʾishah, may Allah be pleased with her, who said:
 
-> "I have never seen anyone more resembling the Messenger of Allah ﷺ in manner, conduct, and demeanour than Fātimah. When she would come to him, he would rise to greet her, take her by the hand, kiss her, and seat her in his own place. And when he would visit her, she would rise to greet him, take his hand, kiss him, and seat him in her place." (Reported by Abū Dāwūd and al-Tirmidhī; al-Ḥākim graded it ṣaḥīḥ on the conditions of al-Bukhārī and Muslim.)
+> "I have never seen anyone more resembling the Messenger of Allah ﷺ in manner, conduct, and demeanour than Fātimah. When she would come to him, he would rise to greet her, take her by the hand, kiss her, and seat her in his own place. And when he would visit her, she would rise to greet him, take his hand, kiss him, and seat him in her place."[^1]
 
-Consider this divinely guided scene: he rises for his daughter, takes her hand, kisses her openly, and gives her his own seat. Four consecutive expressions of love in a single moment! And this from a Prophet whose presence inspired awe, whose companions revered him in reverence. If this is the practice of the Master of Creation, then what father after him would feel embarrassed to do the same?
+Consider this divinely guided scene: he rises for his daughter, takes her hand, kisses her openly, and gives her his own seat. Four consecutive expressions of love in a single moment! And this from a Prophet whose presence inspired awe, whose companions revered him with reverence. If this is the practice of the Master of Creation, then what father after him would feel embarrassed to do the same?
 
-In another narration, he ﷺ said: "Fātimah is a part of me; what hurts her hurts me, and what disturbs her disturbs me." (Agreed upon — al-Bukhārī and Muslim.) This is an open declaration that she is a piece of his heart — that her feelings are an extension of his own, and that her pain is his pain. What tenderness is gentler than for a father to say to his daughter: "You are part of me, and I am part of you"?
+In another narration, he ﷺ said: "Fātimah is a part of me; what hurts her hurts me, and what disturbs her disturbs me."[^2] This is an open declaration that she is a piece of his heart — that her feelings are an extension of his own, and that her pain is his pain. What tenderness is gentler than for a father to say to his daughter: "You are part of me, and I am part of you"?
 
-His ﷺ teaching was not limited to actions alone. He would speak beautiful words to her, pray for her in front of others, and praise her for her intelligence, faith, and patience. He gave her the affectionate title "Umm Abīhā" — "the Mother of Her Father" — a name that combines tenderness with acknowledgment of her emotional role in his life after the loss of her mother Khadījah, may Allah be pleased with her, wife of the Prophet ﷺ.
+His ﷺ teaching was not limited to actions alone. He would speak beautiful words to her, pray for her in front of others, and praise her for her intelligence, faith, and patience. He gave her the affectionate title *Umm Abīhā* — "the Mother of Her Father" — a name that combines tenderness with acknowledgment of her emotional role in his life after the loss of her mother Khadījah, may Allah be pleased with her, wife of the Prophet ﷺ.
 
 ### III. In the Words of Muslim and Contemporary Psychologists
 
 This truth is no longer the preserve of religious scholars alone. Contemporary psychologists have come to affirm what Prophetic guidance established fourteen centuries ago, revealing that a father's openly expressed love is no emotional luxury but a psychological necessity — one that prevents the breaking of his daughter's personality or her drift toward harm, and that shapes her perception of her own feminine self with a force scarcely rivalled by any other factor.
 
-The Kuwaiti family counsellor **Dr. Jāsim al-Muṭawwaʿ** frequently emphasizes in his lectures and articles a principle of utmost importance, saying: "The girl who finds no one to praise her at home will search for someone to praise her outside it." For this reason he urges fathers to devote a private weekly sitting to each daughter, in which he showers her with words of pride and admiration. This sentence ought to be inscribed in gold on the walls of every home in which a daughter lives.
+The Kuwaiti family counsellor **Dr. Jāsim al-Muṭawwaʿ** frequently emphasizes in his lectures and articles a principle of utmost importance, saying: "The girl who finds no one to praise her at home will search for someone to praise her outside it." For this reason he urges fathers to devote a private weekly sitting to each daughter, in which he showers her with words of pride and admiration.[^3] This sentence ought to be inscribed in gold on the walls of every home in which a daughter lives.
 
-The Syrian educational thinker **Dr. ʿAbd al-Karīm Bakkār** proceeds in the same direction when he declares that emotional deprivation is the most dangerous form of hunger. He holds that a girl — by the very nature of her psychological constitution — needs what he calls "the testimony of the men in her life" affirming that she is valued and admired; if she does not receive it from her father and brother, she will obtain it from a stranger in some other way. For this reason, as Bakkār puts it, a father's words "You are my treasure" carry a psychological weight equivalent to thousands of words from anyone else.
+The Syrian educational thinker **Dr. ʿAbd al-Karīm Bakkār** proceeds in the same direction when he declares that emotional deprivation is the most dangerous form of hunger. He holds that a girl — by the very nature of her psychological constitution — needs what he calls "the testimony of the men in her life" affirming that she is valued and admired; if she does not receive it from her father and brother, she will obtain it from a stranger in some other way. For this reason, as Bakkār puts it, a father's words "You are my treasure" carry a psychological weight equivalent to thousands of words from anyone else.[^4]
 
-In the same vein, the specialist in child development **Dr. Muṣṭafā Abū Saʿd** speaks of what he calls the "bank of positive emotions" — a balance that the father deposits in his daughter's heart from her earliest years through words of appreciation and praise, so that when she matures she will find in this bank enough to dispense with the suspect external flattery she might otherwise crave. Abū Saʿd warns against a common pattern among fathers that he names "the emotionally silent father": for this father — despite his good intentions — unknowingly drives his daughter toward the first young man who treats her with charm.
+In the same vein, the specialist in child development **Dr. Muṣṭafā Abū Saʿd** speaks of what he calls the "bank of positive emotions" — a balance that the father deposits in his daughter's heart from her earliest years through words of appreciation and praise, so that when she matures she will find in this bank enough to dispense with the suspect external flattery she might otherwise crave. Abū Saʿd warns against a common pattern among fathers that he names "the emotionally silent father": for this father — despite his good intentions — unknowingly drives his daughter toward the first young man who treats her with charm.[^5]
 
-These testimonies are not isolated; they are supported by extensive empirical research. A study conducted at Oxford University in 2002, following more than seventeen thousand children, demonstrated that girls raised in families with an emotionally present father were significantly less likely to suffer mental illness, anxiety, and depression. Other studies have shown that more than seventy percent of teenage out-of-wedlock pregnancies in Western environments occur in homes where the father is either physically absent or emotionally silent, and that girls close to their fathers delay entry into early romantic relationships and tend to form marriages that are more stable and enduring.
+These testimonies are not isolated; they are supported by extensive empirical research. A study conducted at Oxford University in 2002, following more than seventeen thousand children, demonstrated that girls raised in families with an emotionally present father were significantly less likely to suffer mental illness, anxiety, and depression.[^6] Other studies have shown that more than seventy percent of teenage out-of-wedlock pregnancies in Western environments occur in homes where the father is either physically absent or emotionally silent, and that girls close to their fathers delay entry into early romantic relationships and tend to form marriages that are more stable and enduring.
 
 The meaning upon which all these voices and studies converge is one: a daughter's heart is like an empty vessel — if her father does not fill it with love and praise, someone else will fill it with what no father would wish to see.
 
@@ -55,7 +60,7 @@ If it is established that this "flirtation" is sought after both by religion and
 
 - **Kissing and embracing:** a kiss on the forehead, the hand, or the head; a fatherly embrace at decisive moments. Such tender contact releases in her brain the hormone of safety that guards her from the hunger that would drive her to a stranger's arms.
 
-- **A word that belongs only to her:** an endearing title shared only between the two of you, or a call that no one else uses — just as the Prophet ﷺ called Fātimah "Umm Abīhā," the Mother of Her Father.
+- **A word that belongs only to her:** an endearing title shared only between the two of you, or a call that no one else uses — just as the Prophet ﷺ called Fātimah *Umm Abīhā*, "the Mother of Her Father."
 
 - **The private sitting:** half an hour each week in which he devotes himself to her alone, asking about her studies, her friends, and her dreams, and giving her words of pride.
 
@@ -89,9 +94,11 @@ If a father observes these seven guidelines, he has opened to his daughter's hea
 
 **Second Reminder:** Many fathers imagine that harshness is "manliness," and that the open expression of love is a weakness suited only to women. This is an inverted understanding. The Prophet ﷺ — the master of all men — was the gentlest of people with his family, and this in no way diminished his standing; rather, it elevated it.
 
-**Third Reminder:** This paternal affection is a religious responsibility, not a favour the father bestows upon his daughter. The Prophet ﷺ said: "No father has given his child a gift better than good manners" (reported by al-Tirmidhī), and among the best of manners is the fortification of the heart with love before disciplining it with words.
+**Third Reminder:** This paternal affection is a religious responsibility, not a favour the father bestows upon his daughter. The Prophet ﷺ said: "No father has given his child a gift better than good manners,"[^7] and among the best of manners is the fortification of the heart with love before disciplining it with words.
 
 **Fourth Reminder:** If the relationship has been cold for many years, the father must not despair of starting afresh. Begin with one word, then two, then embrace her one day and say: "I love you, my daughter." It will not cost you much, but it will open in her heart a door she once believed to be sealed forever.
+
+---
 
 ### Conclusion
 
@@ -100,3 +107,17 @@ In an age when voices of predators surround our daughters' hearts from every dir
 So you, dignified father: do not be embarrassed to lavish tender words upon your daughter within the bounds of what Allah has permitted. A single word from you, filling her heart, is enough — by Allah's permission — to ward off the predators' arrows. If you yourself fill that void, no one else will find a path to her heart.
 
 And may the peace and blessings of Allah be upon our Prophet Muḥammad, his family, and all his companions.
+
+[^1]: Reported by Abū Dāwūd in his *Sunan*, Book of Manners, Chapter on Standing in Respect, no. 5217; al-Tirmidhī in his *Sunan*, Book of Virtues, Chapter on the Virtues of Fātimah (RA), no. 3872; al-Nasāʾī in *al-Sunan al-Kubrā*, no. 8517; and al-Ḥākim in *al-Mustadrak* (4/272), who said: "This is an authentic ḥadīth on the conditions of al-Bukhārī and Muslim, though they did not record it" — and al-Dhahabī concurred. Ibn Mufliḥ graded its chain *ḥasan* in *al-Ādāb al-Sharʿiyyah* (2/259), and al-Albānī authenticated it in *Mukhtaṣar al-Shamāʾil* (no. 200).
+
+[^2]: Agreed upon: al-Bukhārī in his *Ṣaḥīḥ*, Book of the Virtues of the Companions, Chapter on the Virtues of the Family of the Messenger of Allah ﷺ and the Standing of Fātimah, no. 3714; and Muslim in his *Ṣaḥīḥ*, Book of the Virtues of the Companions, Chapter on the Virtues of Fātimah the Daughter of the Prophet ﷺ, no. 2449; on the authority of al-Miswar ibn Makhramah (may Allah be pleased with him).
+
+[^3]: See: Dr. Jāsim Muḥammad al-Muṭawwaʿ, official website [www.drjasem.com](https://www.drjasem.com), Family and Educational Articles section; his lecture *Kayfa Turabbī Ibnataka* ("How to Raise Your Daughter") on his channel. See also his books *Manhaj al-Thaqāfah al-Zawjiyyah* and the series *Abnāʾunā wa-l-Murāhaqah* ("Our Children and Adolescence").
+
+[^4]: See: Dr. ʿAbd al-Karīm Bakkār, *Ḥawla al-Tarbiyah wa-l-Taʿlīm* ("On Upbringing and Education"), Dār al-Salām, Cairo; and his book *Abnāʾunā wa-Taḥaddiyāt al-Murāhaqah* ("Our Children and the Challenges of Adolescence"), Dār Wujūh, Riyadh. He has articles on "Emotional Deprivation" published in *al-Mujtamaʿ* magazine (Kuwait) and on his official website.
+
+[^5]: See: Dr. Muṣṭafā Abū Saʿd, *Bank al-Mashāʿir* ("The Bank of Emotions"), Jarīr Bookstore, Riyadh; and his book *al-Mahārāt al-Asāsiyyah fī Tarbiyat al-Abnāʾ* ("Essential Skills in Raising Children"), Dār al-Maʿrifah, Beirut. He has audio lectures titled *al-Ab al-Fāʿil* ("The Active Father") published on the Maʿrifah channel.
+
+[^6]: See the report *In the Best Interests of the Child*, Oxford University, 2002, which followed more than 17,000 British children from birth. For further reading: the article "The Role of the Emotional Father in a Daughter's Life," published on Al-Jazeera Net, Women's section, January 6, 2021. See also: David Popenoe, *Life Without Father*, Free Press, New York, 1996, pp. 139–163.
+
+[^7]: Reported by al-Tirmidhī in his *Sunan*, Book of Piety and Kinship, Chapter on the Manners of Raising Children, no. 1952; and al-Ḥākim in *al-Mustadrak* (4/263), on the authority of ʿAmr ibn Saʿīd ibn al-ʿĀṣ (may Allah be pleased with him). Al-Tirmidhī said: "This is a *mursal* ḥadīth, and ʿĀmir ibn Abī ʿĀmir is the son of Ṣāliḥ ibn Rustum al-Khazzāz." Some scholars have graded it *ḥasan* by virtue of supporting evidence.
