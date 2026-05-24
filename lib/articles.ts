@@ -25,6 +25,30 @@ export interface ArticleMeta {
 
 export const articlesMeta: ArticleMeta[] = [
   {
+    slug: 'satan-and-man-goal-and-means',
+    category: 'wisdom-insights',
+    isoDate: '2018-10-12',
+    date: { ar: '١٢ أكتوبر ٢٠١٨', en: 'October 12, 2018' },
+    readingMinutes: 15,
+    series: {
+      ar: 'حِكَمٌ وبصائر',
+      en: 'Wisdoms & Insights',
+    },
+    episode: 6,
+    title: {
+      ar: 'الشيطان والإنسان: غاية ووسيلة',
+      en: 'Satan and Man: Goal and Means',
+    },
+    subtitle: {
+      ar: 'خطبة جمعة في مداخل الشيطان: الطمع، البخل، المقارنات، صحبة السوء',
+      en: "A Friday sermon on Satan's entry points: greed, miserliness, comparisons, and bad company",
+    },
+    excerpt: {
+      ar: 'تأمُّلٌ في غاية الشيطان من ابن آدم — ﴿لأغوينَّهم﴾ — والمداخل التي يتسلَّل منها إلى النَّفس: الطمعُ المختلفُ توزيعُه بين الناس، والبخلُ في المال والفكرة والمشاعر، والمقارناتُ التي تتَّخذ مقياسَ الهوى فتُهلِك. خلاصةُ خطبة جمعة في «مركز مِيسكويت الإسلامي» (Mesquite Islamic Center) بولاية تكساس، أُلقيت في 12 أكتوبر 2018م، مع وصايا تطبيقية لحفظ المؤمن من مداخل الشيطان وصحبة السوء.',
+      en: "A reflection on Satan's goal with the children of Adam — ﴿I will surely lead them astray﴾ — and the entry points by which he infiltrates the soul: greed (whose distribution varies between people), miserliness (with wealth, ideas, and feelings), and comparisons that take desire as their measure and so destroy. A distillation of a Friday sermon at the Mesquite Islamic Center (M.I.C.), Texas, delivered on October 12, 2018, with practical counsels to safeguard the believer from Satan's entry points and from bad company.",
+    },
+  },
+  {
     slug: 'nourishing-fatherhood',
     category: 'family',
     isoDate: '2026-05-20',
