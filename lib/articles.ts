@@ -25,6 +25,30 @@ export interface ArticleMeta {
 
 export const articlesMeta: ArticleMeta[] = [
   {
+    slug: 'purification-before-the-meeting',
+    category: 'wisdom-insights',
+    isoDate: '2026-05-30',
+    date: { ar: '٣٠ مايو ٢٠٢٦', en: 'May 30, 2026' },
+    readingMinutes: 10,
+    series: {
+      ar: 'حِكَمٌ وبصائر',
+      en: 'Wisdoms & Insights',
+    },
+    episode: 8,
+    title: {
+      ar: 'ثُمَّ لْيَقْضُوا تَفَثَهُمْ',
+      en: 'Then Let Them Complete Their Cleansing',
+    },
+    subtitle: {
+      ar: 'لِماذا يَسبِقُ التَّفَثُ الطَّوافَ؟ — طَهارةٌ قبلَ القُرب، في الحجِّ وفي الطَّريقِ إلى الله',
+      en: 'Why Does the Cleansing Come Before the Circumambulation? — Purification Before Nearness, in the Hajj and on the Road to God',
+    },
+    excerpt: {
+      ar: 'آيةٌ من كلمتين في سورة الحجِّ تَفتحُ رؤيةً كاملةً لمسيرةِ الإنسانِ إلى الله. هذه الحلقةُ الثامنةُ من «حِكَمٌ وبصائر» تَقرأُ ﴿ثُمَّ لْيَقْضُوا تَفَثَهُمْ﴾ في موضعِها من تكاليفِ السُّورة (تَطهيرٌ، فوَفاءٌ، فقُرب)، وتُبيِّنُ لماذا سُمِّيت السُّورةُ بالحجِّ وهي سورةُ رِحلةٍ لا سورةُ مَناسك، ثُمّ تَكشِفُ أنّ أخطرَ التَّفَثِ ما لا يَراه أحد: غُبارُ الحَسَدِ والكِبرِ والقَسوةِ على الرُّوح. خاتمتُها سُؤالٌ يَبقى: ليس المُهمُّ هل وَصَلتَ إلى البَيت، بل بأيِّ قلبٍ تَلقى ربَّ البَيت.',
+      en: "A two-word verse in Sūrat al-Ḥajj opens a complete vision of the human journey to God. This eighth episode of 'Wisdoms & Insights' reads ﴾Then let them complete their cleansing﴿ in its place among the sūra's obligations (purification, then fulfillment, then nearness), shows why the sūra is named after the Hajj though it is a sūra of a journey rather than of rites, then reveals that the most dangerous tafath is the one no one sees: the dust of envy, arrogance, and hardness upon the soul. It closes with a question that lingers — what matters is not whether you reached the House, but with what heart you meet the Lord of the House.",
+    },
+  },
+  {
     slug: 'days-of-allah',
     category: 'wisdom-insights',
     isoDate: '2026-05-24',
