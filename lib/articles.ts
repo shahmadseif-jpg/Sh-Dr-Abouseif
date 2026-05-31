@@ -25,6 +25,30 @@ export interface ArticleMeta {
 
 export const articlesMeta: ArticleMeta[] = [
   {
+    slug: 'kaaba-or-qibla',
+    category: 'wisdom-insights',
+    isoDate: '2026-05-31',
+    date: { ar: '٣١ مايو ٢٠٢٦', en: 'May 31, 2026' },
+    readingMinutes: 13,
+    series: {
+      ar: 'حِكَمٌ وبصائر',
+      en: 'Wisdoms & Insights',
+    },
+    episode: 11,
+    title: {
+      ar: 'كعبةٌ أم قِبلة؟',
+      en: 'A Kaaba or a Qiblah?',
+    },
+    subtitle: {
+      ar: 'عند البيت... أم في البيت؟ — لماذا تَجمَعُ القِبلةُ كلَّ الوُجوه، ولا يَنكشِفُ سِرُّ الكعبةِ إلا لقلبٍ حاضر',
+      en: 'At the House... or Within It? — Why the Qiblah Gathers Every Face, While the Secret of the Kaaba Unveils Only to a Present Heart',
+    },
+    excerpt: {
+      ar: 'مَلايينُ يَصِلونَ إلى الكعبة، فكم منهم تَصِلُ الكعبةُ إلى قلبِه؟ هذه الحلقةُ الحاديةَ عشرةَ من «حِكَمٌ وبصائر» تُفرِّقُ بين أن تكونَ عند البيتِ وأن يكونَ البيتُ فيك: فالقِبلةُ يَتوجَّهُ إليها الجميعُ وتَبقى في القلبِ حتّى الموت، أمّا سِرُّ الكعبةِ فلا يَنكشِفُ إلا لقلبٍ حاضرٍ مُعَظِّم. ومن المنافقينَ ﴿قَامُوا كُسَالَىٰ﴾ إلى أثرِ عمرَ عند الحجرِ «إنّك حجرٌ لا تَضُرُّ ولا تَنفَع»، تَستقرُّ على ميزانٍ واحد: ﴿وَلَٰكِن يَنَالُهُ التَّقْوَىٰ مِنكُمْ﴾. فليس كلُّ مَن وَصَلَ قد وَصَل؛ وإنّما يَصِلُ مَن عادَت به الكعبةُ إلى الله.',
+      en: "Millions reach the Kaaba — but how many does the Kaaba reach in the heart? This eleventh episode of 'Wisdoms & Insights' distinguishes being at the House from the House being within you: the qiblah is turned toward by all and dwells in the heart until death, while the secret of the Kaaba unveils only to a present, reverent heart. From the hypocrites who 'stand lazily' to ʿUmar at the Black Stone — 'you are but a stone that neither harms nor benefits' — it rests on a single scale: 'but what reaches Him is the piety from you.' Not everyone who arrived has truly arrived; truly arrived is he whom the Kaaba returned to God.",
+    },
+  },
+  {
     slug: 'hearts-before-the-rows',
     category: 'wisdom-insights',
     isoDate: '2026-05-31',
