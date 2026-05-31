@@ -1,4 +1,6 @@
 import Hero from '@/components/Hero';
+import Mission from '@/components/Mission';
+import IntellectualProjects from '@/components/IntellectualProjects';
 import Stats from '@/components/Stats';
 import LatestVideos from '@/components/LatestVideos';
 import FacebookEmbed from '@/components/FacebookEmbed';
@@ -20,6 +22,8 @@ export default async function Home({
   return (
     <>
       <Hero />
+      <Mission />
+      <IntellectualProjects />
       <Stats />
       <Suspense fallback={null}>
         <LatestVideos />
