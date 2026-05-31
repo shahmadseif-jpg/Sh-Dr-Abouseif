@@ -25,6 +25,30 @@ export interface ArticleMeta {
 
 export const articlesMeta: ArticleMeta[] = [
   {
+    slug: 'hearts-before-the-rows',
+    category: 'wisdom-insights',
+    isoDate: '2026-05-31',
+    date: { ar: '٣١ مايو ٢٠٢٦', en: 'May 31, 2026' },
+    readingMinutes: 13,
+    series: {
+      ar: 'حِكَمٌ وبصائر',
+      en: 'Wisdoms & Insights',
+    },
+    episode: 10,
+    title: {
+      ar: 'تَسويةُ القُلوبِ قبلَ الصُّفوف',
+      en: 'Straightening the Hearts Before the Rows',
+    },
+    subtitle: {
+      ar: 'حين تَتلاصَقُ الأقدامُ وتَتباعَدُ القلوب — قانونُ الفُرجةِ التي يَدخُلُ منها الشَّيطان، في الصفِّ وفي النَّفس',
+      en: 'When Feet Touch and Hearts Drift Apart — The Law of the Gap the Devil Enters, in the Row and in the Soul',
+    },
+    excerpt: {
+      ar: 'نُسَوّي صُفوفَنا بالأصابع، فهل نُسَوّي قُلوبَنا؟ هذه الحلقةُ العاشرةُ من «حِكَمٌ وبصائر» تَنطلِقُ من قولِه ﷺ «ولا تَختلِفوا فتَختلِفَ قلوبُكم» لتَكشِفَ أنّ الصفَّ المستقيمَ تدريبٌ على تقاربِ النفوس، ثُمّ تَستخرِجُ «قانونَ الخَلَل»: فُرجةٌ صغيرةٌ تُهمَل، فيَنفُذُ منها الشيطان، فتَتّسِع — وعلاجُها الأمرُ النبويُّ نفسُه: «سُدُّوا الخَلَل» قبل أن يَتّسِع. وتَرتقي بالفكرةِ من التربيةِ الفرديّةِ إلى هَمِّ الإصلاح: أمّةٌ لا تَجتمِعُ في مسجدٍ كيف تَحمِلُ رسالة؟',
+      en: "We align our rows by finger-widths — but do we align our hearts? This tenth episode of 'Wisdoms & Insights' begins from the Prophet's words 'do not differ, lest your hearts differ' to reveal that the straight row is a training in the nearness of souls, then extracts 'the law of the breach': a small gap left neglected, through which the devil slips and which then widens — its cure the very Prophetic command, 'close the breach' before it widens. It raises the idea from individual cultivation to the reformist concern: a nation that cannot unite in one mosque, how will it carry a message?",
+    },
+  },
+  {
     slug: 'the-appetite-for-obedience',
     category: 'wisdom-insights',
     isoDate: '2026-05-31',
