@@ -1,9 +1,12 @@
+import type { Metadata } from 'next';
 import { setRequestLocale, getTranslations } from 'next-intl/server';
 import { notFound } from 'next/navigation';
 import Link from 'next/link';
 import Image from 'next/image';
 import { getArticleMeta, getAllArticles, categoryLabels } from '@/lib/articles';
 import { getArticleBody } from '@/lib/articles-server';
+import { SITE_URL, SITE_NAME, SITE_ORG } from '@/lib/site';
+import ShareButtons from '@/components/ShareButtons';
 import { ReactNode } from 'react';
 
 export const dynamic = 'force-dynamic';
@@ -12,14 +15,41 @@ export async function generateMetadata({
   params,
 }: {
   params: Promise<{ locale: string; slug: string }>;
-}) {
+}): Promise<Metadata> {
   const { locale, slug } = await params;
   const meta = getArticleMeta(slug);
   if (!meta) return { title: locale === 'ar' ? 'مقال غير موجود' : 'Article not found' };
   const lang = locale as 'ar' | 'en';
+  const author = SITE_NAME[lang] ?? SITE_NAME.ar;
+  const title = `${meta.title[lang]} — ${author}`;
+  const description = meta.excerpt[lang];
+  const path = `/articles/${slug}`;
+  const image = meta.coverImage || '/dr-ahmed.jpg';
+
   return {
-    title: `${meta.title[lang]} — ${locale === 'ar' ? 'د. أحمد أبو سيف' : 'Dr. Ahmed Abouseif'}`,
-    description: meta.excerpt[lang],
+    title,
+    description,
+    alternates: {
+      canonical: `/${locale}${path}`,
+      languages: { ar: `/ar${path}`, en: `/en${path}` },
+    },
+    openGraph: {
+      type: 'article',
+      title,
+      description,
+      url: `/${locale}${path}`,
+      siteName: author,
+      locale: locale === 'ar' ? 'ar_EG' : 'en_US',
+      publishedTime: meta.isoDate,
+      authors: [author],
+      images: [{ url: image }],
+    },
+    twitter: {
+      card: 'summary_large_image',
+      title,
+      description,
+      images: [image],
+    },
   };
 }
 
@@ -48,8 +78,29 @@ export default async function ArticlePage({
   // Get other articles for "more articles" section
   const otherArticles = getAllArticles().filter((a) => a.slug !== slug).slice(0, 3);
 
+  // Sharing + structured data
+  const shareUrl = `${SITE_URL}/${locale}/articles/${slug}`;
+  const ogImage = meta.coverImage ? `${SITE_URL}${meta.coverImage}` : `${SITE_URL}/dr-ahmed.jpg`;
+  const jsonLd = {
+    '@context': 'https://schema.org',
+    '@type': 'Article',
+    headline: meta.title[lang],
+    description: meta.excerpt[lang],
+    inLanguage: lang,
+    datePublished: meta.isoDate,
+    dateModified: meta.isoDate,
+    author: { '@type': 'Person', name: SITE_NAME[lang] ?? SITE_NAME.ar, url: SITE_URL },
+    publisher: { '@type': 'Organization', name: SITE_ORG[lang] ?? SITE_ORG.ar },
+    mainEntityOfPage: shareUrl,
+    image: ogImage,
+  };
+
   return (
     <article className="py-12 sm:py-16">
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
+      />
       <div className="mx-auto max-w-3xl px-4 sm:px-6 lg:px-8">
         {/* Back link */}
         <Link
@@ -120,6 +171,11 @@ export default async function ArticlePage({
         {/* Article body */}
         <div className={`article-prose ${locale === 'ar' ? 'article-rtl' : 'article-ltr'}`}>
           {renderMarkdown(trimmedBody, locale as 'ar' | 'en')}
+        </div>
+
+        {/* Share bar */}
+        <div className="mt-12 pt-8 border-t border-navy-100">
+          <ShareButtons url={shareUrl} title={meta.title[lang]} locale={lang} />
         </div>
 
         {/* More articles section */}
