@@ -25,6 +25,30 @@ export interface ArticleMeta {
 
 export const articlesMeta: ArticleMeta[] = [
   {
+    slug: 'the-appetite-for-obedience',
+    category: 'wisdom-insights',
+    isoDate: '2026-05-31',
+    date: { ar: '٣١ مايو ٢٠٢٦', en: 'May 31, 2026' },
+    readingMinutes: 13,
+    series: {
+      ar: 'حِكَمٌ وبصائر',
+      en: 'Wisdoms & Insights',
+    },
+    episode: 9,
+    title: {
+      ar: 'شَهوةُ الطَّاعة',
+      en: 'The Appetite for Obedience',
+    },
+    subtitle: {
+      ar: 'حين تَندفِعُ النَّفسُ إلى العبادةِ كما تَندفِعُ إلى الشَّهوة — كيف رَبَّى النبيُّ ﷺ القلبَ بين الإيقاظِ والتَّهذيب؟',
+      en: 'When the Soul Rushes to Worship as It Rushes to Desire — How the Prophet ﷺ Trained the Heart Between Kindling and Tempering',
+    },
+    excerpt: {
+      ar: 'كما أنّ للمَعصيةِ شَهوة، فقد تكونُ للطَّاعةِ شَهوةٌ أيضاً: اندفاعٌ صادقٌ يَشتعِلُ ثُمّ يَخبو. هذه الحلقةُ التاسعةُ من «حِكَمٌ وبصائر» تَستخرِجُ من قصّةِ النَّفرِ الثَّلاثةِ، وثناءِ النبيِّ ﷺ على عبدِ اللهِ بنِ عمر، وحَلِّه لحبلِ زينبَ، قاعدةً جامعةً: أنّ النبيَّ ﷺ لا يُعالِجُ العبادةَ بل يُعالِجُ صاحبَها؛ يُوقِظُ الفاتِرَ ويُهذِّبُ المُندفِعَ ليَرُدَّ كليهما إلى التَّوازُنِ الذي مِحورُه الدَّوامُ لا الكَثرة. شَهوةٌ تُوقِظ، فمَحبّةٌ تُرَبّي، فعَهدٌ يُثبِّت.',
+      en: "Just as disobedience has its appetite, obedience too may have one: a sincere surge that blazes and then fades. This ninth episode of 'Wisdoms & Insights' draws from the story of the three men, the Prophet's praise of ʿAbdullāh ibn ʿUmar, and his untying of Zaynab's rope a unifying principle — that the Prophet ﷺ treats not the worship but the worshipper, kindling the languid and tempering the impulsive to return both to the balance whose axis is constancy, not quantity. An appetite that awakens, a love that nurtures, a covenant that steadies.",
+    },
+  },
+  {
     slug: 'purification-before-the-meeting',
     category: 'wisdom-insights',
     isoDate: '2026-05-30',
