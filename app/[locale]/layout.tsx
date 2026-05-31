@@ -1,4 +1,5 @@
 import type { Metadata } from 'next';
+import Script from 'next/script';
 import { NextIntlClientProvider } from 'next-intl';
 import { getMessages, getTranslations } from 'next-intl/server';
 import { notFound } from 'next/navigation';
@@ -6,6 +7,7 @@ import { Cairo, Inter, Cormorant_Garamond } from 'next/font/google';
 import { routing } from '@/i18n/routing';
 import Header from '@/components/Header';
 import Footer from '@/components/Footer';
+import { SITE_URL, SITE_NAME } from '@/lib/site';
 import '../globals.css';
 
 const cairo = Cairo({
@@ -36,15 +38,26 @@ export async function generateMetadata({
 }): Promise<Metadata> {
   const { locale } = await params;
   const t = await getTranslations({ locale, namespace: 'site' });
+  const lang = locale as 'ar' | 'en';
 
   return {
+    metadataBase: new URL(SITE_URL),
     title: t('title'),
     description: t('description'),
     openGraph: {
       title: t('title'),
       description: t('description'),
       type: 'website',
+      siteName: SITE_NAME[lang] ?? SITE_NAME.ar,
+      url: `/${locale}`,
       locale: locale === 'ar' ? 'ar_EG' : 'en_US',
+      images: ['/dr-ahmed.jpg'],
+    },
+    twitter: {
+      card: 'summary_large_image',
+      title: t('title'),
+      description: t('description'),
+      images: ['/dr-ahmed.jpg'],
     },
     alternates: {
       languages: {
@@ -87,6 +100,12 @@ export default async function LocaleLayout({
           <main className="flex-1">{children}</main>
           <Footer />
         </NextIntlClientProvider>
+        {/* Privacy-friendly analytics (activates once the domain is added in a Plausible account) */}
+        <Script
+          defer
+          data-domain="sh-dr-abouseif.vercel.app"
+          src="https://plausible.io/js/script.js"
+        />
       </body>
     </html>
   );
