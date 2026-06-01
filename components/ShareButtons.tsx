@@ -5,7 +5,7 @@ import { useState } from 'react';
 type Props = {
   url: string;
   title: string;
-  locale: 'ar' | 'en';
+  locale: string;
 };
 
 export default function ShareButtons({ url, title, locale }: Props) {

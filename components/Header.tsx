@@ -23,7 +23,11 @@ export default function Header() {
     { href: '/contact', label: t('contact') },
   ];
 
-  const otherLocale = locale === 'ar' ? 'en' : 'ar';
+  const switchLocales: { code: 'ar' | 'en' | 'es'; label: string }[] = [
+    { code: 'ar', label: 'ع' },
+    { code: 'en', label: 'EN' },
+    { code: 'es', label: 'ES' },
+  ];
 
   return (
     <header className="sticky top-0 z-50 w-full border-b border-navy-100 bg-white/95 backdrop-blur supports-[backdrop-filter]:bg-white/80">
@@ -66,13 +70,23 @@ export default function Header() {
               </Link>
             );
           })}
-          <Link
-            href={pathname}
-            locale={otherLocale}
-            className="ms-2 px-3 py-2 text-sm border border-navy-200 rounded-md text-navy-600 hover:bg-navy-50 transition-colors no-underline"
-          >
-            {t('language')}
-          </Link>
+          <div className="ms-2 flex items-center gap-1 border border-navy-200 rounded-md p-0.5">
+            {switchLocales.map((l) => (
+              <Link
+                key={l.code}
+                href={pathname}
+                locale={l.code}
+                className={`px-2 py-1 text-xs rounded transition-colors no-underline ${
+                  locale === l.code
+                    ? 'bg-navy-600 text-white'
+                    : 'text-navy-600 hover:bg-navy-50'
+                }`}
+                aria-current={locale === l.code ? 'true' : undefined}
+              >
+                {l.label}
+              </Link>
+            ))}
+          </div>
         </nav>
 
         <button
@@ -103,14 +117,23 @@ export default function Header() {
                 {item.label}
               </Link>
             ))}
-            <Link
-              href={pathname}
-              locale={otherLocale}
-              onClick={() => setMobileOpen(false)}
-              className="px-3 py-2 text-sm rounded-md border border-navy-200 text-navy-600 mt-2 no-underline text-center"
-            >
-              {t('language')}
-            </Link>
+            <div className="mt-2 flex items-center justify-center gap-1">
+              {switchLocales.map((l) => (
+                <Link
+                  key={l.code}
+                  href={pathname}
+                  locale={l.code}
+                  onClick={() => setMobileOpen(false)}
+                  className={`px-4 py-2 text-sm rounded-md border no-underline ${
+                    locale === l.code
+                      ? 'bg-navy-600 text-white border-navy-600'
+                      : 'border-navy-200 text-navy-600'
+                  }`}
+                >
+                  {l.label}
+                </Link>
+              ))}
+            </div>
           </nav>
         </div>
       )}

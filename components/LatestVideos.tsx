@@ -1,11 +1,11 @@
 import { getTranslations, getLocale } from 'next-intl/server';
 import { Link } from '@/i18n/routing';
-import { fetchLatestVideos, formatDate } from '@/lib/youtube';
+import { fetchLatestOwnVideos, formatDate } from '@/lib/youtube';
 
 export default async function LatestVideos() {
   const t = await getTranslations('latest_videos');
   const locale = await getLocale();
-  const videos = await fetchLatestVideos(6);
+  const videos = await fetchLatestOwnVideos(6);
 
   if (videos.length === 0) {
     return null;
@@ -57,7 +57,7 @@ export default async function LatestVideos() {
                   {video.title}
                 </h3>
                 <div className="text-xs text-navy-500">
-                  {formatDate(video.publishedAt, locale as 'ar' | 'en')}
+                  {formatDate(video.publishedAt, (locale === 'es' ? 'en' : locale) as 'ar' | 'en')}
                 </div>
               </div>
             </a>

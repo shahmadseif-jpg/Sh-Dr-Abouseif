@@ -78,7 +78,8 @@ const content = {
 };
 
 export default function ConsultationsContent() {
-  const locale = useLocale() as 'ar' | 'en';
+  const _loc = useLocale();
+  const locale = (_loc === 'es' ? 'en' : _loc) as 'ar' | 'en';
   const c = content[locale];
 
   const [location, setLocation] = useState<Location>('aia');

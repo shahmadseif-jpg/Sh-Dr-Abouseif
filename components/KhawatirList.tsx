@@ -8,7 +8,8 @@ import { khawatirMeta, prayerLabels, type Prayer } from '@/lib/khawatir';
 type Filter = 'all' | Prayer;
 
 export default function KhawatirList() {
-  const locale = useLocale() as 'ar' | 'en';
+  const _loc = useLocale();
+  const locale = (_loc === 'es' ? 'en' : _loc) as 'ar' | 'en';
   const t = useTranslations('khawatir');
   const [filter, setFilter] = useState<Filter>('all');
 

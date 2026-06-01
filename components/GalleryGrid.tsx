@@ -13,7 +13,8 @@ type Filter = 'all' | GalleryCategory;
 
 export default function GalleryGrid() {
   const t = useTranslations('gallery');
-  const locale = useLocale() as 'ar' | 'en';
+  const _loc = useLocale();
+  const locale = (_loc === 'es' ? 'en' : _loc) as 'ar' | 'en';
   const [filter, setFilter] = useState<Filter>('all');
   const [lightbox, setLightbox] = useState<GalleryItem | null>(null);
 

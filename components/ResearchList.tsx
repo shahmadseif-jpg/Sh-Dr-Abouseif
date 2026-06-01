@@ -13,7 +13,8 @@ import {
 
 export default function ResearchList() {
   const t = useTranslations('research');
-  const locale = useLocale() as 'ar' | 'en';
+  const _loc = useLocale();
+  const locale = (_loc === 'es' ? 'en' : _loc) as 'ar' | 'en';
   const [filter, setFilter] = useState<'all' | ResearchType>('all');
 
   const allItems = useMemo(() => getAllResearch(), []);
