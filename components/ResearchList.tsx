@@ -10,11 +10,12 @@ import {
   researchCategoryLabels,
   type ResearchType,
 } from '@/lib/research';
+import { localize } from '@/lib/articles';
 
 export default function ResearchList() {
   const t = useTranslations('research');
-  const _loc = useLocale();
-  const locale = (_loc === 'es' ? 'en' : _loc) as 'ar' | 'en';
+  const locale = useLocale();
+  const labelLoc = (locale === 'ar' ? 'ar' : locale === 'es' ? 'es' : 'en') as 'ar' | 'en' | 'es';
   const [filter, setFilter] = useState<'all' | ResearchType>('all');
 
   const allItems = useMemo(() => getAllResearch(), []);
@@ -50,7 +51,7 @@ export default function ResearchList() {
                 : 'bg-white text-navy-700 border border-navy-200 hover:bg-navy-50'
             }`}
           >
-            {researchTypeLabels[locale][tp]}
+            {researchTypeLabels[labelLoc][tp]}
           </button>
         ))}
       </div>
@@ -66,13 +67,13 @@ export default function ResearchList() {
               {/* Type & Year badges */}
               <div className="flex flex-wrap items-center gap-2 mb-4">
                 <span className="inline-flex items-center px-3 py-1 rounded-full text-xs font-medium bg-navy-50 text-navy-700">
-                  {researchTypeLabels[locale][r.type]}
+                  {researchTypeLabels[labelLoc][r.type]}
                 </span>
                 <span className="inline-flex items-center px-3 py-1 rounded-full text-xs font-medium bg-gold-50 text-gold-700 border border-gold-200">
                   {r.year}
                 </span>
                 <span className="inline-flex items-center px-3 py-1 rounded-full text-xs font-medium bg-navy-50/60 text-navy-600">
-                  {researchCategoryLabels[locale][r.category]}
+                  {researchCategoryLabels[labelLoc][r.category]}
                 </span>
                 {r.featured && (
                   <span className="inline-flex items-center px-3 py-1 rounded-full text-xs font-medium bg-gold-100 text-gold-800 border border-gold-300">
@@ -84,34 +85,35 @@ export default function ResearchList() {
               {/* Title */}
               <Link href={`/research/${r.slug}` as any} className="no-underline">
                 <h2 className="text-xl sm:text-2xl font-medium text-navy-700 group-hover:text-navy-900 leading-snug mb-2">
-                  {r.title[locale]}
+                  {localize(r.title, locale)}
                 </h2>
               </Link>
 
               {/* Subtitle */}
               {r.subtitle && (
                 <p className="text-base sm:text-lg text-navy-600 italic mb-4 leading-relaxed">
-                  {r.subtitle[locale]}
+                  {localize(r.subtitle, locale)}
                 </p>
               )}
 
               {/* Venue */}
               <div className="text-sm text-navy-600 mb-4 leading-relaxed">
                 <strong className="text-navy-800">{t('venue')}:</strong>{' '}
-                {r.venue[locale]}
+                {localize(r.venue, locale)}
                 {r.location && (
                   <>
                     {' — '}
-                    <span className="text-navy-500">{r.location[locale]}</span>
+                    <span className="text-navy-500">{localize(r.location, locale)}</span>
                   </>
                 )}
               </div>
 
               {/* Abstract */}
               <p className="text-sm sm:text-base text-navy-700 leading-relaxed mb-5">
-                {r.abstract[locale].length > 350
-                  ? r.abstract[locale].substring(0, 350) + '…'
-                  : r.abstract[locale]}
+                {(() => {
+                  const a = localize(r.abstract, locale);
+                  return a.length > 350 ? a.substring(0, 350) + '…' : a;
+                })()}
               </p>
 
               {/* Meta row */}
