@@ -8,6 +8,7 @@ import {
   researchTypeLabels,
   researchCategoryLabels,
 } from '@/lib/research';
+import { localize } from '@/lib/articles';
 
 export async function generateStaticParams() {
   return researchMeta
@@ -25,8 +26,8 @@ export async function generateMetadata({
   if (!item) return {};
 
   return {
-    title: `${item.title[(locale === 'es' ? 'en' : locale) as 'ar' | 'en']} — ${locale === 'ar' ? 'د. أحمد أبو سيف' : 'Dr. Ahmed Abouseif'}`,
-    description: item.abstract[(locale === 'es' ? 'en' : locale) as 'ar' | 'en'].substring(0, 160),
+    title: `${localize(item.title, locale)} — ${locale === 'ar' ? 'د. أحمد أبو سيف' : 'Dr. Ahmed Abouseif'}`,
+    description: localize(item.abstract, locale).substring(0, 160),
   };
 }
 
@@ -43,7 +44,7 @@ export default async function ResearchItemPage({
     notFound();
   }
 
-  const loc = (locale === 'es' ? 'en' : locale) as 'ar' | 'en';
+  const loc = (locale === 'ar' ? 'ar' : locale === 'es' ? 'es' : 'en') as 'ar' | 'en' | 'es';
   const t = await getTranslations({ locale, namespace: 'research' });
 
   return (
@@ -72,13 +73,13 @@ export default async function ResearchItemPage({
 
         {/* Title */}
         <h1 className="text-3xl sm:text-4xl font-medium text-navy-800 leading-tight mb-3">
-          {item.title[loc]}
+          {localize(item.title, locale)}
         </h1>
 
         {/* Subtitle */}
         {item.subtitle && (
           <p className="text-xl text-navy-600 italic mb-6 leading-relaxed">
-            {item.subtitle[loc]}
+            {localize(item.subtitle, locale)}
           </p>
         )}
 
@@ -87,25 +88,25 @@ export default async function ResearchItemPage({
           <div className="grid grid-cols-1 sm:grid-cols-2 gap-3 text-sm">
             <div>
               <span className="text-navy-500">{t('venue')}:</span>
-              <p className="text-navy-800 mt-1">{item.venue[loc]}</p>
+              <p className="text-navy-800 mt-1">{localize(item.venue, locale)}</p>
             </div>
 
             {item.location && (
               <div>
                 <span className="text-navy-500">{t('location')}:</span>
-                <p className="text-navy-800 mt-1">{item.location[loc]}</p>
+                <p className="text-navy-800 mt-1">{localize(item.location, locale)}</p>
               </div>
             )}
 
             <div>
               <span className="text-navy-500">{t('date')}:</span>
-              <p className="text-navy-800 mt-1">{item.date[loc]}</p>
+              <p className="text-navy-800 mt-1">{localize(item.date, locale)}</p>
             </div>
 
             {item.publisher && (
               <div>
                 <span className="text-navy-500">{t('publisher')}:</span>
-                <p className="text-navy-800 mt-1">{item.publisher[loc]}</p>
+                <p className="text-navy-800 mt-1">{localize(item.publisher, locale)}</p>
               </div>
             )}
 
@@ -146,8 +147,8 @@ export default async function ResearchItemPage({
         {/* Actions */}
         <div className="flex flex-wrap gap-3 mb-10">
           {(() => {
-            const primary = getPdfUrl(item, loc);
-            const other = loc === 'ar' ? getPdfUrl(item, 'en') : getPdfUrl(item, 'ar');
+            const primary = getPdfUrl(item, locale === 'ar' ? 'ar' : 'en');
+            const other = locale === 'ar' ? getPdfUrl(item, 'en') : getPdfUrl(item, 'ar');
             const hasBoth = primary && other && primary !== other;
             return (
               <>
@@ -168,7 +169,7 @@ export default async function ResearchItemPage({
                     rel="noopener noreferrer"
                     className="inline-flex items-center px-5 py-3 bg-white text-navy-700 text-sm rounded-md border border-navy-200 hover:bg-navy-50 transition-colors no-underline"
                   >
-                    📄 {loc === 'ar' ? 'English PDF' : 'النّسخة العربيّة'}
+                    📄 {locale === 'ar' ? 'English PDF' : locale === 'es' ? 'PDF en árabe' : 'النّسخة العربيّة'}
                   </a>
                 )}
               </>
@@ -189,15 +190,15 @@ export default async function ResearchItemPage({
         {/* Abstract */}
         <h2 className="text-2xl font-medium text-navy-700 mb-4">{t('abstract')}</h2>
         <div className="prose prose-navy max-w-none text-navy-800 leading-loose mb-10">
-          <p>{item.abstract[loc]}</p>
+          <p>{localize(item.abstract, locale)}</p>
         </div>
 
         {/* Keywords */}
-        {item.keywords && item.keywords[loc].length > 0 && (
+        {item.keywords && (item.keywords[loc] ?? item.keywords.en).length > 0 && (
           <div className="mt-8 pt-6 border-t border-navy-100">
             <h3 className="text-sm font-medium text-navy-500 mb-3">{t('keywords')}</h3>
             <div className="flex flex-wrap gap-2">
-              {item.keywords[loc].map((kw) => (
+              {(item.keywords[loc] ?? item.keywords.en).map((kw) => (
                 <span
                   key={kw}
                   className="inline-flex items-center px-3 py-1 rounded-full text-xs bg-navy-50 text-navy-700"
@@ -213,7 +214,7 @@ export default async function ResearchItemPage({
         <div className="mt-10 pt-8 border-t border-navy-100">
           <h3 className="text-sm font-medium text-navy-500 mb-3">{t('how_to_cite')}</h3>
           <pre className="bg-navy-50 text-navy-800 text-xs p-4 rounded-md overflow-x-auto leading-relaxed whitespace-pre-wrap">
-{`${loc === 'ar' ? 'أبو سيف' : 'Abouseif'}, ${loc === 'ar' ? 'أحمد' : 'A.'}. (${item.year}). ${item.title[loc]}. ${item.venue[loc]}.`}
+{`${locale === 'ar' ? 'أبو سيف' : 'Abouseif'}, ${locale === 'ar' ? 'أحمد' : 'A.'}. (${item.year}). ${localize(item.title, locale)}. ${localize(item.venue, locale)}.`}
           </pre>
         </div>
       </div>
