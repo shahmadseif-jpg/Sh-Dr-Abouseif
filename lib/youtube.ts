@@ -7,6 +7,8 @@
 import { XMLParser } from 'fast-xml-parser';
 import { siteConfig } from './site-config';
 
+export type VideoType = 'lecture' | 'khutbah' | 'khatira';
+
 export interface YouTubeVideo {
   id: string;
   title: string;
@@ -15,7 +17,38 @@ export interface YouTubeVideo {
   thumbnail: string;
   url: string;
   language?: 'ar' | 'en';
+  type?: VideoType;
+  /** True if the video is presented by Dr. Ahmed Abouseif
+   *  (solo or jointly). False if another speaker is named instead. */
+  isOwn?: boolean;
 }
+
+/**
+ * Name variants that identify Dr. Ahmed Abouseif as the speaker.
+ * If any of these match, the video is included (covers solo videos AND
+ * joint meetings where his name appears alongside other speakers).
+ */
+const OWN_NAME_PATTERNS: RegExp[] = [
+  /أحمد\s+محمد\s+علي\s+أبو\s+سيف/,
+  /أحمد\s+أبو\s*سيف/,
+  /أحمد\s+سيف/,
+  /\babou?\s*seif\b/i,
+  /ahmed\s+abou?\s*seif/i,
+  /sh\.?\s*ahmad?\s+seif/i,
+  /\babouseif\b/i,
+];
+
+/**
+ * Patterns indicating ANOTHER named speaker. When matched without
+ * Dr. Abouseif's name also being present, the video is excluded.
+ */
+const OTHER_SPEAKER_PATTERNS: RegExp[] = [
+  /\bbr\.\s/i,        // "Br. " (Brother)
+  /\bsr\.\s/i,        // "Sr. " (Sister)
+  /\bbro\.\s/i,       // "Bro. "
+  /الأخ\s+\S+/,       // الأخ + اسم
+  /الأخت\s+\S+/,      // الأخت + اسم
+];
 
 /**
  * Detect video language from title.
@@ -24,6 +57,48 @@ export interface YouTubeVideo {
 function detectLanguage(title: string): 'ar' | 'en' {
   // If title contains Arabic Unicode range, it's Arabic
   return /[؀-ۿ]/.test(title) ? 'ar' : 'en';
+}
+
+/**
+ * Detect video type (lecture / khutbah / khatira) from title.
+ * Order matters: khatira and khutbah are checked before lecture,
+ * because some khatira/khutbah titles also include the word "lecture".
+ */
+function detectType(title: string): VideoType {
+  const t = title.toLowerCase();
+
+  // Khatira (short morning reflections)
+  if (
+    /خاطرة|خواطر/.test(title) ||
+    /\bkhatira\b|\bkhatirah\b|\bkhatiras\b|fajr khatira/i.test(title)
+  ) {
+    return 'khatira';
+  }
+
+  // Khutbah (Friday sermon)
+  if (
+    /خطبة|خطب الجمعة|الجمعة/.test(title) ||
+    /\bkhutbah\b|\bkhutba\b|\bjumu[ao]?h?\b|friday sermon/i.test(title)
+  ) {
+    return 'khutbah';
+  }
+
+  // Default to lecture (covers Isha Lecture, general lectures, talks, etc.)
+  return 'lecture';
+}
+
+/**
+ * Decide whether the video should be shown on Dr. Abouseif's personal site.
+ * Rule:
+ *   1. If his name appears in the title  → include (covers solo + joint).
+ *   2. Else, if another speaker is named → exclude.
+ *   3. Otherwise (no speaker named)      → include (default; most general
+ *      lectures on his channel have no speaker tag in the title).
+ */
+export function isOwnContent(title: string): boolean {
+  if (OWN_NAME_PATTERNS.some((p) => p.test(title))) return true;
+  if (OTHER_SPEAKER_PATTERNS.some((p) => p.test(title))) return false;
+  return true;
 }
 
 /**
@@ -59,15 +134,18 @@ export async function fetchLatestVideos(limit = 6): Promise<YouTubeVideo[]> {
       const description =
         entry['media:group']?.['media:description'] || entry.description || '';
 
+      const titleText = typeof title === 'string' ? title : title['#text'] || '';
       return {
         id: videoId,
-        title: typeof title === 'string' ? title : title['#text'] || '',
+        title: titleText,
         description:
           typeof description === 'string' ? description.slice(0, 200) : '',
         publishedAt: entry.published || '',
         thumbnail: `https://i.ytimg.com/vi/${videoId}/hqdefault.jpg`,
         url: `https://www.youtube.com/watch?v=${videoId}`,
-        language: detectLanguage(typeof title === 'string' ? title : title['#text'] || ''),
+        language: detectLanguage(titleText),
+        type: detectType(titleText),
+        isOwn: isOwnContent(titleText),
       };
     });
 
@@ -76,6 +154,16 @@ export async function fetchLatestVideos(limit = 6): Promise<YouTubeVideo[]> {
     console.error('Error fetching YouTube videos:', error);
     return [];
   }
+}
+
+/**
+ * Convenience: fetch the latest videos and keep only Dr. Abouseif's own
+ * content (solo or jointly presented). YouTube RSS returns at most 15
+ * entries, so we fetch the max and then trim to `limit` after filtering.
+ */
+export async function fetchLatestOwnVideos(limit = 6): Promise<YouTubeVideo[]> {
+  const all = await fetchLatestVideos(15); // RSS hard cap
+  return all.filter((v) => v.isOwn !== false).slice(0, limit);
 }
 
 /**
