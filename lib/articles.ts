@@ -5,21 +5,34 @@
 
 export type ArticleCategory = 'imamship' | 'civilization' | 'family' | 'fiqh' | 'wisdom-insights';
 
+/** Supported site locales. */
+export type Loc = 'ar' | 'en' | 'es';
+
+/** A localized string. `es` is optional; missing values fall back to English. */
+export type LocalizedText = { ar: string; en: string; es?: string };
+
+/** Pick the value for a locale, gracefully falling back to English then Arabic. */
+export function localize(text: LocalizedText | undefined, locale: string): string {
+  if (!text) return '';
+  const v = (text as Record<string, string | undefined>)[locale];
+  return v ?? text.en ?? text.ar;
+}
+
 export interface ArticleMeta {
   slug: string;
   category: ArticleCategory;
   isoDate: string; // YYYY-MM-DD
-  date: { ar: string; en: string };
+  date: LocalizedText;
   readingMinutes: number;
-  series?: { ar: string; en: string };
+  series?: LocalizedText;
   episode?: number;
-  title: { ar: string; en: string };
-  subtitle?: { ar: string; en: string };
-  excerpt: { ar: string; en: string };
+  title: LocalizedText;
+  subtitle?: LocalizedText;
+  excerpt: LocalizedText;
   /** Optional cover image (path under /public, e.g. "/articles/slug/cover.jpg") */
   coverImage?: string;
   /** Optional caption displayed under the cover image */
-  coverCaption?: { ar: string; en: string };
+  coverCaption?: LocalizedText;
   draft?: boolean;
 }
 
@@ -728,5 +741,12 @@ export const categoryLabels = {
     family: 'Family & Parenting',
     fiqh: 'Jurisprudence',
     'wisdom-insights': 'Wisdoms & Insights',
+  },
+  es: {
+    imamship: 'Imamato y Liderazgo',
+    civilization: 'El Corán y la Civilización',
+    family: 'Familia y Educación',
+    fiqh: 'Jurisprudencia y Pensamiento',
+    'wisdom-insights': 'Sabidurías y Perspectivas',
   },
 };
