@@ -4,16 +4,17 @@ import { useLocale, useTranslations } from 'next-intl';
 import Link from 'next/link';
 import { useState, useMemo } from 'react';
 import { khawatirMeta, prayerLabels, type Prayer } from '@/lib/khawatir';
+import { localize } from '@/lib/articles';
 
 type Filter = 'all' | Prayer;
 
 export default function KhawatirList() {
-  const _loc = useLocale();
-  const locale = (_loc === 'es' ? 'en' : _loc) as 'ar' | 'en';
+  const locale = useLocale();
+  const pl = prayerLabels[locale as 'ar' | 'en' | 'es'] ?? prayerLabels.en;
   const t = useTranslations('khawatir');
   const [filter, setFilter] = useState<Filter>('all');
 
-  const readMore = locale === 'ar' ? 'اقرأ الخاطرة' : 'Read reflection';
+  const readMore = locale === 'ar' ? 'اقرأ الخاطرة' : locale === 'es' ? 'Leer la reflexión' : 'Read reflection';
 
   // Sort by date descending
   const sorted = useMemo(
@@ -31,8 +32,8 @@ export default function KhawatirList() {
 
   const filterButtons: { value: Filter; label: string }[] = [
     { value: 'all', label: t('filter_all') },
-    { value: 'fajr', label: prayerLabels[locale].fajr },
-    { value: 'isha', label: prayerLabels[locale].isha },
+    { value: 'fajr', label: pl.fajr },
+    { value: 'isha', label: pl.isha },
   ];
 
   if (sorted.length === 0) {
@@ -82,13 +83,13 @@ export default function KhawatirList() {
                   }`}
                 >
                   <span className="h-1.5 w-1.5 rounded-full bg-current opacity-60" />
-                  {prayerLabels[locale][k.prayer]}
+                  {pl[k.prayer]}
                 </span>
                 {k.videoUrl && (
                   <span
                     className="text-navy-400 group-hover:text-gold-500 transition-colors"
-                    aria-label={locale === 'ar' ? 'يحوي فيديو' : 'Contains video'}
-                    title={locale === 'ar' ? 'يحوي فيديو' : 'Contains video'}
+                    aria-label={locale === 'ar' ? 'يحوي فيديو' : locale === 'es' ? 'Contiene vídeo' : 'Contains video'}
+                    title={locale === 'ar' ? 'يحوي فيديو' : locale === 'es' ? 'Contiene vídeo' : 'Contains video'}
                   >
                     <svg width="18" height="18" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true">
                       <path d="M8 5v14l11-7z" />
@@ -99,18 +100,18 @@ export default function KhawatirList() {
 
               {/* Title */}
               <h3 className="text-lg font-medium text-navy-700 leading-snug mb-3 group-hover:text-gold-600 transition-colors">
-                {k.title[locale]}
+                {localize(k.title, locale)}
               </h3>
 
               {/* Excerpt */}
               <p className="text-sm text-navy-600 leading-relaxed mb-4 line-clamp-4 flex-1">
-                {k.excerpt[locale]}
+                {localize(k.excerpt, locale)}
               </p>
 
               {/* Footer */}
               <div className="flex items-center justify-between pt-4 border-t border-navy-100">
                 <div className="text-xs text-navy-500 flex items-center gap-2">
-                  <span>{k.date[locale]}</span>
+                  <span>{localize(k.date, locale)}</span>
                   <span className="text-gold-300">•</span>
                   <span>{k.readingMinutes} {locale === 'ar' ? 'دقائق' : 'min'}</span>
                 </div>
