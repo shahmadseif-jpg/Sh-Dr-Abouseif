@@ -20,7 +20,7 @@ export async function generateMetadata({
   const { locale, slug } = await params;
   const meta = getKhatraMeta(slug);
   if (!meta) return { title: locale === 'ar' ? 'خاطرة غير موجودة' : 'Reflection not found' };
-  const lang = locale as 'ar' | 'en';
+  const lang = (locale === 'es' ? 'en' : locale) as 'ar' | 'en';
   return {
     title: `${meta.title[lang]} — ${locale === 'ar' ? 'د. أحمد أبو سيف' : 'Dr. Ahmed Abouseif'}`,
     description: meta.excerpt[lang],
@@ -35,7 +35,7 @@ export default async function KhatraPage({
   const { locale, slug } = await params;
   setRequestLocale(locale);
 
-  const lang = locale as 'ar' | 'en';
+  const lang = (locale === 'es' ? 'en' : locale) as 'ar' | 'en';
   const meta = getKhatraMeta(slug);
   if (!meta) notFound();
 
@@ -118,7 +118,7 @@ export default async function KhatraPage({
 
         {/* Body */}
         <div className={`article-prose ${locale === 'ar' ? 'article-rtl' : 'article-ltr'}`}>
-          {renderMarkdown(trimmedBody, locale as 'ar' | 'en')}
+          {renderMarkdown(trimmedBody, (locale === 'es' ? 'en' : locale) as 'ar' | 'en')}
         </div>
 
         {/* More khawatir */}
