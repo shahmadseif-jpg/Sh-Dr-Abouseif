@@ -1,8 +1,9 @@
 import { setRequestLocale, getTranslations } from 'next-intl/server';
 import { useTranslations, useLocale } from 'next-intl';
-import { fetchLatestVideos, formatDate, YouTubeVideo } from '@/lib/youtube';
+import { fetchLatestOwnVideos, formatDate, YouTubeVideo } from '@/lib/youtube';
 import LectureFilters from '@/components/LectureFilters';
 
+// Force dynamic rendering so YouTube fetch happens at request-time.
 export const dynamic = 'force-dynamic';
 export const revalidate = 3600;
 
@@ -23,7 +24,8 @@ export default async function LecturesPage({
 }) {
   const { locale } = await params;
   setRequestLocale(locale);
-  const videos = await fetchLatestVideos(15);
+  // Fetch up to the RSS maximum (15) — guest-speaker videos are filtered out
+  const videos = await fetchLatestOwnVideos(15);
 
   return <LecturesContent videos={videos} />;
 }
@@ -44,7 +46,7 @@ function LecturesContent({ videos }: { videos: YouTubeVideo[] }) {
           </p>
         </div>
 
-        <LectureFilters videos={videos} locale={locale as 'ar' | 'en'} />
+        <LectureFilters videos={videos} locale={(locale === 'es' ? 'en' : locale) as 'ar' | 'en'} />
       </div>
     </div>
   );
