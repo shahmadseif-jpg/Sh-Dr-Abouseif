@@ -38,7 +38,8 @@ export async function generateMetadata({
 }): Promise<Metadata> {
   const { locale } = await params;
   const t = await getTranslations({ locale, namespace: 'site' });
-  const lang = locale as 'ar' | 'en';
+  const lang = locale as 'ar' | 'en' | 'es';
+  const ogLocale = locale === 'ar' ? 'ar_EG' : locale === 'es' ? 'es_ES' : 'en_US';
 
   return {
     metadataBase: new URL(SITE_URL),
@@ -48,9 +49,9 @@ export async function generateMetadata({
       title: t('title'),
       description: t('description'),
       type: 'website',
-      siteName: SITE_NAME[lang] ?? SITE_NAME.ar,
+      siteName: (SITE_NAME as Record<string, string>)[lang] ?? SITE_NAME.ar,
       url: `/${locale}`,
-      locale: locale === 'ar' ? 'ar_EG' : 'en_US',
+      locale: ogLocale,
       images: ['/dr-ahmed.jpg'],
     },
     twitter: {
@@ -63,6 +64,7 @@ export async function generateMetadata({
       languages: {
         ar: '/ar',
         en: '/en',
+        es: '/es',
       },
     },
   };
