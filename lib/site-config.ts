@@ -23,7 +23,7 @@ export const siteConfig = {
     lectures: 2600,
     years: 35, // Since 1991
     subscribers: 88500, // Combined: YouTube (2.5K) + Facebook (86K)
-    languages: 2,
+    languages: 3,
   },
 
   // Social media
