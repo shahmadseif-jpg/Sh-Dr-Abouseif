@@ -449,24 +449,28 @@ export const articlesMeta: ArticleMeta[] = [
     slug: 'servitude-deed-and-word',
     category: 'wisdom-insights',
     isoDate: '2026-05-17',
-    date: { ar: '١٧ مايو ٢٠٢٦', en: 'May 17, 2026' },
+    date: { ar: '١٧ مايو ٢٠٢٦', en: 'May 17, 2026', es: '17 de mayo de 2026' },
     readingMinutes: 15,
     series: {
       ar: 'حِكَمٌ وبصائر',
       en: 'Wisdoms & Insights',
+      es: 'Sabidurías y Perspectivas',
     },
     episode: 2,
     title: {
       ar: 'عبوديَّتنا بين المقام والمقال',
       en: 'Our Servitude — Between Deed and Word',
+      es: 'Nuestra servidumbre — entre la obra y la palabra',
     },
     subtitle: {
       ar: 'قراءةٌ تأمُّليَّةٌ في الفجوة بين ما نَقول وما نَكون',
       en: 'A Reflective Reading on the Gap Between What We Say and What We Are',
+      es: 'Una lectura reflexiva sobre la brecha entre lo que decimos y lo que somos',
     },
     excerpt: {
       ar: 'كان البلاغيُّون يَزِنون الفصاحة بـ«لكلِّ مقامٍ مقال»؛ لكنَّ في الدِّين معضلةً أَعمق: أن يَجد لكلِّ مقالٍ يَنطق به مقامًا يُصدِّقه في صدره وحياته. هذه الحلقة الثانية من سلسلة «حكم وبصائر» تَستخرج من الميزان القرآنيِّ ﴿لِمَ تَقُولُونَ مَا لَا تَفْعَلُونَ﴾ ثلاثَ درجاتٍ للعبوديَّة، وثلاثَ نماذجَ من واقع جالياتنا في الغرب، وثلاثَ آفاتٍ تَفصم المقامَ عن المقال، وخَريطةً عمليَّةً من خَمس خُطُواتٍ لردم الفجوة بين ما نَقول وما نَكون.',
       en: 'The classical rhetoricians measured eloquence by "For every situation, a fitting speech." But in religion there is a deeper question: that the believer find for every word he utters a station within him that confirms it. This second episode of the "Wisdoms & Insights" series extracts from the decisive Qur\'anic scale ("Why do you say what you do not do?") three degrees of servitude, three examples from our communities in the West, three afflictions that tear station from speech, and a practical five-step map for bridging the gap between what we say and what we are.',
+      es: 'Los retóricos clásicos medían la elocuencia por «para cada situación, un discurso propio». Pero en la religión hay una pregunta más honda: que el creyente halle para cada palabra que pronuncia una estación dentro de él que la confirme. Este segundo episodio de «Sabidurías y Perspectivas» extrae de la balanza coránica decisiva («¿Por qué decís lo que no hacéis?») tres grados de la servidumbre, tres ejemplos de nuestras comunidades en Occidente, tres dolencias que arrancan la estación del discurso, y un mapa práctico de cinco pasos para salvar la brecha entre lo que decimos y lo que somos.',
     },
     coverImage: '/articles/servitude-deed-and-word/qassam-flyer.jpg',
     coverCaption: {
@@ -478,24 +482,28 @@ export const articlesMeta: ArticleMeta[] = [
     slug: 'wisdom-lost-property',
     category: 'wisdom-insights',
     isoDate: '2026-05-17',
-    date: { ar: '١٧ مايو ٢٠٢٦', en: 'May 17, 2026' },
+    date: { ar: '١٧ مايو ٢٠٢٦', en: 'May 17, 2026', es: '17 de mayo de 2026' },
     readingMinutes: 14,
     series: {
       ar: 'حِكَمٌ وبصائر',
       en: 'Wisdoms & Insights',
+      es: 'Sabidurías y Perspectivas',
     },
     episode: 1,
     title: {
       ar: 'الحِكمةُ ضالَّةُ المؤمنِ',
       en: 'Wisdom is the Lost Property of the Believer',
+      es: 'La sabiduría es el bien perdido del creyente',
     },
     subtitle: {
       ar: 'قراءةٌ تأصيليَّةٌ في معنًى مأثور، وفي معضلةٍ حضاريَّةٍ معاصرة',
       en: 'A Foundational Reading of a Cherished Maxim and a Contemporary Civilizational Dilemma',
+      es: 'Una lectura fundacional de una máxima preciada y un dilema civilizatorio contemporáneo',
     },
     excerpt: {
       ar: 'اشتُهر على الألسنة قولٌ مأثورٌ: «الحكمةُ ضالَّةُ المؤمن، أنَّى وَجَدها فهو أحقُّ بها». تُحرِّر هذه القراءةُ التأصيليَّةُ مَنزلةَ هذا المعنى علميًّا، وتَفتح بمقتضاه معادلةً حضاريَّةً عميقة يَعيشها المسلمُ المعاصر، وبخاصَّةٍ في الغرب: كيف يَنفتح على ميراث الإنسانيَّة دون أن يَذوب فيه؟ وكيف يأخذ من غيره دون أن يَفقد ذاتَه؟ مع تَخريجٍ دقيقٍ لكلِّ حديثٍ وأثرٍ، وثلاثة نماذجَ من واقعنا في أمريكا، وخاتمةٌ حضاريَّةٌ تَكشف أنَّ أزمةَ العالم اليومَ ليست أزمةَ معلومات، بل أزمةُ حكمة.',
       en: 'A cherished maxim circulates: "Wisdom is the lost property of the believer; wherever he finds it, he is most worthy of it." This foundational reading clarifies the scholarly status of this meaning and opens, on its basis, a deep civilizational equation that the contemporary Muslim — especially in the West — must navigate: How do we open to humanity\'s heritage without dissolving into it? How do we receive from others without losing ourselves? With careful authentication of every prophetic tradition and saying cited, three vivid examples from our American reality, and a civilizational conclusion: the crisis of today\'s world is not a crisis of information, but a crisis of wisdom.',
+      es: 'Una máxima preciada circula: «La sabiduría es el bien perdido del creyente; dondequiera que lo halle, es el más merecedor de él.» Esta lectura fundacional aclara el rango académico de este sentido y abre, sobre su base, una honda ecuación civilizatoria que el musulmán contemporáneo —especialmente en Occidente— debe navegar: ¿cómo nos abrimos al legado de la humanidad sin disolvernos en él? Con una cuidadosa autentificación de cada hadiz citado, tres ejemplos vívidos de nuestra realidad estadounidense, y una conclusión: la crisis del mundo de hoy no es una crisis de información, sino una crisis de sabiduría.',
     },
     coverImage: '/articles/wisdom-lost-property/tmc-flyer.png',
     coverCaption: {
