@@ -25,8 +25,8 @@ export async function generateMetadata({
   if (!item) return {};
 
   return {
-    title: `${item.title[locale as 'ar' | 'en']} — ${locale === 'ar' ? 'د. أحمد أبو سيف' : 'Dr. Ahmed Abouseif'}`,
-    description: item.abstract[locale as 'ar' | 'en'].substring(0, 160),
+    title: `${item.title[(locale === 'es' ? 'en' : locale) as 'ar' | 'en']} — ${locale === 'ar' ? 'د. أحمد أبو سيف' : 'Dr. Ahmed Abouseif'}`,
+    description: item.abstract[(locale === 'es' ? 'en' : locale) as 'ar' | 'en'].substring(0, 160),
   };
 }
 
@@ -43,7 +43,7 @@ export default async function ResearchItemPage({
     notFound();
   }
 
-  const loc = locale as 'ar' | 'en';
+  const loc = (locale === 'es' ? 'en' : locale) as 'ar' | 'en';
   const t = await getTranslations({ locale, namespace: 'research' });
 
   return (
