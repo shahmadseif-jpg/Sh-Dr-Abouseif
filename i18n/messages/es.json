@@ -1,0 +1,169 @@
+{
+  "site": {
+    "name": "Imam Dr. Ahmed Abouseif",
+    "title": "Imam Dr. Ahmed Abouseif - Doctor en Tafsīr y Ciencias Coránicas",
+    "tagline": "Imam y Fundador · Academia Americana de Imames",
+    "description": "Sitio oficial del Imam Dr. Ahmed Mohamed Ali Abouseif, Doctor en Tafsīr y Ciencias Coránicas por la Universidad de Al-Azhar, portador de ijāzas coránicas con cadena de transmisión conectada, y Fundador y Presidente de la Academia Americana de Imames en Texas."
+  },
+  "nav": {
+    "home": "Inicio",
+    "about": "Biografía",
+    "lectures": "Videoteca",
+    "articles": "Artículos",
+    "khawatir": "Reflexiones",
+    "research": "Investigación",
+    "events": "Eventos",
+    "gallery": "Momentos",
+    "consultations": "Consultas",
+    "contact": "Contacto",
+    "language": "العربية"
+  },
+  "hero": {
+    "role": "Imam y Fundador · Academia Americana de Imames",
+    "name": "Dr. Ahmed Abouseif",
+    "description": "Doctorado en Tafsīr y Ciencias Coránicas por la Universidad de Al-Azhar, con ijāzas coránicas de cadena conectada (isnād) hasta el Profeta ﷺ. Ex Director del Departamento General de Orientación Religiosa del Ministerio de Awqāf de Egipto. Más de tres décadas de experiencia en el imamato, la docencia universitaria, la investigación académica y la orientación familiar entre Egipto y los Estados Unidos.",
+    "cta_primary": "Ver conferencias",
+    "cta_secondary": "Sobre la Academia"
+  },
+  "mission": {
+    "eyebrow": "El Proyecto Intelectual",
+    "title": "Un Proyecto Coránico, Educativo y Civilizatorio",
+    "body": "Una lectura orientada a los fines (maqāṣidī) del Corán que conecta la revelación con el ser humano y con la realidad vivida — llevando el versículo del texto a la vida: en la formación del individuo, el renacimiento de la umma y la jurisprudencia del musulmán contemporáneo en Occidente. No una exhortación pasajera, sino una visión con la que se lee la vida misma.",
+    "pillar_1_title": "El Corán",
+    "pillar_1_desc": "Una lectura estructural y orientada a los fines que extrae las leyes de la revelación.",
+    "pillar_2_title": "La Educación",
+    "pillar_2_desc": "Llevar el significado del texto al corazón y a la conducta.",
+    "pillar_3_title": "La Civilización",
+    "pillar_3_desc": "La jurisprudencia del auge de las naciones y el lugar del musulmán en Occidente."
+  },
+  "projects": {
+    "eyebrow": "Itinerarios de lectura",
+    "title": "Una Escuela de Pensamiento, No un Archivo",
+    "subtitle": "Los escritos se despliegan en itinerarios integrados que se completan unos a otros — elige tu camino y comienza el viaje.",
+    "explore": "Explorar este itinerario",
+    "count_label": "artículos",
+    "desc": {
+      "civilization": "Una lectura estructural de las leyes que rigen el auge y la caída de las naciones tal como las presenta el Corán, y la jurisprudencia del musulmán al afrontar su realidad.",
+      "wisdom-insights": "Reflexiones coránicas y educativas que llevan el versículo al corazón y al viaje del ser humano hacia Dios.",
+      "imamship": "La formación del imam contemporáneo en Occidente —en saber, gestión y acompañamiento— y las cuestiones del hogar de la daʿwa.",
+      "family": "La jurisprudencia de la familia musulmana y la crianza de los hijos entre la guía profética y la realidad de Occidente.",
+      "fiqh": "Cuestiones de jurisprudencia y pensamiento contemporáneo con un método orientado a los fines."
+    }
+  },
+  "stats": {
+    "lectures": "Conferencias",
+    "years": "Años de enseñanza",
+    "subscribers": "Seguidores",
+    "languages": "Idiomas"
+  },
+  "latest_videos": {
+    "title": "Últimas conferencias",
+    "subtitle": "Mira lo más reciente del canal del Dr. Abouseif",
+    "watch_all": "Ver todas las conferencias",
+    "watch_on_youtube": "Ver en YouTube"
+  },
+  "cta": {
+    "title": "Únete a la Academia de Imames",
+    "description": "Programas de formación especializados en ciencias islámicas y liderazgo de la daʿwa para imames y estudiantes del saber.",
+    "button": "Saber más"
+  },
+  "about": {
+    "title": "Biografía",
+    "subtitle": "Trayectoria académica y de daʿwa",
+    "intro": "El Imam Dr. Ahmed Mohamed Ali Abouseif es Doctor en Tafsīr y Ciencias Coránicas por la Universidad de Al-Azhar (2008), con una ijāza coránica en la recitación de Ḥafṣ por las vías Shāṭibiyyah y Ṭayyibah, con cadena de transmisión (isnād) conectada hasta el Profeta ﷺ. Es Fundador y Presidente de la Academia Americana de Imames en Plano, Texas (desde marzo de 2017), y se desempeña como Imam y Director de Asuntos Religiosos de la Mezquita de la Academia (desde noviembre de 2021). Su trayectoria abarca más de tres décadas en el imamato, la docencia universitaria, la investigación académica, el liderazgo institucional y la labor mediática, tanto en Egipto como en los Estados Unidos.",
+    "sections": {
+      "academic": "Titulaciones académicas e ijāzas",
+      "scholarly": "Contribuciones académicas y mediáticas",
+      "leadership": "Experiencia profesional y de liderazgo"
+    }
+  },
+  "lectures": {
+    "title": "Videoteca",
+    "subtitle": "Archivo completo de conferencias, sermones (khutbas) y reflexiones (khatiras) en árabe e inglés",
+    "filter_all": "Todo",
+    "filter_arabic": "Árabe",
+    "filter_english": "Inglés",
+    "type_all": "Todo",
+    "type_lecture": "Conferencias",
+    "type_khutbah": "Sermones",
+    "type_khatira": "Reflexiones",
+    "label_type": "Tipo",
+    "label_language": "Idioma",
+    "search_placeholder": "Buscar en la videoteca..."
+  },
+  "articles": {
+    "title": "Artículos y Blog",
+    "subtitle": "Escritos sobre jurisprudencia, pensamiento y daʿwa",
+    "read_more": "Leer más",
+    "no_articles": "Aún no se han publicado artículos. Vuelve pronto."
+  },
+  "articles_page": {
+    "back_to_articles": "Volver a los artículos",
+    "more_articles": "Más artículos",
+    "reading_time": "min de lectura"
+  },
+  "khawatir": {
+    "title": "Reflexiones de daʿwa",
+    "subtitle": "Transcripciones de breves reflexiones tras las oraciones del Faŷr y el ʿIshāʾ",
+    "filter_all": "Todo",
+    "no_khawatir": "Aún no se han publicado reflexiones. Vuelve pronto.",
+    "no_khawatir_in_filter": "No hay reflexiones en esta categoría."
+  },
+  "khawatir_page": {
+    "back_to_khawatir": "Volver a las reflexiones",
+    "more_khawatir": "Más reflexiones"
+  },
+  "research": {
+    "title": "Investigación y Publicaciones",
+    "subtitle": "Artículos arbitrados, contribuciones a congresos internacionales y libros en jurisprudencia y pensamiento islámico",
+    "filter_all": "Todo",
+    "featured": "Destacado",
+    "venue": "Sede",
+    "location": "Lugar",
+    "date": "Fecha",
+    "publisher": "Editorial",
+    "pages": "Páginas",
+    "language": "Idioma",
+    "lang_ar": "Árabe",
+    "lang_en": "Inglés",
+    "lang_bilingual": "Bilingüe",
+    "abstract": "Resumen",
+    "keywords": "Palabras clave",
+    "read_more": "Leer más",
+    "back_to_list": "Volver a la lista de investigación",
+    "download_pdf": "Descargar PDF",
+    "external_link": "Enlace externo",
+    "how_to_cite": "Cita sugerida",
+    "no_results": "Aún no hay trabajos de investigación en esta categoría."
+  },
+  "events": {
+    "title": "Próximos eventos",
+    "subtitle": "Calendario de próximas conferencias, clases y sermones",
+    "register": "Inscribirse",
+    "details": "Detalles",
+    "no_events": "No hay eventos próximos por el momento."
+  },
+  "contact": {
+    "title": "Ponte en contacto",
+    "subtitle": "Para consultas, solicitudes de conferencias o asesorías",
+    "email": "Correo electrónico",
+    "social": "Síguenos en"
+  },
+  "gallery": {
+    "title": "Momentos de daʿwa",
+    "subtitle": "Destellos de un camino de enseñanza, liderazgo y servicio institucional",
+    "all": "Todo",
+    "categories": {
+      "lectures": "Conferencias y clases",
+      "events": "Eventos y congresos",
+      "academy": "Academia de Imames",
+      "community": "Actividades comunitarias",
+      "media": "Apariciones en medios"
+    },
+    "empty": "Aún no se han añadido imágenes. Vuelve pronto."
+  },
+  "footer": {
+    "rights": "Todos los derechos reservados",
+    "made_with": "Hecho con esmero"
+  }
+}
