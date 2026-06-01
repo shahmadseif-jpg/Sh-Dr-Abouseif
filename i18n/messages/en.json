@@ -25,6 +25,31 @@
     "cta_primary": "Browse Lectures",
     "cta_secondary": "About the Academy"
   },
+  "mission": {
+    "eyebrow": "The Intellectual Project",
+    "title": "A Qur'anic, Educational, Civilizational Project",
+    "body": "A purpose-driven (maqāṣidī) reading of the Qur'an that connects revelation to the human being and to lived reality — carrying the verse from the text into life: in building the individual, the renaissance of the ummah, and the jurisprudence of the contemporary Muslim in the West. Not passing exhortation, but an insight by which life itself is read.",
+    "pillar_1_title": "The Qur'an",
+    "pillar_1_desc": "A structural, purpose-driven reading that draws out the laws of revelation.",
+    "pillar_2_title": "Education",
+    "pillar_2_desc": "Carrying meaning from the text to the heart and to conduct.",
+    "pillar_3_title": "Civilization",
+    "pillar_3_desc": "The jurisprudence of nations' rise and the Muslim's place in the West."
+  },
+  "projects": {
+    "eyebrow": "Reading Paths",
+    "title": "A School of Thought, Not an Archive",
+    "subtitle": "The writings unfold across integrated paths that complete one another — choose your path and begin the journey.",
+    "explore": "Explore this path",
+    "count_label": "articles",
+    "desc": {
+      "civilization": "A structural reading of the laws governing the rise and fall of nations as the Qur'an presents them, and the Muslim's jurisprudence in engaging his reality.",
+      "wisdom-insights": "Qur'anic, educational reflections that carry the verse to the heart and to the human journey toward God.",
+      "imamship": "Crafting the contemporary imam in the West — in knowledge, management, and pastoral care — and the issues of the daʿwah household.",
+      "family": "The jurisprudence of the Muslim family and raising children between Prophetic guidance and the reality of the West.",
+      "fiqh": "Questions of contemporary jurisprudence and thought through a purpose-driven method."
+    }
+  },
   "stats": {
     "lectures": "Lectures",
     "years": "Years of teaching",
