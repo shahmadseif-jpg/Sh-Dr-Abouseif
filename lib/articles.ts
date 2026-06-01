@@ -306,24 +306,28 @@ export const articlesMeta: ArticleMeta[] = [
     slug: 'awakened-consciences',
     category: 'wisdom-insights',
     isoDate: '2026-05-23',
-    date: { ar: '٢٣ مايو ٢٠٢٦', en: 'May 23, 2026' },
+    date: { ar: '٢٣ مايو ٢٠٢٦', en: 'May 23, 2026', es: '23 de mayo de 2026' },
     readingMinutes: 12,
     series: {
       ar: 'حِكَمٌ وبصائر',
       en: 'Wisdoms & Insights',
+      es: 'Sabidurías y Perspectivas',
     },
     episode: 4,
     title: {
       ar: 'الضَّمائرُ اليقظَة',
       en: 'Awakened Consciences',
+      es: 'Conciencias despiertas',
     },
     subtitle: {
       ar: 'قراءةٌ في حركةِ الإيمان من مشاهد الخليل إلى وعيِ الإنسان المعاصر',
       en: 'A Reading in the Movement of Faith — From the Scenes of the Khalīl to the Awareness of the Modern Soul',
+      es: 'Una lectura en el movimiento de la fe — de las escenas del Jalīl a la conciencia del alma moderna',
     },
     excerpt: {
       ar: 'ما الذي يجعل القلبَ يهفو إلى بيتٍ في صحراء، والنفسَ تتجرَّد من ألقابها لِتقفَ على صعيدٍ واحد؟ إنّه سرُّ الضمير اليقظ. هذه الحلقة الرابعة من «حِكَمٌ وبصائر» تَتَتَبَّع نبضَ الضمير في مَشاهد إبراهيمَ وهاجرَ وإسماعيل، ثم تَقرأ سورةَ القيامة شاهداً على بصيرة الإنسان على نفسه، وتَكشِف عن المنظومة التعبّديّة في الإسلام بوصفها نظاماً لإيقاظ الضمائر، وتُحدّد للضمير المعاصر أربعةَ أدوار في الأبوّة والزوجيّة والعمل والرسالة، وتَختمُ بأنّ من ماتَ ضميرُه فقد ماتَ مع إيقاف التنفيذ لبقيّة جسده.',
       en: 'What makes the heart yearn for a house in the desert, and the soul strip itself of titles to stand on a single ground? It is the secret of the awakened conscience. This fourth episode of "Wisdoms & Insights" traces the pulse of the conscience through the scenes of Ibrāhīm, Hājar, and Ismāʿīl, then reads Sūrat al-Qiyāmah as testimony to the human being\'s sure insight over himself, exposes Islam\'s devotional system as a regimen for awakening the conscience, defines four contemporary roles for it — in fatherhood, marriage, work, and message — and closes on the truth that whoever\'s conscience dies has died, with the body merely on suspended sentence.',
+      es: '¿Qué hace que el corazón anhele una casa en el desierto, y que el alma se despoje de los títulos para erguirse sobre un solo suelo? Es el secreto de la conciencia despierta. Este cuarto episodio de «Sabidurías y Perspectivas» rastrea el latido de la conciencia a través de las escenas de Ibrāhīm, Hāyar e Ismāʿīl, luego lee la sura de Al-Qiyāma como testimonio de la clara perspicacia del ser humano sobre sí mismo, expone el sistema devocional del Islam como un régimen para despertar la conciencia, le define cuatro roles contemporáneos —en la paternidad, el matrimonio, el trabajo y el mensaje— y cierra con la verdad de que quien tiene su conciencia muerta ha muerto, con el cuerpo meramente en sentencia suspendida.',
     },
   },
   {
@@ -391,24 +395,28 @@ export const articlesMeta: ArticleMeta[] = [
     slug: 'steadfastness-texts-and-souls',
     category: 'wisdom-insights',
     isoDate: '2026-05-17',
-    date: { ar: '١٧ مايو ٢٠٢٦', en: 'May 17, 2026' },
+    date: { ar: '١٧ مايو ٢٠٢٦', en: 'May 17, 2026', es: '17 de mayo de 2026' },
     readingMinutes: 12,
     series: {
       ar: 'حِكَمٌ وبصائر',
       en: 'Wisdoms & Insights',
+      es: 'Sabidurías y Perspectivas',
     },
     episode: 4,
     title: {
       ar: 'الاستمرارية بين دلالة النصوص وتجاوب النفوس',
       en: 'Steadfastness Between the Indications of the Sacred Texts and the Response of the Human Soul',
+      es: 'La firmeza entre las indicaciones de los textos sagrados y la respuesta del alma humana',
     },
     subtitle: {
       ar: 'كلمة في اللقاء الشهري بمسجد الأكاديمية الأمريكية للأئمة (AIA) — تكساس',
       en: 'A Reflection from the Monthly Gathering at the American Imams Academy Masjid (AIA) — Texas',
+      es: 'Una reflexión del encuentro mensual en la Mezquita de la Academia Americana de Imames (AIA) — Texas',
     },
     excerpt: {
       ar: 'ما بعد رمضان ليس فراغًا، بل امتدادًا. تتضافر النصوص الشرعية على أهمية الاستمرارية، وتتفاوت النفوس في التجاوب معها. هذه الحلقة الرابعة من سلسلة ـحِكَمٌ وبصائرـ تفكّك تضافر النصوص على الاستمرارية، وترسم عشرة أنماط سلوكية للناس بعد مواسم الطاعة، وتقدّم ثماني خطوات عملية لتحويل الفتور إلى استمرارية.',
       en: 'What comes after Ramadan is not emptiness, but extension. The sacred texts converge on the meaning of continuity, while souls differ in how they respond. This fourth episode of the Wisdoms & Insights series unpacks the convergence of the texts on continuity, maps ten behavioral patterns of people after seasons of worship, and offers eight practical steps for turning post-season listlessness into sustained steadfastness.',
+      es: 'Lo que viene tras el Ramadán no es vacío, sino extensión. Los textos sagrados convergen en el sentido de la continuidad, mientras que las almas difieren en su respuesta. Este cuarto episodio de la serie «Sabidurías y Perspectivas» desentraña la convergencia de los textos sobre la continuidad, cartografía diez patrones de comportamiento de las gentes tras las temporadas de adoración, y ofrece ocho pasos prácticos para tornar la desgana posterior a la temporada en una firmeza sostenida.',
     },
     coverImage: '/articles/steadfastness-texts-and-souls/الاستمرارية بين دلالة النصوص وتجاوب النفوس .jpg',
     coverCaption: {
@@ -420,24 +428,28 @@ export const articlesMeta: ArticleMeta[] = [
     slug: 'best-nation-best-religion',
     category: 'wisdom-insights',
     isoDate: '2026-05-17',
-    date: { ar: '١٧ مايو ٢٠٢٦', en: 'May 17, 2026' },
+    date: { ar: '١٧ مايو ٢٠٢٦', en: 'May 17, 2026', es: '17 de mayo de 2026' },
     readingMinutes: 14,
     series: {
       ar: 'حِكَمٌ وبصائر',
       en: 'Wisdoms & Insights',
+      es: 'Sabidurías y Perspectivas',
     },
     episode: 3,
     title: {
       ar: 'خَيرُ أُمَّةٍ لخَيرِ دِين',
       en: 'The Best Nation for the Best Religion',
+      es: 'La mejor nación para la mejor religión',
     },
     subtitle: {
       ar: 'قراءةٌ في الميزان القرآنيِّ لـ«خَيريَّة» الأُمَّة، ومَوقعنا منها اليومَ',
       en: 'A Reading in the Qur\'anic Scale of the "Bestness" of the Ummah, and Where We Stand Today',
+      es: 'Una lectura de la aleya por la medida, no por el eslogan',
     },
     excerpt: {
       ar: 'يَتلو المسلمون قولَه تعالى: ﴿كُنْتُمْ خَيْرَ أُمَّةٍ أُخْرِجَتْ لِلنَّاسِ﴾ كأنَّها وَسامُ انتماءٍ مَجَّاني. لكنَّ الآيةَ شَرطٌ لا وَصفٌ مَجَّاني، وفيها ثلاثُ مَشروطات. هذه الحلقة الثالثة من «حكم وبصائر» تَفكِّك معنى «الخَيريَّة» في الميزان الإسلاميِّ، وتَكشف عن مَوقع المسلمين في الغرب من هذا الميزان، وتُشخِّص ثلاثَ آفاتٍ تَفصم الأمَّةَ عن خَيريَّتها، وتَرسم أَربعَ طُرقٍ عمليَّةٍ للعودة إلى مَعنى «أُخرجَتْ للنَّاس» في زَماننا.',
       en: 'Muslims recite the verse "You were the best nation produced for mankind" as if it were a gratuitous certificate of belonging. But the verse states a condition, not a free description — it lists three requirements. This third episode of "Wisdoms & Insights" unpacks the meaning of "bestness" in the Islamic scale, reveals where Muslims of the West stand in relation to this measure, diagnoses three afflictions that tear the community from its bestness, and charts four practical paths to recovering the meaning of "produced for mankind" in our time.',
+      es: 'Los musulmanes recitan la aleya «Fuisteis la mejor nación suscitada para la humanidad» como si fuera un certificado gratuito de pertenencia. Pero la aleya enuncia una condición, no una descripción libre —enumera tres requisitos. Este tercer episodio de «Sabidurías y Perspectivas» desentraña el sentido de la «mejoría» en la balanza islámica, revela dónde se yerguen los musulmanes de Occidente respecto a esta medida, diagnostica tres dolencias que arrancan a la comunidad de su mejoría, y traza cuatro sendas prácticas para recobrar el sentido de «suscitada para la humanidad» en nuestro tiempo.',
     },
     coverImage: '/articles/best-nation-best-religion/charlotte-flyer.jpg',
     coverCaption: {
