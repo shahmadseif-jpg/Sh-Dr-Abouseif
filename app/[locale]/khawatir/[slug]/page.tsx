@@ -8,6 +8,7 @@ import {
   getYoutubeEmbedUrl,
 } from '@/lib/khawatir';
 import { getKhatraBody } from '@/lib/khawatir-server';
+import { localize } from '@/lib/articles';
 import { ReactNode } from 'react';
 
 export const dynamic = 'force-dynamic';
@@ -20,10 +21,9 @@ export async function generateMetadata({
   const { locale, slug } = await params;
   const meta = getKhatraMeta(slug);
   if (!meta) return { title: locale === 'ar' ? 'خاطرة غير موجودة' : 'Reflection not found' };
-  const lang = (locale === 'es' ? 'en' : locale) as 'ar' | 'en';
   return {
-    title: `${meta.title[lang]} — ${locale === 'ar' ? 'د. أحمد أبو سيف' : 'Dr. Ahmed Abouseif'}`,
-    description: meta.excerpt[lang],
+    title: `${localize(meta.title, locale)} — ${locale === 'ar' ? 'د. أحمد أبو سيف' : 'Dr. Ahmed Abouseif'}`,
+    description: localize(meta.excerpt, locale),
   };
 }
 
@@ -35,14 +35,14 @@ export default async function KhatraPage({
   const { locale, slug } = await params;
   setRequestLocale(locale);
 
-  const lang = (locale === 'es' ? 'en' : locale) as 'ar' | 'en';
   const meta = getKhatraMeta(slug);
   if (!meta) notFound();
 
-  const body = getKhatraBody(slug, lang);
+  const body = getKhatraBody(slug, locale);
   if (!body) notFound();
 
   const trimmedBody = stripDuplicateHeaderFromMarkdown(body);
+  const pl = prayerLabels[locale as 'ar' | 'en' | 'es'] ?? prayerLabels.en;
 
   const t = await getTranslations({ locale, namespace: 'khawatir_page' });
 
@@ -75,17 +75,17 @@ export default async function KhatraPage({
             }`}
           >
             <span className="h-1.5 w-1.5 rounded-full bg-current opacity-60" />
-            {locale === 'ar' ? 'خاطرة' : 'Reflection'} · {prayerLabels[lang][meta.prayer]}
+            {locale === 'ar' ? 'خاطرة' : locale === 'es' ? 'Reflexión' : 'Reflection'} · {pl[meta.prayer]}
           </span>
         </div>
 
         {/* Title + subtitle */}
         <h1 className="text-3xl sm:text-4xl lg:text-5xl font-medium text-navy-700 leading-tight mb-3">
-          {meta.title[lang]}
+          {localize(meta.title, locale)}
         </h1>
         {meta.subtitle && (
           <p className="text-lg sm:text-xl text-navy-500 leading-relaxed mb-6 font-light">
-            {meta.subtitle[lang]}
+            {localize(meta.subtitle, locale)}
           </p>
         )}
 
@@ -93,9 +93,9 @@ export default async function KhatraPage({
         <div className="flex flex-wrap items-center gap-3 text-xs text-navy-500 pb-6 mb-10 border-b border-navy-100">
           <span>{locale === 'ar' ? 'د. أحمد أبو سيف' : 'Dr. Ahmed Abouseif'}</span>
           <span className="text-gold-300">•</span>
-          <span>{meta.date[lang]}</span>
+          <span>{localize(meta.date, locale)}</span>
           <span className="text-gold-300">•</span>
-          <span>{meta.readingMinutes} {locale === 'ar' ? 'دقائق قراءة' : 'min read'}</span>
+          <span>{meta.readingMinutes} {locale === 'ar' ? 'دقائق قراءة' : locale === 'es' ? 'min de lectura' : 'min read'}</span>
         </div>
 
         {/* Embedded video */}
@@ -104,14 +104,14 @@ export default async function KhatraPage({
             <div className="relative w-full overflow-hidden rounded-lg shadow-md bg-black aspect-video">
               <iframe
                 src={embedUrl}
-                title={meta.title[lang]}
+                title={localize(meta.title, locale)}
                 allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
                 allowFullScreen
                 className="absolute inset-0 w-full h-full"
               />
             </div>
             <figcaption className="mt-3 text-xs text-navy-500 text-center">
-              {locale === 'ar' ? 'الفيديو الأصلي للخاطرة' : 'Original video of the reflection'}
+              {locale === 'ar' ? 'الفيديو الأصلي للخاطرة' : locale === 'es' ? 'Vídeo original de la reflexión' : 'Original video of the reflection'}
             </figcaption>
           </figure>
         )}
@@ -135,10 +135,10 @@ export default async function KhatraPage({
                   className="block bg-white border border-navy-100 rounded-lg p-5 card-hover"
                 >
                   <div className="text-xs uppercase tracking-wider text-gold-500 mb-2">
-                    {prayerLabels[lang][k.prayer]}
+                    {pl[k.prayer]}
                   </div>
                   <div className="text-base font-medium text-navy-700 leading-snug">
-                    {k.title[lang]}
+                    {localize(k.title, locale)}
                   </div>
                 </Link>
               ))}
