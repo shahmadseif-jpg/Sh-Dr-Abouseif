@@ -3,7 +3,7 @@ import { setRequestLocale, getTranslations } from 'next-intl/server';
 import { notFound } from 'next/navigation';
 import Link from 'next/link';
 import Image from 'next/image';
-import { getArticleMeta, getAllArticles, categoryLabels } from '@/lib/articles';
+import { getArticleMeta, getAllArticles, categoryLabels, localize, type Loc } from '@/lib/articles';
 import { getArticleBody } from '@/lib/articles-server';
 import { SITE_URL, SITE_NAME, SITE_ORG } from '@/lib/site';
 import ShareButtons from '@/components/ShareButtons';
@@ -18,20 +18,21 @@ export async function generateMetadata({
 }): Promise<Metadata> {
   const { locale, slug } = await params;
   const meta = getArticleMeta(slug);
-  if (!meta) return { title: locale === 'ar' ? 'مقال غير موجود' : 'Article not found' };
-  const lang = locale as 'ar' | 'en';
-  const author = SITE_NAME[lang] ?? SITE_NAME.ar;
-  const title = `${meta.title[lang]} — ${author}`;
-  const description = meta.excerpt[lang];
+  if (!meta) return { title: locale === 'ar' ? 'مقال غير موجود' : locale === 'es' ? 'Artículo no encontrado' : 'Article not found' };
+  const lang = locale as Loc;
+  const author = (SITE_NAME as Record<string, string>)[lang] ?? SITE_NAME.ar;
+  const title = `${localize(meta.title, lang)} — ${author}`;
+  const description = localize(meta.excerpt, lang);
   const path = `/articles/${slug}`;
   const image = meta.coverImage || '/dr-ahmed.jpg';
+  const ogLocale = locale === 'ar' ? 'ar_EG' : locale === 'es' ? 'es_ES' : 'en_US';
 
   return {
     title,
     description,
     alternates: {
       canonical: `/${locale}${path}`,
-      languages: { ar: `/ar${path}`, en: `/en${path}` },
+      languages: { ar: `/ar${path}`, en: `/en${path}`, es: `/es${path}` },
     },
     openGraph: {
       type: 'article',
@@ -39,7 +40,7 @@ export async function generateMetadata({
       description,
       url: `/${locale}${path}`,
       siteName: author,
-      locale: locale === 'ar' ? 'ar_EG' : 'en_US',
+      locale: ogLocale,
       publishedTime: meta.isoDate,
       authors: [author],
       images: [{ url: image }],
@@ -61,11 +62,11 @@ export default async function ArticlePage({
   const { locale, slug } = await params;
   setRequestLocale(locale);
 
-  const lang = locale as 'ar' | 'en';
+  const lang = locale as Loc;
   const meta = getArticleMeta(slug);
   if (!meta) notFound();
 
-  const body = getArticleBody(slug, lang);
+  const body = getArticleBody(slug, locale);
   if (!body) notFound();
 
   // Strip the YAML-like top metadata (lines we already store in articlesMeta)
@@ -75,8 +76,18 @@ export default async function ArticlePage({
 
   const t = await getTranslations({ locale, namespace: 'articles_page' });
 
-  // Get other articles for "more articles" section
-  const otherArticles = getAllArticles().filter((a) => a.slug !== slug).slice(0, 3);
+  // Related articles — prioritise same series, then same path (category), then the rest.
+  const pool = getAllArticles().filter((a) => a.slug !== slug);
+  const sameSeries = pool.filter(
+    (a) => meta.series && a.series && a.series.ar === meta.series.ar
+  );
+  const sameCategory = pool.filter(
+    (a) => a.category === meta.category && !sameSeries.includes(a)
+  );
+  const rest = pool.filter(
+    (a) => !sameSeries.includes(a) && !sameCategory.includes(a)
+  );
+  const otherArticles = [...sameSeries, ...sameCategory, ...rest].slice(0, 3);
 
   // Sharing + structured data
   const shareUrl = `${SITE_URL}/${locale}/articles/${slug}`;
@@ -84,13 +95,13 @@ export default async function ArticlePage({
   const jsonLd = {
     '@context': 'https://schema.org',
     '@type': 'Article',
-    headline: meta.title[lang],
-    description: meta.excerpt[lang],
+    headline: localize(meta.title, lang),
+    description: localize(meta.excerpt, lang),
     inLanguage: lang,
     datePublished: meta.isoDate,
     dateModified: meta.isoDate,
-    author: { '@type': 'Person', name: SITE_NAME[lang] ?? SITE_NAME.ar, url: SITE_URL },
-    publisher: { '@type': 'Organization', name: SITE_ORG[lang] ?? SITE_ORG.ar },
+    author: { '@type': 'Person', name: (SITE_NAME as Record<string, string>)[lang] ?? SITE_NAME.ar, url: SITE_URL },
+    publisher: { '@type': 'Organization', name: (SITE_ORG as Record<string, string>)[lang] ?? SITE_ORG.ar },
     mainEntityOfPage: shareUrl,
     image: ogImage,
   };
@@ -117,9 +128,9 @@ export default async function ArticlePage({
         {meta.series && (
           <div className="mb-4">
             <div className="text-xs uppercase tracking-[0.2em] text-gold-500 mb-1">
-              {locale === 'ar' ? 'سلسلة' : 'Series'} {meta.episode ? `· ${locale === 'ar' ? 'الحلقة' : 'Episode'} ${meta.episode}` : ''}
+              {locale === 'ar' ? 'سلسلة' : locale === 'es' ? 'Serie' : 'Series'} {meta.episode ? `· ${locale === 'ar' ? 'الحلقة' : locale === 'es' ? 'Episodio' : 'Episode'} ${meta.episode}` : ''}
             </div>
-            <div className="text-sm text-navy-500 italic">{meta.series[lang]}</div>
+            <div className="text-sm text-navy-500 italic">{localize(meta.series, lang)}</div>
           </div>
         )}
 
@@ -130,11 +141,11 @@ export default async function ArticlePage({
 
         {/* Title + subtitle */}
         <h1 className="text-3xl sm:text-4xl lg:text-5xl font-medium text-navy-700 leading-tight mb-3">
-          {meta.title[lang]}
+          {localize(meta.title, lang)}
         </h1>
         {meta.subtitle && (
           <p className="text-lg sm:text-xl text-navy-500 leading-relaxed mb-6 font-light">
-            {meta.subtitle[lang]}
+            {localize(meta.subtitle, lang)}
           </p>
         )}
 
@@ -142,9 +153,9 @@ export default async function ArticlePage({
         <div className="flex flex-wrap items-center gap-3 text-xs text-navy-500 pb-6 mb-10 border-b border-navy-100">
           <span>{locale === 'ar' ? 'د. أحمد أبو سيف' : 'Dr. Ahmed Abouseif'}</span>
           <span className="text-gold-300">•</span>
-          <span>{meta.date[lang]}</span>
+          <span>{localize(meta.date, lang)}</span>
           <span className="text-gold-300">•</span>
-          <span>{meta.readingMinutes} {locale === 'ar' ? 'دقائق قراءة' : 'min read'}</span>
+          <span>{meta.readingMinutes} {locale === 'ar' ? 'دقائق قراءة' : locale === 'es' ? 'min de lectura' : 'min read'}</span>
         </div>
 
         {/* Cover image (optional) */}
@@ -153,7 +164,7 @@ export default async function ArticlePage({
             <div className="relative w-full overflow-hidden rounded-lg shadow-md bg-navy-50">
               <Image
                 src={meta.coverImage}
-                alt={meta.title[lang]}
+                alt={localize(meta.title, lang)}
                 width={1600}
                 height={1000}
                 className="w-full h-auto object-cover"
@@ -162,7 +173,7 @@ export default async function ArticlePage({
             </div>
             {meta.coverCaption && (
               <figcaption className={`mt-4 text-sm text-navy-500 italic leading-relaxed text-center px-2 ${locale === 'ar' ? 'article-rtl' : 'article-ltr'}`}>
-                {meta.coverCaption[lang]}
+                {localize(meta.coverCaption, lang)}
               </figcaption>
             )}
           </figure>
@@ -170,12 +181,12 @@ export default async function ArticlePage({
 
         {/* Article body */}
         <div className={`article-prose ${locale === 'ar' ? 'article-rtl' : 'article-ltr'}`}>
-          {renderMarkdown(trimmedBody, locale as 'ar' | 'en')}
+          {renderMarkdown(trimmedBody, locale)}
         </div>
 
         {/* Share bar */}
         <div className="mt-12 pt-8 border-t border-navy-100">
-          <ShareButtons url={shareUrl} title={meta.title[lang]} locale={lang} />
+          <ShareButtons url={shareUrl} title={localize(meta.title, lang)} locale={lang} />
         </div>
 
         {/* More articles section */}
@@ -195,7 +206,7 @@ export default async function ArticlePage({
                     {categoryLabels[lang][a.category]}
                   </div>
                   <div className="text-base font-medium text-navy-700 leading-snug">
-                    {a.title[lang]}
+                    {localize(a.title, lang)}
                   </div>
                 </Link>
               ))}
@@ -253,7 +264,7 @@ function stripDuplicateHeaderFromMarkdown(md: string): string {
   return out.join('\n').trim();
 }
 
-function renderMarkdown(md: string, locale: 'ar' | 'en'): ReactNode {
+function renderMarkdown(md: string, locale: string): ReactNode {
   const blocks: ReactNode[] = [];
   const paragraphs = md.split(/\n\n+/);
   let footnoteIndex = 0;
@@ -395,7 +406,7 @@ function renderMarkdown(md: string, locale: 'ar' | 'en'): ReactNode {
   return blocks;
 }
 
-function processInline(text: string, locale: 'ar' | 'en'): ReactNode {
+function processInline(text: string, locale: string): ReactNode {
   // Process inline: **bold**, *italic*, [^N] footnote refs, line breaks within paragraphs
   // 1) Decode common HTML entities that authors may use for fine-grained
   //    spacing in poetry/quotations.
