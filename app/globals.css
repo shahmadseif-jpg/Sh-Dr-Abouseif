@@ -9,6 +9,9 @@
   --navy-900: #091625;
   --gold-400: #D4AF37;
   --gold-500: #B0902B;
+  --font-cairo: 'Cairo';
+  --font-inter: 'Inter';
+  --font-cormorant: 'Cormorant Garamond';
 }
 
 * {
