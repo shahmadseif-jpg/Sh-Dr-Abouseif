@@ -58,6 +58,55 @@ export interface ResearchMeta {
 }
 
 export const researchMeta: ResearchMeta[] = [
+  // ورقة المؤتمر الدولي الأول — مركز المعرفة (ماليزيا) 2026
+  {
+    slug: 'tafsir-renewal-and-ai',
+    type: 'conference-paper',
+    category: 'quranic-studies',
+    year: 2026,
+    isoDate: '2026-06-24',
+    date: { ar: 'يونيو ٢٠٢٦', en: 'June 2026', es: 'Junio de 2026' },
+    title: {
+      ar: 'التفسير القرآنيّ بين تجدّد الواقع وتجدّد الأدوات: الذكاء الاصطناعيّ نموذجاً',
+      en: 'Qur’anic Exegesis Between the Renewal of Reality and the Renewal of Tools: Artificial Intelligence as a Case Study',
+      es: 'La exégesis coránica entre la renovación de la realidad y la renovación de las herramientas: la inteligencia artificial como caso de estudio',
+    },
+    subtitle: {
+      ar: 'قراءةٌ أصوليّةٌ في موقع الذكاء الاصطناعيّ من تطوّر علم التفسير',
+      en: 'An uṣūlī reading of the place of artificial intelligence in the development of the science of tafsīr',
+      es: 'Una lectura uṣūlī del lugar de la inteligencia artificial en el desarrollo de la ciencia del tafsīr',
+    },
+    abstract: {
+      ar: 'تُعالِجُ هذه الورقةُ سؤالاً معرفيّاً يتجاوزُ الاستعمالَ التقنيَّ المباشرَ للذكاء الاصطناعيّ في التفسير إلى ما هو أعمق: هل التفسيرُ القرآنيُّ علمٌ قابلٌ للتجدّد استجابةً لتجدّد الواقع وتجدّد أدوات المعرفة، وأين يقعُ الذكاءُ الاصطناعيُّ من هذا المسار؟ وتقترحُ الورقةُ منهجاً لقراءة تاريخ التفسير بوصفه سلسلةً من استيعاب أدوات المعرفة المتعاقبة (الرواية، اللغة، المنطق، المقاصد، الدراسات الأدبيّة)، ثمّ تُنزِّلُ عليه سؤالَ الذكاء الاصطناعيّ قياساً واختباراً. وتخلُص — عبر تحليلٍ مفهوميٍّ وحالةٍ توضيحيّةٍ مطبّقةٍ على نموذجٍ لغويٍّ مُسمّى — إلى أنّ الذكاء الاصطناعيّ أداةٌ معرفيّةٌ معزِّزةٌ في وظيفته، يحمل احتمالَ تحوّلٍ بنيويٍّ مرهونٍ بشروطٍ محدّدة، وأنّ موقعَه الصحيح هو «المفسِّر المعزَّز لا المفسِّر البديل». وتُسهِم الورقةُ بمعيارٍ أصوليٍّ للتمييز بين الخطأ الإحصائيّ والزيف الإسناديّ في مخرجات النماذج.',
+      en: 'This paper addresses an epistemological question that moves beyond the direct technical use of artificial intelligence in tafsīr to something deeper: is Qur’anic exegesis a science capable of renewal in response to the renewal of reality and of the tools of knowledge — and where does artificial intelligence fall within this trajectory? The paper proposes a method for reading the history of tafsīr as a series of successive assimilations of the tools of knowledge (narration, language, logic, the higher objectives [maqāṣid], and literary studies), then applies the question of AI to it by analogy and testing. Through a conceptual analysis and an applied illustrative case study on a named language model, it concludes that artificial intelligence is a knowledge tool that augments the exegete’s function, carrying the possibility of a structural shift contingent upon specific conditions, and that its correct position is that of "the augmented exegete, not the substitute exegete." The paper contributes an uṣūlī (foundational) criterion for distinguishing between statistical error and isnād (chain-of-transmission) forgery in the outputs of these models.',
+      es: 'Esta ponencia aborda una pregunta epistemológica que va más allá del uso técnico directo de la inteligencia artificial en el tafsīr hacia algo más hondo: ¿es la exégesis coránica una ciencia capaz de renovarse en respuesta a la renovación de la realidad y de las herramientas del conocimiento, y dónde se sitúa la inteligencia artificial en esta trayectoria? La ponencia propone un método para leer la historia del tafsīr como una serie de asimilaciones sucesivas de las herramientas del conocimiento (la narración, la lengua, la lógica, los fines superiores [maqāṣid] y los estudios literarios), y luego le aplica la pregunta de la inteligencia artificial por analogía y comprobación. Mediante un análisis conceptual y un caso ilustrativo aplicado a un modelo de lenguaje nombrado, concluye que la inteligencia artificial es una herramienta de conocimiento que potencia la función del exégeta, que porta la posibilidad de un cambio estructural condicionado a requisitos específicos, y que su lugar correcto es el de «el exégeta aumentado, no el exégeta sustituto». La ponencia aporta un criterio uṣūlī (fundacional) para distinguir entre el error estadístico y la falsificación del isnād (cadena de transmisión) en los resultados de estos modelos.',
+    },
+    venue: {
+      ar: 'المؤتمر العلميّ الدوليّ الأوّل — مركز المعرفة للبحوث والتعليم (ماليزيا)',
+      en: 'First International Academic Conference — Knowledge Center for Research and Education (Malaysia)',
+      es: 'Primera Conferencia Académica Internacional — Centro del Conocimiento para la Investigación y la Educación (Malasia)',
+    },
+    location: {
+      ar: 'ماليزيا',
+      en: 'Malaysia',
+      es: 'Malasia',
+    },
+    publisher: {
+      ar: 'بالتعاون مع كلّيّة الشريعة والدراسات الإسلاميّة بجامعة قطر وأكاديميّة الأئمّة بأمريكا — محور «الدراسات الإسلاميّة والعربيّة في عصر الذكاء الاصطناعيّ: التحدّيات والآفاق»',
+      en: 'In collaboration with the College of Sharia and Islamic Studies, Qatar University, and the American Imams Academy — Theme: "Islamic and Arabic Studies in the Age of Artificial Intelligence: Challenges and Horizons"',
+      es: 'En colaboración con la Facultad de Sharía y Estudios Islámicos de la Universidad de Qatar y la Academia Americana de Imames — Eje: «Los estudios islámicos y árabes en la era de la inteligencia artificial: desafíos y horizontes»',
+    },
+    pages: 23,
+    language: 'ar',
+    pdfUrl: '/research/tafsir-renewal-and-ai/paper.pdf',
+    keywords: {
+      ar: ['التفسير القرآني', 'تجدّد الأدوات', 'الذكاء الاصطناعي', 'النماذج اللغوية الكبيرة', 'إنتاج المعرفة', 'الزيف الإسنادي', 'المفسّر المعزَّز'],
+      en: ['Qur’anic exegesis', 'renewal of tools', 'artificial intelligence', 'large language models', 'knowledge production', 'isnād forgery', 'the augmented exegete'],
+      es: ['exégesis coránica', 'renovación de las herramientas', 'inteligencia artificial', 'grandes modelos de lenguaje', 'producción del conocimiento', 'falsificación del isnād', 'el exégeta aumentado'],
+    },
+    featured: true,
+  },
+
   // الكتاب الجديد ـ 2026
   {
     slug: 'fatwa-digital-transformation',
