@@ -8,7 +8,7 @@ export async function generateMetadata({
 }) {
   const { locale } = await params;
   return {
-    title: `${locale === 'ar' ? 'الاستشارات الأسرية' : 'Family Consultations'} — ${
+    title: `${locale === 'ar' ? 'الاستشارات الأسرية' : locale === 'es' ? 'Consultas familiares' : 'Family Consultations'} — ${
       locale === 'ar' ? 'د. أحمد أبو سيف' : 'Dr. Ahmed Abouseif'
     }`,
   };
