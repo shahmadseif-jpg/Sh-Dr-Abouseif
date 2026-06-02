@@ -165,13 +165,80 @@ Esta arquitectura triple es sólida en sí misma, y los imames han escrito sobre
 
 La personalidad del muftí es una arquitectura por capas: una primera capa de capacidad legal (fija, inmutable); una segunda del conocimiento (que exige hoy una expansión a saberes desconocidos por los primeros sabios); una tercera, personal (las ocho cualidades, inmutables en esencia pero que requieren aplicaciones nuevas); y por encima de ellas la cuarta — las Cualificaciones Compuestas (competencia mediática, conciencia psicosocial, alfabetización tecnológica, la jurisprudencia de las consecuencias digitales e integridad mediática). No un reemplazo de lo anterior, sino su culminación. El sistema cognitivo construido en los tres primeros capítulos —conceptos fundacionales, la personalidad del muftí y los rangos de los muytahides— representa nuestro vocabulario compartido para lo que sigue.
 
-## Capítulo tercero: los rangos de los muytahides y el séptimo rango contemporáneo
+## Capítulo tercero: los rangos de los muytahides y los límites de emitir fatwa por taqlīd
 
-El capítulo repasa la conocida división séxtuple de los rangos de los muytahides (el absoluto, el afiliado, el muytahid dentro de una escuela, el muytahid de la ponderación y la fatwa, la clase de los imitadores perspicaces y el muytahid en una cuestión determinada), y luego propone **★ el séptimo rango como la aportación contemporánea propuesta: «el muytahid colectivo institucional»** —no un sustituto de los seis rangos, sino un complemento de ellos—; pues la asamblea de fiqh es, al fin, un marco colectivo en el que cooperan múltiples idoneidades (legales y especializadas).
+### Un preludio: ¿por qué un capítulo independiente?
 
-**Las condiciones de la legitimidad del iytihād colectivo** son cinco: (1) la disponibilidad de las condiciones de idoneidad en los miembros, cada uno en su especialización; (2) una metodología adoptada y documentada (¿cómo se presenta la cuestión? ¿cuál es el quórum? ¿cuál es el estatuto de la opinión minoritaria y su publicación?); (3) la independencia financiera y política que lo protege de las presiones de la financiación y la política; (4) la publicación y la transparencia (las resoluciones se publican con sus pruebas para que los investigadores las examinen); (5) un mecanismo de revisión cuando se hace patente el error.
+En la ponencia original de 2018 presentada a AMJA, el tratamiento de «los rangos de los muytahides» apareció dentro de una larga nota al pie (la número 26) que se extendía por tres páginas y rompía la fluidez de la lectura. Una característica de este libro es que extrae ese valioso contenido de la sombra de la nota a la luz de un capítulo independiente, y le añade una capa contemporánea indispensable: **el séptimo rango contemporáneo — el muytahid colectivo institucional** — un modelo desconocido por los primeros sabios pero suscitado por la complejidad compuesta de los sucesos contemporáneos y la incapacidad de cualquier individuo, por alta que sea su aspiración, de abarcarlos todos. El capítulo tiene cuatro subsecciones: la definición del iytihād; los seis rangos clásicos; el séptimo rango contemporáneo; y una tabla comparativa.
 
-¿Y cuándo es más adecuado el iytihād colectivo? No toda cuestión lo requiere —los asuntos privados cotidianos, los sucesos personales y las fatwas educativas puede atenderlos un muftí individual capaz—; antes bien, se requiere para los **sucesos de amplio impacto** (como las monedas digitales, las vacunas en las epidemias y la concepción in vitro) y los **sucesos compuestos** en los que se solapan varias especializaciones (como la modificación genética, la financiación compleja y las tecnologías médicas avanzadas). El capítulo contrasta la rapidez del muftí individual y su responsabilidad individual con el ritmo más lento de la asamblea y su responsabilidad institucional compartida, y cierra con una tabla comparativa de los siete rangos.
+### Subsección primera: la definición del iytihād
+
+**Lingüísticamente,** iytihād deriva de la raíz *y-h-d*: el despliegue del esfuerzo y el máximo agotamiento de la capacidad en algún asunto arduo, sea sensible (caminar, trabajar) o inmaterial (extraer un juicio). **Técnicamente,** las formulaciones de los uṣūlīs difirieron compartiendo un mismo sentido. El autor repasa ocho definiciones: (1) al-Shāṭibī: «el despliegue del esfuerzo en alcanzar conocimiento o probabilidad sobre un juicio»; (2) al-Rāzī: «el despliegue del esfuerzo en la indagación de aquello por lo que no recae reproche, habiendo agotado en ello el máximo esfuerzo»; (3) al-Qarāfī: «el despliegue del esfuerzo en la indagación de aquello por lo que recae reproche legal»; (4) al-Āmidī: «el despliegue del esfuerzo en buscar la probabilidad sobre algunos juicios legales, de modo que uno perciba incapacidad para más»; (5) Ibn al-Ḥāyib: «el despliegue del esfuerzo del jurista para alcanzar la probabilidad sobre un juicio legal»; (6) Ibn Mufliḥ: «el despliegue de la capacidad del jurista para captar el juicio legal»; (7) Ibn al-Subkī: «el despliegue del esfuerzo del jurista para alcanzar la probabilidad sobre un juicio»; (8) Ibn Yuzayy: «el despliegue del esfuerzo en la indagación de los juicios legales».
+
+**La definición elegida** (reconciliándolas): *El iytihād es el despliegue del esfuerzo en la indagación, y la obtención de conocimiento o probabilidad sobre algunos de los juicios legales, de tal modo que no le recaiga reproche legal y no perciba en sí mismo una incapacidad.*
+
+### Subsección segunda: los seis rangos de los muytahides
+
+Los uṣūlīs concordaron en que los muytahides son rangos graduados por el grado de independencia y de alcance. El autor adopta la clasificación séxtuple por ser la más equilibrada:
+
+**(1) El muytahid independiente (al-Muṭlaq):** «independiente en sus reglas, edificando sobre ellas el fiqh al margen de las reglas establecidas de la escuela» (al-Suyūṭī); requiere el conocimiento del Libro, la Sunna y los dichos de los Compañeros, los fundamentos de la jurisprudencia y las ciencias instrumentales en su máxima medida, con dominio de la lengua y de los lugares del consenso y la divergencia — no un imitador de otro. Es el rango más alto, el de los Cuatro Imames; la mayoría lo tiene por casi extinto hoy, «tan raro como el azufre rojo».
+
+**(2) El muytahid independiente afiliado (al-Muntasib):** atribuido a un imam porque trilló su senda en el iytihād —sin imitarlo en escuela ni prueba, sino habiendo hallado su senda la más sólida—, como Abū Yūsuf y Muḥammad b. al-Ḥasan con Abū Ḥanīfa, aunque difirieron de él en muchos particulares.
+
+**(3) El muytahid dentro de la escuela:** conoce el fiqh, sus fundamentos y las pruebas en detalle, mas imita a su imam en lo manifiesto de su texto. Ibn al-Qayyim criticó este rango con dureza: «¿cómo su iytihād los llevó a concluir que su imam es el más sabio… mientras no los llevó a mirar la palabra de Dios y de Su Mensajero ﷺ?». E Ibn Rushd rehusó hacer «de lo que no es principio un principio sobre el que analogizar… basta esto como extravío e innovación».
+
+**(4) El muytahid de la ponderación y la fatwa (al-Taryīḥ wa al-Futyā):** versado a fondo en la escuela de su imam, capaz de ponderar un dicho frente a otro; por estos se atendieron las necesidades de la gente a lo largo de las épocas.
+
+**(5) La clase de los imitadores capaces de discriminación:** capaces de distinguir lo fuerte de lo débil dentro de la escuela — como los autores de los textos establecidos entre los posteriores.
+
+**(6) El muytahid en una cuestión determinada (al-yuzʾī):** ha alcanzado el rango del iytihād en una cuestión, capítulo o disciplina concretos, ignorando lo que queda fuera. Este rango bien puede convenir a nuestra época de ciencias especializadas y ahondadas, en que es impracticable que un individuo abarque todos los capítulos del fiqh.
+
+### Subsección tercera (nueva): el séptimo rango contemporáneo — el muytahid colectivo institucional
+
+La clasificación séxtuple clásica se forjó en una época cuyos sucesos surgían lentamente, eran de confín local y los podía abarcar un solo jurista. Los nawāzil de hoy son compuestos, cruzan fronteras, exigen múltiples especializaciones (medicina, economía, informática, psicología, derecho internacional) y surgen más rápido de lo que el individuo puede seguir. De ahí la necesidad del séptimo rango.
+
+**Definición:** *El muytahid colectivo institucional: una entidad colectiva organizada, en la que se reúnen un número de muytahides y especialistas, dentro de un marco institucional reconocido, para emitir resoluciones religiosas en asuntos de consecuencia pública, según una metodología establecida y mediante un producto colectivo publicado.*
+
+**Sus raíces fundacionales** son firmes en el patrimonio: la shūrā ordenada por el Corán («Y su asunto es por consulta entre ellos»; «Y consúltalos en el asunto»); el consejo de shūrā que ʿUmar estableció para elegir al califa; la consulta de ʿUmar a los Compañeros mayores sobre las conquistas y el reparto de las tierras; la reunión del Profeta ﷺ con sus Compañeros para el consejo en Badr, Uḥud y la Trinchera; y los consejos de sabios en Medina, Kufa y Basra. Juristas contemporáneos como al-Qaraḍāwī y al-Zuḥaylī lo juzgaron un fundamento reconocido apto para su activación hoy.
+
+**Los modelos contemporáneos** son de tres tipos: (1) **las grandes academias internacionales de fiqh** (la Academia Internacional de Fiqh Islámico de la OCI, el Consejo Europeo de Fatwa e Investigación, la Liga del Mundo Islámico); (2) **los organismos regionales y nacionales de fiqh** (AMJA —a la que se presentó la ponencia original de este libro—; el Comité de Fatwa de la Dār al-Iftāʾ egipcia; el Comité Permanente saudí; el Diwān al-Iftāʾ kuwaití; el Departamento de Iftāʾ jordano); y (3) **los equipos de fatwa multidisciplinares** que reúnen al muftí con un médico, un economista y un tecnólogo para sucesos severamente compuestos (la edición genética de embriones, las finanzas islámicas complejas, las transacciones con blockchain) — una forma emergente que avanza con rapidez.
+
+**Diferencias entre el iytihād individual y el colectivo:**
+
+| Aspecto | Iytihād individual | Iytihād colectivo institucional |
+|---|---|---|
+| Muytahid | Un individuo concreto (imam, sabio, muftí). | Una entidad institucional (academia, comité, equipo). |
+| Producto | Una fatwa — puede no venir con sus pruebas detalladas. | Una resolución/recomendación — normalmente con ellas. |
+| Metodología | Personal — difiere de un muftí a otro. | Establecida y documentada — publicada. |
+| Especialización | En general, jurisprudencia pura. | Jurisprudencia + especializaciones según se necesite. |
+| Autoridad de la decisión | No estrictamente vinculante. | Tratada por la gente de fatwa como referencia. |
+| Publicación y transparencia | Limitada — puede no llegar al público. | Publicada oficialmente en libros de resoluciones. |
+| Velocidad | Rápida — la fatwa puede emitirse al instante. | Más lenta — requiere reunión y tiempo de investigación. |
+| Rendición de cuentas | Solo el muftí responde. | Responde la institución; la responsabilidad individual puede diluirse. |
+
+**Condiciones de legitimidad del iytihād colectivo:** (1) **idoneidad en los miembros**, cada uno cualificado en su especialidad —de lo contrario la academia se vuelve «una asamblea formal sin espíritu»—; (2) **una metodología establecida y documentada** (cómo se presenta la cuestión, cómo se reúne la opinión, el quórum, el tratamiento y la publicación de la opinión minoritaria); (3) **independencia financiera y política** —«cuando queda hipotecada a un financiador o a un cuerpo político, pierde su credibilidad científica»—; (4) **publicación y transparencia** (resoluciones publicadas con sus pruebas); (5) **un mecanismo de revisión** cuando una resolución resulta errónea.
+
+**¿Cuándo es el iytihād colectivo lo más adecuado?** No toda cuestión lo requiere —los sucesos cotidianos y personales y las fatwas instructivas convienen al muftí individual capaz—. Se requiere para: los **sucesos de amplio impacto** (las criptomonedas, las vacunas en las pandemias, la reproducción in vitro); los **sucesos compuestos** (la edición genética, las finanzas complejas, las tecnologías médicas avanzadas); las **cuestiones críticas en disputa** que necesitan una opinión decisiva y unificadora (el inicio del Ramadán, el trabajo en entornos mixtos); y las **preguntas nuevas** que los primeros juristas nunca indagaron (la realidad virtual, la inteligencia artificial, las transacciones digitales complejas).
+
+**Desafíos** nombrados con honestidad: la lentitud del producto (las conferencias anuales no siguen el ritmo de los sucesos); el alcance limitado (las resoluciones llegan a los especialistas, no al público que consume fatwa por las redes); la débil coordinación entre academias (que produce fatwas globales contradictorias); y la financiación y la independencia. Esto no niega el rango, sino que llama a desarrollar sus mecanismos — la tarea de los capítulos octavo y décimo.
+
+### Subsección cuarta (nueva): una tabla comparativa de los siete rangos
+
+| Rango | Independencia | Fuente del conocimiento | Ejemplo histórico | Equivalente contemporáneo |
+|---|---|---|---|---|
+| (1) Muytahid independiente | Completa, en fundamentos y particulares. | Libro, Sunna, iymāʿ, qiyās — directamente. | Los Cuatro Imames y sus pares. | Casi extinto; el rango de los grandes fundadores. |
+| (2) Independiente afiliado | En los particulares, con afiliación en el método. | La metodología de su imam, con iytihād personal. | Abū Yūsuf y Muḥammad b. al-Ḥasan con Abū Ḥanīfa. | Sabios mayores de las escuelas. |
+| (3) Muytahid dentro de la escuela | Restringida por la escuela de su imam. | El texto del imam, con extensión sobre él. | Autores de opiniones y sendas. | Sabios contemporáneos de las escuelas. |
+| (4) Muytahid de ponderación y fatwa | Ponderación entre los dichos de su imam u otros. | Los libros acreditados de la escuela. | Autores de los textos establecidos. | Muftíes y editores dentro de las escuelas. |
+| (5) Imitador de discriminación | Discriminación entre lo fuerte y lo débil. | Los textos establecidos de la escuela. | Sabios de la instrucción en las escuelas. | Estudiantes avanzados del conocimiento. |
+| (6) Muytahid parcial | Iytihād en un capítulo o materia. | Especialización profunda en un capítulo. | Especialistas en capítulos del fiqh. | Especialistas y académicos. |
+| (7) ★ Muytahid colectivo institucional | Independencia colectiva dentro de la metodología de la institución. | Integración de disciplinas: religiosa + científica + social. | Raíces: la shūrā; los consejos de los Compañeros. | AMJA, las academias de fiqh, el ECFR. |
+
+★ El séptimo rango es la aportación contemporánea propuesta de este libro —no un sustituto de los seis rangos, sino su culminación—: la academia de fiqh se compone de individuos que pertenecen cada uno a uno de los rangos anteriores, pero la integración entre ellos produce un nivel de iytihād que el individuo no puede alcanzar solo.
+
+### Conclusión del capítulo
+
+Los rangos de los muytahides no son una estructura fija que termine con los seis fijados por los uṣūlīs, sino una estructura viva que responde a las necesidades de cada época. Los primeros sabios abarcaron los rangos del individuo; nuestra época necesita un séptimo que acoja lo colectivo y la institución. No es una rebelión contra el patrimonio, sino una ampliación de él — edificada sobre los mismos principios con que los imames clasificaron los rangos, solo que dentro de un marco colectivo en el que cooperan las competencias.
 
 ---
 

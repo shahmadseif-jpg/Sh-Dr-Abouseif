@@ -165,13 +165,80 @@ This triple architecture is sound in itself, and each condition has been written
 
 The personhood of the mufti is a layered architecture: a first layer of legal capacity (fixed, unchanging); a second of knowledge (requiring today an expansion into bodies of knowledge unknown to the early scholars); a third, personal (the eight qualities, unchanging in essence yet requiring new applications); and above these the fourth — the Compound Qualifications (Media Competence, Psychosocial Awareness, Technological Literacy, the Jurisprudence of Digital Consequences, and Media Integrity). Not a replacement of what came before, but its completion. The cognitive system built in the first three chapters — Foundational Concepts, the Personhood of the Mufti, and the Ranks of the Mujtahids — represents our shared vocabulary for what follows.
 
-## Chapter Three: The Ranks of the Mujtahids and the Contemporary Seventh Rank
+## Chapter Three: The Ranks of the Mujtahids and the Limits of Issuing Fatwa Through Taqlīd
 
-The chapter reviews the well-known six-fold division of the mujtahids' ranks (the absolute, the affiliated, the mujtahid within a school, the mujtahid of weighing and fatwa, the class of discerning imitators, and the mujtahid in a particular issue), then proposes **★ the seventh rank as the proposed contemporary addition: "the collective institutional mujtahid"** — not a substitute for the six ranks but a complement to them; for the fiqh assembly is, in the end, a collective framework in which multiple qualifications (Sharia and specialist) cooperate.
+### A Prelude: Why a Standalone Chapter?
 
-**The conditions for the legitimacy of collective ijtihād** are five: (1) the availability of the conditions of qualification in the members, each in his specialization; (2) an adopted and documented methodology (how is the issue presented? what is the quorum? what is the ruling on the minority opinion and its publication?); (3) financial and political independence that protects it from the pressures of funding and politics; (4) publication and transparency (resolutions are published with their proofs so that researchers may examine them); (5) a review mechanism when error becomes apparent.
+In the original 2018 paper presented to AMJA, the discussion of "the ranks of the mujtahids" appeared within a long footnote (number 26) that extended across three pages and broke the flow of reading. One feature of this book is that it extracts that valuable content from the shadow of the footnote into the light of a standalone chapter, and adds to it a contemporary layer indispensable to it: **the Contemporary Seventh Rank — the Collective Institutional Mujtahid** — a model unknown to the early scholars but called forth by the compounded complexity of contemporary contingencies and the inability of any single individual, however high his aspiration, to encompass them all. The chapter has four sub-sections: defining ijtihād; the six classical ranks; the contemporary seventh rank; and a comparative table.
 
-And when is collective ijtihād more fitting? Not every issue requires it — private daily matters, personal events, and educational fatwas can be handled by a capable individual mufti — rather, it is required for **wide-impact events** (such as digital currencies, vaccines in epidemics, and in-vitro conception) and **composite events** in which several specializations overlap (such as genetic modification, complex financing, and advanced medical technologies). The chapter contrasts the individual mufti's speed and individual responsibility with the assembly's slower pace and shared institutional responsibility, and closes with a comparative table of the seven ranks.
+### Sub-section One: Defining Ijtihād
+
+**Linguistically,** ijtihād derives from the root *j-h-d*: the exertion of effort and the maximal expending of capacity in some difficult matter, whether sensible (walking, labor) or immaterial (extracting a ruling). **Technically,** the uṣūlīs' phrasings differed while sharing one meaning. The author surveys eight definitions: (1) al-Shāṭibī: "the exertion of effort in attaining knowledge or probability concerning a ruling"; (2) al-Rāzī: "the exertion of effort in inquiry into that for which no blame attaches, while having exerted maximal effort"; (3) al-Qarāfī: "the exertion of effort in inquiry into that for which religious blame attaches"; (4) al-Āmidī: "the exertion of effort in seeking probability concerning some religious rulings, such that one senses inability for more"; (5) Ibn al-Ḥājib: "the jurist's exertion of effort to attain probability concerning a religious ruling"; (6) Ibn Mufliḥ: "the jurist's exertion of his capacity to grasp the religious ruling"; (7) Ibn al-Subkī: "the jurist's exertion of effort to attain probability concerning a ruling"; (8) Ibn Juzayy: "the exertion of effort in inquiry into the religious rulings."
+
+**The chosen definition** (reconciling them): *Ijtihād is the exertion of effort in inquiry, and the attainment of knowledge or probability concerning some of the religious rulings, in such a way that no religious blame attaches to him and he does not sense an inability in himself.*
+
+### Sub-section Two: The Six Ranks of the Mujtahids
+
+The uṣūlīs agreed that the mujtahids are graded ranks by degree of independence and scope. The author adopts the six-fold classification as the most balanced:
+
+**(1) The Independent Mujtahid (al-Muṭlaq):** "independent in his rules for himself, building upon them the fiqh apart from the established rules of the school" (al-Suyūṭī); requiring knowledge of the Book, Sunna, and the sayings of the Companions, the principles of jurisprudence and the instrumental sciences in their fullest measure, with mastery of language and the places of consensus and divergence — not an imitator of another. This is the highest rank, that of the Four Imams; the majority hold it nearly extinct today, "as rare as red sulfur."
+
+**(2) The Affiliated Independent Mujtahid (al-Muntasib):** attributed to an imam because he trod that imam's path in ijtihād — not imitating him in school or proof, but having found his path the soundest — as Abū Yūsuf and Muḥammad b. al-Ḥasan with Abū Ḥanīfa, though they differed from him in many particulars.
+
+**(3) The Mujtahid Within the School:** knows fiqh, its principles, and the proofs in detail, yet imitates his imam in what is manifest in his text. Ibn al-Qayyim criticized this rank sharply: "how did their ijtihād bring them to the conclusion that their imam is the most knowledgeable… while it did not bring them to look into the speech of God and His Messenger ﷺ?" And Ibn Rushd refused making "what is not a principle into a principle to be analogized upon… sufficient is this as misguidance and innovation."
+
+**(4) The Mujtahid of Weighing and Fatwa (al-Tarjīḥ wa al-Futyā):** deeply learned within his imam's school, capable of weighing one statement against another; by these the needs of people across the ages were met.
+
+**(5) The Stratum of Imitators Capable of Discrimination:** able to distinguish the strong from the weak within the school — like the writers of the established texts among the later scholars.
+
+**(6) The Mujtahid in a Particular Issue (al-juzʾī):** has reached the rank of ijtihād in a specific issue, chapter, or discipline while ignorant of what lies outside it. This rank may well suit our age of specialized, deepened sciences, in which it is impractical for one individual to encompass all chapters of fiqh.
+
+### Sub-section Three (New): The Contemporary Seventh Rank — The Collective Institutional Mujtahid
+
+The classical six-fold classification was crafted in an era whose contingencies arose slowly, were locally confined, and could be encompassed by a single jurist. Today's nawāzil are composite, transcend borders, call for multiple specializations (medicine, economics, computing, psychology, international law), and arise faster than the individual can track. Hence the need for the Seventh Rank.
+
+**Definition:** *The Collective Institutional Mujtahid: an organized collective entity, in which a number of mujtahids and specialists gather, within a recognized institutional framework, to issue religious resolutions in matters of public consequence, according to an established methodology and through a collective published output.*
+
+**Its foundational roots** are firm in the heritage: the shūrā commanded by the Qur'an ("And their affair is by consultation among themselves"; "And consult them in the matter"); the shūrā council ʿUmar established to choose the caliph; ʿUmar's consulting the senior Companions on the conquests and the apportionment of lands; the Prophet's ﷺ gathering his Companions for counsel at Badr, Uḥud, and the Trench; and the councils of scholars in Madīna, Kūfa, and Baṣra. Contemporary jurists such as al-Qaraḍāwī and al-Zuḥaylī judged it a recognized foundation fit for activation today.
+
+**Contemporary models** are of three types: (1) **the major international fiqh academies** (the International Islamic Fiqh Academy of the OIC, the European Council for Fatwa and Research, the Muslim World League); (2) **the regional and national fiqh bodies** (AMJA — to which this book's original paper was presented; the Fatwa Committee of the Egyptian Dār al-Iftāʾ; the Saudi Permanent Committee; the Kuwaiti Diwān al-Iftāʾ; the Jordanian Iftāʾ Department); and (3) **multidisciplinary fatwa teams** that gather the mufti with a physician, economist, and technologist for severely composite contingencies (embryonic genetic editing, complex Islamic finance, blockchain transactions) — an emerging form advancing rapidly.
+
+**Differences between individual and collective ijtihād:**
+
+| Aspect | Individual Ijtihād | Collective Institutional Ijtihād |
+|---|---|---|
+| Mujtahid | A specific individual (imam, scholar, mufti). | An institutional entity (academy, committee, team). |
+| Output | A fatwa — may not come with its detailed proofs. | A resolution/recommendation — typically with them. |
+| Methodology | Personal — differs from one mufti to another. | Established and documented — published. |
+| Specialization | Generally pure jurisprudence. | Jurisprudence + specializations as needed. |
+| Authority of decision | Not strictly binding. | Treated by the people of fatwa as a reference. |
+| Publication & transparency | Limited — may not reach the public. | Officially published in books of resolutions. |
+| Speed | Fast — a fatwa can be issued instantly. | Slower — requires meeting and research time. |
+| Accountability | The mufti alone is held to account. | The institution is held to account; individual responsibility may dissolve. |
+
+**Conditions of legitimacy for collective ijtihād:** (1) **eligibility in the members**, each qualified within his specialty — otherwise the academy becomes "a formal assembly without spirit"; (2) **an established, documented methodology** (how an issue is presented, how opinion is gathered, the quorum, the treatment and publication of the minority's views); (3) **financial and political independence** — "whenever it is mortgaged to a funder or political body, it loses its scholarly credibility"; (4) **publication and transparency** (resolutions published with their proofs); (5) **a mechanism of revision** when a resolution is shown to be in error.
+
+**When is collective ijtihād the most fitting?** Not every issue requires it — daily and personal contingencies and instructive fatwas suit the empowered individual mufti. It is required for: **contingencies of wide impact** (cryptocurrencies, vaccines in pandemics, in-vitro reproduction); **composite contingencies** (genetic editing, complex finance, advanced medical technologies); **critical disputed issues** needing a decisive, unifying opinion (the start of Ramadan, working in mixed environments); and **new questions** the early jurists never investigated (virtual reality, artificial intelligence, complex digital transactions).
+
+**Challenges** named in honesty: slow output (annual conferences cannot keep pace); limited reach (resolutions reach specialists, not the public who consume fatwa via social media); weak coordination among academies (producing contradictory global fatwas); and funding and independence. These do not negate the rank but call for developing its mechanisms — the task of Chapter Eight and Chapter Ten.
+
+### Sub-section Four (New): A Comparative Table of the Seven Ranks
+
+| Rank | Independence | Source of Knowledge | Historical Exemplar | Contemporary Counterpart |
+|---|---|---|---|---|
+| (1) Independent Mujtahid | Complete, in principles and particulars. | Book, Sunna, ijmāʿ, qiyās — directly. | The Four Imams and their peers. | Nearly extinct; the rank of the great founders. |
+| (2) Affiliated Independent | In particulars, with affiliation in method. | The methodology of his imam, with personal ijtihād. | Abū Yūsuf & Muḥammad b. al-Ḥasan with Abū Ḥanīfa. | Senior scholars of the schools. |
+| (3) Mujtahid Within the School | Restricted by his imam's school. | The imam's text, with extension upon it. | Authors of opinions and paths. | Contemporary scholars of the schools. |
+| (4) Mujtahid of Weighing & Fatwa | Weighing among the sayings of his imam or others. | The accredited books of the school. | Authors of the established texts. | Muftis and editors within the schools. |
+| (5) Imitator of Discrimination | Discrimination between the strong and the weak. | The school's established texts. | Scholars of instruction in the schools. | Advanced students of knowledge. |
+| (6) Partial Mujtahid | Ijtihād in one chapter or matter. | Deep specialization in one chapter. | Specialists in chapters of fiqh. | Specialists and academics. |
+| (7) ★ Collective Institutional Mujtahid | Collective independence within the institution's methodology. | Integration of disciplines: religious + scientific + social. | Roots: shūrā; the councils of the Companions. | AMJA, the Fiqh Academies, the ECFR. |
+
+★ The Seventh Rank is the proposed contemporary addition of this book — not a substitute for the six ranks but a completion of them: the fiqh academy is composed of individuals each belonging to one of the preceding ranks, but the integration among them produces a level of ijtihād the individual cannot achieve alone.
+
+### Conclusion of the Chapter
+
+The ranks of the mujtahids are not a fixed structure ending with the six set down by the uṣūlīs, but a living structure responsive to the needs of every age. The early scholars encompassed the ranks of the individual; our age needs a seventh that accommodates the collective and the institution. This is no rebellion against the heritage but an expansion of it — built upon the very principles by which the imams classified the ranks, only within a collective frame in which competencies cooperate.
 
 ---
 
