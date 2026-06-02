@@ -29,22 +29,22 @@ function EventsContent() {
   // Placeholder events. Replace with real data when ready.
   const events = [
     {
-      title: locale === 'ar' ? 'خاطرة الفجر — جامع العلوم والحكم' : 'Fajr Khatira — Jami\' Al-Ulum wal-Hikam',
-      date: locale === 'ar' ? 'يومياً بعد صلاة الفجر' : 'Daily after Fajr prayer',
+      title: locale === 'ar' ? 'خاطرة الفجر — جامع العلوم والحكم' : locale === 'es' ? 'Reflexión del Fayr — Yāmiʿ al-ʿUlūm wal-Ḥikam' : 'Fajr Khatira — Jami\' Al-Ulum wal-Hikam',
+      date: locale === 'ar' ? 'يومياً بعد صلاة الفجر' : locale === 'es' ? 'A diario tras la oración del Fayr' : 'Daily after Fajr prayer',
       location: 'AIA',
-      type: locale === 'ar' ? 'درس يومي' : 'Daily class',
+      type: locale === 'ar' ? 'درس يومي' : locale === 'es' ? 'Clase diaria' : 'Daily class',
     },
     {
-      title: locale === 'ar' ? 'خطبة الجمعة' : 'Jumu\'ah Khutbah',
-      date: locale === 'ar' ? 'كل جمعة' : 'Every Friday',
+      title: locale === 'ar' ? 'خطبة الجمعة' : locale === 'es' ? 'Sermón del viernes (Yumuʿa)' : 'Jumu\'ah Khutbah',
+      date: locale === 'ar' ? 'كل جمعة' : locale === 'es' ? 'Cada viernes' : 'Every Friday',
       location: 'Bayt Al-Karim Islamic Center',
-      type: locale === 'ar' ? 'خطبة أسبوعية' : 'Weekly khutbah',
+      type: locale === 'ar' ? 'خطبة أسبوعية' : locale === 'es' ? 'Sermón semanal' : 'Weekly khutbah',
     },
     {
-      title: locale === 'ar' ? 'محاضرة العشاء — نداءات الإيمان' : 'Isha Lecture — Calls to Faith',
-      date: locale === 'ar' ? 'كل سبت بعد العشاء' : 'Every Saturday after Isha',
+      title: locale === 'ar' ? 'محاضرة العشاء — نداءات الإيمان' : locale === 'es' ? 'Conferencia del ʿIshāʾ — Llamadas a la fe' : 'Isha Lecture — Calls to Faith',
+      date: locale === 'ar' ? 'كل سبت بعد العشاء' : locale === 'es' ? 'Cada sábado tras el ʿIshāʾ' : 'Every Saturday after Isha',
       location: 'AIA',
-      type: locale === 'ar' ? 'محاضرة أسبوعية' : 'Weekly lecture',
+      type: locale === 'ar' ? 'محاضرة أسبوعية' : locale === 'es' ? 'Conferencia semanal' : 'Weekly lecture',
     },
   ];
 
