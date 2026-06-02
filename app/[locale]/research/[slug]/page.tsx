@@ -199,16 +199,47 @@ export default async function ResearchItemPage({
         </div>
 
         {/* Full text */}
-        {body && (
-          <div className="mt-4 mb-12">
-            <h2 className="text-2xl font-medium text-navy-700 mb-6 pt-8 border-t border-navy-100">
-              {fullTextLabel}
-            </h2>
-            <div className={`article-prose ${locale === 'ar' ? 'article-rtl' : 'article-ltr'}`}>
-              {renderResearchMarkdown(stripFrontmatter(body), locale)}
+        {body && (() => {
+          const cleanBody = stripFrontmatter(body);
+          const toc = extractToc(cleanBody);
+          const mins = readingMinutes(cleanBody);
+          const minsLabel = loc === 'ar' ? `${mins} دقيقة قراءة` : loc === 'es' ? `${mins} min de lectura` : `${mins} min read`;
+          const tocLabel = loc === 'ar' ? 'محتويات' : loc === 'es' ? 'Contenido' : 'Contents';
+          return (
+            <div className="mt-4 mb-12">
+              <div className="flex flex-wrap items-baseline justify-between gap-2 pt-8 border-t border-navy-100">
+                <h2 className="text-2xl font-medium text-navy-700 mb-2">{fullTextLabel}</h2>
+                <span className="text-xs text-navy-500">⏱ {minsLabel}</span>
+              </div>
+
+              {/* In-page table of contents */}
+              {toc.length > 2 && (
+                <nav
+                  aria-label={tocLabel}
+                  className={`mb-8 rounded-lg border border-navy-100 bg-navy-50/40 p-5 ${locale === 'ar' ? 'article-rtl' : 'article-ltr'}`}
+                >
+                  <div className="text-xs font-medium uppercase tracking-wider text-navy-500 mb-3">{tocLabel}</div>
+                  <ul className="space-y-1.5">
+                    {toc.map((it) => (
+                      <li key={it.id} style={{ marginInlineStart: `${(it.level - 1) * 14}px` }}>
+                        <a
+                          href={`#${it.id}`}
+                          className={`no-underline hover:text-gold-700 hover:underline ${it.level === 1 ? 'text-navy-800 font-medium' : 'text-navy-600'} ${it.level === 3 ? 'text-sm' : ''}`}
+                        >
+                          {it.text}
+                        </a>
+                      </li>
+                    ))}
+                  </ul>
+                </nav>
+              )}
+
+              <div className={`article-prose ${locale === 'ar' ? 'article-rtl' : 'article-ltr'}`}>
+                {renderResearchMarkdown(cleanBody, locale)}
+              </div>
             </div>
-          </div>
-        )}
+          );
+        })()}
 
         {/* Keywords */}
         {item.keywords && (item.keywords[loc] ?? item.keywords.en).length > 0 && (
@@ -258,9 +289,40 @@ function stripFrontmatter(md: string): string {
   return md.trim();
 }
 
+/** Extract an ordered heading list (levels 1–3) with anchor IDs that match
+ *  the IDs assigned by renderResearchMarkdown (both walk the blocks in the
+ *  same order and increment a heading counter on every #/##/###/#### block). */
+function extractToc(md: string): { level: number; text: string; id: string }[] {
+  const out: { level: number; text: string; id: string }[] = [];
+  const paragraphs = md.split(/\n\n+/);
+  let h = 0;
+  for (const p of paragraphs) {
+    const para = p.trim();
+    if (!para) continue;
+    let level = 0;
+    if (para.startsWith('#### ')) level = 4;
+    else if (para.startsWith('### ')) level = 3;
+    else if (para.startsWith('## ')) level = 2;
+    else if (para.startsWith('# ')) level = 1;
+    if (!level) continue;
+    const id = `sec-${h++}`;
+    if (level > 3) continue; // counted (to stay in sync) but not listed
+    const text = para.split('\n')[0].replace(/^#+\s+/, '').replace(/\*\*/g, '').replace(/★\s*/g, '').trim();
+    out.push({ level, text, id });
+  }
+  return out;
+}
+
+/** Estimated reading time in minutes from the body word count. */
+function readingMinutes(md: string): number {
+  const words = stripFrontmatter(md).replace(/[#>*`|—-]/g, ' ').split(/\s+/).filter(Boolean).length;
+  return Math.max(1, Math.round(words / 200));
+}
+
 function renderResearchMarkdown(md: string, locale: string): ReactNode {
   const blocks: ReactNode[] = [];
   const paragraphs = md.split(/\n\n+/);
+  let h = 0; // heading counter — kept in sync with extractToc for anchor IDs
 
   for (let i = 0; i < paragraphs.length; i++) {
     const para = paragraphs[i].trim();
@@ -308,29 +370,38 @@ function renderResearchMarkdown(md: string, locale: string): ReactNode {
       continue;
     }
 
-    if (para.startsWith('## ')) {
+    if (para.startsWith('#### ')) {
       blocks.push(
-        <h2 key={`h2-${i}`} className="text-2xl sm:text-3xl font-medium text-navy-800 mt-12 mb-4 gold-line">
-          {processResearchInline(para.slice(3).trim(), locale)}
-        </h2>
+        <h4 key={`h4-${i}`} id={`sec-${h++}`} className="scroll-mt-24 text-lg font-medium text-navy-700 mt-8 mb-3">
+          {processResearchInline(para.slice(5).trim(), locale)}
+        </h4>
       );
       continue;
     }
 
     if (para.startsWith('### ')) {
       blocks.push(
-        <h3 key={`h3-${i}`} className="text-xl sm:text-2xl font-medium text-navy-700 mt-10 mb-3">
+        <h3 key={`h3-${i}`} id={`sec-${h++}`} className="scroll-mt-24 text-xl sm:text-2xl font-medium text-navy-700 mt-10 mb-3">
           {processResearchInline(para.slice(4).trim(), locale)}
         </h3>
       );
       continue;
     }
 
-    if (para.startsWith('#### ')) {
+    if (para.startsWith('## ')) {
       blocks.push(
-        <h4 key={`h4-${i}`} className="text-lg font-medium text-navy-700 mt-8 mb-3">
-          {processResearchInline(para.slice(5).trim(), locale)}
-        </h4>
+        <h2 key={`h2-${i}`} id={`sec-${h++}`} className="scroll-mt-24 text-2xl sm:text-3xl font-medium text-navy-800 mt-12 mb-4 gold-line">
+          {processResearchInline(para.slice(3).trim(), locale)}
+        </h2>
+      );
+      continue;
+    }
+
+    if (para.startsWith('# ')) {
+      blocks.push(
+        <h2 key={`h1-${i}`} id={`sec-${h++}`} className="scroll-mt-24 text-2xl sm:text-3xl font-semibold text-navy-900 mt-14 mb-5 pb-2 border-b-2 border-gold-300">
+          {processResearchInline(para.slice(2).trim(), locale)}
+        </h2>
       );
       continue;
     }
