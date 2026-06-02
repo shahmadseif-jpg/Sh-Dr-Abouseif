@@ -424,28 +424,92 @@ El desplazamiento del «muftí individual» al «ecosistema colectivo de fatwa»
 
 # Parte tercera: la construcción
 
-## Capítulo noveno: evaluación y preámbulo
+## Capítulo noveno: evaluación de las seis propuestas de 2018 y lo que se ha logrado
 
-El capítulo repasa las seis propuestas con que cerró la ponencia de 2018, analiza por qué algunas se estancaron (la falta de recursos, la débil difusión, la ausencia de activación institucional) y lee la realidad presente de la emisión de fatwas —para allanar el camino a la hoja de ruta práctica del capítulo décimo, convirtiendo el diagnóstico en construcción—.
+### Un preludio: una auditoría autocrítica
 
-## Capítulo décimo: la hoja de ruta — diez iniciativas
+Ocho años después de la intervención de 2018, la pregunta inicial es: ¿qué de aquellas seis propuestas se ha logrado, qué no, y por qué? Esta auditoría autocrítica no es fácil para su autor; la respuesta práctica es que la realidad no se ha movido mucho hacia aquellas propuestas — y en algunas retrocedió. La razón no es necesariamente que las propuestas fueran erróneas, sino que ocho años produjeron tres grandes transformaciones que trastocaron los datos: la explosión de la economía del influencer y el video corto (TikTok, Shorts, Reels); el auge de la IA generativa que permitió una «respuesta legal de la máquina» en segundos; y la pandemia de COVID-19 que normalizó la fatwa digital. Ninguna se previó en 2018 — algunas no existían en absoluto — de modo que la evaluación pregunta de cada propuesta no solo «¿tuvo éxito o fracasó?», sino «¿sigue siendo viable hoy, o necesita una formulación actualizada?».
 
-El capítulo ofrece diez iniciativas prácticas distribuidas en tres horizontes temporales (inmediato, medio, lejano):
+### Subsección primera: las seis propuestas entre el sueño y la realización
 
-1. **La Carta del Muftí Digital** — un código de conducta adoptado.
-2. **Una Plataforma de Fatwa Unificada** (liderada por AMJA con la participación del Consejo de Fiqh / ISNA y otros).
-3. **Una Escuela para Graduar al Muftí Digital** — cualificado en conocimiento, herramientas y conciencia de la realidad.
-4. **Un Modelo de Lenguaje Legal** — de código abierto, afinado y revisado dentro de un entorno científico legal.
-5. **Un Observatorio de la Fatwa Digital** para vigilar los fenómenos y las fatwas anómalas.
-6. **Una Alianza con las Grandes Plataformas** para disciplinar el contenido de fatwa.
-7. **La Educación del Consultante** en la ética de pedir una fatwa y en distinguir la opinión de la fatwa.
-8. **Una Red de Fatwa Multilingüe** para servir a las comunidades en sus propias lenguas.
-9. **Un Archivo Digital del Patrimonio de la Fatwa** — clasificado y verificado.
-10. **Un Informe Anual sobre el Estado de la Fatwa** en el espacio digital.
+**Propuesta primera — la unión de las instituciones en torno a un canal de fatwa unificado:** logro muy limitado (algunas alianzas regionales y comunicados conjuntos, pero ningún canal unificado). Obstáculos: la financiación independiente, la competencia entre autoridades, el ascenso de las redes sobre los canales satelitales y la ausencia de toda autoridad ejecutiva para «vetar» canales. *Veredicto:* necesita una reformulación radical — no un «canal unificado», sino «una plataforma de fatwa unificada capaz de integrarse con las plataformas existentes», una referencia fiable para la verificación (Capítulo Décimo, Iniciativa Segunda).
 
-## Conclusión del libro
+**Propuesta segunda — el agruparse de los trabajadores de la daʿwa en torno a las referencias:** limitado; ocurrió lo contrario — la fragmentación de las autoridades y el ascenso de autoridades «personales» de las redes. Obstáculos: las divisiones políticas, el fallecimiento de grandes figuras (al-Qaraḍāwī, 2022), la economía del influencer y la ausencia de «liberación plena» de los sabios mayores. *Veredicto:* sólido en su núcleo, pero el agruparse hoy es en torno a un «ecosistema», no a una «persona» (Capítulo Décimo, Iniciativa Tercera: una escuela para graduar al muftí digital).
 
-El autor concluye que el patrimonio fundacional (uṣūlī) sigue siendo capaz de asimilación a condición del iytihād colectivo institucional; y que abordar el caos digital no se logra ni con el terror a la técnica ni con la rendición ante ella, sino construyendo un sistema que preserve la centralidad del muftí idóneo, emplee las herramientas digitales y la IA como un asistente potenciador, y salvaguarde la confianza de la exposición en un tiempo en que la «tendencia» se ha vuelto más fuerte que el «patrimonio» a menos que las instituciones científicas se muevan para reajustar la brújula. Pide a Dios que haga de esta obra una caridad continua.
+**Propuesta tercera — los canales de comunicación entre los muftíes oficiales:** comparativamente buena (las academias se reúnen periódicamente), pero no se ha logrado un consenso global sobre las cuestiones críticas, y las resoluciones pueden contradecirse entre academias sin un mecanismo de coordinación. Obstáculos: la diversidad de los sistemas políticos, las discrepancias regionales, la no obligatoriedad de las resoluciones y la lentitud procedimental. *Veredicto:* buena en su empeño, pero carente de un mecanismo permanente de coordinación (Capítulo Décimo: la Red Multidisciplinar de Fatwa y el Observatorio de la Fatwa Digital).
+
+**Propuesta cuarta — el desarrollo de las academias nacionales de fiqh:** la más lograda — AMJA continuó 15+ conferencias anuales, sus temas desarrollándose de las cuestiones tradicionales a los sucesos contemporáneos (la IA, las finanzas digitales, el matrimonio digital), como también el ECFR y la Dār al-Iftāʾ egipcia. Mas no se logró el «aumento sustancial de las capacidades» (recursos limitados, miembros voluntarios, alcance limitado al público). *Veredicto:* un éxito claro pero incompleto (Capítulo Décimo, Iniciativas Segunda y Tercera).
+
+**Propuesta quinta — enseñar a la gente a tomar las fatwas solo de los sabios de sus tierras:** limitado, y la realidad retrocedió — por la fuerza de las plataformas, la audiencia consume fatwas de influencers lejanos que quizá no vivan en su contexto. Obstáculos: la apertura del ámbito digital, la dificultad de imponer una autoridad local y los algoritmos que promueven contenido fuera de contexto. *Veredicto:* necesita una reformulación radical — ya no se puede «impedir» que la audiencia consuma fatwas en línea; la formulación contemporánea es «educar al consultante» para construir una conciencia crítica con la que él mismo elija las autoridades sólidas (Capítulo Décimo, Iniciativa Séptima).
+
+**Propuesta sexta — emitir comunicados de objeción a los canales no especializados:** intentos dispersos sin impacto metódico; los canales y las plataformas responden a las métricas del mercado, no a las instituciones legales, y los influencers pueden incluso usar las objeciones para ganar difusión. *Veredicto:* necesita una sustitución esencial — la objeción no es eficaz; la alternativa es invertir en contenido alternativo en lugar de objetar el contenido existente (Capítulo Décimo, Iniciativas Sexta y Novena).
+
+### Subsección segunda: ¿por qué se estancó la implementación? Un análisis estructural
+
+Tres patrones repetidos —no un defecto de las propuestas solas, sino del marco en que se formularon—: **Patrón primero — la ausencia de un mecanismo ejecutivo:** la mayoría de las propuestas presuponían una autoridad capaz de ejecutar (una unión de instituciones, un veto a canales), pero la realidad islámica carece de tal autoridad; *la lección:* las propuestas eficaces operan por los mecanismos de la influencia (construir alternativas más fuertes, ganar a la audiencia por la calidad), no por la imposición. **Patrón segundo — la centralización de la fatwa en una era de descentralización cognitiva:** las propuestas presuponían una «autoridad unificada», pero internet se construyó desde su fundación sobre la descentralización; *la lección:* no cabe construir una autoridad unificada en un espacio diseñado para la descentralización, pero sí una red integrada y fiable. **Patrón tercero — atender el síntoma en lugar de la estructura:** varias propuestas trataron los síntomas visibles (los canales aberrantes, las fatwas dispersas) en lugar del desplazamiento estructural subyacente en la relación entre el ser humano y el conocimiento religioso.
+
+### Subsección tercera: una lectura de la nueva realidad tras 2018
+
+La lectura concluye que la ecuación ha cambiado de raíz: de los canales satelitales al video corto y la IA; de una audiencia local que pregunta a los sabios de su país a una audiencia global que pregunta al algoritmo; y de la objeción y la prohibición a la influencia y la construcción de alternativas. Esto prepara el escenario para el Capítulo Décimo, que traduce esta auditoría autocrítica en una hoja de ruta actualizada y ejecutable.
+
+## Capítulo décimo: una hoja de ruta práctica para reformar la fatwa en el espacio abierto
+
+### Un preludio: del diagnóstico a la iniciativa
+
+Los capítulos anteriores pusieron ante nosotros un diagnóstico detallado del caos digital, un marco fundacional y ético para abordarlo, y un examen crítico de las propuestas de 2018 — toda una preparación para este capítulo: diez iniciativas prácticas y ejecutables que pueden traducir el análisis teórico en acciones sobre el terreno. No pretendemos que basten por sí solas ni que no admitan modificación; son un punto de partida para la discusión práctica. Cada una se presenta por su idea general, las partes implicadas, los recursos requeridos y un indicador de éxito.
+
+### Un panorama de las diez iniciativas
+
+| # | Iniciativa | Esencia |
+|---|---|---|
+| 1 | El Código del Muftí Digital | Un documento de referencia con estándares éticos y científicos para quien emite fatwa por las plataformas. |
+| 2 | Una Plataforma de Fatwa Unificada para América | Agregar las fatwas acreditadas, con un sistema de búsqueda y contacto directo con el muftí. |
+| 3 | Una Escuela para Graduar al Muftí Digital | Un programa de formación que combina el conocimiento legal con destrezas mediáticas y tecnológicas. |
+| 4 | Un Modelo de Lenguaje Religioso de Código Abierto | Construir un LLM especializado en la Sharía bajo supervisión científica, para consultas informativas. |
+| 5 | Un Observatorio de la Fatwa Digital | Una unidad de investigación que vigila las fatwas aberrantes y analiza sus patrones. |
+| 6 | Alianza con las Grandes Plataformas | Realzar la visibilidad de las fuentes fiables y frenar la difusión de las fatwas no consideradas. |
+| 7 | La Educación del Consultante | Campañas de concienciación sobre la ética de la consulta sólida. |
+| 8 | Una Red Multidisciplinar de Fatwa | Equipos permanentes de sabios + médicos + economistas + tecnólogos. |
+| 9 | Un Archivo Digital del Patrimonio de la Fatwa | Digitalizar las fatwas de los grandes sabios, indexarlas y facilitar el acceso. |
+| 10 | Un Informe Anual sobre el Estado de la Fatwa | Un documento anual que monitorea las transformaciones, los logros y las recomendaciones. |
+
+**Iniciativa primera — el Código del Muftí Digital:** un documento de referencia de estándares éticos y científicos al que se obliga todo muftí que emite fatwas por las plataformas, edificado sobre las Cinco Cualificaciones Compuestas (Capítulo Segundo), los Seis Principios Éticos (Capítulo Quinto) y el Código de la IA (Capítulo Sexto). Se emite como «acreditación voluntaria», redactado por una alianza de academias de fiqh (AMJA, ECFR, la Academia Internacional de Fiqh) y adoptado por las instituciones. *Indicador de éxito:* su emisión, la firma de 50 sabios acreditados en el primer año, la adopción de dos instituciones principales y la aparición de su efecto en el discurso de las plataformas.
+
+**Iniciativa segunda — una Plataforma de Fatwa Unificada para América:** liderada por AMJA en alianza con otras academias — una plataforma digital que agrega las fatwas acreditadas de los sabios de América, con un sistema de búsqueda inteligente y contacto directo con el muftí, al servicio del musulmán que quiere una fatwa adecuada a su contexto, del imam local y del investigador.
+
+**Iniciativa tercera — una Escuela para Graduar al Muftí Digital:** un programa de formación que combina una sólida formación legal con la competencia mediática, la alfabetización tecnológica y la conciencia de la realidad americana — la respuesta práctica a la brecha de cualificación.
+
+**Iniciativa cuarta — un Modelo de Lenguaje Religioso de Código Abierto:** construir un LLM especializado en la Sharía, entrenado sobre textos documentados bajo supervisión científica, usado como herramienta auxiliar para consultas informativas — no como muftí (la entrada detallada del Código de la IA del Capítulo Sexto).
+
+**Iniciativa quinta — un Observatorio de la Fatwa Digital:** una unidad de investigación que vigila las fatwas aberrantes y virales, analiza sus patrones y su difusión, y provee una alerta temprana y un contenido alternativo equilibrado.
+
+**Iniciativa sexta — alianza con las grandes plataformas:** realzar la visibilidad de las fuentes fiables y frenar la difusión de las fatwas no consideradas — invertir en contenido alternativo en lugar de limitarse a objetar el existente.
+
+**Iniciativa séptima — la educación del consultante:** campañas de concienciación que construyan una conciencia crítica en el público sobre la ética de la consulta sólida y la distinción entre la autoridad científica y la mediática — la reformulación contemporánea de la propuesta de 2018 sobre «los sabios locales».
+
+**Iniciativa octava — una Red Multidisciplinar de Fatwa:** equipos permanentes que reúnen a los sabios con médicos, economistas y tecnólogos para los sucesos compuestos.
+
+**Iniciativa novena — un Archivo Digital del Patrimonio de la Fatwa:** digitalizar las fatwas de los grandes sabios, indexarlas y facilitar el acceso — una referencia documentada que contrarresta la «fatwa fluida».
+
+**Iniciativa décima — un Informe Anual sobre el Estado de la Fatwa:** un documento anual que monitorea las transformaciones, los logros y las recomendaciones en el ámbito de la fatwa digital.
+
+### Conclusión del capítulo
+
+Estas diez iniciativas no son una fantasía: cada una es ejecutable con recursos disponibles en un horizonte previsible, y algunas ya han comenzado (la plataforma unificada en forma primitiva, el observatorio en algunos centros de investigación, las campañas de educación del consultante en algunas comunidades). Lo que nos falta es la integración, la expansión y el compromiso institucional. Este capítulo —y este libro— no pretende la respuesta completa; plantea preguntas nuevas a la jurisprudencia de la fatwa en una época que se transforma con rapidez y propone vías iniciales para responderlas, con la esperanza de ser «un ladrillo en un edificio mayor» en el que cooperen los sabios de la comunidad y sus instituciones para enmendar lo que merece enmienda y preservar lo que merece preservación.
+
+## Conclusión general
+
+**El viaje que hemos recorrido:** el libro se abrió con una pregunta simple en apariencia, honda en sustancia — ¿qué es la fatwa, quién es el muftí, qué es el caos en la emisión de fatwas? — y respondió a lo largo de diez capítulos que se movieron entre la fundamentación, la transformación y la propuesta, preservando la herencia clásica y edificando sobre ella capas que absorben las transformaciones de nuestra época.
+
+**Hallazgos centrales:** *(1) Sobre los conceptos* — las definiciones clásicas siguen siendo exactas pero requieren suplementos contemporáneos; una definición del «caos digital» y un retrato quíntuple del mustaftī digital. *(2) Sobre la personalidad del muftí* — las condiciones clásicas siguen siendo necesarias pero ya no suficientes; las «Cinco Cualificaciones Compuestas». *(3) Sobre los rangos de los muytahides* — extraer la Nota 26 a un capítulo independiente y añadir el «séptimo rango contemporáneo: el muytahid colectivo institucional». *(4) Sobre el caos contemporáneo* — cinco transformaciones y cinco dimensiones. *(5) Sobre el marco ético* — un código de seis principios éticos de autogobierno. *(6) Sobre la inteligencia artificial* — la IA no es un muftí ni lo será, mas puede ser una herramienta auxiliar beneficiosa bajo controles; una advertencia contra la «fatwa de la máquina». *(7) Sobre el fiqh digital de las minorías* — un laboratorio en el que los problemas de la fatwa se manifiestan antes de llegar a las tierras de mayoría musulmana. *(8) Sobre el ecosistema colectivo de fatwa* — cinco elementos que completan lo que fundó el Capítulo Tercero. *(9) Sobre la evaluación de las propuestas de 2018* — los fracasos se debieron no a defectos de las propuestas, sino a transformaciones estructurales mayores que ellas. *(10) Sobre la hoja de ruta* — diez iniciativas ejecutables.
+
+**Lo que este libro no abarcó** (nombrado con justicia para que otros continúen): la experiencia árabe, distinta del contexto occidental; un examen técnico profundo de la IA (generación de imágenes, síntesis de voz, realidad virtual); la dimensión legal (propiedad intelectual, regulación de las plataformas, responsabilidad legal); las experiencias religiosas comparadas (católica, judía); y la investigación de campo pormenorizada.
+
+**Una reflexión sobre el viaje:** el autor regresa a las páginas iniciales viendo al muftí con una lente distinta de la de hace ocho años — entonces un «guardián de los juicios», ahora un «guardián de la relación entre la comunidad y su Señor». La fatwa digital, bien usada, puede ser una bendición (permitir al musulmán en una tierra lejana consultar a un sabio que conoce, abrir puertas del aprendizaje, facilitar la comunicación entre los sabios); mal usada, se vuelve una aflicción. La línea entre la bendición y la aflicción la trazamos nosotros — los sabios de la comunidad, sus instituciones y su público.
+
+> «Señor nuestro, acéptanoslo — en verdad, Tú eres Quien todo lo oye, Quien todo lo sabe». Y el final de nuestra súplica es: alabado sea Dios, Señor de los mundos. Y que la paz y las bendiciones de Dios sean sobre nuestro Profeta Muhammad, y sobre su familia y todos sus compañeros.
+
+*— Fin del libro —*
 
 ---
 

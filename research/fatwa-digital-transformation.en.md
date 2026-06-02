@@ -424,28 +424,92 @@ The shift from "the individual mufti" to "the collective fatwa ecosystem" is not
 
 # Part Three: Construction
 
-## Chapter Nine: Evaluation and Preamble
+## Chapter Nine: Evaluating the Six 2018 Proposals and What Has Been Achieved
 
-The chapter reviews the six proposals with which the 2018 paper closed, analyzes why some stalled (lack of resources, weak spread, the absence of institutional activation), and reads the present reality of fatwa-giving — to pave the way for the practical roadmap in Chapter Ten, turning the diagnosis into construction.
+### A Prelude: A Self-Critical Audit
 
-## Chapter Ten: The Roadmap — Ten Initiatives
+Eight years after the 2018 talk, the opening question is: what of those six proposals has been achieved, what has not, and why? This self-critical audit is not easy for its author; the practical answer is that reality has not moved much toward those proposals — and in some it regressed. The reason is not necessarily that the proposals were wrong, but that eight years produced three major transformations that overturned the data: the explosion of the influencer economy and short-form video (TikTok, Shorts, Reels); the rise of generative AI that allowed a "machine Sharia answer" in seconds; and the COVID-19 pandemic that normalized digital fatwa. None of these were foreseen in 2018 — some did not exist at all — so the evaluation asks of each proposal not only "succeeded or failed?" but "is it still viable today, or does it need updated formulation?"
 
-The chapter offers ten practical initiatives distributed across three time horizons (immediate, medium, far):
+### Sub-section One: The Six Proposals Between Dream and Realization
 
-1. **The Charter of the Digital Mufti** — an adopted code of conduct.
-2. **A Unified Fatwa Platform** (led by AMJA with the participation of the Fiqh Council / ISNA and others).
-3. **A School to Graduate the Digital Mufti** — qualified in knowledge, tools, and awareness of reality.
-4. **A Sharia Language Model** — open-source, refined and reviewed within a scholarly Sharia environment.
-5. **A Digital Fatwa Observatory** to monitor phenomena and anomalous fatwas.
-6. **A Partnership with the Major Platforms** to discipline fatwa content.
-7. **Educating the Questioner** in the etiquette of seeking a fatwa and distinguishing opinion from fatwa.
-8. **A Multilingual Fatwa Network** to serve communities in their own languages.
-9. **A Digital Archive of the Fatwa Heritage** — classified and verified.
-10. **An Annual Report on the State of Fatwa** in the digital space.
+**Proposal One — unity of institutions around a unified fatwa channel:** very limited achievement (some regional partnerships and joint statements, but no unified channel). Obstacles: independent funding, competition among authorities, the rise of social media over satellite channels, and the absence of any executive authority to "ban" channels. *Verdict:* needs radical reformulation — not a "unified channel" but "a unified fatwa platform capable of integrating with existing platforms," a trusted reference for verification (Chapter Ten, Initiative Two).
 
-## Conclusion of the Book
+**Proposal Two — daʿwa workers rallying around references:** limited; the opposite occurred — the fragmentation of authorities and the rise of "personal" social-media authorities. Obstacles: political divisions, the passing of major figures (al-Qaraḍāwī, 2022), the influencer economy, and the absence of "full release" of senior scholars. *Verdict:* sound at its core, but rallying today is around an "ecosystem," not a "person" (Chapter Ten, Initiative Three: A School for Graduating the Digital Mufti).
 
-The author concludes that the foundational (uṣūlī) heritage remains capable of assimilation on the condition of collective institutional ijtihād; and that addressing digital chaos is achieved neither by terror of technology nor by surrender to it, but by building a system that preserves the centrality of the qualified mufti, employs digital tools and AI as an augmenting assistant, and safeguards the trust of exposition in a time in which the "trend" has become stronger than the "heritage" unless the scholarly institutions move to re-set the compass. He asks God to make this work an ongoing charity.
+**Proposal Three — channels of communication among official muftis:** comparatively good (the academies meet periodically), but global consensus on critical issues has not been achieved, and resolutions may contradict among academies with no coordinating mechanism. Obstacles: diverse political systems, regional disagreements, the non-bindingness of resolutions, and procedural slowness. *Verdict:* good in endeavor but lacking a permanent coordination mechanism (Chapter Ten: the Multidisciplinary Fatwa Network and the Digital Fatwa Observatory).
+
+**Proposal Four — developing the national fiqh academies:** the most achieved — AMJA continued 15+ annual conferences, its topics developing from traditional matters to contemporary contingencies (AI, digital finance, digital marriage), as did the ECFR and the Egyptian Dār al-Iftāʾ. Yet the "substantial increase in capacities" was not achieved (limited resources, volunteer members, limited reach to the public). *Verdict:* clear success but incomplete (Chapter Ten, Initiatives Two and Three).
+
+**Proposal Five — teaching people to take fatwas only from the scholars of their lands:** limited, and reality regressed — by force of the platforms the audience consumes fatwas from distant influencers who may not live in his context. Obstacles: the openness of the digital sphere, the difficulty of imposing a local authority, and algorithms promoting out-of-context content. *Verdict:* needs radical reformulation — one can no longer "prevent" the audience from consuming online fatwas; the contemporary formulation is "educating the questioner" to build a critical awareness by which he himself chooses sound authorities (Chapter Ten, Initiative Seven).
+
+**Proposal Six — issuing statements of objection to non-specialized channels:** scattered attempts without methodical impact; channels and platforms respond to market metrics, not Sharia institutions, and influencers may even use the objections to gain spread. *Verdict:* needs essential substitution — objection is not effective; the alternative is investing in alternative content rather than objecting to existing content (Chapter Ten, Initiatives Six and Nine).
+
+### Sub-section Two: Why Did Implementation Falter? A Structural Analysis
+
+Three repeated patterns — not a defect of the proposals alone but of the framework within which they were formulated: **Pattern One — the absence of an executive mechanism:** most proposals assumed an authority capable of execution (a union of institutions, a ban on channels), but the Islamic reality lacks such an authority; *the lesson:* effective proposals operate by the mechanisms of influence (building stronger alternatives, winning the audience by quality), not by imposition. **Pattern Two — fatwa centralization in an age of cognitive decentralization:** the proposals assumed a "unified authority," but the internet was built from its founding upon decentralization; *the lesson:* unified authority cannot be built in a space designed for decentralization, but an integrated, trusted network can. **Pattern Three — addressing the symptom rather than the structure:** several proposals treated visible symptoms (aberrant channels, scattered fatwas) rather than the underlying structural shift in the relationship between the human being and religious knowledge.
+
+### Sub-section Three: A Reading of the New Reality After 2018
+
+The reading concludes that the equation has fundamentally changed: from satellite channels to short-form video and AI; from a local audience asking the scholars of his country to a global audience asking the algorithm; and from objection-and-prohibition to influence-and-alternative-building. This sets the stage for Chapter Ten, which translates this self-critical audit into an updated, executable roadmap.
+
+## Chapter Ten: A Practical Roadmap for Reforming Fatwa in the Open Sphere
+
+### A Prelude: From Diagnosis to Initiative
+
+The preceding chapters placed before us a detailed diagnosis of digital chaos, a foundational and ethical framework for engaging it, and a critical examination of the 2018 proposals — all preparation for this chapter: ten practical, implementable initiatives that may translate theoretical analysis into actions on the ground. We do not claim they alone suffice nor that they admit no modification; they are an entry-point for practical discussion. Each is presented by its general idea, the concerned parties, the required resources, and a success indicator.
+
+### An Overview of the Ten Initiatives
+
+| # | Initiative | Essence |
+|---|---|---|
+| 1 | The Code of the Digital Mufti | A reference document of ethical and scholarly standards for whoever issues fatwa via the platforms. |
+| 2 | A Unified Fatwa Platform for America | Aggregating accredited fatwas, with a search system and direct contact with the mufti. |
+| 3 | A School for Graduating the Digital Mufti | A training program combining Sharia knowledge with media and technological skills. |
+| 4 | An Open-Source Religious Language Model | Building an LLM specialized in the Sharia under scholarly supervision, for informational inquiries. |
+| 5 | A Digital Fatwa Observatory | A research unit that monitors aberrant fatwas and analyzes patterns. |
+| 6 | Partnership with Major Platforms | Promoting the visibility of trusted sources and curbing the spread of non-considered fatwas. |
+| 7 | Educating the Questioner | Awareness campaigns on the ethics of sound questioning. |
+| 8 | A Multidisciplinary Fatwa Network | Permanent teams of scholars + physicians + economists + technologists. |
+| 9 | A Digital Archive of the Fatwa Heritage | Digitizing the fatwas of major scholars, indexing them, and easing access. |
+| 10 | An Annual State-of-Fatwa Report | An annual document monitoring transformations, achievements, and recommendations. |
+
+**Initiative One — The Code of the Digital Mufti:** a reference document of ethical and scholarly standards to which every mufti issuing fatwas via the platforms binds himself, building on the Five Compound Qualifications (Chapter Two), the Six Ethical Principles (Chapter Five), and the AI Code (Chapter Six). It issues as "voluntary accreditation," drafted by an alliance of fiqh academies (AMJA, ECFR, the International Fiqh Academy) and adopted by the institutions. *Success indicator:* its issuance, the signing of 50 accredited scholars within the first year, the adoption of two principal institutions, and the appearance of its effect in platform discourse.
+
+**Initiative Two — A Unified Fatwa Platform for America:** led by AMJA in partnership with other academies — a digital platform aggregating the accredited fatwas of America's scholars, with a smart search system and direct contact with the mufti, serving the Muslim who wants a context-suited fatwa, the local imam, and the researcher.
+
+**Initiative Three — A School for Graduating the Digital Mufti:** a training program combining solid Sharia formation with media competence, technological literacy, and awareness of the American reality — the practical answer to the qualification gap.
+
+**Initiative Four — An Open-Source Religious Language Model:** building an LLM specialized in the Sharia, trained on documented texts under scholarly supervision, used as an assistive tool for informational inquiries — not as a mufti (the detailed entry of the AI Code of Chapter Six).
+
+**Initiative Five — A Digital Fatwa Observatory:** a research unit that monitors aberrant and viral fatwas, analyzes their patterns and spread, and provides early warning and balanced alternative content.
+
+**Initiative Six — Partnership with Major Platforms:** promoting the visibility of trusted sources and curbing the spread of non-considered fatwas — investing in alternative content rather than merely objecting to existing content.
+
+**Initiative Seven — Educating the Questioner:** awareness campaigns building a critical awareness in the public about the ethics of sound questioning and distinguishing scholarly from media authority — the contemporary reformulation of the 2018 "local-scholars" proposal.
+
+**Initiative Eight — A Multidisciplinary Fatwa Network:** permanent teams gathering scholars with physicians, economists, and technologists for composite contingencies.
+
+**Initiative Nine — A Digital Archive of the Fatwa Heritage:** digitizing the fatwas of major scholars, indexing them, and easing access — a documented reference countering the "fluid fatwa."
+
+**Initiative Ten — An Annual State-of-Fatwa Report:** an annual document monitoring the transformations, achievements, and recommendations in the digital fatwa sphere.
+
+### Conclusion of the Chapter
+
+These ten initiatives are not fantasy: each is implementable with available resources within a foreseeable horizon, and some have already begun (the unified platform in primitive form, the observatory in some research centers, questioner-education campaigns in some communities). What we lack is integration, expansion, and institutional commitment. This chapter — and this book — does not claim the complete answer; it poses new questions to the jurisprudence of fatwa in a rapidly transforming age and proposes initial paths toward answering them, in the hope of being "a brick in a larger building" in which the scholars of the Ummah and its institutions cooperate to mend what deserves mending and preserve what deserves preserving.
+
+## General Conclusion
+
+**The journey we have traveled:** the book opened with a question simple in appearance, profound in substance — what is fatwa, who is the mufti, what is chaos in fatwa-issuance? — and answered through ten chapters moving between foundation, transformation, and proposal, preserving the classical inheritance and building atop it layers that absorb the transformations of our age.
+
+**Core findings:** *(1) On concepts* — the classical definitions remain accurate but require contemporary supplements; a definition of "digital chaos" and a five-fold portrait of the digital mustaftī. *(2) On the personhood of the mufti* — the classical conditions remain necessary but no longer sufficient; the "Five Compound Qualifications." *(3) On the ranks of the mujtahids* — extracting Footnote 26 into a standalone chapter and adding the "Contemporary Seventh Rank: the Collective Institutional Mujtahid." *(4) On contemporary chaos* — five transformations and five dimensions. *(5) On the ethical framework* — a code of six self-governing ethical principles. *(6) On artificial intelligence* — AI is not a mufti and will not become one, yet can be a beneficial assistive tool under controls; a warning against "machine-issued fatwa." *(7) On digital minorities fiqh* — a laboratory in which the problems of fatwa manifest before they reach Muslim-majority lands. *(8) On the collective fatwa ecosystem* — five elements completing what Chapter Three founded. *(9) On evaluating the 2018 proposals* — the failures were due not to defects in the proposals so much as to structural transformations larger than them. *(10) On the roadmap* — ten implementable initiatives.
+
+**What this book did not cover** (named in fairness so others may continue): the Arab experience distinct from the Western context; a deep technical examination of AI (image generation, voice synthesis, virtual reality); the legal dimension (intellectual property, platform regulation, legal responsibility); comparative religious experiences (Catholic, Jewish); and granular field research.
+
+**A reflection on the journey:** the author returns to the opening pages seeing the mufti through a different lens than eight years ago — then a "guardian of rulings," now a "guardian of the relationship between the Ummah and its Lord." Digital fatwa, well-used, can be a blessing (allowing the Muslim in a distant land to consult a scholar he knows, opening doors of learning, facilitating communication among scholars); poorly used, it becomes an affliction. The line between blessing and affliction is drawn by us — the scholars of the Ummah, their institutions, and their public.
+
+> "Our Lord, accept this from us — indeed, You are the Hearing, the Knowing." And the last of our supplication is: praise be to God, Lord of the worlds. And may the peace and blessings of God be upon our Prophet Muhammad, and upon his family and all his companions.
+
+*— End of the Book —*
 
 ---
 
