@@ -55,4 +55,83 @@ The book is organized into three progressive parts, each feeding into the next:
 
 ---
 
-*To be continued — the ten chapters will be added successively as complete text in Arabic, English, and Spanish. Written by: Dr. Ahmed Muhammad Abouseif.*
+# Part One: Foundation
+
+## Chapter One: Foundational Concepts in Fatwa, the Mufti, and Qualification
+
+We begin with the concepts because every later proposal in this book rests upon them; a reader cannot judge "chaos" without knowing what a fatwa is, nor evaluate qualifications without knowing who the mufti is.
+
+**Preamble — why re-read the concepts?** The definitions in themselves are sufficient, but the context in which they descend has changed fundamentally. What in the age of the early generations was "informing of a Sharia ruling to one who asked" has, in our age, become a post that roams the earth in seconds, served by an algorithm that arranges its appearance, sought by a questioner who may never meet his mufti — indeed, whose mufti may not be human. In the age of the early generations the mufti was known in person in his town; people consulted him face to face and knew his biography and learning before they asked. Today, by contrast, one may ask about his case in a passing post, which a passer-by picks up and answers, so the fatwa flies to the ends of the earth having lost all its original contexts. Hence the classical definitions turn from a mere linguistic description into **diagnostic tools** by which we reveal what has changed and what has remained.
+
+**Fatwa linguistically and technically:** linguistically it is clarification, exposition, and the giving of an opinion in answer to a question, and it also denotes strength. Technically — as the researcher refined it, gathering the imams' definitions — it is: "informing of the Sharia ruling, by one qualified to know it, coupled with its proof, to one who asks about it, without binding the questioner." The **mufti** is the one who stands in the community in the Prophet's station of exposition, and the **questioner (mustaftī)** is the seeker of guidance. As for **classical "chaos" (fawḍā)**, the researcher defined it as a disorder in the performance of the function of issuing fatwas — either by its issuing from one not qualified for it, or by its unsuitability for the questioner or for reality. The chapter closes with a table that recalls the classical definition and reveals what has befallen it in the digital space.
+
+## Chapter Two: The Personality of the Mufti and the Composite Qualifications
+
+This chapter presents the three classical sets of conditions, then adds a substantive addition:
+
+- **Conditions of legal responsibility:** Islam, puberty, and sanity.
+- **Conditions of knowledge:** that he be of the people of ijtihād — knowledgeable of the Book and the Sunna, the principles of language and fiqh, the rules of exegesis, and the loci of consensus and disagreement; of sound juristic instinct and correct derivation.
+- **Personal qualities:** fairness, soundness of mind and astuteness, scrupulousness and uprightness, knowledge of reality, observance of custom and objectives, moderation, and the avoidance of partisan zealotry.
+
+**The substantive addition — the composite qualifications of the contemporary mufti:** in the age of digital transformation, Sharia formation alone does not suffice; five interwoven competencies are required: (1) **the mufti's ability to phrase the fatwa** in a manner suited to the digital medium without compromising its content; (2) **understanding the psychological environment** of the questioner and the platform audience; (3) **understanding the technical tools** by which the fatwa is disseminated and received; (4) **foreseeing the digital and social consequences** to which the fatwa leads; (5) **commitment to the rules of media truthfulness.** These "composite qualifications" are an extension of the conditions of knowledge and character, made necessary by the change in the fatwa's medium and reach.
+
+## Chapter Three: The Ranks of the Mujtahids and the Contemporary Seventh Rank
+
+The chapter reviews the well-known six-fold division of the mujtahids' ranks (the absolute, the affiliated, the mujtahid within a school, the mujtahid of weighing and fatwa, the class of discerning imitators, and the mujtahid in a particular issue), then proposes **★ the seventh rank as the proposed contemporary addition: "the collective institutional mujtahid"** — not a substitute for the six ranks but a complement to them; for the fiqh assembly is, in the end, a collective framework in which multiple qualifications (Sharia and specialist) cooperate.
+
+**The conditions for the legitimacy of collective ijtihād** are five: (1) the availability of the conditions of qualification in the members, each in his specialization; (2) an adopted and documented methodology (how is the issue presented? what is the quorum? what is the ruling on the minority opinion and its publication?); (3) financial and political independence that protects it from the pressures of funding and politics; (4) publication and transparency (resolutions are published with their proofs so that researchers may examine them); (5) a review mechanism when error becomes apparent.
+
+And when is collective ijtihād more fitting? Not every issue requires it — private daily matters, personal events, and educational fatwas can be handled by a capable individual mufti — rather, it is required for **wide-impact events** (such as digital currencies, vaccines in epidemics, and in-vitro conception) and **composite events** in which several specializations overlap (such as genetic modification, complex financing, and advanced medical technologies). The chapter contrasts the individual mufti's speed and individual responsibility with the assembly's slower pace and shared institutional responsibility, and closes with a comparative table of the seven ranks.
+
+---
+
+# Part Two: Transformation
+
+## Chapter Four: Digital Chaos
+
+The chapter diagnoses five interlocking transformations that moved the fatwa from the space of scholars to the space of algorithms: (1) **the shift to short video** (TikTok, Shorts, Reels), so the fatwa came to be delivered in thirty seconds; (2) **the rise of the "religious influencer,"** who may turn from a local figure into a cross-border star within months; (3) **the economy of virality**, which rewards sensation rather than precision; (4) **interactive fiqh**, which shapes the answer to the audience's desire; (5) **politicization**. From these transformations arise five dimensions of "digital chaos": **chaos of source** (who is the mufti?), **chaos of phrasing** (the sensational, truncated headline), **chaos of context** (a fatwa framed for one environment applied in another), **chaos of reception** (fatwa-shopping), and **chaos of responsibility** (no one is held to account). This chaos is not a temporary phenomenon but an expression of a structural shift in the human being's relationship with religious knowledge.
+
+## Chapter Five: Fatwa as Digital Content
+
+The chapter views the mufti as a "content creator" subject to the pressures of the platform and the algorithm, observes the traits of the digital questioner, then proposes **an ethical charter — a self-imposed code of conduct** the mufti adopts from within, founded on six principles: (1) **headline honesty**: the headline should truthfully summarize the content, not be click-bait; (2) **completeness of depiction**: either treat the issue fully or refer it onward, not truncate it; (3) **discipline of emotion**: emotion has a place in religion but must not be employed to mislead; (4) **observance of consequences** before publishing; (5) **the responsibility of continuity**: the mufti's responsibility does not end at the moment of publication; (6) **media truthfulness**. It closes with three patterns of digital-fatwa failure from reality. The code is not a legal statute but a self-commitment to safeguard the trust of exposition.
+
+## Chapter Six: Artificial Intelligence
+
+The gravest and newest of the transformations. The chapter presents the **technical framework** of how language models work and the phenomenon of **hallucination** (inventing baseless attributions and references), then determines **AI's position relative to fiqh**: a tool that serves the mufti and does not replace him — excelling at retrieval and summary while incapable of derivation, qualification, and responsibility. It then proposes **a code for the mufti's use of AI** with practical clauses: **(1) disclosure** of the use of the model; **(2) the obligation of human review** of every output; **(3) matters prohibited** to the machine (what carries the risk of hallucination in Sharia attributions); **(4) controls for building trustworthy, open-source Sharia models** under the supervision of the people of knowledge. The aim is not to forbid the tool but to discipline it so that it becomes "an augmenting assistant, not a substitute mufti."
+
+## Chapter Seven: The Digital Fiqh of Minorities
+
+It addresses the particularity of the Muslim's context in the West (educationally, socially, economically, and legally), the composite challenges where the Sharia intersects with civil law, the mufti's position between Sharia constants and the requirements of integration, then the digital space that compounds these complexities; and it grounds a **fiqh of digital consequences**: that a single ruling may differ in its effect according to the legal and social-digital environment, so the consequence must be brought to mind before issuing and disseminating the fatwa.
+
+## Chapter Eight: From the Individual Mufti to the Collective Fatwa System
+
+It shows why the individual mufti no longer suffices in an age of composite, rapidly spreading events, reviews models of institutional fatwa and the experience of the Assembly of Muslim Jurists of America (AMJA), then sketches the features of a **fatwa system** resting on a **unified database of the fatwas** issued by each body, and a disciplined reference base, linking the individual mufti to the institution and activating "the seventh rank" (the collective institutional mujtahid) in practice.
+
+# Part Three: Construction
+
+## Chapter Nine: Evaluation and Preamble
+
+The chapter reviews the six proposals with which the 2018 paper closed, analyzes why some stalled (lack of resources, weak spread, the absence of institutional activation), and reads the present reality of fatwa-giving — to pave the way for the practical roadmap in Chapter Ten, turning the diagnosis into construction.
+
+## Chapter Ten: The Roadmap — Ten Initiatives
+
+The chapter offers ten practical initiatives distributed across three time horizons (immediate, medium, far):
+
+1. **The Charter of the Digital Mufti** — an adopted code of conduct.
+2. **A Unified Fatwa Platform** (led by AMJA with the participation of the Fiqh Council / ISNA and others).
+3. **A School to Graduate the Digital Mufti** — qualified in knowledge, tools, and awareness of reality.
+4. **A Sharia Language Model** — open-source, refined and reviewed within a scholarly Sharia environment.
+5. **A Digital Fatwa Observatory** to monitor phenomena and anomalous fatwas.
+6. **A Partnership with the Major Platforms** to discipline fatwa content.
+7. **Educating the Questioner** in the etiquette of seeking a fatwa and distinguishing opinion from fatwa.
+8. **A Multilingual Fatwa Network** to serve communities in their own languages.
+9. **A Digital Archive of the Fatwa Heritage** — classified and verified.
+10. **An Annual Report on the State of Fatwa** in the digital space.
+
+## Conclusion of the Book
+
+The author concludes that the foundational (uṣūlī) heritage remains capable of assimilation on the condition of collective institutional ijtihād; and that addressing digital chaos is achieved neither by terror of technology nor by surrender to it, but by building a system that preserves the centrality of the qualified mufti, employs digital tools and AI as an augmenting assistant, and safeguards the trust of exposition in a time in which the "trend" has become stronger than the "heritage" unless the scholarly institutions move to re-set the compass. He asks God to make this work an ongoing charity.
+
+---
+
+*This is an on-page reading version presenting the structure of the book and the content of its ten chapters in three languages; the complete, detailed text is available in the Arabic and English PDFs above. Written by: Dr. Ahmed Muhammad Abouseif — May 2026.*
