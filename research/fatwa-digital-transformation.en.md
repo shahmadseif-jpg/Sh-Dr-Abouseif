@@ -284,9 +284,51 @@ In the original 2018 paper we devoted a chapter to "The Chaos of Fatwa: Between 
 
 The chaos of which we speak is not a passing phenomenon but the expression of a structural transformation in the relationship between the human being and religious knowledge; left unaddressed, its damages will accumulate for decades. The five transformations (short-form video, the religious influencer, the attention economy, interactive jurisprudence, politicization) overlap and reinforce one another, and the five dimensions of chaos (source, formulation, context, reception, accountability) all arise from them.
 
-## Chapter Five: Fatwa as Digital Content
+## Chapter Five: Fatwa as Digital Content — The Ethics of Platforms
 
-The chapter views the mufti as a "content creator" subject to the pressures of the platform and the algorithm, observes the traits of the digital questioner, then proposes **an ethical charter — a self-imposed code of conduct** the mufti adopts from within, founded on six principles: (1) **headline honesty**: the headline should truthfully summarize the content, not be click-bait; (2) **completeness of depiction**: either treat the issue fully or refer it onward, not truncate it; (3) **discipline of emotion**: emotion has a place in religion but must not be employed to mislead; (4) **observance of consequences** before publishing; (5) **the responsibility of continuity**: the mufti's responsibility does not end at the moment of publication; (6) **media truthfulness**. It closes with three patterns of digital-fatwa failure from reality. The code is not a legal statute but a self-commitment to safeguard the trust of exposition.
+### A Prelude: From Diagnosis to Ethical Framework
+
+Chapter Four diagnosed digital chaos; but the exposure of dysfunction does not produce its alternative, and description does not stand in for the norm. This chapter shifts the question from "What is the chaos?" to "What ethical framework should govern fatwa on the platforms?" — which presupposes that digital fatwa is not merely an extension of classical fatwa but a new kind of activity with its own structure and ethical demands. To build this framework we must shift, in our consciousness, from viewing the mufti as "a scholar answering a question" to viewing him as "a creator of religious content in a space governed by algorithms." This is not surrender to reality but acknowledgment of it in order to engage it — for whoever denies reality does not reform it.
+
+### Sub-section One: The Mufti as Content Creator
+
+When the mufti enters the digital sphere he enters a new system competing for attention against millions of producers, which imposes four pressures:
+
+**(1) The pressure of brevity** — classical fiqh is a layered architecture (depiction of the act, its characterization, its proof, exceptions, balancing of evidences, conclusion) that takes time; short video cannot bear it, so the mufti either abridges into sixty seconds (losing essential detail) or elaborates (losing the audience). Many choose the first unawares, and "a decade of fiqh investigation is reduced to 'such-and-such is permissible/forbidden.'" This is not mere neglect of detail but a structural disfigurement of fiqh, whose core revolves around distinctions, conditions, and exceptions.
+
+**(2) The search for spread** — in the digital model the metrics of spread enter: the mufti sees which topics spread and which die, and his taste shapes accordingly. Provocative topics (sex, music, sectarian disputes, takfīr, politics) take the lion's share, while foundational fiqh (purity, prayer, zakāt, purification of the soul) receives far less — not necessarily by intent, but because the algorithm, the audience, and the platform all reward provocation.
+
+**(3) The influencer economy** — platforms let content above certain thresholds earn advertising money, producing "Fatwa as Business." The ethical problem is compound: conflict of interest (a financial stake in fatwas that spread), revenue pressure (avoiding "unprofitable" though important topics), and the possible influence of a funding partner. The solution is not to abstain from lawful earning, but: complete transparency about funding, a clear separation between fatwa and entertainment content, and readiness to sacrifice followers if the truth so requires.
+
+**(4) The audience that shapes the content** — an "instant feedback loop" (comments, likes, views) gradually teaches the mufti that lenient fatwas earn more than strict ones, that fatwas agreeing with the followership are welcomed and those disagreeing are attacked, and that the followership becomes a cohort he loses if he contradicts their expectations. So he slides — without sensing it — from "a mufti who shapes his content" to "a mufti who responds to his audience's expectations": a dangerous inversion, for truth is not determined by the audience.
+
+### Sub-section Two: The Hegemony of Algorithms
+
+Between the mufti and the mustaftī stands a new intermediary unknown to the classical model: the algorithm — not neutral, but built on a commercial logic of prolonging the user's time. **(1) The algorithm as a new intermediary:** the path is now "the mustaftī opens YouTube → the algorithm selects videos → he chooses among them → he arrives at the fatwa"; what he sees is not "the Islamic ruling" but "the fatwa the algorithm chose to display based on its data about him." The algorithm does not know truth from falsehood and does not care; all it cares about is what keeps the user longer. **(2) Trend bias:** it deals with content by "signals" (speed of early engagement, watch-through rate, comments, shares), not by quality — a structural bias favoring provocative over correct content, so aberrant fatwas may spread more than sound ones. **(3) Religious filter bubbles:** the algorithm shows each user what conforms to his orientation — the strict shown stricter fatwas, the libertine shown lenient ones, the doubter shown content deepening his doubt, the partisan shown his own school — so the Muslim public fragments into parallel bubbles that meet only in media battles.
+
+### Sub-section Three: A Proposed Ethical Code for Digital Fatwa
+
+Six principles — not a legal regulation, but a self-imposed code observed from within, in fidelity to the trust of knowledge:
+
+**(1) The responsibility of the published word** — everything published remains (even if deleted, it survives with downloaders and sharers); this imposes a deeper verbal responsibility: verifying information before publication, reflecting on formulation so it admits only the intended meaning, bearing the long-term consequences, and not publishing in moments of anger.
+
+**(2) The integrity of the title (against religious clickbait)** — titles like "A ruling no scholar has stated until now!" or "You will not believe what the imam said" are an ethical defect that exploits provocation and frames the matter misleadingly. The title must summarize the content with integrity, neither denying nor exaggerating.
+
+**(3) Respect for context** — some issues (the Muslim's treatment of the non-Muslim in the West, marriage across religions, mixed-gender employment, dealing with AI) do not admit simplification; reducing them to "permitted/forbidden" violates the logic of fiqh. The mufti must either address such issues with the attention they deserve or abstain — not issue fatwa on major issues in "a single saying."
+
+**(4) Disclosure of funding and interest** — what is required of the journalist is more so required of the mufti: if his channel is funded by a particular entity, or he has an interest in the matter, he must disclose it. Disclosure does not invalidate the relationship but lets the audience judge whether it affects the fatwa.
+
+**(5) Avoidance of incitement and emotional manipulation** — digital media rewards emotional content; the mufti may slide into dramatic music, "battle" titles between scholars, the language of revenge, or emotionally charged imagery. Emotions have a place in the sermon and remembrance, but their place in fatwa is limited: the fatwa calls upon intellect and reflection, not provocation.
+
+**(6) The mufti's responsibility for "excerpted versions"** — the most neglected principle: the one who repurposes bears clear sin, but the original mufti is partly responsible if he knew his speech would be excerpted and took no precaution, or could correct after excerpting and did not. His responsibility is ongoing — it does not end at issuance but continues in following how his fatwa is conveyed and intervening to correct distortion (part of the "media integrity" of Chapter Two).
+
+### Sub-section Four: Patterns from Reality (Case Studies)
+
+Three failure patterns, without naming individuals: **(1) "The viral fatwa"** — an aberrant fatwa contradicting the recognized consensus is seized upon because it is "new" and "provocative," spreads widely, and its refutation only feeds it; its size becomes multiples greater than its juridical weight, and it is treated not by direct refutation alone but by enriching balanced alternative content. **(2) "The influencer without an institution"** — a figure with millions of followers presenting religious content without accredited training, treated by the audience as a full-time authority the institutions cannot out-spread; this calls on institutions to enter the digital sphere with strength and to build mechanisms helping the audience distinguish scholarly from media authority (Chapter Ten). **(3) "The withdrawn fatwa"** — an institution issues a fatwa it considers sound, a media uproar erupts, and it retracts or softens under pressure, losing the audience's trust; institutions need "media maturity" — to anticipate the uproar before issuing, prepare for it, and not retreat from the truth under pressure.
+
+### Conclusion of the Chapter
+
+This chapter offered an ethical framework for digital fatwa, founded on the recognition that digital fatwa needs ethical principles of its own. The proposed code (the responsibility of the published word, the integrity of the title, respect for context, disclosure of funding, the avoidance of incitement, and responsibility for excerpted versions) is not a legal statute but a self-imposed code of conduct safeguarding the trust of exposition.
 
 ## Chapter Six: Artificial Intelligence
 
