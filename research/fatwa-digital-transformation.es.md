@@ -59,11 +59,77 @@ El libro se organiza en tres partes progresivas, cada una de las cuales alimenta
 
 ## Capítulo primero: conceptos fundacionales sobre la fatwa, el muftí y la idoneidad
 
-Comenzamos por los conceptos porque toda propuesta posterior de este libro se apoya en ellos; un lector no puede juzgar el «caos» sin saber qué es una fatwa, ni evaluar las cualificaciones sin saber quién es el muftí.
+*(Este capítulo contiene las adiciones contemporáneas al Capítulo Primero, que se fusionan con las cuatro subsecciones clásicas tomadas del preámbulo original.)*
 
-**Preámbulo — ¿por qué releer los conceptos?** Las definiciones en sí mismas son suficientes, pero el contexto en que descienden ha cambiado de raíz. Lo que en la época de las primeras generaciones era «informar de un juicio legal a quien preguntaba» se ha vuelto, en nuestra época, una publicación que recorre la tierra en segundos, servida por un algoritmo que organiza su aparición, buscada por un consultante que quizá nunca conozca a su muftí —es más, cuyo muftí quizá no sea humano—. En la época de las primeras generaciones el muftí era conocido en persona en su ciudad; la gente lo consultaba cara a cara y conocía su biografía y su ciencia antes de preguntarle. Hoy, en cambio, uno puede preguntar por su caso en una publicación pasajera, que un transeúnte recoge y responde, de modo que la fatwa vuela a los confines de la tierra habiendo perdido todos sus contextos originales. De ahí que las definiciones clásicas se conviertan, de una mera descripción lingüística, en **herramientas de diagnóstico** con las que revelamos qué ha cambiado y qué ha permanecido.
+### Un preludio contemporáneo: ¿por qué releer los conceptos?
 
-**La fatwa en la lengua y en el uso técnico:** lingüísticamente es la clarificación, la exposición y el dar una opinión en respuesta a una pregunta, y denota además fuerza. Técnicamente —tal como la precisó el investigador, reuniendo las definiciones de los imames— es: «informar del juicio legal, por parte de quien es idóneo para conocerlo, acompañado de su prueba, a quien pregunta por ello, sin obligar al consultante». El **muftí** es quien ocupa en la comunidad el lugar del Profeta en la exposición, y el **consultante (mustaftī)** es el que busca orientación. En cuanto al **«caos» (fawḍā) clásico**, el investigador lo definió como un desorden en el desempeño de la función de la emisión de fatwas —ya por emanar de quien no es idóneo para ella, ya por su falta de adecuación al consultante o a la realidad—. El capítulo cierra con una tabla que recuerda la definición clásica y revela lo que le ha sobrevenido en el espacio digital.
+Antes de adentrarnos en las definiciones de la fatwa, el muftí, la idoneidad y el caos, conviene una pausa reflexiva: ¿por qué releer estos conceptos hoy? ¿No bastan las definiciones de los maestros clásicos? La respuesta es que las definiciones en sí mismas siguen bastando. Lo que ha cambiado es el contexto sobre el que descienden. Las palabras —fatwa, muftí, mustaftī (consultante)— ya no portan los mismos contenidos sociales e institucionales que tenían en las épocas de al-Qarāfī, al-Shāṭibī e Ibn al-Ṣalāḥ.
+
+En la época de los primeros sabios, el muftí era conocido por su nombre en su ciudad, sentado en una mezquita determinada, consultado por la gente de su pueblo cara a cara, y su fatwa viajaba dentro de un límite geográfico definido. Hoy, la fatwa sale de los labios de «el muftí» —que puede no ser muftí en absoluto— en un reel de treinta segundos, y luego viaja a millones de oyentes por el mundo en cuestión de horas. Se la recorta de su contexto, se la reformula, y puede llegar al consultante despojada de su marco, distorsionada de su intención o atribuida a otro.
+
+A partir de aquí, las definiciones clásicas se transforman, de una mera descripción lingüística, en una herramienta para examinar la validez de lo que hoy se llama «fatwa». Cuando decimos que la fatwa es «informar del juicio de Dios» (al-Shāṭibī), invocamos hoy esta definición no para definir, sino para filtrar: qué es y qué no es una fatwa, aunque sus emisores la llamen así.
+
+Así, este capítulo no es una mera compilación de definiciones; es un pacto epistémico entre nosotros y el lector: un acuerdo sobre lo que entendemos por las palabras «fatwa» y «muftí» en las páginas de este libro —para que las cosas no se confundan a ninguno de los dos—. Construimos las subsecciones sobre dos capas: una capa clásica heredada (subsecciones 1–4, tomadas del preámbulo original), seguida de tres capas contemporáneas: una tabla comparativa que reúne las definiciones en una sola página; una definición propuesta del caos digital; y un perfil del mustaftī digital —esa nueva entidad que estaba más allá de la imaginación de nuestros juristas clásicos—.
+
+### Subsección quinta: una tabla comparativa de las definiciones
+
+Hemos repasado en las subsecciones anteriores las definiciones de la fatwa, el muftí, el mustaftī, la idoneidad y el caos en las obras de los primeros sabios. Para ayudar al lector a retener la esencia de cada una, las reunimos aquí:
+
+| Término | Definición clásica | Criterio epistémico contemporáneo |
+|---|---|---|
+| Fatwa | «Informar del juicio de Dios, no a modo de obligación vinculante» (al-Shāṭibī); un informar por quien es idóneo, con una prueba legal, a quien pregunta en los hechos y demás. | El criterio pasa a ser «informar del juicio de Dios con prueba». Cuanto carece de ello es opinión personal, no fatwa, aunque se la llame así y se difunda. |
+| Muftí | «Quien ocupa en la comunidad el lugar del Profeta ﷺ» (al-Shāṭibī); capaz de conocer los juicios de los hechos por sus pruebas conservando el grueso del fiqh. | La etiqueta se ha ampliado para incluir al «predicador», al «influencer», al «creador de contenido» —el nombre generado sin que se cumpla la realidad—. |
+| Mustaftī | El que pregunta buscando el juicio religioso para actuar conforme a él, observando la ética de la consulta (veracidad, exposición plena de su circunstancia, abstenerse del «ir de compras»). | En el espacio digital se ha desplazado a un «consumidor de contenido» que pregunta por entretenimiento, curiosidad y discusión —eligiendo, entre las fatwas, la más fácil—. |
+| Idoneidad (ahliyya) | «La aptitud de la persona para que la acción emane de ella y se acepte de ella» (Taysīr al-Taḥrīr); reúne competencia científica, rectitud y cualidades personales. | Hoy hay que añadirle: competencia mediática, fiqh algorítmico, [previsión de] consecuencias y veracidad mediática. |
+| Caos (fawḍā) | Un desorden en el desempeño de las funciones, o un enredo entre partes para las que no se reconoce límite; quien emite fatwa sin idoneidad es de sus partícipes. | Se ha ampliado al «caos digital»: la fragmentación de las autoridades entre múltiples actores digitales aislados de los controles de la idoneidad (véase la subsección sexta). |
+
+Esta tabla cumple dos funciones: convoca las definiciones de un vistazo y prefigura el método del libro —preservar el fundamento clásico construyendo sobre él una capa contemporánea que ni lo demuele ni lo sustituye—.
+
+### Subsección sexta: una definición propuesta del caos digital
+
+Abordamos en la subsección cuarta la definición del caos como «un desorden en el desempeño de las funciones y los deberes, o un enredo entre partes para las que no se reconoce límite». Esta definición clásica es correcta en su raíz, pero es insuficiente para absorber la nueva forma que el caos ha adoptado en el ámbito digital —una fragmentación que cruza fronteras y continentes—. Proponemos aquí una definición contemporánea:
+
+> **El caos digital en la emisión de fatwas:** la fragmentación de las autoridades de la fatwa y su dispersión entre múltiples actores digitales aislados de los controles de la idoneidad, acompañada de la ausencia de un mecanismo objetivo para distinguir al idóneo del no idóneo en el espacio abierto.
+
+Desglosemos sus componentes:
+
+**(1) «Fragmentación de las autoridades de la fatwa»:** en épocas anteriores la autoridad de la fatwa era centralizada —una escuela determinada, un imam concreto, una Dār al-Iftāʾ acreditada—. Hoy esa autoridad se ha fragmentado en miles de puntos: cada página de Facebook, canal de YouTube, cuenta de TikTok y blog personal cuyos titulares reclaman autoridad en la fatwa. No es mera pluralidad, sino pluralidad dispersa: ninguna metodología unificada la reúne, ninguna institución reconocida la rige. Aquí el concepto se desliza de la «pluralidad loable» a la «dispersión dañina».
+
+**(2) «Múltiples actores digitales»:** el «actor digital» es más amplio que «muftí». Incluye: al muftí tradicional que se trasladó a las plataformas; al predicador cuyo papel se amplió a la fatwa aunque quizá no sea idóneo; al influencer religioso a quien la fama llegó antes que el conocimiento; al creador de contenido que produce contenido religioso por la lógica del número de seguidores, no de la idoneidad; y, más recientemente, al gran modelo de lenguaje (LLM) que responde preguntas religiosas en nombre de los humanos, sin intención, sin fin y sin taqwā. Cada uno contribuye —a sabiendas o no— a moldear la conciencia religiosa del público.
+
+**(3) «Aislados de los controles de la idoneidad»:** este es el nudo central. En el sistema clásico la idoneidad era una condición previa; en el ámbito digital la relación se ha invertido: la fama llega antes que el conocimiento, la difusión precede a la cualificación, y el público asume un papel que pertenecía a los sabios —el de certificar a los muftíes—. No es una crítica al público, sino la descripción de un desplazamiento estructural: el «consenso» clásico sobre la idoneidad de un sabio se formaba lentamente a lo largo de décadas mediante el testimonio de pares y discípulos; el «consenso popular» digital se forma en semanas mediante «me gusta» y seguidores, sin intervención alguna de los sabios.
+
+**(4) «Sin un mecanismo objetivo de distinción»:** los canales satelitales clásicos tenían un mínimo de supervisión institucional; hoy el algoritmo selecciona a quién exponer por la lógica de la difusión, no de la idoneidad. El consultante carece de una herramienta objetiva para distinguir a quién merece la pena preguntar de quién no —salvo que él mismo aprenda esa herramienta (Capítulo Décimo)—.
+
+**Distinguir el caos clásico del caos digital:**
+
+| Aspecto | Caos clásico | Caos digital |
+|---|---|---|
+| Alcance | Local — confinado a un país o una ciudad. | Global — cruza fronteras y continentes. |
+| Velocidad | Se acumula a lo largo de décadas. | Se difunde en horas. |
+| Impacto | Afecta a un número reducido de individuos. | Afecta a millones de consultantes. |
+| Vigilancia | Los sabios pueden vigilarlo y tratarlo mediante instituciones locales. | Difícil de vigilar; fragmentado en miles de plataformas. |
+| Responsabilidad | Conocido por su nombre; cabe pedirle cuentas socialmente. | A menudo desconocido; lo difunden actores múltiples y seudónimos. |
+
+Esta distinción tiene consecuencias jurídicas: una fatwa «aberrante» localmente puede morir pronto mediante las instituciones científicas circundantes, mientras que una aberrante digitalmente puede persistir años, acumular sus efectos y generar lo que podría llamarse «jurisprudencia paralela» —surgida fuera de las instituciones acreditadas y circulada por el público como si fuera «el juicio de la Sharía»—.
+
+### Subsección séptima: el mustaftī digital
+
+Lo que más asombra en el desarrollo de la fatwa digital no es la transformación del muftí, sino la del mustaftī. Nuestros juristas clásicos nos legaron «la ética del consultante»: elegir al más sabio; ser veraz en su consulta; atenerse a la fatwa; no pasar de un muftí a otro buscando una dispensa. Todo ello reposaba en un supuesto implícito: que el mustaftī busca el juicio para actuar conforme a él. El mustaftī digital contemporáneo difiere de raíz de este modelo:
+
+**(1) Velocidad de la recepción:** el mustaftī clásico preguntaba y esperaba; la espera era parte de la disciplina. El digital espera una respuesta instantánea —abre ChatGPT y recibe una respuesta en segundos—. Esto elimina una dimensión formativa profunda: la espera del conocimiento y la preparación psicológica para recibirlo. El juicio se vuelve, en su conciencia, como cualquier otra información de un buscador —no un depósito de confianza con consecuencias en la otra vida—.
+
+**(2) Fragmentación de la pregunta:** clásicamente la pregunta se planteaba con todo su contexto (situación, intención, país, detalles en disputa), permitiendo una fatwa específica al estado del consultante. Hoy la pregunta se fragmenta: pregunta por «el juicio sobre los intereses bancarios» sin especificar el banco, la cuenta, la tasa ni el propósito; recibe una respuesta general que quizá no se aplique; luego pregunta en otro lugar por «trabajar en una empresa que posee un banco», y en un tercero por «el préstamo hipotecario en América» —sin vincular estas preguntas en una sola consulta integrada con un muftí que lo conozca—.
+
+**(3) El paso entre fatwas (Fatwa Shopping):** un término contemporáneo en la literatura académica en inglés —el mustaftī que plantea su pregunta a varias autoridades y elige lo que concuerda con su deseo—. Raro en épocas anteriores, hoy se ha vuelto fácil, incluso esperado: deja al que dijo «no» y se aferra al que dijo «sí». Esto despoja a la fatwa de una de sus funciones más importantes —la educación y la reforma del alma— y la devuelve a la función de licencia psicológica para lo que el consultante desea.
+
+**(4) El mustaftī como consumidor de contenido:** la transformación más peligrosa. Ya no pregunta porque desee actuar; consume contenido religioso como consume cualquier otro contenido digital —por entretenimiento, curiosidad, discusión, distracción—. La fatwa sale del marco del «conocimiento práctico» y entra en el del «edu-entretenimiento». Así, muchos que escuchan fatwas en canales satelitales y clips de TikTok no pretenden aplicar lo que oyen; pretenden «estar informados». El dicho del sabio y el del buscador de atención se igualan a sus ojos, porque el fin no es actuar, sino seguir.
+
+**(5) El mustaftī como editor:** por último, el mustaftī ya no es solo un receptor; se ha vuelto un editor. Si una fatwa le agrada, la comparte, convence de ella a sus amigos, la introduce en sus debates —de modo que la fatwa, por débil que sea su cadena, pasa a formar parte del sistema cognitivo de la sociedad, circulada como «el juicio de la Sharía» mientras nadie sabe de dónde vino ni cuál era su prueba—. Publica no aquello de lo que está científicamente convencido, sino lo que se alinea con su deseo; así se acumula en las sociedades digitales lo que podría llamarse «un consenso popular sobre lo falso» —nacido de mucha circulación, no de la investigación científica—.
+
+### Conclusión del capítulo
+
+Lo expuesto en las dos nuevas subsecciones (sexta y séptima) demuestra que «fatwa», «muftí» y «mustaftī» —en sus ropajes clásicos— no abarcan la realidad digital en su totalidad. Estos conceptos requieren apéndices contemporáneos que completen su estructura en lugar de desmantelarla: el fundamento permanece fijo en las definiciones de al-Qarāfī y al-Shāṭibī, mientras que la adición contemporánea absorbe la fragmentación digital y al nuevo consultante. Con esta base conceptual, el lector queda equipado para recibir los temas siguientes del libro con un vocabulario único —y con la conciencia compartida de que lo que proponemos no es una recatalogación de lo que dijeron los primeros sabios, sino una construcción por encima de su obra para abordar preguntas que no se les ocurrieron—.
 
 ## Capítulo segundo: la personalidad del muftí y las cualificaciones compuestas
 

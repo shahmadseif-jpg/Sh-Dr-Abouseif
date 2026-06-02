@@ -57,13 +57,79 @@ The book is organized into three progressive parts, each feeding into the next:
 
 # Part One: Foundation
 
-## Chapter One: Foundational Concepts in Fatwa, the Mufti, and Qualification
+## Chapter One: Foundational Concepts in Fatwa, the Mufti, and Eligibility
 
-We begin with the concepts because every later proposal in this book rests upon them; a reader cannot judge "chaos" without knowing what a fatwa is, nor evaluate qualifications without knowing who the mufti is.
+*(This chapter contains the contemporary additions to Chapter One, which merge with the four classical sub-sections drawn from the original preamble.)*
 
-**Preamble — why re-read the concepts?** The definitions in themselves are sufficient, but the context in which they descend has changed fundamentally. What in the age of the early generations was "informing of a Sharia ruling to one who asked" has, in our age, become a post that roams the earth in seconds, served by an algorithm that arranges its appearance, sought by a questioner who may never meet his mufti — indeed, whose mufti may not be human. In the age of the early generations the mufti was known in person in his town; people consulted him face to face and knew his biography and learning before they asked. Today, by contrast, one may ask about his case in a passing post, which a passer-by picks up and answers, so the fatwa flies to the ends of the earth having lost all its original contexts. Hence the classical definitions turn from a mere linguistic description into **diagnostic tools** by which we reveal what has changed and what has remained.
+### A Contemporary Prelude: Why Re-read the Concepts?
 
-**Fatwa linguistically and technically:** linguistically it is clarification, exposition, and the giving of an opinion in answer to a question, and it also denotes strength. Technically — as the researcher refined it, gathering the imams' definitions — it is: "informing of the Sharia ruling, by one qualified to know it, coupled with its proof, to one who asks about it, without binding the questioner." The **mufti** is the one who stands in the community in the Prophet's station of exposition, and the **questioner (mustaftī)** is the seeker of guidance. As for **classical "chaos" (fawḍā)**, the researcher defined it as a disorder in the performance of the function of issuing fatwas — either by its issuing from one not qualified for it, or by its unsuitability for the questioner or for reality. The chapter closes with a table that recalls the classical definition and reveals what has befallen it in the digital space.
+Before delving into the definitions of fatwa, mufti, eligibility, and chaos, it is worth a reflective pause: Why re-read these concepts today? Are the definitions of the classical masters not sufficient? The answer is that the definitions themselves remain sufficient. What has changed is the context upon which they descend. The words — fatwa, mufti, mustaftī (questioner) — no longer carry the same social and institutional contents they bore in the eras of al-Qarāfī, al-Shāṭibī, and Ibn al-Ṣalāḥ.
+
+In the era of the early scholars, the mufti was known by name in his city, seated in a specific mosque, consulted by the people of his town face-to-face, and his fatwa traveled within a defined geographic boundary. Today, fatwa issues forth from the lips of "the mufti" — who may not be a mufti at all — in a thirty-second reel, and then travels to millions of listeners across the world within hours. It is cut from its context, recast, and may reach the questioner stripped of its setting, distorted from its intent, or attributed to another.
+
+From this point, the classical definitions transform from a mere linguistic description into a tool for testing the validity of what is today called "fatwa." When we say that fatwa is "informing of God's ruling" (al-Shāṭibī), we invoke this definition today not to define, but to filter: what is and what is not a fatwa, even when its issuers call it one.
+
+Thus this chapter is not a mere compilation of definitions; it is an epistemic covenant between us and the reader: an agreement on what we mean by the words "fatwa" and "mufti" in the pages of this book — so that things do not become confused for either of us. We build the sub-sections on two layers: a classical inherited layer (Sub-sections 1–4, drawn from the original preamble), followed by three contemporary layers: a comparative table that gathers the definitions on a single page; a proposed definition of digital chaos; and a profile of the digital mustaftī — that new entity which lay beyond the imagination of our classical jurists.
+
+### Sub-section Five: A Comparative Table of Definitions
+
+We have surveyed in the preceding sub-sections the definitions of fatwa, mufti, mustaftī, eligibility, and chaos in the works of the early scholars. To assist the reader in holding the essence of each in mind, we gather them here:
+
+| Term | Classical Definition | Contemporary Epistemic Criterion |
+|---|---|---|
+| Fatwa | "Informing of God's ruling, not by way of binding compulsion" (al-Shāṭibī); an informing by one who is qualified, with a legal proof, for one who asks in events and otherwise. | The criterion becomes "informing of God's ruling with proof." Whatever lacks this is personal opinion, not fatwa, even if it is called one and circulated. |
+| Mufti | "He who stands in the Ummah in the station of the Prophet ﷺ" (al-Shāṭibī); capable of knowing the rulings of events by their proofs while preserving the bulk of fiqh. | The label has expanded to include the "preacher," the "influencer," the "content creator" — the name generated without the reality being fulfilled. |
+| Mustaftī | The questioner who seeks the religious ruling in order to act upon it, observing the etiquettes of inquiry (truthfulness, full disclosure of circumstance, refraining from shopping). | In the digital sphere he has shifted into a "content consumer" who asks out of entertainment, curiosity, and argument — choosing, among fatwas, the easiest. |
+| Eligibility (Ahliyya) | "The person's suitability for the action to issue from him and to be accepted from him" (Taysīr al-Taḥrīr); combines scholarly competence, integrity, and personal qualities. | To it must now be added: media competence, algorithmic fiqh, [foresight of] consequences, and media integrity. |
+| Chaos (Fawḍā) | A disorder in the discharge of functions, or an entanglement between parties for whom no limit is recognized; whoever issues fatwa without qualification is among its participants. | It has expanded into "digital chaos": the fragmentation of authorities across multiple digital actors in isolation from the controls of eligibility (see Sub-section Six). |
+
+This table serves two functions: it summons the definitions at a glance, and it foreshadows the book's method — preserving the classical foundation while building atop it a contemporary layer that neither demolishes nor replaces it.
+
+### Sub-section Six: A Proposed Definition of Digital Chaos
+
+We addressed in Sub-section Four the definition of chaos as "a disorder in the discharge of functions and duties, or an entanglement between parties for whom no limit is recognized." This classical definition is correct at its root, but it is inadequate to absorb the new shape that chaos has taken in the digital sphere — a fragmentation crossing borders and continents. We propose here a contemporary definition:
+
+> **Digital chaos in fatwa-issuance:** the fragmentation of fatwa authorities and their dispersal across multiple digital actors in isolation from the controls of eligibility, accompanied by the absence of an objective mechanism for distinguishing the qualified from the unqualified in the open sphere.
+
+Let us unpack its components:
+
+**(1) "Fragmentation of fatwa authorities":** In earlier eras, fatwa authority was centralized — a particular school, a specific imam, an accredited Dār al-Iftāʾ. Today this authority has fragmented into thousands of points: every Facebook page, YouTube channel, TikTok account, and personal blog whose holders claim authority in fatwa. This is not mere plurality but scattered plurality: no unified methodology gathers it, no recognized institution governs it. Here the concept slides from "praiseworthy plurality" into "harmful dispersion."
+
+**(2) "Multiple digital actors":** The "digital actor" is broader than "mufti." It includes: the traditional mufti who has moved to the platforms; the preacher whose role has broadened to fatwa though he may not be qualified; the religious influencer whom fame reached before knowledge did; the content creator who produces religious content by the logic of follower counts, not eligibility; and, most recently, the Large Language Model (LLM) which answers religious questions on behalf of humans, without intention, aim, or taqwā. Each contributes — knowingly or not — to shaping the religious consciousness of the public.
+
+**(3) "In isolation from the controls of eligibility":** This is the central knot. In the classical system, eligibility was a precondition; in the digital sphere the relationship has inverted: fame arrives before knowledge, spread precedes qualification, and the public assumes a role that once belonged to scholars — certifying the muftis. This is not a critique of the public but a description of a structural shift: classical "consensus" on a scholar's eligibility formed slowly across decades through the testimony of peers and students; digital "popular consensus" forms in weeks through likes and follows, with no involvement of scholars at all.
+
+**(4) "Absent an objective mechanism for distinction":** Classical satellite channels had a minimum of institutional oversight; today's algorithm selects whom to expose by the logic of spread, not eligibility. The questioner has no objective tool for distinguishing those worth asking from those who are not — unless he himself learns that tool (Chapter Ten).
+
+**Distinguishing classical chaos from digital chaos:**
+
+| Aspect | Classical Chaos | Digital Chaos |
+|---|---|---|
+| Scope | Local — confined to a country or city. | Global — crossing borders and continents. |
+| Speed | Accumulates across decades. | Spreads within hours. |
+| Impact | Affects a small number of individuals. | Affects millions of seekers. |
+| Monitoring | Scholars can monitor and treat it through local institutions. | Hard to monitor; fragmented across thousands of platforms. |
+| Responsibility | Known by name; can be held socially accountable. | Often unknown; multiple, pseudonymous actors spread it. |
+
+This distinction has juristic consequences: a locally "aberrant" fatwa may die quickly through surrounding scholarly institutions, whereas a digitally aberrant one may persist for years, accumulate its effects, and generate what might be called "parallel jurisprudence" — arising outside accredited institutions and circulated by the public as if it were "the ruling of the Sharia."
+
+### Sub-section Seven: The Digital Mustaftī
+
+What most astonishes in the development of digital fatwa is not the transformation of the mufti, but the transformation of the mustaftī. Our classical jurists left us "the etiquettes of the questioner": to choose the most knowledgeable; to be truthful in his inquiry; to abide by the fatwa; not to move from one mufti to another seeking a dispensation. These rested on an implicit assumption: that the mustaftī seeks the ruling in order to act upon it. The contemporary digital mustaftī differs at root from this model:
+
+**(1) Speed of reception:** The classical mustaftī would ask and wait; the waiting was part of the discipline. The digital mustaftī expects an instantaneous answer — he opens ChatGPT and receives a reply in seconds. This eliminates a deep formative dimension: the waiting for knowledge and the psychological preparation to receive it. The ruling becomes, in his consciousness, like any other piece of information from a search engine — not a trust bearing eschatological consequences.
+
+**(2) Fragmentation of the question:** Classically the question was posed with its full context (situation, intention, country, disputed details), allowing a fatwa specific to the questioner's state. Today the question fragments: he asks about "the ruling on bank interest" without specifying the bank, the account, the rate, or the purpose; receives a general answer that may not apply; then asks elsewhere about "working at a company that owns a bank," and on a third about "the housing loan in America" — without linking these into a single integrated consultation with a mufti who knows him.
+
+**(3) Moving between fatwas (Fatwa Shopping):** A contemporary term in the English-language academic literature — the mustaftī posing his question to several authorities and selecting what accords with his desire. Rare in earlier eras, it has become easy, even expected: he leaves the one who said "no" and clings to the one who said "yes." This strips the fatwa of one of its most important functions — education and the reform of the self — and returns it to the function of psychological licensing for what the questioner desires.
+
+**(4) The mustaftī as content consumer:** The most dangerous transformation. He no longer asks because he wishes to act; he consumes religious content as he consumes any other digital content — for entertainment, curiosity, argument, diversion. The fatwa exits the frame of "practical knowledge" and enters that of "edutainment." Thus many who listen to fatwas on satellite channels and TikTok clips do not intend to apply what they hear; they intend "to be informed." The statement of the scholar and the statement of the attention-seeker are equalized in their eyes, because the aim is not to act but to follow.
+
+**(5) The mustaftī as publisher:** Finally, the mustaftī is no longer merely a recipient; he has become a publisher. If a fatwa pleases him, he shares it, convinces his friends of it, introduces it into their debates — so the fatwa, however weak its chain, becomes part of the cognitive system of society, circulated as "the ruling of the Sharia" while no one knows whence it came or what its evidence was. He publishes not what he is scholarly convinced of but what aligns with his desire; thus accumulates in digital societies what might be termed "a popular consensus on the false" — born of much circulation, not of scholarly investigation.
+
+### Conclusion of the Chapter
+
+What we have presented in the two new sub-sections (Six and Seven) demonstrates that "fatwa," "mufti," and "mustaftī" — in their classical garments — do not encompass the digital reality in its entirety. These concepts require contemporary appendices that complete their structure rather than dismantle it: the foundation remains fixed in the definitions of al-Qarāfī and al-Shāṭibī, while the contemporary addition absorbs digital fragmentation and the new questioner. With this conceptual foundation, the reader is equipped to receive the book's subsequent themes with a single vocabulary — and with a shared awareness that what we propose is not a re-cataloguing of what the early scholars said, but a building above their work to address questions that did not occur to them.
 
 ## Chapter Two: The Personality of the Mufti and the Composite Qualifications
 
