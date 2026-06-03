@@ -20,7 +20,7 @@ export async function generateMetadata({
 }) {
   const { locale, slug } = await params;
   const meta = getKhatraMeta(slug);
-  if (!meta) return { title: locale === 'ar' ? 'خاطرة غير موجودة' : 'Reflection not found' };
+  if (!meta) return { title: locale === 'ar' ? 'خاطرة غير موجودة' : locale === 'es' ? 'Reflexión no encontrada' : 'Reflection not found' };
   return {
     title: `${localize(meta.title, locale)} — ${locale === 'ar' ? 'د. أحمد أبو سيف' : 'Dr. Ahmed Abouseif'}`,
     description: localize(meta.excerpt, locale),
