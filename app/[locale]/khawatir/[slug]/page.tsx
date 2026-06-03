@@ -118,7 +118,7 @@ export default async function KhatraPage({
 
         {/* Body */}
         <div className={`article-prose ${locale === 'ar' ? 'article-rtl' : 'article-ltr'}`}>
-          {renderMarkdown(trimmedBody, (locale === 'es' ? 'en' : locale) as 'ar' | 'en')}
+          {renderMarkdown(trimmedBody, locale as 'ar' | 'en' | 'es')}
         </div>
 
         {/* More khawatir */}
@@ -184,7 +184,7 @@ function stripDuplicateHeaderFromMarkdown(md: string): string {
   return out.join('\n').trim();
 }
 
-function renderMarkdown(md: string, locale: 'ar' | 'en'): ReactNode {
+function renderMarkdown(md: string, locale: 'ar' | 'en' | 'es'): ReactNode {
   const blocks: ReactNode[] = [];
   const paragraphs = md.split(/\n\n+/);
 
@@ -293,7 +293,7 @@ function renderMarkdown(md: string, locale: 'ar' | 'en'): ReactNode {
     blocks.push(
       <div key="footnotes" className="mt-16 pt-8 border-t border-navy-100">
         <h3 className="text-base font-medium text-navy-700 mb-4 uppercase tracking-wider">
-          {locale === 'ar' ? 'الهوامش' : 'Notes'}
+          {locale === 'ar' ? 'الهوامش' : locale === 'es' ? 'Notas' : 'Notes'}
         </h3>
         <ol className="space-y-3 text-sm text-navy-600 leading-relaxed list-decimal list-inside">
           {footnoteDefs.map((fn) => (
@@ -310,7 +310,7 @@ function renderMarkdown(md: string, locale: 'ar' | 'en'): ReactNode {
   return blocks;
 }
 
-function processInline(text: string, locale: 'ar' | 'en'): ReactNode {
+function processInline(text: string, _locale: 'ar' | 'en' | 'es'): ReactNode {
   let working = text
     .replace(/&nbsp;/g, ' ')
     .replace(/&amp;/g, '&')
