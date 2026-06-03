@@ -49,7 +49,7 @@ export default async function LatestVideos() {
                   className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-300"
                 />
                 <div className="absolute top-2 end-2 px-2 py-1 bg-black/60 text-white text-[10px] rounded">
-                  {video.language === 'ar' ? 'عربي' : 'English'}
+                  {video.language === 'ar' ? (locale === 'ar' ? 'عربي' : locale === 'es' ? 'Árabe' : 'Arabic') : (locale === 'ar' ? 'إنجليزي' : locale === 'es' ? 'Inglés' : 'English')}
                 </div>
               </div>
               <div className="p-5">

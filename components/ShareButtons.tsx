@@ -30,10 +30,10 @@ export default function ShareButtons({ url, title, locale }: Props) {
     }
   };
 
-  const label = locale === 'ar' ? 'شارك المقال' : 'Share this article';
+  const label = locale === 'ar' ? 'شارك المقال' : locale === 'es' ? 'Comparte este artículo' : 'Share this article';
   const copyLabel = copied
-    ? locale === 'ar' ? 'تم نسخ الرابط' : 'Link copied'
-    : locale === 'ar' ? 'نسخ الرابط' : 'Copy link';
+    ? locale === 'ar' ? 'تم نسخ الرابط' : locale === 'es' ? 'Enlace copiado' : 'Link copied'
+    : locale === 'ar' ? 'نسخ الرابط' : locale === 'es' ? 'Copiar enlace' : 'Copy link';
 
   const btn =
     'inline-flex items-center justify-center w-10 h-10 rounded-full border border-navy-100 text-navy-500 hover:text-white hover:bg-gold-500 hover:border-gold-500 transition-colors';
