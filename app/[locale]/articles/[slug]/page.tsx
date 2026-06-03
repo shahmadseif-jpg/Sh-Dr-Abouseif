@@ -387,7 +387,7 @@ function renderMarkdown(md: string, locale: string): ReactNode {
     blocks.push(
       <div key="footnotes" className="mt-16 pt-8 border-t border-navy-100">
         <h3 className="text-base font-medium text-navy-700 mb-4 uppercase tracking-wider">
-          {locale === 'ar' ? 'الهوامش' : 'Notes'}
+          {locale === 'ar' ? 'الهوامش' : locale === 'es' ? 'Notas' : 'Notes'}
         </h3>
         <ol className="space-y-3 text-sm text-navy-600 leading-relaxed list-decimal list-inside">
           {footnoteDefs.map((fn, idx) => (
