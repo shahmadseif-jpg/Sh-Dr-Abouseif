@@ -46,7 +46,7 @@ function LecturesContent({ videos }: { videos: YouTubeVideo[] }) {
           </p>
         </div>
 
-        <LectureFilters videos={videos} locale={(locale === 'es' ? 'en' : locale) as 'ar' | 'en'} />
+        <LectureFilters videos={videos} locale={locale as 'ar' | 'en' | 'es'} />
       </div>
     </div>
   );
