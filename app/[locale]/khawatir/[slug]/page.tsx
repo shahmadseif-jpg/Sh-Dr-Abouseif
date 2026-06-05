@@ -21,9 +21,38 @@ export async function generateMetadata({
   const { locale, slug } = await params;
   const meta = getKhatraMeta(slug);
   if (!meta) return { title: locale === 'ar' ? 'خاطرة غير موجودة' : locale === 'es' ? 'Reflexión no encontrada' : 'Reflection not found' };
+
+  const author = locale === 'ar' ? 'د. أحمد أبو سيف' : 'Dr. Ahmed Abouseif';
+  const title = `${localize(meta.title, locale)} — ${author}`;
+  const description = localize(meta.excerpt, locale);
+  const path = `/khawatir/${slug}`;
+  const ogLocale = locale === 'ar' ? 'ar_EG' : locale === 'es' ? 'es_ES' : 'en_US';
+  const image = '/dr-ahmed.jpg';
+
   return {
-    title: `${localize(meta.title, locale)} — ${locale === 'ar' ? 'د. أحمد أبو سيف' : 'Dr. Ahmed Abouseif'}`,
-    description: localize(meta.excerpt, locale),
+    title,
+    description,
+    alternates: {
+      canonical: `/${locale}${path}`,
+      languages: { ar: `/ar${path}`, en: `/en${path}`, es: `/es${path}` },
+    },
+    openGraph: {
+      type: 'article',
+      title,
+      description,
+      url: `/${locale}${path}`,
+      siteName: author,
+      locale: ogLocale,
+      publishedTime: meta.isoDate,
+      authors: [author],
+      images: [{ url: image }],
+    },
+    twitter: {
+      card: 'summary_large_image',
+      title,
+      description,
+      images: [image],
+    },
   };
 }
 
