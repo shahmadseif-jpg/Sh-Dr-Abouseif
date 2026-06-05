@@ -27,9 +27,37 @@ export async function generateMetadata({
   const item = getResearchItem(slug);
   if (!item) return {};
 
+  const author = locale === 'ar' ? 'د. أحمد أبو سيف' : 'Dr. Ahmed Abouseif';
+  const title = `${localize(item.title, locale)} — ${author}`;
+  const description = localize(item.abstract, locale).substring(0, 200);
+  const path = `/research/${slug}`;
+  const ogLocale = locale === 'ar' ? 'ar_EG' : locale === 'es' ? 'es_ES' : 'en_US';
+  const image = '/dr-ahmed.jpg';
+
   return {
-    title: `${localize(item.title, locale)} — ${locale === 'ar' ? 'د. أحمد أبو سيف' : 'Dr. Ahmed Abouseif'}`,
-    description: localize(item.abstract, locale).substring(0, 160),
+    title,
+    description,
+    alternates: {
+      canonical: `/${locale}${path}`,
+      languages: { ar: `/ar${path}`, en: `/en${path}`, es: `/es${path}` },
+    },
+    openGraph: {
+      type: 'article',
+      title,
+      description,
+      url: `/${locale}${path}`,
+      siteName: author,
+      locale: ogLocale,
+      publishedTime: item.isoDate,
+      authors: [author],
+      images: [{ url: image }],
+    },
+    twitter: {
+      card: 'summary_large_image',
+      title,
+      description,
+      images: [image],
+    },
   };
 }
 
