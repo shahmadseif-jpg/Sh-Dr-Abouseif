@@ -4,7 +4,7 @@ locale: "en"
 slug: "fatwa-digital-transformation"
 ---
 
-*An academic work — Dr. Ahmed Muhammad Abouseif, President of the American Imams Academy, PhD in Tafsīr and Qur'anic Sciences (al-Azhar University). May 2026 / Dhū al-Qaʿda 1447 AH. The complete Arabic text and the complete English version are available for download (PDF) via the button above; this is an on-page reading version, completed chapter by chapter.*
+*A peer-reviewed academic research that develops and expands a paper presented to the 15th Annual Imams' Conference of the Assembly of Muslim Jurists of America (AMJA), 2018. From the Eligibility of the Mufti to the Fatwa Ecosystem. By Dr. Ahmed Muhammad Abouseif, President of the American Imams Academy, PhD in Tafsīr and Qur'anic Sciences (al-Azhar University). May 2026 / Dhū al-Qaʿda 1447 AH.*
 
 ## Author's Introduction
 

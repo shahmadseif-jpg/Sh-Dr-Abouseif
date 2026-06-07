@@ -4,7 +4,7 @@ locale: "es"
 slug: "fatwa-digital-transformation"
 ---
 
-*Obra académica — Dr. Ahmed Muhammad Abouseif, Presidente de la Academia Americana de Imames, Doctor en Tafsīr y Ciencias Coránicas (Universidad de Al-Azhar). Mayo de 2026 / Dhū al-Qaʿda de 1447 H. El texto árabe completo y la versión inglesa completa están disponibles para su descarga (PDF) mediante el botón de arriba; esta es una versión de lectura en la página, que se completa capítulo a capítulo.*
+*Una investigación académica arbitrada que desarrolla y amplía una ponencia presentada en la Decimoquinta Conferencia Anual de Imames de la Asamblea de Juristas Musulmanes de América (AMJA), 2018. De la idoneidad del muftí al ecosistema del dictamen. Por el Dr. Ahmed Muhammad Abouseif, Presidente de la Academia Americana de Imames, Doctor en Tafsīr y Ciencias Coránicas (Universidad de Al-Azhar). Mayo de 2026 / Dhū al-Qaʿda de 1447 H.*
 
 ## Introducción del autor
 
