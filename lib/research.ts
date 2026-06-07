@@ -144,7 +144,7 @@ export const researchMeta: ResearchMeta[] = [
     featured: true,
   },
 
-  // الكتاب الجديد ـ 2026
+  // البحث الجديد ـ 2026
   {
     slug: 'fatwa-digital-transformation',
     type: 'book',
@@ -164,8 +164,8 @@ export const researchMeta: ResearchMeta[] = [
     },
     abstract: {
       ar: 'بحثٌ يُطوِّر ويُوسِّع بحثاً محكَّماً قُدِّم لمؤتمر الأَئمّة الخامس عشر لمَجمع فقهاء الشَّريعة بأمريكا (AMJA) عام 2018، ليُجيب على أَسئلة عَصرنا الجَديدة: كيف نَتعامل مع الإفتاء في عَصر الفيديو القَصير والذَّكاء الاصطناعيّ التَّوليديّ؟ يَتكوَّن البحث من عَشرة فصول في ثَلاثة أَقسام (التَّأصيل، التَّحوّل، المقترحات)، يَطرح فيها المؤلّف خَمسة مَفاهيم أَصيلة لم تَكن مَعهودة: تَعريف «الفوضى الرَّقميّة»، «المؤهّلات المركّبة للمُفتي المعاصر»، «المرتبة السابعة المعاصرة (المُجتهد الجَماعيّ المؤسّسيّ)»، «فقه المآلات الرَّقميّة»، ومدوّنة استخدام الذَّكاء الاصطناعيّ للمُفتي. ويَختم البحث بـ«خارطة طريق» بعَشر مَبادرات عمليّة قابلة للتَّنفيذ مرتَّبة على ثلاثة مدَيات: عاجل، متوسط، بعيد.',
-      en: 'A research monograph that develops and expands a peer-reviewed paper originally presented at the 15th Annual Imams\' Conference of the Assembly of Muslim Jurists of America (AMJA) in 2018, to address our era\'s new questions: How do we approach fatwa in the age of short-form video and generative AI? Organized in ten chapters across three sections (Foundations, Transformation, Proposals), the work introduces five original concepts not previously articulated: a definition of "digital chaos in fatwa," the "Compound Qualifications of the Contemporary Mufti," the "Seventh Contemporary Rank: The Collective Institutional Mujtahid," the "Jurisprudence of Digital Consequences," and a proposed Code of Conduct for the Mufti\'s use of AI. The work concludes with a practical roadmap of ten initiatives organized across three timelines: urgent, medium-term, and long-term.',
-      es: 'Una monografía de investigación que desarrolla y amplía una ponencia arbitrada presentada originalmente en la Decimoquinta Conferencia Anual de Imames de la Asamblea de Juristas Musulmanes de América (AMJA) en 2018, para responder a las nuevas preguntas de nuestra era: ¿cómo abordamos el dictamen (fatwa) en la era del vídeo de formato corto y la inteligencia artificial generativa? Organizada en diez capítulos a lo largo de tres secciones (Fundamentos, Transformación, Propuestas), la obra introduce cinco conceptos originales no articulados antes: una definición del «caos digital en el dictamen», las «cualificaciones compuestas del muftí contemporáneo», el «séptimo rango contemporáneo: el muytahid colectivo e institucional», la «jurisprudencia de las consecuencias digitales», y un código de conducta propuesto para el uso de la inteligencia artificial por el muftí. La obra concluye con una hoja de ruta práctica de diez iniciativas ejecutables organizadas en tres horizontes: urgente, medio y lejano.',
+      en: 'An academic research work that develops and expands a peer-reviewed paper originally presented at the 15th Annual Imams\' Conference of the Assembly of Muslim Jurists of America (AMJA) in 2018, to address our era\'s new questions: How do we approach fatwa in the age of short-form video and generative AI? Organized in ten chapters across three sections (Foundations, Transformation, Proposals), the work introduces five original concepts not previously articulated: a definition of "digital chaos in fatwa," the "Compound Qualifications of the Contemporary Mufti," the "Seventh Contemporary Rank: The Collective Institutional Mujtahid," the "Jurisprudence of Digital Consequences," and a proposed Code of Conduct for the Mufti\'s use of AI. The work concludes with a practical roadmap of ten initiatives organized across three timelines: urgent, medium-term, and long-term.',
+      es: 'Una investigación académica que desarrolla y amplía una ponencia arbitrada presentada originalmente en la Decimoquinta Conferencia Anual de Imames de la Asamblea de Juristas Musulmanes de América (AMJA) en 2018, para responder a las nuevas preguntas de nuestra era: ¿cómo abordamos el dictamen (fatwa) en la era del vídeo de formato corto y la inteligencia artificial generativa? Organizada en diez capítulos a lo largo de tres secciones (Fundamentos, Transformación, Propuestas), la obra introduce cinco conceptos originales no articulados antes: una definición del «caos digital en el dictamen», las «cualificaciones compuestas del muftí contemporáneo», el «séptimo rango contemporáneo: el muytahid colectivo e institucional», la «jurisprudencia de las consecuencias digitales», y un código de conducta propuesto para el uso de la inteligencia artificial por el muftí. La obra concluye con una hoja de ruta práctica de diez iniciativas ejecutables organizadas en tres horizontes: urgente, medio y lejano.',
     },
     venue: {
       ar: 'تَطوير لبَحث محكَّم — مَجمع فقهاء الشَّريعة بأمريكا (AMJA)',
@@ -320,14 +320,14 @@ export const researchTypeLabels = {
     monograph: 'دراسة',
   },
   en: {
-    book: 'Book',
+    book: 'Academic Research',
     'conference-paper': 'Peer-Reviewed Conference Paper',
     'journal-paper': 'Peer-Reviewed Journal Article',
     'book-chapter': 'Book Chapter',
     monograph: 'Monograph',
   },
   es: {
-    book: 'Libro',
+    book: 'Investigación académica',
     'conference-paper': 'Ponencia arbitrada de conferencia',
     'journal-paper': 'Artículo arbitrado de revista',
     'book-chapter': 'Capítulo de libro',
