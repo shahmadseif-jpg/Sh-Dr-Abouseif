@@ -58,6 +58,43 @@ export interface ResearchMeta {
 }
 
 export const researchMeta: ResearchMeta[] = [
+  // دراسة فقهية أصولية مقاصدية — على هامش موسم الحج ١٤٤٧هـ
+  {
+    slug: 'farewell-tawaf',
+    type: 'monograph',
+    category: 'fiqh-and-fatwa',
+    year: 2026,
+    isoDate: '2026-06-06',
+    date: { ar: 'موسم الحجّ ١٤٤٧هـ', en: 'Hajj Season 1447 AH (2026)', es: 'Temporada del Hach 1447 H (2026)' },
+    title: {
+      ar: 'طوافُ الوداع بين الإلزام والرِّفق',
+      en: 'The Farewell Ṭawāf Between Obligation and Gentleness',
+      es: 'El Ṭawāf de Despedida entre la obligación y la indulgencia',
+    },
+    subtitle: {
+      ar: 'تحريرٌ في الأدلّة وطرائق الاستدلال ومناطات الخلاف والترجيح المقاصديّ',
+      en: 'A critical examination of the evidences, the modes of inference, the loci of disagreement, and objective-based weighing',
+      es: 'Un examen crítico de las pruebas, los métodos de inferencia, los puntos de divergencia y la ponderación según los fines superiores',
+    },
+    abstract: {
+      ar: 'دراسةٌ فقهيّةٌ أصوليّةٌ مقاصديّةٌ مقارِنةٌ في حكم طواف الوداع، تُحرِّر محلَّ النزاع وتُبيِّن أنّ مدارَ الخلاف ليس ثبوتَ النصّ بل دلالةَ الأمر، وتكييفَ رخصة الحائض، وتكييفَ العبادة بين الاستقلال والارتباط، والقياسَ على واجبات الحجّ في الجبر بالدم. وتنتهي — بعد عرض أقوال الفقهاء الثلاثة (الوجوب مع الجبر بالدم، والسنّيّة بلا شيء على التارك، والوجوب بلا دمٍ عند الظاهريّة) ومناقشةِ الأدلّة على طريقة ابن رشد في ردّ الفروع إلى أصولها — إلى فكِّ التلازم بين أصل الطلب والجبرِ بالدم: فيُسلَّم بظاهر الأمر في تأكُّد الطلب، ويُمنَع الجبرُ بالدم لخروج الوداع عن مسمّى النُّسُك المجبور؛ والراجح نفيُ الدم عن تاركه، مع بقاء قول الجمهور معتبَراً متينَ المأخذ. عرضُ نظرٍ بين قولين سائغين، لا تخطئةَ لإمامٍ ولا غضَّ من حجّة.',
+      en: 'A comparative study in fiqh, legal theory (uṣūl), and the higher objectives (maqāṣid) concerning the ruling on the Farewell Ṭawāf. It clarifies the precise point of dispute and shows that the axis of disagreement is not the authenticity of the text but the import of the command, the characterization of the menstruating woman’s dispensation, the characterization of the act as either independent or bound to the Hajj, and the analogy with the obligatory rites of Hajj in requiring a blood-offering (dam). After presenting the three juristic positions (obligation with blood-expiation; a confirmed sunna with nothing due upon the one who omits it; and obligation without blood per the Ẓāhirīs) and examining the evidences along Ibn Rushd’s method of returning branches to their roots, the study concludes by decoupling the basis of the demand from the blood-offering: the apparent import of the command — its emphatic character — is conceded, while the blood-offering is denied because the Farewell Ṭawāf falls outside the category of the expiable rite. The preponderant view is that no blood is due upon the one who omits it, while the majority’s position remains weighty and well-grounded. This is a weighing of views between two valid positions, not a charge of error against any imam nor a belittling of any argument.',
+      es: 'Un estudio comparado de fiqh, teoría jurídica (uṣūl) y fines superiores (maqāṣid) sobre el estatuto del Ṭawāf de Despedida. Precisa el punto exacto de la controversia y muestra que el eje del desacuerdo no es la autenticidad del texto, sino el alcance del mandato, la caracterización de la dispensa de la mujer menstruante, la caracterización del acto como independiente o ligado al Hach, y la analogía con los ritos obligatorios del Hach en cuanto a exigir una ofrenda de sangre (dam). Tras exponer las tres posiciones de los juristas (obligación con expiación de sangre; sunna confirmada sin nada sobre quien lo omite; y obligación sin sangre según los Ẓāhiríes) y examinar las pruebas conforme al método de Ibn Rušd de devolver las ramas a sus raíces, el estudio concluye desligando el fundamento de la exigencia de la ofrenda de sangre: se concede el sentido aparente del mandato —su carácter enfático—, pero se niega la ofrenda de sangre porque el Ṭawāf de Despedida queda fuera de la categoría del rito expiable. La opinión preponderante es que no se debe sangre alguna por quien lo omite, sin que ello reste solidez ni fundamento a la posición de la mayoría. Es una ponderación entre dos posturas válidas, no una imputación de error a ningún imam ni un menosprecio de argumento alguno.',
+    },
+    venue: {
+      ar: 'دراسةٌ فقهيّةٌ أصوليّةٌ مقاصديّةٌ مقارِنة — النسخة النهائيّة الجامعة على هامش موسم الحجّ ١٤٤٧هـ',
+      en: 'A comparative uṣūlī–maqāṣid study in fiqh — final consolidated version, on the margins of the Hajj season 1447 AH',
+      es: 'Estudio comparado de fiqh uṣūlī–maqāṣid — versión final consolidada, al margen de la temporada del Hach 1447 H',
+    },
+    language: 'ar',
+    keywords: {
+      ar: ['طواف الوداع', 'الحجّ', 'دلالة الأمر', 'الجبر بالدم', 'النُّسُك', 'مناطات الخلاف', 'الترجيح المقاصدي', 'الفقه المقارن'],
+      en: ['Farewell Ṭawāf', 'Hajj', 'import of the command', 'blood-offering (dam)', 'rite (nusuk)', 'loci of disagreement', 'maqāṣid-based weighing', 'comparative fiqh'],
+      es: ['Ṭawāf de Despedida', 'Hach', 'alcance del mandato', 'ofrenda de sangre (dam)', 'rito (nusuk)', 'puntos de divergencia', 'ponderación maqāṣid', 'fiqh comparado'],
+    },
+    featured: true,
+  },
+
   // ورقة المؤتمر الدولي الأول — مركز المعرفة (ماليزيا) 2026
   {
     slug: 'tafsir-renewal-and-ai',
