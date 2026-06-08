@@ -39,6 +39,11 @@ const PATH_DESC: Record<ArticleCategory, LocalizedText> = {
     en: 'Contemporary jurisprudence and thought through a purpose-driven method.',
     es: 'Cuestiones de jurisprudencia y pensamiento contemporáneo con un método orientado a los fines.',
   },
+  'maqasid-tafsir': {
+    ar: 'سلسلةٌ في قراءة القرآن على أساس مقاصده وغاياته.',
+    en: "A series on reading the Qur'an in light of its higher objectives.",
+    es: 'Una serie sobre la lectura del Corán a la luz de sus fines superiores.',
+  },
 };
 
 export default function ArticlesList() {
