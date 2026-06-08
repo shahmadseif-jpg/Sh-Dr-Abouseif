@@ -6,6 +6,13 @@ slug: "fatwa-digital-transformation"
 
 *Una investigación académica arbitrada que desarrolla y amplía una ponencia presentada en la Decimoquinta Conferencia Anual de Imames de la Asamblea de Juristas Musulmanes de América (AMJA), 2018. De la idoneidad del muftí al ecosistema del dictamen. Por el Dr. Ahmed Muhammad Abouseif, Presidente de la Academia Americana de Imames, Doctor en Tafsīr y Ciencias Coránicas (Universidad de Al-Azhar). Mayo de 2026 / Dhū al-Qaʿda de 1447 H.*
 
+
+## Resumen
+
+Esta investigación aborda la cuestión de la emisión de fatwa en el espacio digital abierto, desplazándose de la pregunta por «la idoneidad del muftí» a la del «ecosistema del dictamen». El autor introduce cinco conceptos añadidos a la tradición uṣūlī: una definición del «caos digital» con sus pilares y dimensiones; las «cualificaciones compuestas del muftí contemporáneo»; el «séptimo rango contemporáneo: el muytahid colectivo e institucional»; la «jurisprudencia de las consecuencias digitales»; y un código de conducta para el uso de la inteligencia artificial. Emplea un método triangulado que combina la inducción analítica, entrevistas semiestructuradas con doce imames y muftíes activos en el contexto estadounidense, y una revisión comparada de los ecosistemas de fatwa. Concluye que la inteligencia artificial es una herramienta que potencia al muftí, no un sustituto, y que afrontar el caos del dictamen digital exige un iytihād colectivo e institucional; termina con una hoja de ruta práctica de diez iniciativas en tres horizontes. La obra extiende el método de la tradición de asimilar los casos nuevos, sin apartarse de ella.
+
+**Palabras clave:** fatwa digital; idoneidad del muftí; caos digital; muytahid colectivo e institucional; jurisprudencia de las consecuencias digitales; inteligencia artificial; fiqh de las minorías; ecosistema del dictamen.
+
 ## Introducción del autor
 
 En el nombre de Dios, el Clementísimo, el Misericordiosísimo. Alabado sea Dios, Señor de los mundos, y la paz y las bendiciones sobre nuestro Profeta Muhammad, su familia y sus compañeros. Y, a continuación:
@@ -51,7 +58,7 @@ El libro se organiza en tres partes progresivas, cada una de las cuales alimenta
 - **Capítulo noveno:** evaluación y preámbulo a la construcción práctica.
 - **Capítulo décimo:** la hoja de ruta práctica — **diez iniciativas** distribuidas en tres ejes.
 
-> Este libro no pretende ofrecer la respuesta completa; antes bien, plantea el desplazamiento estructural que la emisión de fatwas necesita en la era de la transformación digital, y ofrece —por primera vez en un libro jurídico— un marco ético para la fatwa digital y un código para el uso de la inteligencia artificial, para que ello esté en la conciencia de todo aquel que se ocupa de la fatwa hoy.
+> Este libro no pretende ofrecer la respuesta completa; antes bien, plantea el desplazamiento estructural que la emisión de fatwas necesita en la era de la transformación digital, y ofrece —entre los primeros esfuerzos de este tipo en la escritura jurídica— un marco ético para la fatwa digital y un código para el uso de la inteligencia artificial, para que ello esté en la conciencia de todo aquel que se ocupa de la fatwa hoy.
 
 ---
 
@@ -364,7 +371,7 @@ Un código práctico (la entrada detallada a la «Iniciativa Cuarta» del Capít
 
 ### Conclusión del capítulo
 
-Presentado por primera vez en un libro jurídico contemporáneo, este análisis fundacional concluye: **Primero**, la IA no es un muftí ni lo será — carece de todos los pilares estructurales. **Segundo**, es una herramienta de investigación sumamente avanzada cuando se emplea bajo controles — «como una biblioteca, no como un sabio». **Tercero**, hay usos lícitos, usos prohibidos y zonas grises, cuyos límites clarifica el código propuesto. **Cuarto**, la fatwa de IA en masa es un peligro que merece vigilancia, pues convierte la fatwa en una operación mecánica, despoja la responsabilidad y entrega el discurso religioso a empresas tecnológicas ajenas al sistema de valores de la comunidad. **Quinto**, la solución no es ni la prohibición absoluta ni la permisión absoluta, sino el empleo consciente bajo controles — y se llama a las instituciones de fatwa a liderar este empleo en lugar de dejarlo a las empresas tecnológicas.
+Entre los primeros tratamientos de este tipo en la escritura jurídica contemporánea, este análisis fundacional concluye: **Primero**, la IA no es un muftí ni lo será — carece de todos los pilares estructurales. **Segundo**, es una herramienta de investigación sumamente avanzada cuando se emplea bajo controles — «como una biblioteca, no como un sabio». **Tercero**, hay usos lícitos, usos prohibidos y zonas grises, cuyos límites clarifica el código propuesto. **Cuarto**, la fatwa de IA en masa es un peligro que merece vigilancia, pues convierte la fatwa en una operación mecánica, despoja la responsabilidad y entrega el discurso religioso a empresas tecnológicas ajenas al sistema de valores de la comunidad. **Quinto**, la solución no es ni la prohibición absoluta ni la permisión absoluta, sino el empleo consciente bajo controles — y se llama a las instituciones de fatwa a liderar este empleo en lugar de dejarlo a las empresas tecnológicas.
 
 ## Capítulo séptimo: el fiqh de las minorías en la balanza digital — el caso de los musulmanes en América
 
@@ -514,3 +521,544 @@ Estas diez iniciativas no son una fantasía: cada una es ejecutable con recursos
 ---
 
 *Esta es una versión de lectura en la página que presenta la estructura del libro y el contenido de sus diez capítulos en tres lenguas; el texto completo y detallado está disponible en los PDF árabe e inglés de arriba. Lo escribió: Dr. Ahmed Muhammad Abouseif — mayo de 2026.*
+
+
+## Apéndice (A): Glosario de términos
+
+Este glosario reúne los términos principales empleados en la investigación, en dos secciones: términos jurídico-uṣūlíes clásicos y términos digitales y mediáticos contemporáneos — como referencia rápida para el lector.
+
+### Sección primera: términos jurídicos clásicos
+
+### Sección segunda: términos digitales contemporáneos
+
+## Apéndice (B): Bibliografía ampliada
+
+### Nota introductoria
+
+Esta lista reúne las referencias principales de la investigación en cuatro secciones. Los detalles completos de todas las referencias —con datos de publicación y uso por capítulos— constan en la bibliografía del proyecto (las fuentes islámicas clásicas se enumeran en árabe, su lengua primaria).
+
+### Sección primera: fuentes uṣūlíes y jurídicas
+
+- القرآن الكريم (مصاحف معتمدة: مصحف المدينة، الأزهر).
+- صحيح البخاريّ، محمّد بن إسماعيل البخاريّ، دار طوق النجاة، بيروت، ط 1422هـ.
+- صحيح مسلم، مسلم بن الحجّاج النيسابوريّ، دار إحياء التراث العربي، بيروت.
+- سنن الدارميّ، عبد الله بن عبد الرحمن الدارميّ، دار المغني، الرياض، ط 1412هـ.
+- مصنّف ابن أبي شيبة، أبو بكر بن أبي شيبة الكوفيّ، مكتبة الرشد، الرياض، ط 1409هـ.
+- لسان العرب، ابن منظور الإفريقيّ، دار صادر، بيروت، ط 3، 1414هـ.
+- المعجم الوجيز، مجمع اللغة العربية بالقاهرة.
+- المصباح المنير، أحمد بن محمّد الفيّوميّ، المكتبة العلمية، بيروت.
+- الموافقات، إبراهيم بن موسى الشاطبيّ، دار ابن عفان، الخبر، ط 1، 1417هـ.
+- الاعتصام، إبراهيم بن موسى الشاطبيّ، دار ابن عفان، الخبر، ط 1، 1412هـ.
+- إعلام الموقّعين عن ربّ العالمين، ابن قيّم الجوزيّة، دار ابن الجوزي، الدمام، ط 1، 1423هـ.
+- المحصول في علم الأصول، فخر الدين الرازيّ، مؤسسة الرسالة، بيروت، ط 3، 1418هـ.
+- الإحكام في أصول الأحكام، سيف الدين الآمديّ، المكتب الإسلامي، بيروت.
+- شرح تنقيح الفصول، شهاب الدين القرافيّ، دار الفكر، القاهرة.
+- الفروق (أنوار البروق)، شهاب الدين القرافيّ، عالم الكتب، بيروت.
+- مختصر المنتهى مع بيان المختصر، ابن الحاجب، دار الكتب العلمية، بيروت.
+- أصول ابن مفلح، محمّد بن مفلح المقدسيّ، مكتبة العبيكان، الرياض، ط 1، 1420هـ.
+- جمع الجوامع مع شرح المحلّيّ والآيات البيّنات، تاج الدين ابن السبكيّ، دار الكتب العلمية، بيروت.
+- تقريب الوصول إلى علم الأصول، ابن جزيّ الكلبيّ، دار الكتب العلمية، بيروت.
+- البحر المحيط في أصول الفقه، بدر الدين الزركشيّ، وزارة الأوقاف الكويتية.
+- إرشاد الفحول إلى تحقيق الحقّ من علم الأصول، محمّد بن عليّ الشوكانيّ، دار الكتاب العربي، بيروت.
+- ردّ المحتار على الدرّ المختار (حاشية ابن عابدين)، محمّد أمين بن عابدين، دار الفكر، بيروت، ط 2، 1412هـ.
+- أصول الفقه الإسلاميّ، د. وهبة الزحيليّ، دار الفكر، دمشق.
+- أدب المفتي والمستفتي، ابن الصلاح، مكتبة العلوم والحكم، المدينة.
+- صفة الفتوى والمفتي والمستفتي، ابن حمدان الحنبليّ، المكتب الإسلامي، بيروت.
+- الفقيه والمتفقّه، الخطيب البغداديّ، دار ابن الجوزي، الدمام.
+- آداب الفتوى والمفتي والمستفتي، ابن الصلاح، المكتبة الإسلامية، عمّان.
+- كتاب الفتوى في الإسلام، محمّد جمال الدين القاسميّ، دار الكتب العلمية، بيروت، ط 1، 1407هـ.
+- المجموع شرح المهذّب، النوويّ، دار الفكر، بيروت.
+- جامع بيان العلم وفضله، ابن عبد البرّ القرطبيّ، دار ابن الجوزي، الدمام، ط 1، 1414هـ.
+- المحلّى بالآثار، ابن حزم الظاهريّ، دار الفكر، بيروت.
+- فتح الباري بشرح صحيح البخاريّ، ابن حجر العسقلانيّ، دار المعرفة، بيروت.
+- التحبير شرح التحرير، علاء الدين المرداويّ، مكتبة الرشد، الرياض، ط 1، 1421هـ.
+
+### Sección segunda: fuentes del fiqh de las minorías
+
+- مجموع فتاوى شيخ الإسلام ابن تيمية، مجمع الملك فهد، المدينة.
+- في فقه الأقلّيّات المسلمة — حياة المسلمين وسط المجتمعات الأخرى، د. يوسف القرضاوي، دار الشروق، القاهرة، ط 1، 2001م.
+- فقه الأقلّيّات المسلمة بين النظرية والتطبيق، د. خالد عبد القادر، دار الإيمان، الإسكندرية، 2007م.
+- ميثاق المسلم في الغرب، د. طه جابر العلوانيّ، IIIT — معهد الفكر الإسلامي، 2005م.
+- Fiqh of Muslim Minorities — Methodologies and Applications, Brill / Routledge.
+- Sharia in the West — Reform, Adaptation, and Authority, Oxford University Press / Cambridge.
+- Beyond the Border — Islamic Law and Muslim Minorities, Mathias Rohe, Brill, 2015.
+- أبحاث وتوصيات مؤتمرات AMJA السنوية (2003-2026)، AMJA Publications, Houston.
+- قرارات المجلس الأوروبيّ للإفتاء والبحوث (ECFR Resolutions)، Dublin، 1997-2026.
+
+### Sección tercera: estudios sobre medios digitales e inteligencia artificial
+
+- تقارير Pew Research عن المسلمين في أمريكا، Pew Forum on Religion.
+- The Attention Merchants — The Epic Scramble to Get Inside Our Heads, Tim Wu, Knopf, New York, 2016.
+- The Filter Bubble — What the Internet Is Hiding from You, Eli Pariser, Penguin Press, 2011.
+- Weapons of Math Destruction, Cathy O'Neil, Crown Publishing, 2016.
+- Religion Online — Finding Faith on the Internet, Lorne L. Dawson & Douglas E. Cowan, Routledge, 2004.
+- AI Ethics, Mark Coeckelbergh, MIT Press, 2020.
+- Atlas of AI — Power, Politics, and the Planetary Costs of AI, Kate Crawford, Yale University Press, 2021.
+- Custodians of the Internet — Platforms, Content Moderation, Tarleton Gillespie, Yale University Press, 2018.
+- AI Index Report (سنويّ 2017-2026)، Stanford HAI.
+- Religion and Artificial Intelligence — An Annotated Bibliography، Journal of Religion & Society, 2024.
+
+### Sección cuarta: informes de academias de fiqh y organizaciones de fatwa
+
+- Large Language Models and Religious Authority، دراسات معاصرة 2023-2026.
+- قرارات مجمع الفقه الإسلاميّ الدوليّ (التّابع لمنظّمة التّعاون الإسلاميّ)، جدّة، 1981-2026.
+- قرارات هيئة كبار العلماء بالأزهر الشّريف، القاهرة.
+- فتاوى دار الإفتاء المصرية، القاهرة.
+- فتاوى اللجنة الدائمة للبحوث العلمية والإفتاء، الرياض.
+- الموسوعة الفقهيّة الكويتيّة، وزارة الأوقاف الكويتيّة.
+- قرارات مجمع البحوث الإسلاميّة بالأزهر، القاهرة.
+- بنك فتاوى AMJA، amja.us.
+- الإفتاء في عالم مفتوح، د. عصام البشير، كلمة في مؤتمر — منشورة بـ AMJA.
+
+## Apéndice (C): Un código de conducta propuesto para el muftí digital
+
+### Preámbulo
+
+Este código es un documento práctico que reúne los principios, controles y cualificaciones dispersos en la investigación. Es una propuesta abierta a la enmienda y el enriquecimiento, que las instituciones de fiqh pueden adoptar como norma voluntaria de acreditación para quienes emiten fatwa a través de las plataformas. Se asienta en dos pilares: (1) las cinco cualificaciones compuestas (capítulo segundo) y (2) los seis principios éticos (capítulo quinto).
+
+### Artículos del código
+
+#### Artículo primero: la cualificación científica
+
+No me adelanto a emitir fatwa en las plataformas hasta verificar que se cumplen en mí las condiciones clásicas de idoneidad (legal, científica, ética). Si no se completan, me limito a relatar los dichos de la gente de saber a modo de relato, no de fatwa.
+
+#### Artículo segundo: la cualificación mediática
+
+Reconozco que emitir fatwa en las plataformas exige destrezas especiales en el trato con los medios: la formulación, el encuadre, anticipar el recorte. Procuro adquirir estas destrezas o auxiliarme de quien las posee.
+
+#### Artículo tercero: el conocimiento técnico
+
+Adquiero un mínimo de comprensión de los mecanismos de las plataformas, los algoritmos y la inteligencia artificial, y actualizo mi conocimiento con regularidad conforme avanza la técnica.
+
+#### Artículo cuarto: la responsabilidad por la palabra publicada
+
+Verifico toda información antes de publicarla; examino mi formulación para que no admita sino el sentido pretendido; y asumo la consecuencia de mis palabras a largo plazo.
+
+#### Artículo quinto: la honestidad del título
+
+No uso títulos sensacionalistas (clickbait) que exploten la debilidad humana ante la excitación; elijo un título que resuma el contenido con honestidad.
+
+#### Artículo sexto: el respeto del contexto
+
+No reduzco las grandes cuestiones a títulos breves; las cuestiones complejas las trato con el detalle debido, o me abstengo de tratarlas en plataformas que no admiten el detalle.
+
+#### Artículo séptimo: la divulgación del interés
+
+Divulgo mis fuentes de financiación cuando se aplican al canal que administro, y divulgo cualquier interés personal en el asunto sobre el que emito fatwa.
+
+#### Artículo octavo: evitar la incitación emocional
+
+No uso el lenguaje de la incitación o la manipulación emocional en mis fatwas; conservo para el fiqh su naturaleza racional y no lo rebajo a los niveles de la excitación.
+
+#### Artículo noveno: la responsabilidad por las copias recortadas
+
+Sigo cómo se transmite mi fatwa tras su emisión; emito aclaraciones cuando se distorsiona o recorta; y entreno a mi equipo para transmitir la fatwa sin distorsión.
+
+#### Artículo décimo: la IA como herramienta, no como sustituto
+
+Uso la inteligencia artificial como herramienta de investigación y organización, no como sustituto de mi consideración jurídica; reviso a mano todo lo que produce antes de adoptarlo, y divulgo mi uso de ella cuando es preciso.
+
+#### Artículo undécimo: las cuestiones vedadas
+
+No dejo que la inteligencia artificial intervenga en cuestiones de sangre, linaje, divorcio, ḥudūd, o asuntos de amplio efecto político. Estas las asumo yo mismo tras investigación y reflexión.
+
+#### Artículo duodécimo: la remisión a la colectividad
+
+Cuando me enfrenta una gran cuestión que atañe a la comunidad, la remito a las academias colectivas de fiqh y no actúo solo al emitir fatwa sobre ella.
+
+#### Artículo decimotercero: la autocrítica
+
+Acepto la crítica constructiva de mis fatwas y me retracto de un error que advierto tras emitirlo; volver a la verdad es mejor que persistir en la falsedad.
+
+#### Artículo decimocuarto: el respeto al público
+
+No desciendo a la lógica del público cuando contradice la verdad, ni me elevo sobre él cuando inquiere. Le presento la información legal en una formulación que comprende, sin empobrecer el saber ni la arrogancia del sabio.
+
+#### Artículo decimoquinto: la súplica y el auxilio
+
+Abro mis obras con la súplica y las sello con la petición de perdón, y me auxilio de Dios en cada fatwa, pues el acierto procede solo de Él.
+
+## Apéndice (D): Estudios de caso — modelos analíticos
+
+### Preámbulo
+
+Este apéndice presenta cinco estudios de caso, extraídos de patrones reales (no de casos individuales concretos). Su objetivo es entrenar al lector en la aplicación práctica del marco analítico que presentó la investigación. Cada caso expone: el contexto, los patrones de caos observados, el marco analítico y las lecciones aprendidas.
+
+### Caso primero: la fatwa viral anómala
+
+#### Contexto
+
+Contexto: A lo largo de los años (2020–2024) presenciamos varios casos de fatwas emitidas por sabios o influencers religiosos que contradijeron el consenso establecido entre los sabios, se difundieron con rapidez en las redes sociales y fueron recibidas por el público de modos diversos. Este fenómeno se analiza sin referencia a individuos concretos.
+
+#### Patrones de caos observados
+
+Patrones de caos observados: (1) La fatwa anómala se difunde más rápido que la establecida, porque genera mayor interacción. (2) La respuesta jurídica ponderada pierde su atractivo ante la anomalía del título. (3) Una parte del público —en especial quien tiene una inclinación que la fatwa anómala alimenta— se aferra a ella pese a las respuestas. (4) Las instituciones de fiqh tardan en responder, y el efecto de la fatwa se acumula.
+
+#### Marco analítico
+
+Marco analítico: Recordamos de la investigación: «el caos de la fuente» (capítulo cuarto) —donde el público no puede distinguir al cualificado—; «la economía de la viralidad» (capítulo quinto) —donde la anomalía gana interacción—; «el muytahid colectivo e institucional» (capítulo tercero) —la alternativa metodológica—.
+
+#### Lecciones aprendidas
+
+Lecciones aprendidas: Responder a la fatwa anómala no basta. Es preciso: (1) formar un público capaz de discriminar antes de que ocurra la fatwa; (2) la rapidez de la respuesta institucional; (3) producir contenido alternativo atractivo, no contentarse con una respuesta estática; (4) evitar «reciclar» la fatwa anómala en nuestra respuesta (pues eso la alimenta).
+
+### Caso segundo: el influencer religioso que asciende desde fuera de la institución
+
+#### Contexto
+
+Contexto: Desde aproximadamente 2019, ascendieron en el espacio digital nuevas figuras religiosas que no se graduaron de instituciones científicas acreditadas. Algunos se formaron a sí mismos; algunos recibieron algunas iyāzas; algunos solo encontraron el saber a través del propio YouTube. El público hoy los trata como una autoridad religiosa a tiempo completo.
+
+#### Patrones de caos observados
+
+Patrones de caos observados: (1) El público los consume sin verificar su trasfondo científico. (2) Las instituciones oficiales no pueden competir con ellos en difusión. (3) Algunos presentan contenido útil, y algunos presentan opiniones que contradicen el consenso. (4) La brecha entre «el sabio acreditado» y «el influencer religioso» se ensancha, y no se encuentran.
+
+#### Marco analítico
+
+Marco analítico: Recordamos: «el influencer religioso» (capítulo cuarto) como actor nuevo; «las cualificaciones compuestas» (capítulo segundo) —muchos influencers poseen algunas (la competencia mediática) y carecen de otras (la cualificación científica)—.
+
+#### Lecciones aprendidas
+
+Lecciones aprendidas: No todo influencer religioso es dañino; el problema es la ausencia de un mecanismo que distinga lo útil de lo dañino. La solución: (1) crear «insignias de acreditación» para los influencers serios; (2) graduar muftíes digitales que reúnan la cualificación científica con la competencia mediática; (3) invitar a los influencers prometedores a vincularse con instituciones científicas.
+
+### Caso tercero: la fatwa reducida a treinta segundos
+
+#### Contexto
+
+Contexto: Una tendencia común: un shaij acreditado publica una fatwa en un reel de treinta segundos, comprimiendo una cuestión jurídica compleja. El público la recibe como si fuera el dictamen final y la aplica a casos que el shaij no pretendió.
+
+#### Patrones de caos observados
+
+Patrones de caos observados: (1) La compresión elimina las excepciones y las condiciones. (2) El espectador comprende la fatwa de modo equivocado. (3) Otro shaij puede tomar la misma cuestión y comprimirla de modo distinto, y surge una contradicción aparente. (4) El público elige la fatwa que le agrada.
+
+#### Marco analítico
+
+Marco analítico: Recordamos: «el caos de la formulación» (capítulo cuarto); «la presión de la compresión» (capítulo quinto); «el respeto del contexto» en el código ético.
+
+#### Lecciones aprendidas
+
+Lecciones aprendidas: No todo tema es apto para un reel. (1) El sabio serio sabe qué puede comprimirse y qué no. (2) Si comprime, lo indica. (3) Deja al espectador una indicación de enlaces más largos para el detalle.
+
+### Caso cuarto: el uso de la inteligencia artificial para la fatwa
+
+#### Contexto
+
+Contexto: Desde 2023, aumenta el número de usuarios que consultan a grandes modelos de lenguaje (ChatGPT y similares) en cuestiones religiosas. Las respuestas son a veces correctas y a veces fabricadas (alucinadas), y el usuario no conoce la diferencia.
+
+#### Patrones de caos observados
+
+Patrones de caos observados: (1) El usuario recibe la respuesta como si fuera el dictamen final. (2) El modelo puede atribuir un hadiz a su transmisor de modo erróneo. (3) El modelo puede citar dichos que los sabios no dijeron. (4) El modelo responde con el mismo tono confiado sea la respuesta correcta o fabricada.
+
+#### Marco analítico
+
+Marco analítico: Recordamos: «el lugar de la IA entre los pilares de la fatwa» (capítulo sexto); «el peligro de la fatwa automatizada»; «el código propuesto» para el muftí en el uso de la IA.
+
+#### Lecciones aprendidas
+
+Lecciones aprendidas: El público necesita **educación** de que la IA no es un muftí. Las instituciones de fiqh necesitan: (1) campañas de concienciación; (2) construir modelos de lenguaje jurídicos fiables; (3) entrenar a los muftíes para usar la IA como herramienta de investigación, no como sustituto.
+
+### Caso quinto: la importación de fatwas a través de los contextos
+
+#### Contexto
+
+Contexto: Un joven musulmán en California consulta a un shaij en el Golfo sobre un préstamo hipotecario en América. El shaij emite una fatwa según su comprensión del préstamo hipotecario en su país. La fatwa se aplica a una realidad distinta y conduce a resultados no buscados.
+
+#### Patrones de caos observados
+
+Patrones de caos observados: (1) El contexto legal en el Golfo difiere del de América. (2) La estructura del préstamo hipotecario difiere. (3) Las alternativas disponibles difieren. (4) El resultado: una fatwa correcta en su contexto original, engañosa en su contexto de aplicación.
+
+#### Marco analítico
+
+Marco analítico: Recordamos: «el fiqh de las minorías» (capítulo séptimo); «el caos del contexto» (capítulo cuarto); la necesidad de autoridades locales.
+
+#### Lecciones aprendidas
+
+Lecciones aprendidas: Una fatwa no se traslada entre contextos automáticamente. El público necesita: (1) concienciación sobre la lógica del fiqh de las minorías; (2) plataformas de fatwa locales fiables; (3) apoyar las competencias jurídicas locales en las comunidades.
+
+## Apéndice (E): Fuentes distribuidas por capítulos
+
+Las referencias utilizadas, distribuidas en los capítulos de la investigación, extraídas de la biblioteca bibliográfica (las fuentes islámicas clásicas se citan en árabe, su lengua primaria).
+
+
+### Capítulo 1: Conceptos fundacionales sobre la fatwa, el muftí y la idoneidad
+
+- محمّد بن إسماعيل البخاريّ. صحيح البخاري. دار طوق النجاة، بيروت. 256هـ.
+- مسلم بن الحجّاج النيسابوريّ. صحيح مسلم. دار إحياء التراث العربي، بيروت. 261هـ.
+- ابن منظور الإفريقيّ. لسان العرب. دار صادر، بيروت. 711هـ.
+- مجمع اللغة العربية بالقاهرة. المعجم الوجيز. وزارة التربية والتعليم، القاهرة.
+- إبراهيم بن موسى الشاطبيّ. الموافقات. دار ابن عفان، الخبر. 790هـ.
+- ابن قيّم الجوزيّة. إعلام الموقّعين عن ربّ العالمين. دار ابن الجوزي، الدمام. 751هـ.
+- شهاب الدين القرافيّ. الفروق (أنوار البروق). عالم الكتب، بيروت. 684هـ.
+- ابن الصلاح. أدب المفتي والمستفتي. مكتبة العلوم والحكم، المدينة. 643هـ.
+- ابن حمدان الحنبليّ. صفة الفتوى والمفتي والمستفتي. المكتب الإسلامي، بيروت. 695هـ.
+- AMJA. أبحاث وتوصيات مؤتمرات AMJA السنوية (15 مؤتمراً). AMJA Publications, Houston. 2003-2026.
+- وزارة الأوقاف الكويتية. الموسوعة الفقهية الكويتية. وزارة الأوقاف، الكويت.
+
+### Capítulo 2: La personalidad del muftí: condiciones clásicas y cualificaciones compuestas
+
+- محمّد بن إسماعيل البخاريّ. صحيح البخاري. دار طوق النجاة، بيروت. 256هـ.
+- مسلم بن الحجّاج النيسابوريّ. صحيح مسلم. دار إحياء التراث العربي، بيروت. 261هـ.
+- أبو بكر بن أبي شيبة الكوفيّ. مصنّف ابن أبي شيبة. مكتبة الرشد، الرياض. 235هـ.
+- إبراهيم بن موسى الشاطبيّ. الموافقات. دار ابن عفان، الخبر. 790هـ.
+- إبراهيم بن موسى الشاطبيّ. الاعتصام. دار ابن عفان، الخبر. 790هـ.
+- ابن قيّم الجوزيّة. إعلام الموقّعين عن ربّ العالمين. دار ابن الجوزي، الدمام. 751هـ.
+- شهاب الدين القرافيّ. الفروق (أنوار البروق). عالم الكتب، بيروت. 684هـ.
+- بدر الدين الزركشيّ. البحر المحيط في أصول الفقه. وزارة الأوقاف الكويتية. 794هـ.
+- محمّد بن عليّ الشوكانيّ. إرشاد الفحول إلى تحقيق الحقّ من علم الأصول. دار الكتاب العربي، بيروت. 1250هـ.
+- محمّد أمين بن عابدين. ردّ المحتار على الدرّ المختار (حاشية ابن عابدين). دار الفكر، بيروت. 1252هـ.
+- ابن الصلاح. أدب المفتي والمستفتي. مكتبة العلوم والحكم، المدينة. 643هـ.
+- الخطيب البغداديّ. الفقيه والمتفقّه. دار ابن الجوزي، الدمام. 463هـ.
+- ابن الصلاح. آداب الفتوى والمفتي والمستفتي. المكتبة الإسلامية، عمّان. 643هـ.
+- محمّد جمال الدين القاسميّ. كتاب الفتوى في الإسلام. دار الكتب العلمية، بيروت. 1332هـ.
+- النوويّ. المجموع شرح المهذّب. دار الفكر، بيروت. 676هـ.
+- ابن حزم الظاهريّ. المحلّى بالآثار. دار الفكر، بيروت. 456هـ.
+- ابن حجر العسقلانيّ. فتح الباري بشرح صحيح البخاريّ. دار المعرفة، بيروت. 852هـ.
+- ابن تيمية. مجموع فتاوى شيخ الإسلام ابن تيمية. مجمع الملك فهد، المدينة. 728هـ.
+
+### Capítulo 3: Los rangos de los muytahides y el séptimo rango contemporáneo
+
+- أحمد بن محمّد الفيّوميّ. المصباح المنير. المكتبة العلمية، بيروت. 770هـ.
+- إبراهيم بن موسى الشاطبيّ. الموافقات. دار ابن عفان، الخبر. 790هـ.
+- ابن قيّم الجوزيّة. إعلام الموقّعين عن ربّ العالمين. دار ابن الجوزي، الدمام. 751هـ.
+- فخر الدين الرازيّ. المحصول في علم الأصول. مؤسسة الرسالة، بيروت. 606هـ.
+- سيف الدين الآمديّ. الإحكام في أصول الأحكام. المكتب الإسلامي، بيروت. 631هـ.
+- شهاب الدين القرافيّ. شرح تنقيح الفصول. دار الفكر، القاهرة. 684هـ.
+- ابن الحاجب. مختصر المنتهى مع بيان المختصر. دار الكتب العلمية، بيروت. 646هـ.
+- محمّد بن مفلح المقدسيّ. أصول ابن مفلح. مكتبة العبيكان، الرياض. 763هـ.
+- تاج الدين ابن السبكيّ. جمع الجوامع مع شرح المحلّيّ والآيات البيّنات. دار الكتب العلمية، بيروت. 771هـ.
+- ابن جزيّ الكلبيّ. تقريب الوصول إلى علم الأصول. دار الكتب العلمية، بيروت. 741هـ.
+- وهبة الزحيليّ. أصول الفقه الإسلاميّ. دار الفكر، دمشق. 2015م.
+
+### Capítulo 4: El caos de la fatwa digital (2018→2026)
+
+- محمّد بن إسماعيل البخاريّ. صحيح البخاري. دار طوق النجاة، بيروت. 256هـ.
+- مسلم بن الحجّاج النيسابوريّ. صحيح مسلم. دار إحياء التراث العربي، بيروت. 261هـ.
+- عبد الله بن عبد الرحمن الدارميّ. سنن الدارمي. دار المغني، الرياض. 255هـ.
+- ابن قيّم الجوزيّة. إعلام الموقّعين عن ربّ العالمين. دار ابن الجوزي، الدمام. 751هـ.
+- ابن حمدان الحنبليّ. صفة الفتوى والمفتي والمستفتي. المكتب الإسلامي، بيروت. 695هـ.
+- الخطيب البغداديّ. الفقيه والمتفقّه. دار ابن الجوزي، الدمام. 463هـ.
+- النوويّ. المجموع شرح المهذّب. دار الفكر، بيروت. 676هـ.
+- ابن عبد البرّ القرطبيّ. جامع بيان العلم وفضله. دار ابن الجوزي، الدمام. 463هـ.
+- علاء الدين المرداويّ. التحبير شرح التحرير. مكتبة الرشد، الرياض. 885هـ.
+- د. عصام البشير. الإفتاء في عالم مفتوح. كلمة في مؤتمر — منشورة بـ AMJA.
+- متعدد. الفتوى عبر الفضائيات: قراءة نقدية. إصدارات متفرقة. متعدد.
+- متعدد. الخطاب الديني في وسائل التواصل الاجتماعي. دوريات محكَّمة. 2018-2026.
+- Pew Research Center. Pew Research — Religious Trends in the Digital Age. Pew Forum. سنويّ.
+
+### Capítulo 5: La fatwa como contenido digital y la ética de las plataformas
+
+- متعدد. الخطاب الديني في وسائل التواصل الاجتماعي. دوريات محكَّمة. 2018-2026.
+- Tim Wu. The Attention Merchants — The Epic Scramble to Get Inside Our Heads. Knopf — New York. 2016م.
+- Eli Pariser. The Filter Bubble — What the Internet Is Hiding from You. Penguin Press. 2011م.
+- متعدد. Algorithmic Authority — Implications for Religious Discourse. Journal of Religion & Media. متعدد.
+- Lorne L. Dawson & Douglas E. Cowan. Religion Online — Finding Faith on the Internet. Routledge. 2004م.
+- متعدد. TikTok and Religious Authority — A Case Study. Religion Compass / Brill. 2023-2026.
+- Cathy O'Neil. Weapons of Math Destruction. Crown Publishing. 2016م.
+- Tarleton Gillespie. Custodians of the Internet — Platforms, Content Moderation. Yale University Press. 2018م.
+- متعدد. Influencer Economy and Religious Content — Market Forces. Media & Religion Studies. 2020-2026.
+- Pew Research Center. Pew Research — Religious Trends in the Digital Age. Pew Forum. سنويّ.
+
+### Capítulo 6: La inteligencia artificial y la cuestión de la fatwa
+
+- Mark Coeckelbergh. AI Ethics. MIT Press. 2020م.
+- Kate Crawford. Atlas of AI — Power, Politics, and the Planetary Costs of AI. Yale University Press. 2021م.
+- متعدد. Large Language Models and Religious Authority. دوريات. 2023-2026.
+- متعدد. Hallucination in LLMs — Causes, Detection, Mitigation. ACL / NeurIPS / dialogue. 2023-2026.
+- Stanford University. AI Index Report — Stanford HAI. Stanford HAI. سنويّ 2017-2026.
+- Cathy O'Neil. Weapons of Math Destruction. Crown Publishing. 2016م.
+- متعدد. Religion and Artificial Intelligence — An Annotated Bibliography. Journal of Religion & Society. 2024م.
+- Anwar Hossain & Khaled Abou El Fadl وآخرون. ChatGPT and Islamic Fatwa — Capabilities and Limits. دوريات إسلامية محكَّمة. 2023-2026.
+
+### Capítulo 7: El fiqh de las minorías en la balanza digital
+
+- د. يوسف القرضاوي. في فقه الأقليات المسلمة — حياة المسلمين وسط المجتمعات الأخرى. دار الشروق، القاهرة. 2001م.
+- د. خالد عبد القادر. فقه الأقليات المسلمة بين النظرية والتطبيق. دار الإيمان، الإسكندرية. 2007م.
+- د. سالم الرافعي. مدخل لدراسة فقه الأقليات. 2008م.
+- متعدد — منشورات المجمع. AMJA — مجمع فقهاء الشريعة بأمريكا: التأسيس والتوجهات. AMJA Publications. 2003-2026.
+- متعدد. فتاوى مجلة الإسلام والمسلمون في أمريكا. ICNA Publications.
+- عدد من الباحثين. Fiqh of Muslim Minorities — Methodologies and Applications. Brill / Routledge. متعدد.
+- د. طه جابر العلوانيّ. ميثاق المسلم في الغرب. IIIT — معهد الفكر الإسلامي. 2005م.
+- Pew Research Center. المسلمون في أمريكا — دراسة ميدانية. Pew Forum on Religion. متعدد.
+- د. السيد الحسيني الشيرازي وآخرون. المرجعية الإفتائية للأقليات المسلمة.
+- المجلس الأوروبي للإفتاء والبحوث. European Council for Fatwa and Research — Resolutions. Dublin (ECFR). 1997-2026.
+- متعدد. Sharia in the West — Reform, Adaptation, and Authority. Oxford University Press / Cambridge. متعدد.
+- Mathias Rohe. Beyond the Border — Islamic Law and Muslim Minorities. Brill / Hart Publishing. 2015م.
+- Lorne L. Dawson & Douglas E. Cowan. Religion Online — Finding Faith on the Internet. Routledge. 2004م.
+- Pew Research Center. Pew Research — Religious Trends in the Digital Age. Pew Forum. سنويّ.
+- AMJA. مجمع فقهاء الشريعة بأمريكا الشمالية (AMJA). Houston, Texas — الموقع الرسمي. 1423هـ/2002م — حتى الآن.
+- ECFR. المجلس الأوروبي للإفتاء والبحوث. دبلن، آيرلندا. 1997م.
+- ISNA. Islamic Society of North America — ISNA Fiqh Council. Plainfield, Indiana.
+- AMJA. Assembly of Muslim Jurists of America — Fatwa Bank. amja.us — الإلكتروني.
+
+### Capítulo 8: Del muftí individual al ecosistema colectivo del dictamen
+
+- متعدد — منشورات المجمع. AMJA — مجمع فقهاء الشريعة بأمريكا: التأسيس والتوجهات. AMJA Publications. 2003-2026.
+- المجلس الأوروبي للإفتاء والبحوث. European Council for Fatwa and Research — Resolutions. Dublin (ECFR). 1997-2026.
+- AMJA. مجمع فقهاء الشريعة بأمريكا الشمالية (AMJA). Houston, Texas — الموقع الرسمي. 1423هـ/2002م — حتى الآن.
+- OIC International Islamic Fiqh Academy. مجمع الفقه الإسلامي الدولي — منظمة التعاون الإسلامي. جدّة، السعودية. 1981م.
+- ECFR. المجلس الأوروبي للإفتاء والبحوث. دبلن، آيرلندا. 1997م.
+- الأزهر. هيئة كبار العلماء بالأزهر الشريف. القاهرة، مصر. 1911م.
+- دار الإفتاء. دار الإفتاء المصرية. القاهرة، مصر. 1313هـ/1895م.
+- الرئاسة العامة للبحوث العلمية والإفتاء. اللجنة الدائمة للبحوث العلمية والإفتاء. الرياض، السعودية. 1391هـ.
+- وزارة الأوقاف الكويتية. ديوان الإفتاء — وزارة الأوقاف الكويتية. الكويت.
+- الأزهر. مجمع البحوث الإسلامية بالأزهر. القاهرة، مصر. 1380هـ.
+- IUMS. الاتحاد العالمي لعلماء المسلمين (IUMS). 2004م.
+- ISNA. Islamic Society of North America — ISNA Fiqh Council. Plainfield, Indiana.
+- AMJA. Assembly of Muslim Jurists of America — Fatwa Bank. amja.us — الإلكتروني.
+- دائرة الإفتاء العام — الأردن. دار الإفتاء الأردنية. عمّان، الأردن.
+
+### Capítulo 9: Evaluación de las seis propuestas de 2018
+
+- AMJA. مجمع فقهاء الشريعة بأمريكا الشمالية (AMJA). Houston, Texas — الموقع الرسمي. 1423هـ/2002م — حتى الآن.
+
+### Capítulo 10: La hoja de ruta práctica: diez iniciativas
+
+- AMJA. مجمع فقهاء الشريعة بأمريكا الشمالية (AMJA). Houston, Texas — الموقع الرسمي. 1423هـ/2002م — حتى الآن.
+- AMJA. أبحاث وتوصيات مؤتمرات AMJA السنوية (15 مؤتمراً). AMJA Publications, Houston. 2003-2026.
+- وزارة الأوقاف الكويتية. الموسوعة الفقهية الكويتية. وزارة الأوقاف، الكويت.
+- AMJA. Assembly of Muslim Jurists of America — Fatwa Bank. amja.us — الإلكتروني.
+
+## Apéndice (F): Tabla resumen de la investigación
+
+Esta tabla resume la lógica de cada capítulo en cuatro campos: el problema, la base, el efecto y la solución propuesta.
+
+| Capítulo | Problema | Base/Prueba | Efecto | Solución propuesta |
+|---|---|---|---|---|
+| 1 | Ambigüedad de los conceptos de fatwa, muftí e idoneidad hoy | Definiciones uṣūlíes clásicas | Fijar las herramientas conceptuales | Una tabla comparativa clásica/contemporánea |
+| 2 | Insuficiencia de las condiciones clásicas ante el espacio digital | Las condiciones del muftí + la realidad de las plataformas | Un sabio cualificado en saber pero no en desempeño digital | Las cinco cualificaciones compuestas distribuidas en el equipo |
+| 3 | Los seis rangos individuales no bastan ante casos compuestos | Principios de clasificación de los muytahides | Necesidad de un marco colectivo | El séptimo rango: el muytahid colectivo e institucional |
+| 4 | El caos de la fatwa en el espacio abierto | Estudio de la realidad + censura de la fatwa sin saber | Dilución de las constantes y fragmentación de la autoridad | Una definición disciplinada del caos digital |
+| 5 | Sujeción de la fatwa a la lógica algorítmica | Ética de las plataformas + preservación del saber | Reducción de la fatwa y pérdida del contexto | Un código de conducta de seis principios |
+| 6 | La idoneidad de la IA para emitir fatwa | Los pilares de la fatwa | El peligro de la fatwa automatizada en masa | La IA como herramienta, no muftí, bajo controles |
+| 7 | Tensión entre la autoridad lejana y el contexto cercano | Fiqh de las minorías + la realidad estadounidense | Fatwas trasladadas entre contextos | Un sistema local que coopera con el centro |
+| 8 | La insuficiencia del muftí individual ante grandes cuestiones | Iytihād colectivo y modelos de academias | Necesidad de una autoridad institucional | Un sistema colectivo y multidisciplinar |
+| 9 | El tropiezo de las propuestas de 2018 | Examen de lo logrado y lo estancado | Solidez del núcleo, necesidad de reformular | Una entrada a nuevas propuestas |
+| 10 | Convertir la consideración en acción | Una hoja de ruta de diez iniciativas | Caminos ejecutables con indicadores | Diez iniciativas en tres horizontes |
+
+## Apéndice (G): Hallazgos principales de cada capítulo (numerados)
+
+
+### Capítulo 1: Conceptos fundacionales sobre la fatwa, el muftí y la idoneidad
+
+1. Definir la fatwa, el muftí, el consultante y la idoneidad como herramientas de análisis.
+2. Distinguir el muftí del juez, y la fatwa de la sentencia.
+3. Fijar la noción clásica de «caos» como base para su desarrollo digital.
+
+### Capítulo 2: La personalidad del muftí: condiciones clásicas y cualificaciones compuestas
+
+1. Las cinco cualificaciones compuestas son añadidos a las condiciones clásicas, no sustitutos.
+2. Pueden distribuirse en el equipo del sistema, sin exigirse a un solo individuo.
+3. Preámbulo conceptual al muytahid colectivo e institucional.
+
+### Capítulo 3: Los rangos de los muytahides y el séptimo rango contemporáneo
+
+1. Los rangos de los muytahides son una estructura viva que responde a cada época.
+2. El séptimo rango es una ampliación de la tradición, no una ruptura.
+3. Fundamentar el iytihād colectivo en los mismos principios de la división clásica.
+
+### Capítulo 4: El caos de la fatwa digital (2018→2026)
+
+1. El caos digital es un cambio estructural, no un fenómeno pasajero.
+2. Cinco transformaciones convergentes (2018–2026) produjeron la nueva realidad.
+3. Cinco dimensiones del caos: fuente, formulación, contexto, recepción, responsabilidad.
+
+### Capítulo 5: La fatwa como contenido digital y la ética de las plataformas
+
+1. La fatwa en las plataformas opera en un entorno con sus propias reglas que deben comprenderse con conciencia.
+2. La fatwa digital necesita principios éticos que complementen las condiciones clásicas.
+3. Seis principios forman un código de conducta autoimpuesto para el muftí digital.
+
+### Capítulo 6: La inteligencia artificial y la cuestión de la fatwa
+
+1. La IA no es un muftí, pues carece de los pilares estructurales de la fatwa.
+2. Es una herramienta avanzada para el muftí bajo controles: «como una biblioteca, no un sabio».
+3. La «fatwa de IA en masa» es un peligro que merece la vigilancia de la comunidad.
+
+### Capítulo 7: El fiqh de las minorías en la balanza digital
+
+1. El fiqh de las minorías es un laboratorio donde afloran los problemas de la fatwa antes de generalizarse.
+2. El espacio digital crea tensión entre la autoridad lejana y el contexto cercano.
+3. La solución es un sistema local fuerte que coopere con el centro.
+
+### Capítulo 8: Del muftí individual al ecosistema colectivo del dictamen
+
+1. El paso a un sistema colectivo es una ampliación, no un reemplazo.
+2. El sistema previsto es colectivo, multidisciplinar, publicado, digital, transfronterizo.
+3. La experiencia de AMJA es un modelo avanzado digno de ampliarse.
+
+### Capítulo 9: Evaluación de las seis propuestas de 2018
+
+1. Las propuestas de 2018 eran esencialmente acertadas, pero su aplicación tropezó por razones estructurales.
+2. Los cambios técnicos posteriores a 2018 obligaron a reformular algunas.
+3. La revisión es una entrada a nuevas propuestas ancladas en la nueva realidad.
+
+### Capítulo 10: La hoja de ruta práctica: diez iniciativas
+
+1. Las diez iniciativas son ejecutables con recursos disponibles y un horizonte previsible.
+2. Les faltan integración, ampliación y compromiso institucional.
+3. La investigación plantea preguntas y caminos iniciales; no pretende la respuesta completa.
+
+## Discusión de las objeciones a las tesis centrales
+
+### Objeción primera: que el iytihād es individual por naturaleza, ¿cómo, pues, un «rango colectivo»?
+
+Podría decirse que el iytihād es una facultad personal que reside en el muytahid, y que las academias son mera consulta, no iytihād real. La respuesta: el iytihād colectivo no anula la facultad individual, sino que la organiza; cada miembro es muytahid en su especialidad, y la institución reúne sus esfuerzos en un dictamen compuesto que supera la capacidad de un individuo en casos entrelazados. Tiene raíz en la práctica de los Compañeros de consultar en los casos nuevos y en las reconocidas academias de fiqh contemporáneas. El séptimo rango describe, pues, una realidad existente, no la invención de una novedad uṣūlī.
+
+### Objeción segunda: que un sistema potenciado por IA podría satisfacer algunas condiciones de la fatwa
+
+Podría decirse que si los resultados de la máquina se revisan humanamente y se disciplinan, el sistema potenciado podría alcanzar el nivel de fatwa. La respuesta: la potenciación disciplinada es exactamente lo que la investigación afirma (la máquina es una herramienta, como una biblioteca); la revisión humana es la que emite la fatwa, no la máquina. La disputa es verbal una vez admitido que el fundamento de la fatwa es la idoneidad, la intención y la comprensión de la realidad —todo ausente en la máquina por sí sola—; así, describirla como herramienta potenciadora sigue siendo lo determinado.
+
+### Objeción tercera: que ampliar el concepto de «caos» podría alcanzar al iytihād legítimo y la pluralidad reconocida
+
+Podría decirse que censurar el «caos» podría convertirse en censurar la pluralidad jurídica legítima. La respuesta: la investigación definió el «caos digital» por pilares específicos (fragmentación de la autoridad, su dispersión entre actores, al margen de la idoneidad, con ausencia de un mecanismo de discriminación); esto es distinto de la pluralidad disciplinada emanada de sus gentes cualificadas. El criterio es la idoneidad y el mecanismo de discriminación, no la mera discrepancia.
+
+
+## Apéndice (H): Indicadores para medir el «caos digital» en la fatwa
+
+Una herramienta operativa que convierte el concepto descriptivo en una medida que las instituciones pueden usar en el seguimiento.
+
+| Indicador | Bajo | Medio | Alto |
+|---|---|---|---|
+| Fragmentación de la autoridad | Una autoridad clara y reconocida | Pluralidad con una autoridad dominante | Ausencia de autoridad dominante |
+| Idoneidad del muftí activo | Idoneidad verificada y conocida | Idoneidad parcial o no documentada | Ausencia de idoneidad |
+| Mecanismo de discriminación de la fatwa | Un mecanismo objetivo disponible | Un mecanismo débil o no declarado | Ningún mecanismo |
+| Reducción de la formulación | Formulación fundamentada con contexto | Reducción con advertencia | Reducción perjudicial y sin contexto |
+| Descontextualización | Preservación del contexto original | Traslado con reserva | Recorte y reutilización |
+| Responsabilidad y trazabilidad | Atribución y responsabilidad claras | Atribución deficiente | Anonimato completo |
+
+## Apéndice (I): Una matriz comparativa de modelos de sistemas de fatwa
+
+Una comparación general en ejes unificados; los detalles de cada institución han de verificarse en sus fuentes oficiales.
+
+| Institución | Composición | Presencia digital | Mecanismo de revisión | Ámbito |
+|---|---|---|---|---|
+| Asamblea de Juristas Musulmanes de América (AMJA) | Una asamblea colectiva de múltiples miembros | Creciente | Revisión institucional colectiva | La minoría musulmana en América |
+| Consejo Europeo de Fatwa e Investigación (ECFR) | Un órgano colectivo europeo | Moderada | Decisiones en sesiones | Los musulmanes de Europa |
+| Dār al-Iftāʾ egipcia | Una institución oficial central | Fuerte | Comités y revisión interna | Nacional con extensión internacional |
+| Academia Internacional de Fiqh Islámico (IIFA) | Una academia internacional bajo la OCI | Moderada | Resoluciones de las sesiones | Internacional, general |
+
+## La responsabilidad legal de la fatwa digital transfronteriza
+
+La fatwa digital transfronteriza plantea un problema legal doble: el muftí puede residir en un país, el consultante en otro y la plataforma en un tercero; así, una sola fatwa es tironeada entre sistemas legales divergentes, especialmente en el estatuto personal y las transacciones financieras, donde a la fatwa se le adhieren efectos civiles vinculantes en algunos Estados.
+
+Entre las facetas del problema: una fatwa correcta en su contexto jurídico-islámico puede, al aplicarse a una realidad legal distinta, conducir a resultados no buscados o contrarios a una ley imperativa.
+
+El curso adecuado es: revelar el alcance de la fatwa y que no sustituye la asesoría legal competente en el país del consultante; distinguir lo que tiene un efecto puramente devocional de lo que tiene un efecto civil vinculante; remitir los asuntos con consecuencias legales al sistema local de fatwa; y formular una advertencia estándar adjunta a las fatwas generales publicadas.
+
+Esta dimensión legal complementa la dimensión ética del código de conducta del muftí digital (capítulo quinto) y se cruza con la «jurisprudencia de las consecuencias digitales», incorporando la consecuencia legal entre las consecuencias a considerar antes de publicar.
+
+
+## La sostenibilidad de la financiación de las iniciativas
+
+Las diez iniciativas varían en costo; algunas son bajas (la carta, la educación del consultante) y otras muy altas (el modelo lingüístico jurídico de código abierto). Se requiere, pues, una concepción de la sostenibilidad de la financiación que no dependa solo de donaciones transitorias.
+
+Entre los caminos: legados (awqāf) científicos dedicados que generen un rendimiento continuo; alianzas institucionales entre academias para compartir el costo; un modelo de servicios profesionales (formación, acreditación, consultoría) que refinancie el proyecto; subvenciones de investigación de universidades y centros; y financiación colectiva dirigida desde las comunidades a los proyectos locales.
+
+Es preferible vincular cada iniciativa a una fuente de financiación acorde con su naturaleza y horizonte, con indicadores de sostenibilidad medidos periódicamente.
+
+
+## Límites de la investigación y ética del estudio de campo
+
+Límites de la investigación: la investigación se limita a la función de emitir fatwa en el espacio digital abierto; no trata la función del sabio religioso en general, ni pretende una solución completa a todo caso nuevo de fatwa digital, sino que ofrece un método, una caracterización y una hoja de ruta abiertos a discusión. El campo aplicado se concentra en el contexto de la minoría musulmana en América, aunque muchos de sus hallazgos son transferibles.
+
+Ética del estudio de campo: en las entrevistas se observó el consentimiento informado de los participantes, la opción de anonimato a petición, la preservación de la privacidad y la presentación de los resúmenes analíticos a los participantes para verificar la fidelidad del relato.
+
