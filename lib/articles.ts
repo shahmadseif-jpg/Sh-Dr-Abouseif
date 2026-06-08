@@ -41,7 +41,7 @@ export const articlesMeta: ArticleMeta[] = [
   {
     slug: 'concept-and-term',
     category: 'maqasid-tafsir',
-    isoDate: '2026-05-20',
+    isoDate: '2026-05-29',
     date: { ar: 'يونيو ٢٠٢٦', en: 'June 2026', es: 'Junio de 2026' },
     readingMinutes: 8,
     series: { ar: 'التفسير المقاصدي', en: 'Objective-Based Tafsīr', es: 'Tafsīr orientado a los fines' },
@@ -52,7 +52,7 @@ export const articlesMeta: ArticleMeta[] = [
   {
     slug: 'tafsir-and-its-siblings',
     category: 'maqasid-tafsir',
-    isoDate: '2026-05-21',
+    isoDate: '2026-05-28',
     date: { ar: 'يونيو ٢٠٢٦', en: 'June 2026', es: 'Junio de 2026' },
     readingMinutes: 4,
     series: { ar: 'التفسير المقاصدي', en: 'Objective-Based Tafsīr', es: 'Tafsīr orientado a los fines' },
@@ -63,7 +63,7 @@ export const articlesMeta: ArticleMeta[] = [
   {
     slug: 'origin-and-development',
     category: 'maqasid-tafsir',
-    isoDate: '2026-05-22',
+    isoDate: '2026-05-27',
     date: { ar: 'يونيو ٢٠٢٦', en: 'June 2026', es: 'Junio de 2026' },
     readingMinutes: 5,
     series: { ar: 'التفسير المقاصدي', en: 'Objective-Based Tafsīr', es: 'Tafsīr orientado a los fines' },
@@ -74,7 +74,7 @@ export const articlesMeta: ArticleMeta[] = [
   {
     slug: 'grand-objectives-and-purpose',
     category: 'maqasid-tafsir',
-    isoDate: '2026-05-23',
+    isoDate: '2026-05-26',
     date: { ar: 'يونيو ٢٠٢٦', en: 'June 2026', es: 'Junio de 2026' },
     readingMinutes: 4,
     series: { ar: 'التفسير المقاصدي', en: 'Objective-Based Tafsīr', es: 'Tafsīr orientado a los fines' },
@@ -85,7 +85,7 @@ export const articlesMeta: ArticleMeta[] = [
   {
     slug: 'scholars-and-figures',
     category: 'maqasid-tafsir',
-    isoDate: '2026-05-24',
+    isoDate: '2026-05-25',
     date: { ar: 'يونيو ٢٠٢٦', en: 'June 2026', es: 'Junio de 2026' },
     readingMinutes: 4,
     series: { ar: 'التفسير المقاصدي', en: 'Objective-Based Tafsīr', es: 'Tafsīr orientado a los fines' },
@@ -96,7 +96,7 @@ export const articlesMeta: ArticleMeta[] = [
   {
     slug: 'principles-and-controls',
     category: 'maqasid-tafsir',
-    isoDate: '2026-05-25',
+    isoDate: '2026-05-24',
     date: { ar: 'يونيو ٢٠٢٦', en: 'June 2026', es: 'Junio de 2026' },
     readingMinutes: 5,
     series: { ar: 'التفسير المقاصدي', en: 'Objective-Based Tafsīr', es: 'Tafsīr orientado a los fines' },
@@ -107,7 +107,7 @@ export const articlesMeta: ArticleMeta[] = [
   {
     slug: 'fruit-of-study',
     category: 'maqasid-tafsir',
-    isoDate: '2026-05-26',
+    isoDate: '2026-05-23',
     date: { ar: 'يونيو ٢٠٢٦', en: 'June 2026', es: 'Junio de 2026' },
     readingMinutes: 4,
     series: { ar: 'التفسير المقاصدي', en: 'Objective-Based Tafsīr', es: 'Tafsīr orientado a los fines' },
@@ -118,7 +118,7 @@ export const articlesMeta: ArticleMeta[] = [
   {
     slug: 'behavioral-application',
     category: 'maqasid-tafsir',
-    isoDate: '2026-05-27',
+    isoDate: '2026-05-22',
     date: { ar: 'يونيو ٢٠٢٦', en: 'June 2026', es: 'Junio de 2026' },
     readingMinutes: 5,
     series: { ar: 'التفسير المقاصدي', en: 'Objective-Based Tafsīr', es: 'Tafsīr orientado a los fines' },
@@ -129,7 +129,7 @@ export const articlesMeta: ArticleMeta[] = [
   {
     slug: 'social-application',
     category: 'maqasid-tafsir',
-    isoDate: '2026-05-28',
+    isoDate: '2026-05-21',
     date: { ar: 'يونيو ٢٠٢٦', en: 'June 2026', es: 'Junio de 2026' },
     readingMinutes: 4,
     series: { ar: 'التفسير المقاصدي', en: 'Objective-Based Tafsīr', es: 'Tafsīr orientado a los fines' },
@@ -140,7 +140,7 @@ export const articlesMeta: ArticleMeta[] = [
   {
     slug: 'psychological-application',
     category: 'maqasid-tafsir',
-    isoDate: '2026-05-29',
+    isoDate: '2026-05-20',
     date: { ar: 'يونيو ٢٠٢٦', en: 'June 2026', es: 'Junio de 2026' },
     readingMinutes: 6,
     series: { ar: 'التفسير المقاصدي', en: 'Objective-Based Tafsīr', es: 'Tafsīr orientado a los fines' },
