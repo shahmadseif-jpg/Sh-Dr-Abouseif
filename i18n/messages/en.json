@@ -16,7 +16,8 @@
     "gallery": "Moments",
     "consultations": "Consultations",
     "contact": "Contact",
-    "language": "العربية"
+    "language": "العربية",
+    "maqasid": "Objective-Based Tafsīr"
   },
   "hero": {
     "role": "Imam & Founder · American Imams Academy",
@@ -165,5 +166,9 @@
   "footer": {
     "rights": "All rights reserved",
     "made_with": "Crafted with care"
+  },
+  "maqasid": {
+    "title": "Objective-Based Tafsīr",
+    "subtitle": "A series on reading the Qur'an in light of its higher objectives — from clarifying the concept to practical application in conduct, society, and the self."
   }
 }

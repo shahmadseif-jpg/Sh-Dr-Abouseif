@@ -16,7 +16,8 @@
     "gallery": "Momentos",
     "consultations": "Consultas",
     "contact": "Contacto",
-    "language": "العربية"
+    "language": "العربية",
+    "maqasid": "Tafsīr orientado a los fines"
   },
   "hero": {
     "role": "Imam y Fundador · Academia Americana de Imames",
@@ -165,5 +166,9 @@
   "footer": {
     "rights": "Todos los derechos reservados",
     "made_with": "Hecho con esmero"
+  },
+  "maqasid": {
+    "title": "Tafsīr orientado a los fines",
+    "subtitle": "Una serie sobre la lectura del Corán a la luz de sus fines superiores — desde la clarificación del concepto hasta la aplicación práctica en la conducta, la sociedad y el alma."
   }
 }
