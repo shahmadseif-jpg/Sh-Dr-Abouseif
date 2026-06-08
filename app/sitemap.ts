@@ -11,7 +11,6 @@ const STATIC_PATHS = [
   '',
   '/about',
   '/articles',
-  '/maqasid',
   '/khawatir',
   '/research',
   '/lectures',
