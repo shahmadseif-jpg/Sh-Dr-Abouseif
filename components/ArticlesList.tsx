@@ -6,6 +6,7 @@ import { articlesMeta, categoryLabels, localize, type ArticleCategory, type Loc,
 
 // Display order of the reading paths (sections)
 const ORDER: ArticleCategory[] = [
+  'maqasid-tafsir',
   'civilization',
   'wisdom-insights',
   'imamship',
