@@ -1,6 +1,6 @@
 ---
-title: "El apetito por la obediencia"
-subtitle: "Cuando el alma se lanza a la adoración como se lanza al deseo — cómo educó el Profeta ﷺ al corazón entre avivar y moderar"
+title: "El apetito de la obediencia"
+subtitle: "Cuando el alma se lanza a la adoración como se lanza al deseo — ¿cómo educó el Profeta (la paz sea con él) al corazón entre el despertar y el refinamiento?"
 date: "2026-05-31"
 locale: "es"
 slug: "the-appetite-for-obedience"
@@ -9,109 +9,91 @@ episode: 9
 readingMinutes: 13
 ---
 
-### Apertura: Así como la desobediencia tiene su apetito... también lo tiene la obediencia
+### Entrada: y así como el pecado tiene un apetito... la obediencia tiene un apetito
 
-No todo el que se vuelve hacia la obediencia ha captado su verdad. No toda lágrima en un nicho de oración, ni todo anhelo de erguirse en la noche, ni todo arranque hacia un acto de adoración, es prueba madura de un vínculo asentado con Dios.
+No todo el que se entregó a la obediencia ha conocido su realidad. Y no toda lágrima en un oratorio, ni todo deseo de levantarse en la noche, ni todo impulso hacia una adoración, es una prueba madura del arraigo de la relación con Dios.
 
-Pues así como la desobediencia tiene un apetito que empuja a la persona hacia ella, también la obediencia puede tener su apetito. Por «apetito» no entendemos aquí el sentido reprochable, sino aquel estado psicológico que empuja a la persona con fuerza hacia algo en particular —hasta que casi cree que no puede vivir sin ello— y que luego pronto se aplaca, o se apaga, o cambia.
+Pues así como el pecado tiene un apetito que empuja hacia él, la obediencia puede tener también un apetito. Y no se pretende con «apetito» aquí su sentido censurable, sino aquel estado anímico que empuja al ser humano con fuerza hacia algo determinado, hasta que casi cree que no vive sino con ello, y luego no tarda en aquietarse, apagarse o transformarse.
 
-El ser humano es por naturaleza una criatura de impulso: se lanza hacia el amor, hacia la riqueza, hacia el éxito —y a veces se lanza hacia la adoración. Pero la pregunta capital no es *¿cómo nos encendemos?* Es: **¿cómo permanecemos después de que la llamarada se apaga?**
+El ser humano es por naturaleza un ser que se lanza: se lanza al amor, al dinero, al éxito, y a veces se lanza a la adoración. Pero la pregunta decisiva no es: **¿cómo nos encendemos?**, sino: **¿cómo permanecemos después de que el encendido se apaga?**
 
----
+### Cuando el alma se deslumbra con la obediencia
 
-### Cuando el alma queda deslumbrada por la adoración
+Pasan por el ser humano momentos en los que descubre un mundo nuevo: una exhortación que sacude su corazón, una crisis que quiebra su soberbia, una salvación de una desgracia que casi lo derribó, o el efecto del Corán que toca su corazón por primera vez. Y siente de repente que quiere compensar todo lo que se le pasó; quiere leer todo el Corán, levantarse toda la noche, ayunar todos los días, y cerrar todas las puertas del mundo.
 
-Le llegan a la persona instantes en los que descubre un mundo nuevo: un sermón que sacude su corazón, una crisis que quiebra su soberbia, una liberación de una calamidad que casi lo destruye, o el roce del Corán sobre su corazón por primera vez. De súbito siente que quiere recuperar todo lo que ha perdido; quiere leer el Corán entero, erguirse toda la noche, ayunar todos los días, cerrar de golpe todas las puertas del mundo.
-
-En ese instante es, las más de las veces, sincero. Pero la sinceridad sola no basta —pues el alma está aún bajo el hechizo del asombro, y el asombro no es el mejor de los consejeros. Y aquí yace una paradoja rara vez advertida: **que el exceso en la adoración puede brotar no de la debilidad de la fe, sino de la fuerza de un impulso fiel que jamás fue moderado.** Pues un apetito —aun cuando sea por la obediencia— sigue siendo un apetito necesitado de una mente que lo sopese.
-
----
+Y en ese momento es, por lo general, sincero. Pero la sinceridad sola no basta; porque el alma sigue bajo el influjo del asombro, y el asombro no es el mejor consejero. Y aquí reside una paradoja a la que rara vez se atiende: **que el exceso en la adoración puede no brotar de la debilidad de la fe, sino de la fuerza de un impulso de fe que no se ha refinado**. El apetito —aun cuando es hacia la obediencia— sigue siendo un apetito que necesita de una razón que lo sopese.
 
 ### Los tres hombres: cuando el apetito desborda la balanza
 
-Entre las más claras revelaciones de esto está la historia de los tres hombres que vinieron preguntando por la adoración del Profeta ﷺ. Cuando se les informó de ella, fue como si la juzgaran poca —no porque su adoración fuera escasa, sino porque se veían a sí mismos capaces de más. Uno dijo: en cuanto a mí, ayunaré perpetuamente y nunca romperé el ayuno. Otro dijo: en cuanto a mí, me erguiré la noche entera y nunca dormiré. El tercero dijo: en cuanto a mí, me apartaré de las mujeres y nunca me casaré.
+Y quizá de lo más claro que revela esto sea la historia de los tres hombres que vinieron a preguntar por la adoración del Profeta (la paz sea con él), y cuando se les informó de ella, fue como si la consideraran poca. Y la causa de su asombro no fue la escasez de la adoración, sino que se vieron a sí mismos capaces de más. Dijo uno de ellos: en cuanto a mí, ayunaré perpetuamente y no romperé el ayuno. Dijo el otro: en cuanto a mí, me levantaré en la noche y no dormiré. Dijo el tercero: en cuanto a mí, me apartaré de las mujeres y no me casaré jamás.
 
-Fue un instante de inmenso arrebato espiritual. Pero el Profeta ﷺ no miró el calor del sentimiento solo; miró adónde conduciría:
+Fue un momento de impulso espiritual inmenso. Pero el Profeta (la paz sea con él) no miró al calor de los sentimientos solo, sino que miró su desenlace:
 
-> «Por Dios, yo soy el más temeroso de Dios entre vosotros, y el más consciente de Él; y sin embargo ayuno y rompo el ayuno, oro y duermo, y me caso con mujeres. Quien se aparta de mi camino no es de los míos.» [Acordado]
+> «¡Por Dios! Yo soy el más temeroso de Dios de entre vosotros y el más piadoso ante Él; pero ayuno y rompo el ayuno, rezo y duermo, y me caso con las mujeres. Quien se aparte de mi sunna no es de los míos.» [acordado por al-Bujārī y Muslim]
 
-Repara en la precisión de su respuesta: no los corrigió en el *principio* de la adoración, sino en el **trastorno de la balanza**. No dijo «habéis hecho demasiado»; dijo «os habéis apartado de la Sunna» —es decir, del camino del equilibrio. Moderó el apetito fiel como se modera el apetito mundano, porque el exceso en cualquiera de los dos conduce al mismísimo final: **la ruptura**.
+Contempla la precisión de la postura: no los corrigió en el principio de la adoración, sino en el **desequilibrio de la balanza**. No dijo: os habéis excedido; dijo: os habéis salido de la sunna, es decir, del camino del equilibrio. Refinó el apetito de fe como se refina el apetito mundano; porque la desmesura en ambos conduce al mismo resultado: **la interrupción**.
 
----
+### No toda elevación es ascenso
 
-### No todo ascenso es una elevación
+De lo más peligroso en que cae el ser humano es confundir la **elevación repentina** con el **crecimiento verdadero**. El fuego se enciende en un instante, mientras que el árbol crece en años. Por ello a menudo vemos a quien comienza con saltos inmensos y luego tropieza tras unos meses; no porque no fuera sincero, sino porque edificó su programa sobre el calor del sentimiento, no sobre la naturaleza del ser humano. Y el sentimiento fluctúa, mientras que el método permanece.
 
-Entre los más peligrosos errores en que cae la persona está confundir un **ascenso súbito** con un **crecimiento verdadero**. El fuego se enciende en un instante; un árbol crece a lo largo de años. Por eso tan a menudo vemos a quien comienza el camino del compromiso con saltos tremendos, solo para tropezar meses después —no porque fuera insincero, sino porque edificó su programa sobre el calor del sentimiento y no sobre la naturaleza del ser humano. El sentimiento fluctúa; el método perdura.
+El Corán nos advirtió de deshacer la resolución tras haberla firmado, y dio un ejemplo inolvidable:
 
-El Corán nos advirtió contra deshacer una resolución después de haberla hilado firmemente, acuñando una imagen inolvidable:
+> «Y no seáis como aquella que deshizo su hilado, después de haberlo hilado con firmeza, en hebras.» [al-Naḥl: 92]
 
-> ﴾Y no seáis como aquella que deshacía lo que había hilado firmemente, reduciéndolo a hebras sueltas﴿ [An-Naḥl: 92]
+Por ello la balanza del Profeta (la paz sea con él) era la constancia, no la abundancia:
 
-Y así la medida del Profeta ﷺ fue la constancia, no la cantidad:
+> «Las obras más amadas por Dios son las más constantes, aunque sean pocas.» [acordado por al-Bujārī y Muslim]
 
-> «Las obras más amadas por Dios son las más constantes, aunque sean pocas.» [Acordado]
+> «En verdad, la religión es facilidad, y nadie es severo con la religión sin que ella lo venza.» [transmitido por al-Bujārī]
 
-> «En verdad, la religión es facilidad; nadie se sobrecarga jamás en la religión sin que ella lo venza.» [Bujari]
+### Y a veces el Profeta (la paz sea con él) despierta el apetito
 
----
+Pero la imagen no se completa aquí; el Profeta (la paz sea con él) no siempre apagaba el impulso, sino que a veces lo encendía. Dijo respecto de ʿAbd Allāh ibn ʿUmar (Dios esté complacido con ambos):
 
-### Y a veces el Profeta ﷺ despierta el apetito
+> «Qué buen hombre es ʿAbd Allāh, si rezara de noche.» [acordado por al-Bujārī y Muslim]
 
-Pero el cuadro no se completa aquí, pues el Profeta ﷺ no siempre extinguía el arrebato —a veces lo encendía. Dijo acerca de ʿAbdullāh ibn ʿUmar (Dios esté complacido con ambos):
-
-> «¡Qué excelente hombre es ʿAbdullāh —si tan solo orara en la noche!» [Acordado]
-
-Sālim dijo: a partir de entonces, ʿAbdullāh apenas dormía de noche sino un poco. Aquí el Profeta ﷺ no calmó el deseo —lo **despertó**; no refrenó el apetito —lo **avivó**.
-
----
+Dijo Sālim: y ʿAbd Allāh no dormía de noche sino poco. Aquí el Profeta (la paz sea con él) no aquietó el deseo, sino que lo **despertó**; y no frenó el apetito, sino que lo **incitó**.
 
 ### La cuerda de Zaynab: no hay adoración sobre una cuerda
 
-Cuando el Profeta ﷺ entró en la mezquita y vio una cuerda tendida entre dos columnas, preguntó por ella y se le dijo: es de Zaynab; ella ora, y cuando se cansa se sujeta a ella. Dijo:
+Y cuando el Profeta (la paz sea con él) entró en la mezquita y vio una cuerda tendida entre las dos columnas, preguntó por ella y se le dijo: es de Zaynab; reza, y cuando flaquea o se cansa, se cuelga de ella. Dijo:
 
-> «Desatadla. Que cada uno de vosotros ore mientras tenga energía, y cuando se canse, que se recueste.» [Acordado]
+> «Desatadla; que rece cada uno de vosotros con su vigor, y si flaquea, que se eche a dormir.» [acordado por al-Bujārī y Muslim]
 
-Pues la adoración que necesita una cuerda para llevarte a ella no es aún adoración asentada, y una fe que se mueve solo por el tirón del entusiasmo necesita un cimiento más hondo. Dios no nos encargó ser ángeles que nunca desfallecen; nos encargó ser seres humanos justos que oran mientras tienen energía, y cuando se fatigan, se dan descanso para poder regresar.
+La adoración que necesita de una cuerda que te lleve a ella no es aún una adoración estable, y la fe que no se mueve sino con un tirón de entusiasmo necesita de una construcción más honda. Dios no nos encomendó ser ángeles que no flaquean, sino que nos encomendó ser humanos virtuosos que conectan su vigor, y si se cansan, dan descanso a sus almas para volver.
 
----
+### La regla global: no trata la adoración, sino a su poseedor
 
-### El principio unificador: no trata la adoración, sino al adorador
+Aquí se descubre la arquitectura de todo el asunto. El Profeta (la paz sea con él), en las tres situaciones, no aumentaba la adoración una vez y la disminuía otra sin sentido; **leía la dirección del corazón, no la cantidad de la obra**. Si veía un impulso a punto de desbocar a su poseedor hacia el exceso y la interrupción, lo refinaba; y si veía una flaqueza a punto de hundir a su poseedor en la negligencia y la pereza, lo estimulaba. Un solo objetivo desde dos puertas: devolver el alma al **punto del equilibrio**.
 
-Aquí se revela la arquitectura de todo el asunto. En las tres escenas, el Profeta ﷺ no aumentaba la adoración una vez y la disminuía otra de manera arbitraria; estaba **leyendo la dirección del corazón, no la cantidad de la obra**. Cuando vio un arrebato a punto de desbocarse con su dueño hacia el extremismo y la ruptura, lo moderó; cuando vio una flojedad a punto de hundir a su dueño en la negligencia y la pereza, la encendió. Una sola meta por dos puertas: devolver el alma a su **punto de equilibrio**.
+Por ello el propósito no es la abundancia de la adoración siempre, ni su escasez siempre; sino que **la constancia** es el eje sobre el que gira la rueda. La llama del apetito despierta, pero no perdura; y lo que perdura es un amor que educa el corazón en la fidelidad.
 
-El fin, por tanto, no es ni siempre más adoración ni siempre menos; más bien, la **constancia** es el eje sobre el que gira la rueda. La llama del apetito despierta, pero no sostiene; lo que sostiene es un amor que educa al corazón en la fidelidad.
+> Un apetito que despierta... un amor que educa... un pacto que afirma.
+> Así asciende el corazón del momento del encendido al rango de la fidelidad.
 
-> Un apetito que despierta... luego un amor que educa... luego un pacto que afianza.
-> Así asciende el corazón del instante de encenderse a la estación de la fidelidad.
+### ¿Cuándo lo incitamos y cuándo lo refinamos?
 
----
+Si el apetito hacia la obediencia no es censurable en sí mismo, lo que cuenta es la buena gestión de él; y tiene un tiempo en que se despierta y un tiempo en que se refina.
 
-### ¿Cuándo lo avivamos, y cuándo lo moderamos?
+**Lo incitamos** cuando el deseo está mermado y el corazón flaco: cuando la costumbre vence al alma, la oración se vuelve un movimiento sin presencia, el Corán se hace un compañero abandonado, y se enfría el anhelo de Dios. Entonces necesitamos la exhortación, la buena compañía, y el recuerdo de la muerte y el Paraíso, para despertar al corazón de su letargo. Esta es la hora del despertar, y es madurez, no artificio.
 
-Si el apetito por la obediencia no es reprochable en sí mismo, entonces la sabiduría está en manejarlo bien; tiene un tiempo para ser despertado y un tiempo para ser moderado.
+**Y lo refinamos** cuando el deseo desborda a la razón: cuando nos empuja a lo que no podemos, o nos hace despreciar las obras de otros, o siembra en nosotros la vanidad, o nos carga programas que no podemos cumplir, o nos hace olvidar que la religión no es oración y ayuno solamente, sino familia, trabajo, misericordia, derechos y deberes. Esta es la hora del refinamiento, y es la señal de la madurez cuando la razón gobierna el sentimiento.
 
-**Lo avivamos** cuando el deseo es tenue y el corazón está frío: cuando la costumbre vence al espíritu, cuando la oración se vuelve movimiento sin presencia, cuando el Corán se vuelve un compañero abandonado, y el anhelo de Dios se enfría. Entonces necesitamos el sermón, la compañía piadosa, el recuerdo de la muerte y del Paraíso, para despertar al corazón de su letargo. Esta es la hora de encender —y es madurez, no afectación.
-
-**Y lo moderamos** cuando el deseo desborda al intelecto: cuando nos empuja hacia lo que no podemos soportar, o nos hace despreciar las obras de los demás, o siembra en nosotros la presunción, o nos carga con regímenes a los que no podemos ser fieles, o nos hace olvidar que la religión no es oración y ayuno solamente, sino familia, trabajo, misericordia, derechos y deberes. Esta es la hora de moderar —y es la marca de la madurez, cuando la mente gobierna al sentimiento.
-
-Con esto se resuelve la pregunta: **¿cuándo es el deseo de obediencia madurez, y cuándo es mero impulso?** Es madurez cuando conduce a una obra que perdura, una que el corazón y la vida pueden acomodar; y es impulso cuando exige una llama que quema a su dueño y luego se apaga. El criterio entre ambos es una sola pregunta: *¿Puedo encontrarme con Dios sobre esto mañana, y pasado mañana?*
-
----
+Y con esto se resuelve la pregunta: **¿cuándo es el deseo de la obediencia madurez, y cuándo es impulso?** Es madurez cuando conduce a una obra que perdura y a la que dan cabida el corazón y la vida, e impulso cuando busca una llama que abrasa a su poseedor y luego se apaga. Y lo decisivo entre ambos es una sola pregunta: ¿soy capaz de encontrarme con Dios sobre esto mañana y pasado mañana?
 
 ### Del apetito al amor
 
-Quizá la mayor diferencia entre el principiante y el viajero firmemente arraigado es que el primero se mueve sobre todo por apetito, mientras que el segundo se mueve por amor. El primero necesita un arrebato; el segundo necesita fidelidad. El primero adora a Dios mientras el sentimiento arde; el segundo lo adora en los días de vigor y en los de languidez por igual. El primero vive de instantes; el segundo vive de un pacto.
+Y quizá la mayor diferencia entre el principiante y el caminante arraigado es que el primero se mueve por lo general con el apetito, mientras que el segundo se mueve con el amor. El primero necesita un impulso, y el segundo necesita fidelidad. El primero adora a Dios mientras el sentimiento está encendido, y el segundo Lo adora en los días de vigor y en los días de flaqueza. El primero vive de los momentos, y el segundo vive del pacto.
 
-Y así el verdadero éxito en el camino hacia Dios no es que ardas un día, sino que permanezcas; no que comiences con fuerza, sino que persistas con sinceridad; no que ames la obediencia cuando conviene a tu ánimo, sino que le seas fiel cuando el placer se marcha y el deber permanece. Esa es la firmeza con la que el propio Señor de la creación fue ordenado:
+Por ello el éxito verdadero en el camino a Dios no es que te enciendas un día, sino que permanezcas; no es que comiences con fuerza, sino que continúes con sinceridad; no es que ames la obediencia cuando concuerda con tu humor, sino que sigas fiel a ella cuando se ausenta el placer y queda la encomienda. Y esa es la firmeza que se le ordenó al mismo señor de la creación:
 
-> ﴾Permanece, pues, recto como se te ha ordenado﴿ [Hūd: 112]
+> «Mantente recto como se te ha ordenado.» [Hūd: 112]
 
----
+### Conclusión: el apetito es la puerta del camino, no todo el camino
 
-### Cierre: El apetito es la puerta del camino, no el camino entero
+El apetito de la obediencia puede ser la puerta de entrada al camino, pero no debe ser todo el camino. En cuanto al camino mismo, se edifica sobre lo que es más hondo y más perdurable: sobre el amor, la fidelidad, la firmeza y el buen caminar hacia Dios, hasta que el siervo se encuentre con su Señor con el pie firme sobre el pacto, no interrumpido tras un impulso.
 
-El apetito por la obediencia puede ser la puerta por la que se entra al camino, pero no debe ser el camino entero. El camino mismo se edifica sobre lo más hondo y duradero: sobre el amor, la fidelidad, la firmeza y el bello viajar hacia Dios —hasta que el siervo se encuentre con su Señor con pie firme sobre el pacto, no cortado tras un arrebato.
+> «Y adora a tu Señor hasta que te llegue la certeza.» [al-Ḥiŷr: 99]
 
-> ﴾Y adora a tu Señor hasta que te llegue la certeza﴿ [Al-Ḥiŷr: 99]
-
-¡Dios mío! Así como despertaste en nosotros el anhelo de Ti, afirma nuestros pies, haz Tu amor más duradero en nosotros que el instante del fervor, y concédenos una obediencia con la que vivamos y en la que no nos consumamos.
+¡Oh, Dios! Así como despertaste en nosotros el anhelo hacia Ti, afírmanos el pie, y haz que Tu amor sea más perdurable en nosotros que el momento del entusiasmo, y perpetúa sobre nosotros una obediencia con la que vivamos, no en la que nos abrasemos.

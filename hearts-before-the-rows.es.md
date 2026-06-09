@@ -9,100 +9,100 @@ episode: 10
 readingMinutes: 13
 ---
 
-### Apertura: Cuando los pies se juntan
+### Entrada: cuando los pies se juntan
 
-Repara en la fila de la oración en el instante en que se pronuncia el iqāma: los pies alineándose en un bello orden geométrico, los hombros apretándose, y apenas ninguno de nosotros consiente en dejar un hueco entre sí y su vecino —hasta que los pies se tocan en una suerte de soldadura. Esto es bueno y está ordenado; la Ley Sagrada prestó a esta cercanía una atención manifiesta:
+Contempla la fila de la oración en el momento del iqāma: pies que se alinean con una compostura geométrica admirable, hombros que se aprietan, y casi ninguno de nosotros consiente en dejar una brecha entre él y su vecino, hasta que los pies se rozan en una especie de cohesión. Y esto es bueno y ordenado; la legislación se ocupó de esta compactación con un cuidado patente:
 
-> «Enderezad vuestras filas, pues enderezar las filas es parte del establecimiento de la oración.» [Acordado]
+> «Enderezad vuestras filas, pues enderezar las filas es parte de cumplir la oración.» [acordado por al-Bujārī y Muslim]
 
-Pero la pregunta que oprime el corazón es esta: tras este intenso cuidado por la alineación de los pies, ¿no hay algo aún más obligatorio? ¿No es la alineación de las **almas** más merecedora de este cuidado que la alineación de las filas?
+Pero la pregunta que insiste sobre el corazón: este cuidado extremo por la rectitud de los pies... ¿no hay tras él algo más obligatorio? ¿No es la rectitud de las **almas** más merecedora de este celo que la rectitud de las filas?
 
 ---
 
-### Cuando el Profeta ﷺ ató la fila al corazón
+### Cuando el Profeta (la paz sea con él) ligó la fila con el corazón
 
-Lo más asombroso aquí es que el Profeta ﷺ no hizo de la torcedura de la fila un asunto meramente geométrico; la hizo puerta hacia la torcedura de los corazones. Pasaba la mano por los hombros de sus Compañeros y decía:
+Y lo más admirable del asunto es que el Profeta (la paz sea con él) no hizo de la torcedura de la fila una mera cuestión geométrica, sino que la hizo una puerta hacia la torcedura de los corazones. Pasaba la mano por los hombros de sus Compañeros y decía:
 
-> «Alineaos, y no discrepéis, no sea que vuestros corazones discrepen.» [Muslim]
+> «Enderezaos y no os opongáis, no sea que se opongan vuestros corazones.» [transmitido por Muslim]
 
-Repara en este vínculo preciso: «no sea que vuestros corazones discrepen». La desalineación de los cuerpos en la fila no es un defecto en sí mismo; es señal de algo mucho más grave: la desalineación de los corazones. Y en otro hadiz hay una advertencia explícita:
+Contempla este enlace preciso: «no sea que se opongan vuestros corazones». La diferencia de los cuerpos en la fila no es una afección en sí misma, sino un indicio de lo que es más peligroso: la diferencia de los corazones. Y en otro hadiz hay una amenaza explícita:
 
-> «Habréis de enderezar vuestras filas, o Dios pondrá vuestros rostros en discordia.» [Acordado]
+> «Habéis de enderezar vuestras filas, o Dios enfrentará vuestros rostros.» [acordado por al-Bujārī y Muslim]
 
-Es como si la fila recta no fuera un fin en sí mismo, sino un **entrenamiento diario y práctico** en un sentido mayor: que las almas se acerquen como se acercan los cuerpos, y que los corazones se enderecen como se enderezan los pies.
+Es como si la fila recta no fuera un fin en sí misma, sino **un entrenamiento práctico y diario** en un sentido mayor: que las almas se acerquen como se acercan los cuerpos, y que los corazones se enderecen como se enderezan los pies.
 
 ---
 
 ### La brecha por la que entra el demonio
 
-El Profeta ﷺ explicó el cerrar los huecos de la fila como un cerrar las vías de entrada del demonio:
+El Profeta (la paz sea con él) explicó el cerrar las brechas en la fila aclarando que son vías de entrada para el demonio:
 
-> «Enderezad las filas, alinead los hombros, cerrad los huecos... y no dejéis aberturas para el demonio.» [Abū Dāwūd]
+> «Estableced las filas, alinead los hombros, cerrad los huecos... y no dejéis brechas para el demonio.» [transmitido por Abū Dāwūd]
 
-El asunto de que el demonio entre por el hueco es más hondo que la mera unión de los cuerpos; pues poco le importa al demonio que la gente deje un dedo de distancia entre sus pies, comparado con cuánto le interesa que dejen entre sí **millas de envidia, soberbia, distanciamiento y mala sospecha**. La más peligrosa de las brechas no es la que media entre dos pies, sino la que media entre dos corazones que la oración reunió y el mundo separó.
+Y la cuestión de la entrada del demonio por la brecha es más honda que la mera unión de los cuerpos; al demonio no le importa mucho que la gente deje un dedo entre sus pies, tanto como le importa que dejen entre sí **millas de envidia, soberbia, ruptura y mala sospecha**. La más peligrosa de las brechas no es la que hay entre los dos pies, sino la que hay entre dos corazones que reunió la oración y separó el mundo.
 
-Aquí se revela una paradoja dolorosa, digna de ser el eje de la reflexión:
+Y aquí se descubre una paradoja dolorosa que merece ser el eje de la reflexión:
 
-> Alineamos lo que media entre los pies por anchuras de dedo, y dejamos entre los corazones distancias que se miden en años.
-> Entonces, ¿cuál de las dos filas es más merecedora de alineación?
+> Enderezamos lo que hay entre los pies con los dedos, y dejamos lo que hay entre los corazones a distancias de años.
+> ¿Cuál de las dos filas es más merecedora de ser enderezada?
 
 ---
 
-### La ley de la brecha: cómo se ensancha el hueco entre los corazones
+### La ley del hueco: ¿cómo se ensancha la brecha entre los corazones?
 
-Porque el demonio no entra de una vez, sino por una pequeña brecha que luego ensancha, también el hueco entre los corazones no surge de súbito. Comienza tan fino como un cabello: una palabra por la que nunca se pidió perdón, una mirada mal interpretada, una mala sospecha que no se remendó, una rivalidad por el rango o el elogio, una pequeña envidia que se dejó hasta que creció, una disputa familiar cuyo tratamiento se aplazó hasta que se enconó. Una brecha leve que, de haberse cerrado en su inicio, se habría sellado; mas, al descuidarse, el demonio se cuela por ella y la ensancha, hasta volverse un abismo cuyo fondo no se ve.
+Y como el demonio no entra de una sola vez, sino por un pequeño hueco que luego ensancha, la brecha entre los corazones tampoco surge de repente. Comienza fina como un cabello: una palabra de la que no se pidió disculpa, una mirada cuya interpretación se torció, una mala sospecha que no se mejoró, una rivalidad por una posición o un elogio, una pequeña envidia que se dejó hasta que creció, y una desavenencia familiar cuyo tratamiento se aplazó hasta que se agravó. Un hueco leve que, si se cerrara al principio, se cerraría; y si se descuida, el demonio penetra por él y lo ensancha, hasta que se convierte en un abismo cuyo fondo no se ve.
 
-Esta es la ley que une la fila y el corazón en un solo patrón:
+Y esta es la ley que reúne la fila y el corazón en una sola norma divina:
 
-> Una brecha que se deja... un demonio que se cuela... una ruptura que se ensancha.
-> Y el remedio es la misma orden profética: «Cerrad la brecha» —antes de que se ensanche.
+> Un hueco que se deja... un demonio que penetra... una división que se ensancha.
+> Y el remedio es la misma orden profética: «cerrad el hueco» —antes de que se ensanche.
 
-Así, cuando el Profeta ﷺ nos ordenó cerrar la brecha en la fila, nos enseñaba una ley que gobierna los corazones antes que los pies: **apresúrate a sellar el hueco mientras aún es un cabello, antes de que se vuelva un muro**. Pide perdón antes de que la postura se endurezca; piensa bien antes de que la sospecha se asiente; restaura el lazo antes de que la ruptura se alargue. Jamás se ensanchó un hueco entre dos corazones sin que su comienzo fuera una pequeña brecha dejada al descuido.
+Cuando el Profeta (la paz sea con él) nos ordenó cerrar el hueco en la fila, nos enseñaba una ley que rige los corazones antes que los pies: **apresúrate a cerrar la brecha cuando es un cabello, antes de que se convierta en un muro**. Pide disculpas antes de que la postura se petrifique, piensa bien antes de que se afiance lo malo, y mantén el vínculo de parentesco antes de que se prolongue la ruptura. Pues ninguna brecha se ensanchó entre dos corazones sin que su comienzo fuera un pequeño hueco descuidado.
 
 ---
 
 ### Una escuela diaria para quebrar el ego
 
-Si reflexionamos sobre la oración en congregación, la hallamos una escuela diaria para forjar este sentido. Pues te yergues en la fila junto al rico y al pobre, al árabe y al no árabe, al anciano y al joven, al hombre de rango y al sencillo jornalero; alineas tu hombro con el suyo y aprietas tu pie contra el suyo, sin que ninguno de los dos tenga mérito alguno sobre el otro salvo por la piedad. Luego se te ordena dar un paso adelante o atrás por el orden de la congregación, no por tu posición. Es un entrenamiento práctico en quebrar el ego, y en que el ser humano se diluya en una fila donde nadie conoce su valor sino Dios solo.
+Y si contemplamos la oración en congregación, la hallaríamos una escuela diaria para fabricar este sentido. Tú estás de pie en la fila junto al rico y al pobre, al árabe y al no árabe, al mayor y al menor, al que tiene un cargo y al obrero sencillo; alineas su hombro y juntas tu pie con su pie, sin que ninguno de los dos tenga mérito salvo por la piedad. Luego se te ordena adelantarte o retroceder por el orden de la congregación, no por tu posición. Es una educación práctica en quebrar el ego, y en que el ser humano se diluya en una fila en la que nadie conoce su valor salvo Dios solo.
 
-Si la Ley Sagrada tanto se cuidó de que no entrara un pequeño hueco entre dos pies en una fila, ¿cómo podemos aceptar que permanezcan abismos enormes entre los corazones?
+Si la legislación se ha preocupado de que no entre una pequeña brecha entre dos pies, ¿cómo consentimos en que permanezcan brechas enormes entre los corazones?
 
 ---
 
 ### Cuando los pies se enderezan y los corazones se inclinan
 
-La realidad atestigua esta paradoja en todo lugar donde nos reunimos: puedes hallar a dos hombres en una sola fila cuyos pies se tocan, con una enemistad de diez años entre ellos. Puedes hallar a dos hermanos de pie, hombro con hombro, en la oración del Eid, y luego salir de la mezquita para que cada uno vuelva a esquivar al otro. Un esposo y una esposa pueden sentarse bajo un mismo techo, con una distancia entre sus almas tan ancha como la que media entre el oriente y el occidente.
+Y la realidad da testimonio de esta paradoja en cada lugar en que nos reunimos: puedes hallar a dos hombres en una sola fila cuyos pies se rozan, y entre ellos hay una enemistad de diez años. Puedes hallar a dos hermanos de pie en la oración del Eid hombro con hombro, y luego salen de la mezquita para que cada uno regrese a su ruptura. Y puede que dos cónyuges se sienten bajo un solo techo, y entre sus dos almas haya de distancia lo que hay entre el oriente y el occidente.
 
-Más aún, nos reunimos en los funerales en filas apretadas en torno a un difunto a quien nuestra cercanía no puede beneficiar, y luego solo nos hablamos en los duelos. Nos damos la mano cálidamente en las fiestas, y luego el distanciamiento regresa al cabo de unos días. El problema no es nuestra incapacidad de reunir los cuerpos, sino la incapacidad de las almas de unirse.
+Más aún, nos reunimos en los funerales en filas apretadas en torno a un muerto al que no le aprovecha nuestra compactación, y luego no se hablan unos a otros sino en los duelos. Y nos estrechamos las manos en las fiestas con calor, y luego regresa la ruptura tras unos días. El problema no está en nuestra incapacidad de reunir los cuerpos, sino en la incapacidad de las almas de reunirse.
 
 ---
 
-### Una nación que no se une en una sola mezquita... ¿cómo portará un mensaje?
+### Y una comunidad que no se reúne en una mezquita... ¿cómo porta un mensaje?
 
-Esta reflexión no es mera formación individual; yace en el corazón de la preocupación reformista. Pues una nación que fracasa en unir los corazones dentro de una sola mezquita —¿cómo se ha de esperar que armonice dentro de un gran proyecto civilizatorio? Si los musulmanes discrepan estando de pie hacia una sola alquibla, y millones de ellos circundan una sola Casa en el Hach, ¿cómo portarán un solo mensaje a los mundos?
+Y esta reflexión no es una educación individual solamente, sino que está en el meollo del afán de la reforma. Pues la comunidad que es incapaz de unir los corazones en una sola mezquita, ¿cómo se espera de ella que se concierte en un gran proyecto civilizatorio? Y si los musulmanes difieren estando de pie hacia una sola alquibla, y millones de ellos circunvalan en torno a una sola Casa en la peregrinación, ¿cómo portan un solo mensaje a los mundos?
 
-Enderezar la fila en la mezquita es un entrenamiento en miniatura para enderezar la fila en la vida. Quien no puede cerrar la brecha entre sí y su vecino en la oración no cerrará la brecha entre las facciones de una nación que sangra por sus huecos. El gran edificio no se sostiene sobre corazones discordes, por fuertes que sean sus brazos.
+Enderezar la fila en la mezquita es un entrenamiento en miniatura para enderezar la fila en la vida. Quien no pudo cerrar el hueco entre él y su vecino en la oración, no podrá cerrar el hueco entre las facciones de una comunidad que sangra por sus brechas. Y el gran edificio no se sostiene sobre corazones discordantes, por más fuertes que sean sus brazos.
 
 ---
 
 ### Un corazón sano, no una fila recta
 
-Quizá el Corán zanje la prioridad cuando habla del Día en que nada aprovecha sino la salud de lo interior:
+Y quizá el Corán zanja la prioridad cuando informa del Día en que no aprovecha sino la rectitud de lo íntimo:
 
-> ﴾El Día en que ni la riqueza ni los hijos aprovecharán, salvo a quien venga a Dios con un corazón sano﴿ [Ash-Shuʿarāʾ: 88-89]
+> «El Día en que no aprovecharán ni bienes ni hijos, salvo a quien venga a Dios con un corazón sano.» [al-Shuʿarāʾ: 88–89]
 
-No dijo: salvo a quien venga a Dios con una fila recta, ni con un cuerpo alineado, sino **con un corazón sano** —sano del rencor, la envidia, la soberbia y el distanciamiento. Enderezar la fila es una obra por la que el siervo es recompensado, pero es un medio hacia lo más duradero: un corazón que se encuentra con Dios puro. Y la unión de los corazones tras ello es una gracia de Dios de la que estamos en total necesidad y hacia cuyas causas nos esforzamos:
+No dijo: salvo a quien venga a Dios con una fila recta, ni con un cuerpo enderezado, sino **con un corazón sano**; sano del rencor, la envidia, la soberbia y la ruptura. La rectitud de la fila es una obra por la que el siervo es recompensado, pero es un medio hacia lo que es más perdurable: un corazón que se encuentra con Dios puro. Y la unión de los corazones después de eso es un favor de Dios que necesitamos y por cuyas causas nos esforzamos:
 
-> ﴾Y unió sus corazones. Aunque hubieras gastado todo lo que hay en la tierra, no habrías podido unir sus corazones; pero Dios los unió﴿ [Al-Anfāl: 63]
+> «Y unió sus corazones. Aunque hubieras gastado todo cuanto hay en la tierra, no habrías unido sus corazones, pero Dios los unió.» [al-Anfāl: 63]
 
-La riqueza reúne los cuerpos en un lugar; mas en cuanto a los corazones, nada los une sino Dios —cuando somos sinceros al pedírselo, y apartamos con nuestras propias manos cuanto podamos de las causas de la división, en cumplimiento de la orden unificadora: ﴾Y aferraos todos juntos a la cuerda de Dios, y no os dividáis﴿ [Āl ʿImrān: 103].
+Pues el dinero reúne los cuerpos en un lugar, mientras que los corazones no los une sino Dios, cuando somos sinceros al pedírselo y removemos con nuestras manos lo que podemos de las causas de la división, en cumplimiento de la orden global: «Y aferraos todos a la cuerda de Dios y no os dividáis.» [Āl ʿImrān: 103].
 
 ---
 
-### Cierre: ¿Cuál de las dos brechas es más digna de sellarse?
+### Conclusión: ¿cuál de las dos brechas es más digna de cerrarse?
 
-Uno de nosotros puede salir de la mezquita habiendo enderezado bellamente toda la fila, y sin embargo sin haber enderezado su corazón con su hermano. Puede lograr cerrar el hueco entre su pie y el de su vecino, y luego dejar un ancho hueco entre sí y su padre, o su hermano, o su cónyuge, o su socio.
+Puede que uno de nosotros salga de la mezquita habiendo enderezado bien toda la fila, pero sin haber enderezado bien su corazón con su hermano. Y puede que tenga éxito en cerrar la brecha entre su pie y el pie de su vecino, y luego deje una brecha ancha entre él y su padre, su hermano, su cónyuge o su socio.
 
-Y entonces la pregunta nos devuelve a donde empezamos: ¿cuál de las dos brechas es más digna de sellarse? ¿La que el imán endereza con una palabra antes del takbīr, o la que nada endereza sino un corazón que se ha humillado, una lengua que se apresuró a pedir perdón, y una mano tendida en reconciliación antes de que sea demasiado tarde?
+Y entonces nos devuelve la pregunta a donde comenzó: ¿cuál de las dos brechas es más digna de cerrarse? ¿La que endereza el imam con una palabra antes del takbīr, o la que no endereza sino un corazón que se humilló, una lengua que se apresuró a disculparse, y una mano que se extendió con la reconciliación antes de que pase la ocasión?
 
-¡Dios mío! Así como has alineado nuestros pies en Tus filas, une nuestros corazones sobre Tu obediencia, extrae el rencor de nuestros pechos, y haznos hermanos que se encuentren contigo con corazones sanos mientras nos erguimos ante Ti en filas rectas.
+¡Oh, Dios! Así como enderezaste nuestros pies en Tus filas, une nuestros corazones en Tu obediencia, extrae los rencores de nuestros pechos, y haznos hermanos que te encuentren con corazones sanos como estamos de pie ante Ti en filas rectas.
