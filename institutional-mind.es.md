@@ -1,143 +1,143 @@
-# Por qué las mezquitas de Occidente necesitan una mente institucional
-## De un árbol sin raíces a un edificio que cobija generaciones
-### Tercer episodio de «El imam en Occidente — Una escuela para forjar al líder»
+# ¿Por qué necesitan las mezquitas de Occidente una mente institucional?
+## De un árbol sin raíces a un edificio bajo cuya sombra se cobijan las generaciones
+### El tercer episodio de la serie «El imam en Occidente — una escuela para la fabricación del líder»
 
 ---
 
 ### Apertura: una mezquita sin memoria
 
-En un suburbio de Detroit, la junta de una mezquita de tamaño medio se reúne en su sesión mensual. Sobre la mesa hay cinco expedientes, ninguno de los cuales puede esperar:
+En uno de los suburbios de Detroit, se sienta la junta directiva de una mezquita de tamaño mediano en su reunión mensual. Sobre la mesa hay cinco expedientes, ninguno de los cuales espera:
 
-- Un presupuesto cuyas partidas la mayoría de los asistentes no comprende.
+- Un presupuesto cuyas partidas no comprende la mayoría de los presentes.
 - Una disputa sobre la identidad del próximo imam tras la partida del anterior.
-- Un gran donante que exige una «intervención» en el currículo.
-- Un contrato vencido con la empresa de climatización.
-- Declaraciones fiscales que vencen dentro de la semana.
+- Un gran financiador que pide una «intervención» en los programas educativos.
+- Un contrato vencido con la empresa de refrigeración.
+- Papeles fiscales que necesitan presentarse antes de una semana.
 
-El imam está presente, pero trabaja a retazos. El padre fundador de la mezquita, que la edificó veinte años antes, falleció el Ramadán pasado. Dejó tras de sí un archivo de expedientes en una habitación de la que nadie tiene la llave.
+El imam está presente, pero trabaja a destajo. El padre fundador de la mezquita hace veinte años murió el pasado Ramadán. Dejó tras de sí un archivo de expedientes en una habitación cuya llave nadie posee.
 
-Luego viene la crisis: **¿dónde están los registros originales de inscripción de los legados (awqāf) de la mezquita?** ¿Adquirió la mezquita esta parcela por compra o por donación? ¿Cuáles fueron las condiciones? ¿Puede venderse para edificar una nueva sala? Todos se vuelven hacia el silencio.
+Luego estalla la cuestión: **¿dónde están los registros antiguos de los legados (awqāf) de la mezquita?** ¿Adquirió la mezquita esta parcela de tierra por compra o por donación? ¿Y cuáles son las condiciones? ¿Es lícito venderla para construir un salón nuevo? Todos miran al vacío.
 
-Esta es una mezquita sin **memoria institucional** —una mezquita que opera sobre lo que los individuos llevan en sus cabezas, no sobre lo que una institución guarda en sus registros. En el momento en que uno de esos individuos muere, un pedazo del pasado y del futuro de la mezquita muere con él. Este no es un escenario ficticio; es una escena recurrente —con detalles variables— en muchas mezquitas occidentales hoy.
+Esta es una mezquita sin **memoria institucional**. Una mezquita que opera con lo que preservan individuos sueltos en sus cabezas, y no con lo que preserva la institución en sus documentos. Y cuando muere uno de estos individuos, se pierde una parte de la historia de la mezquita y su futuro a la vez. Esta no es una historia imaginada; esta es una escena repetida —con detalles variables— en muchas de las mezquitas de Occidente hoy.
 
-La pregunta que este episodio plantea es: **¿cómo opera una mezquita en Occidente con una mente institucional, en vez de operar por instinto, azar y la gracia personal de los individuos?**
+Y la pregunta que plantea este episodio: **¿cómo opera una mezquita en Occidente con una mente institucional, en lugar de operar con la intuición, la casualidad y la bendición de los individuos?**
 
 ---
 
 ### En este episodio — cuatro ejes
 
-1) **¿Qué es la «mente institucional»?** La capacidad de la institución de perdurar y evolucionar independientemente de los individuos que pasan por ella.
-2) **Cinco enfermedades que aquejan a las mezquitas occidentales**: el individualismo, la política interna, la falta de planificación estratégica, el caos financiero, la tensión junta-imam.
-3) **Cinco pilares remediadores**: visión, gobernanza, planificación estratégica, formación continua, transparencia.
-4) **¿Por qué vale el esfuerzo?** Porque una mezquita sin mente institucional es un árbol sin raíces.
+1) **¿Qué es la «mente institucional»?** La capacidad de la institución de permanecer y desarrollarse independientemente de los individuos.
+2) **Cinco dolencias que carcomen las mezquitas de Occidente**: el individualismo, la política interna, la no planificación, el caos financiero, la tensión entre la junta y el imam.
+3) **Cinco pilares de tratamiento**: la visión, la gobernanza, la planificación estratégica, la cualificación continua, la transparencia.
+4) **¿Por qué merece este esfuerzo?** Porque la mezquita sin mente institucional = un árbol sin raíces.
 
 ---
 
-### I. ¿Qué es la «mente institucional»?
+### Primero: ¿qué es la «mente institucional»?
 
-La mente institucional —en su definición más simple— es **la capacidad de la institución de sobrevivir y desarrollarse con independencia de los individuos que rotan por ella**. Es lo que hace que la mezquita funcione el lunes por la mañana tras la partida de su imam el domingo; lo que hace que el presupuesto sea inteligible para un sucesor que nunca asistió a las reuniones fundacionales; lo que hace que los legados estén protegidos después de que la generación de los fundadores haya pasado.
+La mente institucional —en su definición simple— es **la capacidad de la institución de permanecer y desarrollarse independientemente de los individuos que se turnan en ella**. Es lo que hace que la mezquita opere la mañana del lunes tras la partida de su imam el domingo, lo que hace que el presupuesto sea comprensible para un sucesor que no asistió a la reunión de fundación, y lo que hace que los legados estén preservados tras la generación de los fundadores.
 
-Este concepto no es una invención occidental. El Islam precedió a Occidente en esto mediante tres hitos:
+Este concepto no es una invención occidental. El islam se le adelantó en tres lugares:
 
-**Primero — el modelo de la Mezquita Profética**. El Profeta ﷺ desempeñó muchas funciones de liderazgo él mismo, pero encomendó a compañeros especializados roles distintos —Bilāl como almuédano, Muṣʿab ibn ʿUmayr como educador, ʿAlī en las cuestiones judiciales, Zayd ibn Ṯābit en la escritura, y Muʿādh en la jurisprudencia del Yemen. Estas no son figuras dispersas; forman **una temprana estructura institucional** edificada sobre la especialización y la delegación de autoridad.
+**Primero — el modelo de la Mezquita Profética**. El Profeta (la paz sea con él) cumplía muchas de las funciones del liderazgo, pero delegó a los Compañeros especializados los papeles del almuédano (Bilāl), el maestro (Muṣʿab ibn ʿUmayr), el juez (ʿAlī), el escriba (Zayd ibn Ṯābit), y el muftí (Muʿāḏ en Yemen). Estos no son personajes dispersos; son **una estructura institucional temprana** fundada en la especialización y la delegación de la competencia.
 
-**Segundo — la jurisprudencia de los awqāf (legados islámicos)**. Se desarrolló a lo largo de catorce siglos hasta volverse una disciplina independiente con reglas de inscripción, documentación, sucesión y supervisión. En *al-Mughnī* de Ibn Qudāma, capítulos enteros tratan del «nāẓir» —el administrador institucional del waqf— sus condiciones y sus facultades[^1]. No era libre de actuar a su antojo; estaba vinculado a las estipulaciones del fundador y era responsable ante el tribunal sharaico. Esto es **gobernanza** en su sentido más pleno.
+**Segundo — la jurisprudencia de los legados (awqāf)**. Se desarrolló a lo largo de 14 siglos hasta volverse una ciencia independiente, con condiciones de registro, documentación, herencia y supervisión. En el libro **al-Mugnī** de Ibn Qudāma, hay capítulos completos sobre «el administrador (nāẓir)» (el gestor institucional del legado), sus condiciones y sus competencias[^1]. Y el administrador no era libre en la disposición, sino restringido por la condición del donante y rendía cuentas ante el juez de la legislación. Este es **un modelo de gobernanza** en su más pleno sentido.
 
-**Tercero — la Mezquita-Universidad de Al-Azhar**. Fundada en el año 359 de la Hégira, aún se yergue tras 1.060 años. Los selyúcidas, los mamelucos, los otomanos, el dominio colonial británico, la revolución de 1952, y las transformaciones de nuestro siglo actual pasaron todos sobre ella —**y permaneció**. ¿Por qué? Porque la institución fue mayor que el más grande shaij que jamás la dirigió. Tiene legados documentados, libros transmitidos, currículos secuenciados, y cadenas de transmisión académica a través de las generaciones. Esta es la mente institucional islámica en su forma más madura.
-
----
-
-### II. Las enfermedades de la gestión en las mezquitas occidentales
-
-A partir de mi amplia experiencia dirigiendo el Departamento General de Orientación Religiosa del Ministerio de Awqāf de Egipto, y luego liderando centros islámicos en Toledo, Mesquite y Plano, puedo resumir las enfermedades más prevalentes de la gestión en las mezquitas occidentales en **cinco dolencias**:
-
-**La primera — el individualismo administrativo**. La mezquita se apoya en una sola persona (un imam o un fundador), de modo que cuando enferma o parte, el vacío se hace visible. Esto no es una mezquita; esto es **una ventanilla de servicios adosada a una persona**.
-
-**La segunda — la política interna**. Las juntas se fragmentan según afiliaciones —nacionales, sectarias, familiares, partidistas de los países de origen— y las reuniones se vuelven batallas electorales. La primera víctima de esta política: el imam, repetidamente destituido y reinstaurado.
-
-**La tercera — la ausencia de planificación estratégica**. Muchas mezquitas operan con una lógica de **reacción**: un donante pide un programa, así que lo hacemos; ocurre un incidente, así que respondemos; surge una sugerencia en una reunión, así que votamos. Sin un plan a cinco años. Sin metas definidas. Sin medición del impacto. **El resultado**: pasan diez años sin acumulación.
-
-**La cuarta — el caos financiero**. Cuentas mezcladas entre el zakat, las ṣadaqāt y los fondos operativos; donativos en efectivo sin recibos; informes anuales no publicados; gastos sin documentación. Luego viene un momento en que un contador pide un expediente antiguo y no lo encuentra. Esto no es un depósito sharaico —esto es **negligencia por intención**.
-
-**La quinta — la tensión junta-imam**. La junta se ve a sí misma como «la dueña de la mezquita» por derecho de fundación; el imam se ve a sí mismo como el líder académico por derecho de especialización. Surge una relación ambigua: ¿quién escribe el sermón? ¿Quién fija los currículos? ¿Quién arbitra las disputas de la comunidad? ¿Quién negocia con las escuelas y los medios? La ausencia de una carta escrita que defina la autoridad transforma la relación en **un conflicto personal**.
-
-Estas enfermedades están **interconectadas**: el individualismo engendra la política; la política bloquea la planificación; la planificación ausente abre la puerta al caos financiero; el caos financiero alimenta la tensión junta-imam. **Ninguna se trata en aislamiento**.
+**Tercero — la mezquita-universidad de al-Azhar**. Se fundó el año 359 H, y sigue en pie tras mil sesenta años. Pasaron por ella los selyúcidas, los mamelucos, los otomanos, el colonialismo británico, la revolución del 23 de julio y las mudanzas del siglo actual, **y permaneció**. ¿Por qué? Porque la institución era mayor que el mayor shayj que la dirigió. Tiene legados documentados, libros heredados, planes de estudio encadenados, y cadenas científicas a través de las generaciones. Esta es la mente institucional islámica en su forma más madura.
 
 ---
 
-### III. Los pilares de la mente institucional
+### Segundo: las enfermedades de la administración en muchas de las mezquitas de Occidente
 
-La cura requiere edificar **cinco pilares**, enseñados en la Academia Americana de Imames como parte del itinerario de formación en liderazgo:
+De mi experiencia extendida en la dirección de la Administración General de la Orientación Religiosa en el Ministerio de Legados Egipcio, y luego en la dirección de los centros islámicos en Toledo, Mesquite y Plano, puedo resumir las enfermedades administrativas comunes en muchas de las mezquitas de Occidente en **cinco dolencias**:
 
-**El primero — visión y misión escritas**: ¿Qué pretende lograr esta mezquita en los próximos cinco años? ¿A quién sirve? ¿Qué valores la unen? Sin un documento escrito, la racionalización es imposible en el momento del desacuerdo. La visión no es un eslogan para el pie de página del sitio web; es **la brújula de toda decisión**.
+**La primera dolencia — el individualismo administrativo**. La mezquita se apoya en una sola persona (un imam o un fundador), y si enferma o se marcha, se descubre todo el vacío. Esto no es una mezquita; esto es **una oficina de servicios dependiente de un individuo**.
 
-**El segundo — estatutos y gobernanza**: Un documento detallado que especifique quién elige a la junta y cómo; el alcance de su autoridad; el alcance de la autoridad del imam; quién firma los compromisos financieros y quién los audita; cómo se resuelven las disputas. Esta carta es **la constitución de la mezquita** —todo desacuerdo se resuelve por referencia a ella, no por una votación emocional.
+**La segunda dolencia — la política interna**. Las juntas directivas se dividen en alas según las pertenencias (nacionales, confesionales, familiares, orientaciones partidistas del país de origen), y se transforman las reuniones de la junta en batallas electorales. Y la primera víctima de esta política: el imam de repetida destitución y nombramiento.
 
-**El tercero — planificación estratégica plurianual**: Un plan de un mínimo de cinco años con metas anuales medibles. ¿Cuántos alumnos en la escuela coránica? ¿Cuántos programas de capacitación al año? ¿Qué base de voluntarios? ¿Qué presupuesto de mantenimiento? Revisado cada seis meses y actualizado frente a las nuevas circunstancias, pero nunca abandonado.
+**La tercera dolencia — la no planificación estratégica**. Muchas de las mezquitas operan con la lógica de **«la reacción»**: este financiador pide un programa, y lo hacemos; este suceso ocurrió, y le respondemos; esta es una propuesta en la reunión, y votamos sobre ella. Ningún plan quinquenal. Ningún objetivo concreto. Ninguna medición de impacto. **El resultado**: diez años pasan sin acumulación.
 
-**El cuarto — formación continua del liderazgo**: No solo el imam, sino también los miembros de la junta. Capacitación regular sobre gobernanza, gestión de voluntarios, gestión de crisis y jurisprudencia de los awqāf. Cuando un nuevo miembro se sienta en la junta sin capacitación, la mezquita entra en otro ciclo de ensayo y error. La Academia Americana de Imames ofrece programas de formación en liderazgo para las juntas de las mezquitas precisamente para cerrar esta brecha.
+**La cuarta dolencia — el caos financiero**. Cuentas mezcladas entre el azaque, las limosnas y los fondos de la administración, donaciones «en efectivo» sin recibos, informes anuales que no se publican, gastos sin documentación. Luego viene un momento en que un contador pide un expediente antiguo y no lo halla. Esto no es una confianza legislada —esto es una negligencia intencionada.
 
-**El quinto — transparencia y rendición de cuentas**: Informes anuales publicados, reuniones generales anuales de la comunidad, canales de comunicación claros, procedimientos de queja documentados. A más apertura, menos duda y conjetura. La transparencia no es un lujo; es **la condición previa del depósito sharaico** afirmado por el Corán: ﴿**Y cuando juzguéis entre las gentes, juzgad con justicia**﴾[^2], y por el dicho del Profeta: «**Cada uno de vosotros es un pastor, y cada uno de vosotros es responsable de su rebaño**»[^3].
+**La quinta dolencia — la tensión entre la junta directiva y el imam**. La junta directiva se ve a sí misma «la dueña de la mezquita» en virtud de su fundación, y el imam se ve a sí mismo el líder científico en virtud de su especialización, así que surge una relación de límites confusos: ¿quién escribe el sermón? ¿Quién determina los planes de estudio? ¿Quién zanja las disputas de la comunidad? ¿Quién negocia con las escuelas y los medios? La ausencia de un pacto escrito que determine las competencias transforma la relación en un conflicto personal.
 
----
-
-### IV. De la mezquita a la civilización
-
-¿Por qué merece hacerse todo este esfuerzo? Porque la mezquita que posee una mente institucional **lega**, y la mezquita que carece de ella **se derrumba con cada generación**.
-
-Reflexiona sobre Ibn Jaldún en *al-Muqaddima* cuando habló de cómo el impulso civilizatorio pasa entre las generaciones: «**La primera generación edifica, la segunda preserva, y la tercera consume y dilapida lo que sus padres edificaron**»[^4]. Esta advertencia, de seis siglos de antigüedad, es precisamente lo que presenciamos a diario en la comunidad musulmana en Occidente: los fundadores edifican una mezquita con un esfuerzo extraordinario, la segunda generación la preserva con dificultad, y la tercera generación —si no halla una estructura institucional que salvaguarde la herencia— la abandona. ¿Cuántas mezquitas estadounidenses se han quebrado así en una sola década? No preguntes.
-
-La mente institucional es **la respuesta intelectual y administrativa a la advertencia de Ibn Jaldún**. Cuando la fundación está documentada, la carta está escrita, los legados están cartografiados, y la segunda generación está capacitada antes de empezar a asumir la responsabilidad, se quiebra la soberanía de «la tercera generación dilapidadora», y la mezquita se vuelve una herencia viva, no un patrimonio en disputa.
-
-Y la dolorosa paradoja: los musulmanes han establecido en su historia las instituciones más duraderas del mundo (al-Azhar, al-Qarawiyyīn, al-Zaytūna, las escuelas Niẓāmiyya), y, sin embargo, nosotros en Occidente hoy edificamos mezquitas como si nuestra historia jamás hubiera conocido la gobernanza. **Esta no es una crisis de conciencia religiosa; es una crisis de desconexión del legado institucional que vivió mil años a nuestras espaldas**.
+Estas dolencias están **entrelazadas**: el individualismo crea la política, la política impide la planificación, la no planificación abre la puerta del caos financiero, y el caos atiza la tensión entre la junta y el imam. **No se trata ninguna de ellas aisladamente del resto.**
 
 ---
 
-### Conclusión: una mezquita sin mente institucional = un árbol sin raíces
+### Tercero: los pilares de la mente institucional
 
-Puedes plantar un árbol en tu sala de estar y regarlo cada día. Sus hojas brotarán y florecerá. Pero en el momento en que venga un viento fuerte, caerá —porque no tiene raíces.
+El tratamiento exige la construcción de **cinco pilares**, que los aprende quien se prepara en la Academia Americana de los Imanes como parte del plan de la cualificación de liderazgo:
 
-Toda mezquita que opera por intuición, esfuerzo individual, donativos en efectivo, y un imam solitario es un árbol de sala de estar: completo en apariencia, frágil al primer soplo. Toda mezquita que opera sobre una visión escrita, una gobernanza organizada, una planificación a cinco años, una formación continua, y una transparencia financiera es **un árbol arraigado en su suelo natal** —por fuertes que sean los vientos, se dobla pero no se quiebra.
+**El primer pilar — la visión y la misión escrita (Vision & Mission)**: ¿a qué apunta esta mezquita durante cinco años? ¿Y a qué comunidad sirve? ¿Y qué valores observa? Sin un documento escrito, se hace imposible la racionalización en la disputa. La visión no es un lema para el sitio web; es **la brújula de toda decisión**.
 
-La pregunta que este episodio te plantea —seas un imam, un miembro de la junta, un donante o un orante común: **¿es tu mezquita un árbol de sala de estar, o un árbol arraigado en su suelo natal?** Y si lo primero, ¿cuál es la única cosa que puedes empezar hoy para moverla hacia lo segundo?
+**El segundo pilar — la gobernanza y el pacto (Bylaws & Governance)**: un documento detallado que determina: ¿quién elige la junta y cómo? ¿Cuáles son sus competencias? ¿Cuál es el límite de la competencia del imam? ¿Quién firma el dinero y quién le rinde cuentas? ¿Cómo se resuelve el conflicto? Este pacto es **la constitución de la mezquita**, y toda disputa se resuelve volviendo a él, no con un voto emotivo.
 
-Porque el futuro de los musulmanes en Occidente no lo determinará el poderoso sermón del viernes, sino **la mente que gobierna la mezquita durante el resto de la semana**.
+**El tercer pilar — la planificación estratégica plurianual**: un plan quinquenal al menos, con objetivos anuales mensurables. ¿Cuántos estudiantes en la escuela del Corán? ¿Cuántos programas de entrenamiento al año? ¿Cuál es el volumen de los voluntarios? ¿Cuál es el presupuesto de mantenimiento? Se revisa cada 6 meses, y se modifica según las novedades, pero no desaparece.
+
+**El cuarto pilar — la cualificación continua de los liderazgos**: no solo el imam, sino también los miembros de la junta directiva. Un entrenamiento regular en: la gobernanza, la gestión de los voluntarios, la gestión de las crisis, la jurisprudencia de los legados. Cuando se sienta un miembro nuevo en la junta sin entrenamiento, la mezquita entra en un ciclo de ensayo y error de nuevo. La Academia Americana de los Imanes ofrece programas de cualificación para los liderazgos de mezquita para rellenar esta brecha.
+
+**El quinto pilar — la transparencia y la rendición de cuentas**: informes anuales publicados, asambleas generales anuales para la comunidad, canales de comunicación claros, un mecanismo de queja documentado. Y cuanto más aumenta la apertura, menos disminuyen la duda y la conjetura. La transparencia no es un **lujo**; es **una condición de la confianza legislada** que estableció el Corán con Su dicho: «**Y cuando juzguéis entre la gente, que juzguéis con justicia**»[^2], y el hadiz del Profeta (la paz sea con él): «**Todos vosotros sois pastores, y todos vosotros sois responsables de vuestro rebaño**»[^3].
+
+---
+
+### Cuarto: de la mezquita a la civilización
+
+¿Por qué merece todo este esfuerzo? Porque la mezquita que posee una mente institucional **lega**, y la mezquita que no la posee **se derrumba en cada generación**.
+
+Contempla a Ibn Jaldūn en **La introducción** cuando habló del paso de la construcción entre las generaciones: «**La primera generación construye, la segunda preserva, y la tercera consume y dilapida lo que construyeron sus padres**»[^4]. Este aviso hace 600 años es exactamente lo que vemos diariamente en la comunidad musulmana en Occidente: los fundadores construyen una mezquita con un esfuerzo sobrehumano, la segunda generación la preserva con dificultad, y la tercera generación —si no halla una estructura institucional preservadora— la abandona. ¿Cuántas mezquitas americanas se quebraron así en una sola década? No preguntes.
+
+La mente institucional es **la respuesta intelectual y administrativa a la profecía de Ibn Jaldūn**. Cuando se documenta la fundación, se escribe el pacto, se determinan los legados, y se cualifica la segunda generación antes de que comience el relevo, se quiebra el poder de «la tercera generación dilapidadora», y se vuelve la mezquita un legado vivo, no una herencia litigiosa.
+
+Y la paradoja dolorosa: los musulmanes establecieron en su historia las más antiguas instituciones (al-Azhar, al-Qarawiyyīn, al-Zaytūna, al-Niẓāmiyya), pero nosotros en Occidente hoy construimos mezquitas como si nuestra historia no hubiera conocido la gobernanza. **Esta no es una crisis de consciencia legislada; esta es una crisis de comunicación con el patrimonio institucional que vivió tras de nosotros mil años.**
+
+---
+
+### Conclusión: la mezquita sin mente institucional = un árbol sin raíces
+
+Puedes plantar un árbol en tu habitación, y regarlo cada día. Brotarán sus hojas y florecerá. Pero cuando venga un viento fuerte, cae de inmediato. Porque está sin raíces.
+
+Toda mezquita que opera con la intuición, el esfuerzo individual, las limosnas en efectivo y el imam único, es un árbol de habitación. Completo en lo aparente, frágil al primer viento. Y toda mezquita que opera con una visión escrita, una gobernanza organizada, una planificación quinquenal, una cualificación continua, y una transparencia financiera, es **un árbol en su brote** —por más que arrecien las tempestades, se inclina y no se quiebra.
+
+Y la pregunta que te plantea este episodio, oh lector de este artículo —seas un imam, o un miembro de una junta directiva, o un donante, o un orante ordinario—: **¿es tu mezquita un árbol de habitación, o un árbol en su brote?** Y si es lo primero, ¿qué es lo que puedes comenzar hoy para trasladarlo a lo segundo?
+
+Porque el futuro de los musulmanes en Occidente no se determina por el sermón fuerte el día del viernes, sino **por la mente que gobierna la mezquita durante el resto de los días**.
 
 ---
 
 ### Un paso práctico tras leer este episodio
 
-Siéntate con dos o tres miembros de la junta de tu mezquita y responded juntos una pregunta:
+Siéntate con dos o tres de la junta directiva de tu mezquita, y responded juntos a una sola pregunta:
 
-> **«¿Cuál de las cinco enfermedades se aplica más a nuestra mezquita hoy?»**
+> **«¿Cuál de las cinco dolencias se aplica a nuestra mezquita hoy?»**
 
-Luego elegid una enfermedad que todos coincidáis en que es la más peligrosa, y trabajad en remediarla en **30 días**. No aguardéis a la perfección ni al consenso completo sobre todo —comenzad con un solo pilar, y descubriréis que los cuatro restantes le siguen.
-
----
-
-### La serie «El imam en Occidente — Una escuela para forjar al líder»
-
-| Episodio | Título |
-|---------|-------|
-| Uno | De dirigir la oración a liderar la umma |
-| Dos | La forja del imam moderno: saber, gestión y contención pastoral |
-| **Tres (este episodio)** | **¿Por qué las mezquitas de Occidente necesitan una mente institucional?** |
-| Cuatro (próximamente) | El imam entre el dictamen individual y la voz colectiva |
+Luego elegid una sola dolencia sobre la que concordéis que es la más peligrosa, y obrad en su tratamiento durante **30 días**. No esperéis la perfección ni el acuerdo total sobre todo —comenzad por un solo pilar, y descubriréis que los cuatro pilares restantes siguen.
 
 ---
 
-### Notas
+### La serie «El imam en Occidente — una escuela para la fabricación del líder»
 
-[^1]: Ibn Qudāma, Abū Muḥammad ʿAbd Allāh b. Aḥmad, *al-Mughnī*, Libro del Waqf, capítulos sobre el nāẓir, sus condiciones y sus facultades —el tratamiento más extenso de la administración institucional del waqf en el legado jurídico islámico.
-
-[^2]: Sura de An-Nisāʾ, versículo 58.
-
-[^3]: Acordado; transmitido por al-Bujari (893, 7138) y Muslim (1829), por autoridad de Ibn ʿUmar (que Dios esté complacido con él).
-
-[^4]: Ibn Jaldún, ʿAbd al-Raḥmān b. Muḥammad, *al-Muqaddima*, Libro Segundo, el capítulo que dedicó a «el hecho de que la civilización no perdura en una sola etapa, y las generaciones de una sola dinastía no exceden por lo general de tres».
+| El episodio | El título |
+|---------|---------|
+| El primero | De la imamía de la oración a la imamía de la sociedad |
+| El segundo | La fabricación del imam contemporáneo: la ciencia, la administración y la contención psicológica |
+| **El tercero (este episodio)** | **¿Por qué necesitan las mezquitas de Occidente una mente institucional?** |
+| El cuarto (próximamente) | El imam entre el dictamen individual y la voz de la comunidad |
 
 ---
 
-*Escrito por el Imam Dr. Ahmed Mohamed Ali Abouseif —Doctor en Tafsīr y Ciencias Coránicas por la Universidad de Al-Azhar, ex Director del Departamento General de Orientación Religiosa del Ministerio de Awqāf de Egipto, y Fundador y Presidente de la Academia Americana de Imames en Plano, Texas.*
+### Las notas
 
-*Tercer episodio de la serie «El imam en Occidente — Una escuela para forjar al líder».*
+[^1]: Ibn Qudāma, Abū Muhammad ʿAbd Allāh ibn Aḥmad, *al-Mugnī*, el libro del legado, el capítulo sobre el administrador, sus condiciones y sus normas. Es la más larga investigación en la jurisprudencia de la gestión de las instituciones de legado en el patrimonio.
+
+[^2]: Sura de las Mujeres, aleya 58.
+
+[^3]: Acordado; lo transmitieron al-Bujārī (893, 7138) y Muslim (1829), de Ibn ʿUmar (Dios esté complacido con ambos).
+
+[^4]: Ibn Jaldūn, ʿAbd al-Raḥmān ibn Muhammad, *La introducción*, el segundo capítulo, el apartado que dedicó a «que la construcción no perdura en una sola fase, y que las generaciones de un solo Estado no rebasan las tres por lo general».
+
+---
+
+*Lo escribió el imam Dr. Ahmed Muhammad Ali Abouseif — doctor en exégesis y ciencias del Corán por la Universidad de al-Azhar, exdirector de la Administración General de la Orientación Religiosa en el Ministerio de Legados Egipcio, y fundador y presidente de la Academia Americana de los Imanes en Plano-Texas.*
+
+*El tercer episodio de la serie «El imam en Occidente — una escuela para la fabricación del líder».*

@@ -1,116 +1,116 @@
 # El imam en Occidente
-## De dirigir la oración a liderar la umma
-### Primer episodio de «El imam en Occidente — Una escuela para forjar al líder»
+## De la imamía de la oración a la imamía de la sociedad
+### El primer episodio de la serie «El imam en Occidente — una escuela para la fabricación del líder»
 
 ---
 
-### Apertura: Cuando el imam sale del miḥrāb
+### Apertura: cuando el imam sale del oratorio
 
-En una pequeña mezquita en las afueras de una ciudad estadounidense, el imam acaba de terminar la oración del Fajr. Mientras pliega su alfombra de oración, un joven de unos veinte años se le acerca pidiendo una reunión urgente antes de partir al trabajo. Luego le sigue una madre, preguntando por una escuela islámica para sus hijos —una para la que el imam no tiene una alternativa real que ofrecer. Luego un policía indaga sobre los detalles de un funeral musulmán. Luego un anciano da vueltas en torno al tema del divorcio de su hija sin atreverse a nombrarlo directamente. Luego llega una llamada de un funcionario de una escuela pública que busca aclaraciones sobre el ayuno de las niñas musulmanas en Ramadán.
+En una pequeña mezquita en las afueras de una ciudad americana, el imam terminó la oración del alba. Y mientras pliega su alfombra, se le acercó un joven de veinte años que pide un encuentro urgente antes de marcharse a su trabajo. Luego lo siguió una madre que pregunta por una escuela islámica para sus hijos a la que no halla alternativa. Luego un policía que indaga sobre los detalles de un funeral musulmán. Luego un anciano que ronda en torno al tema del divorcio de su hija sin atreverse a mencionarlo. Luego una llamada telefónica de un responsable de la escuela pública que pide aclaración sobre el ayuno de unas niñas musulmanas en Ramadán.
 
-Todo esto antes de que el sol haya salido del todo. Y todo esto antes de que el imam abra su teléfono y encuentre tres mensajes de familias en disputa, una solicitud urgente de dictamen de un médico musulmán que afronta una difícil decisión clínica, y una invitación a un diálogo interconfesional que lleva una semana en su bandeja de entrada.
+Todo esto antes de que salga el sol del todo. Y todo esto antes de que el imam abra su teléfono y halle tres mensajes de familias en disputa, un dictamen urgente de un médico musulmán sobre una decisión médica difícil, y una invitación a participar en un encuentro interreligioso publicada en el correo hace una semana.
 
-Esta no es una escena excepcional. **Esta es la vida diaria del imam en Occidente.** Y plantea una pregunta fundamental que los textos clásicos de fiqh por sí solos ya no pueden responder: **¿Qué significa ser imam en una sociedad carente de instituciones especializadas, donde la mezquita se vuelve el cajón de sastre de las necesidades religiosas, sociales, psicológicas y legales de toda una comunidad?**
-
----
-
-### I. El fundamento jurisprudencial: el imamato en la balanza
-
-En árabe, «imam» (الإمام) significa «aquel a quien se sigue» —derivado de la raíz que significa «aquello que se pretende y se persigue». En el derecho islámico, el imamato se divide en dos grandes categorías por consenso de los juristas de la teoría política islámica:
-
-**El Imamato Mayor (al-Imāma al-Kubrā)** —el califato general y el liderazgo de la umma en sus asuntos religiosos y mundanos. El Imam al-Māwardī lo definió como «**un sucesor de la profecía en la custodia de la religión y la gestión de los asuntos mundanos**»[^1] —el fundamento sobre el que se edifica toda la jurisprudencia del gobierno basado en la Sharia.
-
-**El Imamato Menor (al-Imāma al-Ṣughrā)** —dirigir a las gentes en la oración, cuyas virtudes están establecidas por los textos sagrados, entre ellos el dicho del Profeta ﷺ: «**El más versado en el Libro de Dios debe dirigir a las gentes.**»[^2]
-
-Pero entre el mayor y el menor, la tradición reconoce una tercera estación —rara vez nombrada y, sin embargo, presente a lo largo de todo: **«el imamato de las gentes en sus asuntos públicos»** —en las cuestiones judiciales, en la emisión de dictámenes, en la reconciliación de disputas, y en la gestión de los asuntos de la comunidad musulmana. El Imam al-Yuwaynī lo trató en su tratado **Ghiyāth al-Umam fī Iltiyāth al-Ẓulam**, previendo el derrumbe del imamato mayor y la transferencia de sus cargas a sabios capacitados que llenan el vacío en la medida de su capacidad[^3]. El Shaij al-Islām Ibn Taymiyya enfatizó repetidamente que «**el liderazgo de los asuntos de las gentes es de las más grandes obligaciones de la religión —es más, la religión misma no puede sostenerse sin él**»[^4], y que el imamato legítimo, en su sentido sharaico, une la dirección de la oración y el liderazgo de los asuntos públicos sin separación en su origen.
-
-Así, el imamato —en su balanza sharaica— es una sola gran función entretejida en un solo tejido: comienza en el miḥrāb y se extiende a toda la comunidad.
+Esta no es una escena excepcional. **Esta es la cotidianidad del imam en Occidente.** Y plantea una pregunta esencial que los libros de jurisprudencia clásicos solos ya no bastan para responder: **¿qué significa ser un imam en una sociedad que carece de instituciones especializadas, de modo que se dirige a la mezquita con todas sus necesidades religiosas, sociales, psicológicas y legales a la vez?**
 
 ---
 
-### II. La transformación histórica: cómo se separaron los dos imamatos
+### Primero: el enraizamiento jurídico — la imamía en la balanza
 
-En la temprana era islámica, el imamato permaneció unificado en ambas dimensiones: el califa dirigía a las gentes en la oración y establecía la justicia en los asuntos públicos; el juez pronunciaba el sermón del viernes y dictaba sentencia en las disputas; el imam de la mezquita era a menudo un muftí, un educador y un pacificador entre las gentes.
+En la lengua, «el imam» es aquel que es seguido, derivado de «umm» (el origen/la matriz), y es lo que se pretende y se sigue. Y en la legislación, la imamía es de dos grandes tipos por consenso de la gente de la jurisprudencia política islámica:
 
-En siglos posteriores, con la formación del Estado moderno en el siglo XIX, ocurrió una **separación institucional** entre los dos imamatos: el Estado asumió la responsabilidad de la ley, la judicatura y la administración, mientras que el imam se replegó a la mezquita. Su función quedó confinada al rito de la oración, el sermón del viernes y la recitación. Este arreglo funcionó en las tierras de mayoría musulmana porque el Estado se ocupaba de todo más allá de la oración misma.
+**La imamía mayor** — que es el califato general y el liderazgo de la comunidad en sus asuntos religiosos y mundanos. La definió el imam al-Māwardī como «**establecida para la sucesión de la profecía en la custodia de la religión y la gestión del mundo**»[^1], y sobre ella se edifica toda la jurisprudencia de la política legislada.
 
-Luego vino la generación de los inmigrantes a Occidente, solo para hallarse en sociedades donde **el Estado no gestiona los asuntos religiosos y sociales de los musulmanes**: sin tribunales islámicos de familia, sin administración de awqāf, sin autenticación de matrimonios, sin instituciones oficiales de dictamen. ¿Quién llena este vacío? Las gentes se volvieron a la mezquita, al imam, **exigiéndole lo que no se le había exigido en los dos siglos pasados**.
+**La imamía menor** — que es la imamía de la gente en la oración, sus méritos están establecidos por los textos, y de ellos Su dicho (la paz sea con él): «**Dirige al pueblo el mejor de ellos en la recitación del Libro de Dios**»[^2].
 
-Así, la realidad ha impuesto al imam occidental la **reunificación de los dos imamatos** —en la práctica, no en la teoría. Ya no puede bastarle con dirigir la oración sola; se ve compelido —quiéralo o no— a liderar a la comunidad.
+Pero entre la mayor y la menor hay un tercer rango que el patrimonio conoce y apenas nombra; es **«la imamía de la gente en sus asuntos generales»**: en la judicatura, el dictamen, la reconciliación entre la gente, y la gestión del asunto de la comunidad musulmana. La abordó el imam al-Ŷuwaynī en su libro **«El socorro de las naciones en la confusión de las tinieblas»**, cuando concibió la caída de la imamía mayor y el paso de sus cargas a los sabios cualificados que llenan el vacío según la capacidad[^3]. Y el Shayj del Islam Ibn Taymiyya afirmaba que «**la tutela del asunto de la gente es de los más grandes deberes de la religión, más aún, no hay establecimiento para la religión sino con ella**»[^4], y que la imamía considerada en la legislación es la que reúne entre la imamía en la oración y la imamía en el asunto general, no hay separación entre ambas en el origen.
 
----
-
-### III. La realidad operativa: siete círculos en un solo día
-
-A partir de más de dos décadas de experiencia de campo en grandes centros islámicos —desde la Mezquita Saad en Toledo (2006), pasando por el Centro Comunitario Musulmán de Toledo (2011–2016), al Centro Islámico de Mesquite en Texas (2016–2021), a la Mezquita de la Academia Americana de Imames (desde 2021)— las funciones reales del imam occidental hoy pueden resumirse en **siete círculos entrelazados**:
-
-**1) El círculo ritual** —dirigir las cinco oraciones diarias y la del viernes, pronunciar el sermón semanal, recitar y enseñar el Corán, dirigir las oraciones fúnebres (yanāza) y acompañar al difunto.
-
-**2) El círculo del dictamen** —responder preguntas sobre la adoración diaria y las transacciones contemporáneas (banca, préstamos, hipotecas, seguros, medicina, empleo en empresas de actividad mixta), y abordar cuestiones de fiqh sin referencia local.
-
-**3) El círculo familiar** —celebrar y autenticar matrimonios tanto islámica como civilmente, asesoramiento prematrimonial, mediación entre cónyuges, resolución de disputas de la familia extensa, ejecutar divorcios islámicos sincronizados con los procedimientos civiles estadounidenses.
-
-**4) El círculo educativo** —supervisar las escuelas coránicas de verano, preparar a los jóvenes para el matrimonio y la vida adulta, abordar las crisis de identidad en la segunda y tercera generaciones. **Y este círculo, en particular, afronta hoy a un adversario que ningún imam en la historia de los musulmanes ha encarado antes**: los algoritmos de los teléfonos móviles que rehacen la conciencia de nuestros hijos cada noche, plataformas que compiten por la mente adolescente siete horas al día o más, mientras que el imam solo tiene una hora cada viernes. El imam aquí ya no es simplemente un llamador a la fe —es el **amortiguador frente a una ola cultural**.
-
-**5) El círculo institucional** —gestionar la junta de fideicomisarios, la planificación financiera de la mezquita, negociar con contratistas, contadores y abogados, supervisar los programas de Ramadán, Eid y de temporada. Y aquí yace **la primera crisis silenciosa del imam**: a veces evaluado por su alineación con las alas políticas dentro de la junta más que por su competencia; la presión de los grandes donantes que puede volverse un dictado desde el púlpito; y los mensajes de medianoche de ciertos miembros que exigen una «aclaración» de un sermón que no les agradó. Quien no ha vivido esto no conoce el imamato en Occidente.
-
-**6) El círculo cívico más amplio** —negociar con las escuelas públicas respecto a sus alumnos musulmanes (oración, ayuno, hiyab, comida halal), la representación en foros interconfesionales, la presencia mediática durante las crisis, las relaciones con los concejos municipales y las oficinas del Congreso.
-
-**7) El círculo psicológico y espiritual** —acompañar a los enfermos en hospitales carentes de capellanes musulmanes, consolar a los afligidos, sostener a los que sufren depresión, escuchar a aquellos a quienes nadie más escucha. Y porque las preguntas son muchas y los capacitados pocos, el imam se halla a veces ante casos que exceden su competencia y, sin embargo, incapaz de rechazarlos.
-
-Siete círculos, un día, un imam, en una mezquita cuya capacidad administrativa quizá no exceda de una persona o dos.
+Pues la imamía —en la balanza legislada— es una función mayor que se ordena en un solo tejido: comienza del oratorio, y se extiende a la sociedad entera.
 
 ---
 
-### El precio que el imam paga en silencio
+### Segundo: la transformación histórica — ¿cómo se separaron las dos imamías?
 
-En medio de estos círculos, olvidamos —y la comunidad olvida— que el imam **es un ser humano que paga un precio**. La soledad que conoce el imam occidental es desconocida para su par en su país de origen: los colegas especialistas están lejos, los grandes dictámenes los carga solo, y las crisis llegan a su puerta a diario. El agotamiento psicológico se acumula lentamente hasta que de súbito estalla —un imam que dejó su puesto en el cénit de su servicio, otro que cayó en una depresión silenciosa, un tercero que se retiró porque su familia ya no pudo soportarlo.
+La imamía permaneció en el primer islam reuniendo estas dos dimensiones: el califa dirige a la gente en la oración y establece la justicia en los asuntos, el juez predica el viernes y zanja las disputas, y el imam de la mezquita puede ser muftí, educador y reformador entre la gente.
 
-Y la comunidad espera lo imposible: un sabio como al-Azhar, un orador como Abdul Basit, un administrador como un empresario, un consejero como un médico, un negociador como un diplomático, fluido en dos lenguas, presente en cada reunión, durmiendo cuatro horas por noche. Y porque es «el imam», no se le permite cansarse, disentir ni descansar.
+Y en las épocas posteriores, con la formación del Estado moderno en el siglo XIX, ocurrió una **separación institucional** entre las dos imamías: el Estado asumió los asuntos de la ley, la judicatura y la administración, y el imam se replegó a la mezquita, y su función se volvió el rito de la oración y lo que le sigue de sermón y recuerdo. Este modelo fue correcto en los países islámicos porque el Estado es el que asume lo que no es la oración.
 
-Esto no es una queja. Es una **realidad estructural** que debe nombrarse si buscamos una reforma genuina: un sistema no puede edificarse sobre los hombros de un solo hombre, y luego fingimos sorpresa cuando se derrumba.
+Luego vino la generación de los emigrantes a Occidente, y he aquí que están en sociedades **en las que el Estado no asume los asuntos religiosos y sociales de los musulmanes**: ninguna judicatura familiar islámica, ninguna administración de legados, ninguna documentación de matrimonio, ningún dictamen oficial. ¿Quién llena, pues, este vacío? Se dirigió la gente a la mezquita, y al imam, **pidiéndole lo que no se le pedía durante los dos siglos pasados**.
 
----
-
-### IV. El enfoque de la formación: ¿cómo preparamos al imam de esta generación?
-
-Ha quedado claro que el imamato en Occidente no puede edificarse sobre el saber sharaico solo —por sólido que sea— ni sobre la habilidad retórica sola. El imam contemporáneo requiere un **sistema de formación integral**, que combine:
-
-- **Un firme fundamento sharaico** en tafsīr, hadiz, jurisprudencia y sus principios, con cadenas de transmisión conectadas a la escuela azharí o sus equivalentes.
-- **Una jurisprudencia especializada de las minorías** que abarque las nawāzil (circunstancias nuevas) de los nuevos musulmanes y las cuestiones de los inmigrantes, mediante una metodología equilibrada entre el aislamiento y la asimilación.
-- **Habilidades de comunicación y oratoria en al menos dos lenguas** (árabe e inglés), con conciencia de los patrones cognitivos de la sociedad a la que se dirige.
-- **Psicología del asesoramiento** que le permita contener casos de depresión, ansiedad y trauma sin exceder su competencia.
-- **Conocimiento del derecho estadounidense** relativo al matrimonio, el divorcio, los testamentos, los fideicomisos y la libertad religiosa.
-- **Gestión institucional** asentada en la gobernanza, la transparencia y la planificación estratégica.
-- **Conciencia tecnológica crítica** —comprender los algoritmos de las redes sociales y su impacto, capaz de hablar de la inteligencia artificial y la ética digital no meramente como amenazas, sino como campos para la daʿwa.
-- **Una presencia mediática respetada** en los canales tanto tradicionales como digitales.
-
-Esta es la metodología adoptada por la **Academia Americana de Imames** desde su fundación en 2017 en Plano, Texas: preparar una generación de imames y *duʿāh* capaces de llevar a cabo los siete círculos, mediante una metodología sharaica azharí en origen y estadounidense en el campo, aliviando la carga del imam individual y haciendo del imamato un esfuerzo comunitario en vez de la tarea de una sola persona.
+Y así impuso la realidad al imam de Occidente **la reunión de nuevo de las dos imamías** como obra, no como teorización. Ya no le es posible contentarse con la imamía de la oración; se volvió obligado —quiera o no— a la imamía de la sociedad.
 
 ---
 
-### Conclusión: una misión civilizatoria, no meramente un oficio
+### Tercero: la realidad práctica — siete círculos en un solo día
 
-Cuando el musulmán en Occidente pregunta por el imam de su mezquita, en verdad pregunta por **el líder de su pequeña comunidad**. Y cuando el imam abandona este liderazgo —o cuando la comunidad lo deja derrumbarse solo— la comunidad musulmana queda sin cabeza. La reclaman entonces otros —los del capricho o el saber débil— y el sistema del dictamen se quiebra, las familias se dispersan, y la nueva generación pierde su brújula.
+De una experiencia de campo que se extiende en grandes centros islámicos —de la mezquita de Saʿd en Toledo (2006), al Centro Islámico de Toledo (2011–2016), al Centro Islámico de Mesquite, Texas (2016–2021), a la mezquita de la Academia de los Imanes (desde 2021)— se pueden resumir las funciones reales del imam de Occidente hoy en **siete círculos entrelazados**:
 
-El imam que capta la magnitud de esta responsabilidad, se prepara para ella mediante un sistema de formación completo, **y halla a su alrededor una institución que comparte la carga**, no lo hace por ampliar su empleo, sino por **restaurar el imamato a su forma original**: un imamato que une la oración y la comunidad, como fue en la temprana era islámica, y como la realidad de los musulmanes en Occidente exige hoy.
+**1) El círculo ritual** — la imamía de las cinco oraciones y el viernes, la pronunciación del sermón semanal, la recitación del Corán y su enseñanza, la oración del funeral y la despedida de los muertos.
 
-Es una misión civilizatoria, no meramente un sustento. Y quien la emprende en sus debidos términos **abre una puerta para una generación musulmana arraigada en su religión, capaz en su mundo, constructora de su propia civilización, y líder de quienes la siguen**.
+**2) El círculo del dictamen** — la respuesta a las preguntas de las adoraciones diarias y las transacciones modernas (bancos, préstamos, hipoteca, seguros, medicina, trabajo con empresas de actividades mixtas), y el examen de cuestiones jurídicas que no hallan una referencia local.
+
+**3) El círculo familiar** — el contrato de matrimonio y su documentación legislada y legal, la consultoría prematrimonial, la reconciliación entre los cónyuges, la mediación en las disputas familiares ampliadas, la realización del divorcio legislado conforme a los procedimientos civiles americanos sincronizados.
+
+**4) El círculo educativo** — la supervisión de las escuelas del Corán de verano, la cualificación de los jóvenes para el matrimonio y la vida, el trato con las crisis de identidad en la segunda y tercera generación. **Y este círculo precisamente enfrenta hoy a un adversario que no enfrentó imam alguno en la historia de los musulmanes**: los algoritmos de los teléfonos que reconfiguran la consciencia de nuestros hijos cada noche, y plataformas que nos compiten por la mente del adolescente siete horas al día y más, mientras que el imam no posee de él sino una hora cada viernes. El imam aquí no es un predicador, sino **un rompeolas de una ola cultural**.
+
+**5) El círculo institucional** — la gestión de la junta de fideicomisarios, la planificación financiera de la mezquita, la negociación con los contratistas, los contadores y los abogados, la supervisión de los programas de Ramadán y las fiestas. Y aquí reside **la primera crisis silenciosa del imam**: su evaluación a veces por la medida de su armonía con las alas políticas de la junta, no por la medida de su competencia. Y la presión de los grandes financiadores que puede transformarse en un dictado sobre el púlpito. Y los mensajes de algunos miembros a medianoche que piden una «aclaración» sobre un sermón que no les gustó. Quien no vivió esto, no conoce la imamía en Occidente.
+
+**6) El círculo social amplio** — la negociación con las escuelas públicas respecto de sus estudiantes musulmanes (la oración, el ayuno, el velo, el consumo de comida lícita), la representación en los foros interreligiosos, la presencia mediática en las crisis, las relaciones con los consejos municipales y las oficinas de los miembros del Congreso.
+
+**7) El círculo psicológico y espiritual** — el acompañamiento de los enfermos en hospitales sin un capellán musulmán, el consuelo de los enlutados, la contención de los deprimidos, la escucha de quien nadie escucha. Y como las preguntas son muchas y los cualificados pocos, el imam se halla a veces en casos que rebasan su especialidad y no puede desentenderse de ellos.
+
+Siete círculos, un solo día, un solo imam, en una mezquita cuya capacidad administrativa quizá no pase de una persona o dos.
 
 ---
 
-### Notas
+### El precio que paga el imam en silencio
 
-[^1]: Al-Māwardī, Abū al-Ḥasan ʿAlī b. Muḥammad, *al-Aḥkām al-Sulṭāniyya wa-l-Wilāyāt al-Dīniyya*, ed. Aḥmad Yād, Dār al-Ḥadīth, El Cairo, p. 15.
+Y en el fragor de estos círculos, olvidamos —y olvida la sociedad— que el imam es **un ser humano que paga un precio**. La soledad que conoce el imam de Occidente no la conoce el imam de su país de origen: los colegas de especialidad están lejos, los grandes dictámenes los porta solo, las crisis las recibe cada día. El agotamiento psicológico se acumula con lentitud hasta que estalla de repente —un imam que dejó su cargo en el auge de su entrega, otro que cayó en una depresión silenciosa, un tercero que se retiró porque su familia ya no soportaba.
 
-[^2]: Transmitido por Muslim en su Ṣaḥīḥ, Libro de las Mezquitas y los Lugares de Oración, Capítulo sobre «Quién tiene más derecho a dirigir la oración» (#673), narrado por Abū Masʿūd al-Anṣārī (que Dios esté complacido con él).
+Y la sociedad espera lo imposible: un sabio como el azharí, un orador como ʿAbd al-Bāsiṭ, un administrador como el hombre de negocios, un consejero psicológico como el médico, un negociador como el diplomático, que domine dos lenguas, que asista a toda reunión, y que duerma cuatro horas. Y como es «imam», no le es lícito cansarse, ni diferir, ni descansar.
 
-[^3]: Al-Yuwaynī, Abū al-Maʿālī ʿAbd al-Malik b. ʿAbd Allāh, *Ghiyāth al-Umam fī Iltiyāth al-Ẓulam*, ed. ʿAbd al-ʿAẓīm al-Dīb, Maktabat Imām al-Ḥaramayn —el capítulo que dedicó a la transferencia del imamato cuando su debido portador no está disponible.
-
-[^4]: Ibn Taymiyya, Taqī al-Dīn Aḥmad, *al-Siyāsa al-Sharʿiyya fī Iṣlāḥ al-Rāʿī wa-l-Raʿiyya*, Dār al-Kitāb al-ʿArabī, Introducción (pp. 7–9).
+Esto no es una queja. Esta es **una verdad estructural** que hay que mencionar si queremos una reforma verdadera: no es correcto construir un sistema sobre los hombros de un solo hombre, y luego asombrarnos cuando se derrumba.
 
 ---
 
-*Escrito por el Imam Dr. Ahmed Mohamed Ali Abouseif —Doctor en Tafsīr y Ciencias Coránicas por la Universidad de Al-Azhar, ex Director del Departamento General de Orientación Religiosa del Ministerio de Awqāf de Egipto, y Fundador y Presidente de la Academia Americana de Imames en Plano, Texas.*
+### Cuarto: el método de cualificación — ¿cómo preparamos al imam de esta generación?
 
-*Primer episodio de la serie «El imam en Occidente — Una escuela para forjar al líder».*
+Se hizo patente que la imamía de Occidente no se edifica sobre la ciencia legislada sola —por más sólida que sea— ni sobre la destreza oratoria sola. El imam contemporáneo necesita **un sistema de cualificación integral**, que reúna entre:
+
+- **Un fundamento legislado firme** en la exégesis, el hadiz, la jurisprudencia y sus fundamentos, conectado a las cadenas de la escuela azharí o sus semejantes.
+- **Una jurisprudencia especializada para las minorías** que abarque los casos de los musulmanes nuevos y las cuestiones de los emigrantes, con un método intermedio entre el encerramiento y la disolución.
+- **Destrezas de comunicación y oratoria en dos lenguas** al menos (el árabe y el inglés), con una consciencia de los patrones de pensamiento en la sociedad a la que se dirige.
+- **Una ciencia psicológica consultiva** que le permita contener los casos de depresión, ansiedad y trauma sin rebasar su especialidad.
+- **Un conocimiento de la ley americana** en lo que se relaciona con el matrimonio, el divorcio, los testamentos, los legados y el derecho a la libertad religiosa.
+- **Una gestión de instituciones** fundada en la gobernanza, la transparencia y la planificación estratégica.
+- **Una consciencia tecnológica crítica** —que comprenda los algoritmos de las redes sociales y su efecto en nuestros hijos, y que pueda hablar de la inteligencia artificial y la ética digital no como una mera amenaza, sino como un campo para el llamado.
+- **Una presencia mediática respetable** a través de los canales tradicionales y digitales.
+
+Este es el método que adopta la **Academia Americana de los Imanes** desde su fundación el año 2017 en Plano-Texas: la preparación de una generación de imames y predicadores capaz de cumplir estos siete círculos todos, conforme a un método legislado de origen azharí, americano de campo, que aligera la carga del imam individual, y hace de la imamía un proyecto de comunidad, no una misión de una persona.
+
+---
+
+### Conclusión: un mensaje civilizatorio, no una función de subsistencia
+
+Cuando el musulmán en Occidente pregunta por el imam de su mezquita, en realidad pregunta por **el líder de su pequeña sociedad**. Y cuando el imam renuncia a este liderazgo —o la sociedad lo deja derrumbarse solo— la sociedad musulmana se queda sin cabeza, y la captan otros de los de pasiones o débil ciencia, y se corrompe el sistema del dictamen, se dispersan las familias, y pierde la generación nueva su brújula.
+
+Y el imam que abarca la enormidad de esta responsabilidad, se prepara para ella con un sistema de cualificación completo, **y halla a su alrededor una institución que porta con él la carga**, no hace eso por la puerta de la expansión de la función, sino por la puerta de **la reanudación de la imamía en su rostro auténtico**: una imamía que reúne la oración y la sociedad, como era en el primer islam, y como la impone la realidad de los musulmanes en Occidente hoy.
+
+Es un mensaje civilizatorio, no una mera subsistencia. Y quien la cumple en su rostro debido, **abre una puerta para una generación musulmana arraigada en su religión, capaz en su mundo, fabricante de su civilización, y líder de quien viene tras ella**.
+
+---
+
+### Las notas
+
+[^1]: Al-Māwardī, Abū l-Ḥasan ʿAlī ibn Muhammad, *Las normas sultánicas y las tutelas religiosas*, edición de Aḥmad Ŷād, Dār al-Ḥadīṯ, El Cairo, p. 15.
+
+[^2]: Lo transmitió Muslim en su Ṣaḥīḥ, el libro de las mezquitas y los lugares de la oración, el capítulo sobre quién tiene más derecho a la imamía (673), de Abū Masʿūd al-Anṣārī (Dios esté complacido con él).
+
+[^3]: Al-Ŷuwaynī, Abū l-Maʿālī ʿAbd al-Malik ibn ʿAbd Allāh, *El socorro de las naciones en la confusión de las tinieblas*, edición de ʿAbd al-ʿAẓīm al-Dīb, Biblioteca del Imam de los Dos Santuarios, el capítulo que dedicó al paso de la imamía cuando se hace imposible.
+
+[^4]: Ibn Taymiyya, Taqī l-Dīn Aḥmad, *La política legislada en la reforma del pastor y el rebaño*, Dār al-Kitāb al-ʿArabī, la introducción (p. 7–9).
+
+---
+
+*Lo escribió el imam Dr. Ahmed Muhammad Ali Abouseif — doctor en exégesis y ciencias del Corán por la Universidad de al-Azhar, exdirector de la Administración General de la Orientación Religiosa en el Ministerio de Legados Egipcio, y fundador y presidente de la Academia Americana de los Imanes en Plano-Texas.*
+
+*El primer episodio de la serie «El imam en Occidente — una escuela para la fabricación del líder».*
