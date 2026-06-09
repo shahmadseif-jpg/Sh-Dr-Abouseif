@@ -1,247 +1,223 @@
 ---
-title: "El ala de la abubilla y la riada de al-ʿArim — La ley del auge y la caída en el Corán"
-subtitle: "Tercer episodio de la serie «El Corán y la Civilización» — Una lectura dialéctica de la sura de An-Naml y la sura de Sabaʾ entre la expansión civilizatoria y el repliegue"
+title: "El ala de la abubilla y la riada de al-ʿArim — la ley del ascenso y la caída en el Corán"
+subtitle: "El tercer episodio de la serie «El Corán y la civilización» — la dialéctica de las suras de las Hormigas y de Saba entre la expansión de la civilización y su repliegue"
 date: "2026-05-18"
 locale: "es"
 slug: "hudhud-and-sayl"
-series: "El Corán y la Civilización"
+series: "El Corán y la civilización"
 episode: 3
-readingMinutes: 16
+readingMinutes: 15
 ---
 
-## Preludio: La paradoja geográfica que el propio Corán diseña
+## Apertura: la paradoja geográfica que el Corán mismo anuda
 
-En la misma tierra arábiga, y dentro de aproximadamente la misma era, dos civilizaciones se alzaron en el relato coránico —y el propio Corán nos invita a leer sus destinos uno junto al otro:
+En la misma tierra de la Península Arábiga, y en el mismo tiempo aproximadamente, se irguieron dos civilizaciones en el relato coránico, y venimos a leer el destino de ambas:
 
-La primera: la civilización de Sulaymān ﷺ —que se expande, explora, llama a los demás, transfiere el saber entre las naciones.
+La primera: la civilización de Salomón (la paz sea con él) —se expande, explora, llama, transporta las ciencias entre las naciones.
 
-La segunda: las gentes de Sabaʾ —que estaban en «dos jardines, a derecha e izquierda», que dieron gracias por un tiempo, luego se apartaron, y siglos después se volvieron «meros relatos, y los desgarramos por completo en pedazos».
+La segunda: la civilización del pueblo de Saba —estaba en «dos jardines a la derecha y a la izquierda», agradeció un tiempo y luego renegó, y se volvió después de siglos «relatos: y los desgarramos en todo desgarro».
 
-Mira de cerca el paralelo que el propio Corán construye en su ordenación: **la sura de Sabaʾ se abre con el favor que Dios concedió a Dāwūd y Sulaymān** (las montañas y las aves, el manantial que mana de cobre fundido, el ablandamiento del hierro), **y luego pasa directamente a las gentes de Sabaʾ**. Como si la sura dijera: contempla estas dos civilizaciones lado a lado. Una dio gracias y se expandió; la otra negó y fue dispersada como meras historias.
+Contempla esta correspondencia que el Corán anuda en la composición con su propia mano: **la sura de Saba abre con la merced de David y Salomón** (las montañas y los pájaros, la fundición de la fuente de cobre, el ablandamiento del hierro), **luego pasa directamente al pueblo de Saba**. Como si la sura le dijera al lector: mira a las dos civilizaciones lado a lado. Una agradeció y se extendió, y la otra renegó y se dispersó en relatos.
 
-Esta yuxtaposición coránica no es accidental. Es una lección metodológica: **una civilización no se define por su geografía, sino por su postura ante el favor divino**. Y este tercer episodio de la serie «El Corán y la Civilización» presenta esta dialéctica a través de dos emblemas: el ala de la Abubilla como símbolo de la expansión, y la riada de al-ʿArim como símbolo del derrumbe.
-
----
+Esta contigüidad coránica no es una coincidencia. Es una lección metódica: **la civilización no se sostiene por su ubicación en la tierra, sino por su postura ante la merced**. Y el tercer episodio de la serie «El Corán y la civilización» plantea esta dialéctica en dos caras: el ala de la abubilla, símbolo del lanzamiento, y la riada de al-ʿArim, símbolo de la caída.
 
 ## En este episodio — cinco ideas
 
-> 1. **La dialéctica coránica**: ¿por qué coloca el Corán la civilización de Sulaymān junto a las gentes de Sabaʾ en el mismo arco?
+> 1. **La dialéctica coránica**: ¿por qué anuda el Corán la comparación entre la civilización de Salomón y el pueblo de Saba en un solo contexto?
 >
-> 2. **El léxico del giro civilizatorio**: de «el arco del individuo» en Yūsuf al «campo de la comunidad» en An-Naml.
+> 2. **El léxico del traslado civilizatorio**: de «la curva del individuo» en José al «campo de la comunidad» en las Hormigas.
 >
-> 3. **Los tres pilares de la expansión**: distribución de roles, exploración, transferencia de tecnología —una lectura de la civilización de Sulaymān.
+> 3. **Los tres pilares de la expansión**: la distribución de papeles, la exploración, la transferencia de tecnología — una lectura de la civilización de Salomón.
 >
-> 4. **El repliegue fatal**: ¿cómo se vuelven «dos jardines, a derecha e izquierda» en «meros relatos, dispersos»?
+> 4. **El repliegue mortal**: ¿cómo se transforman «dos jardines a la derecha y a la izquierda» en «relatos desgarrados»?
 >
-> 5. **La elección de hoy**: el musulmán en Occidente se halla entre dos modelos —¿se vuelve una Abubilla, o aguarda la riada?
+> 5. **La elección de hoy**: el musulmán en Occidente ante dos modelos — ¿será una abubilla, o esperará la riada?
 
----
+## Primero: de «la curva del individuo» al «campo de la comunidad»
 
-## I. De «el arco del individuo» al «campo de la comunidad»
+La serie en su gradación es intencionada. El primer episodio sobre la sura de la Caverna dibujó **los pilares teóricos de la civilización**. El segundo sobre José (la paz sea con él) dibujó **la curva del individuo ascendente** sobre cuyas manos nace una comunidad. Y el episodio que tienes entre manos nos traslada a lo que es más amplio: **el campo de la comunidad en movimiento**.
 
-La progresión de esta serie es intencional. El primer episodio sobre la sura de Al-Kahf trazó **los pilares teóricos de la civilización**. El segundo sobre Yūsuf ﷺ trazó **el arco del individuo ascendente** por cuyas manos nace una umma. Y el episodio que tienes entre manos nos lleva más allá: **el campo de la comunidad en movimiento**.
+Contempla la mutación de los vocablos de las suras entre José y las Hormigas-Saba:
 
-Observa el giro en el vocabulario entre Yūsuf y An-Naml-Sabaʾ:
+| En José | En las Hormigas y Saba |
+|---------|------------------|
+| La interpretación (9) | El ejército (repetido) |
+| La paciencia (4) | La merced (repetida) |
+| La tierra (17) | El reino, el país, la morada |
+| El individuo en movimiento | La comunidad reunida |
 
-| En Yūsuf | En An-Naml y Sabaʾ |
-|---------|---------------------|
-| Taʾwīl (interpretación, 9x) | Ŷunūd (huestes, recurrente) |
-| Ṣabr (paciencia, 4x) | Niʿma (favor, recurrente) |
-| Arḍ (tierra, 17x) | Mulk, balad, maskan (dominio, tierra, morada) |
-| El individuo en movimiento | La umma congregada |
+El traslado léxico es un traslado civilizatorio. La sura de José te pregunta: **¿cómo surge el cualificado líder?** La sura de las Hormigas-Saba te pregunta: **¿y quién está con él? ¿Y qué es lo que hacen con la merced de Dios en la tierra?**
 
-Este giro léxico es un giro civilizatorio. La sura de Yūsuf pregunta: **¿cómo se forma el líder capacitado?** La sura de An-Naml-Sabaʾ pregunta: **¿y quién está con él? ¿Y qué hacen con el favor de Dios en la tierra?**
+Esta gradación es lógica. No se sostiene una civilización con un solo individuo, aunque sea un José. Pero el individuo cualificado es el punto de lanzamiento, y la comunidad organizada es el campo de la realización.
 
-La progresión es lógica. Ninguna civilización se alza por un solo individuo, aunque sea Yūsuf. El individuo capacitado es el punto de partida; la comunidad organizada es el campo de la realización.
+## Una pausa antes de la expansión: el agradecimiento es el techo de la civilización y su cimiento
 
----
+Antes de exponer los pilares organizativos sobre los que se sostuvo la civilización de Salomón (la paz sea con él), conviene afirmar un fundamento que guarde el artículo —como guardamos el artículo de José— de deslizarse hacia la glorificación de la organización y la fuerza despojadas de su esencia.
 
-## Una pausa antes de la expansión: la gratitud es el techo y el cimiento
+Las dos suras —las Hormigas y Saba— son en realidad dos suras de **agradecimiento y renegación**, no dos suras de organización y caos. Y las pruebas de eso están en el texto mismo:
 
-Antes de presentar los pilares organizativos sobre los que se sostuvo la civilización de Sulaymān, debemos anclar un principio —como hicimos en el artículo de Yūsuf— que guarda este ensayo de deslizarse hacia una glorificación de la organización y el poder desligados de su esencia.
+- **Salomón (la paz sea con él) sella su sura con la súplica del agradecimiento**: «Señor, dispónme a que agradezca Tu merced con la que me has agraciado y con la que has agraciado a mis padres, y a que obre rectamente y Te complazcas» (las Hormigas 19). Como si el techo de la civilización para él fuera el agradecimiento, no el reino.
 
-Las dos suras —An-Naml y Sabaʾ— son en su núcleo suras de **gratitud y negación**, no de organización y caos. La prueba está en el texto mismo:
+- **Salomón (la paz sea con él) sonríe ante el dicho de la hormiga**: «Y sonrió riendo de su dicho». Contempla la humildad: un profeta rey sonríe ante una hormiga. La civilización salomónica no se ensoberbeció ante la más baja de las criaturas, ¿cómo, pues, se va a ensoberbecer ante su gente?
 
-- **Sulaymān ﷺ cierra su historia con una plegaria de gratitud**: «Señor mío, inspírame a dar gracias por Tu favor que me has concedido a mí y a mis padres, y a obrar el bien que apruebes» (An-Naml 19). Como si el techo de su civilización fuera la gratitud, no el dominio.
+- **El pueblo de Saba cayó cuando dejó el agradecimiento**: «y agradecedle» en su primera aleya, luego «pero se desviaron». Pues el Corán hace del agradecimiento el límite entre el ascenso y la caída, no de las posibilidades.
 
-- **Sulaymān ﷺ sonríe ante el habla de la hormiga**: «Sonrió, riéndose de sus palabras.» Repara en la humildad —un profeta-rey sonriendo a una hormiga. La civilización sulaymaniana no se ensoberbeció ante la más pequeña de las criaturas; ¿cómo, entonces, podría ensoberbecerse ante su propio pueblo?
+Así que los pilares organizativos que expondremos —la distribución de papeles, la exploración, la transferencia de tecnología— todos se apoyan en este fundamento devocional: **una civilización agradecida se expande, y una civilización renegada se repliega**. Y no comprenderemos los dos modelos sino si recordamos que Salomón suplicaba a su Señor con el agradecimiento incluso estando en la cúspide de su reino.
 
-- **Las gentes de Sabaʾ cayeron cuando abandonaron la gratitud**: «Y dadle gracias a Él» en su versículo de apertura, luego «pero se apartaron». El Corán hace de la gratitud —no de la capacidad— la línea divisoria entre el ascenso y el derrumbe.
+## Segundo: la civilización de Salomón — los tres pilares organizativos
 
-Los pilares organizativos que ahora presentaremos —distribución de roles, exploración, transferencia de tecnología— reposan todos sobre este cimiento devocional: **una civilización agradecida se expande, una negadora se repliega**. No comprenderemos los dos modelos a menos que recordemos que Sulaymān oró en gratitud a su Señor incluso en el cénit de su dominio.
+La sura de las Hormigas presenta a Salomón (la paz sea con él) en una imagen rara en las profecías: un profeta que reina, gestiona, explora, y se cartea con una reina en otro continente. Sus actos en la sura descubren tres pilares organizativos de su civilización.
 
----
+### El primer pilar: la distribución de papeles — una civilización de componentes múltiples
 
-## II. La civilización de Sulaymān — los tres pilares organizativos
+«Y fueron reunidos para Salomón sus ejércitos de genios, humanos y pájaros, y eran distribuidos en orden».
 
-La sura de An-Naml presenta a Sulaymān ﷺ en una imagen rara entre los profetas: un profeta que reina, administra, explora y se cartea con una reina en otro continente. Sus actos en la sura revelan tres pilares organizativos de su civilización.
+«Eran distribuidos» (yūzaʿūn): se ordenan en sus posiciones y no se mezclan. Ibn ʿĀšūr (Dios se apiade de él) dice que este verbo en árabe indica «la división del trabajo con orden, y la contención del caos». Pues el ejército salomónico no era una muchedumbre, sino **una institución de tipos múltiples que obra con especializaciones**.
 
-### El primer pilar: distribución de roles — una civilización de múltiples componentes
+Y contempla el patrón: tres géneros distintos (genios, humanos, pájaros), cada género con sus características, obrando juntos. Esta es una escena coránica de la que nos aprovechamos para comprender lo que Ibn Jaldūn llamó hace siete siglos «la cooperación para el sustento»: «Y no es posible la cooperación para el sustento sino que se especialice cada uno de ellos en un acto que baste a su gente».
 
-«Y fueron reunidas para Sulaymān sus huestes de entre los genios, los humanos y las aves —y eran dispuestos en filas (*yūzaʿūn*).»
+Y no olvides la hormiga reina en la sura misma: «Dijo una hormiga: ¡Oh, hormigas! Entrad en vuestras moradas». Ella organiza a sus súbditos, los advierte de un peligro, los dirige al refugio. Hasta la más baja de las criaturas en la sura de Salomón posee una distribución de papeles organizada.
 
-*Yūzaʿūn*: son ordenados en sus posiciones y no se mezclan. Ibn ʿĀshūr dice que este verbo en árabe denota «la ordenada división del trabajo y la prevención del caos». El ejército de Sulaymān no era una multitud, sino **una institución de múltiples géneros que obra mediante especializaciones**.
+**La aplicación a la comunidad**: la mezquita que opera con «voluntariado aleatorio» se derrumba. La mezquita que opera con «especializaciones» —comité de enseñanza, comité de legados, comité de jóvenes, comité de mujeres, comité de comunicación externa— es la que perdura. La diferencia entre los dos patrones es la diferencia entre la gente y «eran distribuidos en orden».
 
-Repara en el patrón: tres especies distintas (genios, humanos, aves), cada una con sus propiedades, trabajando juntas. Esta es una escena coránica de la que nos beneficiamos para comprender lo que Ibn Jaldún llamó hace siete siglos «la cooperación en el sustento»: «La cooperación en el sustento no es posible sino asignándose a cada uno una función con la que sirve a su pueblo.»
+### El segundo pilar: la exploración — la abubilla es un aparato de inteligencia civilizatorio
 
-No olvides a la hormiga reina en la misma sura: «Dijo una hormiga: "¡Oh hormigas! Entrad en vuestras moradas."» Ella organiza a su pueblo, lo advierte del peligro, lo dirige al refugio. Hasta los seres más pequeños en la sura de Sulaymān poseen una organizada división de roles.
+«Y pasó revista a los pájaros y dijo: ¿Qué tengo que no veo a la abubilla? ¿O es que está entre los ausentes?»
 
-**Aplicación a la comunidad**: Una mezquita que opera por «voluntariado aleatorio» se derrumba. Una mezquita que opera por «especializaciones» —un comité de educación, un comité de legados, un comité de jóvenes, un comité de mujeres, un comité de relaciones externas— perdura. La diferencia entre los dos modos es la diferencia entre «gentes» y «*yūzaʿūn*».
+Salomón (la paz sea con él) pasa revista. Esta es una palabra organizativa por excelencia. No se contenta con la presencia del ejército, sino que cuenta a quien se ausentó. Y no para castigar, sino para comprender —«¿o es que está entre los ausentes?» es una forma que interroga, no que acusa.
 
-### El segundo pilar: la exploración — la Abubilla como aparato de inteligencia civilizatoria
+Luego viene la abubilla con la noticia asombrosa: «He abarcado lo que no has abarcado, y te he traído de Saba una noticia cierta».
 
-«Y pasó revista a las aves y dijo: "¿Por qué no veo a la Abubilla? ¿O está entre los ausentes?"»
+Contempla la precisión de este conocimiento del otro:
+- **La verificación**: «he abarcado» —un conocimiento completo, no una mera observación.
+- **La distinción**: «lo que no has abarcado» —una información nueva que merece ser depositada.
+- **La documentación**: «una noticia cierta» —no un rumor ni una conjetura.
+- **La concisión**: «en verdad, hallé a una mujer que los gobierna y a la que se le ha dado de toda cosa» —tres oraciones que sintetizan el reino, la economía y la religión de una comunidad entera.
 
-Sulaymān ﷺ pasa lista. Esta es una palabra organizativa *por excelencia*. No se contenta con la mera presencia de las huestes; cuenta quién está ausente. Y no para castigar, sino para comprender —«¿O está entre los ausentes?» es una formulación que indaga, no que acusa.
+Esta es una escena coránica que funda lo que podemos llamar **«la consciencia exploratoria organizada»** —no en el sentido militar, sino en el sentido de **la capacidad de comprender al otro antes de tratar con él**. Salomón (la paz sea con él) no envió su ejército antes de enviar su abubilla. Y la civilización que se mueve sin explorar, da palos de ciego.
 
-Luego viene la Abubilla con el informe asombroso: «He abarcado lo que tú no has abarcado, y he venido a ti de Sabaʾ con noticias ciertas.»
+**La aplicación**: la comunidad musulmana en Occidente vive entre un público que ignora más de lo que conoce. Sabe qué dice el sabio sobre el púlpito, y no sabe qué lee el vecino en su periódico. El modelo salomónico nos llama a **establecer una abubilla institucional**: un equipo en cada gran centro que estudie la sociedad circundante, comprenda las políticas de la ciudad, lea las orientaciones de los medios. No para el conflicto, sino para la comunicación ilustrada.
 
-Examina la precisión de este conocimiento del otro:
-- **Verificación**: «He abarcado» —conocimiento completo, no mera observación.
-- **Distinción**: «lo que tú no has abarcado» —información nueva digna de depósito.
-- **Documentación**: «con noticias ciertas» —ni rumor ni conjetura.
-- **Concisión**: «Hallé a una mujer que los gobierna, y le ha sido dado de toda cosa» —tres frases que encapsulan al monarca, la economía y la religión de una nación entera.
+> **Una escena de una abubilla contemporánea**: un ingeniero musulmán en una de las grandes empresas de tecnología en Seattle notó que sus colegas no conocían del islam sino lo que transmiten los noticieros. Así que abrió en la cafetería de la empresa un «club de lectura mensual» en el que presenta libros de pensamiento islámico traducidos al inglés. Comenzó con tres colegas, luego siete, luego veinte. Después de tres años, dos de los asiduos abrazaron el islam. Una sola abubilla —un voluntario no financiado, que no viste turbante ni porta una cualidad predicadora— abrió con un libro una puerta que no abrieron diez predicadores sobre los púlpitos.
 
-Esta es una escena coránica que funda lo que podríamos llamar **«la conciencia exploratoria organizada»** —no en el sentido militar, sino en el sentido de **la capacidad de comprender al otro antes de tratar con él**. Sulaymān ﷺ no envió su ejército antes de enviar su Abubilla. Una civilización que se mueve sin sondear primero anda a tientas.
+### El tercer pilar: la transferencia de tecnología — el trono se mueve antes del parpadeo
 
-**Aplicación**: La comunidad musulmana en Occidente vive entre un público que conoce menos de lo que ignora. Conoce lo que el sabio dice desde el púlpito, y no lo que el vecino lee en su periódico. El modelo sulaymaniano nos invita a **crear una Abubilla institucional**: un equipo en cada gran centro que estudie la comunidad circundante, comprenda la política de la ciudad, lea las tendencias de los medios. No para la confrontación, sino para el trato informado.
+«Dijo aquel que tenía un conocimiento del Libro: yo te lo traeré antes de que vuelva a ti tu parpadeo».
 
-> **Una escena de una Abubilla contemporánea**: Un ingeniero musulmán en una de las grandes empresas de tecnología de Seattle notó que sus colegas no sabían nada del Islam más allá de lo que transmitían los boletines de noticias. Abrió en la cafetería de la empresa un «club de lectura mensual» que presentaba libros de pensamiento islámico traducidos al inglés. Comenzó con tres colegas, luego siete, luego veinte. Tras tres años, dos asistentes habituales abrazaron el Islam. Una sola Abubilla —un voluntario sin financiación, sin turbante y sin título clerical— abrió con un libro una puerta que diez predicadores no habían abierto desde sus púlpitos.
+El trono de Bilqís se traslada de Maʾrib (Yemen) a Jerusalén (Levante) en un abrir y cerrar de ojos. Los exegetas se extendieron mucho en la interpretación de esta aleya, pero lo que le importa al lector civilizatorio es la pregunta: **¿por qué hizo Salomón eso en absoluto?**
 
-### El tercer pilar: la transferencia de tecnología — el trono se mueve antes de que la mirada regrese
+«Dijo: disfrazadle su trono; veremos si se guía o es de los que no se guían».
 
-«Aquel que tenía un conocimiento del Libro dijo: "Yo te lo traeré antes de que tu mirada vuelva a ti."»
+No trasladó el trono para apropiárselo, sino para **abrir un diálogo fundado en una prueba técnica**. Como si le dijera a Bilqís: «Este es nuestro poder. Queremos que anudes tu vínculo con la verdad a través de algo que conoces». El deslumbramiento no es un fin, sino **un puente hacia la fe**.
 
-El trono de Bilqīs es transportado de Maʾrib (Yemen) a Jerusalén (Sham) en un parpadeo. Los exégetas han escrito mucho sobre la mecánica de este versículo, pero lo que concierne al lector civilizatorio es la pregunta: **¿por qué hizo Sulaymān esto en absoluto?**
+Este es un modelo civilizatorio elevado: **la superioridad técnica se emplea al servicio del llamado, no para la arrogancia en la tierra**. Salomón (la paz sea con él) posee «un reino que no conviene a nadie después de mí», y, con todo, se cartea con una reina, disfraza su trono con delicadeza, y le abre el campo de la elección: «¿se guía o es de los que no se guían?».
 
-«Dijo: "Disfrazadle su trono —veremos si será guiada o será de los que no son guiados."»
+**La aplicación**: los musulmanes en Occidente poseen herramientas técnicas innumerables —cardiólogos, ingenieros nucleares, científicos informáticos. ¿Cuántos de estos usan su superioridad técnica como un puente para el llamado? ¿Cuántos médicos musulmanes invitan a su discípulo que se graduó con ellos a una cena en su casa, y halla en ella un Corán entre los libros, un alimento lícito sobre la mesa, e hijos respetuosos? Este es **el trono de Salomón** en su forma contemporánea.
 
-No movió el trono para guardarlo para sí, sino **para abrir un diálogo asentado sobre una evidencia técnica**. Como si dijera a Bilqīs: «He aquí nuestra capacidad. Queremos que reconozcas la verdad a través de algo que conoces.» La ostentación no es la meta; es **un puente hacia la fe**.
+## Tercero: Bilqís y la razón consultiva — una reina que no es despótica
 
-Este es un modelo civilizatorio refinado: **la excelencia técnica se despliega al servicio del mensaje, no para la arrogancia sobre la tierra**. Sulaymān ﷺ posee «un reino que no corresponderá a nadie después de mí», y sin embargo escribe a una reina, transforma suavemente su trono, y le da espacio para elegir: «¿Será guiada, o estará entre los que no lo son?»
+En medio de esta civilización en expansión, aparece un personaje femenino coránico de los más asombrosos personajes del Libro: la reina de Saba. Y el Corán transmite de ella una palabra que merece la contemplación:
 
-**Aplicación**: Los musulmanes en Occidente poseen incontables capacidades técnicas —cardiólogos, ingenieros nucleares, científicos de la computación. ¿Cuántos de ellos usan su excelencia técnica como puente para el mensaje? ¿Cuántos médicos musulmanes invitan al colega con quien se graduaron a cenar en su hogar, donde el colega halla un Corán entre los libros, comida halal en la mesa, hijos respetuosos? Este es **el trono de Sulaymān** en su forma contemporánea.
+«Dijo: ¡Oh, dignatarios! Aconsejadme en mi asunto; no he decidido un asunto sin que vosotros lo atestigüéis».
 
----
+Una reina de gran trono, y de imponente ejército, consulta. «No he decidido un asunto» —no zanja las grandes causas sin consejo. Esto es siglos antes del Profeta del islam (la paz sea con él), y antes de que Occidente conociera la palabra «democracia».
 
-## III. Bilqīs y la mente consultiva — una reina que no tiraniza
+¿Acaso el Corán la elogia porque es incrédula? No. El Corán transmite de ella esta palabra en un contexto elogioso, porque la consulta es una virtud en sí misma, aunque proceda de quien no se ha guiado aún. Como si el Corán dijera: **la razón consultiva es salud, aun antes de la guía**.
 
-En medio de esta civilización en expansión, aparece una notable figura femenina coránica: la Reina de Sabaʾ. El Corán registra de ella una frase que merece contemplación:
+Pero esta razón consultiva —pese a su mérito— no fue por sí sola suficiente para su salvación. Pues adoraba el sol en lugar de Dios, y le vino el monoteísmo de fuera de su consejo. La sabiduría humana es un medio, y la guía divina es un fin. Y si la consulta sola fuera suficiente, habría salvado a toda sociedad que consulta.
 
-«Dijo: "¡Oh consejo! Aconsejadme en mi asunto —no soy de las que deciden una cosa hasta que vosotros deis testimonio."»
+Luego se guía Bilqís. Y abraza el islam. Y su trono que vimos disfrazarse al comienzo de la historia se vuelve parte de la civilización salomónica. **La civilización que explora no conquista con la espada, sino con el argumento y la prueba.**
 
-Una reina con un gran trono y un poderoso ejército —y consulta. «No soy de las que deciden una cosa» —no resuelve las grandes causas sin consulta. Esto es siglos antes del Profeta ﷺ, y antes de que Occidente conociera la palabra *democracia*.
+## Cuarto: la caída — ¿cómo se derrumba una civilización que agradeció y luego renegó?
 
-¿Acaso el Corán la elogia por ser una incrédula? No. El Corán narra esta frase en un contexto de elogio, porque la consulta es una virtud en sí misma, aun cuando provenga de quien aún no ha sido guiado. Como si el Corán dijera: **la mente consultiva es una salvaguarda, aun antes de la guía**.
+«Ciertamente había para Saba en su morada una señal: dos jardines a la derecha y a la izquierda. Comed del sustento de vuestro Señor y agradecedle: una buena tierra y un Señor indulgente».
 
-Mas esta mente consultiva —con todo su mérito— no bastó por sí sola para salvarla. Adoraba al sol junto a Dios, y el monoteísmo le llegó de fuera de su consejo. La sabiduría humana es un medio; la guía divina es el fin. De haber bastado la consulta sola, toda comunidad que consulta se salvaría.
+Comienza con la merced: «dos jardines a la derecha y a la izquierda» —no un solo jardín, sino dos, que rodean la morada con un rodeo de seguridad. «Una buena tierra» —una descripción coránica rara que recuerda la bendición. «Un Señor indulgente» —la puerta está abierta para el arrepentimiento ante el desliz.
 
-Luego Bilqīs es guiada. Se somete. Y el trono que vimos siendo disfrazado al comienzo de la historia se vuelve parte de la civilización sulaymaniana. **Una civilización que explora no se abre por la espada, sino por la evidencia y la prueba**.
+Luego viene el momento decisivo: «pero se desviaron».
 
----
+Una sola palabra. Sin detalle de aquello de lo que se desviaron, ni de cómo fue la desviación, ni de lo que ennegreció sus corazones. **La desviación es una elección completa en una palabra.**
 
-## IV. El derrumbe — ¿cómo cae una civilización que dio gracias y luego negó?
+Luego el resultado: «Así que enviamos contra ellos la riada de al-ʿArim, y les cambiamos sus dos jardines por dos jardines de fruto amargo, tamariscos y algo de azufaifo escaso».
 
-«Había para Sabaʾ en su morada un signo: dos jardines, a derecha e izquierda. Comed de la provisión de vuestro Señor y dadle gracias —una buena tierra y un Señor perdonador.»
+La riada de al-ʿArim. Esta palabra en la exégesis de Ibn Kaṯīr y al-Ṭabarī: la riada que quebró la gran presa de Maʾrib. Pero en la lectura civilizatoria es **un símbolo, no un suceso**: la riada es lo que viene cuando se sacuden los cimientos sobre los que edificaste y no renovaste.
 
-Comienza con el favor: «dos jardines, a derecha e izquierda» —no un jardín, sino dos, rodeando la morada con el abrazo de la seguridad. «Una buena tierra» —un raro epíteto coránico que evoca la bendición. «Un Señor perdonador» —la puerta del arrepentimiento dejada abierta en cada tropiezo.
+Luego el final estruendoso: «Así que los hicimos relatos y los desgarramos en todo desgarro».
 
-Luego viene el momento decisivo: «pero se apartaron».
+«Relatos» —no historia, no civilización, no comunidad. Meros cuentos que se narran para la lección. «Y los desgarramos en todo desgarro» —se dispersaron las tribus de Saba en la tierra, algunas hacia el Levante, algunas hacia Omán, algunas se quedaron. El nombre civilizatorio de «Saba» se esfumó, y no quedó de él sino un nombre en un mapa antiguo.
 
-Una sola palabra. Ningún detalle sobre de qué se apartaron, sobre cómo ocurrió el apartamiento, sobre qué manchó sus corazones. **Una elección completa en una sola palabra**.
+**Esta es la caída coránica en su forma condensada**: una merced, una desviación, una riada, un desgarro. Cuatro palabras. Cuatro etapas. **La comunidad puede caer en dos generaciones.**
 
-Luego la consecuencia: «Así enviamos sobre ellos la riada de al-ʿArim, y sustituimos sus dos jardines por dos jardines de fruto amargo, tamariscos, y unos pocos árboles de *sidr*.»
+## Quinto: la dialéctica contemporánea — ¿somos una abubilla, o esperamos la riada?
 
-La riada de al-ʿArim. Según Ibn Kaṯīr y al-Ṭabarī, esta fue la riada que rompió la gran presa de Maʾrib. Pero en la lectura civilizatoria es **un símbolo, no meramente un suceso**: la riada es lo que llega cuando los cimientos sobre los que edificaste tiemblan porque no los renovaste.
+Las suras de las Hormigas y de Saba, si las vuelcas sobre la realidad de la comunidad musulmana en Occidente, te dibujan dos modelos centrales entre los que eliges:
 
-Luego el final resonante: «Así los hicimos meros relatos, y los desgarramos por completo en pedazos.»
+### El modelo salomónico (la expansión)
 
-«Meros relatos» —ni una historia, ni una civilización, ni una umma. Meras historias que se cuentan por lección. «Los desgarramos por completo en pedazos» —las tribus de Sabaʾ se dispersaron por la tierra, unas a Sham, otras a Omán, otras quedaron. El nombre civilizatorio «Sabaʾ» se disolvió, dejando solo un nombre en un mapa antiguo.
+Una mezquita que envía delegaciones a las sociedades circundantes. Abre su puerta al vecino en un «día de puertas abiertas» anual. Se coordina con las iglesias en las causas de la justicia social. Entra en los consejos de los barrios (City Council). Educa sabios que publican en las revistas científicas en inglés, no solo en las revistas legislativas en árabe. Se aprovecha de los éxitos técnicos de sus individuos como puentes para el llamado. Envía una abubilla (una oficina de investigación) que lee la sociedad antes de hablarle.
 
-**Este es el derrumbe coránico en su forma condensada**: favor, apartamiento, riada, dispersión. Cuatro palabras. Cuatro fases. **Una umma puede caer en dos generaciones**.
+Esta mezquita se expande. Aumentan sus frecuentadores. Vienen a ella los hijos de los vecinos no musulmanes porque su amigo en la escuela dijo que allí ocurre «algo cool» el domingo. Brotan de ella sabios, predicadores y administradores.
 
----
+### El modelo sabeo (el repliegue)
 
-## V. La dialéctica contemporánea — ¿somos una Abubilla, o aguardamos la riada?
+Una mezquita que se repliega sobre sus frecuentadores. No abre su puerta sino para las oraciones. No enseña el árabe al vecino. Sus legados están amontonados en cuentas bancarias que no benefician. El imam predica en un árabe que ignora la mitad de los orantes. La junta discute el presupuesto de las alfombras, y no discute cómo llegar a los jóvenes desconectados de la religión.
 
-La sura de An-Naml y la sura de Sabaʾ, cuando se vuelven sobre la realidad de la comunidad musulmana en Occidente, trazan dos modelos centrales entre los que elegir:
+Esta mezquita no estalla de repente. **Se desmenuza con lentitud.** La primera generación muere. La segunda generación viene poco. La tercera generación olvida. Luego viene una riada —puede ser una crisis económica, o una migración forzada, o una discordia interna— y la desgarra «en todo desgarro».
 
-### El modelo sulaymaniano (expansión)
+> **Una escena de una mezquita sabea**: en un pequeño estado del sur americano, se fundó una mezquita en 1998 con el esfuerzo de treinta familias emigrantes. La oración del viernes se llenaba con cuatrocientos orantes. Hoy, después de dos generaciones, el número de orantes no pasa de quince. La primera generación murió o emigró, y de los hijos de los fundadores originales algunos dejaron el islam, algunos conservaron el nombre y arrojaron la religión tras de sí, y algunos se trasladaron a las grandes ciudades. Nadie sabe exactamente cuándo ocurrió esto, ni cómo. Pero la riada vino —lenta, silenciosa, firme. Y los legados que se reunieron en la cuenta de la mezquita apenas bastan para el presupuesto de la electricidad.
 
-Una mezquita que envía delegaciones a las comunidades circundantes. Abre sus puertas a los vecinos en una «jornada de puertas abiertas» anual. Se coordina con las iglesias en cuestiones de justicia social. Entra en las reuniones del concejo municipal. Cultiva sabios que publican en revistas académicas en inglés, no solo en revistas religiosas árabes. Aprovecha los éxitos técnicos de sus miembros como puentes de daʿwa. Despacha una Abubilla (una mesa de investigación) para leer a la comunidad antes de dirigirse a ella.
+## Sexto: el desafío que el Corán descubre
 
-Esta mezquita se expande. Sus asistentes aumentan. El hijo del vecino no musulmán acude a ella porque su amigo de la escuela dijo que algo «genial» ocurre los domingos. De ella brotan sabios, llamadores y administradores.
+¿Sabes por qué se contiguan la sura de las Hormigas y la sura de Saba en el Códice? Entre ambas hay una sola sura (el Relato), y ambas hablan del rey Salomón. Pero la sura de las Hormigas presenta **la cúspide civilizatoria**, y la sura de Saba presenta **la caída de quienes estaban en su seno**.
 
-### El modelo sabeo (repliegue)
+Las Hormigas: el desafío de la civilización ascendente — ¿puedes abrirte?
+Saba: el desafío de la civilización que resiste — ¿puedes continuar?
 
-Una mezquita que se repliega sobre sus habituales. Abre sus puertas solo para las oraciones. No enseña árabe al vecino. Sus legados acumulados en cuentas bancarias que no dan fruto. El imán predica en un árabe que la mitad de la congregación no entiende. La junta debate el presupuesto de la alfombra, pero no cómo llegar a los jóvenes desconectados de la religión.
-
-Esta mezquita no estalla de súbito. **Se desmorona lentamente**. La primera generación muere. La segunda generación acude menos. La tercera generación olvida. Luego llega una riada —quizá una crisis económica, una migración forzada, una disputa interna— y la desgarra «por completo en pedazos».
-
-> **Una escena de una mezquita sabea**: En un pequeño estado del sur de los Estados Unidos, se fundó una mezquita en 1998 por el esfuerzo de treinta familias inmigrantes. La oración del viernes solía llenarse con cuatrocientos orantes. Hoy, tras dos generaciones, el número de orantes no supera los quince. La primera generación murió o se marchó; entre los hijos de los fundadores originales, unos dejaron el Islam, unos conservaron el nombre y arrojaron la religión tras sus espaldas, y unos se trasladaron a las grandes ciudades. Nadie sabe con precisión cuándo ocurrió esto, ni cómo. Pero la riada vino —lenta, silenciosa, decisiva. Y los legados reunidos en la cuenta de la mezquita apenas cubren la factura de la electricidad.
-
----
-
-## VI. El desafío que el Corán revela
-
-¿Sabías por qué la sura de An-Naml y la sura de Sabaʾ son contiguas en el Mushaf? Solo una sura (Al-Qaṣaṣ) media entre ellas, y ambas hablan del rey Sulaymān. Pero la sura de An-Naml presenta **la cumbre civilizatoria**, mientras que la sura de Sabaʾ presenta **el derrumbe de quienes vivieron a su sombra**.
-
-An-Naml: el desafío de la civilización ascendente —¿puedes abrirte?
-Sabaʾ: el desafío de la civilización establecida —¿puedes perdurar?
-
-Ambos desafíos encaran al musulmán en Occidente hoy:
+Y ambos desafíos recaen sobre el musulmán en Occidente hoy:
 - **El primero**: ¿se abrirá tu comunidad a su entorno, o se replegará tras los muros de la mezquita?
-- **El segundo**: aun si logra abrirse, ¿preservará la gratitud por el favor, o perderá su memoria en dos generaciones como Sabaʾ perdió la suya?
+- **El segundo**: aunque tengas éxito en la apertura, ¿preservarás el agradecimiento de la merced, o perderás tu memoria después de dos generaciones como perdió Saba su memoria?
 
----
+## Conclusión: antes de que venga la riada, lánzate, abubilla
 
-## Cierre: Antes de que llegue la riada, que parta la Abubilla
+Toda civilización elige. Dios, el Altísimo, no impone un destino, sino que expone una ley. «En verdad, Dios no cambia lo que hay en un pueblo hasta que cambian lo que hay en sí mismos» (el Trueno 11).
 
-Toda civilización elige. Dios Altísimo no impone un destino, sino que presenta una ley. «En verdad, Dios no cambia la condición de un pueblo hasta que ellos cambian lo que hay en sí mismos» (Ar-Raʿd 11).
+La diferencia entre la civilización de Salomón y el pueblo de Saba no está en la ubicación geográfica. Ambas están en la Península Arábiga. No está en el tiempo ni en las posibilidades. Ambas conocieron la riqueza. **La diferencia está en la postura ante la merced**: ¿te lanzas con ella como una abubilla, o la atesoras hasta que venga la riada?
 
-La diferencia entre la civilización de Sulaymān y las gentes de Sabaʾ no es geográfica. Ambas están en la península arábiga. No es temporal ni material. Ambas conocieron la riqueza. **La diferencia yace en la postura ante el favor**: ¿partes con él como una Abubilla, o lo atesoras hasta que llegue la riada?
+Y el musulmán en Occidente hoy —en cada mezquita, en cada centro, en cada familia— elige entre los dos modelos cada día. Y cada vez elige. No hay una postura neutral.
 
-El musulmán en Occidente hoy —en cada mezquita, cada centro, cada familia— elige entre los dos modelos cada día. Y elige cada vez. No hay posición neutral.
-
-En el próximo episodio (el cierre), reunimos los hilos: de los pilares de la civilización en Al-Kahf, al arco del individuo en Yūsuf, a la expansión de la comunidad en An-Naml-Sabaʾ —extraemos **las leyes divinas en el auge y la caída de las naciones**.
-
----
+En el próximo episodio (la conclusión), reunimos los hilos: de los pilares de la civilización en la Caverna, a la curva del individuo en José, a la expansión de la comunidad en las Hormigas-Saba — extraemos **las leyes divinas en el ascenso de las naciones y su caída**.
 
 ## Un paso práctico tras leer este episodio
 
-Hazte tres preguntas sobre tu mezquita o centro islámico:
+Pregúntate tres preguntas sobre tu mezquita o tu centro islámico:
 
-1. **¿Tenemos una "Abubilla"?** —una persona o equipo responsable de leer a la comunidad circundante, comprender la política de la ciudad, comunicarse con el vecino no musulmán, presentar informes periódicos sobre la realidad de la comunidad y de la sociedad mayor.
+1. **¿Tenemos una «abubilla»?** —es decir, una persona o un equipo responsable de leer la sociedad circundante, comprender las políticas de la ciudad, comunicarse con el vecino no musulmán, presentar informes periódicos sobre la realidad de la comunidad y la sociedad mayor.
 
-2. **¿Tenemos "*yūzaʿūn*"?** —una clara distribución de roles, comités especializados, responsabilidades bien definidas, o ¿operamos por el azar y el voluntariado desorganizado?
+2. **¿Tenemos «eran distribuidos en orden»?** —es decir, una distribución de papeles clara, comités especializados, una descripción de las responsabilidades, o trabajamos con la aleatoriedad y el voluntariado no organizado.
 
-3. **¿Estamos desplegando "el trono"?** —las capacidades técnicas y profesionales de nuestros miembros (médicos, ingenieros, maestros, comerciantes) al servicio de la daʿwa y el alcance, o ¿los dejamos lejos del campo de la mezquita?
+3. **¿Empleamos «el trono»?** —es decir, las capacidades técnicas y de destreza de nuestros individuos (médicos, ingenieros, maestros, comerciantes) al servicio del llamado y la comunicación, o las dejamos lejos del campo de la mezquita.
 
-Si la respuesta a alguna de estas es «no», estás más cerca de Sabaʾ que de Sulaymān. Y la riada llega lentamente —pero llega.
-
----
+Si la respuesta a cualquiera de estas preguntas es «no», entonces estás más cerca de Saba que de Salomón. Y la riada viene con lentitud, pero viene.
 
 ## El lugar de este episodio en la serie
 
-| # | Título | Estado |
-|---|-------|--------|
-| 1 | El Corán y los fundamentos de la civilización — Los pilares en la sura de Al-Kahf | Publicado |
-| 2 | La sura de Yūsuf y el arco del ascenso civilizatorio | Publicado |
-| **3 (este episodio)** | **El ala de la abubilla y la riada de al-ʿArim — La ley del auge y la caída** | **Publicado** |
-| 4 (Cierre) | Las leyes divinas en el auge y la caída de las naciones | Próximamente |
+| El episodio | El título | El estado |
+|---------|----------|---------|
+| El primero | El Corán y el fundamento civilizatorio — los pilares de la civilización en la Caverna | Publicado |
+| El segundo | La sura de José y la curva del ascenso civilizatorio | Publicado |
+| **El tercero (este)** | **El ala de la abubilla y la riada de al-ʿArim — la ley del ascenso y la caída** | **Publicado** |
+| El cuarto (conclusión) | Las leyes divinas en el ascenso de las naciones y su caída | Próximo |
+
+## Indicaciones y referencias
+
+- Ibn Kaṯīr, *La exégesis del Corán inmenso*, en la exégesis de las suras de las Hormigas y de Saba.
+- Al-Rāzī, *Las llaves de lo oculto*, exégesis de la sura de las Hormigas, la parte propia de la historia de Bilqís.
+- Ibn ʿĀšūr, *La liberación y la iluminación*, exégesis de las suras de las Hormigas y de Saba — y tiene investigaciones amplias en «los ejércitos de Salomón» y «la dialéctica de Bilqís».
+- Sayyid Quṭb, *A la sombra del Corán*, exégesis de la sura de las Hormigas.
+- Mālik ibn Nabī, *Las condiciones del renacimiento* y *El problema de la cultura*, los capítulos de la acción civilizatoria.
+- Ibn Jaldūn, *La introducción (Muqaddima)*, el capítulo sobre «la cooperación para el sustento».
+- Al-Ṭabarī, *El compendio de la explicación*, en la exégesis de «la riada de al-ʿArim».
 
 ---
 
-## Referencias y citas
-
-- Ibn Kaṯīr, *Tafsīr al-Qurʾān al-ʿAẓīm*, comentario sobre la sura de An-Naml y la sura de Sabaʾ.
-- Al-Rāzī, *Mafātīḥ al-Ghayb*, comentario sobre la sura de An-Naml, la sección de la historia de Bilqīs.
-- Ibn ʿĀshūr, *al-Taḥrīr wa al-Tanwīr*, comentario sobre la sura de An-Naml y la sura de Sabaʾ —con extensos tratamientos de «las huestes de Sulaymān» y «la dialéctica de Bilqīs».
-- Sayyid Quṭb, *Fī Ẓilāl al-Qurʾān*, comentario sobre la sura de An-Naml.
-- Malek Bennabi, *Shurūṭ al-Nahḍa* (*Las condiciones del renacimiento*) y *Mushkilat al-Thaqāfa* (*El problema de la cultura*).
-- Ibn Jaldún, *al-Muqaddima*, capítulo sobre «La cooperación en el sustento».
-- Al-Ṭabarī, *Ŷāmiʿ al-Bayān*, sobre «la riada de al-ʿArim».
-
----
-
-*Este es el tercer episodio de la serie «El Corán y la Civilización». Episodio uno: la sura de Al-Kahf. Episodio dos: la sura de Yūsuf. El próximo episodio cuatro: «Las leyes divinas en el auge y la caída de las naciones» —el cierre de la serie.*
+*Este es el tercer episodio de la serie «El Corán y la civilización». El primer episodio: la sura de la Caverna. El segundo: la sura de José. El cuarto próximo: «Las leyes divinas en el ascenso de las naciones y su caída» — conclusión de la serie.*
