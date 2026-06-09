@@ -1,295 +1,263 @@
 ---
-title: "Las leyes (sunan) de la civilización en el Corán — Seis leyes que rigen el auge y la caída de las naciones"
-subtitle: "Cuarto episodio de la serie «El Corán y la Civilización» — Una pausa de síntesis tras Al-Kahf, Yūsuf y Sulaymān"
+title: "Las leyes de la civilización en el Corán — seis leyes que rigen el ascenso de las naciones y su caída"
+subtitle: "El cuarto episodio de la serie «El Corán y la civilización» — una pausa de síntesis tras la Caverna, José y Salomón"
 date: "2026-05-19"
 locale: "es"
 slug: "sunan-of-civilization"
-series: "El Corán y la Civilización"
+series: "El Corán y la civilización"
 episode: 4
-readingMinutes: 15
+readingMinutes: 14
 ---
 
-## Preludio: ¿Por qué nos detenemos ahora?
+## Apertura: ¿por qué nos detenemos ahora?
 
-Tres suras coránicas han pasado ante nosotros en esta serie: Al-Kahf, Yūsuf, An-Naml–Sabaʾ. Cada una abrió una ventana a la civilización —una vez desde el lado de sus pilares fundacionales, una vez desde el lado del individuo capacitado que la edifica, y una vez desde el lado de la comunidad que la lleva adelante.
+Tres suras coránicas presentamos en los episodios anteriores: la Caverna, José, las Hormigas-Saba. Cada una de ellas nos ofreció una ventana a la civilización —una vez desde el lado de sus pilares, una vez desde el lado del individuo que la funda, y una vez desde el lado de la comunidad que la porta.
 
-Pero el Corán no deja sus relatos como «historias contadas»; extrae de ellos **leyes cósmicas**. Como dice el Altísimo al cierre de la sura de Yūsuf: «En verdad, en sus relatos hay una lección para los dotados de entendimiento.»
+Pero el Corán no deja el relato en forma de «cuentos que se narran», sino que extrae de él **leyes cósmicas**. Como dice la Verdad al cierre de la sura de José: «Ciertamente en sus relatos hay una lección para los dotados de entendimiento».
 
-Este episodio es una pausa reflexiva que destila lo que hemos visto en forma jurídico-canónica: **las sunan de Dios que rigen el auge y la caída de las naciones**. No porque cerremos la serie —pues el Corán es un sistema civilizatorio integral y sus ideas son más vastas de lo que diez episodios pueden contener— sino porque el lector, tras tres episodios, merece una pausa en la que ordenar lo aprendido, y prepararse para lo que viene.
+Este episodio es una pausa contemplativa que resume lo que hemos visto en una formulación legal: **las leyes de Dios que rigen el ascenso de las naciones y su caída**. No porque cerremos la serie —pues el Corán es un sistema civilizatorio integral y las ideas en él son más amplias de lo que abarcan diez episodios— sino porque el lector después de tres episodios merece una pausa en la que ordene lo que aprendió, y se prepare para lo que viene.
 
-Presentaremos **seis sunan divinas**, cada una extraída de un versículo vinculante y corroborada por lo que hemos visto en los tres episodios precedentes. Notarás que las sunan no operan en aislamiento, sino que se entretejen como hilos en un solo tejido.
-
----
+Expondremos **seis leyes divinas**, cada ley tomada de una aleya precisa, y respaldada por lo que hemos visto en los tres episodios. Y hallarás que las leyes no obran aisladas, sino que se entrelazan como hilos en un solo tejido.
 
 ## En este episodio — cinco ideas
 
-> 1. **Las sunan no son sucesos, sino leyes**: operan sobre el creyente y el incrédulo por igual, sobre el asentado en Oriente y el migrante en Occidente —«No hallarás cambio alguno en la sunna de Dios.»
+> 1. **Las leyes no son sucesos, sino leyes**: corren sobre el creyente y el incrédulo, sobre el habitante del oriente y el emigrante en Occidente — «Y no hallarás en la ley de Dios cambio alguno».
 >
-> 2. **Seis sunan específicas**: sucesión (*istijlāf*), cambio de sí mismo, prueba, alternancia, contención mutua, reforma de la tierra.
+> 2. **Seis leyes concretas**: la vicerregencia, el cambio interior, la prueba, la alternancia, el empuje (tadāfuʿ), la reforma de la tierra.
 >
-> 3. **Las sunan son complementarias, no rivales**: se aplican al individuo como se aplican a la umma.
+> 3. **Las leyes se integran, no se aglomeran**: se aplican al individuo como se aplican a la comunidad.
 >
-> 4. **Cada sunna tiene una aplicación contemporánea** a la comunidad musulmana en Occidente.
+> 4. **Cada ley tiene una aplicación contemporánea** sobre la comunidad musulmana en Occidente.
 >
-> 5. **La serie continúa**: las suras coránicas que tiñen la civilización de un matiz particular no se agotan, y la extracción no está completa.
+> 5. **La serie continúa**: las suras coránicas que tiñen la civilización con un color especial no terminan, y la extracción no se completa.
 
----
+## Primero: ¿qué es la ley (sunna)? — un enraizamiento rápido
 
-## I. ¿Qué es una sunna? — Un breve anclaje
+La palabra «sunna» en el Corán tiene un sentido técnico preciso. Contempla el dicho de la Verdad:
 
-La palabra *sunna* en el Corán tiene un significado técnico preciso. Repara:
+«Y no hallarás en la ley de Dios cambio alguno, y no hallarás en la ley de Dios alteración alguna» (Fāṭir 43).
 
-«No hallarás cambio alguno en la sunna de Dios, ni hallarás desvío alguno de la sunna de Dios» (Fāṭir 43).
+- **«No hallarás»**: una negación enfática —la certeza cósmica.
+- **«En la ley de Dios»**: una atribución directa —no es una ley natural ciega, sino una disposición intencionada.
+- **«Cambio» y «alteración»**: el cambio es una transformación completa, y la alteración es una modificación parcial —y ambas están negadas.
 
-- **«No hallarás»**: una negación enfática —certeza cósmica.
-- **«de la sunna de Dios»**: atribución directa —no una ley natural ciega, sino una ordenación deliberada.
-- **«Cambio» y «desvío»**: la alteración completa y el ajuste parcial por igual —ambos negados.
+Pues la sunna en la terminología coránica es: **una ley divina firme que rige la marcha de las sociedades, no favorece a un pueblo, ni se detiene por causa de nadie**. Se aplica al creyente perezoso, y se aplica al incrédulo diligente. Este es el secreto de su justicia.
 
-Así, en el uso coránico, una sunna es **una ley divina fija que rige el curso de las sociedades, que no favorece a pueblo alguno ni se detiene por nadie**. Opera sobre el creyente perezoso y sobre el incrédulo diligente por igual. Este es el secreto de su justicia.
+Por ello dijo Ibn Jaldūn (Dios se apiade de él): «La civilización surge, crece, luego envejece y se esfuma, como el ser humano». Ibn Jaldūn no inventó esto, sino que lo descubrió en las leyes del Corán antes de formularlo en «La introducción».
 
-Ibn Jaldún lo expuso en su *Muqaddima*: «La civilización surge, crece, luego envejece y se desvanece —como un ser humano.» Ibn Jaldún no inventó esto; lo descubrió en las sunan coránicas antes de formularlo.
+## La primera ley: la ley de la vicerregencia — ¿quién merece la tierra?
 
----
+«Dios ha prometido a quienes de vosotros han creído y obrado rectamente que ciertamente los hará vicerregentes en la tierra, como hizo vicerregentes a quienes les precedieron» (la Luz 55).
 
-## La primera sunna: la sunna de la sucesión — ¿quién merece la tierra?
+Contempla la estructura de la promesa:
+- **Dos condiciones**: «han creído» + «obrado rectamente». La fe sola no basta, y la obra sin fe termina en Saba.
+- **El resultado**: «ciertamente los hará vicerregentes» —la lām enfática y la nūn de énfasis. Una promesa tajante.
+- **El precedente histórico**: «como hizo vicerregentes a quienes les precedieron» —esto no es un anhelo, sino una ley repetida.
 
-«Dios ha prometido a aquellos de vosotros que crean y obren rectamente que les hará sucesores en la tierra, así como hizo sucesores a quienes les precedieron» (An-Nūr 55).
+La vicerregencia no viene con el deseo ni con el linaje religioso. Viene **cuando se cumplen las condiciones**.
 
-Examina la estructura de la promesa:
-- **Dos condiciones**: «crean» + «obren rectamente». La fe sola es insuficiente, y las obras sin fe acaban como Sabaʾ.
-- **El resultado**: «les hará sucesores» —la *lām* enfática y el *nūn* pesado. Una promesa vinculante.
-- **El precedente histórico**: «así como hizo sucesores a quienes les precedieron» —esto no es un deseo, sino una ley repetida.
+**¿Cómo vimos esta ley obrar en las tres suras?**
 
-La sucesión no llega por el pensamiento ilusorio ni por el linaje religioso. Llega **cuando se cumplen las condiciones**.
+- En **la Caverna**: Ḏū l-Qarnayn es vicerregente porque «creyó» (no adoro sino la Verdad) y «obró rectamente» (construyó la barrera, estableció la justicia entre dos pueblos).
+- En **José**: una vicerregencia sobre los tesoros de Egipto tras años de prueba y obra recta en la prisión.
+- En **Salomón**: un reino «que no conviene a nadie después de él» vino tras un agradecimiento, una súplica y una disposición institucional.
 
-**¿Cómo vimos operar esta sunna a través de las tres suras?**
+**La aplicación a la comunidad**: el musulmán que espera un establecimiento en la tierra sin obrar, espera lo que no vendrá. Dios no entrega las llaves de la tierra sino a quien reúne la fe y la obra recta. Y si miráramos a los musulmanes en Occidente: nuestro número está en aumento, pero nuestro establecimiento en descenso, porque las condiciones de la vicerregencia están incompletas en nosotros. No en la fe solamente, sino en la «obra recta» que rebasa la individualidad hacia la contribución civilizatoria.
 
-- En **Al-Kahf**: Dhū al-Qarnayn se vuelve sucesor porque «creyó» (no adoro sino al Verdadero) e «hizo obras rectas» (edificó la muralla, estableció la justicia entre dos pueblos).
-- En **Yūsuf**: La sucesión sobre los almacenes de Egipto tras años de prueba y obras rectas en la prisión.
-- En **Sulaymān**: Un reino «que no corresponderá a nadie después de él» vino tras la gratitud, la súplica y la ordenación institucional.
+## La segunda ley: la ley del cambio interior — el comienzo desde dentro
 
-**Aplicación a la comunidad**: El musulmán que aguarda el afianzamiento en la tierra sin hacer la obra aguarda lo que no llegará. Dios no entrega las llaves de la tierra sino a quienes conjugan la fe con las obras rectas. Entre los musulmanes en Occidente hoy: nuestros números crecen, pero nuestra influencia mengua —porque las condiciones de la sucesión no se cumplen plenamente entre nosotros. No en la fe sola, sino en las «obras rectas» que trascienden la individualidad hacia la contribución civilizatoria.
+«En verdad, Dios no cambia lo que hay en un pueblo hasta que cambian lo que hay en sí mismos» (el Trueno 11).
 
----
+Esta es la más peligrosa aleya coránica en la comprensión del cambio civilizatorio. Contempla su precisión:
+- **El objeto del cambio divino**: «lo que hay en un pueblo» —la realidad externa, lo aparente.
+- **El objeto del cambio humano**: «lo que hay en sí mismos» —la realidad interna, anímica.
+- **La relación**: «hasta» —el cambio divino está condicionado por el cambio humano, no al revés.
 
-## La segunda sunna: la sunna del cambio de sí mismo — comienza desde dentro
+Dios no hace descender la civilización como la lluvia. Dios escribe la civilización para quien **comenzó por sí mismo**. Y este es un golpe explícito a todo discurso que arroja la responsabilidad sobre el colonizador, sobre el sistema mundial, sobre los medios occidentales. Todos estos son factores, pero no son la causa primera. La causa primera está en «nosotros mismos».
 
-«En verdad, Dios no cambia lo que hay con un pueblo hasta que ellos cambian lo que hay en sí mismos» (Ar-Raʿd 11).
+**¿Cómo la vimos en las suras?**
 
-Este es el versículo coránico más grave sobre la jurisprudencia del cambio civilizatorio. Nota su precisión:
-- **El objeto del cambio divino**: «lo que hay con un pueblo» —la realidad externa, lo visible.
-- **El objeto del cambio humano**: «lo que hay en sí mismos» —la realidad interna, lo psicológico.
-- **La relación**: «hasta» —el cambio divino está condicionado al cambio humano, no a la inversa.
+- En **José**: cambió José en el pozo, en la prisión, en el palacio —luego cambió lo que había a su alrededor. La vicerregencia vino tras el cambio interior.
+- En **Saba**: cambió lo que había en sí mismos («se desviaron») y cambió lo que había en ellos (la riada de al-ʿArim). Una acción paralela, un resultado inevitable.
 
-Dios no vierte la civilización como la lluvia. Dios escribe la civilización para quien **comienza por sí mismo**. Este es un golpe directo a toda retórica que pone la responsabilidad sobre el colonizador, sobre el orden global, sobre los medios occidentales. Todos estos son factores, pero no son la primera causa. La primera causa está en «nosotros mismos».
+**La aplicación**: la mezquita que se queja de la escasez de asistencia sin preguntarse a sí misma «¿en qué fallamos?», espera una lluvia que no caerá. La comunidad que se queja de su imagen mediática sin invertir en unos medios en la lengua del futuro, se agota en una batalla que no ganará. **El cambio comienza desde dentro siempre.**
 
-**¿Cómo vimos esto en las suras?**
+## La tercera ley: la ley de la prueba — no hay establecimiento sin examen
 
-- En **Yūsuf**: Yūsuf cambió en el pozo, en la prisión, en el palacio —y luego cambió lo que estaba a su alrededor. La sucesión vino tras el cambio de sí mismo.
-- En **Sabaʾ**: Cambiaron lo que había en sí mismos («se apartaron»), de modo que cambió lo que había con ellos (la riada de al-ʿArim). Acciones paralelas, resultado inevitable.
+«Y ciertamente os pondremos a prueba con algo de miedo, hambre, merma de bienes, vidas y frutos; y da la buena nueva a los pacientes» (la Vaca 155).
 
-**Aplicación**: La mezquita que se queja de la baja asistencia sin preguntarse «¿en qué fallamos?» aguarda una lluvia que no caerá. La comunidad que se queja de su retrato mediático sin invertir en medios en la lengua del futuro se agota en una batalla que no puede ganar. **El cambio comienza desde dentro, siempre**.
+«Os pondremos a prueba»: la nūn de énfasis pesada. **No hay elección para el musulmán en la prueba.** La única elección está en la respuesta a ella.
 
----
-
-## La tercera sunna: la sunna de la prueba — no hay afianzamiento sin examen
-
-«Ciertamente os pondremos a prueba con algo de temor y de hambre, y con pérdida de bienes, de vidas y de frutos —mas da buenas nuevas a los pacientes» (Al-Baqara 155).
-
-«Ciertamente os pondremos a prueba»: el *nūn* pesado del énfasis. **El musulmán no tiene elección en la prueba**. La única elección está en su respuesta a ella.
-
-Repara en aquello con lo que Dios prueba:
-- El temor (la seguridad amenazada).
-- El hambre (los recursos disminuidos).
-- La pérdida de bienes (las crisis económicas).
-- Y las vidas (la muerte de seres queridos).
+Contempla con qué prueba Dios:
+- Miedo (una seguridad amenazada).
+- Hambre (recursos escasos).
+- Merma de bienes (crisis económicas).
+- Y las vidas (la muerte de los seres queridos).
 - Y los frutos (el fracaso en los proyectos).
 
-Estos no son para el castigo, sino para la cualificación. «Para probar quién de vosotros es mejor en obra» (Al-Mulk 2) —la prueba es lo que separa al «mejor» del «ordinario».
+Estas no son para el castigo, sino para la cualificación. «Para probaros, cuál de vosotros es mejor en la obra» (el Reino 2) —la prueba es la que separa al «mejor» del «ordinario».
 
-**¿Cómo lo vimos?**
+**¿Cómo la vimos?**
 
-- **Yūsuf**: Cuatro pruebas (pozo, venta, seducción, prisión) para cada pilar de su carácter (castidad, saber, previsión, ambición). Cada prueba edificó un pilar.
-- **Bilqīs**: Un reino sin desafío al principio; luego, cuando el desafío vino de Sulaymān, estaba preparada por su mente consultiva, y se salvó.
+- **José**: cuatro pruebas (el pozo, la venta, la seducción, la prisión) para cada pilar de los pilares de su personalidad (la castidad, la ciencia, la deducción, el afán). Cada prueba construyó un pilar.
+- **Bilqís**: un reino sin desafío al principio, y cuando vino el desafío de Salomón estaba preparada con una razón consultiva, y se salvó.
 
-**Aplicación**: Una comunidad que aguarda «un día fácil» para edificar sus instituciones aguarda un día que no llegará. La prueba llega por los textos mismos del Corán. La pregunta es: ¿te hallará paciente, o derrumbándote?
+**La aplicación**: la comunidad que espera «un día fácil» para construir sus instituciones, espera un día que no vendrá. La prueba viene con los textos del Corán. Y la cuestión es: ¿te halla paciente, o derrumbado?
 
----
+## La cuarta ley: la ley de la alternancia — ningún Estado permanece
 
-## La cuarta sunna: la sunna de la alternancia — ningún Estado perdura
+«Y esos días los alternamos entre la gente, para que Dios conozca a quienes han creído y tome de vosotros testigos» (Āl ʿImrān 140).
 
-«Tales son los días; los alternamos entre las gentes —para que Dios conozca a quienes creen y para que tome de entre vosotros testigos» (Āl ʿImrān 140).
+«Los alternamos» de «el giro»: los días giran. No se hace prevalecer un bando para siempre, ni cae un bando para siempre. La civilización pasa de una mano a una mano, y cada tiempo tiene un Estado, y cada Estado tiene un final.
 
-«Los alternamos» de *dawr* (giro): los días giran. Ningún bando es dominante para siempre, y ningún bando cae para siempre. La civilización se mueve de una mano a otra; toda época tiene su Estado, y todo Estado tiene su fin.
+Contempla la lógica: **la historia no es una línea recta, sino un círculo**. Y esto es antes de Ibn Jaldūn por más de ocho siglos.
 
-Reflexiona sobre la lógica: **la historia no es una línea recta, sino un círculo**. Esto se articuló más de ocho siglos antes de Ibn Jaldún.
+Pero la ley tiene un fin: «**para que Dios conozca a quienes han creído**». La alternancia no es en vano, sino un examen. Cuando estás en la cima —¿te humillas? Cuando estás en el fondo —¿tienes paciencia? La historia examina el corazón en ambos casos.
 
-Pero la sunna tiene un propósito: «**para que Dios conozca a quienes creen**». La alternancia no es arbitraria; es un examen. Cuando estás en la cima —¿te vuelves humilde? Cuando en el fondo —¿perseveras? La historia prueba el corazón en ambos estados.
+**¿Cómo la vimos?**
 
-**¿Cómo lo vimos?**
+- **Saba**: estaba en la cima y luego se volvió «relatos desgarrados». La misma tierra, el mismo linaje, pero el círculo giró.
+- **Los hijos de Israel en Egipto**: llegaron en tiempos de José honrados, y se volvieron después de siglos esclavizados. Luego salieron con Moisés libres. Luego erraron en el desierto cuarenta años. Un círculo completo en dos generaciones.
 
-- **Sabaʾ**: Estaban en la cima, luego se volvieron «relatos dispersos». Misma tierra, mismo linaje —pero el ciclo giró.
-- **Los Hijos de Israel en Egipto**: Llegaron en tiempos de Yūsuf honrados, fueron esclavizados a lo largo de siglos, luego salieron con Moisés como libres, luego erraron por el desierto cuarenta años. Un ciclo completo en dos generaciones.
+**La aplicación**: los musulmanes en Occidente hoy —en una fase de formación. No subestimes este tiempo. Quienes estaban en la cima no permanecerán. Y quien construye con paciencia hoy, puede ser en una era venidera un centro de gravedad civilizatorio. La historia no conoce el estancamiento.
 
-**Aplicación**: Los musulmanes en Occidente hoy —en una fase de formación. No subestimes este tiempo. Quienes estuvieron en la cima no permanecerán. Y quien edifica con paciencia hoy puede, en una época venidera, volverse un centro de gravedad civilizatorio. La historia no conoce la inmovilidad.
+## La quinta ley: la ley del empuje — la rectitud de la tierra está en el movimiento
 
----
+«Y si Dios no repeliera a unas gentes por medio de otras, se corrompería la tierra; pero Dios es Dueño de un favor sobre los mundos» (la Vaca 251).
 
-## La quinta sunna: la sunna de la contención mutua — el bienestar de la tierra por el movimiento
+El empuje (tadāfuʿ) no es un conflicto en vano, sino una ley cósmica para preservar la tierra de la corrupción. Si prevaleciera un solo bando absolutamente, se corrompería todo. El bien brota del **equilibrio**, no de la inmovilidad.
 
-«Y de no ser por la contención que Dios ejerce de unas gentes por medio de otras, la tierra se corrompería; pero Dios es de gracia para con todos los mundos» (Al-Baqara 251).
+Por ello el Corán impuso al musulmán que sea **empujador** —no retirado. Quien no repele la falsedad, deja a la falsedad todo el lugar, y se corrompe todo el lugar.
 
-La contención mutua (*tadāfuʿ*) no es un conflicto sin sentido, sino una ley cósmica para preservar la tierra de la corrupción. Si un bando fuera absolutamente dominante, todo se corrompería. El bien emerge del **equilibrio**, no de la quietud.
+Contempla el verbo: «repeler» (dafʿ). No es «impedir» ni «exterminar». El empuje mueve y no anula. Empuja al ser humano de una posición a una posición, con la que se equilibra la balanza de la tierra.
 
-Por ello el Corán exige que el musulmán esté **comprometido en la contención** —no replegado. Quien no empuja contra lo falso deja todo el espacio a lo falso, y todo el espacio se corrompe.
+**¿Cómo la vimos?**
 
-Repara en el verbo: «empuja». No «bloquea», no «extermina». Un empuje mueve algo sin eliminarlo. Mueve al ser humano de una posición a otra, para que se restaure el equilibrio de la tierra.
+- **Salomón**: empuja su monoteísmo hacia Bilqís a través de una carta, un trono, un diálogo. No esperó a que ella viniera, sino que empujó con la verdad.
+- **José**: empuja el monoteísmo en la prisión hacia los dos prisioneros. El empuje aquí es intelectual, no militar.
 
-**¿Cómo lo vimos?**
+**La aplicación**: la comunidad que se retira del debate público en los medios, en las universidades, en la política local, deja el campo a otros. Y el resultado: empujan otros a la gente. «Se corrompería la tierra» —no es una metáfora, sino una realidad.
 
-- **Sulaymān**: Empuja su monoteísmo hacia Bilqīs mediante cartas, trono, diálogo. No aguarda a que ella venga, sino que contiene con la verdad.
-- **Yūsuf**: Empuja el monoteísmo en la prisión hacia los dos prisioneros. La contención aquí es intelectual, no militar.
+## La sexta ley: la ley de la reforma impide la perdición
 
-**Aplicación**: Una comunidad que se repliega del discurso público en los medios, en las universidades, en la política local, deja el campo a otros. El resultado: otros contienen a las gentes con lo que quieran. «La tierra se corrompería» —esto no es metáfora, sino realidad.
+«Y tu Señor no iba a destruir injustamente las ciudades mientras su gente fuera reformadora» (Hūd 117).
 
----
+Esta es una aleya de suma esperanza y suma gravedad:
+- **La esperanza**: Dios no destruye una sociedad en la que hay reformadores. La existencia de los reformadores preserva del castigo.
+- **La gravedad**: si desaparecen los reformadores, se abre la puerta de la perdición.
 
-## La sexta sunna: la sunna de la reforma previene la destrucción
+Y la aleya usa «reformadores» (muṣliḥūn), no «virtuosos» (ṣāliḥūn). La diferencia es esencial:
+- **El virtuoso**: recto en sí mismo.
+- **El reformador**: difunde la rectitud en otros.
 
-«Tu Señor jamás destruiría ciudades injustamente mientras sus gentes fueran reformadoras» (Hūd 117).
+Basta la existencia de los virtuosos para la salvación del individuo en la otra vida. Pero no basta sino la existencia de los reformadores para la salvación de la sociedad en el mundo.
 
-Este versículo es de suma esperanza y severidad:
-- **Esperanza**: Dios no destruye una sociedad en la que hay reformadores. La presencia de reformadores protege del castigo.
-- **Severidad**: Si los reformadores desaparecen, la puerta de la destrucción se abre.
+**¿Cómo la vimos?**
 
-Nota: el versículo usa *muṣliḥūn* (reformadores) y no *ṣāliḥūn* (los rectos). La diferencia es fundamental:
-- **El recto**: íntegro en sí mismo.
-- **El reformador**: difunde la integridad en los demás.
+- **El pueblo de Lot**: se multiplicaron en ellos los corruptos y escasearon los reformadores. El resultado: «hicimos su parte alta su parte baja».
+- **El pueblo de Jonás**: una excepción rara —creyeron y se salvaron. La reforma aquí vino abarcadora.
 
-La existencia de los rectos basta para la salvación del individuo en el más allá. Pero nada basta para la salvación de la comunidad en este mundo salvo la existencia de reformadores.
+**La aplicación**: toda comunidad en Occidente tiene virtuosos, pero lo que la preserva de la riada sabea no son los virtuosos, sino **los reformadores**: quien funda una escuela, quien arbitra un llamado, quien administra un legado, quien escribe para la generación siguiente, quien sale de su casa para reformar lo que hay en otros. **La virtud individual no salva a la comunidad por sí sola.**
 
-**¿Cómo lo vimos?**
+## Segundo: ¿cómo se entrelazan las leyes?
 
-- **Las gentes de Lot**: Los corruptos se multiplicaron y los reformadores menguaron. El resultado: «Pusimos su parte superior por su parte inferior.»
-- **Las gentes de Yūnus**: Una excepción rara —creyeron y se salvaron. La reforma aquí vino de manera abarcadora.
+Las leyes no obran aisladas, sino que se entrelazan:
 
-**Aplicación**: Toda comunidad en Occidente tiene sus rectos, pero lo que la protege de la riada sabea no son los rectos —son **los reformadores**: el que funda una escuela, el que ancla una daʿwa, el que administra un legado, el que escribe para la próxima generación, el que deja su hogar para reformar lo que hay en los demás. **La rectitud individual no salva al grupo por sí sola**.
-
----
-
-## II. ¿Cómo se entretejen las sunan?
-
-Las sunan no operan en aislamiento. Se entretejen:
-
-| La sunna | Se mueve mediante |
+| La ley | Pasa a través de |
 |---------|---------------|
-| Sucesión | Fe + obras rectas |
-| Cambio de sí mismo | Fe + resolución |
-| Prueba | Paciencia + respuesta |
-| Alternancia | Tiempo + firmeza de intención |
-| Contención | Valor + sabiduría |
-| Reforma de la tierra | El paso de «recto» a «reformador» |
+| La vicerregencia | La fe + la obra recta |
+| El cambio interior | La fe + la resolución |
+| La prueba | La paciencia + la respuesta |
+| La alternancia | El tiempo + la firmeza de la intención |
+| El empuje | El valor + la sabiduría |
+| La reforma de la tierra | El paso del virtuoso al reformador |
 
-Repara en el tejido:
-- **Sin fe**: no hay sucesión, no hay cambio de sí mismo.
-- **Sin obras rectas**: prueba sin fruto.
-- **Sin reforma**: una alternancia dolorosa sin salvación.
+Contempla el tejido:
+- **Sin la fe**: no hay vicerregencia, ni cambio interior.
+- **Sin la obra recta**: una prueba sin fruto.
+- **Sin la reforma**: una alternancia dolorosa sin salvación.
 
-Las seis sunan forman **un círculo cerrado**: cuando todas operan, la civilización surge. Cuando una se rompe, los resultados se demoran. Cuando la mayoría se rompe, llega la riada.
+Las seis leyes representan **un círculo cerrado**: cuando obran todas, surge la civilización. Cuando se quiebra una de ellas, se retrasa el resultado. Cuando se quiebra la mayoría de ellas, viene la riada.
 
----
+## Tercero: las leyes en la lente de los tres episodios — un cuadro de síntesis
 
-## III. Las sunan a la luz de los tres episodios — un cuadro de síntesis
+| La sura | La ley más prominente | La prueba |
+|---------|-----------------|---------|
+| La Caverna | La vicerregencia + la reforma | Ḏū l-Qarnayn es vicerregente y reforma |
+| José | La prueba + el cambio interior | Cuatro estaciones de cualificación antes del trono |
+| Las Hormigas-Saba | El empuje + la alternancia | Salomón empuja, y Saba pasa de dos jardines a relatos |
 
-| La sura | La sunna más prominente | La prueba |
-|---------|--------------------|---------|
-| Al-Kahf | Sucesión + Reforma | Dhū al-Qarnayn sucede y reforma |
-| Yūsuf | Prueba + Cambio de sí mismo | Cuatro estaciones de cualificación antes del trono |
-| An-Naml–Sabaʾ | Contención + Alternancia | Sulaymān contiene, y Sabaʾ pasa de dos jardines a relatos dispersos |
+Cada sura es una luz sobre una ley. Pero las leyes todas obran en todo lugar. Esto es lo que los sabios de la exégesis llaman: **la integración temática del Corán**.
 
-Cada sura es luz sobre una sunna. Pero todas las sunan operan en todas partes. Esto es lo que los exégetas llaman: **la integración temática del Corán**.
+## Cuarto: las leyes se aplican al individuo como se aplican a la comunidad
 
----
+Una sutileza fina que no te se escape: **las leyes que obran sobre las naciones, obran también sobre cada individuo**.
 
-## IV. Las sunan se aplican al individuo como se aplican a la umma
+- La vicerregencia sobre la comunidad = el éxito sobre el individuo.
+- El cambio interior sobre la comunidad = el cambio de mis hábitos.
+- La prueba sobre la comunidad = las crisis en mi vida.
+- La alternancia sobre la comunidad = mi ascenso y mi descenso diario.
+- El empuje sobre la comunidad = mi empuje conmigo mismo y con mi entorno.
+- La reforma sobre la comunidad = mi reforma de mi casa y mis hijos.
 
-Un punto sutil que no debe pasarse por alto: **las sunan que operan sobre las naciones operan también sobre cada individuo**.
+«Y que este es Mi camino recto, seguidlo» —un solo camino para el individuo y para la comunidad. Unas mismas leyes, para cada uno en su posición.
 
-- La sucesión sobre la umma = el éxito para el individuo.
-- El cambio de sí mismo para la umma = el cambio de mis hábitos.
-- La prueba para la umma = las crisis de mi vida.
-- La alternancia para la umma = mi ascenso y descenso diarios.
-- La contención para la umma = mi contención de mi alma y mi entorno.
-- La reforma para la umma = mi reforma de mi hogar y mis hijos.
+## Quinto: ¿qué después? — la serie continúa
 
-«Y este es Mi camino recto, seguidlo» —un solo camino, para el individuo y la comunidad por igual. Unas mismas sunan, para cada uno en su estación.
+Este episodio no es una conclusión, sino **una pausa en el camino**. El Corán en su totalidad es un sistema civilizatorio, y no basta para su comprensión un número limitado de suras. Las suras siguientes esperan:
 
----
+- **La sura del Viaje Nocturno (al-Isrāʾ)**: la sociedad civil en movimiento, y la dignidad de los hijos de Adán.
+- **La sura de las Habitaciones (al-Ḥuŷurāt)**: la constitución del trato social.
+- **La sura de los Creyentes**: las condiciones del éxito coránico.
+- **La sura de Hūd**: los ciclos de la civilización y los patrones de la caída.
+- **La sura del Relato (al-Qaṣaṣ)**: la dialéctica del poder y el dinero (el Faraón y Qārūn).
+- **La sura del Criterio (al-Furqān)**: los siervos del Misericordioso — la personalidad civilizatoria.
 
-## V. ¿Qué viene después? — La serie continúa
+Cada sura de estas abre una puerta. Y nosotros estamos al comienzo del camino, no en su final.
 
-Este episodio no es un cierre, sino **una pausa a lo largo del camino**. El Corán en su totalidad es un sistema civilizatorio, y un número limitado de suras no basta para comprenderlo. Las siguientes suras aguardan:
+## Conclusión: las leyes no favorecen
 
-- **La sura de Al-Isrāʾ**: La comunidad cívica en movimiento y la dignidad de los hijos de Adán.
-- **La sura de Al-Ḥuŷurāt**: La constitución de la conducta social.
-- **La sura de Al-Muʾminūn**: Las condiciones del éxito coránico.
-- **La sura de Hūd**: Ciclos de la civilización y patrones del derrumbe.
-- **La sura de Al-Qaṣaṣ**: La dialéctica del poder y la riqueza (Faraón y Qārūn).
-- **La sura de Al-Furqān**: ʿIbād al-Raḥmān —la personalidad civilizatoria.
+Las leyes no conocen el amor ni el odio. No se les pregunta: «¿eres musulmán?» antes de correr. Corren sobre el musulmán y el incrédulo, sobre el oriental y el occidental, sobre el emigrante y el asentado, sobre el individuo y la comunidad.
 
-Cada una de estas suras abre una puerta. Estamos al comienzo del camino, no en su fin.
+Quien comprende las leyes, puede cabalgar la ola. Quien las ignora, lo muelen.
 
----
+«¿Acaso esperan sino la ley de los primeros? Y no hallarás en la ley de Dios cambio alguno» (Fāṭir 43).
 
-## Cierre: Las sunan no muestran favoritismo
-
-Las sunan no conocen amor ni odio. No preguntan «¿Eres musulmán?» antes de correr. Operan sobre el musulmán y el incrédulo, el oriental y el occidental, el migrante y el asentado, el individuo y la umma.
-
-Quien comprende las sunan puede cabalgar la ola. Quien las ignora es triturado por ellas.
-
-«¿Acaso esperan otra cosa que la sunna de los antiguos? No hallarás cambio alguno en la sunna de Dios» (Fāṭir 43).
-
-Las sunan confirman lo que hemos aprendido a través de los tres episodios: la civilización en el Corán es un sistema integral, no historias dispersas. Cada versículo tiene su lugar pretendido. Cada sura tiñe una faceta. Cada repetición señala. El lector que abre el Corán con el ojo del investigador civilizatorio halla un tesoro inagotable.
-
----
+Las leyes confirman lo que aprendimos en los tres episodios: la civilización en el Corán es un sistema abarcador, no relatos dispersos. Cada aleya tiene su lugar intencionado. Cada sura tiñe un aspecto. Cada repetición indica. Y el lector que abre el Corán con el ojo del investigador civilizatorio, halla un tesoro que no se agota.
 
 ## Un paso práctico tras leer este episodio
 
-Elige una sunna de las seis, y aplícala a ti mismo en la semana que viene:
+Elige una sola ley de las seis, y aplícala a ti mismo en la próxima semana:
 
-1. Si eliges **la sunna de la sucesión**: ¿qué condición me falta —la fe o las obras rectas? Comienza a salvar la brecha.
+1. Si eliges **la ley de la vicerregencia**: ¿cuál es la condición que me falta —la fe o la obra recta? Comienza por rellenar la brecha.
 
-2. Si eliges **la sunna del cambio de sí mismo**: ¿qué único hábito, si lo cambio, cambiaría lo que viene después de él? Comienza ahí.
+2. Si eliges **la ley del cambio interior**: ¿cuál es el único hábito que, si lo cambio, cambia todo lo que viene tras él? Comienza por él.
 
-3. Si eliges **la sunna de la contención**: ¿de qué campo me he replegado que me necesita? Regresa con un paso.
+3. Si eliges **la ley del empuje**: ¿cuál es el campo del que me retiré y me necesita? Vuelve a él con un solo paso.
 
-Las sunan no dan nada a quienes no buscan.
-
----
+Las leyes no dan a quien no pide.
 
 ## El lugar de este episodio en la serie
 
-| # | Título | Estado |
-|---|-------|--------|
-| 1 | El Corán y los fundamentos de la civilización — Los pilares en la sura de Al-Kahf | Publicado |
-| 2 | La sura de Yūsuf y el arco del ascenso civilizatorio | Publicado |
-| 3 | El ala de la abubilla y la riada de al-ʿArim — La ley del auge y la caída | Publicado |
-| **4 (este episodio)** | **Las leyes de la civilización en el Corán — Una pausa de síntesis** | **Publicado** |
-| 5 | La sura de Al-Isrāʾ — La comunidad cívica en movimiento | Próximamente |
-| 6 y más allá | Otras suras aguardan | Próximamente |
+| El episodio | El título | El estado |
+|---------|----------|---------|
+| El primero | El Corán y el fundamento civilizatorio — los pilares de la civilización en la Caverna | Publicado |
+| El segundo | La sura de José y la curva del ascenso civilizatorio | Publicado |
+| El tercero | El ala de la abubilla y la riada de al-ʿArim — la ley del ascenso y la caída | Publicado |
+| **El cuarto (este)** | **Las leyes de la civilización en el Corán — una pausa de síntesis** | **Publicado** |
+| El quinto | La sura del Viaje Nocturno — la sociedad civil en movimiento | Próximo |
+| El sexto y siguientes | Otras suras esperan | Próximo |
+
+## Indicaciones y referencias
+
+- Ibn Kaṯīr, *La exégesis del Corán inmenso*, en la exégesis de las aleyas de las leyes mencionadas.
+- Ibn Jaldūn, *La introducción (Muqaddima)*, los primeros capítulos en «las naturalezas de la construcción» y «la fase del Estado».
+- Mālik ibn Nabī, *Las condiciones del renacimiento*, el capítulo sobre «la ecuación de la civilización».
+- Sayyid Quṭb, *A la sombra del Corán*, exégesis de las aleyas de las leyes.
+- Al-Rāgib al-Aṣfahānī, *Los vocablos en lo extraño del Corán*, la entrada «sann».
+- Muhammad al-Gazālī, *Cómo comprendemos el islam*, el capítulo propio de las leyes de Dios en el universo.
+- Ali Izetbegović, *El islam entre el Oriente y el Occidente*, los capítulos del modelo civilizatorio.
 
 ---
 
-## Referencias y citas
-
-- Ibn Kaṯīr, *Tafsīr al-Qurʾān al-ʿAẓīm*, sobre los versículos de las sunan referenciados.
-- Ibn Jaldún, *al-Muqaddima*, los primeros capítulos sobre «la naturaleza de la civilización» y «las fases de los Estados».
-- Malek Bennabi, *Shurūṭ al-Nahḍa* (*Las condiciones del renacimiento*), el capítulo sobre «la ecuación civilizatoria».
-- Sayyid Quṭb, *Fī Ẓilāl al-Qurʾān*, sobre los versículos de las sunan.
-- Al-Rāghib al-Aṣfahānī, *al-Mufradāt fī Gharīb al-Qurʾān*, entrada «sann».
-- Muhammad al-Ghazālī, *Kayfa Nafhamu al-Islām* (*Cómo comprendemos el Islam*), el capítulo sobre las sunan de Dios en el cosmos.
-- Alija Izetbegović, *El Islam entre Oriente y Occidente*, capítulos sobre el modelo civilizatorio.
-
----
-
-*Este es el cuarto episodio de la serie «El Corán y la Civilización». La serie permanece abierta. El próximo episodio cinco: la sura de Al-Isrāʾ.*
+*Este es el cuarto episodio de la serie «El Corán y la civilización». La serie está abierta y continúa. El quinto episodio próximo: la sura del Viaje Nocturno.*

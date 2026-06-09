@@ -1,276 +1,292 @@
 ---
-title: "El Isrāʾ antes del Miʿrāch — La sura constitucional y el modelo del Estado cívico"
-subtitle: "Quinto episodio de la serie «El Corán y la Civilización» — Un movimiento horizontal, artículos fundacionales y desafíos cruciales"
+title: "El Viaje Nocturno antes de la Ascensión — la sura constitucional y el modelo del Estado civil"
+subtitle: "El quinto episodio de la serie «El Corán y la civilización» — un movimiento horizontal, artículos fundacionales, y desafíos decisivos"
 date: "2026-05-20"
 locale: "es"
 slug: "isra-and-the-civic-state"
-series: "El Corán y la Civilización"
+series: "El Corán y la civilización"
 episode: 5
-readingMinutes: 17
+readingMinutes: 16
 ---
 
-## Preludio: ¿Por qué se nombró la sura por el movimiento horizontal?
+## Apertura: ¿por qué se nombró la sura con el nombre del movimiento horizontal?
 
-En el centro del *muṣḥaf*, donde la primera mitad se encuentra con la segunda, se asienta una sura que el Altísimo nombró por un solo suceso de una sola noche: **la sura de Al-Isrāʾ**. Aquella noche misma contiene dos sucesos: un Isrāʾ (un movimiento horizontal de la Mezquita Sagrada a la Mezquita de Al-Aqṣā) y un Miʿrāch (una ascensión vertical a los cielos). ¿Por qué, entonces, eligió el Altísimo nombrar la sura por el primer suceso y no por el segundo?
+En medio del Códice, donde se encuentra la primera mitad con la segunda mitad, se asienta una sura que la Verdad nombró con el nombre de un solo suceso de una sola noche: **la sura del Viaje Nocturno (al-Isrāʾ)**. La noche misma tiene dos sucesos: un viaje nocturno (un movimiento horizontal de la Mezquita Sagrada a la Mezquita Lejana) y una ascensión (un movimiento vertical hacia los cielos). ¿Por qué, pues, eligió la Verdad nombrar la sura con el primer suceso y no con el segundo?
 
-La respuesta abre el método de la sura entera: **el Corán nombra con aquello que los seres humanos pueden imitar**.
+La respuesta abre el método de toda la sura: **el Corán nombra con lo que la gente puede hacer**.
 
-El Isrāʾ es un movimiento horizontal al alcance humano: viaje, transición, aprendizaje, organización, fundación de posiciones entre tierras. El Miʿrāch, en cambio, es un honor especial reservado a los amigos de Dios —y todo creyente tiene su propio miʿrāch en su postración— pero no es una ley general con la que pueda edificarse la civilización. El Altísimo elige para la sura el nombre de un acto que el musulmán puede tomar por modelo, no un acto exclusivo de Su Profeta ﷺ.
+El viaje nocturno es un movimiento horizontal al alcance del ser humano: el viaje, el traslado, el aprendizaje, la gestión, el establecimiento de posturas entre dos tierras. En cuanto a la ascensión, es un honor propio de los aliados de Dios —y cada creyente tiene su ascensión en su prosternación— pero no es una ley general que se imite en la fundación de la civilización. La Verdad, glorificada sea, elige para la sura el nombre del acto que el musulmán puede imitar en su patrón, no el acto que es propio de Su profeta (la paz sea con él).
 
-Este nombrar abre, en sí mismo, la puerta a la civilización: **el movimiento metódico sobre la tierra, no la espera anticipadora desde los cielos**. El quinto episodio de la serie «El Corán y la Civilización» halla en esta sura la esencia de la transición de los pilares de la civilización (Al-Kahf), al individuo ascendente (Yūsuf), a la comunidad organizada (Sulaymān y Sabaʾ), a las sunan unificadoras, y luego nos lleva a lo más refinado: **los artículos del Estado cívico —una constitución civilizatoria que salvaguarda al musulmán en tierras que no son las suyas**.
-
----
+Esta denominación en sí misma abre la puerta de la civilización: **el movimiento metódico en la tierra, no la espera del honor desde el cielo**. Y el quinto episodio de la serie «El Corán y la civilización» halla en esta sura la esencia del paso de los pilares de la civilización (la Caverna) al individuo ascendente (José) a la comunidad organizada (Salomón y Saba) a las leyes integradoras, y luego nos traslada a lo que es más preciso: **los artículos del Estado civil — una constitución civilizatoria que guarda al musulmán en otra que su morada**.
 
 ## En este episodio — seis ideas
 
-> 1. **Al-Isrāʾ es una sura constitucional** por excelencia: los artículos del versículo (22) al versículo (39) podrían servir de carta fundacional para cualquier Estado cívico.
+> 1. **El Viaje Nocturno es una sura constitucional** por excelencia: los artículos de la aleya (22) a la aleya (39) sirven para ser un manifiesto fundacional de cualquier Estado civil.
 >
-> 2. **El honrar a los hijos de Adán** (70) es un principio de pacto previo a cualquier obligación específica —y es lo que abre la puerta a la ciudadanía y la responsabilidad civilizatoria.
+> 2. **La dignidad de los hijos de Adán** (70) es un fundamento pactual antes de cualquier encomienda detallada — y es la que abre la puerta de la ciudadanía y la responsabilidad civilizatoria.
 >
-> 3. **Tres modelos de movimiento** en la sura: el *Burāq* con Muhammad ﷺ, el Arca con Noé, el Cayado y el Cruce con Moisés. Cada uno revela un método de fundación de comunidad.
+> 3. **Tres modelos de movimiento** en la sura: el Burāq con Muhammad (la paz sea con él), el arca con Noé, el bastón y el cruce con Moisés. Cada modelo descubre un método en la fundación de la comunidad.
 >
-> 4. **Dos escenarios que asedian al musulmán en tierras ajenas**: la presión de la *componenda* (*mudāhana*) y la presión de la *expulsión*. La sura enseña cómo el fundador resiste ambas.
+> 4. **Dos escenarios que asedian al musulmán en otra que su morada**: la presión del halago y la presión de la expulsión. Y la sura define cómo resiste el fundador ante ambos.
 >
-> 5. **La lógica de las exigencias imposibles**: condiciones elevadas para diferir el reconocimiento civilizatorio —y la respuesta constitucional coránica.
+> 5. **La lógica de la imposibilidad** en el negador: condiciones imposibles que se plantean para aplazar el reconocimiento civilizatorio — y la respuesta coránica constitucional.
 >
-> 6. **El temor a gastar** (100): una explicación psicológica del fenómeno de la acumulación de riqueza y la sequía de los legados.
+> 6. **El temor de gastar** (100): una interpretación psicológica del fenómeno de la acumulación de la riqueza y la sequía del legado.
 
----
+## Una pausa antes de la constitución: la sura es una sura de glorificación en su esencia
 
-## Una pausa antes de la constitución: la sura es, en su esencia, una sura de glorificación
+Antes de proseguir en la lectura de los artículos constitucionales, hay que afirmar un fundamento que guarde el artículo —como guardamos el artículo de José y Saba— de deslizarse hacia convertir la sura en un proyecto político y nada más.
 
-Antes de proceder a leer los artículos constitucionales, debemos establecer un principio que salvaguarda el artículo —como hicimos en las piezas de Yūsuf y Sabaʾ— de deslizarse hacia la reducción de la sura a un mero proyecto político.
+La sura del Viaje Nocturno en su esencia es una sura de **glorificación, exaltación y servidumbre** antes de ser una sura de Estado. Y las pruebas de eso están en el texto mismo:
 
-La sura de Al-Isrāʾ es, en su esencia, una sura de **glorificación, trascendencia y servidumbre** antes de ser una sura de Estado. La prueba está en el texto mismo:
+- **Su apertura con la glorificación**: «Glorificado sea Quien hizo viajar de noche a Su siervo» —abre la Verdad Su sura con la exaltación de Sí misma sobre la imperfección, y define a Su profeta con el título de «el siervo» antes de mencionar un milagro.
+- **Su cierre con el engrandecimiento**: «Y di: la alabanza es de Dios, que no tomó un hijo, y que no tuvo asociado en el dominio, y que no tuvo aliado de la humillación; y engrandécelo con un engrandecimiento» —la sura se sella con el monoteísmo explícito.
+- **Los artículos constitucionales abren con el monoteísmo**: «No pongas con Dios otro dios» (22) —el primero de los artículos es el monoteísmo, y todo lo que sigue es una rama de él.
+- **La marca de la gente de fe es una obra devocional**: «Caen sobre los mentones prosternados» —la prosternación, no la elección (electoral), es lo que preserva la sociedad civil.
 
-- **Su apertura con la glorificación**: «Gloria a Aquel que hizo viajar de noche a Su siervo» —el Altísimo abre Su sura exaltándose por encima de toda deficiencia, y presenta a Su Profeta con el título de «siervo» antes de mencionar milagro alguno.
-- **Su cierre con el takbīr**: «Di: Alabado sea Dios, que no ha tomado hijo, ni tiene asociado en el dominio, ni valedor alguno por debilidad —magníficale con grandeza» —la sura termina con un *tawḥīd* explícito.
-- **Los artículos constitucionales se abren con el tawḥīd**: «No pongas junto a Dios otro dios» (22) —el primero de los artículos es el *tawḥīd*, y todo lo que sigue es una rama sobre él.
-- **El talante de las gentes de la fe es un acto devocional**: «Caen sobre sus rostros en postración» —la postración, no la elección, es lo que preserva a la comunidad cívica.
+Pues la lectura constitucional de la sura es una rama de su lectura devocional. **El Estado civil en la concepción del Corán no surge de un contrato social humano, sino de una servidumbre integradora.** Quien leyó la sura con el ojo de las instituciones y descuidó el ojo del corazón, leyó su mitad.
 
-Así, la lectura constitucional de la sura es una rama de su lectura devocional. **El Estado cívico en la concepción coránica no surge de un contrato social humano, sino de una servidumbre unificadora.** Quien lee la sura con el ojo de las instituciones descuidando el ojo del corazón, solo ha leído la mitad de ella.
+Por ello debemos comprender la expresión «los artículos son constitucionales por el efecto, divinos por la fuente»: obran la obra de la constitución (guardan la dignidad, regulan el poder), pero no derivan su legitimidad del consenso de los humanos, sino de la voluntad del Creador. La diferencia es esencial, y no es una mera diferencia de clasificación.
 
-Por ello debemos comprender nuestra expresión «constitucional en efecto, divino en origen»: estos artículos funcionan como una constitución (guardan la dignidad, restringen el poder), pero no derivan su legitimidad del consenso humano, sino de la voluntad del Creador. La diferencia es esencial, no meramente una diferencia de clasificación.
+## Primero: la sura constitucional en medio del Corán
 
----
+Muchos exegetas, antiguos y modernos, se acercaron a describir lo que sigue:
 
-## I. La sura constitucional en el centro del Corán
+- **El imam al-Rāzī** en «Las llaves de lo oculto» llama a las aleyas (22–39) «los fundamentos de las legislaciones».
+- **Ibn ʿĀšūr** en «La liberación y la iluminación» las nombra «las madres de las virtudes».
+- Y el erudito **Rašīd Riḍā** se refiere a ellas como «los diez mandamientos coránicos» (porque están cerca en su espíritu de los mandamientos de la Torá, con un rebasamiento de sus eticidades).
 
-Muchos comentaristas clásicos y modernos se aproximaron a describir lo que sigue:
+Estas denominaciones concuerdan en que las aleyas en el Viaje Nocturno no son detalles jurídicos, sino **artículos fundacionales integradores**. Y nosotros proponemos un término más preciso en el contexto de la civilización contemporánea:
 
-- **El Imam al-Rāzī** en *Mafātīḥ al-Ghayb* llama a los versículos (22–39) «los fundamentos de las normas legales» (*uṣūl al-sharāʾiʿ*).
-- **Ibn ʿĀshūr** en *al-Taḥrīr wa-l-Tanwīr* los nombra «las madres de las virtudes» (*ummahāt al-faḍāʾil*).
-- Y **Rashīd Riḍā** se refiere a ellos como los «Diez Mandamientos coránicos» (porque son cercanos en espíritu a los mandamientos mosaicos, con una profundización islámica de su ética).
+> **Artículos constitucionales por el efecto, divinos por la fuente.**
 
-Estas designaciones convergen en una cosa: los versículos de Al-Isrāʾ no son detalles jurisprudenciales, sino **artículos fundacionales y abarcadores**. Proponemos un término más preciso para el contexto de la civilización contemporánea:
+«Constitucionales por el efecto»: porque obran la obra de los artículos constitucionales en el Estado moderno —guardan la dignidad, regulan el poder, organizan las relaciones, protegen a los débiles, disuaden de la corrupción.
 
-> **Constitucional en efecto, divino en origen.**
+«Divinos por la fuente»: porque no surgieron de un acuerdo humano, sino que descendieron del tesoro de la Verdad, glorificada sea. Por ello rebasan las mudanzas de las pasiones y la diferencia de los tiempos.
 
-«Constitucional en efecto» —porque desempeñan la función de los artículos constitucionales en el Estado moderno: guardan la dignidad, restringen el poder, organizan las relaciones, protegen al débil, y disuaden la corrupción.
+Contempla lo que contuvieron estas aleyas:
 
-«Divino en origen» —porque no surgieron del consenso humano, sino que descendieron del tesoro del Altísimo mismo. Y así trascienden los vaivenes del deseo y las variaciones de las épocas.
+- El monoteísmo institucional: «No pongas con Dios otro dios» (22).
+- La piedad con los padres como fundamento de la solidaridad generacional: «Y tu Señor ha decretado que no adoréis sino a Él, y a los padres bondad» (23).
+- Los derechos de los parientes, los pobres y el viajero: «Y da al pariente su derecho» (26).
+- La moderación en el gasto: «Y no pongas tu mano atada a tu cuello ni la extiendas del todo» (29).
+- La preservación del alma humana: «Y no matéis a vuestros hijos por temor a la pobreza» (31), «Y no matéis el alma que Dios ha vedado salvo con derecho» (33).
+- La preservación de la castidad social: «Y no os acerquéis al adulterio» (32).
+- La preservación del bien del huérfano: «Y no os acerquéis al bien del huérfano sino de la manera que sea mejor» (34).
+- El cumplimiento del pacto: «Y cumplid el pacto; en verdad, el pacto será objeto de responsabilidad» (34).
+- La justicia en las medidas y los pesos: «Y cumplid la medida cuando midáis, y pesad con la balanza recta» (35).
+- La reserva en la afirmación: «Y no sigas lo que no tienes conocimiento de ello» (36).
+- La prohibición de la soberbia: «Y no camines por la tierra con arrogancia» (37).
 
-Reflexiona sobre lo que contienen estos versículos:
+Lee esta lista una segunda vez. ¿Qué queda de los artículos de cualquier constitución moderna que no hayan resumido estas aleyas? Contempla: el derecho a la vida, el derecho a la propiedad, el derecho a la solidaridad familiar, el derecho de la infancia, el derecho del huérfano, el derecho a la rendición de cuentas, el derecho a la dignidad, el derecho a una economía justa. Todos están estipulados en dieciocho aleyas, que las separan los enlaces «y no os acerquéis» y «y cumplid» —una redacción legislativa pura.
 
-- El *tawḥīd* institucional: «No pongas junto a Dios otro dios» (22).
-- La piedad filial como principio de solidaridad generacional: «Tu Señor ha decretado que no adoréis sino a Él, y que tratéis bien a vuestros padres» (23).
-- Los derechos de los parientes, los pobres y el viajero: «Da al pariente su derecho» (26).
-- La moderación en el gasto: «No hagas tu mano encadenada a tu cuello, ni la extiendas en toda su amplitud» (29).
-- La inviolabilidad de la vida humana: «No matéis a vuestros hijos por temor a la pobreza» (31); «No matéis el alma que Dios ha prohibido, salvo con derecho» (33).
-- La inviolabilidad de la castidad social: «No os acerquéis al adulterio» (32).
-- La inviolabilidad de los bienes del huérfano: «No os acerquéis a los bienes del huérfano salvo de la mejor manera» (34).
-- El cumplimiento de los pactos: «Cumplid el pacto; el pacto será interrogado» (34).
-- La justicia en los pesos y las medidas: «Dad la medida completa cuando midáis, y pesad con una balanza justa» (35).
-- La contención en las afirmaciones: «No persigas aquello de lo que no tienes conocimiento» (36).
-- La prohibición de la arrogancia: «No camines por la tierra con insolencia» (37).
+Luego se sellan las aleyas con Su dicho: «Eso es de lo que tu Señor te ha revelado de la sabiduría» (39). Pues la sabiduría aquí no es un habla general, sino **un orden constitucional completo**.
 
-Lee esta lista de nuevo. ¿Qué queda de los artículos de cualquier constitución moderna que estos versículos no hayan resumido? Reflexiona: el derecho a la vida, el derecho a la propiedad, el derecho a la solidaridad familiar, los derechos de la infancia, los derechos del huérfano, el derecho a la rendición de cuentas, el derecho a la dignidad, el derecho a una economía justa. Todos están estipulados en dieciocho versículos, ligados por expresiones como «no os acerquéis» y «cumplid» —una formulación puramente legislativa.
+## Segundo: la dignidad de los hijos de Adán — el fundamento pactual
 
-Los versículos concluyen luego: «Eso es lo que tu Señor te ha revelado de *sabiduría*» (39). La sabiduría aquí no es un habla vaga, sino **un sistema constitucional completo**.
+Antes de pasar a los modelos del movimiento, hay que afirmar el fundamento sobre el que se apoyan todos los artículos de la constitución:
 
----
+«Y ciertamente honramos a los hijos de Adán, los transportamos en la tierra y el mar, los proveímos de las cosas buenas, y los favorecimos sobre muchos de los que creamos con un favor notable» (al-Isrāʾ 70).
 
-## II. El honrar a los Banī Ādam — el fundamento del pacto
+Contempla la estructura de la aleya:
 
-Antes de pasar a los modelos de movimiento, debemos establecer firmemente el principio sobre el que reposan todos los artículos constitucionales:
+- **«Y ciertamente honramos»**: la lām enfática, «qad» y el verbo en forma de primera persona plural —tres énfasis. Esta no es una dignidad limitada, sino **una proclamación cósmica** de la posición del ser humano.
+- **«Los hijos de Adán»**: no «los creyentes» ni «los musulmanes», sino **todos los hijos de Adán**. La dignidad precede a la fe, aunque la fe la complete.
+- **«En la tierra y el mar»**: el campo es cósmico, abarcador. Sin límites geográficos.
+- **«Los favorecimos»**: un favor sobre las criaturas. El ser humano no es un ente pasajero, sino una criatura pactual.
 
-«Ciertamente hemos honrado a los hijos de Adán, los hemos transportado por tierra y mar, los hemos provisto de las cosas buenas, y los hemos preferido sobre mucho de lo que hemos creado, con una preferencia marcada» (Al-Isrāʾ 70).
+Esta aleya es **el primer artículo** sobre el que se edifica todo lo que precedió de los artículos de la constitución. ¿Por qué nos prohibiste matar el alma? Porque es honrada. ¿Por qué nos prohibiste comer el bien del huérfano? Porque es un ser humano honrado. ¿Por qué nos prohibiste la soberbia? Porque aquel a quien se le es soberbio es honrado.
 
-Examina la estructura del versículo:
+Por ello dice el erudito **Ibn ʿĀšūr**: «La dignidad en esta aleya es el fundamento de todos los derechos, y toda encomienda después de ella es una rama de ella».
 
-- **«Ciertamente hemos honrado»**: la *lām* enfática, la partícula *qad*, el verbo en primera persona del plural —tres capas de énfasis. Esto no es un honrar limitado; es **una declaración cósmica** de la estación del ser humano.
-- **«Los hijos de Adán»**: no «los creyentes» ni «los musulmanes», sino **todos los hijos de Adán**. El honrar precede a la fe, aunque la fe lo completa.
-- **«Por tierra y mar»**: el alcance es cósmico y universal. Sin límites geográficos.
-- **«Y los hemos preferido»**: una preferencia sobre la creación. El ser humano no es un ser transitorio, sino una criatura del pacto.
+**El efecto civilizatorio de esta aleya**: todo sistema político o social que viola la dignidad de los hijos de Adán —su musulmán y su incrédulo, su blanco y su negro, su varón y su hembra— es un sistema fuera de este fundamento pactual. Y el musulmán en Occidente no puede aceptar la discriminación contra su comunidad porque se apoya en una referencia que supera la ley positiva: **la referencia de la dignidad divina**. Y al mismo tiempo, no puede discriminar contra otro, porque la dignidad es para los hijos de Adán, no para una facción de ellos.
 
-Este versículo es **el primer artículo** sobre el que se edifican todos los artículos constitucionales anteriores. ¿Por qué prohibiste el matar un alma? Porque está honrada. ¿Por qué prohibiste comer los bienes del huérfano? Porque es un ser humano honrado. ¿Por qué prohibiste la arrogancia? Porque aquel a quien se menosprecia está honrado.
+## Tercero: tres modelos del movimiento civilizatorio
 
-Y así dice el gran sabio **Ibn ʿĀshūr**: «El honrar en este versículo es la raíz de todos los derechos, y toda obligación que sigue es una rama sobre él.»
+Nota que la sura del Viaje Nocturno —pese a que se nombró con el nombre del viaje de Muhammad (la paz sea con él)— presenta tres viajes proféticos, como si presentara tres modelos distintos del movimiento:
 
-**El efecto civilizatorio**: Todo sistema político o social que viola el honor de los hijos de Adán —musulmán o no musulmán, blanco o negro, varón o mujer— es un sistema que se ha apartado de este fundamento del pacto. Y el musulmán en Occidente no puede aceptar la discriminación contra su comunidad, porque se apoya en una referencia que supera al derecho positivo: **la referencia del honor divino**. Al mismo tiempo, no puede discriminar a otros, porque el honrar es para los hijos de Adán, no para una facción entre ellos.
+### El primer modelo: el Burāq con Muhammad (la paz sea con él) — el lanzamiento simbólico
 
----
+Abre la sura: «Glorificado sea Quien hizo viajar de noche a Su siervo, desde la Mezquita Sagrada a la Mezquita Lejana cuyos alrededores hemos bendecido, para mostrarle de Nuestros signos» (1).
 
-## III. Tres modelos de movimiento civilizatorio
+El Burāq en los relatos proféticos es una montura que pone su casco a la distancia de su vista. Es un movimiento **respaldado divinamente, fugaz, que rebasa los límites geográficos**. El viaje de La Meca a Jerusalén en una sola noche. Y la sabiduría del vínculo entre las dos mezquitas: **La Meca es el lugar del lanzamiento, Jerusalén es el objetivo de la extensión**. El islam no se limita a la Península, sino que se expande a la tierra de todos los profetas.
 
-Nota que la sura de Al-Isrāʾ —aunque nombrada por el viaje de Muhammad ﷺ— presenta tres viajes proféticos, como presentando tres modelos distintos de movimiento:
+**La lección civilizatoria**: el musulmán no construye su civilización en un aislamiento espacial. Está vinculado a una red de los lugares sagrados a través de la historia. Y la mezquita en California está conectada a la Mezquita Sagrada, a la Lejana, y a cualquier mezquita en la que se mencione el nombre de Dios. El movimiento en el islam tiene un horizonte cósmico.
 
-### El primer modelo: el Burāq con Muhammad ﷺ — el lanzamiento simbólico
+### El segundo modelo: el arca con Noé (la paz sea con él) — la continuidad generacional
 
-La sura se abre: «Gloria a Aquel que hizo viajar de noche a Su siervo desde la Mezquita Sagrada a la Mezquita de Al-Aqṣā, cuyos contornos hemos bendecido, para mostrarle de Nuestros signos» (1).
+«¡Descendencia de quienes transportamos con Noé! En verdad, él fue un siervo agradecido» (3).
 
-El Burāq, en los relatos proféticos, es una montura que pone su casco en el límite de su vista. Es un movimiento **auxiliado por lo divino, veloz, que trasciende las fronteras geográficas**. El viaje de La Meca a Jerusalén en una sola noche. La sabiduría de ligar las dos mezquitas: **La Meca es el hogar de la partida; Jerusalén es la meta de la extensión**. El Islam no se confina a la península arábiga, sino que se extiende a las tierras de todos los profetas.
+El arca es la herramienta con la que Dios preserva el linaje de la fe de la extinción. Es **el movimiento de la salvación colectiva**, donde no se salva el padre solo, sino que es transportada la descendencia con él. Y el Corán recuerda al destinatario: «descendencia de quienes transportamos» —tú eres una extensión de quien se salvó, así que no quiebres la cadena.
 
-**La lección civilizatoria**: El musulmán no edifica su civilización en aislamiento espacial. Está ligado a una red de lugares sagrados a lo largo de la historia. La mezquita en California está conectada con la Mezquita Sagrada, con Al-Aqṣā, con toda mezquita en la que se menciona el nombre de Dios. El movimiento en el Islam tiene un horizonte cósmico.
+**La lección civilizatoria**: la civilización es un arca. Quien no embarcó en ella con sus hijos, se ahogó. La comunidad musulmana en Occidente que se ocupa de la salvación de la generación presente y descuida la construcción de la generación venidera, quiebra la cadena noética. **Las escuelas islámicas, los campamentos educativos, los círculos de memorización del Corán, las sesiones de recuerdo para los jóvenes** —todos son un arca, y la salvación no se hereda sino con ella.
 
-### El segundo modelo: el Arca de Noé — la continuidad generacional
+### El tercer modelo: el bastón y el cruce con Moisés (la paz sea con él) — la liberación y la fundación
 
-«Descendientes de aquellos que transportamos con Noé —en verdad, él fue un siervo agradecido» (3).
+«Y ciertamente dimos a Moisés nueve signos evidentes; pregunta a los hijos de Israel cuando vino a ellos y le dijo el Faraón: en verdad, te considero, oh Moisés, hechizado» (101).
 
-El Arca es el instrumento por el que Dios preserva el linaje de la fe de la extinción. Es **el movimiento de la salvación colectiva**, en el que el padre no se salva solo, sino que los descendientes son transportados con él. El Corán recuerda al destinatario: «Descendientes de aquellos que transportamos» —eres una extensión de quienes fueron salvados, así que no rompas la cadena.
+Luego en un contexto conectado a la sura (que está cerca de las aleyas de la sura de los Poetas): «Que viajes de noche con Mis siervos; en verdad, seréis perseguidos».
 
-**La lección civilizatoria**: La civilización es un barco. Quien no se embarca en él con sus hijos, se ahoga. La comunidad musulmana en Occidente que se ocupa de la salvación de la generación presente mientras descuida la construcción de la siguiente, rompe la cadena noéica. **Las escuelas islámicas, los campamentos educativos, los círculos de memorización del Corán, las reuniones de dhikr para jóvenes** —todos son barcos, y la salvación no se hereda sino a través de ellos.
+El bastón y el cruce son el movimiento de **la liberación colectiva de un sistema injusto**. No es un viaje de huida, sino **una salida metódica** hacia la fundación de una comunidad. Moisés (la paz sea con él) no sale por sí mismo, sino con una comunidad entera. Y usa el bastón —símbolo de la autoridad moral— para abrir el camino.
 
-### El tercer modelo: el Cayado y el Cruce de Moisés — liberación y fundación
+**La lección civilizatoria**: cuando se hace imposible la convivencia con un sistema que viola la dignidad de los musulmanes, la salida cualitativa y la fundación alternativa es una de las salidas. Y esto no se comprende necesariamente como una emigración geográfica, sino que puede ser **la construcción de instituciones musulmanas paralelas** en el corazón de la sociedad mayor: consejos de dictamen, redes económicas, escuelas, centros mediáticos. Este es un «bastón» moral que abre el camino de la comunidad en un mar agitado.
 
-«Y ciertamente dimos a Moisés nueve signos claros, así que pregunta a los Hijos de Israel acerca de él cuando vino a ellos y Faraón le dijo: "En verdad pienso, oh Moisés, que estás hechizado"» (101).
+**La integración entre los tres modelos**: el Burāq abre el horizonte simbólico, el arca preserva el linaje de la fe, y el bastón abre el campo de la fundación alternativa. Tres modelos que necesita el fundador musulmán en todo tiempo.
 
-Luego, en un contexto ligado a la sura (cercano a los versículos de la sura de Ash-Shuʿarāʾ): «Viaja de noche con Mis siervos —en verdad seréis perseguidos.»
+## Cuarto: los dos escenarios decisivos — cuando es amenazada la comunidad fundadora
 
-El cayado y el cruce son el movimiento de **la liberación colectiva de un sistema injusto**. No es una huida, sino **un éxodo organizado** hacia la fundación de una nación. Moisés ﷺ no parte solo, sino con toda una comunidad. Y usa el cayado —símbolo de la autoridad moral— para abrir el camino.
+Luego viene la sura al punto de la inquietud central: ¿qué ocurre cuando el fundador musulmán enfrenta una sociedad no musulmana? El Viaje Nocturno presenta dos escenarios precisos:
 
-**La lección civilizatoria**: Cuando la convivencia se vuelve imposible con un sistema que viola la dignidad de los musulmanes, el éxodo cualitativo y la fundación de una alternativa es una de las salidas. Esto no ha de entenderse como emigración geográfica; puede ser la **construcción de instituciones musulmanas paralelas** en el corazón de la sociedad mayor: consejos para emitir dictámenes legales, redes económicas, escuelas, centros de medios. Estos son «cayados» morales que abren el camino de la comunidad a través de un mar turbulento.
+### El primer escenario: la presión del halago — un intento de corromper el método desde dentro
 
-**La complementariedad de los tres modelos**: El Burāq abre el horizonte simbólico, el Arca preserva el linaje de la fe, el cayado abre el campo de la fundación alternativa. Tres modelos que el fundador musulmán necesita en toda época.
+«Y por poco te seducen de aquello que te hemos revelado, para que inventaras contra Nosotros otra cosa; y entonces te habrían tomado como amigo íntimo. Y de no ser porque te afirmamos, por poco te inclinas hacia ellos algo poco» (73–74).
 
----
+Contempla la precisión de la descripción:
 
-## IV. Los dos escenarios cruciales — cuando la comunidad fundacional se ve amenazada
+- **«Y por poco»**: no ocurrió, pero por poco.
+- **«Te seducen»**: la seducción aquí es una seducción de apartamiento del método, no una seducción de tortura.
+- **«De aquello que te hemos revelado»**: lo apuntado es «aquello revelado» —la esencia, no los detalles.
+- **«Para que inventaras contra Nosotros otra cosa»**: lo pedido es una modificación en el texto mismo.
+- **«Y entonces te habrían tomado como amigo íntimo»**: el premio es la «amistad íntima» —la amistad, la aceptación, la pertenencia.
 
-La sura llega luego al punto central de la preocupación: ¿qué ocurre cuando el fundador musulmán encara una sociedad no musulmana? Al-Isrāʾ presenta dos escenarios precisos:
+Esta es la presión del **halago al que corresponde una amistad condicionada**. Y es la más peligrosa presión que enfrenta el musulmán en otra que su morada: «modifica un poco, te aceptamos mucho». Y el Corán describe que esta presión casi influía hasta en el Profeta (la paz sea con él) —de no ser por la afirmación divina.
 
-### Escenario uno: la presión de la componenda — el intento de corromper el método desde dentro
+**La aplicación contemporánea**: la mezquita que recibe una financiación condicionada, el imam que es invitado a comités musulmán-gubernamentales con una condición implícita, la institución que evita temas legislativos porque son «sensibles» en el espacio público —todos estos experimentan la presión del halago. Y la lección coránica: **la afirmación es la que preserva, no la inteligencia metódica sola**.
 
-«Estuvieron a punto de tentarte para apartarte de lo que te hemos revelado, para que inventaras contra Nosotros otra cosa, y en ese caso te habrían tomado por amigo íntimo. Y de no haberte fortalecido, podrías haberte inclinado hacia ellos un poco» (73–74).
+> **Una escena de la realidad de la comunidad**: en una de las grandes ciudades se le ofreció al imam de una mezquita una financiación generosa de una institución gubernamental para programas de «diálogo interreligioso» —con una condición implícita de que evitara en sus sermones la mención de «las causas regionales sensibles». El imam rechazó la financiación con cortesía, y le dijo a su hermano: «Cuando me piden el silencio sobre la verdad a cambio del dinero, el dinero es en realidad el precio de mi lengua, no una financiación para mi programa». Después de tres años, la mezquita creció con las donaciones de sus hijos, y se volvió una referencia para la comunidad, no un apéndice de otra agenda. Esta es la aplicación de «Y de no ser porque te afirmamos» en su forma contemporánea.
 
-Nota la precisión de la descripción:
+### El segundo escenario: la presión de la expulsión — un intento de arrancar a la comunidad desde fuera
 
-- **«Estuvieron a punto de»**: no ocurrió, pero casi ocurre.
-- **«Tentarte»**: la tentación aquí es la de ser desviado del método, no la tentación de la tortura.
-- **«De lo que te hemos revelado»**: el blanco es «lo que fue revelado» —la esencia, no los detalles.
-- **«Para que inventaras contra Nosotros otra cosa»**: lo que se pide es una modificación del texto mismo.
-- **«Y en ese caso te habrían tomado por amigo íntimo»**: la recompensa es la «amistad» —la aceptación, la pertenencia.
+«Y por poco te incitan a salir de la tierra para expulsarte de ella; y entonces no permanecerían tras de ti sino poco. Es la ley de aquellos que enviamos antes de ti de Nuestros mensajeros, y no hallarás en Nuestra ley alteración alguna» (76–77).
 
-Esta es la presión de la **componenda recompensada con una amistad condicional**. Es la presión más peligrosa que encara al musulmán en tierras ajenas: «Modifica un poco, y te aceptaremos mucho.» El Corán describe que esta presión casi afectó incluso al Profeta ﷺ —de no ser por el fortalecimiento divino.
+El análisis gramatical de este texto descubre la lengua del Corán en la descripción de la presión extrema:
 
-**La aplicación contemporánea**: La mezquita que recibe financiación condicional, el imán invitado a comisiones de gobiernos musulmanes con una condición implícita, la institución que evita las posiciones legales porque son «sensibles» en la esfera pública —todos estos experimentan la presión de la componenda. Y la lección coránica: **es el fortalecimiento lo que preserva, no la astucia metodológica sola**.
-
-> **Una escena de la realidad comunitaria**: En una gran ciudad estadounidense, a un imán se le ofreció una generosa financiación por una institución gubernamental para programas de «diálogo interconfesional» —con la condición implícita de que evitara mencionar «cuestiones regionales sensibles» en sus sermones. El imán declinó cortésmente la financiación, diciendo a su hermano: «Cuando me piden silencio sobre la verdad a cambio de dinero, el dinero es en realidad el precio de mi lengua, no financiación para mi programa.» Tres años después, la mezquita creció mediante los donativos de su propia comunidad y se volvió un punto de referencia para la comunidad en vez de un anexo a otra agenda. Esto es «De no haberte fortalecido» en su forma contemporánea.
-
-### Escenario dos: la presión de la expulsión — el intento de desarraigar a la comunidad desde fuera
-
-«Estuvieron a punto de echarte de la tierra, para expulsarte de ella, pero entonces no habrían permanecido tras de ti sino poco. La sunna de aquellos a quienes enviamos antes de ti de Nuestros mensajeros —y no hallarás cambio alguno en Nuestra sunna» (76–77).
-
-El análisis gramatical de este texto revela el lenguaje del Corán al describir la presión más extrema:
-
-- **«Echarte»**: el acoso es un acoso repetido con un fin específico.
+- **«Te incitan»**: la incitación es una molestia repetida con un objetivo concreto.
 - **«De la tierra»**: la posición geográfica, es decir, la expulsión espacial.
-- **«Para expulsarte»**: la meta final.
-- **«No habrían permanecido tras de ti sino poco»**: las consecuencias de este acto son cósmicas, no diferidas.
-- **«La sunna de aquellos a quienes enviamos»**: una afirmación de que este es un patrón recurrente, una sunna divina.
+- **«Para expulsarte»**: el objetivo final.
+- **«No permanecerían tras de ti sino poco»**: las consecuencias de este acto son cósmicas, no aplazadas.
+- **«Es la ley de aquellos que enviamos»**: una afirmación de que este es un patrón repetido, una ley divina.
 
-La presión de la expulsión es distinta de la presión de la componenda: la primera apunta a la presencia geográfica y la posición; la segunda apunta al método y la esencia. Ambas las encara el fundador.
+La presión de la expulsión difiere de la presión del halago: la primera apunta a la presencia geográfica y la posición, la segunda apunta al método y la esencia. Y ambas las enfrenta el fundador.
 
-**La aplicación contemporánea**: leyes que apuntan a las escuelas islámicas, campañas mediáticas contra la vestimenta, restricciones a los púlpitos, campañas contra la capellanía islámica en prisiones u hospitales. Todas son intentos de «expulsión simbólica» de la esfera pública. La lección coránica: **la sunna de Dios es que quienes hacen esto no duran mucho**.
+**La aplicación contemporánea**: leyes que apuntan a las escuelas islámicas, campañas mediáticas contra la vestimenta, estrechamiento sobre los púlpitos, campañas contra la imamía islámica en las prisiones o los hospitales. Todas son intentos de una «expulsión moral» del espacio público. Y la lección coránica: **es ley de Dios que quien hace esto no permanece mucho**.
 
-La sura, pues, presenta al fundador el mapa completo de los desafíos: presión desde dentro, presión desde fuera. Y le enseña que el éxito no está en negar la presión, sino en comprender su estructura.
+La sura, pues, define al fundador con el mapa completo de los desafíos: una presión desde dentro, una presión desde fuera. Y le define que el éxito no está en negar la presión, sino en comprender su estructura.
 
----
+## Quinto: la lógica de la imposibilidad — cuando el negador pide lo imposible
 
-## V. La lógica de las exigencias imposibles — cuando el negador pide lo imposible
+La sura del Viaje Nocturno descendió en un periodo en que los mequíes pedían al Profeta (la paz sea con él) signos imposibles como condición para la fe. El Corán transmite algunas de estas condiciones:
 
-La sura de Al-Isrāʾ fue revelada en un período en que los mecanos exigían del Profeta ﷺ signos sobrenaturales como condición para creer. El Corán cita algunas de estas condiciones:
+«Y dijeron: no creeremos en ti hasta que hagas brotar para nosotros de la tierra un manantial. O que tengas un jardín de palmeras y vides, y hagas brotar los ríos a través de él. O que hagas caer el cielo sobre nosotros en pedazos como pretendiste, o traigas a Dios y a los ángeles ante nosotros. O que tengas una casa de oro, o asciendas al cielo; y no creeremos en tu ascensión hasta que nos hagas bajar un libro que leamos. Di: glorificado sea mi Señor, ¿acaso soy sino un ser humano mensajero?» (90–93).
 
-«Dicen: "No creeremos en ti hasta que hagas brotar de la tierra un manantial. O hasta que tengas un jardín de palmeras y vides, y hagas brotar ríos en su seno, abundantemente. O hasta que hagas que el cielo caiga sobre nosotros en pedazos, como has pretendido; o traigas a Dios y a los ángeles ante nosotros. O hasta que tengas una casa de adorno; o hasta que asciendas al cielo —y no creeremos en tu ascensión hasta que nos traigas un libro que podamos leer." Di: "¡Gloria a mi Señor! ¿Acaso soy yo otra cosa que un mensajero humano?"» (90–93).
+Contempla la estructura de las demandas:
 
-Examina la estructura de las exigencias:
+1. **Un manantial en La Meca** — una imposibilidad ambiental.
+2. **Un jardín de palmeras, vides y ríos** — una imposibilidad agrícola.
+3. **Hacer caer el cielo en pedazos** — una imposibilidad cósmica.
+4. **Traer a Dios y a los ángeles ante ellos** — una imposibilidad de lo oculto.
+5. **Una casa de oro** — una imposibilidad económica.
+6. **Una ascensión al cielo y la bajada de un libro** — una imposibilidad sobre la imposibilidad.
 
-1. **Un manantial en La Meca** —imposibilidad ambiental.
-2. **Un jardín de palmeras, vides y ríos** —imposibilidad agrícola.
-3. **El cielo cayendo en pedazos** —imposibilidad cósmica.
-4. **Dios y los ángeles viniendo cara a cara** —imposibilidad metafísica.
-5. **Una casa de adorno** —imposibilidad económica.
-6. **La ascensión al cielo y un libro que desciende** —imposibilidad sobre imposibilidad.
+¿Qué hay en común entre estas condiciones? Todas son **condiciones cuya realización es imposible por mano de un ser humano**. No son una petición de prueba, sino una objeción envuelta en forma de condición. **La lógica de la imposibilidad es la lógica clásica de la hegemonía que se niega a reconocer.**
 
-¿Qué comparten estas condiciones? Todas son **condiciones imposibles de cumplir por mano humana**. No son peticiones de evidencia, sino objeciones revestidas de la forma de condiciones. **La lógica de las exigencias imposibles es la lógica clásica de una hegemonía que se niega a reconocer**.
+Y la respuesta coránica constitucional: «Di: glorificado sea mi Señor, ¿acaso soy sino un ser humano mensajero?».
 
-Y la respuesta constitucional coránica: «Di: ¡Gloria a mi Señor! ¿Acaso soy yo otra cosa que un mensajero humano?»
+- **«Glorificado sea mi Señor»**: una exaltación de la Verdad de ser arrastrada a la imposibilidad.
+- **«¿Acaso soy sino un ser humano mensajero?»**: el límite del mensaje es el límite del ser humano. La misión no es mostrar prodigios, sino transmitir un método.
 
-- **«Gloria a mi Señor»**: una trascendencia del Altísimo por encima de ser arrastrado a la exigencia imposible.
-- **«¿Acaso soy yo otra cosa que un mensajero humano?»**: el límite de la misión es el límite del ser humano. La misión no es exhibir milagros, sino transmitir un método.
+**La aplicación contemporánea**: la sociedad hegemónica en Occidente pide a los musulmanes a veces imposibilidades explícitas y a veces implícitas. «Probad que no sois terroristas». «Renunciad a tales y cuales normas». «Reinterpretad el Corán para que concuerde con nuestros valores». Estas son condiciones de reconocimiento disfrazadas en forma de condiciones. Y la respuesta coránica: **«glorificado sea mi Señor»** —no estoy obligado a responder a la imposibilidad para recibir un reconocimiento. Estoy comprometido con mi método y basta.
 
-**La aplicación contemporánea**: La sociedad dominante en Occidente exige a veces de los musulmanes exigencias imposibles explícitas, y a veces implícitas. «Demostrad que no sois terroristas.» «Abandonad tal o cual norma.» «Reinterpretad el Corán para armonizarlo con nuestros valores.» Estas son condiciones de reconocimiento disfrazadas de condiciones. Y la respuesta coránica: **«Gloria a mi Señor»** —no estoy obligado a responder a la exigencia imposible para recibir el reconocimiento. Estoy obligado a mi método, y eso basta.
+## Sexto: el temor de gastar — una interpretación psicológica de la acumulación de la riqueza
 
----
+En el Viaje Nocturno hay una aleya que merece la contemplación, pues presenta un análisis psicológico profundo de un fenómeno económico:
 
-## VI. El temor a gastar — una explicación psicológica de la acumulación de riqueza
+«Di: si vosotros poseyerais los tesoros de la misericordia de mi Señor, entonces los retendríais por temor de gastar; y el ser humano es avaro» (al-Isrāʾ 100).
 
-En Al-Isrāʾ hay un versículo digno de reflexión, pues ofrece un hondo análisis psicológico de un fenómeno económico:
+El análisis de la aleya:
 
-«Di: Si poseyerais los tesoros de la misericordia de mi Señor, los retendríais por temor a gastar —y el ser humano es siempre avaro» (Al-Isrāʾ 100).
+- **«Los tesoros de la misericordia de mi Señor»**: no es una riqueza ordinaria, sino los tesoros de la misericordia divina —es decir, la riqueza con la que Dios se apiada de Su creación.
+- **«Entonces los retendríais»**: la retención es un resultado inevitable, aunque la riqueza fuera del tesoro de la misericordia.
+- **«Por temor de gastar»**: la causa implícita —un temor del gasto mismo, no de la merma de la riqueza después de él.
+- **«Y el ser humano es avaro»**: una afirmación de que esta es una naturaleza humana general —no propia de una persona o un tiempo.
 
-Análisis del versículo:
+«El temor de gastar» es un término psicológico antes de ser económico. El ser humano no retiene el dinero porque teme la pobreza, sino porque teme **el acto de gastar mismo**. La acumulación de la riqueza es una enfermedad psicológica antes de ser una escasez de recursos.
 
-- **«Los tesoros de la misericordia de mi Señor»**: no la riqueza ordinaria, sino los tesoros de la misericordia divina misma —la riqueza con la que Dios se apiada de Su creación.
-- **«Los retendríais»**: la retención es el resultado inevitable, aunque la riqueza fuera del tesoro de la misericordia mismo.
-- **«Temor a gastar»**: la causa implícita —un temor al acto de gastar en sí, no a tener menos riqueza después.
-- **«Y el ser humano es siempre avaro»**: una afirmación de que este es un rasgo humano general —no específico de una persona o un tiempo.
+**El efecto civilizatorio**: esta es una interpretación coránica de un fenómeno que observaron los economistas occidentales. Los sabios de la economía conductual llaman a algo similar «aversión a la pérdida» (Loss Aversion): el ser humano detesta la pérdida el doble de lo que ama la ganancia. El Corán se les adelantó catorce siglos.
 
-«El temor a gastar» es un término psicológico antes que económico. El ser humano no retiene el dinero porque tema la pobreza, sino porque teme **el acto de gastar en sí**. La acumulación de riqueza es una enfermedad psicológica antes que una escasez de recursos.
+**La aplicación a la comunidad**: el musulmán en Occidente tiene ante sí un desafío doble: 1) aprender cómo gastar de sus tesoros sobre su legado, su mezquita y su escuela sin «temor de gastar». 2) comprender que la acumulación de la riqueza en la sociedad hegemónica —donde posee el 1% de la gente el 45% de la riqueza— es una manifestación planetaria de lo que advirtió el Corán. Y la comunidad que cae en la misma trampa añade su pecado al pecado general.
 
-**El efecto civilizatorio**: Esta es una explicación coránica de un fenómeno observado por los economistas occidentales. Los economistas del comportamiento llaman a algo similar «aversión a la pérdida» (Loss Aversion): el ser humano odia la pérdida el doble de lo que ama la ganancia. El Corán los precedió en catorce siglos.
+> **Una escena que descubre la aleya**: en una academia islámica en el estado de Texas, la junta planificó la construcción de un nuevo pabellón educativo con un costo de 2,5 millones de dólares. Vino la primera donación de un médico musulmán con cinco mil dólares, diciendo: «Intento que no fracasen las manos de la escuela de mis hijos». En la misma semana, donó otro médico —de la misma comunidad, con el mismo ingreso aproximadamente— cincuenta mil dólares a un club de golf privado. La diferencia no está en la capacidad, sino en el «temor de gastar» que distingue entre las dos puertas: la puerta del beneficio sostenible (un legado que permanece para las generaciones) el dinero teme ir a ella, y la puerta del disfrute efímero se abre sin cuenta. La aleya descubre el inconsciente económico hace 1400 años.
 
-**Aplicación a la comunidad**: El musulmán en Occidente encara un doble desafío: 1) Aprender a gastar de sus tesoros en su legado, su mezquita, su escuela, sin «temor a gastar». 2) Comprender que la acumulación de riqueza en la sociedad dominante —donde el 1% de las personas posee el 45% de la riqueza— es una manifestación planetaria de aquello contra lo que el Corán advirtió. Y la comunidad que cae en la misma trampa añade su pecado al pecado general.
+Pregúntate primero, como te recuerda el Corán: «¿Estoy aprendiendo mi propia avaricia antes de criticar la avaricia de otro?» Y en la respuesta hay una pausa disciplinaria.
 
-Pregúntate primero a ti mismo, como el Corán te recuerda: «¿Estoy aprendiendo de mi propia avaricia antes de criticar la avaricia de los demás?» En la respuesta hay una pausa disciplinaria.
+## Séptimo: la marca de la gente de fe — la inmunidad civilizatoria
 
----
+La sura se sella con una escena que merece la contemplación, pues presenta **la marca de la sociedad musulmana que la preserva** a través de todos los desafíos anteriores:
 
-## VII. El talante de las gentes de la fe — la inmunidad civilizatoria
+«En verdad, aquellos a quienes se les dio la ciencia antes de él, cuando se les recita, caen sobre los mentones prosternados. Y dicen: glorificado sea nuestro Señor; ciertamente la promesa de nuestro Señor se cumplirá. Y caen sobre los mentones llorando, y les aumenta humildad» (107–109).
 
-La sura concluye con una escena digna de reflexión, pues presenta **el rasgo de la comunidad musulmana que la preserva** a través de todos los desafíos anteriores:
+Estos no son meros ritos. Son **una descripción de la inmunidad de la comunidad creyente**. Contempla:
 
-«En verdad, aquellos a quienes se les dio el conocimiento antes de ella, cuando se les recita, caen sobre sus rostros en postración. Y dicen: "¡Gloria a nuestro Señor! En verdad, la promesa de nuestro Señor habrá de cumplirse." Y caen sobre sus rostros llorando, y ello los acrecienta en humildad» (107–109).
+- **La interacción de fe colectiva**: cuando se recita el Corán, no escuchan solamente, sino que interactúan —caen, lloran.
+- **La presencia cognitiva**: «a quienes se les dio la ciencia» —estos son gente de conocimiento, no comunes.
+- **El reconocimiento de la promesa divina**: «ciertamente la promesa de nuestro Señor se cumplirá» —una certeza de lo oculto.
+- **El aumento en la humildad**: «les aumenta humildad» —la interacción es creciente.
 
-Esto no es mero rito. Es **una descripción de la inmunidad de la comunidad creyente**. Reflexiona:
+Esto es lo que preserva la sociedad civil musulmana en Occidente: **la capacidad de producir una espiritualidad colectiva, científica, creciente**. No subestimes el efecto de las sesiones de lectura del Corán, los círculos de su reflexión, las noches de vigilia compartidas, los programas de purificación colectiva. Estos no son un lujo, sino herramientas de **una inmunidad civilizatoria** ante las dos presiones del halago y la expulsión.
 
-- **Compromiso colectivo con la fe**: cuando se recita el Corán, no se limitan a escuchar; se comprometen —caen, lloran.
-- **Presencia cognitiva**: «a quienes se les dio el conocimiento» —son gentes de saber, no las masas.
-- **Reconocimiento de la promesa divina**: «En verdad, la promesa de nuestro Señor habrá de cumplirse» —certeza en lo invisible.
-- **Acrecentamiento en la humildad**: «los acrecienta en humildad» —el compromiso es acumulativo.
+## Conclusión: la estructura global de la sura — del individuo en movimiento al universo integrador
 
-Esto es lo que preserva a la comunidad cívica musulmana en Occidente: **la capacidad de producir una espiritualidad colectiva, instruida y creciente**. No subestimes el impacto de los círculos de recitación del Corán, las sesiones de reflexión, la oración nocturna compartida, los programas comunitarios de purificación. Estos no son lujos, sino herramientas de **inmunidad civilizatoria** ante la doble presión de la componenda y la expulsión.
+Lee la sura del Viaje Nocturno otra vez con el ojo de la civilización, y hallarás su estructura asombrosa:
 
----
+- **La apertura**: «Glorificado sea Quien hizo viajar de noche» —el movimiento individual respaldado (Muhammad (la paz sea con él) con el Burāq).
+- **El centro**: los artículos de la constitución (22–39), la dignidad de los hijos de Adán (70) —la fundación de la comunidad en movimiento con el Corán.
+- **El cierre**: «Di: invocad a Dios o invocad al Misericordioso; comoquiera que invoquéis, Suyos son los nombres más hermosos» (110) —la apertura cósmica integradora.
 
-## Conclusión: La estructura total de la sura — del individuo en movimiento al cosmos unificador
+La curva va del individual itinerante, a la comunidad en movimiento con la constitución, a lo cósmico integrador. Y esta es la travesía de la civilización islámica en su forma ideal.
 
-Lee la sura de Al-Isrāʾ de nuevo con el ojo de la civilización, y hallarás su estructura asombrosa:
-
-- **Apertura**: «Gloria a Aquel que lo hizo viajar» —el movimiento individual auxiliado por lo divino (Muhammad ﷺ con el Burāq).
-- **Medio**: Los artículos de la constitución (22–39), el honrar a los hijos de Adán (70) —la fundación de la comunidad en movimiento a través del Corán.
-- **Cierre**: «Di: Invocad a Dios o invocad al Clementísimo —por cualquiera que invoquéis, Suyos son los nombres más hermosos» (110) —la apertura cósmica unificadora.
-
-El arco se mueve del individuo viajero, a la comunidad en movimiento a través de la constitución, al unificador universal. Este es el viaje de la civilización islámica en su forma ideal.
-
-Y en la posición misma de la sura en el *muṣḥaf* hay una significación: **Al-Isrāʾ está en el centro del muṣḥaf**. Lo que la precede establece; lo que la sigue detalla. Como si el Altísimo hubiera hecho de esta sura **el corazón del Libro, bombeando la sangre constitucional a todos los miembros**.
-
----
+Y en la posición de la sura en el Códice mismo hay una indicación: **el Viaje Nocturno está en medio del Códice**. Lo que la precede funda, y lo que la sigue detalla. Como si la Verdad, glorificada sea, hiciera de esta sura **el corazón del Libro que bombea la sangre constitucional al resto de las extremidades**.
 
 ## Una promesa del próximo episodio
 
-La serie es un método que no termina. Tras Al-Isrāʾ, pasaremos a otra sura que revela una faceta distinta de la civilización islámica —quizá **la sura de Al-Ḥach** como modelo de la comunidad global diversa, o **la sura de An-Nūr** como modelo de la sociedad cívica purificada. Dios sabe más.
+La serie es un método que no termina. Tras el Viaje Nocturno, pasaremos a otra sura que nos descubra una cara distinta de las caras de la civilización islámica —quizá en **la sura de la Peregrinación** como modelo de la comunidad mundial diversa, o **la sura de la Luz** como modelo de la sociedad civil purificada. Dios es el más sabio.
 
-Hasta entonces, que algo de esta sura se asiente en tu corazón: eres el hijo honrado de Adán. Tienes una constitución que te salvaguarda. Ante ti hay presiones cuya composición comprendes. En tu mano está el arca de Noé, en tu corazón el Burāq de Muhammad, en tu cayado la lógica de Moisés. Con estos, tus provisiones bastan.
+Y hasta entonces, que se asiente en tu conciencia algo de esta sura: tú eres hijo de Adán honrado. Tienes una constitución que te guarda. Ante ti hay presiones cuya composición comprendes. Y en tu mano está el arca de Noé, en tu corazón el Burāq de Muhammad, y en tu bastón la lógica de Moisés. Bástate con ella como provisión.
 
-*Y la alabanza es debida a Dios, por cuya alabanza se completan las buenas obras.*
+## Un paso práctico tras leer este episodio
+
+Siéntate contigo mismo —o con la gente de tu casa— y pregunta tres preguntas:
+
+1. **La pregunta de la dignidad**: ¿cómo preservo mi dignidad diaria como un hijo de los hijos de Adán en mi sociedad? ¿Me someto a toda concesión que se me pide, o preservo los artículos constitucionales coránicos en mi trato con las instituciones y los individuos?
+
+2. **La pregunta de las dos presiones**: ¿de qué presión sufro ahora —la presión del halago (que modifique mi método para que me acepte la sociedad) o la presión de la expulsión (que se me estreche en mi espacio)? ¿Y cómo respondo: con la afirmación de fe, o con la rendición?
+
+3. **La pregunta del gasto**: ¿soy «avaro» en mis tesoros respecto del legado islámico, mientras gasto con generosidad en el disfrute efímero? ¿Cuál es la cantidad que, si la gasto este mes en un legado que perdura, sentiría que comencé a rebasar el «temor de gastar»?
+
+Escribe tus respuestas. Vuelve a ellas después de un año. Pues solo el ajuste de cuentas sincero es el camino de la sociedad fundadora.
+
+## El lugar de este episodio en la serie
+
+| El episodio | El título | El estado |
+|---------|----------|---------|
+| El primero | El Corán y el fundamento civilizatorio — los pilares de la civilización en la sura de la Caverna | Publicado |
+| El segundo | La sura de José y la curva del ascenso civilizatorio | Publicado |
+| El tercero | El ala de la abubilla y la riada de al-ʿArim — la ley del ascenso y la caída | Publicado |
+| El cuarto | Las leyes de la civilización en el Corán — una pausa de síntesis | Publicado |
+| **El quinto (este)** | **El Viaje Nocturno antes de la Ascensión — la sura constitucional y el modelo del Estado civil** | **Publicado** |
+| El sexto | La sura de la Peregrinación o de la Luz (próxima) | Próximo |
+
+## Indicaciones y referencias
+
+- Ibn Kaṯīr, *La exégesis del Corán inmenso*, en la exégesis de la sura del Viaje Nocturno.
+- Ibn ʿĀšūr, *La liberación y la iluminación*, el tomo decimoquinto — y tiene investigaciones amplias en «las madres de las virtudes» (las aleyas 22–39).
+- Al-Rāzī, *Las llaves de lo oculto*, exégesis de la sura del Viaje Nocturno — y llama a las aleyas mencionadas «los fundamentos de las legislaciones».
+- Rašīd Riḍā, *La exégesis de al-Manār*, en la exégesis de «los diez mandamientos coránicos».
+- Sayyid Quṭb, *A la sombra del Corán*, exégesis de la sura del Viaje Nocturno.
+- Mālik ibn Nabī, *Las condiciones del renacimiento*, los capítulos propios de la relación entre la religión y la constitución.
+- Ibn Jaldūn, *La introducción (Muqaddima)*, los capítulos de la cooperación para el sustento y el Estado.
+- Acordado: «Fui enviado a toda la gente» — Ṣaḥīḥ al-Bujārī (438), Ṣaḥīḥ Muslim (521).
+
+---
+
+*Y la alabanza es de Dios, con cuya alabanza se completan las buenas obras.*
