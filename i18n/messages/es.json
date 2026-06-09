@@ -17,7 +17,8 @@
     "consultations": "Consultas",
     "contact": "Contacto",
     "language": "العربية",
-    "maqasid": "Tafsīr orientado a los fines"
+    "maqasid": "Tafsīr orientado a los fines",
+    "search": "Buscar"
   },
   "hero": {
     "role": "Imam y Fundador · Academia Americana de Imames",
@@ -170,5 +171,16 @@
   "maqasid": {
     "title": "Tafsīr orientado a los fines",
     "subtitle": "Una serie sobre la lectura del Corán a la luz de sus fines superiores — desde la clarificación del concepto hasta la aplicación práctica en la conducta, la sociedad y el alma."
+  },
+  "search": {
+    "title": "Buscar en el sitio",
+    "subtitle": "Busca en artículos, investigaciones y reflexiones en árabe, inglés y español.",
+    "placeholder": "Escribe para buscar…",
+    "prompt": "Escribe una o más palabras para empezar a buscar.",
+    "noResults": "No hay resultados.",
+    "results": "{count} resultados",
+    "type_article": "Artículo",
+    "type_research": "Investigación",
+    "type_khatra": "Reflexión"
   }
 }

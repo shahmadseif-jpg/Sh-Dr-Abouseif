@@ -17,7 +17,8 @@
     "consultations": "Consultations",
     "contact": "Contact",
     "language": "العربية",
-    "maqasid": "Objective-Based Tafsīr"
+    "maqasid": "Objective-Based Tafsīr",
+    "search": "Search"
   },
   "hero": {
     "role": "Imam & Founder · American Imams Academy",
@@ -170,5 +171,16 @@
   "maqasid": {
     "title": "Objective-Based Tafsīr",
     "subtitle": "A series on reading the Qur'an in light of its higher objectives — from clarifying the concept to practical application in conduct, society, and the self."
+  },
+  "search": {
+    "title": "Search the site",
+    "subtitle": "Search across articles, research, and reflections in Arabic, English, and Spanish.",
+    "placeholder": "Type to search…",
+    "prompt": "Type one or more words to start searching.",
+    "noResults": "No matching results.",
+    "results": "{count} results",
+    "type_article": "Article",
+    "type_research": "Research",
+    "type_khatra": "Reflection"
   }
 }
