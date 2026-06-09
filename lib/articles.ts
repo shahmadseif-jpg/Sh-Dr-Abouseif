@@ -163,12 +163,12 @@ export const articlesMeta: ArticleMeta[] = [
     title: {
       ar: 'كعبةٌ أم قِبلة؟',
       en: 'A Kaaba or a Qiblah?',
-      es: '¿Kaaba o Alquibla?',
+      es: '¿Kaaba o alquibla?',
     },
     subtitle: {
       ar: 'عند البيت... أم في البيت؟ — لماذا تَجمَعُ القِبلةُ كلَّ الوُجوه، ولا يَنكشِفُ سِرُّ الكعبةِ إلا لقلبٍ حاضر',
       en: 'At the House... or Within It? — Why the Qiblah Gathers Every Face, While the Secret of the Kaaba Unveils Only to a Present Heart',
-      es: 'En la Casa... ¿o dentro de ti? — Por qué la alquibla reúne todos los rostros, mientras el secreto de la Kaaba solo se revela a un corazón presente',
+      es: 'Junto a la Casa... ¿o dentro de la Casa? — Por qué la alquibla reúne todos los rostros, mientras el secreto de la Kaaba solo se revela a un corazón presente',
     },
     excerpt: {
       ar: 'مَلايينُ يَصِلونَ إلى الكعبة، فكم منهم تَصِلُ الكعبةُ إلى قلبِه؟ هذه الحلقةُ الحاديةَ عشرةَ من «حِكَمٌ وبصائر» تُفرِّقُ بين أن تكونَ عند البيتِ وأن يكونَ البيتُ فيك: فالقِبلةُ يَتوجَّهُ إليها الجميعُ وتَبقى في القلبِ حتّى الموت، أمّا سِرُّ الكعبةِ فلا يَنكشِفُ إلا لقلبٍ حاضرٍ مُعَظِّم. ومن المنافقينَ ﴿قَامُوا كُسَالَىٰ﴾ إلى أثرِ عمرَ عند الحجرِ «إنّك حجرٌ لا تَضُرُّ ولا تَنفَع»، تَستقرُّ على ميزانٍ واحد: ﴿وَلَٰكِن يَنَالُهُ التَّقْوَىٰ مِنكُمْ﴾. فليس كلُّ مَن وَصَلَ قد وَصَل؛ وإنّما يَصِلُ مَن عادَت به الكعبةُ إلى الله.',
@@ -219,12 +219,12 @@ export const articlesMeta: ArticleMeta[] = [
     title: {
       ar: 'شَهوةُ الطَّاعة',
       en: 'The Appetite for Obedience',
-      es: 'El apetito por la obediencia',
+      es: 'El apetito de la obediencia',
     },
     subtitle: {
       ar: 'حين تَندفِعُ النَّفسُ إلى العبادةِ كما تَندفِعُ إلى الشَّهوة — كيف رَبَّى النبيُّ ﷺ القلبَ بين الإيقاظِ والتَّهذيب؟',
       en: 'When the Soul Rushes to Worship as It Rushes to Desire — How the Prophet ﷺ Trained the Heart Between Kindling and Tempering',
-      es: 'Cuando el alma se lanza a la adoración como se lanza al deseo — cómo educó el Profeta ﷺ al corazón entre avivar y moderar',
+      es: 'Cuando el alma se lanza a la adoración como se lanza al deseo — ¿cómo educó el Profeta (la paz sea con él) al corazón entre el despertar y el refinamiento?',
     },
     excerpt: {
       ar: 'كما أنّ للمَعصيةِ شَهوة، فقد تكونُ للطَّاعةِ شَهوةٌ أيضاً: اندفاعٌ صادقٌ يَشتعِلُ ثُمّ يَخبو. هذه الحلقةُ التاسعةُ من «حِكَمٌ وبصائر» تَستخرِجُ من قصّةِ النَّفرِ الثَّلاثةِ، وثناءِ النبيِّ ﷺ على عبدِ اللهِ بنِ عمر، وحَلِّه لحبلِ زينبَ، قاعدةً جامعةً: أنّ النبيَّ ﷺ لا يُعالِجُ العبادةَ بل يُعالِجُ صاحبَها؛ يُوقِظُ الفاتِرَ ويُهذِّبُ المُندفِعَ ليَرُدَّ كليهما إلى التَّوازُنِ الذي مِحورُه الدَّوامُ لا الكَثرة. شَهوةٌ تُوقِظ، فمَحبّةٌ تُرَبّي، فعَهدٌ يُثبِّت.',
@@ -247,12 +247,12 @@ export const articlesMeta: ArticleMeta[] = [
     title: {
       ar: 'ثُمَّ لْيَقْضُوا تَفَثَهُمْ',
       en: 'Then Let Them Complete Their Cleansing',
-      es: 'Y que luego cumplan sus ritos de purificación',
+      es: '«Y que luego eliminen su suciedad»',
     },
     subtitle: {
       ar: 'لِماذا يَسبِقُ التَّفَثُ الطَّوافَ؟ — طَهارةٌ قبلَ القُرب، في الحجِّ وفي الطَّريقِ إلى الله',
       en: 'Why Does the Cleansing Come Before the Circumambulation? — Purification Before Nearness, in the Hajj and on the Road to God',
-      es: '¿Por qué la purificación precede a la circunvalación? — Pureza antes de la cercanía, en el Hach y en el camino hacia Dios',
+      es: '¿Por qué la suciedad (tafaṯ) precede a la circunvalación? — Una purificación antes de la cercanía, en la Peregrinación y en el camino hacia Dios',
     },
     excerpt: {
       ar: 'آيةٌ من كلمتين في سورة الحجِّ تَفتحُ رؤيةً كاملةً لمسيرةِ الإنسانِ إلى الله. هذه الحلقةُ الثامنةُ من «حِكَمٌ وبصائر» تَقرأُ ﴿ثُمَّ لْيَقْضُوا تَفَثَهُمْ﴾ في موضعِها من تكاليفِ السُّورة (تَطهيرٌ، فوَفاءٌ، فقُرب)، وتُبيِّنُ لماذا سُمِّيت السُّورةُ بالحجِّ وهي سورةُ رِحلةٍ لا سورةُ مَناسك، ثُمّ تَكشِفُ أنّ أخطرَ التَّفَثِ ما لا يَراه أحد: غُبارُ الحَسَدِ والكِبرِ والقَسوةِ على الرُّوح. خاتمتُها سُؤالٌ يَبقى: ليس المُهمُّ هل وَصَلتَ إلى البَيت، بل بأيِّ قلبٍ تَلقى ربَّ البَيت.',
@@ -275,12 +275,12 @@ export const articlesMeta: ArticleMeta[] = [
     title: {
       ar: 'وذَكِّرهم بأيّامِ الله',
       en: 'Remind Them of the Days of Allah',
-      es: 'Y recuérdales los Días de Dios',
+      es: '«Y recuérdales los Días de Dios»',
     },
     subtitle: {
       ar: 'ستّةُ دروسٍ من جائحةِ كورونا — قراءةٌ في سُنَن الله حين تَدور الرَّحى على البشريّة',
       en: "Six Lessons from the Pandemic — A Reading of God's Sunan When the Mill Turns Upon Humanity",
-      es: 'Seis lecciones de la pandemia — Una lectura de las sunan de Dios cuando la rueda gira sobre la humanidad',
+      es: 'Seis lecciones de la pandemia de coronavirus — una lectura en las leyes de Dios cuando la rueda gira sobre la humanidad',
     },
     excerpt: {
       ar: 'ما «أيّامُ الله»؟ ليست الأيّامَ الزمنيّةَ السائرةَ في عَدِّ الفَلَك، بل هي الأيّامُ التي تَنكشفُ فيها يَدُ الله على البشريّة. هذه الحلقةُ السابعةُ من «حِكَمٌ وبصائر» تَستخرجُ من جائحةِ كورونا ستّةَ دروسٍ كَونيّةٍ ونفسيّة: غَلَبَةُ الله على أمره، جنودُه التي لا يَعلمها إلا هو، المراحلُ النفسيّةُ الخمس في الأزمات، حالتا العزلةِ والاجتماعِ في البيوت، قانونُ الاتّحاد في الأزمات والانقسامِ في الرَّخاء، والأَمنُ الذي صَنَعَه الإغلاق. خاتمتُها العَودةُ إلى هَدْي النبيّ ﷺ في الصِّحَّة والوقاية، وأنّ الجائحةَ ما كانت إلا تَذكيراً.',
@@ -303,12 +303,12 @@ export const articlesMeta: ArticleMeta[] = [
     title: {
       ar: 'الشيطان والإنسان: غاية ووسيلة',
       en: 'Satan and Man: Goal and Means',
-      es: 'Satán y el hombre: fin y medio',
+      es: 'Satán y el ser humano: un fin y un medio',
     },
     subtitle: {
       ar: 'خطبة جمعة في مداخل الشيطان: الطمع، البخل، المقارنات، صحبة السوء',
       en: "A Friday sermon on Satan's entry points: greed, miserliness, comparisons, and bad company",
-      es: 'Un sermón del viernes sobre las vías de entrada de Satán: la avidez, la avaricia, las comparaciones y la mala compañía',
+      es: 'Sermón del viernes sobre las vías de entrada de Satán: la avidez, la avaricia, las comparaciones y la mala compañía',
     },
     excerpt: {
       ar: 'تأمُّلٌ في غاية الشيطان من ابن آدم — ﴿لأغوينَّهم﴾ — والمداخل التي يتسلَّل منها إلى النَّفس: الطمعُ المختلفُ توزيعُه بين الناس، والبخلُ في المال والفكرة والمشاعر، والمقارناتُ التي تتَّخذ مقياسَ الهوى فتُهلِك. خلاصةُ خطبة جمعة في «مركز مِيسكويت الإسلامي» (Mesquite Islamic Center) بولاية تكساس، أُلقيت في 12 أكتوبر 2018م، مع وصايا تطبيقية لحفظ المؤمن من مداخل الشيطان وصحبة السوء.',
@@ -331,12 +331,12 @@ export const articlesMeta: ArticleMeta[] = [
     title: {
       ar: 'غَزَلُ الأبِ لابنتِه',
       en: "A Father's Tender Affection for His Daughter",
-      es: 'La tierna ternura del padre hacia su hija',
+      es: 'La ternura del padre hacia su hija',
     },
     subtitle: {
       ar: 'حِصْنٌ من الحُبِّ يَقي قلبَها من سهامِ المتربِّصين — بين هَدْي النبوّة، وشهادةِ علم النفس، وفِقْه الحدود',
       en: 'A Shield of Love That Guards Her Heart Against the Predators — Between Prophetic Guidance, Psychological Insight, and the Boundaries of the Sacred Law',
-      es: 'Un escudo de amor que guarda su corazón contra los depredadores — entre la guía profética, la perspicacia psicológica, y los límites de la Ley Sagrada',
+      es: 'Una fortaleza de amor que protege su corazón de las flechas de los acechadores — entre la guía profética, el testimonio de la psicología, y la comprensión de los límites',
     },
     excerpt: {
       ar: 'بنتُ المُسلِم في زمنِ المتربِّصين: كيف يَحْمِيها أبوها بالكلمةِ الحانيةِ قبل أن يَسبِقَه إليها مَن يَكِيدُ بقلبِها الغَضّ؟ هذه الحلقة الأولى من سلسلة «الأسرة والتربية» تُؤَصِّل لِما نُسَمِّيه ـ مع التحفُّظ على اللَّفظ ـ «غَزَلَ الأبِ المُباح»: تَبدأ بِتَحريرِ المُصطَلَح، ثُمَّ تَستَخرِج من هَدْي النبوّة مع فاطمةَ رضي الله عنها أَربَعَ تَعبيراتٍ مُتَتاليةٍ للحُبِّ المُعلَن، وتَستَشهِد بشهاداتِ علماء النَّفس المُسلِمين والمُعاصِرين، وتَرسُم سَبعةَ مَيادينَ تَطبيقيَّةٍ، ثُمَّ تَضَع سَبعةَ ضَوابطَ شَرعيَّةٍ تَحفَظ هذا الغَزَلَ المُباحَ في دائرةِ الأُبوَّةِ الراشدة.',
@@ -359,7 +359,7 @@ export const articlesMeta: ArticleMeta[] = [
     title: {
       ar: 'موقعنا من الإعراب',
       en: 'Where We Stand in the Sentence of History',
-      es: 'Dónde estamos en la oración de la historia',
+      es: 'Nuestra posición en el análisis sintáctico',
     },
     subtitle: {
       ar: 'قراءةٌ في موضع المؤمن حين تَدور رحى الحوادث',
@@ -392,12 +392,12 @@ export const articlesMeta: ArticleMeta[] = [
     title: {
       ar: 'بِشاراتُ القرآن',
       en: "Glad Tidings of the Qur'an",
-      es: 'Las buenas nuevas del Corán',
+      es: 'Las albricias del Corán',
     },
     subtitle: {
       ar: 'صِناعةُ الأملِ بهندسةِ ترتيبِ السُّوَر',
       en: 'Engineering Hope through the Architecture of Sūra Order',
-      es: 'La ingeniería de la esperanza a través de la arquitectura del orden de las suras',
+      es: 'La fabricación de la esperanza mediante la ingeniería del orden de las suras',
     },
     excerpt: {
       ar: 'ليس ترتيبُ سُورِ القرآنِ نَسَقاً موضوعيّاً فحسب، بل هو نَسَقٌ نفسيٌّ تربويٌّ بَديع: يَجعلُ البِشارةَ تَجيءُ بعدَ التَّخويف، والفجرَ بعدَ الغاشية، والضُّحى بعدَ السُّجى. هذه الحلقةُ الأولى من سلسلة «بشارات القرآن» تَستخرجُ من ثلاثِ مُجاوَراتٍ راسخة (الغاشية/الفجر، الليل/الضحى، الضحى/الشرح) نَمَطَ البِشارة المُتعاقبة مع الإنذار، ثم تَستأنِسُ بمثالَين من نَمَطَين مُجاوِرَين (هود/يوسف، الفيل/قريش)، وتَستخلصُ أربعَ سُنَنٍ غالبةٍ تَحكُمُ بِشاراتِ القرآن، مع لَفتةٍ منهجيّةٍ تَضبُطُ القراءة في تقاليد علم المناسبات.',
@@ -425,7 +425,7 @@ export const articlesMeta: ArticleMeta[] = [
     subtitle: {
       ar: 'حين يَنقَسِم العالَمُ إلى جَزيرَتَين: جَزيرَةُ الإذنِ والكَرامَة، وجَزيرَةُ الفَوضى والعَبَث',
       en: 'When the World Splits into Two Islands — One of Permission and Dignity, One of Chaos and Indulgence',
-      es: 'Cuando el mundo se escinde en dos islas — una de permiso y dignidad, otra de caos e indulgencia',
+      es: 'Cuando el mundo se divide en dos islas: la isla del permiso y la dignidad, y la isla del caos y la frivolidad',
     },
     excerpt: {
       ar: 'في الكَوكَب جُزُرٌ كثيرة، لكنّها في الجَوهَر صِنفان: جزيرةٌ يَعبُر إليها الإنسانُ بإذنٍ من السماء فيَستردّ كَرامتَه، وجزيرةٌ يَتسلّل إليها خُفيةً ليُخفي عارَه. هذه الحلقة السابعة من «القرآن والحضارة» تَستخرج من باء «بسم الله» قانونَ الإذن في دُخول جزيرة الوَحي، تَقرأ افتتاحَ القرآن بـ«اقرأ» قبل «آمِنْ» قانونًا لحماية الإنسان من الفَشل، تُشَخِّص أنّ أزمة العالم ليست تقنيّةً بل أزمةُ فراغٍ أخلاقي، وتَطرح رمضان ثَورةً على الفَوضى الداخليّة وتدريبًا على السيادة الذاتيّة.',
@@ -448,12 +448,12 @@ export const articlesMeta: ArticleMeta[] = [
     title: {
       ar: 'الضَّمائرُ اليقظَة',
       en: 'Awakened Consciences',
-      es: 'Conciencias despiertas',
+      es: 'Las conciencias despiertas',
     },
     subtitle: {
       ar: 'قراءةٌ في حركةِ الإيمان من مشاهد الخليل إلى وعيِ الإنسان المعاصر',
       en: 'A Reading in the Movement of Faith — From the Scenes of the Khalīl to the Awareness of the Modern Soul',
-      es: 'Una lectura en el movimiento de la fe — de las escenas del Jalīl a la conciencia del alma moderna',
+      es: 'Una lectura en el movimiento de la fe, desde las escenas del Amigo (Abraham) hasta la conciencia del ser humano contemporáneo',
     },
     excerpt: {
       ar: 'ما الذي يجعل القلبَ يهفو إلى بيتٍ في صحراء، والنفسَ تتجرَّد من ألقابها لِتقفَ على صعيدٍ واحد؟ إنّه سرُّ الضمير اليقظ. هذه الحلقة الرابعة من «حِكَمٌ وبصائر» تَتَتَبَّع نبضَ الضمير في مَشاهد إبراهيمَ وهاجرَ وإسماعيل، ثم تَقرأ سورةَ القيامة شاهداً على بصيرة الإنسان على نفسه، وتَكشِف عن المنظومة التعبّديّة في الإسلام بوصفها نظاماً لإيقاظ الضمائر، وتُحدّد للضمير المعاصر أربعةَ أدوار في الأبوّة والزوجيّة والعمل والرسالة، وتَختمُ بأنّ من ماتَ ضميرُه فقد ماتَ مع إيقاف التنفيذ لبقيّة جسده.',
@@ -476,12 +476,12 @@ export const articlesMeta: ArticleMeta[] = [
     title: {
       ar: 'بيتُ الدعوة: بين الصورةِ المَوروثة والحقيقةِ البَشريّة',
       en: 'The House of Daʿwah: Between the Inherited Image and the Human Reality',
-      es: 'La casa de la daʿwa: entre la imagen heredada y la realidad humana',
+      es: 'La casa del llamado: entre la imagen heredada y la verdad humana',
     },
     subtitle: {
       ar: 'تأمُّلٌ في الفجوة بين الصورة الذهنيّة لبيت الإمام وبَشريّته الحقيقيّة — من بيت النبوّة إلى بيوت اليوم',
       en: "A Reflection on the Gap Between the Mental Image of the Imam's Household and Its True Humanity — From the Prophetic Household to Today's Homes",
-      es: 'Una reflexión sobre la brecha entre la imagen mental de la casa del imam y su humanidad real',
+      es: 'Una contemplación de la brecha entre la imagen mental de la casa del imam y su humanidad real — de la casa de la profecía a las casas de hoy',
     },
     excerpt: {
       ar: 'في مخيلة الجالية يَسكنُ بيتَ الداعية صورةٌ موروثةٌ مُسطَّحة لا تَحتمل البشريّة. لكنّ القرآن نفسه فَتَح نوافذَ بيت النبوّة على الجوع والغَيرة والإيلاء والإفك، وعالَج كلَّ ضغطٍ بنمطٍ مختلف. هذه الحلقة الثانية من «قضايا الإمام» تُفكِّك ثلاثَ "مُصادَرات" يَرزحُ تحتها بيتُ الإمام المعاصر، وتُفرد فصلاً لنفسيّة زوجته، وتُعيد تعريفَ القُدوة من "بيتٍ بلا توتّر" إلى "بيتٍ يُدير توتّرَه بحكمة".',
@@ -504,12 +504,12 @@ export const articlesMeta: ArticleMeta[] = [
     title: {
       ar: 'أبناءُ الأئمة بين المِنحة والمِحنة',
       en: 'Children of the Imams: Between Grace and Trial',
-      es: 'Los hijos de los imames: entre la gracia y la prueba',
+      es: 'Los hijos de los imanes entre la dádiva y la prueba',
     },
     subtitle: {
       ar: 'تأمّلاتٌ في بيتِ الإمام، ومَن نَشَؤوا فيه بين ما يَراه الناسُ وما يَعرفه الأهل',
       en: "Reflections on the Imam's Household, and Those Raised in It Between What People See and What the Family Knows",
-      es: 'Reflexiones sobre el hogar del imam, y los criados en él entre lo que la gente ve y lo que la familia sabe',
+      es: 'Contemplaciones en la casa del imam, y los que crecieron en ella entre lo que la gente ve y lo que la familia conoce',
     },
     excerpt: {
       ar: 'في بيت الإمام بيئتان: واحدة يراها الناس، وأخرى يعرفها أهله. وأبناؤه هم الجسر بين العالمين، يحملون — وهم بعدُ صغار — ما لا يحمله الكبار، ويعيشون مفارقة "السيّد الفقير" ومحنة الهويّة وإرث الأخطاء... ثمّ يخرجون من هذه المدرسة بثمار لا يقطفها سواهم.',
@@ -537,12 +537,12 @@ export const articlesMeta: ArticleMeta[] = [
     title: {
       ar: 'الاستمرارية بين دلالة النصوص وتجاوب النفوس',
       en: 'Steadfastness Between the Indications of the Sacred Texts and the Response of the Human Soul',
-      es: 'La firmeza entre las indicaciones de los textos sagrados y la respuesta del alma humana',
+      es: 'La continuidad entre la indicación de los textos y la respuesta de las almas',
     },
     subtitle: {
       ar: 'كلمة في اللقاء الشهري بمسجد الأكاديمية الأمريكية للأئمة (AIA) — تكساس',
       en: 'A Reflection from the Monthly Gathering at the American Imams Academy Masjid (AIA) — Texas',
-      es: 'Una reflexión del encuentro mensual en la Mezquita de la Academia Americana de Imames (AIA) — Texas',
+      es: 'Una palabra en el encuentro mensual en la Mezquita de la Academia Americana de los Imanes (AIA) — Texas',
     },
     excerpt: {
       ar: 'ما بعد رمضان ليس فراغًا، بل امتدادًا. تتضافر النصوص الشرعية على أهمية الاستمرارية، وتتفاوت النفوس في التجاوب معها. هذه الحلقة الرابعة من سلسلة ـحِكَمٌ وبصائرـ تفكّك تضافر النصوص على الاستمرارية، وترسم عشرة أنماط سلوكية للناس بعد مواسم الطاعة، وتقدّم ثماني خطوات عملية لتحويل الفتور إلى استمرارية.',
@@ -570,12 +570,12 @@ export const articlesMeta: ArticleMeta[] = [
     title: {
       ar: 'خَيرُ أُمَّةٍ لخَيرِ دِين',
       en: 'The Best Nation for the Best Religion',
-      es: 'La mejor nación para la mejor religión',
+      es: 'La mejor comunidad para la mejor religión',
     },
     subtitle: {
       ar: 'قراءةٌ في الميزان القرآنيِّ لـ«خَيريَّة» الأُمَّة، ومَوقعنا منها اليومَ',
       en: 'A Reading in the Qur\'anic Scale of the "Bestness" of the Ummah, and Where We Stand Today',
-      es: 'Una lectura de la aleya por la medida, no por el eslogan',
+      es: 'Una lectura de la aleya con una balanza, no con un lema',
     },
     excerpt: {
       ar: 'يَتلو المسلمون قولَه تعالى: ﴿كُنْتُمْ خَيْرَ أُمَّةٍ أُخْرِجَتْ لِلنَّاسِ﴾ كأنَّها وَسامُ انتماءٍ مَجَّاني. لكنَّ الآيةَ شَرطٌ لا وَصفٌ مَجَّاني، وفيها ثلاثُ مَشروطات. هذه الحلقة الثالثة من «حكم وبصائر» تَفكِّك معنى «الخَيريَّة» في الميزان الإسلاميِّ، وتَكشف عن مَوقع المسلمين في الغرب من هذا الميزان، وتُشخِّص ثلاثَ آفاتٍ تَفصم الأمَّةَ عن خَيريَّتها، وتَرسم أَربعَ طُرقٍ عمليَّةٍ للعودة إلى مَعنى «أُخرجَتْ للنَّاس» في زَماننا.',
@@ -603,12 +603,12 @@ export const articlesMeta: ArticleMeta[] = [
     title: {
       ar: 'عبوديَّتنا بين المقام والمقال',
       en: 'Our Servitude — Between Deed and Word',
-      es: 'Nuestra servidumbre — entre la obra y la palabra',
+      es: 'Nuestra servidumbre entre el estado y el dicho',
     },
     subtitle: {
       ar: 'قراءةٌ تأمُّليَّةٌ في الفجوة بين ما نَقول وما نَكون',
       en: 'A Reflective Reading on the Gap Between What We Say and What We Are',
-      es: 'Una lectura reflexiva sobre la brecha entre lo que decimos y lo que somos',
+      es: 'Una lectura contemplativa de la brecha entre lo que decimos y lo que somos',
     },
     excerpt: {
       ar: 'كان البلاغيُّون يَزِنون الفصاحة بـ«لكلِّ مقامٍ مقال»؛ لكنَّ في الدِّين معضلةً أَعمق: أن يَجد لكلِّ مقالٍ يَنطق به مقامًا يُصدِّقه في صدره وحياته. هذه الحلقة الثانية من سلسلة «حكم وبصائر» تَستخرج من الميزان القرآنيِّ ﴿لِمَ تَقُولُونَ مَا لَا تَفْعَلُونَ﴾ ثلاثَ درجاتٍ للعبوديَّة، وثلاثَ نماذجَ من واقع جالياتنا في الغرب، وثلاثَ آفاتٍ تَفصم المقامَ عن المقال، وخَريطةً عمليَّةً من خَمس خُطُواتٍ لردم الفجوة بين ما نَقول وما نَكون.',
@@ -636,12 +636,12 @@ export const articlesMeta: ArticleMeta[] = [
     title: {
       ar: 'الحِكمةُ ضالَّةُ المؤمنِ',
       en: 'Wisdom is the Lost Property of the Believer',
-      es: 'La sabiduría es el bien perdido del creyente',
+      es: 'La sabiduría es el extravío del creyente',
     },
     subtitle: {
       ar: 'قراءةٌ تأصيليَّةٌ في معنًى مأثور، وفي معضلةٍ حضاريَّةٍ معاصرة',
       en: 'A Foundational Reading of a Cherished Maxim and a Contemporary Civilizational Dilemma',
-      es: 'Una lectura fundacional de una máxima preciada y un dilema civilizatorio contemporáneo',
+      es: 'Una lectura fundacional de un dicho transmitido, y de un dilema civilizatorio contemporáneo',
     },
     excerpt: {
       ar: 'اشتُهر على الألسنة قولٌ مأثورٌ: «الحكمةُ ضالَّةُ المؤمن، أنَّى وَجَدها فهو أحقُّ بها». تُحرِّر هذه القراءةُ التأصيليَّةُ مَنزلةَ هذا المعنى علميًّا، وتَفتح بمقتضاه معادلةً حضاريَّةً عميقة يَعيشها المسلمُ المعاصر، وبخاصَّةٍ في الغرب: كيف يَنفتح على ميراث الإنسانيَّة دون أن يَذوب فيه؟ وكيف يأخذ من غيره دون أن يَفقد ذاتَه؟ مع تَخريجٍ دقيقٍ لكلِّ حديثٍ وأثرٍ، وثلاثة نماذجَ من واقعنا في أمريكا، وخاتمةٌ حضاريَّةٌ تَكشف أنَّ أزمةَ العالم اليومَ ليست أزمةَ معلومات، بل أزمةُ حكمة.',
@@ -669,12 +669,12 @@ export const articlesMeta: ArticleMeta[] = [
     title: {
       ar: 'فلسفة التهجير في القرآن الكريم',
       en: "The Philosophy of Displacement in the Noble Qur'an",
-      es: 'La filosofía del destierro en el Noble Corán',
+      es: 'La filosofía del desplazamiento en el Noble Corán',
     },
     subtitle: {
       ar: 'الحلقة السادسة — قِراءَةٌ بِنيَويَّةٌ في خَمسَةِ نَماذِجَ قُرآنيَّةٍ تَكشِفُ ثَوابتَ السُّلطَةِ المُتَجَبِّرَةِ وَفِقهَ النَّجاةِ مِنها',
       en: 'Episode Six — A Structural Reading of Five Qur\'anic Models Revealing the Constants of Tyrannical Power and the Jurisprudence of Deliverance',
-      es: 'Sexto episodio de la serie «El Corán y la Civilización» — Una lectura estructural de cinco modelos coránicos que revelan las constantes del poder tiránico y la jurisprudencia de la salvación',
+      es: 'El sexto episodio de la serie «El Corán y la civilización» — una lectura estructural de cinco modelos coránicos que descubren las constantes del poder tiránico y la jurisprudencia de la salvación de él',
     },
     excerpt: {
       ar: 'مِن أَهَمِّ اللَّقَطاتِ الحَضاريَّةِ الَّتي يَستَوقِفُنا فيها القُرآنُ الكَريم، لَقطَةُ التَّهجيرِ القَسريِّ لِلمُصلِحين. هذه الحَلَقَة السَّادِسَة مِن سِلسلَة «القُرآن والحَضارَة» تَستَخرِج مِن خَمسَةِ نَماذِجَ قُرآنيَّة (شُعَيب، لُوط، مُحَمَّد ﷺ، فِرعَون، الإسراء) سَبعَ قَوانينَ ثابِتَة في فَلسَفَة الإِخراج، وَتُشَخِّص البُنيَة النَّفسيَّة لِلسُّلطَة المُتَجَبِّرَة، وَمُؤَشِّرات انفِلاتِ قَبضَتِها، وَثَلاثَ قَوانينَ لِلنَّجاة. تَأصيلٌ يَنقُل المُسلِم في الغُربَة مِن مَوقِع التَّفاعُل العاطِفي إلى مَوقِع التَّأَمُّل الفِقهي.',
@@ -697,12 +697,12 @@ export const articlesMeta: ArticleMeta[] = [
     title: {
       ar: 'الإِسراءُ قَبل المِعراج — السُّورَةُ الدُّستوريَّةُ وَنَموذَجُ الدَّولَةِ المَدَنيَّة',
       en: 'The Isrāʾ Before the Miʿrāj — The Constitutional Sūra and the Civic State Model',
-      es: 'El Isrāʾ antes del Miʿrāch — La sura constitucional y el modelo del Estado cívico',
+      es: 'El Viaje Nocturno antes de la Ascensión — la sura constitucional y el modelo del Estado civil',
     },
     subtitle: {
       ar: 'الحلقة الخامسة — حَركَةٌ أُفُقيَّةٌ، وَمَوادُّ تَأسيسيَّةٌ، وَتَحَدِّياتٌ مَفصَليَّة',
       en: 'Episode Five — A Horizontal Movement, Foundational Articles, and Pivotal Challenges',
-      es: 'Quinto episodio de la serie «El Corán y la Civilización» — Un movimiento horizontal, artículos fundacionales y desafíos cruciales',
+      es: 'El quinto episodio de la serie «El Corán y la civilización» — un movimiento horizontal, artículos fundacionales, y desafíos decisivos',
     },
     excerpt: {
       ar: 'لِماذا سَمَّى القُرآنُ السُّورَةَ بِاسم الحَركَة الأُفُقيَّة (الإِسراء) دون الحَركَة العَموديَّة (المِعراج)؟ لِأَنَّ الحَقَّ يُسَمِّي بِما يَستَطيعُ النَّاسُ أَن يَفعَلوه. الحَلَقَة الخامِسَة مِن سِلسلة «القُرآن والحَضارَة» تَستَخرِج مِن سورَة الإِسراء — وَهي في وَسَط المُصحَف — مَوادَّ دُستوريَّة لِلدَّولَة المَدَنيَّة، وَثَلاثَة نَماذِجَ لِلحَركَة الحَضاريَّة (البُراق، السَّفينَة، العَصا)، وَتُشَخِّص ضَغطَي المُداهَنَة وَالإِخراج، وَتَكشِف مَنطِق التَّعجيز عِندَ المُجتَمَع المُهَيمِن.',
@@ -725,12 +725,12 @@ export const articlesMeta: ArticleMeta[] = [
     title: {
       ar: 'سُنَنُ الحَضارَة في القُرآن — سِتَّةُ قَوانينَ تَحكُم صُعودَ الأُمَم وَسُقوطَها',
       en: "The Sunan of Civilization in the Qur'an — Six Laws That Govern the Rise and Fall of Nations",
-      es: 'Las leyes (sunan) de la civilización en el Corán — Seis leyes que rigen el auge y la caída de las naciones',
+      es: 'Las leyes de la civilización en el Corán — seis leyes que rigen el ascenso de las naciones y su caída',
     },
     subtitle: {
       ar: 'الحلقة الرابعة — وَقفَةٌ جامِعَةٌ بَعد الكَهف ويوسُف وسُليمان',
       en: "Episode Four — A Synthesizing Pause after al-Kahf, Yūsuf, and Sulaymān",
-      es: 'Cuarto episodio de la serie «El Corán y la Civilización» — Una pausa de síntesis tras Al-Kahf, Yūsuf y Sulaymān',
+      es: 'El cuarto episodio de la serie «El Corán y la civilización» — una pausa de síntesis tras la Caverna, José y Salomón',
     },
     excerpt: {
       ar: 'بَعد ثَلاث حَلَقات في الكَهف ويوسُف وسُليمان، تَأَتي هذه الحَلَقَة لِتَستَخلِص سِتَّ سُنَنٍ إلهيَّة تَحكُم صُعود الأُمَم وَسُقوطَها: الاستِخلاف، التَّغيير الذَّاتي، الابتِلاء، المُداوَلَة، التَّدافُع، إصلاح الأَرض. كُلُّ سُنَّةٍ مَأخوذَةٌ مِن آيَةٍ مُحكَمَة، وَمُؤَيَّدَةٌ بِما رَأَيناه في السُّوَر الثَّلاث. وَقفَةٌ جامِعَةٌ لا خاتِمَة، تُمَهِّد لِما بَعدها مِن سُوَر.',
@@ -753,12 +753,12 @@ export const articlesMeta: ArticleMeta[] = [
     title: {
       ar: 'جَناحُ الهُدهُد وَسَيلُ العَرِم — سُنَّةُ الصُّعود والسُّقوط في القُرآن',
       en: "The Hoopoe's Wing and the Flood of al-ʿArim — The Law of Rise and Fall in the Qur'an",
-      es: 'El ala de la abubilla y la riada de al-ʿArim — La ley del auge y la caída en el Corán',
+      es: 'El ala de la abubilla y la riada de al-ʿArim — la ley del ascenso y la caída en el Corán',
     },
     subtitle: {
       ar: 'الحلقة الثالثة — جدلية سورتي النَّمل وسَبَأ بين تَمَدُّد الحَضارة وانكفائها',
       en: "Episode Three — A Dialectical Reading of Sūrat al-Naml and Sūrat Sabaʾ between Expansion and Withdrawal",
-      es: 'Tercer episodio de la serie «El Corán y la Civilización» — Una lectura dialéctica de la sura de An-Naml y la sura de Sabaʾ entre la expansión civilizatoria y el repliegue',
+      es: 'El tercer episodio de la serie «El Corán y la civilización» — la dialéctica de las suras de las Hormigas y de Saba entre la expansión de la civilización y su repliegue',
     },
     excerpt: {
       ar: 'في الأَرض ذاتِها مِن جَزيرَة العَرَب نَهَضَت حَضارَتان: حَضارَة سُليمان تَتَمَدَّد وَتَستَكشِف، وَحَضارَة سَبَأ تَنكَفِئ ثُمَّ تَتَفَرَّق. الحَلقَة الثَّالِثَة مِن سِلسلة «القُرآن والحَضارَة» تَستَخرِج مِن سورَتَي النَّمل وسَبَأ ثَلاثَة أَركان تَنظيميَّة (تَوزيع الأَدوار، الاستِكشاف، نَقل التِّقنيَة)، وَتَطرَح جَدَليَّة المَسجِد السُّليماني مُقابِل المَسجِد السَّبَئي في الغَرب اليَوم.',
@@ -781,12 +781,12 @@ export const articlesMeta: ArticleMeta[] = [
     title: {
       ar: 'سورة يوسُف ومَنحَنى الصُّعود الحَضاري',
       en: 'Sūrat Yūsuf and the Curve of Civilizational Ascent',
-      es: 'La sura de Yūsuf y el arco del ascenso civilizatorio',
+      es: 'La sura de José y la curva del ascenso civilizatorio',
     },
     subtitle: {
       ar: 'الحلقة الثانية — من قاع البئر إلى عَرش الإمبراطورية، ومن الفَرد إلى الأُمَّة',
       en: "Episode Two — From the Pit's Floor to an Imperial Throne, From the Individual to the Ummah",
-      es: 'Segundo episodio de la serie «El Corán y la Civilización» — Del fondo del pozo a un trono imperial, del individuo a la umma',
+      es: 'El segundo episodio de la serie «El Corán y la civilización» — del fondo del pozo al trono del imperio, y del individuo a la comunidad',
     },
     excerpt: {
       ar: 'الكَواكِب الإِحدى عَشرَة سَجَدَت لِيوسُف في رُؤياه قَبل أَن تَنحَني له إخوَتُه في مَجلِسه. مَنحَنى الصُّعود يُولَد في البَصيرَة قَبل أَن يَتَجَلَّى في الحَدَث. الحَلَقَة الثَّانيَة مِن سِلسلة «القُرآن والحَضارَة» تَستَخرِج مِن سورَة يوسُف أَربَعَة أَركان لِلصُّعود (العَفاف، العِلم، الاستِنباط، الهِمَّة)، تُشَخِّص ثَلاث أَزَمات لِلجاليَة المُسلِمَة في الغَرب، وَتَطرَح نَموذَج «الزَّرع في أَرض المَهجَر» الَّذي بَين يوسُف وموسى أَربَعَةُ قُرون.',
@@ -809,12 +809,12 @@ export const articlesMeta: ArticleMeta[] = [
     title: {
       ar: 'الإمام بين الفتوى الفردية وصوت الجماعة',
       en: 'The Imam Between Individual Fatwa and Collective Voice',
-      es: 'El imam entre el dictamen individual y la voz colectiva',
+      es: 'El imam entre el dictamen individual y la voz de la comunidad',
     },
     subtitle: {
       ar: 'الحلقة الرابعة والأخيرة — حين يَفقد الإفتاء بَوصلتَه في عَصر الخوارزميَّات',
       en: 'Episode Four (Final) — When Fatwa Loses Its Compass in the Age of Algorithms',
-      es: 'Cuarto episodio (final) de «El imam en Occidente — Una escuela para forjar al líder»',
+      es: 'Cuarto episodio (y último) — cuando el dictamen pierde su brújula en la era de los algoritmos',
     },
     excerpt: {
       ar: 'مُسلمٌ واحد يَستفتي أربعة مَصادر — شيخ يوتيوب، إمام محلي، داعية إنستجرام، نموذج ذكاء اصطناعي — فيتلقَّى أربع فتاوى مُتناقضة. هذه أزمة الإفتاء في الغَرب. الحلقة الرابعة والأخيرة تَعرض شُروط الفَتوى الكلاسيكية، تُشَخِّص انهيار المرجعية، وتطرح مَنظومة «صوت الجماعة» بَديلًا، مع تَوظيف بَحث الشيخ لِدار الإفتاء ٢٠٢٥ عن الفَتوى والذكاء الاصطناعي.',
@@ -837,12 +837,12 @@ export const articlesMeta: ArticleMeta[] = [
     title: {
       ar: 'لماذا تحتاج مساجد الغرب إلى عقل مؤسسي؟',
       en: 'Why Western Mosques Need an Institutional Mind',
-      es: '¿Por qué las mezquitas de Occidente necesitan una mente institucional?',
+      es: '¿Por qué necesitan las mezquitas de Occidente una mente institucional?',
     },
     subtitle: {
       ar: 'الحلقة الثالثة — خمس عللٍ وخمسة أركان لبناء المسجد الذي يُورِّث',
       en: 'Episode Three — Five Diseases and Five Pillars for the Mosque That Bequeaths',
-      es: 'Tercer episodio de «El imam en Occidente — Una escuela para forjar al líder»',
+      es: 'Tercer episodio — cinco dolencias y cinco pilares para construir la mezquita que lega',
     },
     excerpt: {
       ar: 'مَسجدٌ بِلا ذاكرةٍ مؤسَّسية هو شَجرة بلا جذور: مُكتمِلٌ ظاهرًا، هَشٌّ في أوَّل ريح. خمس عِلَل تَنهَش مساجد الغَرب، وخمسة أركان عِلاجية تُحَوِّلها من مَكاتب خِدمات إلى مُؤَسَّسات تُورِّث للأجيال. تَأصيلٌ من فقه الأَوقاف، ونُبوءة ابن خَلدون عن الأَجيال الثلاثة.',
@@ -865,12 +865,12 @@ export const articlesMeta: ArticleMeta[] = [
     title: {
       ar: 'صناعة الإمام المعاصر: العلم، والإدارة، والاحتواء النفسي',
       en: 'Crafting the Modern Imam: Knowledge, Management, and Pastoral Containment',
-      es: 'La forja del imam moderno: saber, gestión y contención pastoral',
+      es: 'La fabricación del imam contemporáneo: la ciencia, la administración y la contención psicológica',
     },
     subtitle: {
       ar: 'الحلقة الثانية — من تأسيس العلم إلى احتواء الأزمات والذات',
       en: 'Episode Two — From Building Knowledge to Containing Crises and the Self',
-      es: 'Segundo episodio de «El imam en Occidente — Una escuela para forjar al líder»',
+      es: 'Segundo episodio — del establecimiento de la ciencia a la contención de las crisis y del propio ser',
     },
     excerpt: {
       ar: 'لا تُبنى إمامةُ الغرب على عِلمٍ شرعيٍّ خالص ولا على مهارةٍ خَطابية وَحدها. الإمامُ المعاصر يحتاج إلى ثلاثة أركان متلازمة: علمٍ أزهري مُتَّصلٍ بفقه الأقليات، وإدارةٍ مؤسَّسية بأدواتها العملية، واحتواءٍ نفسي للناس وللذات. هذه الحلقة الثانية تقدِّم نموذج التَّأهيل.',
@@ -893,12 +893,12 @@ export const articlesMeta: ArticleMeta[] = [
     title: {
       ar: 'الإمام في الغرب: من إمامة الصلاة إلى إمامة المجتمع',
       en: 'The Imam in the West: From Leading the Prayer to Leading the Ummah',
-      es: 'El imam en Occidente: de dirigir la oración a liderar la umma',
+      es: 'El imam en Occidente: de la imamía de la oración a la imamía de la sociedad',
     },
     subtitle: {
       ar: 'الحلقة الأولى — التأصيل الفقهي، الواقع العملي، وثَمن القيادة',
       en: 'Episode One — Jurisprudential Foundation, Operational Reality, and the Cost of Leadership',
-      es: 'Primer episodio de «El imam en Occidente — Una escuela para forjar al líder»',
+      es: 'Primer episodio — el fundamento jurídico, la realidad práctica y el precio del liderazgo',
     },
     excerpt: {
       ar: 'يومُ الإمام في الغرب يبدأ قبل أن تطلع الشمس بسبع دوائر متشابكة: شعائرية، فُتيائية، أُسرية، تربوية، مؤسَّسية، مُجتمعية، نَفسية. كيف انفصلت إمامة الصلاة عن إمامة المجتمع، ولماذا يفرض الواقع الأمريكي إعادة جمعهما؟',
@@ -921,12 +921,12 @@ export const articlesMeta: ArticleMeta[] = [
     title: {
       ar: 'القرآن والتأصيل الحضاري',
       en: 'The Qur\'an and the Foundations of Civilization',
-      es: 'El Corán y los fundamentos de la civilización',
+      es: 'El Corán y el fundamento civilizatorio',
     },
     subtitle: {
       ar: 'الحلقة الأولى — حين يصنع الوحي الإنسان… تُولد الحضارة',
       en: 'Episode One — When Revelation Shapes the Human, Civilization is Born',
-      es: 'Cuando la revelación moldea al ser humano, nace la civilización',
+      es: 'Primer episodio — cuando la Revelación fabrica al ser humano… nace la civilización',
     },
     excerpt: {
       ar: 'سورة الكهف ليست مجرد سورة تُتلى يوم الجمعة طلبًا للبركة، بل هي بناء متكامل لأركان الحضارة الإنسانية: المورد البشري، المال الرشيد، العلم المتجدد، والقيادة العادلة. قراءة جديدة في معجم الكهف وأنبياء الحضارة.',
