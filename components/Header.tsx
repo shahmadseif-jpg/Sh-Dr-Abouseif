@@ -70,6 +70,17 @@ export default function Header() {
               </Link>
             );
           })}
+          <Link
+            href="/search"
+            aria-label={t('search')}
+            title={t('search')}
+            className="ms-1 p-2 rounded-md text-navy-600 hover:text-navy-700 hover:bg-navy-50 no-underline"
+          >
+            <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2">
+              <circle cx="11" cy="11" r="7" />
+              <path d="M21 21l-4.3-4.3" />
+            </svg>
+          </Link>
           <div className="ms-2 flex items-center gap-1 border border-navy-200 rounded-md p-0.5">
             {switchLocales.map((l) => (
               <Link
@@ -107,6 +118,17 @@ export default function Header() {
       {mobileOpen && (
         <div className="md:hidden border-t border-navy-100 bg-white">
           <nav className="px-4 py-3 flex flex-col gap-1">
+            <Link
+              href="/search"
+              onClick={() => setMobileOpen(false)}
+              className="px-3 py-2 text-sm rounded-md text-navy-600 hover:bg-navy-50 no-underline flex items-center gap-2"
+            >
+              <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2">
+                <circle cx="11" cy="11" r="7" />
+                <path d="M21 21l-4.3-4.3" />
+              </svg>
+              {t('search')}
+            </Link>
             {navItems.map((item) => (
               <Link
                 key={item.href}
