@@ -1,6 +1,6 @@
 ---
-title: "Conciencias despiertas"
-subtitle: "Una lectura en el movimiento de la fe — de las escenas del Jalīl a la conciencia del alma moderna"
+title: "Las conciencias despiertas"
+subtitle: "Una lectura en el movimiento de la fe, desde las escenas del Amigo (Abraham) hasta la conciencia del ser humano contemporáneo"
 date: "2026-05-23"
 locale: "es"
 slug: "awakened-consciences"
@@ -9,99 +9,99 @@ episode: 4
 readingMinutes: 12
 ---
 
-### Apertura: ¿Despierta la conciencia, o duerme el alma?
+### Entrada: ¿una conciencia que despierta o un alma que duerme?
 
-Hay una pregunta intemporal que precede a toda otra: ¿Qué es lo que hace que el corazón anhele, que la mente se aferre, y que el alma no cese de añorar un punto específico de esta tierra? ¿Cuál es el secreto de una tierra estéril hacia la que las gentes acuden desde los confines del mundo —despojándose de sus vestimentas y títulos, irguiéndose sobre un solo suelo, movidas por una extraña resolución que ni la lógica del turismo ni el cálculo del lucro pueden explicar?
+Hay una pregunta eterna que precede a toda pregunta: ¿qué es lo que hace que el corazón anhele, la mente se apegue, y el alma no cese de añorar un punto determinado de este planeta? ¿Cuál es el secreto de una tierra desprovista de bullicio, a la que acude la gente de los confines del mundo, se despojan de sus ropas y sus títulos, y se ponen de pie sobre un solo suelo, agitándose en ellos un afán extraño que no lo explica la lógica del turismo ni los cálculos de la ganancia?
 
-Es —en mi lectura— el secreto de la **conciencia despierta**: ese indicador oculto que Dios plantó dentro del ser humano para ser su brújula cuando los caminos se asemejan, su árbitro cuando los deseos chocan, y su alarma cuando las lenguas callan y los intereses se confabulan. Con la temporada del Hach acercándose —cuando las almas parten hacia los contornos de la Casa Antigua— nos conviene recalibrar este indicador y preguntarnos: ¿Están nuestras conciencias despiertas, o las ha cubierto tanto el polvo de los días que ahora laten solo con dificultad?
+Es —en mi parecer— el secreto de **la conciencia despierta**; ese indicador oculto que Dios plantó en el ser humano para que fuera su brújula cuando los caminos se asemejan, su árbitro cuando contienden las pasiones, y su alarma cuando enmudecen las lenguas y conspiran los intereses. Y con la cercanía de la temporada de la Peregrinación, donde se lanzan las almas a la amplitud de la Casa Antigua, conviene que reajustemos este indicador, y nos preguntemos: ¿están nuestras conciencias despiertas, o es que el polvo de los días las ha cubierto hasta que ya no laten sino con dificultad?
 
-### Primero: movimiento en un desierto, vela en un corazón
+### Primero: un movimiento en un desierto, una vigilia en un corazón
 
-Reflexiona sobre aquel movimiento que se desplegó hace miles de años en un entorno despojado de distracciones: lenguaje simple, lógica callada, foco total en cuanto se desplegaba sobre la tierra. Allí se mueve Ibrāhīm —la paz sea con nuestro Profeta y con él— un solo hombre de cuyo corazón brota toda una nación.
+Contempla aquel movimiento que se dio hace miles de años en un entorno desprovisto de distracciones; una lengua sencilla, una lógica serena, y una concentración total en todo lo que ocurre en la tierra. Allí se mueve Abraham —sobre nuestro Profeta y sobre él sean la oración y la paz— un solo hombre del que brota de su corazón una comunidad entera.
 
-Se le da la buena nueva de un hijo tras una larga espera. Y las buenas nuevas, en verdad, son una prueba. Algunos, al recibir una buena noticia, se vuelven ávidos de más. Algunos retroceden porque la noticia se queda corta ante su ambición. Y algunos se entregan a Aquel que trae la noticia —su ojo fijo en el Dador y no en el don— por pequeño que sea. Ibrāhīm no comentó la nueva con una sola palabra, mientras su esposa se maravillaba: *«¡Una anciana estéril!»* Esa es la conciencia del Jalīl, que se mueve en silencio: **La bendición de mi Señor no se rehúsa, no se niega, no se apresura —aunque el alma sufra por ella.**
+Le viene una orden con la albricia del hijo tras larga espera. Y las albricias en realidad son una prueba; pues entre la gente hay quien es albriciado y codicia más, hay quien se angustia porque lo que se le anunció es menor que su ambición, y hay quien se entrega al Albriciador aunque la albricia sea poca, con su ojo en Quien da, no en lo dado. Y Abraham no comentó la albricia con una letra; mientras que su esposa se asombró: «¡una vieja estéril!». Esa es la conciencia del Amigo moviéndose en silencio: la merced de mi Señor no se rechaza, ni se niega, ni se precipita, aunque el alma esté ávida de ella.
 
-Pasa un breve tiempo, y llega la orden: lleva a este infante y a su madre a una tierra estéril. Sin agua, sin comida, sin oyente, sin auxiliador. A un ojo estrictamente material, la escena parece un suicidio premeditado —o un intento de asesinato por abandono. Pero hay una conciencia aquí que se ha empeñado a la orden de Dios, por dura que sea para el alma. Cree y se somete. **La sumisión no tolera «¿cómo?», ni «¿cuándo?», ni «¿para qué?» —es solo *«he creído»*.**
+Luego pasa un tiempo breve, y le viene la orden de llevar a este lactante y a su madre a una tierra vacía: ni agua, ni alimento, ni quien escuche, ni quien socorra. Y si miraras la escena con un ojo material puro, la verías una especie de suicidio deliberado, o un intento de homicidio por abandono. Pero allí había una conciencia que había pactado con Dios comprometerse con Su orden aunque fuera dura para el alma, así que creyó y se entregó; y la entrega no admite «¿cómo?», ni «¿cuándo?», ni «¿hacia qué?», sino que es solo **«he creído»**.
 
-### Segundo: una mujer en el yermo, conciencia en su cúspide
+### Segundo: una mujer en un yermo, y una conciencia en su cúspide
 
-Luego la cámara del corazón se desplaza a una mujer ahora sola, y el título de su entrega se yergue claro en sus palabras: *«¿A quién nos confías?»* Sin respuesta. *«¿Te lo ordenó Dios?»* *«Sí, en verdad.»* *«¡Entonces no nos abandonará!»*
+Luego se traslada la cámara del corazón a una escena de una mujer que se quedó sola, y he aquí que el título de la entrega es prominente en sus palabras: **«¿A quién nos confías?»** Sin respuesta. **«¿Dios te lo ordenó?»** **«¡Sí, por Dios!»**. **«¡Entonces no nos abandonará!»**.
 
-Detengámonos en el corazón de la pregunta: ¿Por qué preguntó esto Hāyar en absoluto? Porque conocía a su esposo como un hombre que jamás se mueve por iniciativa propia, que jamás actúa por capricho —sino como una persona que vive bajo una luz encendida dentro de él. En el momento en que supo que Dios le había ordenado, halló sosiego en la certeza de que los cielos no la decepcionarían. ¿Qué clase de conciencia es esta —que hace que una mujer mire a su alrededor, no vea nada, y luego no vea sino a su Señor, y se someta ante una sola palabra de su esposo?
+Y detengámonos en la esencia de la pregunta: ¿por qué hizo Agar esta pregunta en absoluto? Porque conoció a su esposo como un hombre que no se mueve por sí mismo, ni actúa por capricho, sino que es un ser humano que vive bajo una luz encendida en su interior. Por eso, cuando supo que Dios se lo ordenó, descansó en que el cielo no la abandonaría. ¡Qué conciencia es esta que hace que una mujer mire a su alrededor y no vea nada, luego no vea sino a su Señor, y se entregue con una sola palabra de su esposo!
 
-Pasan meses y años. Ibrāhīm regresa para hallar a la mujer exactamente como la dejó: casta, recatada, velando por su hijo, firme en su fe, fuerte en su carácter. No se desvió en la ausencia de su esposo. Los componentes de su feminidad no la doblaron de la senda recta. La soledad no la convirtió en una desplazadora de pantallas que muestran espectáculos, ni saboreó momentos de amor e infatuación actuados en pantallas grandes o pequeñas. Era **la sierva de Dios** —no la cautiva de su cuerpo, ni del deseo, ni de la fascinación. Y con una conciencia despierta, captó la lección.
+Luego pasan los años y los meses, y vuelve Abraham y ve a la mujer como la dejó: castidad, recato, custodia de su hijo, solidez en la religión, y fuerza en la personalidad. No se desvió con la ausencia de su esposo, ni la torcieron del camino recto los componentes de la feminidad, ni la convirtió la soledad en una navegante de pantallas que exhiben escenas, ni gozó de los momentos de amor y pasión que se representan en pantallas que se hicieron pequeñas o grandes. Fue **una sierva de Dios**, no una cautiva del cuerpo ni del deseo ni de la tentación. Y con una conciencia despierta, asimiló la lección.
 
-### Tercero: un niño criado en la auto-vigilancia
+### Tercero: un muchacho que crece en la vigilancia
 
-Si decimos que Ibrāhīm es el maestro de la lógica en el mundo, que enseñó a la humanidad el diálogo y las artes de la persuasión, y que, no obstante, no disputó a su Señor por una sola letra cuando se le ordenó sacrificar a su hijo —aunque las excusas eran muchas, y de haber querido, podría haberse demorado con la esperanza de que la orden se aliviara— la figura más asombrosa en la escena es Ismāʿīl mismo.
+Y si decimos que Abraham es el maestro de la lógica en el mundo, que enseñó al mundo el diálogo y los métodos de la persuasión, y, con todo, no disputó con su Señor en una letra cuando se le ordenó sacrificar a su hijo —pese a que las excusas son muchas, y si hubiera querido se habría demorado un poco con la esperanza de que la orden cambiara—, pues lo más asombroso de la escena es Ismael mismo.
 
-Un joven que creció desde la niñez apoyándose en sí mismo, con la venia de Dios, entre aquellas gentes. Su padre lo visita de tiempo en tiempo. Luego un día viene con una orden que sacudiría montañas: *«He visto en un sueño que te sacrifico.»* ¿Dónde está la lógica? Pero Ismāʿīl había sido criado, por encima de todo, en una conciencia que se mueve dentro de él —con la que sopesa toda orden del cielo. No halla apertura en su pecho para «¿por qué?», solo: *«¡Oh, padre mío! Haz lo que se te ordena.»* Es una sola ecuación vivida dentro de un solo hogar: sumisión del padre, sumisión de la madre, sumisión del hijo. **Y en el corazón de esta triple sumisión, vive una nación.**
+Un muchacho que creció desde su pequeñez dependiendo de sí mismo, con el permiso de su Señor, en medio de esa gente, lo visita su padre de cuando en cuando, y luego le viene un día con una orden que derrumba las montañas: «En verdad, veo en el sueño que te sacrifico». ¿Cuál es la lógica? Pero Ismael ha sido educado antes que nada en una conciencia que se mueve en su interior, con la que sopesa la orden del cielo, así que no halla en su pecho una vía para «¿por qué?», sino que halla «¡Oh, padre mío! Haz lo que se te ordena». Es una sola ecuación en una sola familia: entrega del padre, entrega de la madre, y entrega del hijo. Y en el corazón de esta triple entrega, **¡vive la comunidad!**
 
-### Cuarto: el testimonio de la revelación a la perspicacia humana
+### Cuarto: el testimonio de la Revelación sobre la clarividencia del ser humano
 
-Abres el Corán y hallas esta verdad dibujada con absoluta precisión:
+Abres el Códice, y hallas esta verdad dibujada con la máxima firmeza:
 
-> *«Más bien, el ser humano es, contra sí mismo, una clara perspicacia —aunque esparza sus excusas.»* (Al-Qiyāma: 14–15)
+> «Más aún, el ser humano será evidencia contra sí mismo, aunque presente sus excusas.» [al-Qiyāma: 14–15]
 
-¿En qué sura se revelaron estas aleyas? ¡En **la sura de Al-Qiyāma** —«La Resurrección»! ¿Y qué resurrección es esta? ¿La resurrección del más allá solamente, o un estandarte alzado que declara que **la conciencia jamás late mientras duerme —requiere un constante levantar encendido, una vigilia continua**?
+¿Y en qué sura descendieron estas dos aleyas? ¡En **la sura de la Resurrección** (al-Qiyāma)! ¿Y qué resurrección es esta? ¿Es la resurrección de la otra vida sola, o es un lema enarbolado: que la conciencia no late mientras está dormida, sino que ha de tener un **levantamiento encendido, y una vigilia continua**?
 
-Nota la precisión de la formulación coránica: no dijo *«visión de sí mismo»*, lo que habría bastado, sino **«una clara perspicacia»** (*baṣīra*) —y *baṣīra* significa una captación completa de cada partícula de lo que tienes delante. *Yo* conozco mi alma; conozco sus movimientos, sus inclinaciones y sus oscilaciones, sus desviaciones y su rectitud, y la enderezo antes de que otro me la enderece. Y porque Dios conocía nuestra costumbre de aferrarnos a las excusas con cada deber que se nos impone, siguió la aleya con: *«aunque esparza sus excusas»* —como diciendo: *«Te conozco bien —¡eres un hacedor de gestos y de racionalizaciones!»*
+Y nota la precisión de la expresión coránica: no dijo «vidente de sí mismo» y bastaría, sino que dijo **«evidencia/clarividente»** (baṣīra); y la clarividencia significa la comprensión completa de todos los detalles del componente que tienes entre las manos. Pues yo conozco mi alma, conozco su movimiento, sus mudanzas, su inclinación, su torcedura y su rectitud, así que la enderezo antes de que la enderece otro contra mí. Y como nuestro Señor supo de nosotros la búsqueda de excusas con cada encomienda, lo siguió con Su dicho: «aunque presente sus excusas»; como si dijera: «¡Te conozco, eres dueño de movimientos y justificaciones!».
 
-Luego lees en la misma sura:
+Luego lees en la sura misma:
 
-> *«No muevas tu lengua con él para apresurarlo. Es a Nosotros a quienes corresponde reunirlo y recitarlo. Así que cuando lo recitemos, sigue su recitación. Luego, a Nosotros corresponde su aclaración.»* (Al-Qiyāma: 16–19)
+> «No muevas con él tu lengua para apresurarlo. En verdad, a Nosotros corresponde reunirlo y recitarlo. Y cuando lo recitemos, sigue su recitación. Luego, a Nosotros corresponde su aclaración.» [al-Qiyāma: 16–19]
 
-¿Cuál es la conexión entre hablar de la conciencia y ordenar al Profeta ﷺ no adelantarse a la revelación? Es como si nuestro Señor nos enseñara: **este es el modelo de la resolución con la que se mueven las conciencias despiertas** —una vigilancia sobre la solidez del sentido y la integridad de la forma, una conciencia que no solo se mueve dentro de su portador, sino que mueve a otros hacia el bien.
+¿Y qué correspondencia hay entre el hablar de la conciencia y la orden al Profeta (la paz sea con él) de no apresurar la Revelación? Como si nuestro Señor nos enseñara que ese es **el modelo del afán con el que se mueven las conciencias despiertas**: un celo por la rectitud del significado y la solidez de la construcción, y una conciencia que no se contenta con moverse en su poseedor, sino que mueve a otros hacia el bien.
 
-Luego viene la enfermedad y la torcedura en la aleya siguiente: *«No, sino que amáis lo fugaz, y abandonáis el más allá.»* (Al-Qiyāma: 20–21). Es el amor de lo fugaz lo que acalla las conciencias: el brillo del oro, el destello de la plata, y la excitación del dólar —la deidad de las multitudes— haciendo del *ahora fugaz* tu conciencia. Le dices al llamador interior de la verdad: *«Espera un poco —hablaremos de esto luego.»* Así las lenguas enmudecen, y el apetito es empujado hacia una acumulación cada vez mayor —justificada o no.
+Luego viene la dolencia y la torcedura en la aleya siguiente: «¡No! Más aún, amáis lo inmediato y dejáis la otra vida.» [al-Qiyāma: 20–21]. Pues el amor de lo inmediato es lo que hace callar a las conciencias; el brillo del oro, el lustre de la plata, y la excitación del dólar —el ídolo de las masas— hace de lo inmediato tu conciencia, así que le dices a quien llama a la verdad en tu interior: «¡Espera un poco, hablamos de esto luego!». Y así enmudecen las lenguas, y se empuja el deseo hacia más adquisición, justificada o no justificada.
 
-### Quinto: el alma que se reprocha… o el indicador de advertencia
+### Quinto: el alma que se reprocha... o el indicador de alarma
 
-En la apertura de la misma sura de Al-Qiyāma, nuestro Señor jura dos juramentos entrelazados:
+Y en el comienzo de la sura de la Resurrección misma nuestro Señor jura con dos juramentos asociados:
 
-> *«Juro por el Día de la Resurrección, y juro por el alma que se reprocha a sí misma.»* (Al-Qiyāma: 1–2)
+> «¡Juro por el Día de la Resurrección! ¡Y juro por el alma que se reprocha!» [al-Qiyāma: 1–2]
 
-La comparación es elocuente: **¡la gran resurrección del cosmos —y la pequeña resurrección del alma!** La posibilidad del error en nuestras vidas no es remota; lo que *es* remoto —en verdad— es que un error no vaya acompañado de una conciencia que detenga a su dueño de tiempo en tiempo y diga: *«¡Despierta! ¡Toma nota! Hay un indicador que suena una alarma.»*
+Y la comparación entre los dos juramentos es elocuente: **¡la gran resurrección del universo, y la pequeña resurrección del alma!** Pues la probabilidad del error en nuestra vida no es remota, pero lo remoto —de veras— es que el error no vaya acompañado de una conciencia que detenga a su poseedor de cuando en cuando y le diga: «¡Despierta! ¡Atiende! Hay un indicador que emite una alarma».
 
-Este indicador es la conciencia. Si escuchas, te devuelve a la senda antes de que hayas ido lejos. Si la silencias o la acallas, recorres kilómetros por el camino equivocado antes de descubrir que ya no reconoces la vía.
+Este indicador es la conciencia. Si la escuchas, te devuelve al camino recto cuando aún no te has alejado. Y si la apagas o le bajas la voz, te lanzas por el camino equivocado kilómetros antes de descubrir que ya no conoces el camino.
 
-### Sexto: el Islam — un sistema para despertar las conciencias
+### Sexto: el islam es un sistema para despertar las conciencias
 
-Quien reflexiona sobre los actos de adoración en esta religión se da cuenta de que el Sabio Legislador edificó el sistema devocional, ante todo, para obrar sobre **el despertar de la conciencia y su guarda del letargo**:
+Quien contempla las adoraciones en esta religión, comprende que el Legislador Sabio edificó el sistema devocional para que obre —en primer lugar— en **despertar la conciencia y preservarla del letargo**:
 
-Las cinco oraciones diarias no son ritos aislados —son cinco **«actualizaciones»** por las que el Islam restaura tu conciencia a tu vigilia. En la oración, vigilas la palabra, el movimiento y la quietud; vigilas todo tu cuerpo en cada detalle; aprendes qué corrompe la validez de la oración y qué la salva. Es un **despertar de la conciencia** cinco veces al día.
+Pues las cinco oraciones en el día y la noche no son ritos separados, sino que son cinco «Refresh» con los que el islam te devuelve el rendimiento de tu conciencia en tu consciencia. Pues en la oración vigilas la palabra, el movimiento y la quietud, vigilas tu cuerpo entero en todo, y sabes qué es lo que estropea su validez y qué es lo que la salva. Es **un despertar de la consciencia** cinco veces al día.
 
-Una vez al año, te llega un **curso de entrenamiento** completo: Dios te ordena abstenerte de lo *lícito* durante el día del Ramadán —para despertar esta conciencia una vez más y revivirla. Y el Hach mismo no es un viaje turístico, sino un despojo del alma de sus ornamentos, para que la conciencia capte la voz de su Señor con claridad, sin interferencia.
+Y en el año te viene **un curso de entrenamiento completo**, en el que Dios te ordena abstenerte de lo **lícito** en el día de Ramadán, para despertar en ti esta conciencia y revivirla otra vez. Y la Peregrinación misma no es un viaje turístico, sino un despojo del alma de sus adornos para que la conciencia capte la voz de su Señor clara sin interferencia.
 
-Cuando estas conciencias se enderezan, la vida se endereza con ellas; la brújula de este mundo se afirma; y el siervo alcanza su propósito de erguirse rectamente ante Dios.
+Y si se enderezan estas conciencias, se endereza con ellas la vida, se regula la brújula del mundo, y alcanza el siervo de entre nosotros su propósito de erguir su propio ser ante Dios.
 
-### Séptimo: la conciencia en cuatro roles
+### Séptimo: las conciencias en los cuatro papeles
 
-¿Dónde está la conciencia en nuestros días? Late en cuatro lugares que no debemos descuidar:
+¿Dónde está la posición de la conciencia en nuestro día contemporáneo? Late en cuatro posiciones de las que no debemos descuidarnos:
 
-- **Nuestra conciencia como padres**: no perder a nuestros hijos en un tiempo atestado de distracciones, en el que la infancia es violada por pantallas que roban la inocencia.
-- **Nuestra conciencia como cónyuges**: no perder a nuestras esposas, y nuestras hermanas como esposas no perder a sus esposos. El hogar musulmán se yergue sobre la conciencia mutua, no sobre un contrato de forma.
-- **Nuestra conciencia como gentes del trabajo** —seamos dueños o empleados: la integridad en el tomar y el dar, la honestidad en la producción, la excelencia en la entrega.
-- **Nuestra conciencia como portadores de un mensaje** en esta tierra acerca del Islam: que esta comprensión jamás se aparte de tu mente, ni tu resolución se desvíe de ella.
+- **Nuestra conciencia como padres**: no perder a nuestros hijos en un tiempo en que se multiplicaron las ocupaciones, y se violó la infancia de los hijos con pantallas que les roban la inocencia.
+- **Nuestra conciencia como cónyuges**: no perder a nuestras esposas, y que nuestras hermanas las esposas no pierdan a sus hombres, pues la casa musulmana se sostiene sobre una consciencia mutua, no sobre un contrato formal.
+- **Nuestra conciencia como gente de trabajo** —seamos propietarios u obreros—: la fidelidad en el tomar y el dar, la veracidad en la producción, y la excelencia en la realización.
+- **Nuestra conciencia como portadores de un mensaje** en esta tierra sobre el islam: que no se ausente esta comprensión de tu mente, ni se aparte de ella tu afán.
 
-Pues no estamos aquí por un bocado que dejará al cuerpo peor de lo que entró, ni por unos dineros que saben cómo dar y luego retomar, ni por los oropeles de un mundo al que nuestros cuerpos volverán bajo el polvo. **Estamos aquí por un fin. Estamos aquí por un propósito.** Quien pierde su propósito pierde su identidad; y quien pierde su identidad se pierde entre el resto de la humanidad.
+Pues nosotros no estamos aquí por un bocado que irá a un lugar peor que aquel en que entró, ni por unos bienes que saben cómo darlos y luego tomarlos, ni por un disfrute con el que volverán nuestros cuerpos a lo que hay bajo la tierra. **Estamos aquí por un fin, estamos aquí por un objetivo**. Pues quien perdió su objetivo perdió su identidad, y quien perdió su identidad se perdió en medio del resto de la gente.
 
-### Octavo: el compromiso y la paciencia — no el repliegue
+### Octavo: el trato y la paciencia... no el aislamiento
 
-Tu conciencia despierta puede tentarte hacia la reclusión, pues los de conciencia a menudo se hastían del trato. Por Dios, siento por aquel Compañero que vino al Profeta ﷺ diciendo: *«Quiero apartarme de las gentes y quedarme en mi casa.»* El Profeta ﷺ lo afianzó con palabras que lo atrajeron a una mayor lucha: **«Que te mezcles con las gentes y soportes su daño con paciencia es mejor para ti que abstenerte de ellas y no soportar su daño.»** Como diciendo: apóyate en Dios —pues el sostén es de Él— y tu mensaje en las gentes no se completa huyendo de las gentes.
+Puede que te seduzca tu conciencia despierta hacia el aislamiento; pues la gente de las conciencias se angustia mucho con el trato. Y yo, por Dios, siento como aquel Compañero que vino al Profeta (la paz sea con él) diciendo: «Quise apartarme de la gente y quedarme en mi casa». Y he aquí que el Profeta (la paz sea con él) le da paciencia con lo que lo lleva a más esfuerzo, y le dice lo que significa: **«Que trates con la gente y tengas paciencia con su daño es mejor para ti que no tratarlas y no tener paciencia con su daño»**. Como si (la paz sea con él) le dijera: pide ayuda a Dios, pues el socorro es de Su parte, y tu mensaje en la gente no se completa con una huida de la gente.
 
-### Noveno: la conciencia viva… un honor que no muere
+### Noveno: la conciencia viva... una dignidad que no muere
 
-**Aquel cuya conciencia ha muerto ha muerto —con el resto de su cuerpo meramente en sentencia suspendida; y aquel cuya conciencia vive ha vivido —aun cuando su cuerpo haya cesado de moverse.** Quien aviva la resolución de la conciencia dentro de su alma vive honrado a lo largo de su vida; no muere, ni es humillado —pues está conectado con los cielos, su sustento de su Señor, su provisión de su Creador. No necesita una mano tendida hacia las gentes; más bien, su mano está siempre alzada hacia arriba —recibiendo no en el plano horizontal, sino desde lo alto. Ese es el mayor don que un ser humano puede alcanzar en esta vida.
+**Quien murió su conciencia ha muerto con suspensión de ejecución para el resto de su cuerpo, y quien vivió su conciencia ha vivido aunque se detenga del movimiento su cuerpo**. Y quien movilizó el afán de la conciencia en sí mismo, vivió digno en toda su vida; no muere jamás ni se humilla, porque está conectado al cielo, y su tinta es de su Señor, y su provisión de su Creador. No necesita una mano que se extienda a la gente, sino que su mano siempre se eleva hacia lo alto; no recibe en el nivel horizontal, sino que recibe del cielo. Y ese es el mayor don que puede alcanzar un ser humano en la vida.
 
 ### Conclusión: educar la conciencia es la necesidad de la época
 
-Cada uno de nosotros gasta, desde el primer año de la escuela primaria hasta la recepción de un doctorado, veinte años o más de su vida —en paciencia, en desvelos, en el ordenamiento de las prioridades. ¿Por qué, entonces, no soportamos con nosotros mismos un poco —hasta alcanzar la estación de la dignidad ante Dios?
+Uno de nosotros gasta de su vida desde el primer curso de primaria hasta que obtiene el título de doctorado veinte años o más; paciencia, desvelo, y ordenamiento de prioridades. ¿Cómo es que no nos armamos de paciencia un poco hasta alcanzar el lugar de la dignidad ante Dios?
 
-Por Dios, me amonesto a mí mismo antes que a los demás: si hay una sospecha de dinero en nuestras manos, dejarlo por amor a Dios es más noble y más honroso. Si hay una tentación que nos aparta de nuestros hogares, refugiarse en el Señor de los Mundos es más propio y más elocuente. Si hay un antojo, una desviación en la conducta, o cualquier cosa conocida solo por Dios, entonces la paciencia es más dulce al final —y más merecedora de recompensa en el encuentro más completo y supremo.
+Yo, por Dios, me exhorto a mí mismo antes que a otro: si hay entre nuestras manos una sospecha de un bien, dejarlo por Dios es más glorioso y más honroso. Y si hay entre nuestras manos una seducción que nos aparta de nuestras casas, aferrarse al Señor de los mundos es más adecuado y más elocuente. Y si hay entre nuestras manos un deseo, una desviación en la conducta, o lo que no lo conoce sino Dios, la paciencia es de más dulce sabor al final, y de más esperada recompensa en el encuentro más completo y más elevado.
 
-**¡Oh Dios! Despierta nuestras conciencias dentro de nuestros pechos, revive nuestros corazones por su latido, y hazlas brújulas que nos guíen a Tu agrado y alarmas que nos despierten antes de que el tiempo haya pasado. En verdad, Tú eres el Oyente, el que Responde.**
+**¡Oh, Dios! Despierta en nuestros pechos nuestras conciencias, revive con su latido nuestros corazones, y hazlas una brújula que nos guíe a Tu complacencia, y una alarma que nos despierte antes de que pase la ocasión, pues Tú eres Oyente, Atendedor.**
 
 ---
 
-*Este artículo es una destilación escrita del sermón del viernes pronunciado el 15 de mayo de 2026 en la Mezquita AIA de la Academia Americana de Imames, recompuesto y refinado para la lectura escrita.*
+*Artículo extraído del sermón del viernes de fecha 15 de mayo de 2026 en la mezquita de la Academia Americana de los Imanes (AIA Masjid), reescrito y revisado para adecuarse a la lectura escrita.*

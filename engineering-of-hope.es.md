@@ -1,112 +1,102 @@
 ---
-title: "Las buenas nuevas del Corán"
-subtitle: "La ingeniería de la esperanza a través de la arquitectura del orden de las suras"
+title: "Las albricias del Corán"
+subtitle: "La fabricación de la esperanza mediante la ingeniería del orden de las suras"
 date: "2026-05-24"
 locale: "es"
 slug: "engineering-of-hope"
-series: "Las Buenas Nuevas del Corán"
+series: "Las albricias del Corán"
 episode: 1
 readingMinutes: 7
 ---
 
-### Apertura: cuando la disposición misma es un mensaje
+### Entrada: cuando el orden mismo es un mensaje
 
-El orden de las suras del Corán no es meramente una secuencia temática —es una maravillosa secuencia psicológica y pedagógica. El Corán no cultiva al ser humano solo a través de sus sentidos individuales, sino a través de la sucesión de sus suras mismas: hace que las buenas nuevas vengan tras la advertencia, el alba tras Al-Ghāshiya, el resplandor de la mañana tras la noche que se ahonda —para plantar firmemente la esperanza en el alma.
+El orden de las suras del Corán no es solo un orden temático, sino que es un orden anímico y educativo admirable. El Corán no educa al ser humano con sus significados aislados solamente, sino con la sucesión misma de sus suras; hace que la albricia venga tras la amenaza, y el alba tras al-Gāšiya (la Envolvente), y el resplandor de la mañana tras la quietud de la noche, para plantar en el alma la esperanza con firmeza.
 
-Esto es lo que atrae el ojo del lector reflexivo que abre el Mushaf como un meditador y no meramente como un recitador. Las suras se yerguen lado a lado como se yerguen las etapas del corazón mismo: temor y luego sosiego, dificultad y luego alivio, noche y luego alba. Esta disposición —como está establecido entre la mayoría de los sabios— es *tawqīfī* (instruida por lo divino), del Profeta ﷺ por lo que Ŷibrīl, la paz sea con él, le enseñó; no hay en ella ni azar ni accidente. Los sabios de las *munāsabāt* (la ciencia de las conexiones entre suras) —como al-Biqāʿī en *Naẓm al-Durar*, al-Suyūṭī en *Asrār Tartīb al-Qurʾān*, y Abū Ŷaʿfar Ibn al-Zubayr en *al-Burhān*— nos han abierto la puerta de reflexionar sobre la contigüidad de las suras. Esta serie abre un ángulo de ella: el ángulo de **las buenas nuevas que siguen a la advertencia**, comenzando con este primer episodio: cómo Dios diseñó la estructura misma del Mushaf para ser, en sí misma, un taller para la esperanza.
+Esto es lo que llama la atención del lector reflexivo cuando abre el Códice contemplándolo, no solo recitándolo. Las suras se contiguan como se contiguan las etapas mismas del corazón: miedo y luego sosiego, dureza y luego alivio, noche y luego alba. Y este orden —como está establecido entre la mayoría de la gente de ciencia— es de transmisión fija (tawqīfī) del Profeta (la paz sea con él), por lo que Gabriel (la paz sea con él) le enseñó; no hay en él vanidad ni arbitrariedad. Y los teóricos de la ciencia de las correspondencias —como al-Biqāʿī en «El ensartado de las perlas», al-Suyūṭī en «Los secretos del orden del Corán», y Abū Ŷaʿfar ibn al-Zubayr en «al-Burhān»— nos abrieron la puerta de la reflexión sobre la contigüidad de las suras. Y esta serie abre un ángulo de ello: el ángulo de **la albricia que se alterna con la advertencia**, lo comenzamos con este primer episodio: cómo Dios diseñó la estructura del Códice para que fuera en sí misma una fábrica de esperanza.
 
----
+### Primero: tres escenas firmes de la contigüidad de las suras
 
-### Primero: tres escenas sólidas de la contigüidad de las suras
+Escogemos en este episodio tres contigüidades en las que se manifiesta la idea de «la albricia tras la amenaza» de una manera resplandeciente, que el lector casi capta sin la fatiga de la interpretación.
 
-Elegimos en este episodio tres emparejamientos en los que la idea de «las buenas nuevas tras la advertencia» brilla tan vivamente que el lector puede captarlos sin una interpretación forzada.
+#### (1) al-Gāšiya y al-Faŷr — cuando se cierra la Catástrofe y luego se revela la luz
 
-#### (1) Al-Ghāshiya y Al-Faŷr — cuando lo Abrumador desciende, y luego la luz irrumpe
+«al-Gāšiya» en los diccionarios de los árabes es de la raíz **(g-š-y)** que indica el cubrir y el envolver total. Dijo Ibn Fāris en «al-Maqāyīs»: «una raíz auténtica que indica cubrir una cosa con otra», y dijo al-Rāgib al-Aṣfahānī: «gašiyahu: lo cubrió». Y se llamó al Día de la Resurrección con ella porque —como dijo Ibn Kaṯīr— «envuelve a la gente y los abarca». Comenzó la sura con una pregunta impactante que penetra hasta el corazón:
 
-«Al-Ghāshiya» en los léxicos árabes viene de la raíz **(gh-sh-y)**, que denota cubrir y abarcar totalmente. Ibn Fāris dijo en *Maqāyīs al-Lugha*: «Una raíz sólida que indica el cubrir de una cosa por otra.» Al-Rāghib al-Iṣfahānī dijo: «*Ghashiyahu*: lo cubrió.» El Día de la Resurrección fue nombrado «lo Abrumador» porque —como notó Ibn Kaṯīr— «abruma a las gentes y las engulle a todas». La sura se abre con una pregunta penetrante que va directa al corazón:
+> «¿Acaso te ha llegado el relato de la Envolvente?» [al-Gāšiya: 1]
 
-> ﴾¿Te ha llegado el relato de lo Abrumador?﴿ [Al-Ghāshiya: 1]
+Luego se suceden las imágenes de la humillación y el abrasamiento. Hasta que, cuando se anuda el espanto en el pecho del recitador, viene tras ella inmediatamente en el orden del Códice un juramento por los más nobles tiempos:
 
-Luego imágenes de humillación y abrasamiento se despliegan en sucesión. Y justo cuando el pavor se asienta en el pecho del recitador, viene —de inmediato, en el orden del Mushaf— un juramento por el más noble de los tiempos:
+> «¡Por el alba! ¡Y por diez noches!» [al-Faŷr: 1–2]
 
-> ﴾Por el alba, y por diez noches﴿ [Al-Faŷr: 1–2]
+Tras una envolvente que envuelve la vista con su tiniebla, jura el Majestuoso por la hora del despuntar, la hora del nacimiento del día del vientre de la noche. Es como si Dios diera palmadas sobre los corazones de Sus siervos: no os aterréis, pues tras cada envolvente hay un alba.
 
-Tras un Abrumador que vela la vista con su oscuridad, el Majestuoso jura por la hora del surgir —la hora en que el día nace del vientre de la noche. Como si Dios apaciguara gentilmente los corazones de Sus siervos creyentes: no temáis, pues tras toda Ghāshiya hay un Faŷr.
+#### (2) al-Layl y al-Ḍuḥā — el juramento del Amado a Su amado
 
-#### (2) Al-Layl y Al-Ḍuḥā — un juramento del Amado a Su amado
+La sura de la Noche (al-Layl) se sella con la albricia de la complacencia para el temeroso que da en limosna:
 
-La sura de Al-Layl concluye con la buena nueva de la complacencia para el temeroso de Dios que da:
+> «Y ciertamente quedará complacido.» [al-Layl: 21]
 
-> ﴾Y quedará satisfecho﴿ [Al-Layl: 21]
+Luego abre al-Ḍuḥā (la Mañana) con la albricia misma, dirigida al Profeta (la paz sea con él):
 
-Luego Al-Ḍuḥā se abre con la mismísima buena nueva, esta vez dirigida al Profeta ﷺ:
+> «Y ciertamente tu Señor te dará y quedarás complacido.» [al-Ḍuḥā: 5]
 
-> ﴾Y tu Señor te dará, y quedarás satisfecho﴿ [Al-Ḍuḥā: 5]
+Y esta repetición no es una coincidencia compositiva, sino una extensión intencionada entre las dos suras. Y al-Ḍuḥā —como está establecido en la causa de su revelación— descendió cuando se demoró la revelación del Profeta (la paz sea con él), y dijo Quraysh: «su Señor lo ha abandonado y lo ha aborrecido», entonces vino el juramento dulce:
 
-Esta repetición no es una coincidencia de composición; es una extensión deliberada a través de dos suras. Al-Ḍuḥā —como está establecido en el relato de su revelación— fue enviada cuando la revelación se había demorado para el Profeta ﷺ, y Quraysh dijo: «Su Señor lo ha abandonado y lo ha detestado.» Así vino el dulce juramento:
+> «¡Por la mañana! ¡Y por la noche cuando reposa! Tu Señor no te ha abandonado ni te ha aborrecido.» [al-Ḍuḥā: 1–3]
 
-> ﴾Por el resplandor de la mañana, y por la noche cuando se asienta en quietud —tu Señor no te ha abandonado, ni te ha detestado﴿ [Al-Ḍuḥā: 1–3]
+Y nota una sutileza: Dios no juró por la mañana sola, sino que juró por la noche junto a ella. Porque la luz de la mañana no se conoce su valor sino por la negrura de la quietud que la precede.
 
-Y nota una sutileza: Dios no juró por el resplandor de la mañana solo, sino que juró por la noche junto con él —pues el valor de la luz de la mañana no puede conocerse sino por la oscuridad de la noche que la precedió.
+#### (3) al-Ḍuḥā y al-Šarḥ — la continuación del consuelo en dos suras
 
-#### (3) Al-Ḍuḥā y Al-Sharḥ — un consuelo que continúa a través de dos suras
+Y aquí está la sutileza dorada. Apenas se sella al-Ḍuḥā con Su dicho: «Y en cuanto al favor de tu Señor, divúlgalo», abre la sura del Ensanchamiento (al-Šarḥ) con lo que continúa en el consuelo al corazón del Profeta (la paz sea con él):
 
-He aquí la sutileza dorada. En el instante en que Al-Ḍuḥā cierra con Sus palabras —﴾Y en cuanto al favor de tu Señor, proclámalo﴿— la sura de Al-Sharḥ se abre con lo que continúa el consuelo sobre el corazón del Profeta ﷺ:
+> «¿Acaso no te hemos ensanchado el pecho?» [al-Šarḥ: 1]
 
-> ﴾¿No te expandimos tu pecho?﴿ [Al-Sharḥ: 1]
+Es como si el consuelo no se contentara con una sola sura, sino que se extendiera a una segunda. Y por la intensidad de esta cohesión un grupo de los predecesores —como Ubayy ibn Kaʿb en su Códice— sostuvo que ambas son como una sola sura. Luego viene en el corazón de al-Šarḥ la mayor albricia cósmica:
 
-Es como si el consuelo no se contentara con confinarse a una sola sura, sino que se extendiera a una segunda. Tan fuerte es este entretejido que un número de los primeros sabios —como Ubayy ibn Kaʿb en su Mushaf— las tuvieron por una sola sura. Y luego, en el corazón de Al-Sharḥ, viene la gran buena nueva cósmica:
+> «Pues, en verdad, con la dificultad viene la facilidad. En verdad, con la dificultad viene la facilidad.» [al-Šarḥ: 5–6]
 
-> ﴾Pues, en verdad, con la dificultad viene la facilidad. En verdad, con la dificultad viene la facilidad.﴿ [Al-Sharḥ: 5–6]
+Hasta que imaginas que tres suras contiguas —la Noche, la Mañana y el Ensanchamiento— componen una sola sinfonía divina, cuyo tema es: la complacencia, el consuelo, y el desahogo de la dificultad con su facilidad.
 
-Tanto que imaginarías tres suras contiguas —Al-Layl, Al-Ḍuḥā y Al-Sharḥ— componiendo una sola sinfonía divina, cuyo tema es la complacencia, el consuelo, y el desplegarse de la dificultad en facilidad.
+### Segundo: aproximaciones de patrones contiguos
 
----
+Junto al patrón anterior (advertencia ← albricia), aparecen en la contigüidad de las suras otros patrones cercanos a él, aunque no sean exactamente de su género. Mencionamos aquí dos ejemplos de ellos a modo de **aproximación**, no de argumentación, para que se le revele al lector la amplitud de esta puerta reflexiva:
 
-### Segundo: ejemplos de apoyo de patrones contiguos
+#### (1) Hūd y Yūsuf — la prueba y luego el establecimiento
 
-Junto al patrón anterior (advertencia → buena nueva), otros patrones aparecen en la contigüidad de las suras —cercanos a él aunque no exactamente del mismo tipo. Mencionamos aquí dos ejemplos a modo de **apoyo** y no de prueba, para que el lector vislumbre la amplitud de este campo contemplativo:
+La sura de Hūd, de la que dijo el Profeta (la paz sea con él): «Me han encanecido Hūd y sus hermanas», se sella con las noticias de los profetas probados. Y si pasas a Yūsuf, hallas la historia del establecimiento tras la prueba: el trono tras el pozo, el reino tras la prisión, y el reencuentro tras la separación. Es una correspondencia reflexiva temática, no estructural como la anterior, pues Yūsuf tiene su construcción independiente. Pero —con todo— hace señas al mismo significado: que lo que hay tras la prueba no es nada, sino establecimiento.
 
-#### (1) Hūd y Yūsuf — la prueba y luego el afianzamiento
+#### (2) al-Fīl y Quraysh — la protección y luego la bendición
 
-La sura de Hūd, de la que el Profeta ﷺ dijo: «Hūd y sus hermanas me han envejecido», concluye con los relatos de los profetas probados. Cuando pasas a Yūsuf, hallas la historia del afianzamiento tras la prueba: el trono tras el pozo, la realeza tras la prisión, el reencuentro tras la separación. Este es un paralelo contemplativo temático —no uno estructural como los emparejamientos anteriores— pues Yūsuf tiene su propia arquitectura independiente. Mas gesticula hacia el mismo sentido: que lo que viene tras la prueba no es la nada, sino el afianzamiento.
+Y esta contigüidad es de otro patrón pegado a nuestro patrón principal, y es el patrón de «la protección y luego la merced». Pues en al-Fīl (el Elefante): la preservación de Dios de Su Casa del ejército de Abraha. Y si pasas a Quraysh, comienza con una letra que anuda las dos suras con un nudo firme: «Por el pacto de Quraysh». La lām —como dijo un grupo de exegetas— remite a lo que la precede: hicimos eso con el Elefante por el pacto de Quraysh. Y algunos predecesores como Ubayy sostuvieron que ambas son una sola sura en su Códice. Es una albricia implícita de que el cuidado divino no termina en los límites de la protección, sino que se extiende a la prosperidad.
 
-#### (2) Al-Fīl y Quraysh — la protección y luego la bendición
+### Tercero: leyes predominantes en las albricias del Corán
 
-Esta contigüidad pertenece a un patrón emparentado pero distinto —el patrón de «la protección y luego la bendición». En Al-Fīl: la preservación por Dios de Su Casa del ejército de Abraha. Cuando pasas a Quraysh, la sura comienza con una partícula que ata las dos con una intención hermética: ﴾Por la acostumbrada seguridad de Quraysh﴿. La *lām*, como han dicho un número de exégetas, remite a lo que vino antes: hicimos eso al Elefante por la seguridad de Quraysh. Algunos de los primeros sabios —como Ubayy— tuvieron a las dos por una sola sura en su Mushaf. Es una buena nueva implícita de que el cuidado divino no se detiene en las fronteras de la protección, sino que se extiende al sosiego y la provisión.
+Si el lector traspasa estas escenas parciales, se le hace patente tras ellas —en el Corán como un todo— **leyes predominantes** que rigen la albricia en él. Y no pretendemos que sean leyes constantes en absoluto, pues hay en el Corán albricias que se salen de este patrón, pero estas leyes son las más prominentes y las más repetidas:
 
----
+**(1) La albricia va precedida de una prueba por lo general.** Dijo el Altísimo: «Y ciertamente os pondremos a prueba con algo de miedo, hambre, y merma de bienes, vidas y frutos; y da la buena nueva a los pacientes.» [al-Baqara: 155]. La albricia en el Corán rara vez viene desnuda del contexto de una paciencia o una prueba.
 
-### Tercero: patrones prevalecientes en las buenas nuevas del Corán
+**(2) La facilidad con la dificultad, no después de ella.** Dios antepuso la partícula «con», no «después»; la facilidad es solidaria de la dificultad, acompañante de ella, hasta que es como si el vientre de la adversidad portara en sus pliegues la buena nueva del alivio. Dijeron Ibn ʿAbbās e Ibn Masʿūd: «No vencerá una dificultad a dos facilidades».
 
-Si el lector va más allá de estas escenas particulares, emergen tras ellas —a través del Corán como un todo— **patrones prevalecientes** que rigen sus buenas nuevas. No pretendemos que sean leyes absolutamente inquebrantables —pues en el Corán hay nuevas que caen fuera de esta secuencia— pero estos patrones son los más prominentes y los más a menudo repetidos:
+**(3) La albricia abunda en los momentos más oscuros.** Cuando Moisés llegó al mar y tras él el Faraón, dijo su pueblo: «¡Estamos alcanzados!» [al-Šuʿarāʾ: 61], y respondió con la confianza de quien confía en la albricia de su Señor: «¡No! En verdad, mi Señor está conmigo y me guiará.» [al-Šuʿarāʾ: 62]. Y cuando se estrechó Jacob hasta que blanquearon sus ojos, descendió la buena nueva: «Id e indagad acerca de José y su hermano.» [Yūsuf: 87]. Y cuando ahogaron a los creyentes los confederados por encima de ellos y por debajo de ellos, descendió la victoria con un viento y unos ejércitos que no vieron.
 
-**(1) Las buenas nuevas suelen ir precedidas de la prueba.** Dios dijo: ﴾Y ciertamente os pondremos a prueba con algo de temor y de hambre, y con pérdida de bienes, de vidas y de frutos —mas da buenas nuevas a los pacientes﴿ [Al-Baqara: 155]. Las buenas nuevas en el Corán rara vez vienen desamarradas de un contexto de paciencia o de prueba.
+**(4) La albricia está ligada a la obra, no a los anhelos.** «Y da la buena nueva a quienes han creído y obrado rectamente» —no una buena nueva colgada en el vacío, sino una buena nueva que tiene un apoyo de fe y obra. Es una educación, no un narcótico, y un llamado, no un sedante; fabrica hombres, no fabrica gente recostada sobre los anhelos.
 
-**(2) La facilidad está *con* la dificultad, no tras ella.** Dios puso la partícula «*con*» en vez de «*tras*»; la facilidad acompaña a la dificultad y está entretejida con ella —como si el vientre mismo de la dificultad llevara la nueva del alivio en sus pliegues. Ibn ʿAbbās e Ibn Masʿūd dijeron: «Una sola dificultad jamás vencerá a dos facilidades.»
+### Una indicación metodológica antes de la conclusión
 
-**(3) Las buenas nuevas se multiplican en los momentos más oscuros.** Cuando Mūsā alcanzó el mar con el Faraón a sus espaldas, su pueblo clamó: ﴾¡En verdad, estamos atrapados!﴿ [Ash-Shuʿarāʾ: 61]. Respondió con la certeza de quien confía en la nueva de su Señor: ﴾¡No! En verdad, conmigo está mi Señor; Él me guiará﴿ [Ash-Shuʿarāʾ: 62]. Cuando el mundo se cerró sobre Yaʿqūb hasta que sus ojos se tornaron blancos, vino la buena nueva: ﴾Id e indagad sobre Yūsuf y su hermano﴿ [Yūsuf: 87]. Y cuando los Confederados ahogaron a los creyentes desde encima de ellos y desde debajo de ellos, la victoria descendió con un viento y con huestes que no podían ver.
+Lo que hemos presentado aquí es una lectura reflexiva dentro de las tradiciones de la ciencia de las correspondencias, no una pretensión de una ley cósmica que no falla. Y el Corán es más amplio que para ser encerrado en un solo patrón, y hay en él un orden que sirve a otros fines que no son de la puerta de «la albricia tras la advertencia». Pero lo que hemos visto en estas tres contigüidades —la Envolvente y el Alba, la Noche y la Mañana, la Mañana y el Ensanchamiento— basta por sí solo para probar que este patrón es **un rasgo verdadero e intencionado** en la estructura del Códice, que merece la contemplación, la escucha y el aprendizaje.
 
-**(4) Las buenas nuevas están atadas a la acción, no al pensamiento ilusorio.** ﴾Y da buenas nuevas a quienes creen y obran rectamente﴿ —ninguna buena nueva suspendida en un vacío, sino una con un respaldo de fe y obra. Es cultivo, no sedación; una llamada a la acción, no un tranquilizante. Edifica hombres, no holgazanes sobre los deseos.
+### Conclusión: leer el universo con el ojo del Corán
 
----
+Quien reflexiona sobre estas leyes, se le revelan las sutilezas del universo entero; no ve una noche sin saber que el alba viene, ni siente una quietud sin tener certeza de una mañana cercana, ni le desciende una envolvente sin ver la luz del alba destellar tras la colina.
 
-### Una nota metodológica antes de la conclusión
+Y el Corán —en este su orden— no se contenta con la promesa abstracta, sino que presenta la promesa dibujada en la contigüidad misma de sus suras. Pues todo el que abre el Códice y recita la sura de la Envolvente, halla el Alba esperándolo en la página siguiente. Y todo el que recita la sura de la Noche, lo recibe la Mañana tras ella. Es una ingeniería divina que hace de la estructura misma del Códice un mensaje de esperanza encarnado.
 
-Lo que hemos presentado aquí es una lectura contemplativa dentro de la tradición de *ʿilm al-munāsabāt* —no una pretensión de una ley cósmica que jamás vacila. El Corán es más ancho que para confinarse a un solo patrón; su disposición sirve a muchos otros propósitos además de «las buenas nuevas tras la advertencia». Mas lo que hemos visto en estos tres emparejamientos —Al-Ghāshiya y Al-Faŷr, Al-Layl y Al-Ḍuḥā, Al-Ḍuḥā y Al-Sharḥ— basta por sí solo para establecer que este patrón es **un rasgo real e intencionado** en la estructura del Mushaf, digno de contemplación, atención y aprendizaje.
+> «Y ciertamente la otra vida es mejor para ti que la primera.» [al-Ḍuḥā: 4]
 
----
+Es el resumen de todas las leyes: que los finales de Dios son más misericordiosos que sus comienzos, que sus desenlaces son más dulces que sus aperturas, y que quien confió en Él no se arrepintió. Así que si se cierra sobre ti una envolvente, tranquilízate, pues Dios, que ordenó las suras así, te ha escrito un alba tras ella —por más que se prolongue tu noche.
 
-### Conclusión: leer el cosmos con el ojo del Corán
+Y en los próximos episodios de esta serie, abordaremos —con el permiso de Dios— otros ángulos de las albricias del Corán: en los cierres de las suras, en las albricias de los profetas en la adversidad, y en el ritmo coránico entre la dificultad y la facilidad.
 
-Quien reflexiona sobre estos patrones halla que se le abren las sutilezas del cosmos entero: no ve noche sin saber que el alba viene; no percibe quietud sin la certeza de que un resplandor de la mañana está cerca; ninguna Ghāshiya desciende sobre él sin que vea la luz del alba reluciendo tras la colina.
-
-El Corán —en esta secuencia suya— no se contenta con la promesa abstracta; presenta la promesa *dibujada* en la contigüidad de sus suras mismas. Todo lector que abre el Mushaf y recita la sura de Al-Ghāshiya halla a Al-Faŷr aguardando en la página siguiente. Todo lector que recita la sura de Al-Layl es recibido por Al-Ḍuḥā tras ella. Es una arquitectura divina que hace de la estructura misma del Mushaf un mensaje tangible de esperanza.
-
-> ﴾Y el más allá es mejor para ti que la primera vida﴿ [Al-Ḍuḥā: 4]
-
-Esta es la destilación de todos los patrones: que los finales de Dios son más misericordiosos que Sus comienzos, que Sus conclusiones son más dulces que Sus aperturas, y que quien confía en Él no se arrepiente. Así que si un Abrumador se cierra sobre ti, está en paz —pues el Dios que dispuso las suras de este modo te ha escrito un alba tras él, por larga que sea tu noche.
-
-En los próximos episodios de esta serie, exploraremos —si Dios quiere— otros ángulos de las buenas nuevas del Corán: en los cierres de las suras, en las nuevas dadas a los profetas en sus momentos más duros, y en el ritmo coránico entre la dificultad y la facilidad.
-
-Que las bendiciones de Dios sean sobre nuestro señor Muhammad —que vino como portador de buenas nuevas y como advertidor— y sobre su familia y sus Compañeros, todos ellos.
+Y que Dios bendiga a nuestro señor Muhammad, que vino como albriciador y advertidor, y a su familia y a todos sus Compañeros.
