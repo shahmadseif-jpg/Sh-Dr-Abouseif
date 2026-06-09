@@ -1,6 +1,6 @@
 ---
-title: "La sabiduría es el bien perdido del creyente"
-subtitle: "Una lectura fundacional de una máxima preciada y un dilema civilizatorio contemporáneo"
+title: "La sabiduría es el extravío del creyente"
+subtitle: "Una lectura fundacional de un dicho transmitido, y de un dilema civilizatorio contemporáneo"
 date: "2026-05-17"
 locale: "es"
 slug: "wisdom-lost-property"
@@ -9,168 +9,165 @@ episode: 1
 readingMinutes: 14
 ---
 
-### Apertura: una máxima preciada que resume toda una filosofía
+### Entrada: un dicho transmitido que resume una filosofía entera
 
-Una máxima ampliamente difundida, recibida por las gentes con aceptación general, declara: *«La sabiduría es el bien perdido del creyente; dondequiera que lo halle, es el más merecedor de él.»* Se ha transmitido como hadiz elevado (marfūʿ) de Abū Hurayra (que Dios esté complacido con él), recogido por al-Tirmidhī e Ibn Māŷa, **aunque su cadena elevada ha sido juzgada extremadamente débil por la mayoría de los especialistas en hadiz, y no puede atribuirse con confianza al Profeta ﷺ**[^1]. El sentido, sin embargo, es sólido y de peso, sostenido por el Corán y la Sunna auténtica, y vivido en la práctica por los Compañeros y sus sucesores. De un género similar, transmitido solo con reserva, está el dicho: *«La sabiduría es el bien perdido del creyente; búscalo incluso entre los hipócritas.»* Se ha atribuido a ʿAlī (que Dios esté complacido con él), pero no hemos hallado para él una cadena de transmisión firme[^2].
+Se hizo célebre en las lenguas un dicho transmitido que la gente recibió con aceptación, y es: «La sabiduría es el extravío del creyente; dondequiera que la halle, él tiene más derecho a ella». Se transmitió elevado al Profeta (la paz sea con él) del hadiz de Abū Hurayra (Dios esté complacido con él), lo registraron al-Tirmiḏī e Ibn Māŷa, **pero su cadena elevada es muy débil según la mayoría de los tradicionistas, por lo que no es correcto afirmar con certeza su elevación al Mensajero de Dios (la paz sea con él)**[^1]. Pero su significado es inmenso y sólido, lo atestiguan el Libro y la Sunna firme, y obraron por su exigencia los Compañeros y los Seguidores. Y de lo que se menciona en este capítulo —en forma de cautela— es su dicho: «La sabiduría es el extravío del creyente, así que buscadla aunque sea entre la gente de la hipocresía», que se atribuyó a ʿAlī (Dios esté complacido con él) y no hemos hallado para ello una cadena firme[^2].
 
-Reflexiona sobre la elocuente imagen que el Profeta ﷺ eligió: *al-ḍālla* —la bestia perdida que un dueño persigue con anhelo, negándose a descansar hasta recobrarla. La sabiduría, para el creyente, no es un accesorio optativo que pueda tomar o dejar, sino una *posesión extraviada* que reclama dondequiera que la halle. La busca en cada reunión, la rastrea en cada libro, la escucha en cada lengua que dice la verdad. Cercano o lejano, musulmán o no musulmán —no le hace diferencia, **mientras lo que oye concuerde con la verdad, beneficie a la creación, y no choque con los fundamentos de la revelación**.
+Y contempla cómo eligió el Profeta (la paz sea con él) esta elocuente metáfora: «el extravío» (al-ḍālla), que en la lengua de los árabes es la bestia que pierde su dueño y sigue buscándola con anhelo y no se calma hasta hallarla. Pues la sabiduría respecto del creyente no es algo adicional que busca si quiere, sino que es una propiedad perdida que recupera dondequiera que la halle, la rastrea en cada sesión, la busca en cada libro, y la escucha de toda lengua que pronuncia la verdad, igualándose para él en eso el cercano y el lejano, el musulmán y el otro, **mientras sea una palabra conforme a la verdad, provechosa para la creación, no chocante con los fundamentos de la Revelación**.
 
-En su brevedad, esta máxima pone ante nosotros —los musulmanes del siglo XXI— una delicada ecuación civilizatoria: *¿Cómo nos abrimos al legado de la humanidad sin disolvernos en él? ¿Cómo recibimos de los demás sin perder nuestros propios fundamentos?* Esta es la pregunta que nos acompañará a través de cada parte de este artículo.
+Y este significado transmitido, pese a su brevedad, nos plantea —a nosotros los musulmanes en el siglo XXI— una ecuación civilizatoria precisa: ¿cómo nos abrimos al patrimonio de la humanidad sin disolvernos en él? ¿Y cómo tomamos de otros sin perder nuestros fundamentos? Esta es la pregunta que nos acompañará en todos los pliegues de este artículo.
 
----
+### Primero: en la definición de la sabiduría
 
-### I. Definir la sabiduría
+Difirieron las expresiones de los sabios en la definición de la sabiduría, y todas giran en torno a un solo gran significado. Se transmitió de Muŷāhid, al-Ḍaḥḥāk y el imam Mālik que la sabiduría es: «la comprensión de la religión de Dios, y el obrar por ella»[^3]. Y dijo Ibn al-Qayyim (Dios se apiade de él) en «Las estaciones de los caminantes»: «La sabiduría es hacer lo que conviene, de la manera que conviene, en el momento que conviene»[^4]. Y la definió al-Ŷurŷānī en «Las definiciones» como: «una expresión del conocimiento de la verdad por sí misma, y el conocimiento del bien para obrar por él»[^5].
 
-Los sabios han ofrecido definiciones variadas de *ḥikma*, todas en torno a un solo gran sentido. Se transmite de Muŷāhid, al-Ḍaḥḥāk y el Imam Mālik que dijeron que la sabiduría es *«la comprensión profunda en la religión de Dios, unida al obrar conforme a ella»*[^3]. Ibn al-Qayyim, en *Madāriŷ al-Sālikīn*, la define como *«hacer lo que debe hacerse, en la manera en que debe hacerse, en el tiempo en que debe hacerse»*[^4]. Al-Ŷurŷānī, en *al-Taʿrīfāt*, la describe como *«el conocimiento de la verdad por sí misma, y el conocimiento del bien para obrar conforme a él»*[^5].
+Y el resultado de estas definiciones: que la sabiduría es una unión de dos asuntos inseparables: una ciencia provechosa, y una obra recta conforme a esa ciencia. **Pues quien supo y no obró no fue sabio aunque fuera erudito, y quien obró sin ciencia no fue sabio aunque fuera diligente**; pues la sabiduría es un fruto que germina entre los dos árboles de la ciencia y la obra, no se endereza uno sin el otro.
 
-El núcleo de estas definiciones es que la sabiduría une dos elementos inseparables: *un saber beneficioso*, y *una acción recta que se conforma a ese saber*. **Quien sabe pero no obra no es un sabio, aunque sea un erudito; y quien obra sin saber no es un sabio, aunque sea celoso.** La sabiduría crece en el suelo entre los árboles gemelos del saber y la acción; ninguno puede florecer sin el otro.
+Y hay una tercera dimensión que a menudo se descuida, y es **el buen momento y el conocimiento de la ocasión**. Pues puede que el ser humano sea erudito y obrador, pero abra su boca fuera de su tiempo, y estropee el significado que quiso reformar. De aquí dijeron los retóricos: «Para cada situación hay un discurso».
 
-Hay una tercera dimensión a menudo pasada por alto: **el discernimiento del momento y la lectura del contexto**. Una persona puede ser a la vez instruida y activa, y, sin embargo, abrir la boca en el instante equivocado y arruinar el mismísimo sentido que pretendía transmitir. De ahí el axioma de los retóricos: *«Para cada ocasión, su propio discurso.»*
+### Segundo: la sabiduría en el Libro de Dios
 
-### II. La sabiduría en el Libro de Dios
+Dios puso a la sabiduría en un rango inmenso en Su noble Libro, y dijo, glorificado sea: «Da la sabiduría a quien quiere, y a quien se le da la sabiduría se le ha dado un bien abundante; pero no recapacitan sino los dotados de entendimiento.» [al-Baqara: 269]. En esta aleya hay tres verdades: que la sabiduría es un don divino, que es un bien abundante, y quien lo alcanzó ha ganado, y que su recapacitación y su aceptación solo son para los dueños de razones cabales que Dios llamó «los dotados de entendimiento».
 
-Dios concedió a la sabiduría un rango elevado en Su Libro, diciendo: *«Concede la sabiduría a quien quiere, y a quien se le concede la sabiduría ciertamente se le ha dado mucho bien. Y nadie recapacita salvo los dotados de entendimiento»* (Al-Baqara 269). La aleya establece tres verdades: que la sabiduría es un don divino; que es *mucho bien*, de modo que quien la alcanza ha lucrado de verdad; y que su recepción y su recuerdo pertenecen solo a *los dotados de entendimiento* —lo que Dios llama *ulū al-albāb*, poseedores de una razón sana.
+Y Dios agració a Su profeta David (la paz sea con él) con Su dicho: «Y le dimos la sabiduría y el discurso decisivo» [Ṣād: 20], y a Luqmān el sabio con Su dicho: «Y ciertamente dimos a Luqmān la sabiduría: "Agradece a Dios"» [Luqmān: 12]. Hasta que se hizo célebre Luqmān entre las naciones por su sabiduría, y Dios hizo descender en Su Libro una sura con su nombre que recitan los musulmanes hasta el Día del Juicio.
 
-Dios elogió a David (la paz sea con él): *«Le dimos la sabiduría y el discurso decisivo»* (Ṣād 20). Y elogió a Luqmān el sabio: *«Ciertamente dimos a Luqmān la sabiduría, diciendo: "Sé agradecido con Dios"»* (Luqmān 12). Tan renombrado se volvió Luqmān por su sabiduría que Dios nombró una sura por él —recitada por los musulmanes hasta el Día de la Resurrección.
+Más aún, una de las más grandes misiones de los profetas (las oraciones de Dios sean con ellos) es: enseñar a la gente la sabiduría. Dijo el Altísimo sobre nuestro Profeta Muhammad (la paz sea con él): «Él es Quien envió entre los iletrados un Mensajero de entre ellos, que les recita Sus aleyas, los purifica, y les enseña el Libro y la sabiduría» [al-Ŷumuʿa: 2]. Pues Dios hizo de la enseñanza de la sabiduría una compañera de la enseñanza del Libro, y la asoció a la purificación como indicación de que es un efecto de los efectos de la fe, y un fruto de los frutos de la purificación interior.
 
-Entre las más grandes misiones de los profetas —la paz sea con ellos— estuvo *la enseñanza de la sabiduría*. Dios dijo de nuestro Profeta Muhammad ﷺ: *«Él es quien ha enviado entre los iletrados a un Mensajero de entre ellos mismos que les recita Sus aleyas, los purifica, y les enseña el Libro y la sabiduría»* (Al-Ŷumuʿa 2). La enseñanza de la sabiduría se sitúa junto a la enseñanza del Libro, y se empareja con la purificación —un indicio de que la sabiduría es un fruto de la fe y un resultado del refinamiento interior.
+### Tercero: la sabiduría en la guía del Profeta (la paz sea con él)
 
-### III. La sabiduría en la vía del Profeta ﷺ
+El Profeta (la paz sea con él) fue el primer maestro de la sabiduría, y su habla (la paz sea con él) es toda sabiduría. Transmitieron al-Bujārī y Muslim de Ibn Masʿūd (Dios esté complacido con él) que dijo: «El Mensajero de Dios (la paz sea con él) nos cuidaba con la exhortación en los días por aversión al hastío en nosotros»[^6]. No los agobiaba con las exhortaciones ni las multiplicaba hasta que se hartaran, ni las reducía hasta que olvidaran, sino que elegía los tiempos y las ocasiones. **Y esta es la esencia misma de la sabiduría en el llamado y la enseñanza.**
 
-El Profeta ﷺ fue el principal maestro de la sabiduría; cada palabra suya era la sabiduría misma. Al-Bujari y Muslim registran que Ibn Masʿūd (que Dios esté complacido con él) dijo: *«El Mensajero de Dios ﷺ nos atendía con sermones de manera selectiva, por aversión a que nos cansáramos»*[^6]. No los abrumaba con exhortaciones hasta que se hartaran de escuchar, ni callaba tanto que olvidaran —sino que elegía sus momentos y ocasiones con cuidado. **Esto mismo es la esencia misma de la sabiduría en la llamada y la enseñanza.**
+Y de las palabras concisas suyas (la paz sea con él) que preservaron sus Compañeros: «La religión es el buen consejo»[^7], y «en verdad, en la elocuencia hay magia»[^8], y «desapégate del mundo y Dios te amará, y desapégate de lo que hay en manos de la gente y la gente te amará»[^9]. Pues estas son palabras cortas, bajo las cuales hay significados abundantes, sobre los que el creyente puede edificar su conducta y el método de su vida, y todas son del filón de la sabiduría profética pura.
 
-Entre sus máximas concisas preservadas por los Compañeros: *«La religión es el consejo sincero»*[^7]; *«En verdad, en la elocuencia hay un encantamiento»*[^8]; *«Desapégate de este mundo y Dios te amará; desapégate de lo que las gentes poseen y las gentes te amarán»*[^9]. Breves en forma, vastas en sentido —frases sobre las que un creyente puede edificar toda su conducta y su método de vida, todas extraídas del puro arroyo de la sabiduría profética.
+Y de las expresiones célebres en las lenguas es su dicho: «El creyente es perspicaz, sagaz», **que es una expresión sobre la que dictaminaron un grupo de imames del hadiz como Ibn al-Ŷawzī, al-Ṣāgānī y al-Sajāwī que no tiene fundamento con este texto elevado al Profeta (la paz sea con él)**[^10]. Pues lo obligatorio es purificar el patrimonio del Profeta (la paz sea con él) de la atribución de lo que no se ha probado de él, aunque su significado —en conjunto— sea conforme al espíritu de la legislación.
 
-Una frase que circula ampliamente es *«El creyente es perspicaz y avisado.»* **Un número de especialistas en hadiz —entre ellos Ibn al-Ŷawzī, al-Ṣaghānī y al-Sajāwī— han dictaminado que esta frase, con esta redacción atribuida al Profeta ﷺ, no tiene fundamento**[^10]. Nuestro deber es mantener el legado del Profeta ﷺ libre de atribuciones que no han sido autentificadas, aunque el sentido, en sí mismo, concuerde con el espíritu de la sharía.
+### Cuarto: la sabiduría es un extravío... ¿dónde, pues, se busca?
 
-### IV. La sabiduría es un bien perdido — pero ¿dónde se busca?
+Este es **el corazón del dicho y el corazón del artículo**. Pues si se establece que la sabiduría es el extravío del creyente, hay que preguntar: ¿de dónde se toma, y en qué lugares se busca?
 
-Este es **el corazón de la máxima y el corazón de este artículo**. Si la sabiduría es en efecto el bien perdido del creyente, entonces debemos preguntar: *¿De dónde se toma? ¿En qué fuentes se busca?*
+Y la respuesta se ordena en dos círculos concéntricos:
 
-La respuesta se ordena en dos círculos concéntricos:
+#### El primer círculo: las grandes fuentes de las que no hay prescindencia
 
-#### El primer círculo: las grandes fuentes indispensables
+La primera de ellas y la más inmensa es **el Libro de Dios, el Altísimo**, pues es «el Árbitro» y «el Sabio», en él está la noticia de quienes nos precedieron, la nueva de quienes nos sucederán, y el juicio de lo que hay entre nosotros. Y la segunda es **la Sunna del Elegido (la paz sea con él)**; pues Dios hizo descender sobre él el Libro y la sabiduría, y más de uno de los predecesores interpretó la sabiduría en la aleya como la Sunna. Y la tercera es **la biografía de los nobles Compañeros**, pues ellos son la mejor de las generaciones, y de ellos se toma la sabiduría práctica en la vida. Y la cuarta es **el patrimonio de los sabios obradores** de la gente del fiqh, la exégesis y la conducta, que vivieron el islam ciencia y obra.
 
-La primera y más grande es **el Libro de Dios** —*al-Ḥakam* (el Juez) y *al-Ḥakīm* (el Sabio)— que contiene las noticias de quienes nos precedieron, lo que vendrá después de nosotros, y la ley que nos rige. La segunda es **la Sunna del Elegido ﷺ**; Dios reveló sobre él tanto el Libro como la sabiduría, y muchos entre las primeras generaciones interpretaron «la sabiduría» en la aleya como la Sunna misma. La tercera es **la conducta de los nobles Compañeros**, la mejor de las generaciones, de quienes tomamos la sabiduría tal como fue vivida. La cuarta es **el legado de los sabios practicantes** —maestros de la jurisprudencia, la exégesis y la conducta, que encarnaron el Islam como saber y como práctica.
+#### El segundo círculo: el patrimonio general de la humanidad
 
-#### El segundo círculo: el legado general de la humanidad
+Luego viene un amplio capítulo de los capítulos de la sabiduría, que se manifiesta en las experiencias de las naciones y sus civilizaciones, en la contemplación de las leyes de Dios en el universo y la sociedad, en la lectura de la historia y la reflexión sobre sus desenlaces, y en el sentarse con los razonables y escuchar las experiencias humanas acumuladas.
 
-Se extiende, más allá de estas, una ancha puerta de sabiduría —hallada en las experiencias de las naciones y sus civilizaciones, en la contemplación de los patrones divinos en acción en el cosmos y la sociedad, en la lectura de la historia y la consideración de sus desenlaces, en el sentarse con mentes reflexivas y escuchar la experiencia acumulada de la humanidad.
+Y de las sabidurías transmitidas que corren en las lenguas es su dicho en la lengua de ʿUmar ibn al-Jaṭṭāb (Dios esté complacido con él): «Tomad la sabiduría, y no os daña de qué recipiente salió»[^11]. Y de los dichos transmitidos del habla de los predecesores también: «Mira a lo que dijo, y no mires a quién lo dijo». Y se transmitió de más de uno de los imames como Mālik, Muŷāhid e Ibn ʿAbbās su dicho: «No hay nadie de quien no se tome de su dicho y se deje, salvo el dueño de esta tumba», y señalaron a la tumba del Profeta (la paz sea con él)[^12].
 
-Entre los dichos preciados que circulan en las lenguas —atribuido a ʿUmar ibn al-Jaṭṭāb (que Dios esté complacido con él)— está: *«Toma la sabiduría; no te dañará de cualquier vasija de la que haya venido»*[^11]. Del habla heredada de las primeras generaciones: *«Mira lo que se dijo, no quién lo dijo.»* Y un dicho relatado de más de un imam —entre ellos Mālik, Muŷāhid e Ibn ʿAbbās— declara: *«No hay nadie cuyas palabras no se tomen y se dejen, salvo el ocupante de esta tumba»* —señalando la tumba del Profeta ﷺ[^12].
+#### Una norma legislada que no se descuida
 
-#### Un límite sharaico que no debe olvidarse
+Y antes de detallar en este capítulo, hay que establecer una norma legislada que rige todo lo que sigue: **la sabiduría aceptada es la que concuerda con la verdad y no choca con los fundamentos de la Revelación.** Pues no todo lo que plantea la razón humana de teorías y doctrinas es sabiduría; sino que la sabiduría es aquello en que se reúnen dos condiciones: **su concordancia con la verdad en sí misma**, y **su no chocar con los textos precisos de la legislación**. Pues si se altera una de las dos condiciones, la palabra sale del capítulo de la sabiduría al capítulo del extravío, aunque sus dueños la adornen con las expresiones de la filosofía y las galas de la elocuencia.
 
-Antes de extendernos sobre esta puerta, debe establecerse un principio sharaico que gobierna todo lo que sigue: **la sabiduría aceptable es la que se conforma a la verdad y no choca con los fundamentos de la revelación.** No toda teoría o doctrina propuesta por el intelecto humano es sabiduría; más bien, la sabiduría es lo que cumple dos condiciones: **su concordancia con la verdad en sí misma**, y **su no contradicción de las enseñanzas decisivas de la sharía**. Si cualquiera de las dos condiciones falla, el discurso se aparta de la sabiduría hacia el extravío, por ornamentado que esté con términos filosóficos y florituras retóricas.
+#### Una ecuación civilizatoria: la apertura sin disolución
 
-#### Una ecuación civilizatoria: apertura sin disolución
+Y a la luz de esta norma baja el gran dilema que vive el musulmán contemporáneo, en especial quien Dios le agració con la vida en Occidente: **¿cómo se abre al patrimonio de la humanidad sin disolverse en él? ¿Y cómo toma de otros sin perder su propio ser?**
 
-A la luz de este límite, el gran dilema que el musulmán contemporáneo encara —especialmente aquellos a quienes Dios ha situado en Occidente— se enfoca: **¿Cómo se abre al legado de la humanidad sin disolverse en él? ¿Cómo recibe de los demás sin perder su propio ser?**
+Y la respuesta se resume en una distinción precisa entre tres cosas:
 
-La respuesta yace en tres distinciones precisas:
+**Primero: la diferencia entre la sabiduría y la referencia.** El creyente toma la sabiduría de cualquier filón, pero no reemplaza el Corán y la Sunna por otra referencia. La sabiduría se toma y se sopesa, mientras que la referencia está preservada y no se desplaza. El Corán juzga sobre ella, no juzga ella sobre el Corán.
 
-**Primera: la distinción entre sabiduría y referencia.** El creyente toma la sabiduría de cualquier fuente, pero no reemplaza el Corán y la Sunna por otra referencia. La sabiduría se reúne y se sopesa; la referencia permanece preservada y fija. El Corán juzga sobre la sabiduría; la sabiduría no juzga sobre el Corán.
+**Segundo: la diferencia entre el aprovechamiento y la imitación.** El aprovechamiento es que tomemos de otros lo que nos beneficia, lo añadamos a lo que tenemos, y lo refinemos con la balanza de nuestra legislación. Y la imitación es que nos despojemos de nuestro propio ser y nos volvamos una imagen desfigurada de otros. La primera es fuerza y la segunda es debilidad, la primera es autenticidad y la segunda es seguidismo.
 
-**Segunda: la distinción entre beneficiarse e imitar.** Beneficiarse es tomar de los demás lo que nos sirve, añadirlo a lo que ya poseemos, y refinarlo a través del criterio de nuestra sharía. Imitar es despojarnos de nuestra propia identidad hasta volvernos una imagen distorsionada de otro. Lo primero es fortaleza; lo segundo es debilidad. Lo primero es autenticidad; lo segundo es dependencia.
+**Tercero: la diferencia entre la confianza y el complejo de inferioridad.** El que toma la sabiduría de otros con **confianza** en su religión es el fuerte, pues no ve en tomarla una mengua de sus fundamentos, sino una corroboración de ellos; porque toda verdad se encuentra con la verdad del islam. En cuanto al que la toma con un **complejo**, entrega las riendas a su fuente, y se vuelve todo lo que viene del «otro» sagrado para él, y todo lo que tiene él es objeto de duda y revisión.
 
-**Tercera: la distinción entre la confianza y un complejo de inferioridad.** Quien toma la sabiduría de los demás por **confianza** en su religión es el fuerte —no ve menoscabo alguno en el acto, sino más bien una confirmación, pues toda verdad se encuentra con la verdad del Islam. Pero quien la toma por un **complejo de inferioridad** entrega su mando a su fuente; todo lo que viene de «el otro» se le vuelve sagrado, y todo lo que él posee se vuelve objeto de duda y revisión.
+Y el islam —que es la religión de la verdad absoluta— no teme la verdad dondequiera que aparezca; porque está seguro de sus fundamentos, sabe que la verdad no refuta la verdad, y que la sabiduría veraz no contradice la Revelación veraz. Por ello los predecesores erigían la balanza de la legislación sobre lo que les llegaba de los conocimientos de las naciones, así que lo que concordaba con la legislación lo aceptaban y lo invertían, y lo que la contradecía lo rechazaban aunque viniera de las mayores mentes del mundo.
 
-El Islam —la religión de la verdad absoluta— no teme a la verdad dondequiera que aparezca, porque está confiado en sus fundamentos. Sabe que la verdad no contradice a la verdad, y que la sabiduría verdadera no se opone a la revelación verdadera. Por ello los primeros musulmanes mantuvieron la balanza de la sharía sobre todo lo que les llegaba del saber de otras naciones: lo que se alineaba con la sharía lo recibían e invertían; lo que la contradecía lo rechazaban —aunque viniera de las mentes más grandes de la época.
+### Quinto: entre la inteligencia y la sabiduría
 
-### V. Entre la astucia y la sabiduría
+De los significados precisos que el creyente debe percatar: que la sabiduría no es la inteligencia, ni es el mero conocimiento, ni es la agudeza de la mente y la rapidez de la intuición. **¡Cuánto inteligente no es sabio!** Posee de la información lo mucho, pero obra mal, presenta el habla fuera de su lugar, y estropea las relaciones de donde quiso repararlas.
 
-Una verdad sutil que el creyente debe captar: la sabiduría no es lo mismo que la astucia, ni es mera información, ni agudeza de mente y rapidez de ingenio. **¡Cuántas personas astutas no son sabias!** Poseen vastos almacenes de saber, y, sin embargo, se conducen pobremente, hablan cuando el silencio sería propio, y dañan las mismísimas relaciones que pretendían remendar.
+Y déjame darte tres modelos de nuestra realidad de hoy:
 
-Permíteme ofrecer tres ejemplos de nuestra realidad de hoy:
+**El primer modelo:** un ingeniero exitoso en su trabajo, ascendió en las mayores empresas del Valle del Silicio, gestiona proyectos de millones de dólares con una destreza rara. Pero cuando entra en su casa se transforma en un hombre seco y cansado, trata a su esposa como si fuera una subordinada de sus subordinados en el trabajo, y a sus hijos como si fueran empleados que esperan la evaluación anual. Y he aquí que la casa se derrumba sin que lo sienta, y los hijos crecen habiendo perdido al padre en su padre. **¿Fue este hombre inteligente?** Sí, sin duda. **¿Fue sabio?** ¡No, por Dios!; porque gestionó bien su oficina y gestionó mal su casa, y esto no es sabiduría.
 
-**El primer ejemplo:** Un ingeniero exitoso en su carrera, que ha ascendido por las mayores empresas de Silicon Valley, gestionando proyectos de muchos millones de dólares con notable destreza. Pero cuando entra a su casa, se vuelve un hombre seco y cansado —que trata a su esposa como a otra de sus subordinados en el trabajo, a sus hijos como a empleados que aguardan su evaluación anual. Calladamente, el hogar se derrumba; los hijos crecen habiendo perdido a su padre dentro de su padre. **¿Era astuto?** Sin duda. **¿Era sabio?** En absoluto. Dominó su oficina y arruinó su hogar —eso no es sabiduría.
+**El segundo modelo:** un predicador que adquirió una ciencia abundante, memorizó muchos textos, se pone de pie sobre el púlpito y pronuncia los argumentos contundentes. Pero cuando se sienta entre la gente estrecha lo que la legislación ensanchó, endurece fuera del lugar del endurecimiento, y reprocha a la gente lo que Dios no reprochó, y he aquí que la mezquita que estaba llena se vacía, y los jóvenes que estaban entregados se alejan. **¿Fue erudito?** Sí. **¿Fue sabio?** No; porque la sabiduría en el llamado es que reúnas, no que disperses, que atraigas, no que alejes, y que abras las puertas del bien, no que las cierres.
 
-**El segundo ejemplo:** Un trabajador de la daʿwa que ha adquirido un vasto saber, memorizado numerosos textos clásicos, se yergue en el púlpito y expone pruebas concluyentes. Mas cuando se sienta entre las gentes, estrecha lo que la sharía ha hecho amplio, endurece donde la dureza no está justificada, y reprocha a las gentes por lo que Dios mismo no reprochó —y así la mezquita que estaba llena se vacía, y los jóvenes que antaño se sentían atraídos por él se apartan. **¿Era un erudito?** Sí. **¿Era sabio?** No. Pues la sabiduría en la llamada es reunir, no dispersar; atraer, no repeler; abrir las puertas del bien, no cerrarlas de golpe.
+**El tercer modelo:** un joven de nuestros hijos en América, perspicaz en su estudio, sobresaliente en su especialidad, posee de las destrezas técnicas lo que no poseen sus pares. Pero se sienta con sus padres y no halla qué decir, entra en la mezquita y no halla un lugar para él, se encuentra con su sociedad y no halla para él una identidad, y vive extraño en todo lugar. **¿Fue inteligente?** Sí. **¿Conoció la sabiduría?** No la conoció aún; porque la gran sabiduría es que conozcas quién eres, de dónde viniste, hacia dónde marchas, y cómo reúnes entre tu fundamento en el islam y tu vida en la realidad contemporánea.
 
-**El tercer ejemplo:** Un joven de entre nuestros hijos aquí en América —brillante en sus estudios, sobresaliente en su disciplina, poseedor de habilidades técnicas sin par entre sus pares. Mas cuando se sienta con sus padres, no tiene nada que decir. Cuando entra a la mezquita, no halla lugar allí. Cuando se encuentra con su comunidad, no halla una identidad que reclamar —así que vive extraño dondequiera que va. **¿Era astuto?** Sí. **¿Ha hallado la sabiduría?** Todavía no —pues la mayor sabiduría es saber quién eres, de dónde viniste, hacia dónde te diriges, y cómo reunir entre tus raíces en el Islam y tu vida en el mundo contemporáneo.
+Y la causa de todo eso es que la sabiduría es una dádiva divina en la que se reúnen facultades múltiples: la ciencia, la paciencia, la calma, el buen pensar de Dios, la clarividencia con la realidad, la comprensión de las prioridades, y el conocimiento de los desenlaces. Pues quien quiere la sabiduría, que luche con su alma en la adquisición de estas cualidades todas, y que pida a su Señor que se la provea, pues el Profeta (la paz sea con él) suplicaba diciendo: «¡Oh, Dios! Te pido una ciencia provechosa, y me refugio en Ti de una ciencia que no aprovecha»[^13].
 
-Todo esto vuelve al hecho de que la sabiduría es un don divino en el que muchas facultades deben converger: el saber, la paciencia, la deliberación, el buen pensamiento de Dios, la perspicacia en la realidad, la jurisprudencia de las prioridades, y la conciencia de las consecuencias. Quien desee la sabiduría debe esforzarse en sí mismo por adquirir todas estas cualidades, y debe implorar a su Señor que se la otorgue —pues el Profeta ﷺ solía orar: *«¡Dios mío! Te pido un saber beneficioso, y me refugio en Ti de un saber que no beneficia»*[^13].
+### Sexto: la sabiduría en el llamado a Dios
 
-### VI. La sabiduría en la llamada a Dios
+De lo que conviene advertir: que Dios ordenó a Su profeta (la paz sea con él) y a los predicadores después de él que su método se fundara en la sabiduría, y dijo: «Llama al camino de tu Señor con la sabiduría y la buena exhortación, y discute con ellos de la manera que sea mejor» [al-Naḥl: 125]. **Pues el verdadero predicador no es quien posee la información solamente, sino quien sabe transmitirla bien**; se dirige a la gente según la medida de sus razones, observa sus estados y sus humores, y elige la palabra buena en el lugar apropiado.
 
-Dios ordenó a Su Profeta ﷺ —y a quienes llaman después de él— adoptar la sabiduría como su método, diciendo: *«Invita a la vía de tu Señor con sabiduría y buena instrucción, y argumenta con ellos de la mejor manera»* (An-Naḥl 125). **El verdadero trabajador de la daʿwa no es meramente quien posee información, sino quien sabe transmitirla bien**: dirigiéndose a las gentes según la medida de su comprensión, teniendo en cuenta sus estados y temperamentos, y eligiendo la palabra gentil para su momento propio.
+Por ello una de las más grandes dolencias del llamado es: la severidad fuera de su lugar, la indulgencia fuera de su sitio, el habla fuera de su tiempo, y el silencio cuando es obligatorio el habla. Y todo eso solo se trata con la sabiduría, que es la brújula del predicador y su balanza.
 
-Por ello, entre las más graves dolencias en la daʿwa están: la severidad en el lugar equivocado, la lenidad en la situación equivocada, el habla en el tiempo equivocado, y el silencio cuando se requiere el habla. El remedio para todas estas es la sabiduría —la brújula del trabajador de la daʿwa y su medida.
+Y nosotros los musulmanes en las tierras de Occidente, en especial en América, somos los más necesitados de este significado. Pues nuestras sociedades son diversas, y los hijos de nuestras comunidades son de trasfondos distintos, viven en un entorno en que su religión se cruza con una cultura que difiere de ellos en muchos valores. **Pues sin la sabiduría no se nos endereza un llamado, ni se nos estabiliza una mezquita, ni se les afirma a nuestros hijos un pie sobre esta religión.**
 
-Nosotros —los musulmanes de Occidente, y particularmente de América— estamos en la mayor necesidad de este sentido. Nuestras comunidades son diversas; los hijos de nuestras comunidades vienen de orígenes variados y viven en un entorno donde su religión se cruza con una cultura que difiere de ellos en muchos de sus valores. **Sin sabiduría, no puede haber daʿwa duradera, ni mezquita estable, ni asiento firme para nuestros hijos sobre esta religión.**
+Y la sabiduría aquí es que comprendamos la realidad como es, no como la deseamos, que nos dirijamos a la gente en su lengua, y que presentemos el islam en su forma más espléndida: un credo puro, una conducta elevada, y una moral virtuosa. Y que sepamos que la mezquita en América no es solo una casa de oración, sino que es una escuela para la identidad, un punto de encuentro para las generaciones, y un espejo al que mira la sociedad entera para conocer quiénes somos.
 
-La sabiduría aquí es comprender la realidad tal como es, no como desearíamos que fuera; dirigirnos a las gentes en su propia lengua; presentar el Islam en su forma más hermosa —puro en la doctrina, refinado en la conducta, exaltado en el carácter. Y reconocer que una mezquita en América no es meramente un lugar de oración, sino una escuela de identidad, un lugar de encuentro para las generaciones, y un espejo por el que toda la sociedad llega a conocer quiénes somos.
+### Séptimo: dolencias que impiden la sabiduría
 
-### VII. Las dolencias que impiden la sabiduría
+Como la sabiduría es de tal nobleza y rango, fue natural que se le opongan dolencias que privan al siervo de ella o se la mengüen:
 
-Dado el honor y el rango de la sabiduría, es natural que haya dolencias que priven al siervo de ella, o la mengüen dentro de él:
+**Primero: la soberbia.** Pues el soberbio no acepta la verdad de quien está por debajo de él, ni ve a nadie un mérito sobre él, así que se le pierde la sabiduría sin que lo sienta. Dijo el Profeta (la paz sea con él): «La soberbia es rechazar la verdad y despreciar a la gente»[^14], es decir, repeler la verdad y menospreciar a la creación.
 
-**Primera: la soberbia.** El soberbio no acepta la verdad de quienes están por debajo de él; no ve a nadie con mérito alguno sobre sí mismo. Así la sabiduría se le escapa sin que se percate. El Profeta ﷺ dijo: *«La soberbia es el rechazo de la verdad y el desprecio de las gentes»*[^14] —rehusar lo que es verdadero, y mirar por encima del hombro a la creación.
+**Segundo: la prisa.** Pues el sabio es pausado en sus juicios, abarca la situación desde todos sus lados antes de emitir en ella una decisión. Dijo el Profeta (la paz sea con él): «La calma es de Dios, y la prisa es del demonio»[^15].
 
-**Segunda: la precipitación.** El sabio es mesurado en sus juicios, asimilando una situación desde todos los lados antes de emitir una decisión. El Profeta ﷺ dijo: *«La deliberación es de Dios; la precipitación es del Shaytán»*[^15].
+**Tercero: el seguir la pasión.** Pues el dueño de la pasión ve la verdad falsedad y la falsedad verdad, y prefiere el deseo de su alma a la complacencia de su Señor, ¿cómo, pues, va a tener sabiduría? Dijo el Altísimo: «¿Has visto a quien tomó por dios su pasión, y Dios lo extravió a sabiendas?» [al-Ŷāṯiya: 23].
 
-**Tercera: el seguimiento del capricho.** El esclavo de sus caprichos ve la verdad como falsedad y la falsedad como verdad, prefiriendo el deseo de su alma al agrado de su Señor —¿y cómo, pues, podría ser suya la sabiduría? Dios dijo: *«¿Has visto a quien toma por dios su propio deseo, y Dios, sabiéndolo, lo ha dejado extraviarse?»* (Al-Ŷāṯiya 23).
+**Cuarto: los pecados.** Pues legan la negligencia, oscurecen el corazón, y velan la clarividencia, de modo que su dueño se vuelve incapaz de distinguir entre lo provechoso y lo dañino. Y en el consejo del imam al-Šāfiʿī:
 
-**Cuarta: los pecados.** Los pecados engendran la negligencia, oscurecen el corazón, y velan la perspicacia, hasta que quien los comete ya no puede distinguir lo que lo beneficia de lo que lo daña. Como dice el verso del Imam al-Shāfiʿī:
+> Me quejé a Wakīʿ de mi mala memoria ✿ y me guio a dejar los pecados,
+> y me informó de que la ciencia es luz ✿ y la luz de Dios no se guía a un pecador.
 
-> *Me quejé a Wakīʿ de mi mala memoria; me aconsejó abandonar los pecados,*
->
-> *Y me dijo que el saber es una luz —y la luz de Dios no se da a quien desobedece.*
+### Octavo: ¿cómo educa el creyente su alma en la sabiduría?
 
-### VIII. ¿Cómo se cultiva el creyente para la sabiduría?
+El camino de la adquisición de la sabiduría es largo, pero es accesible para quien fue veraz con Dios. Y comienza con asuntos prácticos:
 
-La senda de adquirir la sabiduría es larga, pero accesible para quien es sincero con Dios. Comienza con asuntos prácticos:
+- **El acompañar al Libro de Dios** con recitación y reflexión, pues el Corán es la más grande escuela de la sabiduría en la existencia.
+- **El sentarse con la gente de ciencia y rectitud** y escucharlos, pues su compañía transmite el buen contagio al corazón.
+- **La lectura de las biografías de los profetas, los Compañeros y los virtuosos**, pues arraigan en el alma los modelos supremos de la vida sabia.
+- **La abundancia del silencio y la escasez del habla salvo en el bien**, pues el sabio no habla sino cuando su habla es mejor que su silencio.
+- **El acompañar a la paciencia y la mansedumbre**, pues el Profeta (la paz sea con él) dijo a al-Ašaŷŷ ʿAbd al-Qays: «En verdad, hay en ti dos cualidades que Dios ama: la mansedumbre y la calma»[^16].
+- **El ajuste de cuentas con el alma** cada día sobre lo que dijo e hizo.
+- **La abundancia de la súplica**, pues la sabiduría es un don de Dios, lo da a quien quiere.
 
-- **La compañía constante del Libro de Dios**, en recitación y contemplación —pues el Corán es la mayor escuela de sabiduría en la existencia.
-- **El sentarse con las gentes de saber y de rectitud** y escucharlas —pues su compañía transmite un contagio bendito al corazón.
-- **La lectura de las vidas de los profetas, los Compañeros y los rectos** —pues estas establecen los más altos modelos de una vida sabia en el alma.
-- **El silencio frecuente y las pocas palabras salvo en el bien** —pues la persona sabia no habla a menos que su habla sea mejor que su silencio.
-- **El cultivo de la paciencia y la indulgencia** —pues el Profeta ﷺ dijo a al-Ashaŷŷ de ʿAbd al-Qays: *«En ti hay dos cualidades que Dios ama: la indulgencia y la deliberación»*[^16].
-- **El ajuste de cuentas diario** de lo que uno ha dicho y hecho.
-- **La súplica frecuente** —pues la sabiduría es un don de Dios, dado a quien Él quiere.
+### Conclusión: la crisis del mundo hoy no es una crisis de información... sino una crisis de sabiduría
 
-### Conclusión: la crisis del mundo de hoy no es una crisis de información — es una crisis de sabiduría
+He aquí que la humanidad hoy se yergue en el umbral de una época asombrosa. El ser humano ha penetrado el cielo, ha aterrizado en la luna, ha enviado sus naves a Marte, ha construido máquinas que piensan y aprenden, y ha reunido en su bolsillo las bibliotecas del mundo entero. Y, con todo, sigue este mismo ser humano incapaz de gestionar su casa, de preservar a su familia de la desintegración, de fabricar la paz en su pecho, de responder a las más simples preguntas: ¿quién soy? ¿Y por qué estoy aquí? ¿Y hacia dónde marcho?
 
-La humanidad hoy se yergue en el umbral de una era asombrosa. Hemos horadado el cielo, alunizado, enviado naves a Marte, construido máquinas que piensan y aprenden, y reunido las bibliotecas del mundo en nuestros bolsillos. Y, sin embargo, este mismo ser humano sigue incapaz de gestionar su propio hogar, de evitar que su familia se fragmente, de hacer las paces dentro de su propio pecho, o de responder la más simple de las preguntas: *¿Quién soy? ¿Por qué estoy aquí? ¿Hacia dónde voy?*
+**Pues la crisis del mundo hoy no es una crisis de información, sino una crisis de sabiduría.** El ser humano ha alcanzado del conocimiento lo que le permitió penetrar el cielo, pero sigue incapaz de gestionarse a sí mismo, o preservar a su familia, o fabricar la paz en su corazón. Por ello sigue siendo la sabiduría de fe lo más grande que necesita el ser humano moderno; porque no le da la capacidad de dominar el mundo solamente, sino la capacidad de dominarse a sí mismo.
 
-**La crisis del mundo de hoy no es una crisis de información —es una crisis de sabiduría.** La humanidad ha alcanzado saber suficiente para irrumpir a través del cielo, y, sin embargo, sigue incapaz de gobernarse a sí misma, de preservar sus familias, o de fabricar la paz dentro de sus corazones. Por ello la sabiduría arraigada en la fe sigue siendo lo que la humanidad moderna más desesperadamente necesita —pues concede no solo el poder de dominar el mundo, sino el poder de dominarse a sí mismo.
+Y aquí se manifiesta la grandeza del dicho transmitido con el que abrimos nuestro artículo. Pues el creyente —él solo— es el capaz de reunir entre dos asuntos de los que fue incapaz el mundo contemporáneo: **la apertura al patrimonio de la humanidad** por un lado, y **la firmeza sobre el fundamento divino** por otro. Toma la sabiduría de todo filón puro, y la sopesa con la balanza de la Revelación, así que lo que le concuerda lo acepta orgulloso, y lo que la contradice lo rechaza tranquilo.
 
-Aquí se hace patente la grandeza de la máxima con la que abrimos. El creyente —y solo el creyente— es capaz de unir lo que el mundo contemporáneo ha fracasado en unir: **la apertura al legado de la humanidad** por un lado, y **la firmeza sobre la fuente divina** por el otro. Toma la sabiduría de toda mina pura y la sopesa en la balanza de la revelación: lo que se alinea con ella, lo abraza con orgullo; lo que la contradice, lo aparta con sosiego.
+¡Oh, noble creyente! Hagamos de este significado un método de vida: cada vez que escuchemos una palabra buena, o veamos una conducta sabia, o leamos una idea provechosa conforme a los fundamentos de nuestra legislación, que digamos en nuestro interior: **este es mi extravío, y yo tengo más derecho a él.** Pues el verdadero creyente es el que reúne entre la autenticidad del islam y la comprensión de la vida, entre la firmeza del credo y la flexibilidad del trato, entre el celo por la verdad y la capacidad de transmitirla del modo más elocuente.
 
-Querido creyente, hagamos de este sentido un modo de vida: cada vez que oigamos una buena palabra, presenciemos un acto sabio, o leamos una idea beneficiosa que se alinee con los fundamentos de nuestra sharía, digamos dentro de nosotros: **Este es mi bien perdido —y yo soy el más merecedor de él.** Pues el verdadero creyente es quien une entre la autenticidad del Islam y la comprensión de la vida; entre la firmeza del credo y la flexibilidad de la conducta; entre el celo por la verdad y la capacidad de transmitirla de la manera más propia.
+Pido a Dios el Inmenso, Señor del Trono Generoso, que nos provea la sabiduría y el discurso decisivo, que nos haga de Sus aliados virtuosos, y Sus siervos rectos, y que nos guíe y guíe por medio de nosotros. Pues Él es el Patrón de ello y el Capaz de ello.
 
-Pido a Dios, el Magnífico, Señor del Trono Poderoso, que nos conceda la sabiduría y el discurso decisivo, que nos haga de entre Sus amigos rectos y Sus siervos rectamente guiados, y que nos guíe —y guíe a otros a través de nosotros. En verdad, Él es el Patrón de esto, y capaz de ello.
+Y que Dios bendiga, salude y agracie a nuestro Profeta Muhammad, y a su familia y a todos sus Compañeros.
 
-Y que las bendiciones, la paz y las gracias de Dios sean sobre nuestro Profeta Muhammad, su familia, y todos sus Compañeros.
+[^1]: Lo transmitieron al-Tirmiḏī en sus «Sunan» (2687) e Ibn Māŷa (4169) del hadiz de Abū Hurayra (Dios esté complacido con él). Dijo al-Tirmiḏī tras él: «Este es un hadiz extraño, no lo conocemos sino por esta vía, e Ibrāhīm ibn al-Faḍl al-Majzūmī es debilitado en el hadiz por su memoria». Y dictaminó sobre él al-Albānī en «Ḍaʿīf Sunan al-Tirmiḏī» y en «La cadena débil» (1611) que es: muy débil. Y su significado —no su texto elevado— es sólido y conforme a los fundamentos.
 
-[^1]: Transmitido por al-Tirmidhī en su *Sunan* (2687) e Ibn Māŷa (4169), del hadiz de Abū Hurayra (que Dios esté complacido con él). Al-Tirmidhī comentó: *«Este es un hadiz gharīb; solo lo conocemos por esta cadena, e Ibrāhīm ibn al-Faḍl al-Majzūmī es juzgado débil en el hadiz por su memoria.»* Al-Albānī, en *Ḍaʿīf Sunan al-Tirmidhī* y en *al-Silsila al-Ḍaʿīfa* (1611), lo calificó como: *muy débil* (ḍaʿīf ŷiddan). El sentido —no la redacción elevada— es sólido y consistente con los fundamentos.
+[^2]: Se atribuyó este dicho a ʿAlī (Dios esté complacido con él) en algunos libros de literatura, y no hemos hallado para ello una cadena firme en los libros del legado considerados, por lo que se menciona en forma de cautela y no se afirma con certeza su elevación o su atribución.
 
-[^2]: Este dicho se ha atribuido a ʿAlī (que Dios esté complacido con él) en algunas obras literarias; no hemos localizado para él una cadena de transmisión firme en las colecciones estándar de hadiz y athar, por lo que se cita tentativamente, sin atribución definitiva.
+[^3]: Lo transmitió más de uno de los exegetas como Ibn Kaṯīr y al-Qurṭubī en la exégesis de Su dicho, el Altísimo: «Da la sabiduría a quien quiere».
 
-[^3]: Citado por varios exégetas, entre ellos Ibn Kaṯīr y al-Qurṭubī en su comentario sobre *«Concede la sabiduría a quien quiere»*.
+[^4]: «Las estaciones de los caminantes» de Ibn al-Qayyim (2/449). Y su texto: «Pues la sabiduría es hacer lo que conviene, de la manera que conviene, en el momento que conviene».
 
-[^4]: *Madāriŷ al-Sālikīn* de Ibn al-Qayyim (2/449). La redacción dice: *«La sabiduría es hacer lo que debe hacerse, en la manera en que debe hacerse, en el tiempo en que debe hacerse.»*
+[^5]: «Las definiciones» de al-Ŷurŷānī (entrada: ḥikma), y su texto: «La sabiduría es una expresión del conocimiento de la verdad por sí misma, y el conocimiento del bien para obrar por él».
 
-[^5]: *al-Taʿrīfāt* de al-Ŷurŷānī, entrada «ḥikma»: *«La sabiduría es el conocimiento de la verdad por sí misma, y el conocimiento del bien para obrar conforme a él.»*
+[^6]: Lo transmitieron al-Bujārī (68) y Muslim (2821) de Ibn Masʿūd (Dios esté complacido con él). Acordado.
 
-[^6]: Transmitido por al-Bujari (68) y Muslim (2821), de Ibn Masʿūd (que Dios esté complacido con él). Acordado.
+[^7]: Lo transmitió Muslim en su Ṣaḥīḥ (55) del hadiz de Tamīm al-Dārī (Dios esté complacido con él).
 
-[^7]: Transmitido por Muslim en su *Ṣaḥīḥ* (55), del hadiz de Tamīm al-Dārī (que Dios esté complacido con él).
+[^8]: Lo transmitió al-Bujārī (5767) del hadiz de Ibn ʿUmar (Dios esté complacido con ambos).
 
-[^8]: Transmitido por al-Bujari (5767), del hadiz de Ibn ʿUmar (que Dios esté complacido con ambos).
+[^9]: Lo transmitió Ibn Māŷa (4102) del hadiz de Sahl ibn Saʿd al-Sāʿidī (Dios esté complacido con él). Lo consideraron bueno al-Nawawī y al-Albānī.
 
-[^9]: Transmitido por Ibn Māŷa (4102), del hadiz de Sahl ibn Saʿd al-Sāʿidī (que Dios esté complacido con él). Calificado de ḥasan por al-Nawawī y al-Albānī.
+[^10]: La mencionó con este texto Ibn al-Ŷawzī en «Las fabricaciones», al-Ṣāgānī en «Las fabricaciones» también, y al-Sajāwī en «Los buenos propósitos» (1107) y dijo: «No tiene fundamento». Igualmente al-Zarkašī en «El recordatorio de los hadices célebres» y otros.
 
-[^10]: Con esta redacción, fue citado por Ibn al-Ŷawzī en *al-Mawḍūʿāt*, por al-Ṣaghānī en *al-Mawḍūʿāt* asimismo, y por al-Sajāwī en *al-Maqāṣid al-Ḥasana* (1107), quien dijo: *«No tiene fundamento.»* Igualmente al-Zarkashī en *al-Tadhkira fī al-Aḥādīth al-Mushtahara* y otros. Metodológicamente, lo más correcto es no atribuir esta formulación al Profeta ﷺ, aunque su sentido esté, en general, acorde con el espíritu de la sharía.
+[^11]: Se hizo célebre su atribución a ʿUmar ibn al-Jaṭṭāb (Dios esté complacido con él), y no hemos hallado para ello una cadena firme, sino que es de las sabidurías transmitidas que corren en las lenguas de los sabios.
 
-[^11]: Se atribuye ampliamente a ʿUmar ibn al-Jaṭṭāb (que Dios esté complacido con él); no hemos localizado para él una cadena de transmisión firme. Pertenece más bien a las máximas heredadas que circulan en las lenguas de los sabios.
+[^12]: «El compendio de la exposición de la ciencia y su mérito» de Ibn ʿAbd al-Barr (2/925), y se transmitió de más de uno de los imames, entre ellos: Mālik, Muŷāhid e Ibn ʿAbbās.
 
-[^12]: *Ŷāmiʿ Bayān al-ʿIlm wa-Faḍlih* de Ibn ʿAbd al-Barr (2/925), transmitido de un número de imames, entre ellos Mālik, Muŷāhid e Ibn ʿAbbās.
+[^13]: Su primera parte está en el Ṣaḥīḥ de Muslim (2722) dentro de una súplica más larga, y su segunda parte en Ibn Māŷa (3843) y al-Nasāʾī en «La obra del día y la noche».
 
-[^13]: La primera parte está en *Ṣaḥīḥ Muslim* (2722), dentro de una súplica más larga; la segunda parte está en Ibn Māŷa (3843) y en *ʿAmal al-Yawm wa-l-Layla* de al-Nasāʾī.
+[^14]: Lo transmitió Muslim en su Ṣaḥīḥ (91) del hadiz de Ibn Masʿūd (Dios esté complacido con él).
 
-[^14]: Transmitido por Muslim en su *Ṣaḥīḥ* (91), del hadiz de Ibn Masʿūd (que Dios esté complacido con él).
+[^15]: Lo transmitieron Abū Yaʿlā y al-Bayhaqī del hadiz de Sahl ibn Saʿd. Lo consideró bueno al-Albānī en «Ṣaḥīḥ al-Ŷāmiʿ» (3011).
 
-[^15]: Transmitido por Abū Yaʿlā y al-Bayhaqī, del hadiz de Sahl ibn Saʿd. Calificado de ḥasan por al-Albānī en *Ṣaḥīḥ al-Ŷāmiʿ* (3011).
-
-[^16]: Transmitido por Muslim en su *Ṣaḥīḥ* (17), del hadiz de Ibn ʿAbbās (que Dios esté complacido con ambos). La redacción de Muslim: *«En verdad, en ti hay dos cualidades que Dios ama: la indulgencia y la deliberación.»*
+[^16]: Lo transmitió Muslim en su Ṣaḥīḥ (17) del hadiz de Ibn ʿAbbās (Dios esté complacido con ambos). Y el texto de Muslim: «En verdad, hay en ti dos cualidades que Dios ama: la mansedumbre y la calma».

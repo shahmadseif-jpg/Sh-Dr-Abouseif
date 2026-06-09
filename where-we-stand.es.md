@@ -1,5 +1,5 @@
 ---
-title: "Dónde estamos en la oración de la historia"
+title: "Nuestra posición en el análisis sintáctico"
 subtitle: "Una lectura de la posición del creyente cuando gira la rueda de los acontecimientos"
 date: "2026-05-24"
 locale: "es"
@@ -9,134 +9,120 @@ episode: 5
 readingMinutes: 14
 ---
 
-### Apertura: el análisis sintáctico en la oración, y el análisis en el acontecimiento
+### Entrada: el análisis sintáctico en el texto, y el análisis sintáctico en el acontecimiento
 
-En nuestra niñez aprendimos que cada palabra en una oración árabe tiene una **estación gramatical** (*iʿrāb*): sujeto, complemento, circunstancial, predicado. Si la estación falla, el sentido se derrumba. «Zayd» no puede erguirse como sujeto si lo entiendes como complemento; no puede estar en nominativo si pertenece al genitivo. **Una palabra es lo que su estación dice que es —no lo que sus letras deletrean.**
+Aprendimos en nuestra pequeñez que cada palabra en la oración árabe tiene una **posición en el análisis sintáctico** (iʿrāb): sujeto, complemento, circunstancial o predicado. Y si se altera su posición, se quiebra el sentido. No es igual que «Zayd» sea sujeto cuando hablas en la posición del complemento, ni que esté en nominativo cuando estás en la posición del genitivo. **La palabra vale por su posición, no por su deletreo.**
 
-Así también con el creyente en los acontecimientos: tiene una estación ante cada acontecimiento que debería conocer. Si la pierde, la balanza interior se quiebra, y el testimonio exterior vacila. **Tú —oh creyente— eres una palabra en la oración de la historia. ¿Cuál es tu estación en el análisis de esta oración?**
+E igual el creyente en los acontecimientos: tiene una posición en el acontecimiento que debe conocer. Y si se le ausenta, se altera en su interior su balanza, y se altera ante la gente su exposición. **Pues tú —oh, creyente— eres una palabra en la oración de la historia. ¿Cuál es tu posición en el análisis sintáctico de esta oración?**
 
-Esta es la pregunta que contemplamos hoy al mirar lo que se despliega a nuestro alrededor —mirando desde arriba, no desde dentro. Desde por encima de las nubes, donde se ven los cursos de los ríos en toda su amplitud, no desde el lecho del río, donde solo se ve barro y piedra.
+Esta es una pregunta sobre la que reflexionamos hoy, mientras miramos lo que ocurre a nuestro alrededor: una mirada desde arriba, no desde el medio. Desde encima de las nubes, donde se ve el curso de los ríos en su forma global, no desde el fondo del río donde no vemos sino el lodo y la piedra.
 
----
+### Primero: la sura de los Romanos — cuando la guerra ocurre entre dos incrédulos
 
-### I. La sura de Ar-Rūm — cuando la guerra cae entre dos incrédulos
+Nuestro Señor, glorificado sea, abrió la sura de los Romanos (al-Rūm) con una historia extraña en su apariencia, admirable en su realidad:
 
-Dios abrió la sura de Ar-Rūm con un relato extraño en su superficie, maravilloso en su realidad:
+> *«Alif, lām, mīm. Los romanos han sido vencidos en la tierra más cercana, pero ellos, tras su derrota, vencerán en unos pocos años. De Dios es el asunto, antes y después. Y aquel día se alegrarán los creyentes por la victoria de Dios. Él auxilia a quien quiere, y Él es el Poderoso, el Misericordioso.»* (al-Rūm: 1–5).
 
-> *«Alif Lām Mīm. Los romanos han sido vencidos en la tierra más cercana, pero tras su derrota vencerán —dentro de pocos años. De Dios es la orden, antes y después. Y ese día los creyentes se alegrarán del auxilio de Dios. Auxilia a quien quiere, y Él es el Todopoderoso, el Misericordioso»* (Ar-Rūm: 1–5).
+Los aspectos del asombro en estas aleyas son muchos. Los romanos no son musulmanes, y los persas no son musulmanes. Una guerra entre dos incrédulos, en la que venció uno de ellos al otro —¿por qué, pues, nos importa en el Corán su noticia? ¿Y por qué nos informa Dios de que «los creyentes se alegran» por la derrota de uno de ellos y la victoria del otro?
 
-La maravilla en estas aleyas es de muchos lados. Los romanos no eran musulmanes, y los persas no eran musulmanes. Una guerra entre dos incrédulos, en la que uno venció al otro —¿por qué habría de ocuparse el Corán de sus nuevas? ¿Y por qué nos dice Dios que «los creyentes se alegran» de la derrota de uno y la victoria del otro?
+Respondieron los exegetas: porque los persas eran zoroastrianos que adoraban el fuego, y los romanos eran gente del Libro, y la victoria para la gente del Libro —aunque no fueran musulmanes— era más cercana a la gente de la fe que la victoria para los idólatras[^1]. Por ello se alegraron los musulmanes por la victoria de los romanos sobre Persia.
 
-Los comentaristas respondieron: los persas eran magos adoradores del fuego, los romanos eran Gentes del Libro, y la victoria de las Gentes del Libro —aunque no musulmanes— estaba más cerca de las gentes de la fe que la victoria de los paganos[^1]. Así, los musulmanes se alegraron de la victoria de Roma sobre Persia.
+Pero en la aleya hay una sutileza más honda que esto. **El Corán enseña al creyente a tener una «posición en el análisis sintáctico del acontecimiento»** incluso cuando los actores son todos no musulmanes. Tú no eres un bando de campo en toda guerra —pero eres una balanza. Tienes en todo acontecimiento una «mirada» con la que lees dónde está la verdad relativa de la falsedad relativa, y con la que lees el desenlace del acontecimiento sobre el destino de la fe en el mundo. **Esta es la clarividencia coránica.**
 
-Pero en la aleya hay un punto más sutil aún. **El Corán enseña al creyente a tener una «estación dentro del análisis del acontecimiento»** aun cuando todos los actores son no musulmanes. No eres un combatiente de campo en toda guerra —pero eres una balanza. Posees para cada acontecimiento una *mirada* con la que lees dónde yace la verdad relativa frente a la falsedad relativa, y con la que lees la consecuencia del acontecimiento sobre el destino de la fe en el mundo. **Esta es la perspicacia coránica.**
+### Segundo: cuando gira la rueda entre dos potencias entre las que y tú no hay sino la historia
 
----
+Hoy —y nosotros en los finales del primer cuarto del siglo XV de la hégira— gira la rueda ante nosotros entre potencias ninguna de las cuales representa la morada del islam en su sentido global. Guerras en la región, choques entre Estados cuyas escuelas difieren y cuyos proyectos divergen, y tras cada bando de ellos una política con la que sirve a quien está tras él de las grandes potencias.
 
-### II. Cuando la rueda gira entre dos potencias, ninguna de las cuales es nuestra
+Y el creyente que mira esta oración desde el cielo —no desde la tierra— se pregunta a sí mismo tres preguntas:
 
-Hoy —al cerrar el primer cuarto del siglo quince islámico— la rueda gira ante nosotros entre potencias, ninguna de las cuales representa la Morada del Islam en ningún sentido total. Guerras en la región; choques entre Estados cuyas escuelas y proyectos difieren; y tras cada parte, una política que sirve a las grandes potencias que están detrás de ella.
-
-El creyente que mira esta oración desde el cielo —no desde el suelo— se hace tres preguntas:
-
-- ¿Cuál es **mi estación** en este análisis?
+- ¿Cuál es mi **posición** en este análisis sintáctico?
 - ¿Soy un actor armado con una espada, o un testigo armado con una balanza?
-- ¿De qué debería alegrarse mi corazón, y por qué debería entristecerse?
+- ¿Y de qué debe alegrarse mi corazón, y de qué debe entristecerse?
 
-Estas no son preguntas abstractas. Estas son preguntas que cada sermón del viernes pone ante quien escucha con su corazón antes que con su oído. Porque no le es dado al creyente desprenderse del cuerpo del mundo y decir: «Este es un asunto entre gentes que no conozco, ¿qué tengo yo que ver con ellas?» **Pues lo que se despliega en el mundo repercute sobre la Morada del Islam, repercute sobre la posición del musulmán, repercute sobre el anuncio del Islam sobre la tierra. El creyente que no siente esto ha perdido su estación en el análisis.**
+Estas no son preguntas abstractas. Son preguntas que plantea cada sermón del viernes a quien lo escucha con su corazón antes que con su oído. Porque al creyente no le corresponde extraerse a sí mismo del cuerpo del mundo, y decir: «Este es un asunto entre gentes que no conozco, ¿qué tengo yo con ellos?» **Porque lo que ocurre en el mundo se refleja en la morada del islam, se refleja en el rango del musulmán, y se refleja en la proclamación del islam en la tierra. Y el creyente que no siente esto, ha perdido su posición en el análisis sintáctico.**
 
-Por otro lado, no le es dado entrar en toda batalla como si fuera un partidario en ella —absorbiendo el aire de esta facción y odiando a los enemigos de aquella. **La balanza coránica no es alineamiento tribal; es juicio tras la reflexión.**
+Y en el otro lado, no le corresponde entrar en cada batalla como si fuera un bando en ella, embebiéndose el aliento de este grupo, y odiando a los enemigos de aquel grupo. **Porque la balanza coránica no es un sesgo tribal, sino un juicio tras una mirada.**
 
----
+### Tercero: la tentación de la malicia — cuando se confunde la alegría por la victoria de la fe con la alegría por la derrota de los hermanos
 
-### III. La prueba de la alegría por el mal ajeno — cuando la alegría por el triunfo de la fe se confunde con la alegría por la derrota de un hermano
+Lo más peligroso que se le presenta al creyente en un tiempo como este es que se le mezclen dos asuntos:
 
-Lo más peligroso que puede encarar el creyente en un tiempo como este es confundir dos asuntos:
+- **La alegría por la victoria de la fe**: que es una alegría ordenada, como se alegraron los Compañeros por la victoria de los romanos sobre Persia.
+- **La malicia (regodeo) hacia una facción de los musulmanes que fue probada con una guerra**: que es un defecto que prohibió el Mensajero de Dios (la paz sea con él), en lo que se transmitió con una cadena débil, de Wāṯila ibn al-Asqaʿ: *«No manifiestes la malicia hacia tu hermano, no sea que Dios se apiade de él y te pruebe a ti»*[^2]. Y el significado lo respaldan los fundamentos de la legislación y la moral de la fe.
 
-- **Alegrarse del auxilio de la fe**: una alegría que se le ordena sentir, como los Compañeros se alegraron de la victoria de Roma sobre Persia.
-- **La alegría por el mal de una secta de musulmanes probada por la guerra**: una cualidad que el Mensajero ﷺ prohibió en una narración de cadena débil de Wāthila ibn al-Asqaʿ: *«No muestres alegría por el mal de tu hermano, no sea que Dios se apiade de él y te pruebe a ti.»*[^2] Su sentido está corroborado por los principios fundacionales de la sharía y la ética de la fe.
+La confusión entre estos dos asuntos es mortal. Pues hay musulmanes hoy que miran lo que le baja a una facción confesional distinta de la suya, de prueba en la guerra, y se alegran. Y creen que esta su alegría es de la «victoria de la sunna» o el «triunfo de la verdad». **Y es en realidad malicia, no alegría de fe.**
 
-La confusión entre estas dos es letal. Algunos musulmanes hoy miran el sufrimiento que recae sobre una secta que no es de su escuela en la guerra y se alegran. Suponen que esta alegría pertenece a «la victoria de la Sunna» o «el triunfo de la verdad». **Es, en verdad, alegría por el mal ajeno —no la alegría de la fe.**
+Porque la regla en la alegría coránica es: nos alegramos cuando es auxiliada la fe entera sobre la incredulidad entera. No cuando se quiebra un musulmán —aunque sea opositor nuestro en las ramas de la escuela jurídica— bajo golpes sionistas o regionales que no son del género de la fe.
 
-La regla de la alegría coránica es esta: nos alegramos cuando la fe —como un todo— es auxiliada sobre la incredulidad —como un todo. No cuando un musulmán es quebrado —aun uno que difiere de nosotros en las ramas de la doctrina— bajo golpes que son sionistas o regionales, no islámicos en ningún sentido.
+Y el musulmán que escucha la noticia de una casa que se demolió en un suburbio de los suburbios de un país cuya gente es de una escuela distinta de la suya, y dice para sí: «su recompensa por lo que hicieron» —este musulmán ha perdido su posición en el análisis sintáctico. **Porque el muerto bajo los escombros es musulmán, el desplazado es musulmán, y el huérfano es musulmán. Y lo que hay entre las escuelas de diferencia en las ramas no le quita a ninguno de ellos la descripción del islam.**
 
-El musulmán que oye que un hogar fue destruido en un suburbio cuyas gentes siguen una escuela distinta de la suya, y que dice en su corazón: «cosecharon lo que sembraron» —ese musulmán ha perdido su estación en el análisis. **Pues el cuerpo bajo los escombros es un musulmán, y el desplazado es un musulmán, y el huérfano es un musulmán. Lo que media entre las escuelas en las diferencias de rama no despoja a ninguna de ellas del nombre del Islam.**
+> **La malicia hacia un musulmán —cualquiera que sea su escuela— cuando le baja una prueba de los no musulmanes, es un defecto que no germina en un corazón que conoce la balanza de la fe.**
 
-> **La alegría por el mal de un musulmán —cualquiera que sea su escuela— cuando la calamidad desciende sobre él desde no musulmanes, es una cualidad que no crece en un corazón que conoce la balanza de la fe.**
+Esto no significa que anulemos las diferencias confesionales, ni que igualemos entre quien acertó en su método y quien se apartó de lo correcto. Pero significa que pongamos cada cosa en su posición: **la diferencia confesional se trata en el libro del fiqh y el libro del credo, no en una alegría por la desgracia de un musulmán.** El análisis sintáctico en su posición.
 
-Esto no significa que borremos las diferencias entre las escuelas, ni que igualemos a quien alcanzó la verdad con quien se apartó de ella. Significa que pongamos cada cosa en su estación: **el desacuerdo doctrinal se trata en los libros de jurisprudencia y de credo, no en la alegría por la desgracia de un musulmán.** El análisis en su lugar.
+### Cuarto: el creyente en Occidente — una tercera posición
 
----
+¿Dónde está nuestra posición —nosotros los musulmanes en Occidente— de este análisis sintáctico?
 
-### IV. El musulmán en Occidente — una tercera estación
+No somos un bando militar, ni una posición geográfica de las posiciones del conflicto. Pero estamos **en el corazón del acontecimiento desde dos lados**:
 
-¿Dónde estamos —nosotros, los musulmanes en Occidente— en este análisis?
+- **El primer lado**: que el sistema político bajo cuya sombra vivimos es el mismo que es actor en muchos de aquellos acontecimientos; apoya a este, frena a aquel, y sostiene las riendas de la gran política del mundo.
+- **El segundo lado**: que la imagen del islam ante la gente aquí se dibuja con nosotros —con nuestra conducta, nuestro hablar, y nuestra postura.
 
-No somos un partido militar, ni un teatro geográfico de conflicto. Pero estamos **en el corazón del acontecimiento por dos direcciones**:
+Y desde estos dos lados: **sobre nosotros hay un deber duplicado.**
 
-- **La primera**: el sistema político a cuya sombra vivimos es él mismo el agente en muchos de esos acontecimientos; apoya esto, refrena aquello, y sostiene las riendas de la gran política del mundo.
-- **La segunda**: la imagen del Islam en las mentes de las gentes aquí la dibujamos nosotros —por nuestra conducta, nuestro discurso, y nuestra postura.
+En el primer lado: debemos ser en nuestro discurso a la política pública gente de clarividencia, no gente de pasión. Cuando objetamos una política de las políticas de la era actual —como la campaña endurecida contra los inmigrantes, o el discurso de estrechamiento sobre los musulmanes, o el apoyo a las guerras de las que son víctimas civiles inocentes— objetamos con la lengua de la verdad, no con la lengua del partido. Decimos: «esto es injusticia» porque es injusticia, no porque vino de fulano sin mengano. **Y la injusticia es injusticia de cualquier lado que proceda.** Y en las elecciones emitimos nuestros votos según la balanza del interés legislado, no según la balanza de la emoción tribal de un partido sobre otro.
 
-De estas dos direcciones: **recae sobre nosotros un deber duplicado.**
+En el segundo lado: debemos saber que en cada casa musulmana en Charlotte, Tampa, Nueva York y California, hay **una embajada del islam**. El embajador no reniega de su pueblo, pero no atrae el odio de otro pueblo con su conducta. El embajador transmite la imagen de su país —y nosotros transmitimos la imagen de nuestra religión.
 
-En la primera dirección: debemos abordar la política pública como gentes de perspicacia, no como gentes de inclinación. Cuando objetamos una política de la era actual —como la dura campaña contra los inmigrantes, o el discurso de restricción contra los musulmanes, o el apoyo de guerras cuyas víctimas son civiles inocentes— objetamos con la lengua de la verdad, no con la lengua del partido. Decimos «esto es injusticia» porque es injusticia, no porque vino de este hombre y no de aquel. **La injusticia es injusticia, cualquiera que sea su fuente.** En las elecciones, depositamos nuestros votos en la balanza de la *maṣlaḥa sharʿiyya* (el interés sharaicamente sólido), no en la balanza del sentimiento tribal por un partido sobre otro.
+> **En el destierro, eres un embajador antes de ser un crítico.**
 
-En la segunda dirección: debemos saber que en todo hogar musulmán en Charlotte, Tampa, Nueva York y California, hay **una embajada del Islam**. El embajador no reniega de su pueblo, pero tampoco atrae el odio de los demás sobre él a través de su conducta. El embajador transmite la imagen de su país —y nosotros transmitimos la imagen de nuestra religión.
+Y no hay contradicción entre los dos asuntos. El embajador hábil critica la política del Estado en que vive con un estilo que abre la puerta, no la cierra. Critica para reformar, no para denostar. Esta es la posición del creyente en Occidente hoy.
 
-> **En el exilio, eres un embajador antes de ser un crítico.**
+### Quinto: los acontecimientos pasan, y la palabra permanece
 
-No hay contradicción entre los dos. El embajador hábil critica la política del país en el que vive de una manera que abre la puerta, no la cierra. Critica para reparar, no para herir. Esta es la estación del creyente en Occidente hoy.
+Debemos saber que la política es mudable. Gobiernos vienen y van. Políticas se legislan y luego se anulan. Personajes despuntan y luego se atenúan. Esta es la naturaleza del mundo. *«Y esos días los alternamos entre la gente»* (Āl ʿImrān: 140).
 
----
+De aquí, **no le corresponde al discurso islámico estar supeditado a un hombre determinado ni a un partido determinado**. El discurso supeditado a una persona cae con su caída, y el discurso supeditado a un partido se tiñe con su tintura. **El discurso coránico trata con los patrones, no con los individuos. Y los patrones de la injusticia permanecen, y los patrones de la justicia permanecen, solo que cambian sus rostros.**
 
-### V. Los acontecimientos pasan, la palabra permanece
+Pues quien escribió hoy un artículo sobre «las características de fulano» cayó su artículo el día en que fulano sale de la escena. Y quien escribió sobre «el patrón del sometimiento» o «el patrón de la arrogancia» o «el patrón del gobierno con otra cosa de lo que Dios reveló» —permaneció su artículo provechoso mientras haya en la gente un sometido y un arrogante.
 
-Debemos saber que la política cambia. Los gobiernos vienen y van. Las políticas se escriben y luego se derogan. Las personalidades suben y luego se desvanecen. Esta es la naturaleza del mundo. *«Y esos días —los rotamos entre las gentes»* (Āl ʿImrān: 140).
+**Este es el estilo del Corán.** Nos informó del Faraón, no de «el Faraón fulano», nos informó de Qārūn, no de «el Qārūn fulano», nos informó de Hāmān, no de «el Hāmān fulano». Porque el análisis sintáctico está en los patrones, no en los individuos. Pues cuando pasó el Faraón de Moisés, se levantó tras él el Faraón de cada tiempo, que lo conoce el lector del Corán por su marca: *«En verdad, el Faraón se ensoberbeció en la tierra e hizo de sus habitantes facciones»* (al-Qaṣaṣ: 4).
 
-De aquí, **el discurso islámico no debería estar atado a un hombre particular ni a un partido particular**. El discurso atado a una persona cae cuando ella cae; el discurso atado a un partido cambia de color al cambiar el partido. **El discurso coránico se compromete con los patrones, no con las personalidades. Los patrones de la opresión perduran, los patrones de la justicia perduran —solo cambian sus rostros.**
+### Sexto: ¿qué ofrecemos en un tiempo como este?
 
-Quien escriba hoy un ensayo sobre «las cualidades de fulano» verá su ensayo caer el día en que fulano abandone la escena. Quien escriba sobre «el patrón de la opresión», «el patrón de la soberbia», o «el patrón de gobernar por otra cosa que lo que Dios ha hecho descender» —su ensayo perdura mientras quede en la humanidad un oprimido y un soberbio.
+Vuelvo contigo —oh, hermano lector— a la pregunta con la que abrimos: **¿cuál es tu posición en el análisis sintáctico de esta oración?** Y respondo con cuatro palabras que deben estar en su posición:
 
-**Este es el método del Corán.** Nos habló de Faraón, no del «Faraón de tal»; de Qārūn, no del «Qārūn de tal»; de Hāmān, no del «Hāmān de tal». Porque el análisis vive en los patrones, no en los individuos. Cuando pasó el Faraón de Moisés, se alzó tras él el Faraón de toda época —conocido para el lector del Corán por su marca: *«Faraón se ensoberbeció en la tierra y dividió a sus gentes en facciones»* (Al-Qaṣaṣ: 4).
+**Primero: la ciencia.** Construye tu conocimiento del mundo. Lee la historia. Conoce las leyes (sunan). Pregunta por los trasfondos de los acontecimientos. No te exaltes antes de comprender. **La comprensión precede a la postura, de lo contrario la postura es pasión.**
 
----
+**Segundo: la balanza.** Haz de tu balanza el Corán, no el sesgo tribal ni la emoción confesional. Juzga con justicia, pues *«el odio de un pueblo»* no debe llevarte a abandonar la justicia. Aprende la alegría en su lugar, la tristeza en su lugar, y el silencio en su lugar. *«¡Oh, los que habéis creído! Sed firmes en favor de Dios, testigos con equidad, y que no os lleve el odio de un pueblo a no ser justos. Sed justos; eso es más cercano a la piedad»* (al-Māʾida: 8).
 
-### VI. ¿Qué ofrecemos en un tiempo como este?
+**Tercero: el llamado (daʿwa).** Haz de tu casa, tu mezquita y tu trabajo arenas para el llamado con el estado antes que con el dicho. La gente junto a la que te sientas en el tren, a quien atiende su médico, y a cuyos hijos enseña su maestro —estos leen el islam en ti antes de leerlo en un libro. **Haz que la lectura en ti honre la religión.**
 
-Vuelvo contigo —querido lector— a la pregunta con la que abrimos: **¿Cuál es tu estación en el análisis de esta oración?** Y respondo con cuatro palabras, cada una de las cuales debería estar en su estación:
+**Cuarto: la comunidad.** No estés solo. Intégrate en una labor compartida: una mezquita que sirves, una escuela en la que enseñas, una asociación benéfica en la que trabajas. El individuo es débil, y la comunidad es fuerza. Y el musulmán en Occidente hoy tiene una necesidad apremiante de ser parte de una estructura, no de ser un átomo disperso.
 
-**Primera: el saber.** Edifica tu saber del mundo. Lee la historia. Familiarízate con los patrones que se despliegan. Pregunta por el trasfondo de los acontecimientos. No reacciones antes de comprender. **La comprensión precede a la postura; de lo contrario, la postura es apetito.**
+### Conclusión: «Y aquel día se alegrarán los creyentes»
 
-**Segunda: la balanza.** Haz de tu balanza el Corán, no el alineamiento tribal, no el sentimiento sectario. Juzga con justicia, pues *«el odio a un pueblo»* no debería llevarte a abandonar la justicia. Aprende la alegría en su lugar, la tristeza en su lugar, el silencio en su lugar. *«¡Oh, los que habéis creído! Sed persistentemente firmes por Dios, testigos en justicia —y que el odio a un pueblo no os impida ser justos. Sed justos; eso está más cerca de la rectitud»* (Al-Māʾida: 8).
+Vuelve a la aleya de la sura de los Romanos: *«Y aquel día se alegrarán los creyentes por la victoria de Dios»* (al-Rūm: 4–5).
 
-**Tercera: la daʿwa.** Haz de tu hogar, tu mezquita y tu lugar de trabajo campos de invitación por la conducta antes que por la palabra. Las gentes que se sientan a tu lado en el tren, cuyo médico te trata, cuyo maestro enseña a tus hijos —leen el Islam de ti antes de leerlo en un libro. **Que la lectura de ti honre la religión.**
+La alegría en esta aleya no es una alegría de malicia por un bando que pereció, ni una alegría de desquite de un pueblo que fue quebrado. **Es una alegría de clarividencia.** Una alegría de que la balanza global del mundo marchó en un curso que sirve —en aquel momento— al destino de la fe en la tierra.
 
-**Cuarta: la comunidad.** No te yergas solo. Comprométete en el trabajo compartido: una mezquita a la que sirvas, una escuela en la que enseñes, una obra benéfica con la que labores. El individuo es débil, y la comunidad es fortaleza. El musulmán en Occidente hoy está en urgente necesidad de ser parte de una estructura —no un átomo disperso.
+Y nosotros en un tiempo como este, tenemos una alegría posible, si hacemos bien el análisis sintáctico:
 
----
+- Una alegría de que el musulmán en Occidente —pese a todo el estrechamiento— sigue en pie, rezando, llamando y enseñando.
+- Una alegría de que los jóvenes del islam en todo lugar buscan su religión con una búsqueda más honda que la búsqueda de sus padres.
+- Una alegría de que la balanza del Corán sigue presente en las almas, descubriéndole a la gente las posiciones del análisis sintáctico cuando se confunden.
 
-### Conclusión: «Y ese día los creyentes se alegrarán»
+**Y tenemos una tristeza posible, si hacemos bien el análisis sintáctico también:**
 
-Vuelve a la aleya de la sura de Ar-Rūm: *«Y ese día los creyentes se alegrarán del auxilio de Dios»* (Ar-Rūm: 4–5).
+- Una tristeza por musulmanes que mueren bajo los escombros, cualquiera que sea su escuela.
+- Una tristeza por hermanos que se dispersaron, y se volvió su rigor entre ellos severo, y su enemigo mira el espectáculo.
+- Una tristeza por una comunidad que olvidó su posición en el análisis sintáctico, y se volvió como quien habla con un habla cuya gramática no comprende.
 
-La alegría en esta aleya no es la alegría por el mal de un partido que pereció, ni la alegría de la reivindicación sobre un pueblo quebrado. **Es la alegría de la perspicacia.** Una alegría de que la balanza universal del mundo se movió —en ese instante— en una dirección que sirvió al destino de la fe sobre la tierra.
+Pido a Dios que nos haga de los que conocieron su posición: ni actores sin balanza, ni objetos pasivos sin consciencia. Y que nos provea la alegría de los creyentes por Su victoria, la tristeza de los creyentes por lo que Le entristece, y la firmeza de los creyentes en lo que Le complace.
 
-En un tiempo como el nuestro, tenemos una alegría posible, si analizamos con rectitud:
+Y que Dios bendiga y salude abundantemente a nuestro Profeta Muhammad, y a su familia y sus Compañeros.
 
-- Alegría de que el musulmán en Occidente —a pesar de toda restricción— aún se yergue, ora, llama y enseña.
-- Alegría de que los jóvenes del Islam en todas partes buscan su religión de una manera más honda de lo que sus padres buscaron.
-- Alegría de que la balanza coránica sigue presente en las almas, revelando a las gentes las estaciones del análisis cuando esas estaciones se confunden.
+[^1]: Véase la exégesis de Ibn Kaṯīr de los comienzos de la sura de los Romanos, «El compendio de la explicación» de al-Ṭabarī, y «El compendio de las normas del Corán» de al-Qurṭubī, sobre Su dicho, el Altísimo: *«Los romanos han sido vencidos»*; los exegetas concordaron en que la causa de la alegría de los creyentes por la victoria de los romanos es que los romanos eran gente del Libro, y los persas zoroastrianos.
 
-**Y tenemos una tristeza posible, si analizamos con rectitud también:**
-
-- Tristeza por los musulmanes que mueren bajo los escombros, cualquiera que sea su escuela.
-- Tristeza por hermanos que se dividieron, hasta que su conflicto entre sí se volvió feroz mientras su enemigo observaba.
-- Tristeza por una comunidad que olvidó su estación en el análisis —y ahora pronuncia un discurso cuya gramática no comprende.
-
-Pido a Dios que nos haga de quienes conocen su estación: ni actores sin una balanza, ni objetos sobre los que se actúa sin conciencia. Y que nos conceda la alegría de los creyentes por Su auxilio, la tristeza de los creyentes por lo que Le entristece, y la firmeza de los creyentes sobre lo que Le agrada.
-
-Y que las bendiciones, la paz y las gracias de Dios sean sobre nuestro Profeta Muhammad, su familia, y sus Compañeros.
-
-[^1]: Véase el *Tafsīr* de Ibn Kaṯīr sobre la apertura de la sura de Ar-Rūm, el *Ŷāmiʿ al-Bayān* de al-Ṭabarī, y *al-Ŷāmiʿ li-Aḥkām al-Qurʾān* de al-Qurṭubī sobre *«Ghulibat al-Rūm»*. Los comentaristas concuerdan en que la razón por la que los creyentes se alegraron de la victoria de Roma fue que los romanos eran Gentes del Libro mientras que los persas eran magos.
-
-[^2]: Transmitido por al-Tirmidhī en su *Sunan* (#2506) del hadiz de Wāthila ibn al-Asqaʿ (que Dios esté complacido con él); calificado de débil (*ḍaʿīf*) por al-Albānī en *Ḍaʿīf al-Tirmidhī* y en *Ḍaʿīf al-Ŷāmiʿ* (#6042). Aunque su cadena es débil, su sentido está corroborado por los principios fundacionales de la sharía en la prohibición de la alegría por el mal de un musulmán; citado tentativamente, a modo de corroboración, no como prueba autónoma.
+[^2]: Lo transmitió al-Tirmiḏī en sus Sunan (2506) del hadiz de Wāṯila ibn al-Asqaʿ (Dios esté complacido con él), y lo debilitó al-Albānī en «Ḍaʿīf al-Tirmiḏī» y en «Ḍaʿīf al-Ŷāmiʿ» (6042). Y pese a la debilidad de su cadena, su sentido lo respaldan los fundamentos de la legislación en la prohibición de la malicia hacia el musulmán, por lo que lo aportamos a modo de consideración, no de argumentación.
