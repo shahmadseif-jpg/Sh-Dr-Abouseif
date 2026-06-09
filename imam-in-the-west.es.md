@@ -1,5 +1,5 @@
 # El imam en Occidente
-## De la imamía de la oración a la imamía de la sociedad
+## De la imamía de la oración a la imamía de la comunidad
 ### El primer episodio de la serie «El imam en Occidente — una escuela para la fabricación del líder»
 
 ---
@@ -36,7 +36,7 @@ Y en las épocas posteriores, con la formación del Estado moderno en el siglo X
 
 Luego vino la generación de los emigrantes a Occidente, y he aquí que están en sociedades **en las que el Estado no asume los asuntos religiosos y sociales de los musulmanes**: ninguna judicatura familiar islámica, ninguna administración de legados, ninguna documentación de matrimonio, ningún dictamen oficial. ¿Quién llena, pues, este vacío? Se dirigió la gente a la mezquita, y al imam, **pidiéndole lo que no se le pedía durante los dos siglos pasados**.
 
-Y así impuso la realidad al imam de Occidente **la reunión de nuevo de las dos imamías** como obra, no como teorización. Ya no le es posible contentarse con la imamía de la oración; se volvió obligado —quiera o no— a la imamía de la sociedad.
+Y así impuso la realidad al imam de Occidente **la reunión de nuevo de las dos imamías** como obra, no como teorización. Ya no le es posible contentarse con la imamía de la oración; se volvió obligado —quiera o no— a la imamía de la comunidad.
 
 ---
 

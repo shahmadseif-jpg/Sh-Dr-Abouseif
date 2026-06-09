@@ -1,5 +1,5 @@
 # The Imam in the West
-## From Leading the Prayer to Leading the Ummah
+## From Leading the Prayer to Leading the Community
 ### Episode One of "The Imam in the West — A School in Crafting the Leader"
 
 ---
