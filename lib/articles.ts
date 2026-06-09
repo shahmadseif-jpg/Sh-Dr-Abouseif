@@ -892,8 +892,8 @@ export const articlesMeta: ArticleMeta[] = [
     episode: 1,
     title: {
       ar: 'الإمام في الغرب: من إمامة الصلاة إلى إمامة المجتمع',
-      en: 'The Imam in the West: From Leading the Prayer to Leading the Ummah',
-      es: 'El imam en Occidente: de la imamía de la oración a la imamía de la sociedad',
+      en: 'The Imam in the West: From Leading the Prayer to Leading the Community',
+      es: 'El imam en Occidente: de la imamía de la oración a la imamía de la comunidad',
     },
     subtitle: {
       ar: 'الحلقة الأولى — التأصيل الفقهي، الواقع العملي، وثَمن القيادة',
