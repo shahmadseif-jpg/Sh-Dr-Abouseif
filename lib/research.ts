@@ -125,6 +125,8 @@ export const researchMeta: ResearchMeta[] = [
       es: 'Estudio comparado de fiqh uṣūlī–maqāṣid — versión final consolidada, al margen de la temporada del Hach 1447 H',
     },
     language: 'ar',
+    pages: 12, // النسخة المنقَّحة التوثيق ٢٠٢٦
+    pdfUrl: '/research/farewell-tawaf/paper.pdf',
     keywords: {
       ar: ['طواف الوداع', 'الحجّ', 'دلالة الأمر', 'الجبر بالدم', 'النُّسُك', 'مناطات الخلاف', 'الترجيح المقاصدي', 'الفقه المقارن'],
       en: ['Farewell Ṭawāf', 'Hajj', 'import of the command', 'blood-offering (dam)', 'rite (nusuk)', 'loci of disagreement', 'maqāṣid-based weighing', 'comparative fiqh'],
