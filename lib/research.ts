@@ -307,7 +307,7 @@ export const researchMeta: ResearchMeta[] = [
       en: 'Houston, Texas — United States',
       es: 'Houston, Texas — Estados Unidos',
     },
-    pages: 34,
+    pages: 19, // النسخة المنقَّحة التوثيق ٢٠٢٦ (أصل المؤتمر ٣٤ صفحة محفوظ في _source-manuscripts)
     language: 'ar',
     pdfUrl: '/research/fatwa-mufti-eligibility-2018/paper.pdf',
     keywords: {
