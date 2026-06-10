@@ -41,7 +41,7 @@ export const articlesMeta: ArticleMeta[] = [
   {
     slug: 'surah-al-fatiha',
     category: 'maqasid-tafsir',
-    isoDate: '2026-06-10',
+    isoDate: '2026-05-19',
     date: { ar: 'يونيو ٢٠٢٦', en: 'June 2026', es: 'Junio de 2026' },
     readingMinutes: 6,
     series: { ar: 'التفسير المقاصدي', en: 'Objective-Based Tafsīr', es: 'Tafsīr orientado a los fines' },
