@@ -78,7 +78,7 @@ In common usage, daʿwah means urging people toward good and guidance, enjoining
 
 **The third kind:** that which passes between individuals among themselves — pointing one another toward good and commending it, and forbidding evil and warning against it — as in His words, Mighty and Majestic: "By the passage of time, mankind is surely in loss, except for those who believe, do righteous deeds, and counsel one another to truth and counsel one another to patience." [al-ʿAṣr: 1–3], and "And who speaks better than one who calls to God" [Fuṣṣilat: 33], that is, to the religion of God.
 
-> Notes: (1) Sūrat al-Nisāʾ, verse 165. (2) Sūrat al-Baqarah, verse 221. (3) Sūrat Yūnus, verse 25. (4) Sūrat Ibrāhīm, verse 10. (5).
+> Notes: (1) Sūrat al-Nisāʾ, verse 165. (2) Sūrat al-Baqarah, verse 221. (3) Sūrat Yūnus, verse 25. (4) Sūrat Ibrāhīm, verse 10. (5) Wahbah al-Zuḥaylī, al-Tafsīr al-Munīr (8/506).
 
 **It has three conditions:**
 
@@ -96,7 +96,7 @@ So when callers grow few, evils multiply, and ignorance prevails, daʿwah become
 
 - As for language: the Islamic legal sciences were originally set down in Arabic, with its renowned eloquence and clarity. To grasp them, and to apprehend them directly, is therefore no easy thing except for specialists and those versed in the craft; and that comes hard to the sons and daughters of communities in which Arabic is a second language rather than the first.
 
-> Note (1): Ṣaḥīḥ Muslim.
+> Note (1): Reported by Muslim (49), from Abū Saʿīd al-Khudrī.
 
 - As for traditions (al-taqālīd): this is the plural of "tradition" (taqlīd), meaning the whole body of what the members of a given society have grown accustomed to and reckoned among the rules that govern its life, which they expect to recur in various situations, and in which they have followed those who came before them.
 
@@ -118,7 +118,7 @@ And He Most High said: "He created you from a single soul, then made from it its
 
 So woman, then, is half of society in both the tangible and the abstract sense. From the material standpoint this is plain: in a census, the number of women is most often greater than that of the men, and at the very least equal to it. As for
 
-> Notes: (1) Narrated by Abū Dāwūd, al-Tirmidhī, al-Dārimī, and Imam Aḥmad. (2) Verse 13 of Sūrat al-Ḥujurāt. (3) Verse 189 of Sūrat al-Aʿrāf. (4) Verse 6 of Sūrat al-Zumar.
+> Notes: (1) ‘Women are the full sisters of men’: reported by Abū Dāwūd (236), al-Tirmidhī (113), Ibn Mājah (612), and Aḥmad (26195), from ʿĀʾishah; graded ṣaḥīḥ by al-Albānī. (2) Verse 13 of Sūrat al-Ḥujurāt. (3) Verse 1 of Sūrat al-Nisāʾ. (4) Verse 6 of Sūrat al-Zumar.
 
 the abstract sense, woman is a repose for her husband; the settling of his life, the building of his household, and the fulfillment of his hopes and aspirations cannot be complete without her presence at his side.
 
@@ -166,7 +166,7 @@ The mother, accordingly, has the greater claim to care and attention, even over 
 
 Indeed, the Prophet ﷺ raised the banner "Paradise lies beneath the feet of mothers," as narrated by Muʿāwiyah ibn Jāhimah, who said: A man — meaning Jāhimah — came to the Messenger of God ﷺ and said: O Messenger of God, I intended to go out to fight, and I have come to seek your counsel. He said: "Do you have a mother?" He said: Yes. He said: "Then stay by her, for Paradise is beneath her feet." Then a second time, and a third, in different gatherings(3).
 
-> Notes: (1) Narrated by al-Tirmidhī, Aḥmad, and Abū Dāwūd. (2) It is reported of one of the Arabs that he carried his mother on his back, chanting: "I carry my mother, who once carried me... She nursed me with milk and with patience... and no mother is ever repaid for her gift." (3) Shuʿab al-Īmān of al-Bayhaqī.
+> Notes: (1) Agreed upon: al-Bukhārī (5971) and Muslim (2548), from Abū Hurayrah. (2) It is reported of one of the Arabs that he carried his mother on his back, chanting: "I carry my mother, who once carried me... She nursed me with milk and with patience... and no mother is ever repaid for her gift." (A well-known mawqūf literary report not established by a strong chain; cited with the wording of weakness.) (3) The hadith of Muʿāwiyah b. Jāhimah, ‘Stay with her, for Paradise is beneath her feet’: reported by al-Nasāʾī (3104), Aḥmad (15538), and Ibn Mājah; ḥasan. The popular wording ‘Paradise is beneath the feet of mothers’ is not established as a marfūʿ hadith in that exact form.
 
 The author of *al-Manār* says:
 
@@ -234,7 +234,7 @@ And His words, Most High: "God has promised the believing men and believing wome
 
 Among woman's political rights in Islam is that if she grants protection or safe conduct to one of the warring enemy, it holds. Umm Hāniʾ — the daughter of his paternal uncle Abū Ṭālib — said to the Prophet ﷺ on the day of the Conquest of Mecca: I have granted protection to two of my in-laws. The Prophet ﷺ said: "We grant protection to whomever you have granted it, O Umm Hāniʾ"(3). In some narrations, she granted protection to a man whom her brother ʿAlī, may God ennoble his face, wished to kill; so she complained of him to the Prophet ﷺ, who granted the man safety and upheld her protection.
 
-> Notes: (1) Narrated by Imam Aḥmad in the *Musnad* and al-Nasāʾī in *al-Sunan al-Kubrā*; the locations and numbers may be checked. (2) Narrated by al-Tirmidhī, who said: This is a hadith ḥasan ṣaḥīḥ gharīb, known to us only through this route. (3) An agreed-upon hadith, on the authority of Umm Hāniʾ bint Abī Ṭālib, may God be pleased with her.
+> Notes: (1) Reported by Aḥmad (26575), al-Nasāʾī in al-Sunan al-Kubrā, and al-Ṭabarī, from Umm Salamah; ṣaḥīḥ — it is the occasion of revelation of al-Aḥzāb (35). (2) Mentioned by al-Tirmidhī (ḥasan); the preserved narration on the occasion of revelation of al-Aḥzāb (35) is that of Umm Salamah. (3) Agreed upon: al-Bukhārī (357; also 3171) and Muslim (336), from Umm Hāniʾ; the addition ‘and we grant protection to whomever you protect’ is in Abū Dāwūd.
 
 In a ḥasan hadith in al-Tirmidhī, on the authority of Abū Hurayrah, the Prophet ﷺ said: "Indeed, a woman may grant protection on behalf of the people" — meaning she may grant it on behalf of the Muslims, even the lowliest of them. And on the authority of ʿĀʾishah, the Mother of the Believers, she said: "Indeed, a woman may grant protection on behalf of the believers, and it is valid." Ibn al-Mundhir transmitted that the Muslims reached consensus on the validity of a woman's protection and safe conduct.
 
@@ -292,7 +292,7 @@ What is understood from this word in this context is that woman is a being who o
 
 Woman would appear in society as one of its two halves; the Prophet ﷺ would meet one of them on the road — indeed, a bondwoman might take his noble hand ﷺ and lead him wherever she wished. As evidence of this we cite the report of Jābir ibn ʿAbd Allāh, may God be pleased with both: My maternal aunt was divorced, and she wished to harvest her date palms (to cut their fruit), but a man rebuked her for going out, so she came to the Prophet ﷺ, who said: "Yes, harvest your palms, for you may well give in charity or do some good"(1). Thus the Prophet ﷺ commanded her, in this situation, to go out among the people to do the work men do. As you know, work of this kind naturally entails a woman's raising her hand so that some features of her body become apparent... while still keeping it covered and unexposed. The Prophet ﷺ did not bar her from doing her work in society. And it was part of the mutual support among the throngs of Companions that each would be to his fellow as he is to himself and his own sister, so that she might find someone to relieve her in this work of hers, to cut the fruit and bring it back to her, without her having to endure that grueling labor herself.
 
-> Note (1): Narrated by Muslim.
+> Note (1): Reported by Muslim (1483), from Jābir b. ʿAbd Allāh.
 
 **As for "fitnah":** The lexicons of the language give its senses as: experience, or testing; your being captivated by a thing; misguidance; sin; scandal; torment; and the fighting that breaks out among people... The word "fitnah," with its derivatives, occurs in the Noble Qurʾan fifty-eight times.
 
@@ -338,7 +338,7 @@ That woman be part of society; that she appreciate her duty to safeguard that so
 
 - It is reported from Jābir ibn ʿAbd Allāh, who said: "While we were sitting with the Messenger of God ﷺ, a woman came to him and said: O Messenger of God, I am the delegate of the women to you. God, Mighty and Majestic, is the Lord of men and the Lord of women; Adam is the father of men and the father of women; and Eve is the mother of men and the mother of women; and God, Mighty and Majestic, sent His Prophet to men and women alike. The men, when they go out in the cause of God and are slain, are alive with their Lord, provided for; and when they go out, they have such reward as they have...
 
-> Note (1): Ṣaḥīḥ al-Bukhārī — the Book of Friday Prayer.
+> Note (1): Agreed upon: al-Bukhārī (900) and Muslim (442), from Ibn ʿUmar.
 
 while we serve them and keep ourselves for them. Is there, then, any reward in that for us?" The Messenger of God ﷺ said to her: "Convey my greeting to the women, and tell them: A wife's obedience to her husband equals all of that — but few of you do it"(1).
 
@@ -350,7 +350,7 @@ Perhaps a man rose up against his wife, charging that she is restricted in step 
 
 - On the authority of Asmāʾ bint Yazīd ibn al-Sakan, she said: "I came to the Messenger of God ﷺ as he sat with his Companions, and I said: O Messenger of God, I am the delegate of the women to you; there is not a woman who has heard of my coming out to you but holds the same view as I do. Indeed, God, blessed and exalted, sent you to men and women, and we believed in you and in your God who sent you; and God has favored you men over us — the company of women — with the congregation, the Friday prayer, visiting the sick, following funerals, and, more excellent than all of these, jihad in the cause of God. When one of you goes out to fight, to perform Hajj, or to perform ʿumrah, we guard your wealth, weave your garments, and raise your children; and we, the company of women, are kept and confined, the keepers of your homes — shall we not share with you in this reward?" So the Messenger of God ﷺ turned his whole face toward his Companions and said: "Have you heard the words of this woman?" They said: We never thought any woman would be guided to the like
 
-> Note (1): A ḥasan hadith, its chain sound and connected, with corroborating witnesses.
+> Note (1): The hadith of ‘the women’s delegate’: reported through several chains, the strongest being Jābir’s via Ibn Abī al-Dunyā; the preponderant view is that it is weak (ḍaʿʿafahu al-Albānī), so it is cited with the wording of weakness.
 
 of what this woman has been guided to! So the Messenger of God ﷺ said: "Understand — and tell the women behind you — that a woman's keeping good company with her husband, her seeking his agreement and his pleasure, equals all of that."
 

@@ -78,7 +78,7 @@ Lo que se entiende por daʿwah en el uso corriente es exhortar a la gente al bie
 
 **El tercero:** el que tiene lugar entre los individuos, indicándose unos a otros el bien y estimulándose a él, y previniéndose del mal y advirtiéndose contra él, conforme a la palabra del Poderoso y Majestuoso: «Por el tiempo. En verdad, el ser humano está en pérdida, salvo quienes creen, obran rectamente, se exhortan mutuamente a la verdad y se exhortan mutuamente a la paciencia» [al-ʿAsr: 1–3], «¿Y quién habla mejor que quien convoca a Dios...?» [Fussilat: 33], es decir, a la religión de Dios.
 
-> Notas: (1) Sura al-Nisāʾ, aleya 165. (2) Sura al-Baqarah, aleya 221. (3) Sura Yūnus, aleya 25. (4) Sura Ibrāhīm, aleya 10. (5).
+> Notas: (1) Sura al-Nisāʾ, aleya 165. (2) Sura al-Baqarah, aleya 221. (3) Sura Yūnus, aleya 25. (4) Sura Ibrāhīm, aleya 10. (5) Wahba al-Zuḥaylī, al-Tafsīr al-Munīr (8/506).
 
 **Sus condiciones son tres:**
 
@@ -96,7 +96,7 @@ Así, cuando escasean los predicadores, se multiplican los actos reprobables y p
 
 - En cuanto a la lengua: las ciencias legales islámicas se consignaron en su origen en lengua árabe, dotada de la notoria elocuencia y elocución que le es propia; de ahí que no resulte fácil comprenderlas ni penetrarlas salvo a los especialistas y a los entendidos; y eso no está al alcance de los hijos e hijas de los entornos en que el árabe es la segunda lengua y no la primera.
 
-> Nota (1): Sahīh Muslim.
+> Nota (1): Lo transmitió Muslim (49), de Abū Saʿīd al-Judrī.
 
 - En cuanto a las tradiciones: «tradiciones» es el plural de «tradición» (taqlīd), esto es, el conjunto de aquello a lo que los miembros de cada sociedad se habituaron y que tuvieron por reglas que ordenan la marcha de esa sociedad y cuya observancia esperan en las distintas situaciones, imitando en ello a sus predecesores.
 
@@ -118,7 +118,7 @@ Y dijo el Altísimo: «Os creó de un solo ser, del cual hizo a su pareja, e hiz
 
 La mujer es, por tanto, la mitad de la sociedad en lo sensible y en lo significativo. En lo material, ello es evidente: en el censo de población, el número de mujeres suele ser mayor que el de hombres o, cuando menos, igual a él. Y en cuanto al
 
-> Notas: (1) Lo transmitieron Abū Dāwūd, al-Tirmiḏī, al-Dārimī y el imam Ahmad. (2) Aleya 13 de la sura al-Ḥuyurāt. (3) Aleya 189 de la sura al-Aʿrāf. (4) Aleya 6 de la sura al-Zumar.
+> Notas: (1) «Las mujeres son las hermanas gemelas de los hombres»: lo transmitieron Abū Dāwūd (236), al-Tirmiḏī (113), Ibn Māŷah (612) y Aḥmad (26195), de ʿĀʾišah; al-Albānī lo calificó de ṣaḥīḥ. (2) Aleya 13 de la sura al-Ḥuyurāt. (3) Aleya 1 de la sura al-Nisāʾ. (4) Aleya 6 de la sura al-Zumar.
 
 significado, la mujer es sosiego para el esposo: ni la estabilidad de su vida, ni la construcción de su familia, ni la realización de sus esperanzas y anhelos se completan sino mediante la presencia de la esposa junto a él.
 
@@ -166,7 +166,7 @@ La madre, por ello, es más merecedora de prioridad en el cuidado y la atención
 
 Más aún, el Profeta ﷺ enarbola el lema «El Paraíso está bajo los pies de las madres», según transmitió Muʿāwiyah ibn Ŷāhimah, quien dijo: vino un hombre al Mensajero de Dios ﷺ —es decir, Ŷāhimah— y dijo: «¡Oh, Mensajero de Dios! He querido salir a combatir y he venido a consultarte». Dijo: «¿Tienes madre?». Dijo: «Sí». Dijo: «Quédate con ella, pues el Paraíso está bajo sus pies». Y se lo repitió una segunda y una tercera vez, en sesiones distintas(3).
 
-> Notas: (1) Lo transmitieron al-Tirmiḏī, Ahmad y Abū Dāwūd. (2) De cierto árabe se cuenta que cargó a su madre sobre la espalda mientras decía en su canto de camellero: «Cargo a mi madre, que fue ella quien me cargaba... me amamantó con la leche y la fatiga... y no se recompensa a una madre con dádiva». (3) Šuʿab al-Īmān de al-Bayhaqī.
+> Notas: (1) Acordado (al-Bujārī 5971 y Muslim 2548), de Abū Hurayra. (2) De cierto árabe se cuenta que cargó a su madre sobre la espalda mientras decía en su canto de camellero: «Cargo a mi madre, que fue ella quien me cargaba... me amamantó con la leche y la fatiga... y no se recompensa a una madre con dádiva» (Es un relato mawqūf literario muy conocido que no se establece por una cadena fuerte; se cita con la fórmula de la debilidad). (3) El hadiz de Muʿāwiya b. Ŷāhima, «Quédate con ella, pues el Paraíso está bajo sus pies»: lo transmitieron al-Nasāʾī (3104), Aḥmad (15538) e Ibn Māŷah; ḥasan. La formulación popular «El Paraíso está bajo los pies de las madres» no se establece como hadiz marfūʿ con esa forma exacta.
 
 Dice el autor de al-Manār:
 
@@ -234,7 +234,7 @@ Y Su palabra: «Dios ha prometido a los creyentes y a las creyentes jardines por
 
 De los derechos políticos de la mujer en el islam es que, si concede protección o seguridad a alguno de los enemigos combatientes, ello surte efecto. Umm Hāniʾ dijo al Profeta ﷺ —y era hija de su tío Abū Ṭālib— el día de la conquista de La Meca: «He dado protección a dos hombres de la familia de mi esposo», y dijo el Profeta ﷺ: «Damos protección a quien tú la diste, oh Umm Hāniʾ»(3). Y en algunas versiones, que ella dio protección a un hombre y su hermano ʿAlī —Dios ennoblezca su rostro— quiso matarlo; ella se quejó de él al Profeta ﷺ, quien concedió seguridad al hombre y validó la protección que ella le había otorgado.
 
-> Notas: (1) Lo transmitieron el imam Ahmad en el Musnad y al-Nasāʾī en al-Sunan al-Kubrà; consúltense los números de los lugares. (2) Lo transmitió al-Tirmiḏī y dijo: este es un hadiz hasan sahīh garīb, y solo lo conocemos por esta vía. (3) Hadiz acordado por al-Bujārī y Muslim, de Umm Hāniʾ bint Abī Ṭālib, Dios esté complacido con ella.
+> Notas: (1) Lo transmitieron Aḥmad (26575), al-Nasāʾī en al-Sunan al-Kubrà y al-Ṭabarī, de Umm Salama; ṣaḥīḥ — es la ocasión de la revelación de al-Aḥzāb (35). (2) Lo mencionó al-Tirmiḏī (ḥasan); el relato preservado sobre la ocasión de la revelación de al-Aḥzāb (35) es el de Umm Salama. (3) Acordado: al-Bujārī (357; también 3171) y Muslim (336), de Umm Hāniʾ; el añadido «y damos protección a quien tú protejas» está en Abū Dāwūd.
 
 Y en un hadiz hasan de al-Tirmiḏī, de Abū Hurayrah, del Profeta ﷺ, dijo: «En verdad, la mujer puede dar protección en nombre del pueblo» —es decir, la protección que otorga a los musulmanes el más humilde de ellos es vinculante. Y de ʿĀʾišah, madre de los creyentes: «En verdad, la mujer da protección a los creyentes y es válida». E Ibn al-Munḏir transmitió que los musulmanes consensuaron la validez de la protección y la seguridad otorgadas por la mujer.
 
@@ -292,7 +292,7 @@ Lo que se entiende de este término en tal contexto es que la mujer es un ser qu
 
 Pues la mujer aparecía ante la sociedad como una de sus dos mitades, y el Profeta ﷺ se cruzaba con alguna de ellas en el camino, e incluso la sierva (la criada) tomaba su noble mano ﷺ y se iba con él adonde quería. A modo de testimonio, traemos lo que transmitió Ŷābir ibn ʿAbd Allāh —Dios esté complacido con ambos—, quien dijo: mi tía materna fue divorciada y quiso cosechar sus palmeras (cortar su fruto); un hombre la reprendió por salir, y ella acudió al Profeta ﷺ, quien dijo: «Claro que sí, cosecha tus palmeras, pues quizá des limosna o hagas un bien»(1). El Profeta ﷺ le ordenó en aquella situación que saliera entre la gente a hacer lo que hacen los hombres. Y bien sabes que, propio del trabajo en tal oficio, es que la mujer alce la mano y asome algo de los rasgos de su cuerpo... con recato y sin descubrirse. El Profeta ﷺ no le impidió desempeñar su labor en la sociedad. Y parte de la solidaridad del conjunto de los Compañeros era que cada uno fuese para su hermano como para sí mismo y para su propia hermana, de modo que ella pudiera hallar quien la supliera en esa tarea, le cortara el fruto y se lo trajera, sin tener que padecer por sí misma aquella faena penosa.
 
-> Nota (1): Lo transmitió Muslim.
+> Nota (1): Lo transmitió Muslim (1483), de Ŷābir b. ʿAbd Allāh.
 
 **En cuanto a «fitnah»:** los diccionarios de la lengua recogen que la fitnah es la experiencia o la prueba, la fascinación por algo, el extravío, el pecado, el escándalo, el tormento y lo que ocurre entre la gente de combate... Y en el Sagrado Corán la palabra «fitnah», con sus derivados, aparece cincuenta y ocho veces.
 
@@ -338,7 +338,7 @@ Que la mujer sea parte de la sociedad; que asuma su deber de preservarla en cast
 
 - Y se transmitió de Ŷābir ibn ʿAbd Allāh, quien dijo: «Mientras estábamos sentados con el Mensajero de Dios ﷺ, vino a él una mujer y dijo: "¡Oh, Mensajero de Dios! Soy la delegada de las mujeres ante ti: Dios, Poderoso y Majestuoso, es Señor de los hombres y Señor de las mujeres; Adán es padre de los hombres y de las mujeres; Eva es madre de los hombres y de las mujeres; y Dios, Poderoso y Majestuoso, envió a Su Profeta a hombres y mujeres. Los hombres, cuando salen en el camino de Dios y son muertos, están vivos junto a su Señor, provistos; y cuando salen, tienen la recompensa que ya...
 
-> Nota (1): Sahīh al-Bujārī — Libro del Viernes.
+> Nota (1): Acordado: al-Bujārī (900) y Muslim (442), de Ibn ʿUmar.
 
 habéis conocido, mientras nosotras os servimos y nos retenemos por ellos; ¿tenemos en eso recompensa?"». Le dijo el Mensajero de Dios ﷺ: «Transmite a las mujeres mi saludo, y diles que la obediencia al esposo equivale a todo eso, mas pocas de vosotras lo cumplís»(1).
 
@@ -350,7 +350,7 @@ Y quizá un hombre, irritado con su mujer por tenerla por incapaz, de pasos y mo
 
 - De Asmāʾ bint Yazīd ibn al-Sakan, dijo: «Vine al Mensajero de Dios ﷺ, que estaba sentado con sus Compañeros, y dije: "¡Oh, Mensajero de Dios! Soy la delegada de las mujeres ante ti; no hay mujer que haya tenido noticia de mi venida a ti que no comparta mi parecer. Dios, bendito y altísimo, te envió a hombres y mujeres, y creímos en ti y en tu Dios, que trajiste; y Dios os ha favorecido sobre nosotras —el género de los hombres— con la congregación, el viernes, la visita a los enfermos, el acompañamiento de los funerales y, mejor aún, el yihad en el camino de Dios. Y cuando uno de vosotros sale combatiente, peregrino mayor o menor, nosotras guardamos vuestros bienes, hilamos vuestras ropas y os criamos a vuestros hijos; y nosotras, el género de las mujeres, estamos confinadas y recluidas, sustentadoras de vuestros hogares —¿acaso no compartimos esa recompensa con vosotros?"». Entonces el Mensajero de Dios ﷺ se volvió hacia sus Compañeros con todo su rostro y dijo: «¿Habéis oído las palabras de esta mujer?». Dijeron: «No pensábamos que mujer alguna se guiara a algo como
 
-> Nota (1): Hadiz hasan, de cadena buena y conectada, y con corroborantes.
+> Nota (1): El hadiz de «la delegada de las mujeres»: transmitido por varias vías, la más fuerte la de Ŷābir vía Ibn Abī al-Dunyā; lo preponderante es que es débil (al-Albānī lo debilitó), por lo que se cita con la fórmula de la debilidad.
 
 aquello a lo que se ha guiado esta mujer». Dijo el Mensajero de Dios ﷺ: «Sabe —y haz saber a las mujeres que están detrás de ti— que el buen trato conyugal de la mujer hacia su esposo, y su empeño en complacerle y satisfacerle, equivalen a todo eso».
 
