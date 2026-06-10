@@ -37,7 +37,19 @@ export interface ArticleMeta {
 }
 
 export const articlesMeta: ArticleMeta[] = [
-  // ===== سلسلة «التفسير المقاصدي» (١٠ أجزاء) =====
+  // ===== سلسلة «التفسير المقاصدي» =====
+  {
+    slug: 'surah-al-fatiha',
+    category: 'maqasid-tafsir',
+    isoDate: '2026-06-10',
+    date: { ar: 'يونيو ٢٠٢٦', en: 'June 2026', es: 'Junio de 2026' },
+    readingMinutes: 6,
+    series: { ar: 'التفسير المقاصدي', en: 'Objective-Based Tafsīr', es: 'Tafsīr orientado a los fines' },
+    episode: 11,
+    title: { ar: "التفسير المقاصدي في سورة الفاتحة", en: "Objective-Based Tafsīr of Sūrat al-Fātiḥah", es: "El tafsīr orientado a los fines en la sura al-Fātiḥah" },
+    subtitle: { ar: "شعارُ السورة التي تُتلى سبعَ عشرةَ مرّةً كلَّ يوم", en: "The Slogan of the Sūrah Recited Seventeen Times Every Day", es: "El lema de la sura que se recita diecisiete veces cada día" },
+    excerpt: { ar: "في كلّ يومٍ يَقف المسلمُ بين يدَي ربّه سبعَ عشرةَ مرّةً، فلا تنعقد له ركعةٌ إلّا بالفاتحة. فما الحكمةُ في أن تكون هذه السورةُ بعينها هي اللازمةَ التي لا تَسقط؟ قراءةٌ مقاصديّةٌ تَستجلي ما تُريد «أمُّ القرآن» أن تَصنعه في الإنسان كلَّ يوم — آيةً آية.", en: "Every day the Muslim stands before his Lord seventeen times, and no prayer-unit is valid without the Fātiḥah. Why is this very sūrah the indispensable one that never falls away? An objective-based reading draws out what 'the Mother of the Qur'an' seeks to make of the human being each day — verse by verse.", es: "Cada día el musulmán se yergue ante su Señor diecisiete veces, y ninguna unidad de oración es válida sin la Fātiḥah. ¿Por qué es precisamente esta sura la indispensable que nunca se omite? Una lectura orientada a los fines esclarece lo que «la Madre del Corán» busca hacer del ser humano cada día —aleya por aleya." },
+  },
   {
     slug: 'concept-and-term',
     category: 'maqasid-tafsir',
