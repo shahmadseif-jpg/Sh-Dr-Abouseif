@@ -58,6 +58,44 @@ export interface ResearchMeta {
 }
 
 export const researchMeta: ResearchMeta[] = [
+  // بحث محكَّم مُقدَّم إلى مؤتمر AMJA العاشر (٢٠١٣م)
+  {
+    slug: 'women-and-dawah-west',
+    type: 'conference-paper',
+    category: 'minorities',
+    year: 2013,
+    isoDate: '2013-03-01',
+    date: { ar: 'مارس ٢٠١٣م', en: 'March 2013', es: 'Marzo de 2013' },
+    title: {
+      ar: 'المرأة والدعوة في المجتمع الغربي',
+      en: 'Women and Daʿwah in Western Society',
+      es: 'La mujer y la daʿwah en la sociedad occidental',
+    },
+    subtitle: {
+      ar: 'في أهليّة المرأة وحقِّها في الدعوة، ونوازلِ حضورها الإعلاميّ والعامّ في الغرب',
+      en: "On women's legal capacity and right to daʿwah, and the contemporary questions of her media and public presence in the West",
+      es: 'Sobre la capacidad jurídica de la mujer y su derecho a la daʿwah, y las cuestiones contemporáneas de su presencia mediática y pública en Occidente',
+    },
+    abstract: {
+      ar: 'بحثٌ يؤصِّل لأهليّة المرأة الكاملة في الإسلام — السياسيّة والتكليفيّة وفي الشهادة والإجارة — ثمّ يُنزِّل ذلك التأصيل على نوازلِ دعوتها في المجتمع الغربيّ: محاضرتِها في المجامع المختلطة، وظهورِها الإعلاميّ، وتقديمِها للبرامج، ومنعِ الزوج لها من النشاط الدعويّ، ووعظِها الرجالَ في المساجد والمؤتمرات. ويقرِّر — بين طرفَي الإفراط والتفريط — موقفًا وسطًا منضبطًا بالضوابط الشرعيّة، يجعل المرأةَ جزءًا فاعلًا في المجتمع دون انفلاتٍ ولا انكفاء.',
+      en: "A study grounding women's full legal capacity (ahliyyah) in Islam — political, in religious obligation, in testimony, and in granting protection — and then applying that grounding to the contemporary questions of her daʿwah in Western society: lecturing in mixed assemblies, media appearance, hosting programs, a husband's prevention of her daʿwah activity, and admonishing men in mosques and conferences. Between the two extremes of excess and neglect, it argues for a disciplined middle position, bound by the controls of the Sharia, that makes the woman an active part of society without licentiousness or withdrawal.",
+      es: 'Un estudio que fundamenta la plena capacidad jurídica (ahliyyah) de la mujer en el islam —política, en la obligación religiosa, en el testimonio y en la concesión de protección— y luego aplica ese fundamento a las cuestiones contemporáneas de su daʿwah en la sociedad occidental: dar conferencias en asambleas mixtas, la aparición mediática, presentar programas, el impedimento del esposo a su actividad de daʿwah, y predicar a los hombres en mezquitas y conferencias. Entre los dos extremos del exceso y la negligencia, defiende una posición media disciplinada, sujeta a los controles de la Sharía, que hace de la mujer una parte activa de la sociedad sin libertinaje ni reclusión.',
+    },
+    venue: {
+      ar: 'المؤتمر السنوي العاشر لمجمع فقهاء الشريعة بأمريكا (AMJA)',
+      en: '10th Annual Conference — Assembly of Muslim Jurists of America (AMJA)',
+      es: '10.ª Conferencia Anual — Asamblea de Juristas Musulmanes de América (AMJA)',
+    },
+    location: { ar: 'الولايات المتحدة الأمريكية', en: 'United States', es: 'Estados Unidos' },
+    pages: 47,
+    language: 'ar',
+    externalUrl: 'https://www.amjaonline.org/wp-content/uploads/2019/02/2013-8-dawah-women.pdf',
+    keywords: {
+      ar: ['المرأة', 'الدعوة', 'فقه الأقليات', 'المجتمع الغربي', 'أهلية المرأة', 'الاختلاط', 'الإعلام'],
+      en: ['women', 'daʿwah', 'fiqh of minorities', 'Western society', "women's legal capacity", 'media', 'AMJA'],
+      es: ['mujer', 'daʿwah', 'fiqh de las minorías', 'sociedad occidental', 'capacidad jurídica de la mujer', 'medios', 'AMJA'],
+    },
+  },
   // دراسة فقهية أصولية مقاصدية — على هامش موسم الحج ١٤٤٧هـ
   {
     slug: 'farewell-tawaf',
