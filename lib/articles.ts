@@ -37,6 +37,17 @@ export interface ArticleMeta {
 }
 
 export const articlesMeta: ArticleMeta[] = [
+  // ===== تأمّل قرآنيّ (حِكَمٌ وبصائر) =====
+  {
+    slug: 'pure-sincerity',
+    category: 'wisdom-insights',
+    isoDate: '2026-06-10',
+    date: { ar: 'يونيو ٢٠٢٦', en: 'June 2026', es: 'Junio de 2026' },
+    readingMinutes: 7,
+    title: { ar: "تأمُّلٌ في الإخلاصِ الخالص", en: "A Reflection on Pure Sincerity", es: "Una reflexión sobre la sinceridad pura" },
+    subtitle: { ar: "العطاءُ لوجه الله وحده والتحرُّرُ من رِقِّ المِنَّة", en: "Giving for God's countenance alone, and freedom from the bondage of obligation", es: "Dar solo por el rostro de Dios, y la liberación de la servidumbre del favor" },
+    excerpt: { ar: "في خواتيم سورة الليل، يرسم القرآنُ صورةً للنفس وقد بلغت أنقى ما تبلغه في بذلها: تُعطي ولا تنتظر، وتُحسِن ولا تَمُنّ. ثلاثُ آياتٍ تختزل فلسفةَ العطاء كلَّها — نفيُ المعاوضة، فإخلاصُ القصد، فالبشارةُ بالرضا — قراءةٌ تربويّةٌ تُحرّر القلبَ من رِقِّ المِنّة وذُلِّ انتظار العِوض.", en: "In the closing verses of Sūrat al-Layl, the Qurʾan paints the soul at its purest in giving: it gives and expects nothing, does good and never reminds of it. Three brief verses distill the whole philosophy of giving — the negation of exchange, the purity of intent, then the glad tidings of satisfaction — an educative reading that frees the heart from the bondage of obligation.", es: "En los versículos finales de la sura al-Layl, el Corán retrata al alma en lo más puro de su entrega: da y no espera nada, hace el bien y nunca lo recuerda. Tres breves aleyas destilan toda la filosofía del dar —la negación del intercambio, la pureza de la intención y, luego, la albricia de la satisfacción—: una lectura educativa que libera el corazón de la servidumbre del favor." },
+  },
   // ===== سلسلة «التفسير المقاصدي» =====
   {
     slug: 'surah-al-fatiha',
