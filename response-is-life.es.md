@@ -4,7 +4,7 @@ locale: "es"
 slug: "response-is-life"
 ---
 
-*Una lectura fundacional y formativa del llamado «Responded a Dios y al Mensajero cuando os llama a aquello que os da vida» [al-Anfāl: 24]. Por el Dr. Ahmed Mohamed Ali Abu Seif, presidente de la Academia Americana de Imames. (Este artículo está inspirado en un bendito sermón del viernes del eminente Dr. ʿAbd al-Ḥamīd Sālim, cuyos significados, estructura y documentación han sido reelaborados; en fidelidad a la fuente de inspiración y en reconocimiento de su mérito.)*
+*Una lectura fundacional y formativa del llamado «Responded a Dios y al Mensajero cuando os llama a aquello que os da vida» [al-Anfāl: 24]. Por el Dr. Ahmed Mohamed Ali Abu Seif, presidente de la Academia Americana de Imames. (Este artículo está inspirado en un bendito sermón del viernes del eminente Dr. ʿAbd al-Ḥamīd Sālim —imam de Dār al-Ḥadīth en América y profesor de Hadiz y sus ciencias en la Universidad de al-Azhar—, cuyos significados, estructura y documentación han sido reelaborados; en fidelidad a la fuente de inspiración y en reconocimiento de su mérito.)*
 
 
 ## Introducción: un llamado que da vida

@@ -4,7 +4,7 @@ locale: "en"
 slug: "response-is-life"
 ---
 
-*A foundational, formative reading of the call: "Respond to God and to the Messenger when he calls you to that which gives you life" [al-Anfāl: 24]. By Dr. Ahmed Muhammad Ali Abouseif, President of the American Imams Academy. (This article is inspired by a blessed Friday sermon delivered by the eminent Dr. ʿAbd al-Ḥamīd Sālim; its meanings have been re-woven, restructured, and documented anew — in faithfulness to the wellspring of its inspiration, and in acknowledgment of the one to whom its merit is due.)*
+*A foundational, formative reading of the call: "Respond to God and to the Messenger when he calls you to that which gives you life" [al-Anfāl: 24]. By Dr. Ahmed Muhammad Ali Abouseif, President of the American Imams Academy. (This article is inspired by a blessed Friday sermon delivered by the eminent Dr. ʿAbd al-Ḥamīd Sālim — Imam of Dār al-Ḥadīth in America, and Professor of Hadith and its Sciences at al-Azhar University; its meanings have been re-woven, restructured, and documented anew — in faithfulness to the wellspring of its inspiration, and in acknowledgment of the one to whom its merit is due.)*
 
 
 ## Introduction: A Call That Gives Life
