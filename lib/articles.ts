@@ -37,6 +37,17 @@ export interface ArticleMeta {
 }
 
 export const articlesMeta: ArticleMeta[] = [
+  // ===== مقال: الصحابة وصناعة الوعي العلمي =====
+  {
+    slug: 'companions-and-knowledge',
+    category: 'wisdom-insights',
+    isoDate: '2026-06-10',
+    date: { ar: 'يونيو ٢٠٢٦', en: 'June 2026', es: 'Junio de 2026' },
+    readingMinutes: 6,
+    title: { ar: "الصحابة وصناعة الوعي العلمي", en: "The Companions and the Making of Scholarly Awareness", es: "Los Compañeros y la formación de la conciencia científica" },
+    subtitle: { ar: "كيف حمل الجيلُ الأول ميراثَ النبوّة؟", en: "How the first generation bore the inheritance of prophethood", es: "¿Cómo portó la primera generación la herencia de la profecía?" },
+    excerpt: { ar: "لم يكن العلمُ عند الصحابة ترفًا عقليًّا، بل أصلَ الدين وروحَ الرسالة. قراءةٌ في منهجٍ جمع بين شرف التلقّي وصدق الفهم وأمانة النقل وعلوّ الهمّة — من أثر ابن مسعود في العلم والعمل، إلى رحلة جابرٍ شهرًا في حديثٍ واحد، وتواضع ابن عباس — حتى صار العلمُ مشروعًا حضاريًّا لصناعة الإنسان.", en: "For the Companions, knowledge was no intellectual luxury but the very root of the religion and the spirit of the message. A reading of a method that joined honorable reception, sincere understanding, faithful transmission, and lofty resolve — from Ibn Masʿūd on knowledge-and-action, to Jābir's month-long journey for a single hadith, to Ibn ʿAbbās's humility — until knowledge became a civilizational project for shaping the human being.", es: "Para los Compañeros, el saber no era un lujo intelectual, sino la raíz misma de la religión y el espíritu del Mensaje. Una lectura de un método que unió la recepción honorable, la comprensión sincera, la transmisión fiel y la alta determinación —desde Ibn Masʿūd sobre el saber y la obra, hasta el viaje de un mes de Ŷābir por un solo hadiz y la humildad de Ibn ʿAbbās— hasta que el saber se convirtió en un proyecto civilizador para formar al ser humano." },
+  },
   // ===== تأمّل قرآنيّ (حِكَمٌ وبصائر) =====
   {
     slug: 'pure-sincerity',
