@@ -48,6 +48,17 @@ export const articlesMeta: ArticleMeta[] = [
     subtitle: { ar: "العطاءُ لوجه الله وحده والتحرُّرُ من رِقِّ المِنَّة", en: "Giving for God's countenance alone, and freedom from the bondage of obligation", es: "Dar solo por el rostro de Dios, y la liberación de la servidumbre del favor" },
     excerpt: { ar: "في خواتيم سورة الليل، يرسم القرآنُ صورةً للنفس وقد بلغت أنقى ما تبلغه في بذلها: تُعطي ولا تنتظر، وتُحسِن ولا تَمُنّ. ثلاثُ آياتٍ تختزل فلسفةَ العطاء كلَّها — نفيُ المعاوضة، فإخلاصُ القصد، فالبشارةُ بالرضا — قراءةٌ تربويّةٌ تُحرّر القلبَ من رِقِّ المِنّة وذُلِّ انتظار العِوض.", en: "In the closing verses of Sūrat al-Layl, the Qurʾan paints the soul at its purest in giving: it gives and expects nothing, does good and never reminds of it. Three brief verses distill the whole philosophy of giving — the negation of exchange, the purity of intent, then the glad tidings of satisfaction — an educative reading that frees the heart from the bondage of obligation.", es: "En los versículos finales de la sura al-Layl, el Corán retrata al alma en lo más puro de su entrega: da y no espera nada, hace el bien y nunca lo recuerda. Tres breves aleyas destilan toda la filosofía del dar —la negación del intercambio, la pureza de la intención y, luego, la albricia de la satisfacción—: una lectura educativa que libera el corazón de la servidumbre del favor." },
   },
+  // ===== تأمّل قرآنيّ (الاستجابة) =====
+  {
+    slug: 'response-is-life',
+    category: 'wisdom-insights',
+    isoDate: '2026-06-10',
+    date: { ar: 'يونيو ٢٠٢٦', en: 'June 2026', es: 'Junio de 2026' },
+    readingMinutes: 8,
+    title: { ar: "الاستجابة حياة", en: "Response Is Life", es: "La respuesta es vida" },
+    subtitle: { ar: "قراءةٌ تأصيليّةٌ تربويّةٌ في نداء ﴿اسْتَجِيبُوا لِلَّهِ وَلِلرَّسُولِ إِذَا دَعَاكُمْ لِمَا يُحْيِيكُمْ﴾", en: "A foundational, educative reading of the call: ‘Respond to God and to the Messenger when He calls you to that which gives you life’", es: "Una lectura fundacional y educativa del llamado: «Responded a Dios y al Mensajero cuando os llama a aquello que os da vida»" },
+    excerpt: { ar: "ما من نداءٍ في كتاب الله بـ«يا أيها الذين آمنوا» إلا وهو بابُ شرفٍ ومنزلةُ تكليف. وفي ﴿استجيبوا لله وللرسول إذا دعاكم لما يحييكم﴾ يجتمع الأمرُ بالاستجابة، وبيانُ غايتها العظمى — الحياة — والتحذيرُ من التسويف ﴿واعلموا أن الله يحول بين المرء وقلبه﴾؛ مسارعةٌ كمسارعة الجيل الأول، تَحيا بها أركانُ الإنسان الثلاثة.", en: "Every call in God's Book opening with ‘O you who have believed’ is a door of honor and a station of duty. In ‘Respond to God and to the Messenger when He calls you to that which gives you life’ the command to respond meets its greatest aim — life — and a warning against delay: ‘And know that God comes between a person and his heart.’ A swiftness like the first generation's, by which heart, mind, and body all come alive.", es: "Todo llamado en el Libro de Dios que comienza con «¡Oh, vosotros que habéis creído!» es una puerta de honor y una estación de deber. En «Responded a Dios y al Mensajero cuando os llama a aquello que os da vida» se reúnen el mandato de responder, su fin supremo —la vida— y la advertencia contra el aplazamiento: «Y sabed que Dios se interpone entre la persona y su corazón»; una prontitud como la de la primera generación, por la que cobran vida el corazón, la mente y el cuerpo." },
+  },
   // ===== سلسلة «التفسير المقاصدي» =====
   {
     slug: 'surah-al-fatiha',
