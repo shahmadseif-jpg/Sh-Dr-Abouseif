@@ -58,6 +58,51 @@ export interface ResearchMeta {
 }
 
 export const researchMeta: ResearchMeta[] = [
+  // رسالة الدكتوراه (العالَميّة) — جامعة الأزهر، طنطا ٢٠٠٨م
+  {
+    slug: 'ibn-juzayy-tarjihat',
+    type: 'book',
+    category: 'quranic-studies',
+    year: 2008,
+    isoDate: '2008-01-01',
+    date: { ar: '١٤٢٩هـ / ٢٠٠٨م', en: '1429 AH / 2008', es: '1429 H / 2008' },
+    title: {
+      ar: 'ترجيحات الإمام ابن جُزَيّ الكلبيّ في تفسيره «التسهيل لعلوم التنزيل»: دراسةٌ وتقويم',
+      en: 'The Preponderances (Tarjīḥāt) of Imām Ibn Juzayy al-Kalbī in His Tafsīr "al-Tashīl li-ʿUlūm al-Tanzīl": A Study and Appraisal',
+      es: 'Los pareceres preponderantes (tarjīḥāt) del imam Ibn Yuzayy al-Kalbī en su tafsīr «al-Tashīl li-ʿUlūm al-Tanzīl»: estudio y evaluación',
+    },
+    subtitle: {
+      ar: 'رسالةٌ نال بها الباحثُ درجةَ العالَميّة (الدكتوراه) في التفسير وعلوم القرآن — جامعة الأزهر',
+      en: 'A thesis for which the author was awarded the doctoral degree (al-ʿĀlamiyya) in Tafsīr and Qurʾanic Sciences — al-Azhar University',
+      es: 'Tesis con la que el autor obtuvo el grado de doctorado (al-ʿĀlamiyya) en Tafsīr y Ciencias Coránicas — Universidad de al-Azhar',
+    },
+    abstract: {
+      ar: 'دراسةٌ تأصيليّةٌ تطبيقيّةٌ في مُرجَّحات الإمام أبي القاسم محمد بن أحمد بن جُزَيّ الكلبيّ الغرناطيّ (ت ٧٤١هـ) في تفسيره «التسهيل لعلوم التنزيل»؛ تستخرجُ قواعدَ ترجيحه — ما تعلّق منها بالنصّ القرآنيّ والسنّة والآثار واستعمال العرب للألفاظ والمباني — ثمّ تتتبّعُ ترجيحاتِه في المسائل العقديّة والفقهيّة واللغويّة، وفي التفسير بالمأثور وبالرأي، وفي القراءات، وفي مسائل علوم القرآن (أوّلِ ما نزل، والنسخ، وأسباب النزول، والعموم والخصوص، والوقف والابتداء). وتعرِضُها عرضًا علميًّا ناقدًا موازِنًا بين أقوال المفسِّرين، مُقوِّمةً منهجَ الإمام في الترجيح ومدى اطّراده. والرسالةُ في ثلاثة فصولٍ، تتقدّمُها مقدّمةٌ وتمهيدٌ، وتعقُبُها خاتمةٌ وفهارس، في نحو ٦٩٣ صفحة. نال بها الباحثُ درجةَ العالَميّة (الدكتوراه) من جامعة الأزهر — كلّيّة أصول الدين والدعوة الإسلاميّة بطنطا، عام ١٤٢٩هـ/٢٠٠٨م.',
+      en: 'This doctoral thesis examines the methodology of preponderance (tarjīḥ) employed by the Granadan exegete Imām Ibn Juzayy al-Kalbī (d. 741 AH) in his celebrated tafsīr, al-Tashīl li-ʿUlūm al-Tanzīl. Through close textual analysis, it reconstructs the principles upon which Ibn Juzayy founded his weighing of competing opinions—those rooted in the Qurʾanic text, the Prophetic Sunnah, the transmitted reports (āthār), and the linguistic usage of the Arabs—and subjects them to critical appraisal. The study then traces his preferred opinions across matters of creed, jurisprudence, and language, before turning to his preponderances within tafsīr bi’l-maʾthūr and the Qurʾanic sciences, including the qirāʾāt, abrogation (naskh), the occasions of revelation, the general and the particular, and pausing and resumption. Throughout, it balances Ibn Juzayy’s choices against the wider tradition of the exegetes, assessing both the soundness of his criteria and the consistency of their application. Comprising three chapters with an introduction, a prologue, a conclusion, and indices across some 693 pages, the work offers an applied model of the "jurisprudence of preponderance" (fiqh al-tarjīḥ) and brings into relief a robust Andalusian contribution to the science of Qurʾanic interpretation. It was awarded the doctoral degree (al-ʿĀlamiyya) by al-Azhar University — Faculty of Uṣūl al-Dīn, Tanta, in 1429 AH / 2008.',
+      es: 'Esta tesis doctoral, defendida en la Facultad de Uṣūl al-Dīn y Daʿwah Islámica de Tanta (Universidad de al-Azhar, 1429 H / 2008), constituye un estudio fundamentador y aplicado de los pareceres preponderantes (tarjīḥ) del exégeta granadino Ibn Yuzayy al-Kalbī (m. 741 H) en su tafsīr «al-Tashīl li-ʿUlūm al-Tanzīl». El investigador extrae las reglas sobre las que el imam cimentó su ponderación —las relativas al texto coránico, a la Sunna, a los āthār y al uso lingüístico de los árabes—, rastrea esos pareceres en los lugares propios del comentario y los expone de manera crítica y comparativa entre los dictámenes de los exégetas. A lo largo de tres capítulos, la obra analiza su ponderación en las cuestiones de credo, jurisprudencia y lengua, así como en el tafsīr por transmisión (bi’l-maʾthūr) y por opinión razonada (bi’l-raʾy), en las lecturas coránicas (qirāʾāt) y en las ciencias coránicas (la abrogación, las ocasiones de la revelación, lo general y lo particular, la pausa y el reinicio). Con unas 693 páginas, ofrece un modelo aplicado del «arte de la ponderación» (fiqh al-tarjīḥ) y pone de relieve una sólida contribución andalusí a la ciencia de la interpretación coránica.',
+    },
+    venue: {
+      ar: 'جامعة الأزهر — كلّيّة أصول الدين والدعوة الإسلاميّة بطنطا (قسم التفسير وعلوم القرآن)',
+      en: 'al-Azhar University — Faculty of Uṣūl al-Dīn and Islamic Daʿwah, Tanta (Dept. of Tafsīr and Qurʾanic Sciences)',
+      es: 'Universidad de al-Azhar — Facultad de Uṣūl al-Dīn y Daʿwah Islámica, Tanta (Departamento de Tafsīr y Ciencias Coránicas)',
+    },
+    location: { ar: 'طنطا — جمهوريّة مصر العربيّة', en: 'Tanta — Arab Republic of Egypt', es: 'Tanta — República Árabe de Egipto' },
+    publisher: {
+      ar: 'إشراف: أ.د شكري شفيق الأخضر، وأ.د صلاح الدين يوسف شلبي',
+      en: 'Supervised by Prof. Shukrī Shafīq al-Akhḍar and Prof. Ṣalāḥ al-Dīn Yūsuf Shalabī',
+      es: 'Bajo la dirección del Prof. Shukrī Shafīq al-Akhḍar y el Prof. Ṣalāḥ al-Dīn Yūsuf Shalabī',
+    },
+    pages: 693,
+    language: 'ar',
+    pdfUrl: '/research/ibn-juzayy-tarjihat/thesis.pdf',
+    coverImage: '/research/ibn-juzayy-tarjihat/cover.jpg',
+    keywords: {
+      ar: ['ابن جزي الكلبي', 'التسهيل لعلوم التنزيل', 'الترجيح', 'التفسير', 'علوم القرآن', 'القراءات', 'جامعة الأزهر'],
+      en: ['Ibn Juzayy al-Kalbī', 'al-Tashīl li-ʿUlūm al-Tanzīl', 'tarjīḥ', 'tafsīr', 'Qurʾanic sciences', 'qirāʾāt', 'al-Azhar University'],
+      es: ['Ibn Yuzayy al-Kalbī', 'al-Tashīl li-ʿUlūm al-Tanzīl', 'tarjīḥ', 'tafsīr', 'ciencias coránicas', 'qirāʾāt', 'Universidad de al-Azhar'],
+    },
+    featured: true,
+  },
   // بحث محكَّم مُقدَّم إلى مؤتمر AMJA العاشر (٢٠١٣م)
   {
     slug: 'women-and-dawah-west',
