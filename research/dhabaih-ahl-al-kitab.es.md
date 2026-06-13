@@ -4,7 +4,7 @@ locale: "es"
 slug: "dhabaih-ahl-al-kitab"
 ---
 
-*Ponencia académica presentada ante la Asamblea de Juristas de la Sharía en América (AMJA); constituye un desarrollo de la investigación presentada al Noveno Congreso Anual de Imames de las Mezquitas de la Asamblea (2012) bajo el título «Lo lícito y lo ilícito en los alimentos y los medicamentos» — versión revisada y ampliada. Por: el Šayj Dr. Ahmed Mohamed Abouseif, presidente de la Academia Americana de Imames (American Imams Academy).*
+*Ponencia académica derivada de la investigación arbitrada presentada ante la Asamblea de Juristas de la Sharía en América (AMJA) — el Noveno Congreso Anual de Imames de las Mezquitas (2012), bajo el título «Lo lícito y lo ilícito en los alimentos y los medicamentos»; esta es su versión revisada y ampliada publicada (2026). Por: el Šayj Dr. Ahmed Mohamed Abouseif, presidente de la Academia Americana de Imames (American Imams Academy).*
 
 > Me complace, al inicio de esta ponencia, expresar mi más sincero agradecimiento y profunda gratitud a la Asamblea de Juristas de la Sharía en América (AMJA) —a su presidente, a su secretaría y a sus miembros— por el honor que me ha concedido de investigar este espinoso asunto, que afecta de manera directa la vida cotidiana del ciudadano musulmán residente en los Estados Unidos; pues no hay hogar musulmán en este país en cuya mesa no esté presente la pregunta sobre la licitud de las carnes que circulan en sus mercados.
 

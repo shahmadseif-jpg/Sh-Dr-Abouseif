@@ -4,7 +4,7 @@ locale: "en"
 slug: "dhabaih-ahl-al-kitab"
 ---
 
-*A scholarly paper presented to the Assembly of Muslim Jurists of America (AMJA); a developed version of the study submitted to the Assembly's Ninth Annual Conference for Mosque Imams (2012) under the title "The Lawful and the Forbidden in Foods and Medicines" — an edited and expanded edition. By: Shaykh Dr. Ahmed Muhammad Abouseif, President of the American Imams Academy (AIA).*
+*A scholarly paper derived from the peer-reviewed study submitted to the Assembly of Muslim Jurists of America (AMJA) — the Ninth Annual Conference for Mosque Imams (2012), under the title "The Lawful and the Forbidden in Foods and Medicines"; this is its revised and expanded published version (2026). By: Shaykh Dr. Ahmed Muhammad Abouseif, President of the American Imams Academy (AIA).*
 
 > At the outset of this paper, it is my pleasure to extend my sincere thanks and profound gratitude to the Assembly of Muslim Jurists of America (AMJA) — its president, secretariat, and members — for the honor it afforded me of investigating this thorny subject, one that touches the daily life of the Muslim resident in the United States in the most direct way. For there is scarcely a Muslim household in this land in which the question of the lawfulness of the meat circulating in its markets is not present at the table.
 
