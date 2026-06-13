@@ -141,6 +141,45 @@ export const researchMeta: ResearchMeta[] = [
       es: ['mujer', 'daʿwah', 'fiqh de las minorías', 'sociedad occidental', 'capacidad jurídica de la mujer', 'medios', 'AMJA'],
     },
   },
+  // ورقة محكَّمة — مجمع فقهاء الشريعة بأمريكا (AMJA)، فقه ذبائح أهل الكتاب
+  {
+    slug: 'dhabaih-ahl-al-kitab',
+    type: 'conference-paper',
+    category: 'minorities',
+    year: 2012,
+    isoDate: '2012-09-01',
+    date: { ar: '٢٠١٢م (نسخة محرَّرة مزيدة)', en: '2012 (revised & expanded)', es: '2012 (versión revisada y ampliada)' },
+    title: {
+      ar: 'ذبائح أهل الكتاب في التناول القرآنيّ: الواقع الأمريكيّ نموذجًا',
+      en: 'The Slaughter of the People of the Book in the Qurʾanic Approach: The American Context as a Case Study',
+      es: 'Las reses sacrificadas por la Gente del Libro en el enfoque coránico: el caso de los Estados Unidos',
+    },
+    subtitle: {
+      ar: 'تأصيلٌ قرآنيٌّ لحلّ ذبائحهم، وتنزيلُه على أسواق أمريكا بقاعدة الغالب وفقه الذرائع',
+      en: 'A Qurʾanic grounding of the lawfulness of their slaughter, applied to American markets through the principle of the predominant (al-ghālib) and the jurisprudence of the means',
+      es: 'Una fundamentación coránica de la licitud de sus sacrificios, aplicada a los mercados estadounidenses mediante la regla de lo predominante (al-ghālib) y la jurisprudencia de los medios',
+    },
+    abstract: {
+      ar: 'تتناول هذه الورقةُ حكمَ ذبائح أهل الكتاب من خلال مدخلٍ قرآنيٍّ يحرّر بقاءَ وصف «أهل الكتاب» لليهود والنصارى وما يترتّب عليه من أحكام المؤاكلة والمناكحة، مع النظر في أثر ما وصفهم به القرآن من الكفر أو الشرك. وتخلص إلى أنّ ذلك الوصف يقرّر الحكمَ العقديّ على ما أحدثوه ولا يلغي الاسمَ القرآنيّ الخاصّ بهم؛ إذ البحث في أصل الانتساب الدينيّ لا في صحّة الاعتقاد. وتقرّر أنّ الإجماع منعقدٌ على أصل حلّ ذبائحهم بنصّ آية المائدة وأنّ الخلاف في الفروع، وأنّ أهليّة الذابح شرطٌ وآليّةَ الذبح شرطٌ آخر مستقلٌّ تشهد له الآية ذاتها ﴿إلّا ما ذكَّيتم﴾، ثمّ تُنزِّل الحكمَ على واقع الولايات المتّحدة بقاعدة الغالب وفقه الذرائع سدًّا وفتحًا — مع قراءةٍ لقانون طرق الذبح الرحيم الفيدراليّ وإعفائِه الدينيّ — وتختم بضوابطَ عمليّةٍ وتوصياتٍ مؤسّسيّةٍ للجالية المسلمة.',
+      en: 'This paper investigates the ruling on the slaughtered meat (dhabīḥah) of the People of the Book through a Qurʾanic approach that establishes the continued validity of the designation "People of the Book" for Jews and Christians and the rulings on food and intermarriage that rest upon it, while accounting for the disbelief and qualified polytheism the Qurʾan ascribes to factions among them. Drawing on Ibn Taymiyyah, al-Shinqīṭī, Ibn Rushd, and Ibn Kathīr, it argues that such creedal censure judges what they innovated but does not cancel the Qurʾanic name or its attendant rulings, since the inquiry concerns the root of religious affiliation rather than the soundness of belief. It locates the juristic consensus (ijmāʿ) in the basic lawfulness of their slaughter under the verse of al-Māʾidah, situates recorded disagreement within secondary branches, and isolates two independent conditions attested by the same chapter: the eligibility of the slaughterer and the mechanism of lawful slaughter (﴿except that which you have slaughtered properly﴾). It then applies the ruling to the United States through the principle of the predominant (al-ghālib) and the jurisprudence of blocking and opening the means (sadd and fatḥ al-dharāʾiʿ), reading U.S. federal law — the Humane Methods of Slaughter Act and the PPIA/FSIS framework — as accommodating valid ritual slaughter, and closes with practical guidelines and institutional recommendations for Muslim minorities in the West.',
+      es: 'Esta ponencia examina el dictamen jurídico sobre las reses sacrificadas por la Gente del Libro (judíos y cristianos) a partir de un enfoque coránico que esclarece la permanencia de su nombre y de los preceptos que de él se derivan en materia de alimentos y matrimonio. Sostiene que la descripción coránica de algunos de ellos como incrédulos o asociadores establece un juicio doctrinal sobre sus innovaciones, pero no anula su nombre ni los dictámenes específicos asociados, pues la cuestión versa sobre la adscripción religiosa y no sobre la validez de la creencia. Sitúa el consenso jurídico (iŷmāʿ) en la licitud básica de sus sacrificios por la aleya de al-Māʾida, ubica las discrepancias en cuestiones derivadas, y distingue dos condiciones independientes: la idoneidad del degollador y el método de degüello (﴿salvo lo que sacrifiquéis ritualmente﴾). Luego aplica el dictamen a los Estados Unidos mediante la regla de lo predominante (al-ghālib) y la jurisprudencia de los medios —su bloqueo y su apertura—, leyendo la ley federal que reconoce el degüello religioso, y concluye con criterios prácticos y recomendaciones institucionales para la minoría musulmana en Occidente.',
+    },
+    venue: {
+      ar: 'المؤتمر السنويّ التاسع لأئمة المساجد — مجمع فقهاء الشريعة بأمريكا (AMJA)، محور «الحلال والحرام في الأطعمة والأدوية»',
+      en: '9th Annual Imams\' Conference — Assembly of Muslim Jurists of America (AMJA), theme: "The Lawful and the Forbidden in Foods and Medicines"',
+      es: '9.ª Conferencia Anual de Imames — Asamblea de Juristas Musulmanes de América (AMJA), eje: «Lo lícito y lo prohibido en alimentos y medicinas»',
+    },
+    location: { ar: 'الولايات المتّحدة الأمريكيّة', en: 'United States', es: 'Estados Unidos' },
+    pages: 35,
+    language: 'ar',
+    pdfUrl: '/research/dhabaih-ahl-al-kitab/paper.pdf',
+    keywords: {
+      ar: ['أهل الكتاب', 'الذبائح', 'التذكية الشرعيّة', 'فقه الأقلّيّات', 'قاعدة الغالب', 'سدّ الذرائع', 'الواقع الأمريكيّ'],
+      en: ['People of the Book', 'slaughter (dhabīḥah)', 'lawful slaughter', 'fiqh of minorities', 'principle of the predominant', 'blocking the means', 'United States'],
+      es: ['Gente del Libro', 'reses sacrificadas', 'sacrificio ritual lícito', 'jurisprudencia de las minorías', 'regla de lo predominante', 'bloqueo de los medios', 'Estados Unidos'],
+    },
+    featured: true,
+  },
   // دراسة فقهية أصولية مقاصدية — على هامش موسم الحج ١٤٤٧هـ
   {
     slug: 'farewell-tawaf',
