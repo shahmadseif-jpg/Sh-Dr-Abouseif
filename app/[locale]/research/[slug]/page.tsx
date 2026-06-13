@@ -116,6 +116,18 @@ export default async function ResearchItemPage({
           </p>
         )}
 
+        {/* Cover image (books / theses) */}
+        {item.coverImage && (
+          <div className="mb-8 flex justify-center">
+            {/* eslint-disable-next-line @next/next/no-img-element */}
+            <img
+              src={item.coverImage}
+              alt={localize(item.title, locale)}
+              className="rounded-lg shadow-lg border border-navy-100 max-h-[32rem] w-auto"
+            />
+          </div>
+        )}
+
         {/* Metadata box */}
         <div className="bg-navy-50/50 border border-navy-100 rounded-lg p-6 mb-8 space-y-3">
           <div className="grid grid-cols-1 sm:grid-cols-2 gap-3 text-sm">
