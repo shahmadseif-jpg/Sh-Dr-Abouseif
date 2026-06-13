@@ -63,7 +63,21 @@ export default function ResearchList() {
             key={r.slug}
             className="group bg-white border border-navy-100 rounded-lg overflow-hidden hover:shadow-md transition-shadow"
           >
-            <div className="p-6 sm:p-8">
+            <div className="p-6 sm:p-8 flex gap-5 sm:gap-6">
+              {r.coverImage && (
+                <Link
+                  href={`/research/${r.slug}` as any}
+                  className="hidden sm:block flex-shrink-0 self-start no-underline"
+                >
+                  {/* eslint-disable-next-line @next/next/no-img-element */}
+                  <img
+                    src={r.coverImage}
+                    alt=""
+                    className="w-28 lg:w-36 rounded-md border border-navy-100 shadow-sm"
+                  />
+                </Link>
+              )}
+              <div className="flex-1 min-w-0">
               {/* Type & Year badges */}
               <div className="flex flex-wrap items-center gap-2 mb-4">
                 <span className="inline-flex items-center px-3 py-1 rounded-full text-xs font-medium bg-navy-50 text-navy-700">
@@ -166,6 +180,7 @@ export default function ResearchList() {
                     🔗 {t('external_link')}
                   </a>
                 )}
+              </div>
               </div>
             </div>
           </article>
