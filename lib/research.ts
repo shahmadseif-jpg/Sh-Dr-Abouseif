@@ -103,6 +103,51 @@ export const researchMeta: ResearchMeta[] = [
     },
     featured: true,
   },
+  // رسالة الماجستير (التخصص) — جامعة الأزهر، طنطا ١٤٢٤هـ/٢٠٠٣م
+  {
+    slug: 'maturidi-tawilat-al-araf',
+    type: 'book',
+    category: 'quranic-studies',
+    year: 2003,
+    isoDate: '2003-01-01',
+    date: { ar: '١٤٢٤هـ / ٢٠٠٣م', en: '1424 AH / 2003', es: '1424 H / 2003' },
+    title: {
+      ar: 'تفسير الإمام الماتريديّ المسمَّى «تأويلات أهل السنّة»: تحقيقٌ ودراسةٌ لتفسير سورة الأعراف',
+      en: 'The Tafsīr of Imām al-Māturīdī, "Taʾwīlāt Ahl al-Sunna": A Critical Edition and Study of the Exegesis of Sūrat al-Aʿrāf',
+      es: 'El tafsir del Imām al-Māturīdī, «Taʾwīlāt Ahl al-Sunna»: edición crítica y estudio de la exégesis de la Sūrat al-Aʿrāf',
+    },
+    subtitle: {
+      ar: 'رسالةٌ نال بها الباحثُ درجةَ التخصّص (الماجستير) في التفسير وعلوم القرآن — جامعة الأزهر',
+      en: 'A thesis for which the author was awarded the Master\'s degree (al-Takhaṣṣuṣ) in Tafsīr and Qurʾanic Sciences — al-Azhar University',
+      es: 'Tesis con la que el autor obtuvo el grado de máster (al-Takhaṣṣuṣ) en Tafsīr y Ciencias Coránicas — Universidad de al-Azhar',
+    },
+    abstract: {
+      ar: 'تحقيقٌ علميٌّ ودراسةٌ لتفسير الإمام أبي منصور الماتريديّ (ت ٣٣٣هـ) المسمَّى «تأويلات أهل السنّة» في حدود سورة الأعراف؛ يضبط الباحثُ نصَّ التفسير على أصوله الخطّيّة، ويوازن بين نُسَخه، ويخرّج آياته وأحاديثه وأقوال أهل التأويل، موثّقًا فروقَ النُّسَخ في الحواشي. وتتقدّم التحقيقَ دراسةٌ تمهيديّةٌ في ثلاثة مباحث: عصر الماتريديّ وحياته، وجهوده في التفسير، ومنهجه في تفسير آيات العقيدة والأحكام وإزاء قواعد اللغة، مع وصف نُسَخ المخطوطة ومنهج التحقيق. والمقصودُ إبرازُ مكانة الماتريديّ مفسِّرًا وكشفُ منهجه في «التأويل» على أصول أهل السنّة، وخدمةُ نصٍّ تفسيريٍّ نفيسٍ بإخراجه محقَّقًا. نال بها الباحثُ درجةَ التخصّص (الماجستير) من جامعة الأزهر — كلّيّة أصول الدين بطنطا، ١٤٢٤هـ/٢٠٠٣م.',
+      en: 'This Master\'s thesis presents a scholarly critical edition (taḥqīq) and study of Taʾwīlāt Ahl al-Sunna, the tafsīr of Imām Abū Manṣūr al-Māturīdī (d. 333 AH), within the compass of Sūrat al-Aʿrāf. The researcher establishes the text against its manuscript originals, collates its several copies, and supplies takhrīj for its Qurʾānic verses, ḥadīths, and the statements of the exegetes, documenting the manuscript variants (furūq al-nusakh) in a scholarly apparatus. The edition is preceded by an introductory study in three chapters treating al-Māturīdī\'s age and life, his contributions to tafsīr, and his exegetical method in the verses of creed and legal rulings and his stance toward the rules of the Arabic language. Among its aims are to bring to light al-Māturīdī\'s standing as an exegete and to disclose his method of taʾwīl upon the foundations of the people of the Sunna. The work was completed at the Faculty of Uṣūl al-Dīn and Islamic Daʿwah in Tanta, al-Azhar University, in 1424 AH / 2003 CE, under the supervision of Prof. Shukrī Shafīq al-Akhḍar and Prof. Ṣalāḥ al-Dīn Yūsuf Shalabī.',
+      es: 'Esta tesis de máster ofrece la edición crítica (taḥqīq) y el estudio del tafsir del Imām Abū Manṣūr al-Māturīdī (m. 333 H), titulado «Taʾwīlāt Ahl al-Sunna», en el ámbito de la Sūrat al-Aʿrāf. El investigador fija el texto a partir de sus originales manuscritos, coteja sus distintas copias y realiza el takhrīj de sus aleyas, hadices y de los dichos de los exégetas, documentando las variantes de los manuscritos en las notas a pie de página. Precede a la edición un estudio introductorio en tres capítulos: la época y la vida del Imām al-Māturīdī, sus aportaciones a la exégesis y su método exegético en las aleyas de doctrina y de preceptos jurídicos y ante las reglas de la lengua. Entre sus objetivos figuran poner de relieve el rango de al-Māturīdī como exégeta y exponer su método en el taʾwīl conforme a los fundamentos de Ahl al-Sunna. La obra fue defendida en la Facultad de Uṣūl al-Dīn y Daʿwah Islámica de Tanta (Universidad de al-Azhar) en 1424 H / 2003.',
+    },
+    venue: {
+      ar: 'جامعة الأزهر — كلّيّة أصول الدين والدعوة الإسلاميّة بطنطا، الدراسات العليا (قسم التفسير وعلوم القرآن)',
+      en: 'al-Azhar University — Faculty of Uṣūl al-Dīn and Islamic Daʿwah, Tanta, Postgraduate Studies (Dept. of Tafsīr and Qurʾanic Sciences)',
+      es: 'Universidad de al-Azhar — Facultad de Uṣūl al-Dīn y Daʿwah Islámica, Tanta, Estudios de Posgrado (Departamento de Tafsīr y Ciencias Coránicas)',
+    },
+    location: { ar: 'طنطا — جمهوريّة مصر العربيّة', en: 'Tanta — Arab Republic of Egypt', es: 'Tanta — República Árabe de Egipto' },
+    publisher: {
+      ar: 'إشراف: أ.د شكري شفيق الأخضر، وأ.د صلاح الدين يوسف شلبي',
+      en: 'Supervised by Prof. Shukrī Shafīq al-Akhḍar and Prof. Ṣalāḥ al-Dīn Yūsuf Shalabī',
+      es: 'Bajo la dirección del Prof. Shukrī Shafīq al-Akhḍar y el Prof. Ṣalāḥ al-Dīn Yūsuf Shalabī',
+    },
+    pages: 665,
+    language: 'ar',
+    pdfUrl: '/research/maturidi-tawilat-al-araf/thesis.pdf',
+    coverImage: '/research/maturidi-tawilat-al-araf/cover.jpg',
+    keywords: {
+      ar: ['الماتريدي', 'تأويلات أهل السنة', 'سورة الأعراف', 'التحقيق', 'التفسير', 'علوم القرآن', 'جامعة الأزهر'],
+      en: ['al-Māturīdī', 'Taʾwīlāt Ahl al-Sunna', 'Sūrat al-Aʿrāf', 'critical edition', 'tafsīr', 'Qurʾanic sciences', 'al-Azhar University'],
+      es: ['al-Māturīdī', 'Taʾwīlāt Ahl al-Sunna', 'Sūrat al-Aʿrāf', 'edición crítica', 'tafsīr', 'ciencias coránicas', 'Universidad de al-Azhar'],
+    },
+    featured: true,
+  },
   // بحث محكَّم مُقدَّم إلى مؤتمر AMJA العاشر (٢٠١٣م)
   {
     slug: 'women-and-dawah-west',
