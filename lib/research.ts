@@ -256,6 +256,7 @@ export const researchMeta: ResearchMeta[] = [
     language: 'ar',
     pages: 12, // النسخة المنقَّحة التوثيق ٢٠٢٦
     pdfUrl: '/research/farewell-tawaf/paper.pdf',
+    coverImage: '/research/farewell-tawaf/cover.jpg',
     keywords: {
       ar: ['طواف الوداع', 'الحجّ', 'دلالة الأمر', 'الجبر بالدم', 'النُّسُك', 'مناطات الخلاف', 'الترجيح المقاصدي', 'الفقه المقارن'],
       en: ['Farewell Ṭawāf', 'Hajj', 'import of the command', 'blood-offering (dam)', 'rite (nusuk)', 'loci of disagreement', 'maqāṣid-based weighing', 'comparative fiqh'],
