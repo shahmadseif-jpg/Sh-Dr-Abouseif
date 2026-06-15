@@ -305,6 +305,7 @@ export const researchMeta: ResearchMeta[] = [
     pages: 23,
     language: 'ar',
     pdfUrl: '/research/tafsir-renewal-and-ai/paper.pdf',
+    coverImage: '/research/tafsir-renewal-and-ai/cover.jpg',
     keywords: {
       ar: ['التفسير القرآني', 'تجدّد الأدوات', 'الذكاء الاصطناعي', 'النماذج اللغوية الكبيرة', 'إنتاج المعرفة', 'الزيف الإسنادي', 'المفسّر المعزَّز'],
       en: ['Qur’anic exegesis', 'renewal of tools', 'artificial intelligence', 'large language models', 'knowledge production', 'isnād forgery', 'the augmented exegete'],
