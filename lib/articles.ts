@@ -37,6 +37,30 @@ export interface ArticleMeta {
 }
 
 export const articlesMeta: ArticleMeta[] = [
+  // ===== مقال: التقوى في القرآن الكريم (حِكَمٌ وبصائر) =====
+  {
+    slug: 'taqwa-in-the-quran',
+    category: 'wisdom-insights',
+    isoDate: '2026-06-17',
+    date: { ar: 'يونيو ٢٠٢٦', en: 'June 2026', es: 'Junio de 2026' },
+    readingMinutes: 10,
+    title: {
+      ar: "التَّقْوَى في القرآن الكريم: من دَلالةِ اللَّفظِ إلى فلسفةِ التطبيق",
+      en: "Taqwā in the Noble Qurʾan: From the Meaning of the Word to the Philosophy of Application",
+      es: "La taqwā en el Sagrado Corán: del significado de la palabra a la filosofía de la aplicación",
+    },
+    subtitle: {
+      ar: "دراسةٌ قرآنيّةٌ في ماهيّة التقوى ومواطنِها ووظائفِها وميزانِها",
+      en: "A Qurʾanic study of taqwā — its true nature, its proper places, its functions, and its scale as the measure of human worth",
+      es: "De la mera repetición de una palabra a la posesión de su verdad: esencia, ámbitos, funciones y balanza de la piedad consciente",
+    },
+    excerpt: {
+      ar: "ما من كلمةٍ أكثرُ دورانًا على الألسنة من «التقوى»، ولا أقلُّ منها تحديدًا في الأذهان. دراسةٌ قرآنيّةٌ تُحرّرها من الضبابيّة، فتقرّر أنّ لها ماهيّةً مضبوطة (طاعةٌ وذِكرٌ وشكر)، ومواطنَ تخصُّصٍ تنطق عندها — كلُّ نقطة انفلاتٍ يغيب فيها الرقيب: المال، والطلاق، والشهادة، والقوّة — ووظائفَ في نظم الآي، ومعيارًا تُوزَن به الكرامة. فالتقوى أخلاقُ القادر وطاقةُ البناء، لا خشوعَ العاجز ولا رعبًا يُقعِد الهِمم.",
+      en: "\"Taqwā\" is the most repeated word on the Muslim tongue and the least defined in the mind. This study argues that the Qurʾan never left it hazy: it gave taqwā a precise nature (obedience, remembrance, gratitude), summoned it precisely at life's \"points of unrestraint\" where no outer overseer remains — wealth, divorce, testimony, power — and made it the sole measure of human dignity: the ethic of the powerful and an energy of building, not the meekness of the helpless nor a dread that paralyzes resolve.",
+      es: "Un recorrido coránico que rescata la taqwā de la nebulosidad en que ha caído y la restituye como concepto preciso y dinámico: no una huida del mundo ni un mero temor que paraliza, sino la vigilancia interior que se activa en cada «punto de desborde» —el dinero, el divorcio, la lengua, el testimonio, el poder— donde calla todo vigilante externo. A través de cuatro estaciones (esencia, especialización, trama y balanza), el Dr. Ahmed Abouseif muestra que la taqwā es la ética del poderoso y el criterio único de la dignidad humana ante Dios.",
+    },
+    coverImage: '/articles/taqwa-in-the-quran/cover.jpg',
+  },
   // ===== مقال: الصحابة وصناعة الوعي العلمي =====
   {
     slug: 'companions-and-knowledge',
