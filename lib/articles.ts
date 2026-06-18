@@ -121,6 +121,7 @@ export const articlesMeta: ArticleMeta[] = [
   // ===== سلسلة «التفسير المقاصدي» =====
   {
     slug: 'surah-al-fatiha',
+    coverImage: '/articles/surah-al-fatiha.png',
     category: 'maqasid-tafsir',
     isoDate: '2026-05-19',
     date: { ar: 'يونيو ٢٠٢٦', en: 'June 2026', es: 'Junio de 2026' },
@@ -133,6 +134,7 @@ export const articlesMeta: ArticleMeta[] = [
   },
   {
     slug: 'concept-and-term',
+    coverImage: '/articles/concept-and-term.png',
     category: 'maqasid-tafsir',
     isoDate: '2026-05-29',
     date: { ar: 'يونيو ٢٠٢٦', en: 'June 2026', es: 'Junio de 2026' },
@@ -144,6 +146,7 @@ export const articlesMeta: ArticleMeta[] = [
   },
   {
     slug: 'tafsir-and-its-siblings',
+    coverImage: '/articles/tafsir-and-its-siblings.png',
     category: 'maqasid-tafsir',
     isoDate: '2026-05-28',
     date: { ar: 'يونيو ٢٠٢٦', en: 'June 2026', es: 'Junio de 2026' },
@@ -155,6 +158,7 @@ export const articlesMeta: ArticleMeta[] = [
   },
   {
     slug: 'origin-and-development',
+    coverImage: '/articles/origin-and-development.png',
     category: 'maqasid-tafsir',
     isoDate: '2026-05-27',
     date: { ar: 'يونيو ٢٠٢٦', en: 'June 2026', es: 'Junio de 2026' },
@@ -166,6 +170,7 @@ export const articlesMeta: ArticleMeta[] = [
   },
   {
     slug: 'grand-objectives-and-purpose',
+           coverImage: '/articles/grand-objectives-and-purpose.png',
     category: 'maqasid-tafsir',
     isoDate: '2026-05-26',
     date: { ar: 'يونيو ٢٠٢٦', en: 'June 2026', es: 'Junio de 2026' },
@@ -177,6 +182,7 @@ export const articlesMeta: ArticleMeta[] = [
   },
   {
     slug: 'scholars-and-figures',
+    coverImage: '/articles/scholars-and-figures.png',
     category: 'maqasid-tafsir',
     isoDate: '2026-05-25',
     date: { ar: 'يونيو ٢٠٢٦', en: 'June 2026', es: 'Junio de 2026' },
@@ -188,6 +194,7 @@ export const articlesMeta: ArticleMeta[] = [
   },
   {
     slug: 'principles-and-controls',
+    coverImage: '/articles/principles-and-controls.png',
     category: 'maqasid-tafsir',
     isoDate: '2026-05-24',
     date: { ar: 'يونيو ٢٠٢٦', en: 'June 2026', es: 'Junio de 2026' },
@@ -199,6 +206,7 @@ export const articlesMeta: ArticleMeta[] = [
   },
   {
     slug: 'fruit-of-study',
+    coverImage: '/articles/fruit-of-study.png',
     category: 'maqasid-tafsir',
     isoDate: '2026-05-23',
     date: { ar: 'يونيو ٢٠٢٦', en: 'June 2026', es: 'Junio de 2026' },
@@ -210,6 +218,7 @@ export const articlesMeta: ArticleMeta[] = [
   },
   {
     slug: 'behavioral-application',
+    coverImage: '/articles/behavioral-application.png',
     category: 'maqasid-tafsir',
     isoDate: '2026-05-22',
     date: { ar: 'يونيو ٢٠٢٦', en: 'June 2026', es: 'Junio de 2026' },
@@ -221,6 +230,7 @@ export const articlesMeta: ArticleMeta[] = [
   },
   {
     slug: 'social-application',
+    coverImage: '/articles/social-application.png',
     category: 'maqasid-tafsir',
     isoDate: '2026-05-21',
     date: { ar: 'يونيو ٢٠٢٦', en: 'June 2026', es: 'Junio de 2026' },
@@ -232,6 +242,7 @@ export const articlesMeta: ArticleMeta[] = [
   },
   {
     slug: 'psychological-application',
+    coverImage: '/articles/psychological-application.png',
     category: 'maqasid-tafsir',
     isoDate: '2026-05-20',
     date: { ar: 'يونيو ٢٠٢٦', en: 'June 2026', es: 'Junio de 2026' },
