@@ -749,6 +749,7 @@ export const articlesMeta: ArticleMeta[] = [
   },
   {
     slug: 'philosophy-of-displacement',
+    coverImage: '/articles/philosophy-of-displacement.png',
     category: 'civilization',
     isoDate: '2026-05-23',
     date: { ar: '٢٣ مايو ٢٠٢٦', en: 'May 23, 2026', es: '23 de mayo de 2026' },
