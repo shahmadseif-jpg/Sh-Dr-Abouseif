@@ -37,6 +37,30 @@ export interface ArticleMeta {
 }
 
 export const articlesMeta: ArticleMeta[] = [
+  // ===== مقال: معرفة النفوس قبل التعريف بالنصوص (التفسير المقاصدي) =====
+  {
+    slug: 'knowing-souls-before-texts',
+    category: 'maqasid-tafsir',
+    isoDate: '2026-06-17',
+    date: { ar: 'يونيو ٢٠٢٦', en: 'June 2026', es: 'Junio de 2026' },
+    readingMinutes: 8,
+    title: {
+      ar: "معرفة النفوس قبل التعريف بالنصوص",
+      en: "Knowing Souls Before Teaching Texts",
+      es: "Conocer las almas antes de enseñar los textos",
+    },
+    subtitle: {
+      ar: "خريطةٌ للنفوس قبل المعترك: كيف عرّف الوحيُ النبيَّ ﷺ بأنماط الناس ليُحسِن تبليغَهم",
+      en: "How revelation gave the Prophet ﷺ a map of human souls before the encounter, making the discernment of temperaments the foundation of every caller's success",
+      es: "Cómo la Revelación enseñó al Profeta ﷺ a leer los corazones antes de transmitirles los textos de la fe",
+    },
+    excerpt: {
+      ar: "في مستهلّ العهد المدنيّ، عرّف اللهُ نبيَّه ﷺ بأصناف الناس الذين سيخالطهم — مؤمنين وكافرين ومنافقين — فكان أوّلَ ما تلقّاه خريطةٌ للنفوس لا للأرض. مقالٌ مقاصديٌّ يقرّر أنّ فقه الطبائع ليس فضيلةً بل واجبٌ يتوقّف عليه نجاحُ التبليغ، مؤصِّلًا له بآية ﴿وما أرسلنا من رسول إلا بلسان قومه﴾ وشواهدِ السيرة، وكاشفًا أنّ للقرآن في تصنيف النفوس أصلًا سابقًا وأعمقَ ممّا انتهى إليه علمُ النفس الحديث: تصنيفٌ يستهدف الشفاء لا حبسَ الناس في أنماطهم.",
+      en: "Before the Prophet ﷺ entered Medina to build a nation, revelation acquainted him with the types of people he would meet — believers, disbelievers, and hypocrites — a map of souls rather than soil. This study shows that the discernment of human temperaments is no mere virtue but an obligation upon which the success of conveyance itself depends, drawing on the Qurʾan, the Prophetic biography, and a striking comparison with modern psychology — a classification that seeks healing rather than confining people to their types.",
+      es: "En el umbral del período medinense, Dios entregó a Su Profeta ﷺ un mapa de las almas antes que de la tierra, dándole a conocer al creyente, al incrédulo y al hipócrita antes de encontrarlos. Este artículo demuestra, desde el fundamento coránico y los testimonios de la Sīra, que el conocimiento de los temperamentos no es una virtud opcional sino un deber del que depende el éxito de la predicación, y revela cómo el Corán anticipó —con mayor hondura— lo que hoy llama la psicología la clasificación de las personalidades: clasificar no para encerrar a las personas, sino para abrirles la puerta del cambio.",
+    },
+    coverImage: '/articles/knowing-souls-before-texts/cover.jpg',
+  },
   // ===== مقال: التقوى في القرآن الكريم (حِكَمٌ وبصائر) =====
   {
     slug: 'taqwa-in-the-quran',
