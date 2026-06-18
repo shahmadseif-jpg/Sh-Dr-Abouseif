@@ -739,7 +739,6 @@ export const articlesMeta: ArticleMeta[] = [
   },
   {
     slug: 'wisdom-lost-property',
-    coverImage: '/articles/wisdom-lost-property.png',
     category: 'wisdom-insights',
     isoDate: '2026-05-17',
     date: { ar: '١٧ مايو ٢٠٢٦', en: 'May 17, 2026', es: '17 de mayo de 2026' },
