@@ -568,6 +568,7 @@ export const articlesMeta: ArticleMeta[] = [
   },
   {
     slug: 'house-of-dawah-inherited-image-human-reality',
+    coverImage: '/articles/house-of-dawah-inherited-image-human-reality.png',
     category: 'imamship',
     isoDate: '2026-05-20',
     date: { ar: '٢٠ مايو ٢٠٢٦', en: 'May 20, 2026', es: '20 de mayo de 2026' },
@@ -906,6 +907,7 @@ export const articlesMeta: ArticleMeta[] = [
   },
   {
     slug: 'fatwa-and-collective-voice',
+    coverImage: '/articles/fatwa-and-collective-voice.png',
     category: 'imamship',
     isoDate: '2026-05-16',
     date: { ar: '١٦ مايو ٢٠٢٦', en: 'May 16, 2026', es: '16 de mayo de 2026' },
@@ -934,6 +936,7 @@ export const articlesMeta: ArticleMeta[] = [
   },
   {
     slug: 'institutional-mind',
+    coverImage: '/articles/institutional-mind.png',
     category: 'imamship',
     isoDate: '2026-05-15',
     date: { ar: '١٥ مايو ٢٠٢٦', en: 'May 15, 2026', es: '15 de mayo de 2026' },
@@ -962,6 +965,7 @@ export const articlesMeta: ArticleMeta[] = [
   },
   {
     slug: 'crafting-the-modern-imam',
+    coverImage: '/articles/crafting-the-modern-imam.png',
     category: 'imamship',
     isoDate: '2026-05-14',
     date: { ar: '١٤ مايو ٢٠٢٦', en: 'May 14, 2026', es: '14 de mayo de 2026' },
@@ -990,6 +994,7 @@ export const articlesMeta: ArticleMeta[] = [
   },
   {
     slug: 'imam-in-the-west',
+    coverImage: '/articles/imam-in-the-west.png',
     category: 'imamship',
     isoDate: '2026-05-13',
     date: { ar: '١٣ مايو ٢٠٢٦', en: 'May 13, 2026', es: '13 de mayo de 2026' },
