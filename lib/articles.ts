@@ -88,6 +88,7 @@ export const articlesMeta: ArticleMeta[] = [
   // ===== مقال: الصحابة وصناعة الوعي العلمي =====
   {
     slug: 'companions-and-knowledge',
+    coverImage: '/articles/companions-and-knowledge.png',
     category: 'wisdom-insights',
     isoDate: '2026-06-10',
     date: { ar: 'يونيو ٢٠٢٦', en: 'June 2026', es: 'Junio de 2026' },
@@ -99,6 +100,7 @@ export const articlesMeta: ArticleMeta[] = [
   // ===== تأمّل قرآنيّ (حِكَمٌ وبصائر) =====
   {
     slug: 'pure-sincerity',
+    coverImage: '/articles/pure-sincerity.png',
     category: 'wisdom-insights',
     isoDate: '2026-06-10',
     date: { ar: 'يونيو ٢٠٢٦', en: 'June 2026', es: 'Junio de 2026' },
@@ -110,6 +112,7 @@ export const articlesMeta: ArticleMeta[] = [
   // ===== تأمّل قرآنيّ (الاستجابة) =====
   {
     slug: 'response-is-life',
+    coverImage: '/articles/response-is-life.png',
     category: 'wisdom-insights',
     isoDate: '2026-06-10',
     date: { ar: 'يونيو ٢٠٢٦', en: 'June 2026', es: 'Junio de 2026' },
@@ -254,6 +257,7 @@ export const articlesMeta: ArticleMeta[] = [
   },
   {
     slug: 'kaaba-or-qibla',
+    coverImage: '/articles/kaaba-or-qibla.png',
     category: 'wisdom-insights',
     isoDate: '2026-05-31',
     date: { ar: '٣١ مايو ٢٠٢٦', en: 'May 31, 2026', es: '31 de mayo de 2026' },
@@ -282,6 +286,7 @@ export const articlesMeta: ArticleMeta[] = [
   },
   {
     slug: 'hearts-before-the-rows',
+    coverImage: '/articles/hearts-before-the-rows.png',
     category: 'wisdom-insights',
     isoDate: '2026-05-31',
     date: { ar: '٣١ مايو ٢٠٢٦', en: 'May 31, 2026', es: '31 de mayo de 2026' },
@@ -310,6 +315,7 @@ export const articlesMeta: ArticleMeta[] = [
   },
   {
     slug: 'the-appetite-for-obedience',
+    coverImage: '/articles/the-appetite-for-obedience.png',
     category: 'wisdom-insights',
     isoDate: '2026-05-31',
     date: { ar: '٣١ مايو ٢٠٢٦', en: 'May 31, 2026', es: '31 de mayo de 2026' },
@@ -338,6 +344,7 @@ export const articlesMeta: ArticleMeta[] = [
   },
   {
     slug: 'purification-before-the-meeting',
+    coverImage: '/articles/purification-before-the-meeting.png',
     category: 'wisdom-insights',
     isoDate: '2026-05-30',
     date: { ar: '٣٠ مايو ٢٠٢٦', en: 'May 30, 2026', es: '30 de mayo de 2026' },
@@ -366,6 +373,7 @@ export const articlesMeta: ArticleMeta[] = [
   },
   {
     slug: 'days-of-allah',
+    coverImage: '/articles/days-of-allah.png',
     category: 'wisdom-insights',
     isoDate: '2026-05-24',
     date: { ar: '٢٤ مايو ٢٠٢٦', en: 'May 24, 2026', es: '24 de mayo de 2026' },
@@ -394,6 +402,7 @@ export const articlesMeta: ArticleMeta[] = [
   },
   {
     slug: 'satan-and-man-goal-and-means',
+    coverImage: '/articles/satan-and-man-goal-and-means.png',
     category: 'wisdom-insights',
     isoDate: '2018-10-12',
     date: { ar: '١٢ أكتوبر ٢٠١٨', en: 'October 12, 2018', es: '12 de octubre de 2018' },
@@ -540,6 +549,7 @@ export const articlesMeta: ArticleMeta[] = [
   },
   {
     slug: 'awakened-consciences',
+    coverImage: '/articles/awakened-consciences.png',
     category: 'wisdom-insights',
     isoDate: '2026-05-23',
     date: { ar: '٢٣ مايو ٢٠٢٦', en: 'May 23, 2026', es: '23 de mayo de 2026' },
@@ -729,6 +739,7 @@ export const articlesMeta: ArticleMeta[] = [
   },
   {
     slug: 'wisdom-lost-property',
+    coverImage: '/articles/wisdom-lost-property.png',
     category: 'wisdom-insights',
     isoDate: '2026-05-17',
     date: { ar: '١٧ مايو ٢٠٢٦', en: 'May 17, 2026', es: '17 de mayo de 2026' },
