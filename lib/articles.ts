@@ -511,6 +511,7 @@ export const articlesMeta: ArticleMeta[] = [
   },
   {
     slug: 'island-of-quran',
+    coverImage: '/articles/island-of-quran.png',
     category: 'civilization',
     isoDate: '2026-02-06',
     date: { ar: '٦ فبراير ٢٠٢٦', en: 'February 6, 2026', es: '6 de febrero de 2026' },
@@ -789,6 +790,7 @@ export const articlesMeta: ArticleMeta[] = [
   },
   {
     slug: 'isra-and-the-civic-state',
+    coverImage: '/articles/isra-and-the-civic-state.png',
     category: 'civilization',
     isoDate: '2026-05-20',
     date: { ar: '٢٠ مايو ٢٠٢٦', en: 'May 20, 2026', es: '20 de mayo de 2026' },
@@ -817,6 +819,7 @@ export const articlesMeta: ArticleMeta[] = [
   },
   {
     slug: 'sunan-of-civilization',
+    coverImage: '/articles/sunan-of-civilization.png',
     category: 'civilization',
     isoDate: '2026-05-19',
     date: { ar: '١٩ مايو ٢٠٢٦', en: 'May 19, 2026', es: '19 de mayo de 2026' },
@@ -845,6 +848,7 @@ export const articlesMeta: ArticleMeta[] = [
   },
   {
     slug: 'hudhud-and-sayl',
+    coverImage: '/articles/hudhud-and-sayl.png',
     category: 'civilization',
     isoDate: '2026-05-18',
     date: { ar: '١٨ مايو ٢٠٢٦', en: 'May 18, 2026', es: '18 de mayo de 2026' },
@@ -873,6 +877,7 @@ export const articlesMeta: ArticleMeta[] = [
   },
   {
     slug: 'yusuf-diaspora-civilization',
+    coverImage: '/articles/yusuf-diaspora-civilization.png',
     category: 'civilization',
     isoDate: '2026-05-17',
     date: { ar: '١٧ مايو ٢٠٢٦', en: 'May 17, 2026', es: '17 de mayo de 2026' },
@@ -1013,6 +1018,7 @@ export const articlesMeta: ArticleMeta[] = [
   },
   {
     slug: 'quran-civilization',
+    coverImage: '/articles/quran-civilization.png',
     category: 'civilization',
     isoDate: '2026-05-12',
     date: { ar: '١٢ مايو ٢٠٢٦', en: 'May 12, 2026', es: '12 de mayo de 2026' },
