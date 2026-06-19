@@ -292,7 +292,18 @@ function renderMarkdown(md: string, locale: string): ReactNode {
       continue;
     }
 
-    // H2 (### Heading on its own line)
+    // H2 (## Heading on its own line) — section headings
+    if (para.startsWith('## ') && !para.startsWith('### ')) {
+      const text = para.slice(3).trim();
+      blocks.push(
+        <h2 key={`h2-${i}`} className="text-2xl sm:text-3xl font-semibold text-navy-700 mt-14 mb-5 gold-line">
+          {processInline(text, locale)}
+        </h2>
+      );
+      continue;
+    }
+
+    // H3 (### Heading on its own line)
     if (para.startsWith('### ')) {
       const text = para.slice(4).trim();
       blocks.push(
