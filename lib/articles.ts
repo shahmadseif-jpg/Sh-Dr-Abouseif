@@ -3,7 +3,7 @@
  * For file content loading (uses fs), see lib/articles-server.ts
  */
 
-export type ArticleCategory = 'imamship' | 'civilization' | 'family' | 'fiqh' | 'wisdom-insights' | 'maqasid-tafsir';
+export type ArticleCategory = 'imamship' | 'civilization' | 'family' | 'fiqh' | 'wisdom-insights' | 'maqasid-tafsir' | 'prophetic-light';
 
 /** Supported site locales. */
 export type Loc = 'ar' | 'en' | 'es';
@@ -37,6 +37,20 @@ export interface ArticleMeta {
 }
 
 export const articlesMeta: ArticleMeta[] = [
+  // ===== مقال: المصلحون لا يكفّون عن المحاولة (قبسٌ من نور النبوّة) =====
+  {
+    slug: 'reformers-never-cease',
+    category: 'prophetic-light',
+    isoDate: '2026-06-19',
+    date: { ar: 'يونيو ٢٠٢٦', en: 'June 2026', es: 'Junio de 2026' },
+    readingMinutes: 14,
+    series: { ar: 'قبسٌ من نور النبوّة', en: 'Glimmers of Prophetic Light', es: 'Destellos de la Luz Profética' },
+    episode: 1,
+    title: { ar: 'المصلحون لا يكفّون عن المحاولة', en: 'Reformers Never Cease to Try', es: 'Los reformadores no cesan de intentarlo' },
+    subtitle: { ar: 'فقه الثبات وطول النفس في مسيرة الإصلاح', en: 'The Jurisprudence of Steadfastness and Perseverance on the Path of Reform', es: 'La jurisprudencia de la constancia y la perseverancia en el camino de la reforma' },
+    excerpt: { ar: 'ليس الإصلاح صرخةً عابرة، ولا خطبةً مؤثرة، بل هو غرسٌ طويل، ومحاولةٌ تتبعها محاولة، حتى يأذن الله. فالمصلح كُلِّف بالبلاغ لا بصناعة الهداية؛ يزرع ولا يملك الحصاد، ويبقى على الثغر لا لأنّ الناس أنصفوه، بل لأنّ الله أقامه فيه — قبسٌ من نور النبوّة في فقه الثبات.', en: "Reform is no passing cry, no stirring sermon, but a long planting — an attempt followed by an attempt until God permits the fruit. The reformer is charged with conveyance, not with manufacturing guidance; he sows without owning the harvest, and holds his post not because people were fair to him, but because God stationed him there.", es: 'La reforma no es un grito pasajero ni un sermón conmovedor, sino una siembra prolongada: un intento al que sigue otro hasta que Dios permite el fruto. Al reformador le incumbe la transmisión, no fabricar la guía; siembra sin poseer la cosecha y permanece en su puesto no porque la gente fuera justa con él, sino porque Dios lo estableció allí.' },
+    coverImage: '/articles/reformers-never-cease/cover.jpg',
+  },
   // ===== مقال: معرفة النفوس قبل التعريف بالنصوص (التفسير المقاصدي) =====
   {
     slug: 'knowing-souls-before-texts',
@@ -88,7 +102,6 @@ export const articlesMeta: ArticleMeta[] = [
   // ===== مقال: الصحابة وصناعة الوعي العلمي =====
   {
     slug: 'companions-and-knowledge',
-    coverImage: '/articles/companions-and-knowledge.png',
     category: 'wisdom-insights',
     isoDate: '2026-06-10',
     date: { ar: 'يونيو ٢٠٢٦', en: 'June 2026', es: 'Junio de 2026' },
@@ -100,7 +113,6 @@ export const articlesMeta: ArticleMeta[] = [
   // ===== تأمّل قرآنيّ (حِكَمٌ وبصائر) =====
   {
     slug: 'pure-sincerity',
-    coverImage: '/articles/pure-sincerity.png',
     category: 'wisdom-insights',
     isoDate: '2026-06-10',
     date: { ar: 'يونيو ٢٠٢٦', en: 'June 2026', es: 'Junio de 2026' },
@@ -112,7 +124,6 @@ export const articlesMeta: ArticleMeta[] = [
   // ===== تأمّل قرآنيّ (الاستجابة) =====
   {
     slug: 'response-is-life',
-    coverImage: '/articles/response-is-life.png',
     category: 'wisdom-insights',
     isoDate: '2026-06-10',
     date: { ar: 'يونيو ٢٠٢٦', en: 'June 2026', es: 'Junio de 2026' },
@@ -124,7 +135,6 @@ export const articlesMeta: ArticleMeta[] = [
   // ===== سلسلة «التفسير المقاصدي» =====
   {
     slug: 'surah-al-fatiha',
-    coverImage: '/articles/surah-al-fatiha.png',
     category: 'maqasid-tafsir',
     isoDate: '2026-05-19',
     date: { ar: 'يونيو ٢٠٢٦', en: 'June 2026', es: 'Junio de 2026' },
@@ -137,7 +147,6 @@ export const articlesMeta: ArticleMeta[] = [
   },
   {
     slug: 'concept-and-term',
-    coverImage: '/articles/concept-and-term.png',
     category: 'maqasid-tafsir',
     isoDate: '2026-05-29',
     date: { ar: 'يونيو ٢٠٢٦', en: 'June 2026', es: 'Junio de 2026' },
@@ -146,10 +155,10 @@ export const articlesMeta: ArticleMeta[] = [
     episode: 1,
     title: { ar: "التفسير المقاصدي: تحرير المفهوم وضبط المصطلح", en: "Objective-Based Tafsīr: Clarifying the Concept and Defining the Term", es: "Tafsīr orientado a los fines: clarificar el concepto y precisar el término" },
     excerpt: { ar: "ما أكثرَ من يقرأ القرآنَ طلباً للحُكم، وما أقلَّ من يقرؤه طلباً للحِكمة! وما أكثرَ من يسأل: ماذا أمر الله؟ وما أقلَّ من يَزيد: ولماذا أمر؟ وبين السؤالَين مسافةٌ بعيدة؛ مسافةُ ما بين أن تَحمل الآيةَ في حافظتك، وأن تَحمِلَك الآيةُ إلى مرادها.", en: "How many read the Qur'an seeking a ruling, and how few seeking wisdom! Between 'What did God command?' and 'Why did He command it?' lies a great distance. This opening article clarifies the concept of objective-based tafsīr and defines its term — the key to the whole series.", es: "¡Cuántos leen el Corán buscando un dictamen, y qué pocos buscando sabiduría! Entre «¿Qué ordenó Dios?» y «¿Por qué lo ordenó?» hay una gran distancia. Este artículo inaugural clarifica el concepto del tafsīr orientado a los fines y precisa su término —la llave de toda la serie." },
+    coverImage: '/articles/concept-and-term/cover.jpg',
   },
   {
     slug: 'tafsir-and-its-siblings',
-    coverImage: '/articles/tafsir-and-its-siblings.png',
     category: 'maqasid-tafsir',
     isoDate: '2026-05-28',
     date: { ar: 'يونيو ٢٠٢٦', en: 'June 2026', es: 'Junio de 2026' },
@@ -161,7 +170,6 @@ export const articlesMeta: ArticleMeta[] = [
   },
   {
     slug: 'origin-and-development',
-    coverImage: '/articles/origin-and-development.png',
     category: 'maqasid-tafsir',
     isoDate: '2026-05-27',
     date: { ar: 'يونيو ٢٠٢٦', en: 'June 2026', es: 'Junio de 2026' },
@@ -173,7 +181,6 @@ export const articlesMeta: ArticleMeta[] = [
   },
   {
     slug: 'grand-objectives-and-purpose',
-           coverImage: '/articles/grand-objectives-and-purpose.png',
     category: 'maqasid-tafsir',
     isoDate: '2026-05-26',
     date: { ar: 'يونيو ٢٠٢٦', en: 'June 2026', es: 'Junio de 2026' },
@@ -185,7 +192,6 @@ export const articlesMeta: ArticleMeta[] = [
   },
   {
     slug: 'scholars-and-figures',
-    coverImage: '/articles/scholars-and-figures.png',
     category: 'maqasid-tafsir',
     isoDate: '2026-05-25',
     date: { ar: 'يونيو ٢٠٢٦', en: 'June 2026', es: 'Junio de 2026' },
@@ -197,7 +203,6 @@ export const articlesMeta: ArticleMeta[] = [
   },
   {
     slug: 'principles-and-controls',
-    coverImage: '/articles/principles-and-controls.png',
     category: 'maqasid-tafsir',
     isoDate: '2026-05-24',
     date: { ar: 'يونيو ٢٠٢٦', en: 'June 2026', es: 'Junio de 2026' },
@@ -209,7 +214,6 @@ export const articlesMeta: ArticleMeta[] = [
   },
   {
     slug: 'fruit-of-study',
-    coverImage: '/articles/fruit-of-study.png',
     category: 'maqasid-tafsir',
     isoDate: '2026-05-23',
     date: { ar: 'يونيو ٢٠٢٦', en: 'June 2026', es: 'Junio de 2026' },
@@ -221,7 +225,6 @@ export const articlesMeta: ArticleMeta[] = [
   },
   {
     slug: 'behavioral-application',
-    coverImage: '/articles/behavioral-application.png',
     category: 'maqasid-tafsir',
     isoDate: '2026-05-22',
     date: { ar: 'يونيو ٢٠٢٦', en: 'June 2026', es: 'Junio de 2026' },
@@ -233,7 +236,6 @@ export const articlesMeta: ArticleMeta[] = [
   },
   {
     slug: 'social-application',
-    coverImage: '/articles/social-application.png',
     category: 'maqasid-tafsir',
     isoDate: '2026-05-21',
     date: { ar: 'يونيو ٢٠٢٦', en: 'June 2026', es: 'Junio de 2026' },
@@ -245,7 +247,6 @@ export const articlesMeta: ArticleMeta[] = [
   },
   {
     slug: 'psychological-application',
-    coverImage: '/articles/psychological-application.png',
     category: 'maqasid-tafsir',
     isoDate: '2026-05-20',
     date: { ar: 'يونيو ٢٠٢٦', en: 'June 2026', es: 'Junio de 2026' },
@@ -257,7 +258,6 @@ export const articlesMeta: ArticleMeta[] = [
   },
   {
     slug: 'kaaba-or-qibla',
-    coverImage: '/articles/kaaba-or-qibla.png',
     category: 'wisdom-insights',
     isoDate: '2026-05-31',
     date: { ar: '٣١ مايو ٢٠٢٦', en: 'May 31, 2026', es: '31 de mayo de 2026' },
@@ -286,7 +286,6 @@ export const articlesMeta: ArticleMeta[] = [
   },
   {
     slug: 'hearts-before-the-rows',
-    coverImage: '/articles/hearts-before-the-rows.png',
     category: 'wisdom-insights',
     isoDate: '2026-05-31',
     date: { ar: '٣١ مايو ٢٠٢٦', en: 'May 31, 2026', es: '31 de mayo de 2026' },
@@ -315,7 +314,6 @@ export const articlesMeta: ArticleMeta[] = [
   },
   {
     slug: 'the-appetite-for-obedience',
-    coverImage: '/articles/the-appetite-for-obedience.png',
     category: 'wisdom-insights',
     isoDate: '2026-05-31',
     date: { ar: '٣١ مايو ٢٠٢٦', en: 'May 31, 2026', es: '31 de mayo de 2026' },
@@ -344,7 +342,6 @@ export const articlesMeta: ArticleMeta[] = [
   },
   {
     slug: 'purification-before-the-meeting',
-    coverImage: '/articles/purification-before-the-meeting.png',
     category: 'wisdom-insights',
     isoDate: '2026-05-30',
     date: { ar: '٣٠ مايو ٢٠٢٦', en: 'May 30, 2026', es: '30 de mayo de 2026' },
@@ -373,7 +370,6 @@ export const articlesMeta: ArticleMeta[] = [
   },
   {
     slug: 'days-of-allah',
-    coverImage: '/articles/days-of-allah.png',
     category: 'wisdom-insights',
     isoDate: '2026-05-24',
     date: { ar: '٢٤ مايو ٢٠٢٦', en: 'May 24, 2026', es: '24 de mayo de 2026' },
@@ -402,7 +398,6 @@ export const articlesMeta: ArticleMeta[] = [
   },
   {
     slug: 'satan-and-man-goal-and-means',
-    coverImage: '/articles/satan-and-man-goal-and-means.png',
     category: 'wisdom-insights',
     isoDate: '2018-10-12',
     date: { ar: '١٢ أكتوبر ٢٠١٨', en: 'October 12, 2018', es: '12 de octubre de 2018' },
@@ -431,7 +426,6 @@ export const articlesMeta: ArticleMeta[] = [
   },
   {
     slug: 'nourishing-fatherhood',
-    coverImage: '/articles/nourishing-fatherhood.png',
     category: 'family',
     isoDate: '2026-05-20',
     date: { ar: '٢٠ مايو ٢٠٢٦', en: 'May 20, 2026', es: '20 de mayo de 2026' },
@@ -493,7 +487,6 @@ export const articlesMeta: ArticleMeta[] = [
   },
   {
     slug: 'engineering-of-hope',
-    coverImage: '/articles/engineering-of-hope.png',
     category: 'wisdom-insights',
     isoDate: '2026-05-24',
     date: { ar: '٢٤ مايو ٢٠٢٦', en: 'May 24, 2026', es: '24 de mayo de 2026' },
@@ -522,7 +515,6 @@ export const articlesMeta: ArticleMeta[] = [
   },
   {
     slug: 'island-of-quran',
-    coverImage: '/articles/island-of-quran.png',
     category: 'civilization',
     isoDate: '2026-02-06',
     date: { ar: '٦ فبراير ٢٠٢٦', en: 'February 6, 2026', es: '6 de febrero de 2026' },
@@ -551,7 +543,6 @@ export const articlesMeta: ArticleMeta[] = [
   },
   {
     slug: 'awakened-consciences',
-    coverImage: '/articles/awakened-consciences.png',
     category: 'wisdom-insights',
     isoDate: '2026-05-23',
     date: { ar: '٢٣ مايو ٢٠٢٦', en: 'May 23, 2026', es: '23 de mayo de 2026' },
@@ -580,7 +571,6 @@ export const articlesMeta: ArticleMeta[] = [
   },
   {
     slug: 'house-of-dawah-inherited-image-human-reality',
-    coverImage: '/articles/house-of-dawah-inherited-image-human-reality.png',
     category: 'imamship',
     isoDate: '2026-05-20',
     date: { ar: '٢٠ مايو ٢٠٢٦', en: 'May 20, 2026', es: '20 de mayo de 2026' },
@@ -774,7 +764,6 @@ export const articlesMeta: ArticleMeta[] = [
   },
   {
     slug: 'philosophy-of-displacement',
-    coverImage: '/articles/philosophy-of-displacement.png',
     category: 'civilization',
     isoDate: '2026-05-23',
     date: { ar: '٢٣ مايو ٢٠٢٦', en: 'May 23, 2026', es: '23 de mayo de 2026' },
@@ -803,7 +792,6 @@ export const articlesMeta: ArticleMeta[] = [
   },
   {
     slug: 'isra-and-the-civic-state',
-    coverImage: '/articles/isra-and-the-civic-state.png',
     category: 'civilization',
     isoDate: '2026-05-20',
     date: { ar: '٢٠ مايو ٢٠٢٦', en: 'May 20, 2026', es: '20 de mayo de 2026' },
@@ -832,7 +820,6 @@ export const articlesMeta: ArticleMeta[] = [
   },
   {
     slug: 'sunan-of-civilization',
-    coverImage: '/articles/sunan-of-civilization.png',
     category: 'civilization',
     isoDate: '2026-05-19',
     date: { ar: '١٩ مايو ٢٠٢٦', en: 'May 19, 2026', es: '19 de mayo de 2026' },
@@ -861,7 +848,6 @@ export const articlesMeta: ArticleMeta[] = [
   },
   {
     slug: 'hudhud-and-sayl',
-    coverImage: '/articles/hudhud-and-sayl.png',
     category: 'civilization',
     isoDate: '2026-05-18',
     date: { ar: '١٨ مايو ٢٠٢٦', en: 'May 18, 2026', es: '18 de mayo de 2026' },
@@ -890,7 +876,6 @@ export const articlesMeta: ArticleMeta[] = [
   },
   {
     slug: 'yusuf-diaspora-civilization',
-    coverImage: '/articles/yusuf-diaspora-civilization.png',
     category: 'civilization',
     isoDate: '2026-05-17',
     date: { ar: '١٧ مايو ٢٠٢٦', en: 'May 17, 2026', es: '17 de mayo de 2026' },
@@ -919,7 +904,6 @@ export const articlesMeta: ArticleMeta[] = [
   },
   {
     slug: 'fatwa-and-collective-voice',
-    coverImage: '/articles/fatwa-and-collective-voice.png',
     category: 'imamship',
     isoDate: '2026-05-16',
     date: { ar: '١٦ مايو ٢٠٢٦', en: 'May 16, 2026', es: '16 de mayo de 2026' },
@@ -948,7 +932,6 @@ export const articlesMeta: ArticleMeta[] = [
   },
   {
     slug: 'institutional-mind',
-    coverImage: '/articles/institutional-mind.png',
     category: 'imamship',
     isoDate: '2026-05-15',
     date: { ar: '١٥ مايو ٢٠٢٦', en: 'May 15, 2026', es: '15 de mayo de 2026' },
@@ -977,7 +960,6 @@ export const articlesMeta: ArticleMeta[] = [
   },
   {
     slug: 'crafting-the-modern-imam',
-    coverImage: '/articles/crafting-the-modern-imam.png',
     category: 'imamship',
     isoDate: '2026-05-14',
     date: { ar: '١٤ مايو ٢٠٢٦', en: 'May 14, 2026', es: '14 de mayo de 2026' },
@@ -1006,7 +988,6 @@ export const articlesMeta: ArticleMeta[] = [
   },
   {
     slug: 'imam-in-the-west',
-    coverImage: '/articles/imam-in-the-west.png',
     category: 'imamship',
     isoDate: '2026-05-13',
     date: { ar: '١٣ مايو ٢٠٢٦', en: 'May 13, 2026', es: '13 de mayo de 2026' },
@@ -1035,7 +1016,6 @@ export const articlesMeta: ArticleMeta[] = [
   },
   {
     slug: 'quran-civilization',
-    coverImage: '/articles/quran-civilization.png',
     category: 'civilization',
     isoDate: '2026-05-12',
     date: { ar: '١٢ مايو ٢٠٢٦', en: 'May 12, 2026', es: '12 de mayo de 2026' },
@@ -1082,6 +1062,7 @@ export const categoryLabels = {
     fiqh: 'فقه وفكر',
     'wisdom-insights': 'حِكَمٌ وبصائر',
     'maqasid-tafsir': 'التفسير المقاصدي',
+    'prophetic-light': 'قبسٌ من نور النبوّة',
   },
   en: {
     imamship: 'Imamship & Leadership',
@@ -1090,6 +1071,7 @@ export const categoryLabels = {
     fiqh: 'Jurisprudence',
     'wisdom-insights': 'Wisdoms & Insights',
     'maqasid-tafsir': 'Objective-Based Tafsīr',
+    'prophetic-light': 'Glimmers of Prophetic Light',
   },
   es: {
     imamship: 'Imamato y Liderazgo',
@@ -1098,5 +1080,6 @@ export const categoryLabels = {
     fiqh: 'Jurisprudencia y Pensamiento',
     'wisdom-insights': 'Sabidurías y Perspectivas',
     'maqasid-tafsir': 'Tafsīr orientado a los fines',
+    'prophetic-light': 'Destellos de la Luz Profética',
   },
 };
