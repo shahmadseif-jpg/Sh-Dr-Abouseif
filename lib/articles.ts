@@ -431,6 +431,7 @@ export const articlesMeta: ArticleMeta[] = [
   },
   {
     slug: 'nourishing-fatherhood',
+    coverImage: '/articles/nourishing-fatherhood.png',
     category: 'family',
     isoDate: '2026-05-20',
     date: { ar: '٢٠ مايو ٢٠٢٦', en: 'May 20, 2026', es: '20 de mayo de 2026' },
@@ -492,6 +493,7 @@ export const articlesMeta: ArticleMeta[] = [
   },
   {
     slug: 'engineering-of-hope',
+    coverImage: '/articles/engineering-of-hope.png',
     category: 'wisdom-insights',
     isoDate: '2026-05-24',
     date: { ar: '٢٤ مايو ٢٠٢٦', en: 'May 24, 2026', es: '24 de mayo de 2026' },
