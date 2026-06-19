@@ -3,7 +3,7 @@
     "name": "Imam Dr. Ahmed Abouseif",
     "title": "Imam Dr. Ahmed Abouseif - Doctor of Tafsīr & Qur'anic Sciences",
     "tagline": "Imam & Founder · American Imams Academy",
-    "description": "Official website of Imam Dr. Ahmed Mohamed Ali Abouseif, Doctor of Tafsīr and Qur'anic Sciences from Al-Azhar University, holder of connected Qur'anic ijazahs, and Founder and President of the American Imams Academy in Texas."
+    "description": "Official website of Imam Dr. Ahmed Abouseif, Doctor of Tafsīr and Qur'anic Sciences from Al-Azhar University, holder of connected Qur'anic ijazahs, and Founder and President of the American Imams Academy in Texas."
   },
   "nav": {
     "home": "Home",
@@ -16,6 +16,7 @@
     "gallery": "Moments",
     "consultations": "Consultations",
     "contact": "Contact",
+    "fatwa": "Fatwa Q&A",
     "language": "العربية",
     "maqasid": "Objective-Based Tafsīr",
     "search": "Search"
@@ -45,6 +46,7 @@
     "explore": "Explore this path",
     "count_label": "articles",
     "desc": {
+      "prophetic-light": "Glimmers from the Prophetic guidance on the jurisprudence of reform, steadfastness, and perseverance along the path of daʿwah.",
       "civilization": "A structural reading of the laws governing the rise and fall of nations as the Qur'an presents them, and the Muslim's jurisprudence in engaging his reality.",
       "wisdom-insights": "Qur'anic, educational reflections that carry the verse to the heart and to the human journey toward God.",
       "imamship": "Crafting the contemporary imam in the West — in knowledge, management, and pastoral care — and the issues of the daʿwah household.",
@@ -72,7 +74,7 @@
   "about": {
     "title": "Biography",
     "subtitle": "Scholarly and Da'wah Journey",
-    "intro": "Imam Dr. Ahmed Mohamed Ali Abouseif holds a Ph.D. in Tafsīr and Qur'anic Sciences from Al-Azhar University (2008), along with a Qur'anic ijazah in the recitation of Hafs through the Shāṭibiyyah and Ṭayyibah transmissions, with a connected isnād to the Prophet ﷺ. He is the Founder and President of the American Imams Academy in Plano, Texas (since March 2017), and serves as Imam and Director of Religious Affairs at the Academy's Mosque (since November 2021). His career spans more than three decades across imamate, university teaching, scholarly research, institutional leadership, and media engagement in both Egypt and the United States.",
+    "intro": "Imam Dr. Ahmed Abouseif holds a Ph.D. in Tafsīr and Qur'anic Sciences from Al-Azhar University (2008), along with a Qur'anic ijazah in the recitation of Hafs through the Shāṭibiyyah and Ṭayyibah transmissions, with a connected isnād to the Prophet ﷺ. He is the Founder and President of the American Imams Academy in Plano, Texas (since March 2017), and serves as Imam and Director of Religious Affairs at the Academy's Mosque (since November 2021). His career spans more than three decades across imamate, university teaching, scholarly research, institutional leadership, and media engagement in both Egypt and the United States.",
     "sections": {
       "academic": "Academic Qualifications & Ijazahs",
       "scholarly": "Scholarly & Media Contributions",
@@ -163,6 +165,29 @@
       "media": "Media Appearances"
     },
     "empty": "No images have been added yet. Stay tuned."
+  },
+  "fatwa": {
+    "title": "Islamic Q&A (Fatwa)",
+    "subtitle": "Send your Islamic question and it will reach the Imam directly. Answers follow established Shariah guidelines.",
+    "name": "Name",
+    "email": "Email",
+    "country": "Country (optional)",
+    "topic": "Question topic",
+    "chooseTopic": "Choose a topic",
+    "topics": ["Creed (Aqeedah)", "Purification & Prayer", "Fasting", "Zakah", "Hajj & Umrah", "Financial dealings", "Family matters (marriage/divorce)", "Tafsir & Quranic sciences", "Ethics & conduct", "Other"],
+    "answerLang": "Preferred answer language",
+    "answerLangs": ["Arabic", "English", "Spanish"],
+    "question": "Your question",
+    "namePlaceholder": "Your name",
+    "emailPlaceholder": "example@email.com",
+    "countryPlaceholder": "Country",
+    "questionPlaceholder": "Write your question clearly...",
+    "disclaimer": "Note: Answers are general scholarly opinions based on the information provided and do not replace direct consultation for complex or private matters. Selected questions and answers may later be published in the archive without your personal data.",
+    "consent": "I agree to the general handling of my question and publishing its answer in the archive without my personal data.",
+    "submit": "Send question",
+    "sending": "Sending...",
+    "success": "Your question was sent successfully and reached the Imam. May Allah reward you.",
+    "error": "Sending failed. Please try again or use the contact page."
   },
   "footer": {
     "rights": "All rights reserved",

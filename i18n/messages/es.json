@@ -3,7 +3,7 @@
     "name": "Imam Dr. Ahmed Abouseif",
     "title": "Imam Dr. Ahmed Abouseif - Doctor en Tafsīr y Ciencias Coránicas",
     "tagline": "Imam y Fundador · Academia Americana de Imames",
-    "description": "Sitio oficial del Imam Dr. Ahmed Mohamed Ali Abouseif, Doctor en Tafsīr y Ciencias Coránicas por la Universidad de Al-Azhar, portador de ijāzas coránicas con cadena de transmisión conectada, y Fundador y Presidente de la Academia Americana de Imames en Texas."
+    "description": "Sitio oficial del Imam Dr. Ahmed Abouseif, Doctor en Tafsīr y Ciencias Coránicas por la Universidad de Al-Azhar, portador de ijāzas coránicas con cadena de transmisión conectada, y Fundador y Presidente de la Academia Americana de Imames en Texas."
   },
   "nav": {
     "home": "Inicio",
@@ -16,6 +16,7 @@
     "gallery": "Momentos",
     "consultations": "Consultas",
     "contact": "Contacto",
+    "fatwa": "Fetuas",
     "language": "العربية",
     "maqasid": "Tafsīr orientado a los fines",
     "search": "Buscar"
@@ -45,6 +46,7 @@
     "explore": "Explorar este itinerario",
     "count_label": "artículos",
     "desc": {
+      "prophetic-light": "Destellos de la guía profética sobre la jurisprudencia de la reforma, la constancia y la perseverancia en el camino de la daʿwa.",
       "civilization": "Una lectura estructural de las leyes que rigen el auge y la caída de las naciones tal como las presenta el Corán, y la jurisprudencia del musulmán al afrontar su realidad.",
       "wisdom-insights": "Reflexiones coránicas y educativas que llevan el versículo al corazón y al viaje del ser humano hacia Dios.",
       "imamship": "La formación del imam contemporáneo en Occidente —en saber, gestión y acompañamiento— y las cuestiones del hogar de la daʿwa.",
@@ -72,7 +74,7 @@
   "about": {
     "title": "Biografía",
     "subtitle": "Trayectoria académica y de daʿwa",
-    "intro": "El Imam Dr. Ahmed Mohamed Ali Abouseif es Doctor en Tafsīr y Ciencias Coránicas por la Universidad de Al-Azhar (2008), con una ijāza coránica en la recitación de Ḥafṣ por las vías Shāṭibiyyah y Ṭayyibah, con cadena de transmisión (isnād) conectada hasta el Profeta ﷺ. Es Fundador y Presidente de la Academia Americana de Imames en Plano, Texas (desde marzo de 2017), y se desempeña como Imam y Director de Asuntos Religiosos de la Mezquita de la Academia (desde noviembre de 2021). Su trayectoria abarca más de tres décadas en el imamato, la docencia universitaria, la investigación académica, el liderazgo institucional y la labor mediática, tanto en Egipto como en los Estados Unidos.",
+    "intro": "El Imam Dr. Ahmed Abouseif es Doctor en Tafsīr y Ciencias Coránicas por la Universidad de Al-Azhar (2008), con una ijāza coránica en la recitación de Ḥafṣ por las vías Shāṭibiyyah y Ṭayyibah, con cadena de transmisión (isnād) conectada hasta el Profeta ﷺ. Es Fundador y Presidente de la Academia Americana de Imames en Plano, Texas (desde marzo de 2017), y se desempeña como Imam y Director de Asuntos Religiosos de la Mezquita de la Academia (desde noviembre de 2021). Su trayectoria abarca más de tres décadas en el imamato, la docencia universitaria, la investigación académica, el liderazgo institucional y la labor mediática, tanto en Egipto como en los Estados Unidos.",
     "sections": {
       "academic": "Titulaciones académicas e ijāzas",
       "scholarly": "Contribuciones académicas y mediáticas",
@@ -163,6 +165,29 @@
       "media": "Apariciones en medios"
     },
     "empty": "Aún no se han añadido imágenes. Vuelve pronto."
+  },
+  "fatwa": {
+    "title": "Consultas Islámicas (Fetua)",
+    "subtitle": "Envíe su pregunta islámica y llegará directamente al Imam. Las respuestas siguen las normas de la Sharía.",
+    "name": "Nombre",
+    "email": "Correo electrónico",
+    "country": "País (opcional)",
+    "topic": "Tema de la pregunta",
+    "chooseTopic": "Elija un tema",
+    "topics": ["Credo (Aqeedah)", "Purificación y oración", "Ayuno", "Zakah", "Hajj y Umrah", "Asuntos financieros", "Asuntos familiares (matrimonio/divorcio)", "Tafsir y ciencias del Corán", "Ética y conducta", "Otro"],
+    "answerLang": "Idioma de respuesta preferido",
+    "answerLangs": ["Árabe", "Inglés", "Español"],
+    "question": "Su pregunta",
+    "namePlaceholder": "Su nombre",
+    "emailPlaceholder": "example@email.com",
+    "countryPlaceholder": "País",
+    "questionPlaceholder": "Escriba su pregunta con claridad...",
+    "disclaimer": "Nota: Las respuestas son opiniones académicas generales basadas en la información proporcionada y no sustituyen una consulta directa en asuntos complejos o privados. Algunas preguntas y respuestas podrán publicarse en el archivo sin sus datos personales.",
+    "consent": "Acepto el tratamiento general de mi pregunta y la publicación de su respuesta en el archivo sin mis datos personales.",
+    "submit": "Enviar pregunta",
+    "sending": "Enviando...",
+    "success": "Su pregunta se envió correctamente y llegó al Imam. Que Allah le recompense.",
+    "error": "Error al enviar. Inténtelo de nuevo o use la página de contacto."
   },
   "footer": {
     "rights": "Todos los derechos reservados",
