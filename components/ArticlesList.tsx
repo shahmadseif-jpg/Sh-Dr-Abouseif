@@ -7,6 +7,7 @@ import { articlesMeta, categoryLabels, localize, type ArticleCategory, type Loc,
 // Display order of the reading paths (sections)
 const ORDER: ArticleCategory[] = [
   'maqasid-tafsir',
+  'prophetic-light',
   'civilization',
   'wisdom-insights',
   'imamship',
@@ -44,6 +45,11 @@ const PATH_DESC: Record<ArticleCategory, LocalizedText> = {
     ar: 'سلسلةٌ في قراءة القرآن على أساس مقاصده وغاياته.',
     en: "A series on reading the Qur'an in light of its higher objectives.",
     es: 'Una serie sobre la lectura del Corán a la luz de sus fines superiores.',
+  },
+  'prophetic-light': {
+    ar: 'قبساتٌ من الهَدْي النبويّ في فقه الإصلاح والثبات وطول النفس في الدعوة.',
+    en: 'Glimmers from the Prophetic guidance on reform, steadfastness, and perseverance in daʿwah.',
+    es: 'Destellos de la guía profética sobre la reforma, la constancia y la perseverancia en la daʿwa.',
   },
 };
 

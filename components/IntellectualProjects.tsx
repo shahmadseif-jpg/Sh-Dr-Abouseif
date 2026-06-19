@@ -6,6 +6,7 @@ import { articlesMeta, categoryLabels, type ArticleCategory, type Loc } from '@/
 
 // Display order of the reading paths (only those that have articles are shown)
 const ORDER: ArticleCategory[] = [
+  'prophetic-light',
   'civilization',
   'wisdom-insights',
   'imamship',
