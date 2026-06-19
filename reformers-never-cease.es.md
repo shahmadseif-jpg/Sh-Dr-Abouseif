@@ -185,3 +185,10 @@ Y sabe que cesar del intento es el verdadero fracaso, mientras que el intento si
 Avanza, pues; que la siembra que plantas hoy puede volverse una sombra bajo la que se cobije quien venga después de ti. Y la luz que portas puede que no veas toda su extensión, pero no se apaga si está tomada de la luz de la profecía. La heredan, más bien, los que marchan por el sendero, generación tras generación, hasta que Dios herede la tierra y a quienes están sobre ella.
 
 Pues los reformadores no cesan de intentarlo; porque saben que el camino hacia Dios no lo corta un instante de desesperación, que la transmisión es una adoración, que la guía es un favor, que el fruto es una promesa, que lo que fue por Dios permanece aunque se retrase su aparición, y que Dios no echa a perder la recompensa de quien obra bien.
+
+
+## Una palabra final
+
+Nuestra emigración a América o a otro lugar no es la zona segura; pues allí un futuro amenaza a los hijos, la estabilidad familiar, la seguridad psicológica y la sensatez de la decisión. Y entre estas ganancias corporales, económicas y de entretenimiento se halla lo que viene más allá de ellas: que el entorno se trague a nuestras generaciones sucesivas.
+
+El discurso ahora se dirige a todo aquel a quien se llama a liderar instituciones pequeñas y grandes, y a todo aquel que cuida de un niño o sostiene a una mujer: el asunto ya no se limita al mero llamado a preservar la religión; más bien, se ha vuelto imperativo que nos exhortemos a nosotros mismos a considerar las consecuencias y los desenlaces, y a planificar el futuro —para un mañana que llegará sin falta y vendrá sin duda; pero ¿sobre qué realidad nuestra, y en qué estado? Y Dios es quien mejor sabe.

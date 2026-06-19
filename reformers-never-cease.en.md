@@ -185,3 +185,10 @@ And know that ceasing to try is the real failure, while the sincere attempt is n
 So proceed; for the planting you plant today may become a shade in which one after you takes shelter. The light you carry you may not see in its full reach, but it does not go out if it is kindled from the light of prophethood. It is inherited by those who travel the path, generation after generation, until God inherits the earth and all upon it.
 
 For reformers never cease to try; because they know that the road to God is not severed by a moment of despair, that conveyance is an act of worship, that guidance is a bounty, that the fruit is a promise, that what was for God remains even if its appearance is delayed, and that God does not waste the reward of one who does good work.
+
+
+## A Final Word
+
+Our emigration to America or elsewhere is not the safe zone; for there a future threatens our children, the stability of the family, psychological security, and soundness of judgment. And amid these bodily, financial, and recreational gains lies what comes beyond them: the environment's swallowing up of our successive generations.
+
+The address now is to everyone called to leadership in institutions great and small, and to everyone who cares for a child or provides for a woman: the matter is no longer confined to merely calling for the preservation of religion; rather it has become imperative that we summon ourselves to consider consequences and outcomes, and to plan for the future — for a tomorrow that will come without fail and arrive without doubt; yet upon what reality of ours, and in what state? And God knows best.
