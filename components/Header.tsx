@@ -20,8 +20,7 @@ export default function Header() {
     { href: '/events', label: t('events') },
     { href: '/gallery', label: t('gallery') },
     { href: '/consultations', label: t('consultations'), highlight: true },
-    { href: '/qa', label: t('qa') },
-    { href: '/fatwa', label: t('fatwa'), highlight: true },
+    { href: '/qa', label: t('qa'), highlight: true },
     { href: '/contact', label: t('contact') },
   ];
 

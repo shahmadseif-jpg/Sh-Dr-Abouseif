@@ -166,12 +166,12 @@ export default function QAList() {
       <div className="mt-12 rounded-xl border border-gold-200 bg-gold-50 p-8 text-center">
         <h3 className="text-xl font-medium text-navy-700 mb-2">{t.ask_title}</h3>
         <p className="text-navy-600 leading-relaxed mb-5 max-w-xl mx-auto">{t.ask_body}</p>
-        <Link
-          href={`/${locale}/fatwa`}
+        <a
+          href="#ask"
           className="inline-flex items-center gap-2 rounded-full bg-navy-700 px-6 py-2.5 text-sm font-medium text-white hover:bg-navy-800 transition-colors no-underline"
         >
           {t.ask_cta}
-        </Link>
+        </a>
       </div>
     </div>
   );
