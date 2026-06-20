@@ -140,7 +140,7 @@ export default async function QADetailPage({
         {/* Ask CTA */}
         <div className="mt-10 rounded-xl border border-navy-100 bg-navy-50/50 p-6 text-center">
           <Link
-            href={`/${locale}/fatwa`}
+            href={`/${locale}/qa#ask`}
             className="inline-flex items-center gap-2 rounded-full bg-navy-700 px-6 py-2.5 text-sm font-medium text-white hover:bg-navy-800 transition-colors no-underline"
           >
             {t.ask}
