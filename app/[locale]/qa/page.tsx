@@ -1,5 +1,6 @@
 import { setRequestLocale } from 'next-intl/server';
 import QAList from '@/components/QAList';
+import FatwaContent from '@/components/FatwaContent';
 
 const TXT = {
   ar: {
@@ -46,6 +47,11 @@ export default async function QAPage({
           <p className="text-lg text-navy-600 max-w-2xl mx-auto leading-relaxed">{t.subtitle}</p>
         </div>
         <QAList />
+      </div>
+
+      {/* Ask form — questions submitted here arrive at the Shaykh's email */}
+      <div id="ask" className="scroll-mt-24 mt-8 border-t border-navy-100">
+        <FatwaContent />
       </div>
     </div>
   );
