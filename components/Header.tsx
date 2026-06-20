@@ -18,7 +18,6 @@ export default function Header() {
     { href: '/khawatir', label: t('khawatir') },
     { href: '/research', label: t('research') },
     { href: '/events', label: t('events') },
-    { href: '/gallery', label: t('gallery') },
     { href: '/consultations', label: t('consultations'), highlight: true },
     { href: '/qa', label: t('qa'), highlight: true },
     { href: '/contact', label: t('contact') },
