@@ -32,11 +32,29 @@ export default function FatwaContent() {
     const payload: Record<string, string> = {};
     fd.forEach((v, k) => (payload[k] = String(v)));
     payload.uiLang = locale;
+    // Send straight from the browser to FormSubmit (server-side POSTs are
+    // rejected with 403). The first submission triggers a one-time activation
+    // email to the receiving address; after it is confirmed, all questions
+    // arrive automatically.
+    const RECEIVER = 'shahmadseif@gmail.com';
+    const data: Record<string, string> = {
+      'الاسم / Name': payload.name || '',
+      'البريد / Email': payload.email || '',
+      'الدولة / Country': payload.country || '—',
+      'الموضوع / Topic': payload.topic || '',
+      'لغة الإجابة / Answer language': payload.answerLang || '—',
+      'لغة الواجهة / UI language': payload.uiLang || '',
+      'السؤال / Question': payload.question || '',
+      _subject: `سؤال شرعي جديد من الموقع — ${payload.topic || ''}`,
+      _template: 'table',
+      _captcha: 'false',
+      _replyto: payload.email || '',
+    };
     try {
-      const res = await fetch('/api/fatwa', {
+      const res = await fetch(`https://formsubmit.co/ajax/${RECEIVER}`, {
         method: 'POST',
-        headers: { 'Content-Type': 'application/json' },
-        body: JSON.stringify(payload),
+        headers: { 'Content-Type': 'application/json', Accept: 'application/json' },
+        body: JSON.stringify(data),
       });
       if (!res.ok) throw new Error('bad status ' + res.status);
       setStatus('ok');
