@@ -11,6 +11,9 @@ import {
 } from '@/lib/research';
 import { getResearchBody } from '@/lib/research-server';
 import { localize } from '@/lib/articles';
+import { SITE_URL } from '@/lib/site';
+import ReadingTools from '@/components/ReadingTools';
+import CiteThis from '@/components/CiteThis';
 
 export async function generateStaticParams() {
   return researchMeta
@@ -80,8 +83,14 @@ export default async function ResearchItemPage({
   const body = getResearchBody(slug, locale);
   const fullTextLabel = loc === 'ar' ? 'النص الكامل' : loc === 'es' ? 'Texto completo' : 'Full Text';
 
+  const related = researchMeta
+    .filter((r) => !r.draft && r.slug !== slug && r.category === item.category)
+    .slice(0, 3);
+  const relatedLabel = loc === 'ar' ? 'أبحاثٌ ذات صلة' : loc === 'es' ? 'Investigaciones relacionadas' : 'Related research';
+
   return (
     <article className="py-12 sm:py-16">
+      <ReadingTools />
       <div className="mx-auto max-w-3xl px-4 sm:px-6 lg:px-8">
         {/* Back link */}
         <Link
@@ -298,13 +307,40 @@ export default async function ResearchItemPage({
           </div>
         )}
 
-        {/* Citation block */}
-        <div className="mt-10 pt-8 border-t border-navy-100">
-          <h3 className="text-sm font-medium text-navy-500 mb-3">{t('how_to_cite')}</h3>
-          <pre className="bg-navy-50 text-navy-800 text-xs p-4 rounded-md overflow-x-auto leading-relaxed whitespace-pre-wrap">
-{`${locale === 'ar' ? 'أبو سيف' : 'Abouseif'}, ${locale === 'ar' ? 'أحمد' : 'A.'}. (${item.year}). ${localize(item.title, locale)}. ${localize(item.venue, locale)}.`}
-          </pre>
-        </div>
+        {/* Citation block — APA / Chicago / BibTeX + Google Scholar */}
+        <CiteThis
+          title={localize(item.title, locale)}
+          year={item.year}
+          venue={localize(item.venue, locale)}
+          publisher={item.publisher ? localize(item.publisher, locale) : undefined}
+          pages={item.pages}
+          doi={item.doi}
+          url={`${SITE_URL}/${locale}/research/${slug}`}
+          locale={locale}
+        />
+
+        {/* Related research */}
+        {related.length > 0 && (
+          <div className="mt-12 pt-8 border-t border-navy-100">
+            <h3 className="text-lg font-medium text-navy-700 mb-5">{relatedLabel}</h3>
+            <div className="grid grid-cols-1 sm:grid-cols-2 gap-4">
+              {related.map((r) => (
+                <Link
+                  key={r.slug}
+                  href={`/research/${r.slug}`}
+                  className="block bg-white border border-navy-100 rounded-lg p-5 card-hover no-underline"
+                >
+                  <div className="text-xs uppercase tracking-wider text-gold-500 mb-2">
+                    {researchCategoryLabels[loc][r.category]}
+                  </div>
+                  <div className="text-base font-medium text-navy-700 leading-snug">
+                    {localize(r.title, locale)}
+                  </div>
+                </Link>
+              ))}
+            </div>
+          </div>
+        )}
       </div>
     </article>
   );
