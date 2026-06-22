@@ -3,6 +3,7 @@
 import { useTranslations, useLocale } from 'next-intl';
 import { Link } from '@/i18n/routing';
 import { siteConfig } from '@/lib/site-config';
+import Newsletter from './Newsletter';
 
 export default function Footer() {
   const t = useTranslations();
@@ -10,8 +11,12 @@ export default function Footer() {
   const year = new Date().getFullYear();
 
   return (
-    <footer className="border-t border-navy-100 bg-navy-50/30 mt-16">
+    <footer className="border-t border-navy-100 bg-navy-50/30 mt-16 print:hidden">
       <div className="mx-auto max-w-container px-4 sm:px-6 lg:px-8 py-12">
+        <div className="mb-10 pb-8 border-b border-navy-100">
+          <Newsletter />
+        </div>
+
         <div className="grid grid-cols-1 md:grid-cols-4 gap-8 mb-8">
           <div className="md:col-span-2">
             <div className="flex items-center gap-3 mb-4">
