@@ -303,7 +303,7 @@ export const researchMeta: ResearchMeta[] = [
       en: 'In collaboration with the College of Sharia and Islamic Studies, Qatar University, and the American Imams Academy — Theme: "Islamic and Arabic Studies in the Age of Artificial Intelligence: Challenges and Horizons"',
       es: 'En colaboración con la Facultad de Sharía y Estudios Islámicos de la Universidad de Qatar y la Academia Americana de Imames — Eje: «Los estudios islámicos y árabes en la era de la inteligencia artificial: desafíos y horizontes»',
     },
-    pages: 23,
+    pages: 28,
     language: 'ar',
     pdfUrl: '/research/tafsir-renewal-and-ai/paper.pdf',
     coverImage: '/research/tafsir-renewal-and-ai/cover.jpg',
