@@ -7,6 +7,7 @@ import { getArticleMeta, getAllArticles, categoryLabels, localize, type Loc } fr
 import { getArticleBody } from '@/lib/articles-server';
 import { SITE_URL, SITE_NAME, SITE_ORG } from '@/lib/site';
 import ShareButtons from '@/components/ShareButtons';
+import ReadingTools from '@/components/ReadingTools';
 import { ReactNode } from 'react';
 
 export const dynamic = 'force-dynamic';
@@ -108,6 +109,7 @@ export default async function ArticlePage({
 
   return (
     <article className="py-12 sm:py-16">
+      <ReadingTools />
       <script
         type="application/ld+json"
         dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
