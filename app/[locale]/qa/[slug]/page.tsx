@@ -17,9 +17,9 @@ import ShareButtons from '@/components/ShareButtons';
 export const dynamic = 'force-dynamic';
 
 const TXT = {
-  ar: { back: 'العودة إلى سؤال وجواب', answer: 'إجابة الشيخ', more: 'أسئلةٌ ذاتُ صلة', ask: 'أرسل سؤالك' },
-  en: { back: 'Back to Q&A', answer: 'The Shaykh’s answer', more: 'Related questions', ask: 'Ask your question' },
-  es: { back: 'Volver a Preguntas y Respuestas', answer: 'La respuesta del Shaykh', more: 'Preguntas relacionadas', ask: 'Envía tu pregunta' },
+  ar: { back: 'العودة إلى سؤال وجواب', question: 'السؤال', answer: 'إجابة الشيخ', more: 'أسئلةٌ ذاتُ صلة', ask: 'أرسل سؤالك' },
+  en: { back: 'Back to Q&A', question: 'The question', answer: 'The Shaykh’s answer', more: 'Related questions', ask: 'Ask your question' },
+  es: { back: 'Volver a Preguntas y Respuestas', question: 'La pregunta', answer: 'La respuesta del Shaykh', more: 'Preguntas relacionadas', ask: 'Envía tu pregunta' },
 };
 
 export async function generateMetadata({
@@ -120,6 +120,16 @@ export default async function QADetailPage({
               <span>{localize(meta.origin, lang)}</span>
             </>
           )}
+        </div>
+
+        {/* The question (as asked) */}
+        <div className="mb-10">
+          <div className="mb-3 inline-flex items-center gap-2 rounded-full bg-navy-50 border border-navy-200 px-4 py-1.5 text-sm font-medium text-navy-700">
+            {t.question}
+          </div>
+          <div className="rounded-xl border border-navy-100 bg-navy-50/40 p-5 text-base sm:text-lg text-navy-700 leading-loose whitespace-pre-line">
+            {localize(meta.questionFull ?? meta.question, lang)}
+          </div>
         </div>
 
         {/* Answer label */}
