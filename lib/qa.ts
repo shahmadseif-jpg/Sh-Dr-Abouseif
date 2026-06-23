@@ -24,6 +24,8 @@ export interface QAMeta {
   date: LocalizedText;
   /** The question itself (used as the card title and page H1). */
   question: LocalizedText;
+  /** Optional: the full original wording of the question, shown in a box above the answer. */
+  questionFull?: LocalizedText;
   /** A short summary of the answer, shown on cards and in search. */
   summary: LocalizedText;
   /** Optional: questioner's country/city, displayed discreetly. */
@@ -94,6 +96,11 @@ export const qaMeta: QAMeta[] = [
       ar: 'ما حدود الخروج وممنوعات العدّة للمرأة المتوفّى عنها زوجها؟',
       en: 'What are the limits of going out and the restrictions of the ʿiddah for a widow?',
       es: '¿Cuáles son los límites de salir y las restricciones de la ʿidda para una viuda?',
+    },
+    questionFull: {
+      ar: 'السلام عليكم شيخ أحمد. أسأل عن ممنوعات وقت العدّة، فكلُّ شيخٍ — بحسب اجتهاده وعلمه — يقول نعم أو لا في أشياء مختلفة، حتى احترتُ. هل يجوز أن أبيت عند ابنتي، وهي على بُعد ساعتين إلا ربعًا من بيتي؟ وهل أسافر للعمرة مع شريف؟ وهل أزور المقبرة؟ ولو كنتُ عند ابنتي فخرجت هي وأولادها إلى مطعم، هل أذهب معهم؟ ولستُ أدري ما المسموح وغير المسموح على وجه التحديد، وهل لفقه المغتربين خصوصيةٌ في ذلك؟ جزاكم الله خيرًا، وإن كان ثَمّ ما يُفيدني في الباب فأرجو إضافته.',
+      en: 'Peace be upon you, Shaykh Ahmed. I am asking about what is prohibited during the ʿiddah. Every shaykh — according to his own reasoning and knowledge — says yes or no to different things, until I have become confused. May I spend the night at my daughter’s home, which is about two hours and forty-five minutes from my house? May I travel for ʿumrah with Sharif? May I visit the cemetery? And if I am at my daughter’s and she goes out with her children to a restaurant, may I go with them? I honestly do not know exactly what is permitted and what is not, and whether the fiqh of those living abroad has any particularity in this. May God reward you, and if there is anything else of benefit in this matter, please add it.',
+      es: 'La paz sea contigo, Shaykh Ahmed. Pregunto sobre lo que está prohibido durante la ʿidda. Cada shaykh —según su propio razonamiento y conocimiento— dice sí o no a cosas distintas, hasta el punto de que me he confundido. ¿Puedo pernoctar en casa de mi hija, que está a unas dos horas y cuarenta y cinco minutos de mi casa? ¿Puedo viajar para la ʿumra con Sharif? ¿Puedo visitar el cementerio? Y si estoy en casa de mi hija y ella sale con sus hijos a un restaurante, ¿puedo ir con ellos? Sinceramente no sé exactamente qué está permitido y qué no, y si el fiqh de quienes viven en el extranjero tiene alguna particularidad en esto. Que Dios te recompense, y si hay algo más de beneficio en este asunto, por favor añádelo.',
     },
     summary: {
       ar: 'العدّة وفاءٌ وسكينةٌ لا حبسٌ ولا تهمة؛ فيُمنع خروج الزينة والتبرّج، ويُباح الخروج نهارًا للحاجة وما يُؤنس القلب مع المبيت في البيت.',
