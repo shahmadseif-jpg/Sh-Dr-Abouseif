@@ -85,6 +85,23 @@ export const qaMeta: QAMeta[] = [
     },
     tags: ['زكاة الفطر', 'فقه', 'الغرب', 'نقد'],
   },
+  {
+    slug: 'widow-iddah-leaving-home',
+    category: 'family',
+    isoDate: '2026-06-22',
+    date: { ar: 'يونيو ٢٠٢٦', en: 'June 2026', es: 'Junio de 2026' },
+    question: {
+      ar: 'ما حدود الخروج وممنوعات العدّة للمرأة المتوفّى عنها زوجها؟',
+      en: 'What are the limits of going out and the restrictions of the ʿiddah for a widow?',
+      es: '¿Cuáles son los límites de salir y las restricciones de la ʿidda para una viuda?',
+    },
+    summary: {
+      ar: 'العدّة وفاءٌ وسكينةٌ لا حبسٌ ولا تهمة؛ فيُمنع خروج الزينة والتبرّج، ويُباح الخروج نهارًا للحاجة وما يُؤنس القلب مع المبيت في البيت.',
+      en: 'The ʿiddah is fidelity and tranquility, not confinement or suspicion; the going-out of adornment is forbidden, while leaving by day for need and comfort is permitted, with the night spent at home.',
+      es: 'La ʿidda es fidelidad y serenidad, no encierro ni sospecha; se prohíbe la salida del adorno, y se permite salir de día para la necesidad y el consuelo, pernoctando en casa.',
+    },
+    tags: ['العدة', 'الإحداد', 'المتوفى عنها زوجها', 'مقاصد', 'الغرب', 'فقه الأسرة'],
+  },
 ];
 
 export function getAllQA(): QAMeta[] {
