@@ -41,7 +41,10 @@ export default async function LatestVideos() {
               rel="noopener noreferrer"
               className="card-hover group bg-white rounded-lg overflow-hidden border border-navy-100 no-underline"
             >
-              <div className="aspect-video bg-navy-100 overflow-hidden relative">
+              <div
+                className="aspect-video bg-navy-100 overflow-hidden relative bg-cover bg-center"
+                style={{ backgroundImage: `url(${video.thumbnailFallback})` }}
+              >
                 <img
                   src={video.thumbnail}
                   alt={video.title}
