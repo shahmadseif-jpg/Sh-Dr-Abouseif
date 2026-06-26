@@ -37,6 +37,29 @@ export interface ArticleMeta {
 }
 
 export const articlesMeta: ArticleMeta[] = [
+  // ===== مقال: عَتبةُ السِّلْم — قراءةٌ في مِحْور سورة البقرة (التفسير المقاصدي) =====
+  {
+    slug: 'threshold-of-peace-baqarah',
+    category: 'maqasid-tafsir',
+    isoDate: '2026-06-25',
+    date: { ar: 'يونيو ٢٠٢٦', en: 'June 2026', es: 'Junio de 2026' },
+    readingMinutes: 7,
+    title: {
+      ar: 'عَتبةُ السِّلْم: قراءةٌ في مِحْور سورة البقرة',
+      en: 'The Threshold of Peace: A Reading in the Axis of Sūrat al-Baqara',
+      es: 'El umbral de la paz: una lectura en el eje de la sura al-Baqara',
+    },
+    subtitle: {
+      ar: 'كيف تدور أطولُ سُوَر القرآن على آيةٍ واحدة: ﴿ادْخُلُوا فِي السِّلْمِ كَافَّةً﴾',
+      en: 'How the longest sūra of the Qurʾan turns upon a single verse: ﴿Enter into peace wholly﴾',
+      es: 'Cómo la sura más larga del Corán gira en torno a una sola aleya: ﴿Entrad en la paz por completo﴾',
+    },
+    excerpt: {
+      ar: 'في أطولِ سُوَر القرآن يقف نداءٌ جامع: ﴿ادْخُلُوا فِي السِّلْمِ كَافَّةً﴾؛ فما قبله تأسيسٌ وبناءُ أركان، وما بعده توجيهٌ وتربيةٌ وصيانة. قراءةٌ مقاصديّةٌ بنيويّةٌ تكشف سورةَ البقرة بناءً واحداً مُحكَماً يدور على «الدخول في الدِّين كلِّه» لا في أبعاضه.',
+      en: 'At the heart of the Qurʾan’s longest sura stands a gathering call: ﴿Enter into peace wholly﴾. What precedes it founds and builds the pillars; what follows guides, nurtures, and safeguards. A purpose-oriented, structural reading unveils Sūrat al-Baqara as one masterfully woven edifice turning upon entry into the whole of the religion, not its fragments.',
+      es: 'En el corazón de la sura más larga del Corán se alza una llamada que todo lo reúne: ﴿Entrad en la paz por completo﴾. Lo que la precede funda y edifica los pilares; lo que la sigue orienta, educa y preserva. Una lectura estructural y orientada a las finalidades revela la sura al-Baqara como un edificio magistralmente trabado que gira en torno a la entrada en la religión entera, no en sus fragmentos.',
+    },
+  },
   // ===== مقال: المصلحون لا يكفّون عن المحاولة (قبسٌ من نور النبوّة) =====
   {
     slug: 'reformers-never-cease',
