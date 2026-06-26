@@ -51,6 +51,10 @@ const OTHER_SPEAKER_PATTERNS: RegExp[] = [
   /\bbro\.\s/i,       // "Bro. "
   /الأخ\s+\S+/,       // الأخ + اسم
   /الأخت\s+\S+/,      // الأخت + اسم
+  // Independent khutbah by a guest speaker (not Dr. Abouseif).
+  // Note: joint works (e.g. with Dr. Abdul-Bari Mish'al) are intentionally kept.
+  /عماد\s*فاضل/,      // د. عماد فاضل
+  /\bfadh?[ei]l\b/i,  // "Fadhel" / "Fadel" (English transliteration)
 ];
 
 /**
