@@ -37,6 +37,29 @@ export interface ArticleMeta {
 }
 
 export const articlesMeta: ArticleMeta[] = [
+  // ===== مقال: كلٌّ يعمل على شاكلته (حِكَمٌ وبصائر) =====
+  {
+    slug: 'everyone-acts-by-his-nature',
+    category: 'wisdom-insights',
+    isoDate: '2026-06-25',
+    date: { ar: 'يونيو ٢٠٢٦', en: 'June 2026', es: 'Junio de 2026' },
+    readingMinutes: 9,
+    title: {
+      ar: 'كلٌّ يعمل على شاكلته',
+      en: 'Everyone Acts According to His Own Nature',
+      es: 'Cada uno obra según su propia índole',
+    },
+    subtitle: {
+      ar: 'في الصبر على أذى الأقران، وأنّ كلامَ الأقران يُطوى ولا يُروى',
+      en: 'On patient endurance of the harm of peers, and that the talk of peers is folded, not retold',
+      es: 'Sobre la paciencia ante el agravio de los pares, y que la crítica entre pares se pliega y no se transmite',
+    },
+    excerpt: {
+      ar: 'ما جُرحٌ كجُرحِ الكلمةِ تخرج من فمِ قريب. تأمّلٌ تربويٌّ في الصبر على أذى الأقران، يرتكز على آية ﴿قُلْ كُلٌّ يَعْمَلُ عَلَى شَاكِلَتِهِ﴾ وقاعدةِ النُّقّاد «كلامُ الأقران يُطوى ولا يُروى»، ويسوق من سِيَر البخاريِّ وأحمدَ والطبريِّ وابنِ حبّان شواهدَ أنّ الزَّبَد يذهب جُفاءً وأنّ العلمَ الخالصَ يَبقى — مع ميزانٍ يحفظ بابَ النصيحة الصادقة.',
+      en: 'No wound is like the wound of a word from the mouth of a kinsman. A reflection on patient endurance of the harm of peers, anchored in ﴿Say, each acts according to his own nature﴿ and the critics’ rule that the talk of peers is folded, not retold — drawing on the trials of al-Bukhārī, Aḥmad, al-Ṭabarī, and Ibn Ḥibbān to show that froth vanishes while pure knowledge endures, with a balance that keeps the door of honest counsel open.',
+      es: 'No hay herida como la herida de una palabra salida de la boca de un allegado. Una reflexión sobre la paciencia ante el agravio de los pares, anclada en ﴿Di: cada uno obra según su propia índole﴿ y en la regla de los críticos de que la crítica entre pares se pliega y no se transmite —con los ejemplos de al-Bujārī, Aḥmad, al-Ṭabarī e Ibn Ḥibbān para mostrar que la espuma se desvanece y el saber puro permanece, junto a un fiel que preserva la puerta del consejo sincero.',
+    },
+  },
   // ===== مقال: عَتبةُ السِّلْم — قراءةٌ في مِحْور سورة البقرة (التفسير المقاصدي) =====
   {
     slug: 'threshold-of-peace-baqarah',
