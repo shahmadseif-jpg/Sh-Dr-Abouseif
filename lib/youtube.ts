@@ -15,6 +15,9 @@ export interface YouTubeVideo {
   description: string;
   publishedAt: string;
   thumbnail: string;
+  /** Lower-res 4:3 fallback shown behind the 16:9 maxres thumbnail
+   *  in case the video has no maxresdefault image. */
+  thumbnailFallback: string;
   url: string;
   language?: 'ar' | 'en';
   type?: VideoType;
@@ -141,7 +144,8 @@ export async function fetchLatestVideos(limit = 6): Promise<YouTubeVideo[]> {
         description:
           typeof description === 'string' ? description.slice(0, 200) : '',
         publishedAt: entry.published || '',
-        thumbnail: `https://i.ytimg.com/vi/${videoId}/hqdefault.jpg`,
+        thumbnail: `https://i.ytimg.com/vi/${videoId}/maxresdefault.jpg`,
+        thumbnailFallback: `https://i.ytimg.com/vi/${videoId}/hqdefault.jpg`,
         url: `https://www.youtube.com/watch?v=${videoId}`,
         language: detectLanguage(titleText),
         type: detectType(titleText),
