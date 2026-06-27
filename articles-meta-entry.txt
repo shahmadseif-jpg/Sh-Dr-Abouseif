@@ -1,0 +1,25 @@
+// ===== مقال: حين تُبنى البيوتُ على الثقة (دروس من الهجرة) =====
+// أضف هذا الكائن إلى مصفوفة articlesMeta في lib/articles.ts
+// (يُفضَّل وضعه في أعلى المصفوفة ليظهر ضمن الأحدث)
+  {
+    slug: 'homes-built-on-trust',
+    category: 'family',
+    isoDate: '2026-06-26',
+    date: { ar: 'يونيو ٢٠٢٦', en: 'June 2026', es: 'Junio de 2026' },
+    readingMinutes: 10,
+    title: {
+      ar: "حين تُبنى البيوتُ على الثقة: دروسٌ من الهجرة",
+      en: "When Homes Are Built on Trust: Lessons from the Hijra",
+      es: "Cuando los hogares se edifican sobre la confianza: lecciones de la Hégira",
+    },
+    subtitle: {
+      ar: "من نماذج الهجرة المباركة: قصّةُ بيتٍ لا تَهزُّه ريحُ الشدائد، وسِترٍ يَسوقُ اللهُ له جنودَه",
+      en: "A model of the blessed emigration: the story of a home unshaken by the winds of hardship, and a shelter for which God musters His soldiers",
+      es: "Un ejemplo de la emigración bendita: la historia de un hogar que los vientos de la adversidad no estremecen, y un amparo para el que Dios moviliza Sus ejércitos",
+    },
+    excerpt: {
+      ar: "نقرأُ الهجرةَ عادةً مَلحمةَ دمٍ وتضحية، لكنّ بيتَ أبي سلمةَ وأمِّ سلمةَ يَفتح باباً آخَر: الهجرةُ مدرسةٌ في الزواج الراسخ، وآيةٌ من آيات سِتر الله. تُمزَّق الأسرةُ شَملاً — زوجٌ في المدينة، وطفلٌ مخلوعُ اليد، وأمٌّ تبكي عاماً في الأبطح — ثمّ يَسوق اللهُ لأمِّ سلمةَ في وحدتها حارساً من المعسكر المُضادِّ نفسِه: مشركٌ من قريش يَحفظ عِرضَها حتى يُبلغها زوجَها. مقالٌ يُقرّر أنّ صَونَ المرأة بدينها وعقلها لا بالجُدران والحُرّاس، وأنّ البيوت إنّما تُبنى على الثقة لا على الرِّيبة، وأنّ مَن صَدَق مع الله سَتَره ولو في عُريِ الصحراء.",
+      en: "We usually read the Hijra as an epic of blood and sacrifice — but the household of Abū Salama and Umm Salama opens another door: the Hijra as a school of steadfast marriage and a sign of God's sheltering. The family is torn apart — a husband in Medina, a child with a dislocated arm, a mother weeping for a year in al-Abṭaḥ — and then, in her solitude, God sends Umm Salama a guardian from the opposing camp itself: an idolater of Quraysh who guards her honor until he delivers her to her husband. The article argues that a woman is safeguarded by her religion and reason, not by walls and guards; that homes are built on trust, not suspicion; and that whoever is true with God, He shelters even in the bareness of the desert.",
+      es: "Solemos leer la Hégira como una epopeya de sangre y sacrificio, pero el hogar de Abū Salama y Umm Salama abre otra puerta: la Hégira como escuela de matrimonio firme y signo del amparo de Dios. La familia es desgarrada —un esposo en Medina, un niño con el brazo dislocado, una madre que llora un año en al-Abṭaḥ— y entonces, en su soledad, Dios envía a Umm Salama un guardián del propio bando contrario: un idólatra de Quraysh que guarda su honor hasta entregarla a su esposo. El artículo sostiene que a la mujer la preserva su religión y su razón, no los muros y los guardianes; que los hogares se edifican sobre la confianza y no sobre la sospecha; y que a quien es sincero con Dios, Él lo ampara aunque sea en la desnudez del desierto.",
+    },
+  },
