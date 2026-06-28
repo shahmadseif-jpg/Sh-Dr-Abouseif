@@ -13,7 +13,6 @@ export default function Header() {
   const navItems = [
     { href: '/', label: t('home') },
     { href: '/about', label: t('about') },
-    { href: '/cv', label: t('cv') },
     { href: '/lectures', label: t('lectures') },
     { href: '/articles', label: t('articles') },
     { href: '/khawatir', label: t('khawatir') },
