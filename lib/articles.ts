@@ -37,6 +37,31 @@ export interface ArticleMeta {
 }
 
 export const articlesMeta: ArticleMeta[] = [
+  // ===== مقال: الإبحارُ في الزهراوين (النداءات الإيمانية — الحلقة ١) =====
+  {
+    slug: 'zahrawan-iman-calls',
+    category: 'maqasid-tafsir',
+    isoDate: '2026-06-30',
+    date: { ar: 'يونيو ٢٠٢٦', en: 'June 2026', es: 'Junio de 2026' },
+    readingMinutes: 8,
+    series: { ar: 'النداءات الإيمانية', en: 'The Calls to the Believers', es: 'Los llamados a los creyentes' },
+    episode: 1,
+    title: {
+      ar: 'الإبحارُ في الزهراوين',
+      en: 'Sailing Through the Two Radiant Suras',
+      es: 'Navegando por las dos suras radiantes',
+    },
+    subtitle: {
+      ar: 'من بناءِ البقرة إلى صيانةِ آل عمران',
+      en: 'From the Building of al-Baqara to the Guarding of Āl ʿImrān',
+      es: 'De la edificación de al-Baqara a la custodia de Āl ʿImrān',
+    },
+    excerpt: {
+      ar: 'سورتان تُقبِلان على العبد يوم القيامة كغمامتين تُظلّانه: البقرةُ وآلُ عمران، «الزهراوان». الحلقةُ الافتتاحيّةُ لسلسلة «النداءات الإيمانية» تكشف نَسَبَهما في المعنى — البقرةُ بناءٌ («افعلوا»)، وآلُ عمران حراسةٌ («لا تفعلوا») — عبر قراءةِ نداءات «يا أيها الذين آمنوا» الثمانيةَ عشرَ في ضوء علم المناسبات.',
+      en: 'Two suras come to the servant on the Day of Resurrection like two clouds that shade him — al-Baqara and Āl ʿImrān, “the two radiant ones.” This opening episode of the series “The Calls to the Believers” unveils their kinship in meaning — al-Baqara a building (“do”), Āl ʿImrān a guarding (“do not”) — by reading the eighteen calls of “O you who have believed” in the light of the science of Qurʾanic coherence.',
+      es: 'Dos suras se presentan ante el siervo el Día de la Resurrección como dos nubes que lo cobijan — al-Baqara y Āl ʿImrān, «las dos radiantes». Este episodio inaugural de la serie «Los llamados a los creyentes» revela su parentesco en el significado — al-Baqara una edificación («haced»), Āl ʿImrān una custodia («no hagáis») — leyendo los dieciocho llamados de «¡Oh, vosotros que habéis creído!» a la luz de la ciencia de las correspondencias coránicas.',
+    },
+  },
   // ===== مقال: كلٌّ يعمل على شاكلته (حِكَمٌ وبصائر) =====
   {
     slug: 'everyone-acts-by-his-nature',
@@ -97,30 +122,7 @@ export const articlesMeta: ArticleMeta[] = [
     excerpt: { ar: 'ليس الإصلاح صرخةً عابرة، ولا خطبةً مؤثرة، بل هو غرسٌ طويل، ومحاولةٌ تتبعها محاولة، حتى يأذن الله. فالمصلح كُلِّف بالبلاغ لا بصناعة الهداية؛ يزرع ولا يملك الحصاد، ويبقى على الثغر لا لأنّ الناس أنصفوه، بل لأنّ الله أقامه فيه — قبسٌ من نور النبوّة في فقه الثبات.', en: "Reform is no passing cry, no stirring sermon, but a long planting — an attempt followed by an attempt until God permits the fruit. The reformer is charged with conveyance, not with manufacturing guidance; he sows without owning the harvest, and holds his post not because people were fair to him, but because God stationed him there.", es: 'La reforma no es un grito pasajero ni un sermón conmovedor, sino una siembra prolongada: un intento al que sigue otro hasta que Dios permite el fruto. Al reformador le incumbe la transmisión, no fabricar la guía; siembra sin poseer la cosecha y permanece en su puesto no porque la gente fuera justa con él, sino porque Dios lo estableció allí.' },
     coverImage: '/articles/reformers-never-cease/cover.jpg',
   },
-   // ===== مقال: حين تُبنى البيوتُ على الثقة (دروس من الهجرة) =====
-  {
-    slug: 'homes-built-on-trust',
-    category: 'family',
-    isoDate: '2026-06-26',
-    date: { ar: 'يونيو ٢٠٢٦', en: 'June 2026', es: 'Junio de 2026' },
-    readingMinutes: 10,
-    title: {
-      ar: "حين تُبنى البيوتُ على الثقة: دروسٌ من الهجرة",
-      en: "When Homes Are Built on Trust: Lessons from the Hijra",
-      es: "Cuando los hogares se edifican sobre la confianza: lecciones de la Hégira",
-    },
-    subtitle: {
-      ar: "من نماذج الهجرة المباركة: قصّةُ بيتٍ لا تَهزُّه ريحُ الشدائد، وسِترٍ يَسوقُ اللهُ له جنودَه",
-      en: "A model of the blessed emigration: the story of a home unshaken by the winds of hardship, and a shelter for which God musters His soldiers",
-      es: "Un ejemplo de la emigración bendita: la historia de un hogar que los vientos de la adversidad no estremecen, y un amparo para el que Dios moviliza Sus ejércitos",
-    },
-    excerpt: {
-      ar: "نقرأُ الهجرةَ عادةً مَلحمةَ دمٍ وتضحية، لكنّ بيتَ أبي سلمةَ وأمِّ سلمةَ يَفتح باباً آخَر: الهجرةُ مدرسةٌ في الزواج الراسخ، وآيةٌ من آيات سِتر الله. تُمزَّق الأسرةُ شَملاً — زوجٌ في المدينة، وطفلٌ مخلوعُ اليد، وأمٌّ تبكي عاماً في الأبطح — ثمّ يَسوق اللهُ لأمِّ سلمةَ في وحدتها حارساً من المعسكر المُضادِّ نفسِه: مشركٌ من قريش يَحفظ عِرضَها حتى يُبلغها زوجَها. مقالٌ يُقرّر أنّ صَونَ المرأة بدينها وعقلها لا بالجُدران والحُرّاس، وأنّ البيوت إنّما تُبنى على الثقة لا على الرِّيبة، وأنّ مَن صَدَق مع الله سَتَره ولو في عُريِ الصحراء.",
-      en: "We usually read the Hijra as an epic of blood and sacrifice — but the household of Abū Salama and Umm Salama opens another door: the Hijra as a school of steadfast marriage and a sign of God's sheltering. The family is torn apart — a husband in Medina, a child with a dislocated arm, a mother weeping for a year in al-Abṭaḥ — and then, in her solitude, God sends Umm Salama a guardian from the opposing camp itself: an idolater of Quraysh who guards her honor until he delivers her to her husband. The article argues that a woman is safeguarded by her religion and reason, not by walls and guards; that homes are built on trust, not suspicion; and that whoever is true with God, He shelters even in the bareness of the desert.",
-      es: "Solemos leer la Hégira como una epopeya de sangre y sacrificio, pero el hogar de Abū Salama y Umm Salama abre otra puerta: la Hégira como escuela de matrimonio firme y signo del amparo de Dios. La familia es desgarrada —un esposo en Medina, un niño con el brazo dislocado, una madre que llora un año en al-Abṭaḥ— y entonces, en su soledad, Dios envía a Umm Salama un guardián del propio bando contrario: un idólatra de Quraysh que guarda su honor hasta entregarla a su esposo. El artículo sostiene que a la mujer la preserva su religión y su razón, no los muros y los guardianes; que los hogares se edifican sobre la confianza y no sobre la sospecha; y que a quien es sincero con Dios, Él lo ampara aunque sea en la desnudez del desierto.",
-    },
-  },
- // ===== مقال: معرفة النفوس قبل التعريف بالنصوص (التفسير المقاصدي) =====
+  // ===== مقال: معرفة النفوس قبل التعريف بالنصوص (التفسير المقاصدي) =====
   {
     slug: 'knowing-souls-before-texts',
     category: 'maqasid-tafsir',
