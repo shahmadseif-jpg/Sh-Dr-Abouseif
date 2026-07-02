@@ -8,6 +8,8 @@ import { getArticleBody } from '@/lib/articles-server';
 import { SITE_URL, SITE_NAME, SITE_ORG } from '@/lib/site';
 import ShareButtons from '@/components/ShareButtons';
 import ReadingTools from '@/components/ReadingTools';
+import ArticleComments from '@/components/ArticleComments';
+import { getApprovedComments } from '@/lib/comments';
 import { ReactNode } from 'react';
 
 export const dynamic = 'force-dynamic';
@@ -89,6 +91,9 @@ export default async function ArticlePage({
     (a) => !sameSeries.includes(a) && !sameCategory.includes(a)
   );
   const otherArticles = [...sameSeries, ...sameCategory, ...rest].slice(0, 3);
+
+  // Approved reader comments (moderated; stored in content/comments/<slug>.json)
+  const approvedComments = getApprovedComments(slug);
 
   // Sharing + structured data
   const shareUrl = `${SITE_URL}/${locale}/articles/${slug}`;
@@ -190,6 +195,14 @@ export default async function ArticlePage({
         <div className="mt-12 pt-8 border-t border-navy-100">
           <ShareButtons url={shareUrl} title={localize(meta.title, lang)} locale={lang} />
         </div>
+
+        {/* Reader comments (moderated) */}
+        <ArticleComments
+          slug={slug}
+          locale={locale}
+          articleTitle={localize(meta.title, lang)}
+          comments={approvedComments}
+        />
 
         {/* More articles section */}
         {otherArticles.length > 0 && (
