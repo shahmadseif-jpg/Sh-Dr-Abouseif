@@ -9,6 +9,8 @@ episode: 11
 readingMinutes: 13
 ---
 
+*By Dr. Ahmed Mohamed Ali Abouseif, President of the American Imams Academy.*
+
 ### An Opening: Millions at the House... But How Many Are Within It?
 
 You look upon the scene of the circumambulation and see a sea of people revolving around the Ancient House, the place scarcely holding their feet. Millions have reached the Kaaba, their eyes touching the black of its covering. Yet a question remains suspended above the heads: how many of these has the Kaaba reached in his heart, as he reached the Kaaba?

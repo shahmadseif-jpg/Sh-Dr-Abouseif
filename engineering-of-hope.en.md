@@ -9,6 +9,8 @@ episode: 1
 readingMinutes: 7
 ---
 
+*By Dr. Ahmed Mohamed Ali Abouseif, President of the American Imams Academy.*
+
 ### An Opening: When the Arrangement Itself Is a Message
 
 The order of the Qur'an's sūras is not merely a thematic sequence — it is a marvelous psychological and pedagogical sequence. The Qur'an does not cultivate the human being through its individual meanings alone, but through the succession of its sūras themselves: it makes glad tidings come after warning, the dawn after Al-Ghāshiyah, the morning brightness after the deepening night — to plant hope firmly in the soul.

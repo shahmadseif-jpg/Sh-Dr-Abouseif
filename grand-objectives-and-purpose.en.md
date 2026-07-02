@@ -4,6 +4,8 @@ locale: "en"
 slug: "grand-objectives-and-purpose"
 ---
 
+*By Dr. Ahmed Mohamed Ali Abouseif, President of the American Imams Academy.*
+
 If objective-based tafsīr reads the verse in light of its goals, we must first discern the grand objectives for which the whole Qur'an was sent down; for they are the compass that orients the understanding of the particulars. The Qur'an declared its greatest objective in more than one place:
 
 > "Alif, Lām, Rā. A Book which We have revealed to you that you might bring people out of darknesses into the light." [Ibrāhīm: 1]

@@ -9,6 +9,8 @@ episode: 10
 readingMinutes: 13
 ---
 
+*By Dr. Ahmed Mohamed Ali Abouseif, President of the American Imams Academy.*
+
 ### An Opening: When the Feet Draw Together
 
 Consider the prayer row at the moment the iqāmah is called: feet aligning in a beautiful geometric order, shoulders pressing close, and scarcely does anyone of us accept to leave a gap between himself and his neighbor — until the feet touch in a kind of welding together. This is good and commanded; the Sacred Law gave this closeness manifest attention:

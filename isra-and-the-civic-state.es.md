@@ -9,6 +9,8 @@ episode: 5
 readingMinutes: 16
 ---
 
+*Por el Dr. Ahmed Mohamed Ali Abouseif, presidente de la American Imams Academy (Academia Americana de Imames).*
+
 ## Apertura: ¿por qué se nombró la sura con el nombre del movimiento horizontal?
 
 En medio del Códice, donde se encuentra la primera mitad con la segunda mitad, se asienta una sura que la Verdad nombró con el nombre de un solo suceso de una sola noche: **la sura del Viaje Nocturno (al-Isrāʾ)**. La noche misma tiene dos sucesos: un viaje nocturno (un movimiento horizontal de la Mezquita Sagrada a la Mezquita Lejana) y una ascensión (un movimiento vertical hacia los cielos). ¿Por qué, pues, eligió la Verdad nombrar la sura con el primer suceso y no con el segundo?

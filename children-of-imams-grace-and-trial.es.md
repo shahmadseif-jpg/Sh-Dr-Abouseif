@@ -9,6 +9,8 @@ episode: 5
 readingMinutes: 11
 ---
 
+*Por el Dr. Ahmed Mohamed Ali Abouseif, presidente de la American Imams Academy (Academia Americana de Imames).*
+
 ### Una sola casa... y dos entornos
 
 Hay un secreto que no conoce sino quien lo vivió: que en la casa del imam hay dos entornos, no un solo entorno. Un entorno que ve la gente, y un entorno que no ve sino él y su familia. Y sus hijos son el único puente entre los dos mundos, lo cruzan cada día dos veces: una vez cuando salen con su padre a la mezquita, y una vez cuando vuelven con él a la casa.

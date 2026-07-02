@@ -9,6 +9,8 @@ episode: 1
 readingMinutes: 7
 ---
 
+*Por el Dr. Ahmed Mohamed Ali Abouseif, presidente de la American Imams Academy (Academia Americana de Imames).*
+
 ### Entrada: cuando el orden mismo es un mensaje
 
 El orden de las suras del Corán no es solo un orden temático, sino que es un orden anímico y educativo admirable. El Corán no educa al ser humano con sus significados aislados solamente, sino con la sucesión misma de sus suras; hace que la albricia venga tras la amenaza, y el alba tras al-Gāšiya (la Envolvente), y el resplandor de la mañana tras la quietud de la noche, para plantar en el alma la esperanza con firmeza.

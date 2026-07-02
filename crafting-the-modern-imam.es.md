@@ -4,6 +4,8 @@
 
 ---
 
+*Por el Dr. Ahmed Mohamed Ali Abouseif, presidente de la American Imams Academy (Academia Americana de Imames).*
+
 ### Apertura: tres horas en un día de graduación
 
 En uno de los salones de la Academia Americana de los Imanes, se sientan diez estudiantes que rinden el examen de graduación. No es un examen de memorización, ni de análisis sintáctico de una aleya. El examen mismo se compone de tres sesiones: en la primera, el estudiante pronuncia un sermón del viernes en lengua inglesa ante un comité, y se discute su argumento. En la segunda, se le presenta un **escenario de gestión de crisis**: una junta de fideicomisarios dividida, un gran donante que amenaza con retirar su apoyo si el imam no cambia una postura en un sermón, y una familia en la mezquita que se expone a una amenaza de divorcio. ¿Cómo gestiona todo esto en un día? En la tercera, el estudiante recibe a un «**consultante imaginado**»: una persona en un colapso psicológico tras la pérdida de su hijo, que pide un dictamen sobre su entierro y llora. ¿Qué hace el imam? ¿Se inclina hacia el dictamen? ¿O hacia la contención? ¿O hacia la derivación a un especialista?

@@ -9,6 +9,8 @@ episode: 3
 readingMinutes: 12
 ---
 
+*Por el Dr. Ahmed Mohamed Ali Abouseif, presidente de la American Imams Academy (Academia Americana de Imames).*
+
 ### Entrada: cuando la aleya es una condición, no una descripción
 
 «Sois la mejor comunidad surgida para la gente: ordenáis el bien, prohibís el mal y creéis en Dios.» [Āl ʿImrān: 110].

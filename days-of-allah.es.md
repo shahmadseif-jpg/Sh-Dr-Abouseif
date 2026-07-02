@@ -9,6 +9,8 @@ episode: 7
 readingMinutes: 15
 ---
 
+*Por el Dr. Ahmed Mohamed Ali Abouseif, presidente de la American Imams Academy (Academia Americana de Imames).*
+
 ### Entrada: «Y recuérdales los Días de Dios»
 
 Hay una frase coránica precisa, con la que Dios informó a Moisés (la paz sea con él) que recordara a su pueblo lo que fue del asunto del Faraón, su rigor y su violencia, y lo que fueron las etapas de su sometimiento ante él. Vino en la sura de Abraham en la lengua de aquel a quien Dios habló:

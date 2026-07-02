@@ -9,6 +9,8 @@ episode: 3
 readingMinutes: 15
 ---
 
+*Por el Dr. Ahmed Mohamed Ali Abouseif, presidente de la American Imams Academy (Academia Americana de Imames).*
+
 ## Apertura: la paradoja geográfica que el Corán mismo anuda
 
 En la misma tierra de la Península Arábiga, y en el mismo tiempo aproximadamente, se irguieron dos civilizaciones en el relato coránico, y venimos a leer el destino de ambas:

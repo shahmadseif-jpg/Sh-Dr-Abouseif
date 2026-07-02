@@ -9,6 +9,8 @@ episode: 3
 readingMinutes: 16
 ---
 
+*By Dr. Ahmed Mohamed Ali Abouseif, President of the American Imams Academy.*
+
 ## Prelude: The Geographic Paradox the Qur'an Itself Engineers
 
 In the same Arabian land, and within roughly the same era, two civilizations arose in the Qur'anic narrative — and the Qur'an itself invites us to read their fates side by side:
@@ -245,4 +247,3 @@ If the answer to any of these is "no," you are closer to Sabaʾ than to Sulaymā
 ---
 
 *This is Episode Three of the 'Qur'an and Civilization' series. Episode One: Sūrat al-Kahf. Episode Two: Sūrat Yūsuf. The forthcoming Episode Four: "The Divine Laws in the Rise and Fall of Nations" — the closing of the series.*
-

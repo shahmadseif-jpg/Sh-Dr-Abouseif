@@ -9,6 +9,8 @@ episode: 11
 readingMinutes: 13
 ---
 
+*Por el Dr. Ahmed Mohamed Ali Abouseif, presidente de la American Imams Academy (Academia Americana de Imames).*
+
 ### Entrada: millones junto a la Casa... ¿y cuántos de ellos dentro de la Casa?
 
 Miras la escena de la circunvalación y ves un mar de seres humanos girando en torno a la Casa Antigua, sin que el lugar apenas dé cabida a sus pies. Millones que han llegado a la Kaaba, y cuyas miradas han rozado la negrura de su manto. Pero una pregunta queda suspendida sobre las cabezas: ¿a cuántos de estos ha llegado la Kaaba al corazón, como ellos han llegado a la Kaaba?

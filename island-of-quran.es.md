@@ -9,6 +9,8 @@ episode: 7
 readingMinutes: 13
 ---
 
+*Por el Dr. Ahmed Mohamed Ali Abouseif, presidente de la American Imams Academy (Academia Americana de Imames).*
+
 ### Entrada: no todas las islas son iguales
 
 En el planeta en que vivimos hay muchas islas; difieren sus semblantes, varían sus rangos y se diversifican sus nombres; pero, en esencia, son dos clases y no hay una tercera: **una isla a la que el ser humano cruza con un permiso del cielo**, y se encuentra en sus orillas con el sentido de su existencia, y recobra sobre sus arenas su clarividencia y su conciencia; **y otra isla a la que se cuela a escondidas para ocultar en sus orillas su deshonra**, donde vierte sus pasiones lejos de los ojos de la gente, y donde profana la dignidad de otros bajo los velos de la oscuridad y la tiniebla.

@@ -4,6 +4,8 @@ locale: "en"
 slug: "concept-and-term"
 ---
 
+*By Dr. Ahmed Mohamed Ali Abouseif, President of the American Imams Academy.*
+
 How many people read the Qur'an seeking a ruling, and how few read it seeking wisdom! How many ask, "What did God command?" and how few add, "And why did He command it?" Between the two questions lies a great distance — the distance between carrying the verse in your memory and being carried by the verse to its intent. So let us begin — as the Qur'an begins — from a verse, not from a definition:
 
 > "And there is for you in legal retribution [the saving of] life, O people of understanding." [al-Baqara: 179]

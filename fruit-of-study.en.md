@@ -4,6 +4,8 @@ locale: "en"
 slug: "fruit-of-study"
 ---
 
+*By Dr. Ahmed Mohamed Ali Abouseif, President of the American Imams Academy.*
+
 After the grounding, the history, the objectives, the figures, and the controls, it is fitting to ask the question of the beneficiary: what do I gain from reading the Qur'an upon the basis of its objectives? Knowledge that yields no action is deficient, and a method is measured only by its fruits. The fruits of objective-based study are many; we summarize the most prominent.
 
 ## First: The Presence of the Heart in Recitation

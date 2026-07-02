@@ -4,6 +4,8 @@
 
 ---
 
+*By Dr. Ahmed Mohamed Ali Abouseif, President of the American Imams Academy.*
+
 ### Opening: Four Fatwas for a Single Question
 
 On one of the nights of Ramadan, a Muslim brother from Ohio sends a brief question to four different WhatsApp groups: "Is it permissible to take a fixed-rate mortgage loan to buy my first home?"

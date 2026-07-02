@@ -4,6 +4,8 @@ locale: "es"
 slug: "grand-objectives-and-purpose"
 ---
 
+*Por el Dr. Ahmed Mohamed Ali Abouseif, presidente de la American Imams Academy (Academia Americana de Imames).*
+
 Si el tafsīr orientado a los fines lee el versículo a la luz de sus metas, debemos primero discernir los grandes fines por los que se reveló todo el Corán; pues son la brújula que orienta la comprensión de los particulares. El Corán declaró su mayor fin en más de un lugar:
 
 > «Alif, Lām, Rā. Es un Libro que te hemos revelado para que saques a las personas de las tinieblas a la luz.» [Ibrāhīm: 1]

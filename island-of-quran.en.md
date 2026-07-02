@@ -9,6 +9,8 @@ episode: 7
 readingMinutes: 13
 ---
 
+*By Dr. Ahmed Mohamed Ali Abouseif, President of the American Imams Academy.*
+
 ### An Opening: Not All Islands Are Alike
 
 On the planet we inhabit there are countless islands. They differ in shape, vary in scale, and bear the most diverse names. Yet, at the core, they reduce to two kinds: **an island to which the human being crosses by permission from the heavens** — and there meets the meaning of his existence, and recovers his insight on its sands; **and another island to which he sneaks in to hide his shame** — to spend his appetites away from human eyes, to violate the dignity of others under the veils of obscurity and darkness.

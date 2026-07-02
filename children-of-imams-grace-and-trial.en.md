@@ -9,6 +9,8 @@ episode: 5
 readingMinutes: 11
 ---
 
+*By Dr. Ahmed Mohamed Ali Abouseif, President of the American Imams Academy.*
+
 ### One Home, Two Worlds
 
 There is a secret known only to those who have lived it: that within the imam's home there are not one but two environments. One that people see; and another that no one sees but he and his family. His children are the sole bridge between the two worlds, crossing it twice a day — once when they walk out with their father to the mosque, and once when they return with him to the house.

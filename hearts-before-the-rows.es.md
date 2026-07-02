@@ -9,6 +9,8 @@ episode: 10
 readingMinutes: 13
 ---
 
+*Por el Dr. Ahmed Mohamed Ali Abouseif, presidente de la American Imams Academy (Academia Americana de Imames).*
+
 ### Entrada: cuando los pies se juntan
 
 Contempla la fila de la oración en el momento del iqāma: pies que se alinean con una compostura geométrica admirable, hombros que se aprietan, y casi ninguno de nosotros consiente en dejar una brecha entre él y su vecino, hasta que los pies se rozan en una especie de cohesión. Y esto es bueno y ordenado; la legislación se ocupó de esta compactación con un cuidado patente:

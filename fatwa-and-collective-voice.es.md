@@ -4,6 +4,8 @@
 
 ---
 
+*Por el Dr. Ahmed Mohamed Ali Abouseif, presidente de la American Imams Academy (Academia Americana de Imames).*
+
 ### Apertura: cuatro dictámenes para una sola pregunta
 
 En una de las noches de Ramadán, un hermano musulmán del estado de Ohio envía una pregunta breve a cuatro grupos distintos de WhatsApp: «¿Es lícito tomar un préstamo hipotecario con interés fijo para comprar mi primera casa?»

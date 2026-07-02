@@ -4,6 +4,8 @@
 
 ---
 
+*By Dr. Ahmed Mohamed Ali Abouseif, President of the American Imams Academy.*
+
 ### Opening: When the Imam Steps Out of the Miḥrāb
 
 In a small mosque on the outskirts of an American city, the imam has just finished the Fajr prayer. As he folds his prayer rug, a young man in his twenties approaches him requesting an urgent meeting before he leaves for work. Then a mother follows, asking about an Islamic school for her children — one for which the imam has no real alternative to offer. Then a police officer inquires about the details of a Muslim funeral. Then an elder circles the topic of his daughter's divorce without daring to name it directly. Then a phone call comes from a public school official seeking clarification about Muslim girls fasting in Ramadan.

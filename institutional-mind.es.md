@@ -4,6 +4,8 @@
 
 ---
 
+*Por el Dr. Ahmed Mohamed Ali Abouseif, presidente de la American Imams Academy (Academia Americana de Imames).*
+
 ### Apertura: una mezquita sin memoria
 
 En uno de los suburbios de Detroit, se sienta la junta directiva de una mezquita de tamaño mediano en su reunión mensual. Sobre la mesa hay cinco expedientes, ninguno de los cuales espera:

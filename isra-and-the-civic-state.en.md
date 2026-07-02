@@ -9,6 +9,8 @@ episode: 5
 readingMinutes: 17
 ---
 
+*By Dr. Ahmed Mohamed Ali Abouseif, President of the American Imams Academy.*
+
 ## Prelude: Why Was the Sūra Named After the Horizontal Movement?
 
 At the center of the *muṣḥaf*, where the first half meets the second, sits a sūra that the Truth named after a single event from a single night: **Sūrat al-Isrāʾ**. That night itself contains two events: an Isrāʾ (a horizontal movement from the Sacred Mosque to the Aqṣā Mosque) and a Miʿrāj (a vertical ascent to the heavens). Why, then, did the Truth choose to name the sūra after the first event rather than the second?

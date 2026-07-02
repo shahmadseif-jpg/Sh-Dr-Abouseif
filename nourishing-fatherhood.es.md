@@ -12,6 +12,8 @@ coverImage: "/lib/cover.jpg"
 description: "La hija del musulmán en el tiempo de los acechadores: ¿cómo la protege su padre con la palabra cariñosa antes de que se le adelante quien maquina contra su tierno corazón? Un enraizamiento de la guía profética con Fátima (Dios esté complacido con ella), el testimonio de la psicología contemporánea, y siete normas que preservan esta ternura permitida en el círculo de la paternidad recta."
 ---
 
+*Por el Dr. Ahmed Mohamed Ali Abouseif, presidente de la American Imams Academy (Academia Americana de Imames).*
+
 ### Una palabra al lector
 
 Cuando leí la pregunta por primera vez, me detuve en la palabra «ternura» (gazal); pues la palabra en el oído del oyente contemporáneo está cargada de matices con los que no le gusta que se asocie el nombre del padre y su hija. Luego reflexioné, y he aquí que la pregunta toca una herida profunda en muchas de nuestras casas: una hija adolescente en cuyas profundidades brota el río de la feminidad temprana, y desea una palabra que sacie esta avidez, y se tranquilice con ella en que es hermosa, deseada, amada. Y en la vecindad hay lobos que se relamen por arrebatar este tierno corazón con la primera palabra de admiración, ¿deja, pues, el padre prudente este vacío para quien lo llene con lo ilícito?

@@ -12,6 +12,8 @@ coverImage: "/lib/cover.jpg"
 description: "The Muslim daughter in an age of predators: how does her father shield her with tender words before someone with ill intent reaches her tender heart first? A rooting in Prophetic guidance with Fātimah (may Allah be pleased with her), the testimony of contemporary psychology, and seven boundaries that keep this permissible paternal affection within the dignity of mature fatherhood."
 ---
 
+*By Dr. Ahmed Mohamed Ali Abouseif, President of the American Imams Academy.*
+
 ### A Word to the Reader
 
 When I first read the question, I paused at the very word "flirtation." In the modern ear, the term carries shades that one is reluctant to associate with the relationship between a father and his daughter. Yet, upon reflection, the question touches a deep wound in many of our homes: an adolescent girl whose early femininity is awakening in her depths, longing for a word that will quench this thirst and reassure her that she is beautiful, valued, and beloved. All around her are predators waiting to seize this tender heart with the first compliment, so will the dignified father leave this void open for someone else to fill with what is forbidden?

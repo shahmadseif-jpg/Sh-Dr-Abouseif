@@ -9,6 +9,8 @@ episode: 2
 readingMinutes: 9
 ---
 
+*Por el Dr. Ahmed Mohamed Ali Abouseif, presidente de la American Imams Academy (Academia Americana de Imames).*
+
 Golpeó la puerta dos veces antes de que se abriera. Era una visitante nueva en la comunidad, vino a conocer a la esposa del imam, de la que había oído mucho. Esperaba que la recibiera una mujer serena como el aliento de una oración, en una casa de la que emana el aroma del agáloco y se eleva de un rincón lejano una recitación. Pero la puerta se abrió a un bullicio: un niño que llora, un plato roto, y una mujer cansada que porta a su pequeño sobre una sola cadera e intenta sonreír. Salió la visitante después de diez minutos y en su corazón una pregunta que no se atrevió a divulgar: «¿Es así de verdad la casa del shayj?»
 
 Esta pregunta —con su ingenuidad aparente— es el tema de este artículo. Tras ella hay un tesoro de malentendido cuyo precio pagan muchas casas de las casas del llamado, sin hallar quien les haga justicia o las comprenda.

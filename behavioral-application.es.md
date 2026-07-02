@@ -4,6 +4,8 @@ locale: "es"
 slug: "behavioral-application"
 ---
 
+*Por el Dr. Ahmed Mohamed Ali Abouseif, presidente de la American Imams Academy (Academia Americana de Imames).*
+
 Pasamos ahora del fundamento a la aplicación viva, y comenzamos por el campo más cercano al ser humano: su conducta individual y su carácter. El Corán no se reveló solo para ser recitado, ni únicamente para ser memorizado, sino para construir una personalidad equilibrada, veraz y fiel. El tafsīr orientado a los fines en este capítulo revela que los versículos de la ética no son sermones generales, sino programas de acción destinados a moldear la conducta humana. Leamos ejemplos de ellos con sus fines para ver cómo se transforman en un método de vida cotidiano.
 
 ## El fin de la veracidad: construir una personalidad de confianza

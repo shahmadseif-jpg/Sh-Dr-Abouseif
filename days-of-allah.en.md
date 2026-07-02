@@ -9,6 +9,8 @@ episode: 7
 readingMinutes: 15
 ---
 
+*By Dr. Ahmed Mohamed Ali Abouseif, President of the American Imams Academy.*
+
 ### An Opening: ﴾Remind Them of the Days of Allah﴿
 
 There is a decisive Qur'anic phrase, in which God commanded Mūsā (peace be upon him) to remind his people of what had passed with Pharaoh — of his tyranny, of his violence, of the stages of their oppression beneath his hand. It is said upon the tongue of the Kalīm:

@@ -4,6 +4,8 @@
 
 ---
 
+*By Dr. Ahmed Mohamed Ali Abouseif, President of the American Imams Academy.*
+
 ### Opening: Three Hours on Graduation Day
 
 In one of the halls of the American Imams Academy, ten students sit through their graduation examination. It is not a memorization test, nor a parsing exercise on a verse. The examination itself consists of three sessions. In the first, the student delivers a Friday khuṭbah in English before a panel, and his argumentation is challenged. In the second, he is presented with **a crisis-management scenario**: a divided board of trustees, a major donor threatening to withdraw his support unless the imam reverses a position taken from the pulpit, and a family in the mosque facing the threat of divorce. How does he navigate all this in a single day? In the third, the student is brought before a **simulated petitioner**: a person in psychological collapse after losing his child, seeking a fatwa about the burial while weeping. What does the imam do? Does he default to the fatwa? To containment? To referral?

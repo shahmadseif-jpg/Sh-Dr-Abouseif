@@ -9,6 +9,8 @@ episode: 4
 readingMinutes: 12
 ---
 
+*By Dr. Ahmed Mohamed Ali Abouseif, President of the American Imams Academy.*
+
 ### An Opening: Does the Conscience Awaken, or Does the Soul Sleep?
 
 There is a timeless question that precedes every other: What is it that makes the heart yearn, the mind cling, and the soul never cease to long for one specific spot on this earth? What is the secret of a barren land toward which people stream from the ends of the world — shedding their garments and titles, standing on a single ground, moved by a strange resolve that neither the logic of tourism nor the calculus of profit can explain?

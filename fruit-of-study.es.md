@@ -4,6 +4,8 @@ locale: "es"
 slug: "fruit-of-study"
 ---
 
+*Por el Dr. Ahmed Mohamed Ali Abouseif, presidente de la American Imams Academy (Academia Americana de Imames).*
+
 Tras el fundamento, la historia, los fines, las figuras y los controles, es oportuno plantear la pregunta del beneficiario: ¿qué gano de leer el Corán sobre la base de sus fines? Un conocimiento que no da fruto en obra es deficiente, y un método se mide solo por sus frutos. Los frutos del estudio orientado a los fines son muchos; resumimos los más destacados.
 
 ## Primero: la presencia del corazón en la recitación

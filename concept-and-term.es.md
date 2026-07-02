@@ -4,6 +4,8 @@ locale: "es"
 slug: "concept-and-term"
 ---
 
+*Por el Dr. Ahmed Mohamed Ali Abouseif, presidente de la American Imams Academy (Academia Americana de Imames).*
+
 ¡Cuántos leen el Corán buscando un dictamen, y qué pocos lo leen buscando sabiduría! ¡Cuántos preguntan «¿Qué ordenó Dios?», y qué pocos añaden «¿Y por qué lo ordenó?»! Entre las dos preguntas hay una gran distancia: la distancia entre llevar el versículo en tu memoria y ser llevado por el versículo hacia su intención. Comencemos, pues —como comienza el Corán—, desde un versículo y no desde una definición:
 
 > «Y en la represalia legal (qiṣāṣ) tenéis vida, oh dotados de entendimiento.» [al-Baqara: 179]

@@ -9,6 +9,8 @@ episode: 4
 readingMinutes: 12
 ---
 
+*Por el Dr. Ahmed Mohamed Ali Abouseif, presidente de la American Imams Academy (Academia Americana de Imames).*
+
 ### Entrada: ¿una conciencia que despierta o un alma que duerme?
 
 Hay una pregunta eterna que precede a toda pregunta: ¿qué es lo que hace que el corazón anhele, la mente se apegue, y el alma no cese de añorar un punto determinado de este planeta? ¿Cuál es el secreto de una tierra desprovista de bullicio, a la que acude la gente de los confines del mundo, se despojan de sus ropas y sus títulos, y se ponen de pie sobre un solo suelo, agitándose en ellos un afán extraño que no lo explica la lógica del turismo ni los cálculos de la ganancia?

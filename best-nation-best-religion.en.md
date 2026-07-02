@@ -9,6 +9,8 @@ episode: 3
 readingMinutes: 12
 ---
 
+*By Dr. Ahmed Mohamed Ali Abouseif, President of the American Imams Academy.*
+
 ### An Opening: When the Verse Is a Condition, Not a Description
 
 *"You were the best nation produced for mankind. You enjoin what is right and forbid what is wrong, and you believe in Allah"* (Āl ʿImrān: 110).

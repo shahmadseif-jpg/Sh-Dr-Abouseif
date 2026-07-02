@@ -4,6 +4,8 @@ locale: "en"
 slug: "behavioral-application"
 ---
 
+*By Dr. Ahmed Mohamed Ali Abouseif, President of the American Imams Academy.*
+
 We now move from grounding to living application, and we begin with the field nearest to the human being: his individual conduct and character. The Qur'an was not revealed merely to be recited, nor only to be memorized, but to build a balanced, truthful, trustworthy personality. Objective-based tafsīr in this chapter reveals that the verses of ethics are not general sermons, but intended programs of action for shaping human conduct. Let us read examples of them with their objectives to see how they are transformed into a daily way of life.
 
 ## The Objective of Truthfulness: Building a Trusted Personality

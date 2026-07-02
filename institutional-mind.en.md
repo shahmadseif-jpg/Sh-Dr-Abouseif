@@ -4,6 +4,8 @@
 
 ---
 
+*By Dr. Ahmed Mohamed Ali Abouseif, President of the American Imams Academy.*
+
 ### Opening: A Mosque Without Memory
 
 In a suburb of Detroit, the board of a mid-sized mosque sits in its monthly meeting. On the table are five files, none of which can wait:

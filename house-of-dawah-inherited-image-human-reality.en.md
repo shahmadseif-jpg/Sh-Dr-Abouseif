@@ -9,6 +9,8 @@ episode: 2
 readingMinutes: 9
 ---
 
+*By Dr. Ahmed Mohamed Ali Abouseif, President of the American Imams Academy.*
+
 She knocked twice before the door was opened. She was a newcomer to the community, who had come to make the acquaintance of the imam's wife she had heard so much about. She expected to be received by a woman as serene as the breath of a prayer, in a home from which wafted the scent of oud, and from some distant corner the murmur of recitation. But the door opened upon clamor: a crying child, a broken plate, and a weary woman carrying her little one on one hip and trying to smile. The visitor left after ten minutes, and in her heart a question she dared not voice: "Is this really the home of the shaykh?"
 
 This question — for all its apparent naïveté — is the subject of this article. Behind it lies a trove of misunderstanding, whose price is paid by many a house of daʿwah, without finding anyone to do it justice or to understand it.

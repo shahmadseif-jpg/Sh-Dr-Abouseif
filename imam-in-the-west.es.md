@@ -4,6 +4,8 @@
 
 ---
 
+*Por el Dr. Ahmed Mohamed Ali Abouseif, presidente de la American Imams Academy (Academia Americana de Imames).*
+
 ### Apertura: cuando el imam sale del oratorio
 
 En una pequeña mezquita en las afueras de una ciudad americana, el imam terminó la oración del alba. Y mientras pliega su alfombra, se le acercó un joven de veinte años que pide un encuentro urgente antes de marcharse a su trabajo. Luego lo siguió una madre que pregunta por una escuela islámica para sus hijos a la que no halla alternativa. Luego un policía que indaga sobre los detalles de un funeral musulmán. Luego un anciano que ronda en torno al tema del divorcio de su hija sin atreverse a mencionarlo. Luego una llamada telefónica de un responsable de la escuela pública que pide aclaración sobre el ayuno de unas niñas musulmanas en Ramadán.
