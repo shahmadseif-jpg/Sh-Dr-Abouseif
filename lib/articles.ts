@@ -37,7 +37,7 @@ export interface ArticleMeta {
 }
 
 export const articlesMeta: ArticleMeta[] = [
-    // ===== مقال: اليقين في القرآن (المفاهيم القرآنية، الحلقة 1) =====
+      // ===== مقال: اليقين في القرآن (المفاهيم القرآنية، الحلقة 2) =====
   {
         slug: 'yaqin-in-quran-degrees-of-certainty',
         category: 'wisdom-insights',
@@ -45,7 +45,7 @@ export const articlesMeta: ArticleMeta[] = [
         date: { ar: 'يوليو ٢٠٢٦', en: 'July 2026', es: 'Julio de 2026' },
         readingMinutes: 12,
         series: { ar: 'المفاهيم القرآنية: بين دلالاتها وتطبيقاتها', en: "Qur'anic Concepts: Between Meaning and Application", es: 'Conceptos coránicos: entre su significado y su aplicación' },
-        episode: 1,
+        episode: 2,
         title: {
                 ar: "اليقين في القرآن: من عِلمٍ إلى عَينٍ إلى حَقّ",
                 en: "Yaqīn in the Qur'an: From Knowledge to Sight to Truth",
@@ -62,13 +62,15 @@ export const articlesMeta: ArticleMeta[] = [
                 es: "Yaqīn: esa palabra que muchos suponen un estado único e indivisible. Pero el Corán la describe como tres grados ascendentes: el conocimiento, la visión y la verdad de la certeza. Un estudio que rastrea la raíz lingüística, descubre un versículo singular que advierte contra una certeza falsa que confunde la convicción con la validez, y vincula los tres grados con el propio recorrido de Abraham, el testimonio de la Sunna y las palabras de Ibn al-Qayyim y al-Gazālī.",
         },
   },
-  // ===== مقال: الحنيفية في القرآن =====
+    // ===== مقال: الحنيفية في القرآن (المفاهيم القرآنية، الحلقة 1) =====
   {
         slug: 'hanifiyyah-in-quran-meaning-and-application',
         category: 'wisdom-insights',
         isoDate: '2026-07-01',
         date: { ar: 'يوليو ٢٠٢٦', en: 'July 2026', es: 'Julio de 2026' },
         readingMinutes: 13,
+        series: { ar: 'المفاهيم القرآنية: بين دلالاتها وتطبيقاتها', en: "Qur'anic Concepts: Between Meaning and Application", es: 'Conceptos coránicos: entre su significado y su aplicación' },
+            episode: 1,
         title: {
                 ar: "الحنيفية في القرآن: دلالة وتطبيقاً",
                 en: "Ḥanīfiyyah in the Qurʾan: From Meaning to Application",
