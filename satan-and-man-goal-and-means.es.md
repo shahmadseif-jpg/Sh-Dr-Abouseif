@@ -11,6 +11,8 @@ readingMinutes: 15
 author: "Dr. Ahmed Abouseif"
 ---
 
+*Por el Dr. Ahmed Mohamed Ali Abouseif, presidente de la American Imams Academy (Academia Americana de Imames).*
+
 La alabanza es de Dios; Lo alabamos, glorificado sea, y a Él pedimos ayuda, guía y perdón, y nos refugiamos en Dios, bendito y exaltado, de los males de nuestras almas y de las maldades de nuestras obras. A quien Dios guía, nadie lo extravía, y a quien Él extravía, nadie lo guía. Atestiguo que no hay más dios que Dios, Único, sin asociado; Suyo es el dominio y Suya es la alabanza, en Su mano están las llaves de los cielos y la tierra, y Él es Poderoso sobre toda cosa. Y atestiguo que nuestro señor y profeta Muhammad es siervo de Dios, Su profeta, Su mensajero, Su elegido entre Su creación y Su amado; transmitió el Mensaje, cumplió la encomienda, aconsejó a la comunidad y, por medio de él, Dios disipó la aflicción; que Dios le recompense de nuestra parte y de parte de la comunidad del islam con la mejor recompensa.
 
 Dicho esto:

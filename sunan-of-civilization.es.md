@@ -9,6 +9,8 @@ episode: 4
 readingMinutes: 14
 ---
 
+*Por el Dr. Ahmed Mohamed Ali Abouseif, presidente de la American Imams Academy (Academia Americana de Imames).*
+
 ## Apertura: ¿por qué nos detenemos ahora?
 
 Tres suras coránicas presentamos en los episodios anteriores: la Caverna, José, las Hormigas-Saba. Cada una de ellas nos ofreció una ventana a la civilización —una vez desde el lado de sus pilares, una vez desde el lado del individuo que la funda, y una vez desde el lado de la comunidad que la porta.

@@ -8,6 +8,7 @@ series: "Qur'an and Civilization"
 episode: 6
 ---
 
+*By Dr. Ahmed Mohamed Ali Abouseif, President of the American Imams Academy.*
 
 ## Opening: Why Does the Qur'an Devote This Space to Displacement?
 

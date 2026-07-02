@@ -4,6 +4,7 @@ locale: "ar"
 slug: "social-application"
 ---
 
+*بقلم: د. أحمد محمد علي أبو سيف، رئيس أكاديمية الأئمة بأمريكا (American Imams Academy).*
 
 ## مقصد العدل: ميزان قيام المجتمع
 

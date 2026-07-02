@@ -4,6 +4,8 @@ locale: "es"
 slug: "principles-and-controls"
 ---
 
+*Por el Dr. Ahmed Mohamed Ali Abouseif, presidente de la American Imams Academy (Academia Americana de Imames).*
+
 El tafsīr orientado a los fines es una gran puerta de bien, pero —como cualquier método— se usa mal si se desata de sus controles. Uno puede usar «el fin» como pretexto para suspender un dictamen explícito, o para cargar sobre un versículo lo que no puede soportar. De ahí que establecer los controles sea la válvula de seguridad que preserva el método de deslizarse hacia una interpretación desviada.
 
 ## Primero: la consideración de la palabra y el contexto en primer lugar

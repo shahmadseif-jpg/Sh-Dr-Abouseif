@@ -9,6 +9,8 @@ episode: 5
 readingMinutes: 14
 ---
 
+*By Dr. Ahmed Mohamed Ali Abouseif, President of the American Imams Academy.*
+
 ### An Opening: Parsing in the Sentence, and Parsing in the Event
 
 In our childhood, we learned that every word in an Arabic sentence has a **grammatical station** (*iʿrāb*): subject, object, circumstantial, predicate. If the station fails, meaning collapses. "Zayd" cannot stand as subject if you mean him as object; he cannot be in the nominative if he belongs in the genitive. **A word is what its station says it is — not what its letters spell.**

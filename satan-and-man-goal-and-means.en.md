@@ -11,6 +11,8 @@ readingMinutes: 15
 author: "Dr. Ahmed Abouseif"
 ---
 
+*By Dr. Ahmed Mohamed Ali Abouseif, President of the American Imams Academy.*
+
 All praise is due to Allah; we praise Him, seek His help, His guidance, and His forgiveness. We seek refuge in Allah — blessed and exalted — from the evils of ourselves and the wickedness of our deeds. Whomever Allah guides, none can lead astray; whomever He leads astray, none can guide. I bear witness that there is no god but Allah alone, with no partner — His is the dominion, and to Him is the praise; in His hand are the keys of the heavens and the earth, and He is over all things capable. And I bear witness that our master and Prophet Muḥammad is the servant of Allah and His Prophet and Messenger — His chosen one and beloved among His creation — who conveyed the message, fulfilled the trust, sincerely counseled the Ummah, and through whom Allah lifted the darkness. May Allah reward him on our behalf and on behalf of the Ummah of Islam with the best of reward.
 
 To proceed:

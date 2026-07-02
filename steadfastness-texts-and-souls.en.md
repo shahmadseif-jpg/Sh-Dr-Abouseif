@@ -9,6 +9,8 @@ episode: 4
 readingMinutes: 12
 ---
 
+*By Dr. Ahmed Mohamed Ali Abouseif, President of the American Imams Academy.*
+
 ### An Opening from the Heart of the Gathering
 
 That night, we gathered at the American Imams Academy Masjid in Sachse, Texas. A question stood quietly in our hearts before it was ever spoken from the pulpit: **What remains of Ramadan after it has departed?** Are these merely numbered days evaporating like its own, or is the true fasting person one who turned Ramadan into a launching pad rather than a finish line?

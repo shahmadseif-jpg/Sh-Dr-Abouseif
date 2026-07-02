@@ -9,6 +9,8 @@ episode: 9
 readingMinutes: 13
 ---
 
+*By Dr. Ahmed Mohamed Ali Abouseif, President of the American Imams Academy.*
+
 ### An Opening: As Disobedience Has Its Appetite... So Does Obedience
 
 Not everyone who turns toward obedience has grasped its truth. Not every tear in a prayer-niche, nor every yearning to stand in the night, nor every rush toward an act of worship, is a mature proof of a settled bond with God.

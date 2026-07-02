@@ -3,6 +3,8 @@
 
 ---
 
+*By Dr. Ahmed Mohamed Ali Abouseif, President of the American Imams Academy.*
+
 ### A Light That Precedes the Footsteps
 
 In the earliest hours of dawn, before the streets stir with the movement of passersby, and before the marketplaces awaken to their familiar clamor, footsteps move quietly toward the houses of Allah. Faces worn by yesterday's striving — still searching for light before the start of a new day of work and labor. Worshippers form straight, even rows behind the imam, as if humanity itself were re-ordering its mind and heart each morning by the guidance of heaven.

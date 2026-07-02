@@ -4,6 +4,8 @@ locale: "es"
 slug: "psychological-application"
 ---
 
+*Por el Dr. Ahmed Mohamed Ali Abouseif, presidente de la American Imams Academy (Academia Americana de Imames).*
+
 Concluimos nuestra serie con el más hondo y oculto de los campos del ser humano: su alma y su corazón. El Corán, así como rectifica la conducta y construye la sociedad, sana el alma y le otorga la serenidad; Dios lo describió como una sanación, diciendo: «Y hacemos descender del Corán aquello que es sanación y misericordia para los creyentes.» [al-Isrāʾ: 82]. La lectura orientada a los fines de los versículos del sosiego revela que entre los grandes fines del Corán está el tratamiento de la angustia, el miedo y la desesperación, y la plantación del contento y la esperanza en los corazones cansados.
 
 ## El fin de la serenidad: el sosiego con el recuerdo de Dios

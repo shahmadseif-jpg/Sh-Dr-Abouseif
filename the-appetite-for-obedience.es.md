@@ -9,6 +9,8 @@ episode: 9
 readingMinutes: 13
 ---
 
+*Por el Dr. Ahmed Mohamed Ali Abouseif, presidente de la American Imams Academy (Academia Americana de Imames).*
+
 ### Entrada: y así como el pecado tiene un apetito... la obediencia tiene un apetito
 
 No todo el que se entregó a la obediencia ha conocido su realidad. Y no toda lágrima en un oratorio, ni todo deseo de levantarse en la noche, ni todo impulso hacia una adoración, es una prueba madura del arraigo de la relación con Dios.

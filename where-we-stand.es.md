@@ -9,6 +9,8 @@ episode: 5
 readingMinutes: 14
 ---
 
+*Por el Dr. Ahmed Mohamed Ali Abouseif, presidente de la American Imams Academy (Academia Americana de Imames).*
+
 ### Entrada: el análisis sintáctico en el texto, y el análisis sintáctico en el acontecimiento
 
 Aprendimos en nuestra pequeñez que cada palabra en la oración árabe tiene una **posición en el análisis sintáctico** (iʿrāb): sujeto, complemento, circunstancial o predicado. Y si se altera su posición, se quiebra el sentido. No es igual que «Zayd» sea sujeto cuando hablas en la posición del complemento, ni que esté en nominativo cuando estás en la posición del genitivo. **La palabra vale por su posición, no por su deletreo.**

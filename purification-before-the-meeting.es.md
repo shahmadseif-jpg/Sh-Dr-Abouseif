@@ -9,6 +9,8 @@ episode: 8
 readingMinutes: 10
 ---
 
+*Por el Dr. Ahmed Mohamed Ali Abouseif, presidente de la American Imams Academy (Academia Americana de Imames).*
+
 ### Entrada: «Y que luego eliminen su suciedad»
 
 En el gentío de los peregrinos, entre los pies que agotó la marcha, los rostros que abrasó el sol de ʿArafāt, y las lenguas que no cesaban de repetir: «Aquí estoy, oh Dios, aquí estoy», viene esta admirable indicación coránica:

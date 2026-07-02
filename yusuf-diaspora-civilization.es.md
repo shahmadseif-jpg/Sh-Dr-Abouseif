@@ -9,6 +9,8 @@ episode: 2
 readingMinutes: 13
 ---
 
+*Por el Dr. Ahmed Mohamed Ali Abouseif, presidente de la American Imams Academy (Academia Americana de Imames).*
+
 ## Apertura: la visión antes del pozo
 
 «En verdad, vi once astros, y el sol y la luna; los vi prosternándose ante mí».

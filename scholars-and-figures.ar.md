@@ -4,6 +4,7 @@ locale: "ar"
 slug: "scholars-and-figures"
 ---
 
+*بقلم: د. أحمد محمد علي أبو سيف، رئيس أكاديمية الأئمة بأمريكا (American Imams Academy).*
 
 ## أبو إسحاق الشاطبي (ت ٧٩٠هـ)
 

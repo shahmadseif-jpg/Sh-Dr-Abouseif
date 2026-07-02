@@ -4,6 +4,8 @@ locale: "en"
 slug: "reformers-never-cease"
 ---
 
+*By Dr. Ahmed Mohamed Ali Abouseif, President of the American Imams Academy.*
+
 Great calls are born from the womb of hardship, and reforming missions rise upon the shoulders of men who know no path to despair. Reform, in its truth, is not a passing cry, nor a stirring sermon, nor an impassioned stand that blazes for an hour and then dies down; it is a long planting, a continuous striving, an attempt followed by an attempt, until God permits what He wills to sprout, and when He wills it to bear fruit, and how He wills it to reach its full reach.
 
 Whoever imagines that reform is a swift bargain struck in a gathering, or a word delivered that overturns the world around him, has been ignorant of the nature of the road and of God's laws in souls and societies. For hearts do not all yield at the first call, minds do not all transform at the first exposition, and environments do not change by a word however true, nor by an exhortation however far it reaches. Rather it is a long movement in which seeds accumulate and seasons succeed one another; the sower may see the fruit of his planting, and he may not, and the one who comes after him may reap it, while God records for him the reward of the first planter.

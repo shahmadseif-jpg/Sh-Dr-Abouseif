@@ -4,6 +4,8 @@ locale: "es"
 slug: "social-application"
 ---
 
+*Por el Dr. Ahmed Mohamed Ali Abouseif, presidente de la American Imams Academy (Academia Americana de Imames).*
+
 ## El fin de la justicia: la balanza del sostén de la sociedad
 
 > «En verdad, Dios ordena la justicia, la benevolencia y dar a los parientes.» [al-Naḥl: 90]

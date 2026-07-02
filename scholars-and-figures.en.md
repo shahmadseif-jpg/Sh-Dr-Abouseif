@@ -4,6 +4,8 @@ locale: "en"
 slug: "scholars-and-figures"
 ---
 
+*By Dr. Ahmed Mohamed Ali Abouseif, President of the American Imams Academy.*
+
 ## Abū Isḥāq al-Shāṭibī (d. 790 AH)
 
 Author of al-Muwāfaqāt and the greatest theorist of the theory of objectives. He did not write an independent objective-based tafsīr, but he laid the theoretical foundation upon which this entire current rests; he arranged the objectives into necessities, needs, and embellishments, established that the Sharia was instituted for the interests of God's servants in the immediate and the ultimate, and clarified the ways of uncovering the objectives of the Lawgiver. He is the founding father from whom everyone who came after him proceeds, and scarcely any research on objectives is free of transmitting from him and building upon him.

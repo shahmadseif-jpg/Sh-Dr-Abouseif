@@ -4,6 +4,8 @@ locale: "es"
 slug: "scholars-and-figures"
 ---
 
+*Por el Dr. Ahmed Mohamed Ali Abouseif, presidente de la American Imams Academy (Academia Americana de Imames).*
+
 ## Abū Isḥāq al-Shāṭibī (m. 790 H)
 
 Autor de al-Muwāfaqāt y el mayor fundamentador de la teoría de los fines. No escribió un tafsīr orientado a los fines independiente, pero estableció el fundamento teórico sobre el que se apoya toda esta corriente; ordenó los fines en necesidades, requerimientos y embellecimientos, estableció que la Sharía se instituyó para los intereses de los siervos de Dios en lo inmediato y en lo último, y aclaró las vías para descubrir los fines del Legislador. Es el padre fundador del que procede todo el que vino después de él, y apenas hay una investigación sobre los fines que esté libre de transmitir de él y edificar sobre él.

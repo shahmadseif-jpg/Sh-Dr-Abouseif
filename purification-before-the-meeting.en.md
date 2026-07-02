@@ -9,6 +9,8 @@ episode: 8
 readingMinutes: 10
 ---
 
+*By Dr. Ahmed Mohamed Ali Abouseif, President of the American Imams Academy.*
+
 ### An Opening: ﴾Then Let Them Complete Their Cleansing﴿
 
 Amid the throng of the pilgrims — between feet worn out by walking, faces scorched by the sun of ʿArafāt, and tongues that never cease to repeat, "Here I am, O God, here I am" — comes this wondrous Qur'anic instruction:

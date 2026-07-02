@@ -9,6 +9,8 @@ episode: 4
 readingMinutes: 12
 ---
 
+*Por el Dr. Ahmed Mohamed Ali Abouseif, presidente de la American Imams Academy (Academia Americana de Imames).*
+
 ### Entrada desde el corazón del encuentro
 
 En aquella noche, nos reunimos en la Mezquita de la Academia Americana de los Imanes en la ciudad de Sachse, en el estado de Texas, y la pregunta que se planteó estaba presente en los corazones antes de pronunciarse sobre el púlpito: **¿qué quedó de Ramadán después de que se elevó?** ¿Son días contados que se evaporan como se evaporaron sus días, o es que el verdadero ayunante es quien hizo de Ramadán una estación de lanzamiento, no una línea de meta?

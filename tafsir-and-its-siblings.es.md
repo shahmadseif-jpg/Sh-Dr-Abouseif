@@ -4,6 +4,8 @@ locale: "es"
 slug: "tafsir-and-its-siblings"
 ---
 
+*Por el Dr. Ahmed Mohamed Ali Abouseif, presidente de la American Imams Academy (Academia Americana de Imames).*
+
 ## Primero: el tafsīr orientado a los fines y «los fines del Corán»
 
 «Los fines del Corán» son un tema y un contenido: son las grandes metas por las que se reveló el Corán —como la guía, la rectificación de la creencia y la purificación del alma—. El tafsīr orientado a los fines, en cambio, es un método y un acto de inquisición que invierte esos fines en la comprensión de los versículos particulares y en su aplicación a la realidad. Entre ambos hay generalidad y particularidad: los fines del Corán son el gran «mapa» de las metas, y el tafsīr orientado a los fines es el «viaje» que recorres con este mapa en cada versículo.

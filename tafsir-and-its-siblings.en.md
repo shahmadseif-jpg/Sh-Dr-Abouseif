@@ -4,6 +4,8 @@ locale: "en"
 slug: "tafsir-and-its-siblings"
 ---
 
+*By Dr. Ahmed Mohamed Ali Abouseif, President of the American Imams Academy.*
+
 ## First: Objective-Based Tafsīr and "the Objectives of the Qur'an"
 
 "The objectives of the Qur'an" are a subject and a body of content: they are the great goals for which the Qur'an was revealed — such as guidance, the rectification of belief, and the purification of the soul. Objective-based tafsīr, by contrast, is a method and an act of inquiry that invests those objectives in understanding particular verses and applying them to reality. Between the two there is generality and particularity: the objectives of the Qur'an are the great "map" of goals, while objective-based tafsīr is the "journey" you take with this map through each verse.

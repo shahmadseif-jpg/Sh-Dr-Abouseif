@@ -9,6 +9,8 @@ episode: 2
 readingMinutes: 14
 ---
 
+*By Dr. Ahmed Mohamed Ali Abouseif, President of the American Imams Academy.*
+
 ## Prelude: The Vision Before the Pit
 
 "I saw eleven stars, and the sun and the moon — I saw them prostrating to me."

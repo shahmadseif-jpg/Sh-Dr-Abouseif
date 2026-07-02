@@ -4,6 +4,8 @@ locale: "es"
 slug: "reformers-never-cease"
 ---
 
+*Por el Dr. Ahmed Mohamed Ali Abouseif, presidente de la American Imams Academy (Academia Americana de Imames).*
+
 Las grandes llamadas nacen del vientre de la fatiga, y los mensajes reformadores se alzan sobre los hombros de hombres que no conocen camino alguno hacia la desesperación. La reforma, en su verdad, no es un grito pasajero, ni un sermón conmovedor, ni una postura entusiasta que arde por una hora y luego se apaga; es más bien una siembra prolongada, un esfuerzo continuo, un intento al que sigue otro intento, hasta que Dios permita que brote lo que Él quiera, que dé fruto cuando Él quiera, y que alcance su plenitud como Él quiera.
 
 Quien crea que la reforma es un trato urgente que se cierra en una reunión, o una palabra que se pronuncia y con ella el mundo entero se transforma a su alrededor, ha ignorado la naturaleza del camino y las leyes de Dios en las almas y las sociedades. Pues los corazones no se rinden todos al primer llamado, ni las mentes se transforman todas ante el primer enunciado, ni los entornos cambian con una palabra por sincera que sea, ni con una exhortación por elocuente que llegue. Es, más bien, un movimiento prolongado en el que se acumulan las semillas y se suceden las estaciones; a veces el sembrador ve el fruto de su siembra, y a veces no lo ve, y a veces lo cosecha quien viene después de él, mientras Dios le escribe la recompensa del primer plantador.

@@ -3,6 +3,8 @@
 
 ---
 
+*Por el Dr. Ahmed Mohamed Ali Abouseif, presidente de la American Imams Academy (Academia Americana de Imames).*
+
 ### Una luz que precede a los pasos
 
 En las primeras horas del alba, antes de que clamen los caminos con el movimiento de los transeúntes, y antes de que despierten los mercados con su bullicio habitual, se dirigen los pasos en quietud hacia las casas de Dios. Rostros que agotó el afán de ayer, pero que aún buscan la luz antes de comenzar un nuevo día. Se alinean los orantes tras el imam en filas apretadas, como si la humanidad reordenara su mente y su corazón cada mañana sobre la guía del cielo.

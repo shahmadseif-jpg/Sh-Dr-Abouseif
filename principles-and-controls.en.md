@@ -4,6 +4,8 @@ locale: "en"
 slug: "principles-and-controls"
 ---
 
+*By Dr. Ahmed Mohamed Ali Abouseif, President of the American Imams Academy.*
+
 Objective-based tafsīr is a great door of good, but — like any method — it is misused if it is unfastened from its controls. One may use "the objective" as a pretext to suspend an explicit ruling, or to load onto a verse what it cannot bear. Hence the establishing of controls is the safety valve that preserves the method from sliding into deviant interpretation.
 
 ## First: Regard for the Word and the Context First

@@ -4,6 +4,8 @@ locale: "en"
 slug: "psychological-application"
 ---
 
+*By Dr. Ahmed Mohamed Ali Abouseif, President of the American Imams Academy.*
+
 We conclude our series with the deepest and most hidden of the human being's fields: his soul and his heart. The Qur'an, just as it rectifies conduct and builds society, heals the soul and grants it tranquility; God described it as a healing, saying: "And We send down of the Qur'an that which is a healing and a mercy for the believers." [al-Isrāʾ: 82]. The objective-based reading of the verses of serenity reveals that among the grand objectives of the Qur'an is the treatment of anxiety, fear, and despair, and the planting of contentment and hope in weary hearts.
 
 ## The Objective of Tranquility: Stillness Through the Remembrance of God

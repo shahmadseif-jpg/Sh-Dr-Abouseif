@@ -4,6 +4,8 @@ locale: "es"
 slug: "surah-al-fatiha"
 ---
 
+*Por el Dr. Ahmed Mohamed Ali Abouseif, presidente de la American Imams Academy (Academia Americana de Imames).*
+
 Cada día el musulmán se yergue ante su Señor al menos diecisiete veces —las unidades de las cinco oraciones obligatorias—, y ninguna unidad le es válida sino con una Fātiḥah que recita con su lengua, o que escucha de su imam y luego dice «Āmīn». ¿Cuál es, pues, la sabiduría de que sea precisamente esta sura la indispensable que nunca se omite? ¿Y por qué eligió el Legislador plantarla en el corazón del musulmán, en su mente y en su conciencia con esta siembra repetida cada día? La pregunta es, en su esencia, orientada a los fines; no se detiene en «¿Qué dice la Fātiḥah?», sino que penetra hasta «¿Qué quiere la Fātiḥah hacer del ser humano cada día?».
 
 La primera respuesta es que la repetición misma es un fin; pues el significado no se arraiga en el alma de una sola vez, sino mediante el recordatorio renovado. La Fātiḥah —a la que los sabios llamaron «la Madre del Corán»— reunió los grandes fines del Corán en siete aleyas: la unicidad, la alabanza, la servidumbre, el retorno y la guía, hasta el punto de que Ibn ʿĀshūr la consideró un «magistral prólogo» de la revelación, que lleva en sus pliegues todos los fines del Corán. Parte de la sabiduría de su repetición, pues, es que el musulmán reajuste su brújula sobre estos fines antes de lanzarse a su vida mundana.

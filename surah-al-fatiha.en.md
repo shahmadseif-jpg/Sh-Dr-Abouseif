@@ -4,6 +4,8 @@ locale: "en"
 slug: "surah-al-fatiha"
 ---
 
+*By Dr. Ahmed Mohamed Ali Abouseif, President of the American Imams Academy.*
+
 Every day the Muslim stands before his Lord at least seventeen times — the units of the five obligatory prayers — and no unit is valid for him except with a Fātiḥah he recites with his tongue, or listens to from his imam and then says "Āmīn." So what is the wisdom in this particular sūrah being the indispensable one that never falls away? And why did the Lawgiver choose to plant it in the Muslim's heart, mind, and consciousness with this repeated daily planting? The question is objective-based at its core; it does not stop at "What does the Fātiḥah say?" but penetrates to "What does the Fātiḥah want to make of the human being each day?"
 
 The first answer is that the repetition itself is an objective; for meaning does not take root in the soul from a single time, but through renewed reminder. The Fātiḥah — which the scholars named "the Mother of the Qur'an" — gathered the grand objectives of the Qur'an into seven verses: oneness, praise, servitude, the return, and guidance, so much so that Ibn ʿĀshūr counted it a "masterful prologue" to the revelation, carrying within its folds all the objectives of the Qur'an. Part of the wisdom of its repetition, then, is that the Muslim resets his compass upon these objectives before he sets out into his worldly life.

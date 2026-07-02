@@ -9,6 +9,8 @@ episode: 2
 readingMinutes: 15
 ---
 
+*Por el Dr. Ahmed Mohamed Ali Abouseif, presidente de la American Imams Academy (Academia Americana de Imames).*
+
 ### Entrada: «para cada situación, un discurso»... y «para cada discurso, una situación»
 
 Los retóricos de los primeros árabes pesaban la elocuencia del hablante con una regla célebre: «para cada situación (maqām), un discurso (maqāl)». Pues el habla en la seriedad es distinta del habla en la broma, y la palabra del que da el pésame es distinta de la palabra del que felicita, y lo que sirve en la asamblea de los reyes no sirve en el mercado del común. Y quien dio a cada situación su discurso es el elocuente.

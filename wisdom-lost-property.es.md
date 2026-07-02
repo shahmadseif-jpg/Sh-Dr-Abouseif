@@ -9,6 +9,8 @@ episode: 1
 readingMinutes: 14
 ---
 
+*Por el Dr. Ahmed Mohamed Ali Abouseif, presidente de la American Imams Academy (Academia Americana de Imames).*
+
 ### Entrada: un dicho transmitido que resume una filosofía entera
 
 Se hizo célebre en las lenguas un dicho transmitido que la gente recibió con aceptación, y es: «La sabiduría es el extravío del creyente; dondequiera que la halle, él tiene más derecho a ella». Se transmitió elevado al Profeta (la paz sea con él) del hadiz de Abū Hurayra (Dios esté complacido con él), lo registraron al-Tirmiḏī e Ibn Māŷa, **pero su cadena elevada es muy débil según la mayoría de los tradicionistas, por lo que no es correcto afirmar con certeza su elevación al Mensajero de Dios (la paz sea con él)**[^1]. Pero su significado es inmenso y sólido, lo atestiguan el Libro y la Sunna firme, y obraron por su exigencia los Compañeros y los Seguidores. Y de lo que se menciona en este capítulo —en forma de cautela— es su dicho: «La sabiduría es el extravío del creyente, así que buscadla aunque sea entre la gente de la hipocresía», que se atribuyó a ʿAlī (Dios esté complacido con él) y no hemos hallado para ello una cadena firme[^2].

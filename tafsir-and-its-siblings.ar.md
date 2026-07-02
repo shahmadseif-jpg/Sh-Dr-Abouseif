@@ -4,6 +4,7 @@ locale: "ar"
 slug: "tafsir-and-its-siblings"
 ---
 
+*بقلم: د. أحمد محمد علي أبو سيف، رئيس أكاديمية الأئمة بأمريكا (American Imams Academy).*
 
 ## أولاً: التفسير المقاصدي و«مقاصد القرآن»
 

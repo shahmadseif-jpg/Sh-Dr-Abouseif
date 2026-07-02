@@ -4,6 +4,8 @@ locale: "es"
 slug: "origin-and-development"
 ---
 
+*Por el Dr. Ahmed Mohamed Ali Abouseif, presidente de la American Imams Academy (Academia Americana de Imames).*
+
 El tafsīr orientado a los fines no nació como un término acabado en un solo día; antes bien, sus semillas crecieron con el descenso de la revelación, y luego avanzó por etapas hasta convertirse en una corriente metódica. Comprender este desarrollo nos preserva de dos ilusiones: la de que es una herejía recién inventada, y la de que fue una ciencia de rasgos completos desde el principio.
 
 ## Primero: las semillas en la época de la Profecía y los Compañeros

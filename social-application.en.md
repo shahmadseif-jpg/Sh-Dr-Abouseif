@@ -4,6 +4,8 @@ locale: "en"
 slug: "social-application"
 ---
 
+*By Dr. Ahmed Mohamed Ali Abouseif, President of the American Imams Academy.*
+
 ## The Objective of Justice: The Balance of Society's Standing
 
 > "Indeed, God orders justice and good conduct and giving to relatives." [al-Naḥl: 90]

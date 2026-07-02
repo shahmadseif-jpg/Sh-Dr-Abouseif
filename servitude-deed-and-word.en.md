@@ -9,6 +9,8 @@ episode: 2
 readingMinutes: 15
 ---
 
+*By Dr. Ahmed Mohamed Ali Abouseif, President of the American Imams Academy.*
+
 ### An Opening: "For Every Situation, a Fitting Speech"... and "For Every Speech, a Fitting Station"
 
 The classical Arab rhetoricians measured eloquence by a famous maxim: *"For every situation, a fitting speech"* (*li-kulli maqāmin maqāl*). Earnest speech is not the same as jest; the words of consolation differ from those of congratulation; and what suits the gathering of kings does not suit the common marketplace. Whoever finds the right speech for every station — he is the truly eloquent.

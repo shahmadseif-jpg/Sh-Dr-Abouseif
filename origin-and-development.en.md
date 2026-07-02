@@ -4,6 +4,8 @@ locale: "en"
 slug: "origin-and-development"
 ---
 
+*By Dr. Ahmed Mohamed Ali Abouseif, President of the American Imams Academy.*
+
 Objective-based tafsīr was not born as a finished technical term in a single day; rather its seeds grew with the descent of revelation, then advanced by stages until it became a methodical current. Understanding this development guards us against two illusions: the illusion that it is a newly invented heresy, and the illusion that it was a science of complete features from the very beginning.
 
 ## First: The Seeds in the Era of Prophethood and the Companions

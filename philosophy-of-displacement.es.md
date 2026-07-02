@@ -8,6 +8,8 @@ series: "El Corán y la civilización"
 episode: 6
 ---
 
+*Por el Dr. Ahmed Mohamed Ali Abouseif, presidente de la American Imams Academy (Academia Americana de Imames).*
+
 ## Apertura: ¿por qué dedicó el Corán al desplazamiento este espacio?
 
 El Corán es en primer lugar un método reformador que define al ser humano el fin de su existencia y la dirección de su movimiento en la vida, le extrae los mecanismos del desarrollo de esta vida, y las causas que pueden conducir a su derrumbe. Expone en su Corán mequí los componentes de la construcción de las personalidades individuales, en los comienzos de las revelaciones medinenses la metodología del establecimiento de la comunidad, el Estado y la sociedad, y en el tercio central del Corán hallamos el hablar condensado de la civilización en formas directas e indirectas, a nivel de la exposición narrativa de las experiencias de los anteriores, las herramientas de la permanencia y el derrumbe, y las causas de la resistencia y la caída.
