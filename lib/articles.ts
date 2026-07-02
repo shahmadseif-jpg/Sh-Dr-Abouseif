@@ -37,6 +37,29 @@ export interface ArticleMeta {
 }
 
 export const articlesMeta: ArticleMeta[] = [
+  // ===== مقال: الحنيفية في القرآن =====
+  {
+        slug: 'hanifiyyah-in-quran-meaning-and-application',
+        category: 'wisdom-insights',
+        isoDate: '2026-07-01',
+        date: { ar: 'يوليو ٢٠٢٦', en: 'July 2026', es: 'Julio de 2026' },
+        readingMinutes: 13,
+        title: {
+                ar: "الحنيفية في القرآن: دلالة وتطبيقاً",
+                en: "Ḥanīfiyyah in the Qurʾan: From Meaning to Application",
+                es: "La ḥanīfiyyah en el Corán: del significado a la aplicación",
+        },
+        subtitle: {
+                ar: "مصطلحٌ تكاثرت حوله الأقوال، ولمّا يزل يستحقّ أن يُتابَع موضعاً موضعاً",
+                en: "A term surrounded by centuries of commentary, and still worth tracing verse by verse",
+                es: "Un término rodeado de comentarios durante siglos, que aún merece seguirse aleya por aleya",
+        },
+        excerpt: {
+                ar: "يتكرّر لفظ «الحنيف» في القرآن اثنتي عشرة مرّة، ثمانٍ منها لإبراهيم عليه السلام وحده، فما سرّ هذا الاختصاص؟ دراسةٌ تتتبّع اللفظ موضعاً موضعاً، وتكشف في أصل اللغة لماذا اختير «الميل» لا «الاستقامة» وصفاً للتوحيد، وتستجلي شاهد السنّة ومقاصد العلماء، لتخلص إلى أنّ الحنيفيّة ليست انتساباً تاريخيّاً بل ميلٌ مستمرٌّ نحو الاستقامة، لا محطّةٌ تُبلغ فيستقرّ عندها صاحبها.",
+                en: "The word 'ḥanīf' recurs twelve times in the Qurʾan — eight of them tied to Abraham alone. Why this singular attachment? A study that traces the term occurrence by occurrence, uncovers in its linguistic root why 'inclination' rather than 'uprightness' was chosen to describe monotheism, and draws on Prophetic hadith and the objective-based readings of Ibn ʿĀshūr, Ibn Taymiyyah, and Ibn al-Qayyim — concluding that ḥanīfiyyah is not a historical affiliation but a continuous inclination toward uprightness, never a station where one comes to rest.",
+                es: "La palabra «ḥanīf» aparece doce veces en el Corán, ocho de ellas vinculadas únicamente a Abraham. ¿Cuál es el secreto de esta particularidad? Un estudio que rastrea el término aleya por aleya, revela en su raíz lingüística por qué se eligió «la inclinación» y no «la rectitud» para describir el monoteísmo, y recurre al hadiz profético y a las lecturas orientadas a los fines de Ibn ʿĀshūr, Ibn Taymiyyah e Ibn al-Qayyim, para concluir que la ḥanīfiyyah no es una filiación histórica, sino una inclinación continua hacia la rectitud, nunca una estación en la que uno se detiene.",
+        },
+  },
   // ===== مقال: الإبحارُ في الزهراوين (النداءات الإيمانية — الحلقة ١) =====
   {
     slug: 'zahrawan-iman-calls',
