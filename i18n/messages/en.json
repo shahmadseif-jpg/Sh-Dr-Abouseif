@@ -176,9 +176,24 @@
     "country": "Country (optional)",
     "topic": "Question topic",
     "chooseTopic": "Choose a topic",
-    "topics": ["Creed (Aqeedah)", "Purification & Prayer", "Fasting", "Zakah", "Hajj & Umrah", "Financial dealings", "Family matters (marriage/divorce)", "Tafsir & Quranic sciences", "Ethics & conduct", "Other"],
+    "topics": [
+      "Creed (Aqeedah)",
+      "Purification & Prayer",
+      "Fasting",
+      "Zakah",
+      "Hajj & Umrah",
+      "Financial dealings",
+      "Family matters (marriage/divorce)",
+      "Tafsir & Quranic sciences",
+      "Ethics & conduct",
+      "Other"
+    ],
     "answerLang": "Preferred answer language",
-    "answerLangs": ["Arabic", "English", "Spanish"],
+    "answerLangs": [
+      "Arabic",
+      "English",
+      "Spanish"
+    ],
     "question": "Your question",
     "namePlaceholder": "Your name",
     "emailPlaceholder": "example@email.com",
@@ -209,5 +224,22 @@
     "type_article": "Article",
     "type_research": "Research",
     "type_khatra": "Reflection"
+  },
+  "comments": {
+    "title": "Comments",
+    "subtitle": "Share a benefit or a question about the article — comments are published after review.",
+    "name": "Name",
+    "namePlaceholder": "Your name",
+    "email": "Email (optional, not published)",
+    "emailPlaceholder": "example@email.com",
+    "comment": "Your comment",
+    "commentPlaceholder": "Write your comment respectfully...",
+    "submit": "Post comment",
+    "sending": "Sending...",
+    "success": "Your comment has been received and will be published after review, God willing. Thank you.",
+    "error": "Could not send. Please try again.",
+    "empty": "No comments published yet. Be the first to comment.",
+    "moderationNote": "Comments are reviewed before publishing; please keep the tone respectful.",
+    "replyLabel": "Sheikh's reply"
   }
 }

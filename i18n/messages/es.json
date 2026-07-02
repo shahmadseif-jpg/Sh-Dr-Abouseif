@@ -176,9 +176,24 @@
     "country": "País (opcional)",
     "topic": "Tema de la pregunta",
     "chooseTopic": "Elija un tema",
-    "topics": ["Credo (Aqeedah)", "Purificación y oración", "Ayuno", "Zakah", "Hajj y Umrah", "Asuntos financieros", "Asuntos familiares (matrimonio/divorcio)", "Tafsir y ciencias del Corán", "Ética y conducta", "Otro"],
+    "topics": [
+      "Credo (Aqeedah)",
+      "Purificación y oración",
+      "Ayuno",
+      "Zakah",
+      "Hajj y Umrah",
+      "Asuntos financieros",
+      "Asuntos familiares (matrimonio/divorcio)",
+      "Tafsir y ciencias del Corán",
+      "Ética y conducta",
+      "Otro"
+    ],
     "answerLang": "Idioma de respuesta preferido",
-    "answerLangs": ["Árabe", "Inglés", "Español"],
+    "answerLangs": [
+      "Árabe",
+      "Inglés",
+      "Español"
+    ],
     "question": "Su pregunta",
     "namePlaceholder": "Su nombre",
     "emailPlaceholder": "example@email.com",
@@ -209,5 +224,22 @@
     "type_article": "Artículo",
     "type_research": "Investigación",
     "type_khatra": "Reflexión"
+  },
+  "comments": {
+    "title": "Comentarios",
+    "subtitle": "Comparte un beneficio o una pregunta sobre el artículo; los comentarios se publican tras revisión.",
+    "name": "Nombre",
+    "namePlaceholder": "Tu nombre",
+    "email": "Correo (opcional, no se publica)",
+    "emailPlaceholder": "example@email.com",
+    "comment": "Tu comentario",
+    "commentPlaceholder": "Escribe tu comentario con respeto...",
+    "submit": "Enviar comentario",
+    "sending": "Enviando...",
+    "success": "Tu comentario ha sido recibido y se publicará tras su revisión, si Dios quiere. Que Dios te recompense.",
+    "error": "No se pudo enviar. Inténtalo de nuevo.",
+    "empty": "Aún no hay comentarios publicados. Sé el primero en comentar.",
+    "moderationNote": "Los comentarios se revisan antes de publicarse; por favor mantén un tono respetuoso.",
+    "replyLabel": "Respuesta del jeque"
   }
 }
