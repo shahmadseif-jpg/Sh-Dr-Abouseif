@@ -63,8 +63,12 @@ A few small counsels to close with:
 
 - **And know** that whoever abandons the prayer, Satan — from among his enemies — is given mastery over him and changes his religion. Because you are no longer free to pray and fast; you've become preoccupied with people: how do we fight, how do we pay, where do we go, what do we do? — and so your religion is changed upon you. Glory be to the One who taught us this.
 
+### A Gathering Conclusion
+
+Servants of Allah, Satan has one goal that never changes: to lead you astray. He declared it when he said ﴿I will surely lead them all astray﴾ [al-Ḥijr: 39], and he laid bare its end when he said ﴿then You will not find most of them grateful﴾ [al-Aʿrāf: 17]. A fixed goal, but many and varied means: he comes upon this one through the gate of greed, upon that one through the gate of miserliness, upon a third through the gate of comparison, and upon a fourth through an evil companion. Whoever knows that the enemy is one — however many his entry points — guards every gate, and does not grow heedless of one gate merely because he has bolted the others.
+
+Your safeguard from all of this is threefold: a worship that is comprehensive, not confined to the mosque but embracing your work, your sleep, and your striving; righteous companionship — for "a person follows the way of his close friend"; and an unbroken constancy upon the Fajr prayer and the daily remembrances. So hold firm at the greatest gate — the prayer — and his scheming will turn away from you, abased; for the goal will never change, so let your vigilance, likewise, never change.
+
 ### Closing Supplication
 
 O Allah, forgive us our sins and our excesses in our affairs, and make our feet firm upon the truth. O Allah, guide us in our paths. O Allah, give us our records in our right hands and do not give us our records in our left hands. O Allah, do not let our hearts deviate after You have guided us, and grant us mercy from Your presence — indeed, You are the Bestower. Our Lord, forgive us what You know better than we know, accept our repentance, guide us, and set right our hearts, our minds, and our bodies. O Allah, sweeten our inner thoughts and prepare for us right guidance in our affair. And bless for us, O Allah, what You have provided us, and protect us from the punishment of the Fire. And the last of our supplications is: All praise is due to Allah, Lord of the worlds.
-
-*(The recording ended before the sermon was complete — may Allah reward whoever transcribed and conveyed it.)*

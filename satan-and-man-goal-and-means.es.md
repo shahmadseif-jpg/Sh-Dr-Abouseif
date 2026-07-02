@@ -63,8 +63,12 @@ Pequeñas recomendaciones con las que cerramos:
 
 - **Y sabe** que sobre quien abandona la oración se impone el demonio, de entre quienes lo enemistan, para que le cambie su religión; porque ya no estás libre rezando y ayunando, sino que te quedas pensando en la gente: cómo combatimos, cómo pagamos, adónde vamos y qué hacemos. Y así se te cambia tu religión. Glorificado sea Quien nos enseñó eso.
 
+### Una conclusión que reúne
+
+Siervos de Dios, el demonio tiene un único fin que no cambia: extraviaros. Lo declaró cuando dijo ﴿Los extraviaré a todos﴾ [al-Ḥiŷr: 39], y reveló su término cuando dijo ﴿y no hallarás agradecidos a la mayoría de ellos﴾ [al-Aʿrāf: 17]. Un fin fijo, pero medios diversos: entra sobre este por la puerta de la codicia, sobre aquel por la del egoísmo, sobre un tercero por la de la comparación, y sobre un cuarto por el mal compañero. Quien sabe que el enemigo es uno solo —por muchas que sean sus vías de entrada— guarda todas las puertas, y no se descuida de una porque haya cerrado las demás.
+
+Vuestra protección de todo ello es triple: una adoración integral, que no se limita a la mezquita sino que abarca vuestro trabajo, vuestro sueño y vuestro esfuerzo; una buena compañía —pues «la persona sigue la religión de su amigo íntimo»—; y una constancia en la oración del alba y en las invocaciones que no se interrumpe. Manteneos firmes, pues, en la puerta más grande —la oración— y su ardid se apartará de vosotros, humillado; porque el fin no cambiará, así que tampoco cambie vuestra cautela.
+
 ### La súplica final
 
 ¡Oh, Dios! Perdona nuestros pecados y nuestro exceso en nuestro asunto, y afirma, oh Dios, sobre la verdad nuestros pies. ¡Oh, Dios! Guíanos por nuestros caminos. ¡Oh, Dios! Danos nuestros libros en nuestras diestras y no nos des nuestros libros en nuestras siniestras. ¡Oh, Dios! No desvíes nuestros corazones después de habernos guiado, y concédenos de Tu parte una misericordia; en verdad, Tú eres el Dadivoso. ¡Señor nuestro! Perdónanos aquello que Tú mejor conoces, acepta nuestro arrepentimiento, guíanos, y enmienda para nosotros nuestros corazones, nuestras mentes y nuestros cuerpos. ¡Oh, Dios! Haz buenos para nosotros nuestros pensamientos y dispón para nosotros, de nuestro asunto, una buena dirección. Y bendice, oh Dios, lo que nos has provisto, y presérvanos, oh Dios, del castigo del Fuego. Y el final de nuestra súplica es que la alabanza es de Dios, Señor de los mundos.
-
-*(La grabación del sermón terminó antes de su conclusión —que Dios recompense con el bien a quien lo transcribió y lo entregó.)*
