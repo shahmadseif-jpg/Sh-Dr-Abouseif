@@ -37,6 +37,31 @@ export interface ArticleMeta {
 }
 
 export const articlesMeta: ArticleMeta[] = [
+    // ===== مقال: اليقين في القرآن (المفاهيم القرآنية، الحلقة 1) =====
+  {
+        slug: 'yaqin-in-quran-degrees-of-certainty',
+        category: 'wisdom-insights',
+        isoDate: '2026-07-01',
+        date: { ar: 'يوليو ٢٠٢٦', en: 'July 2026', es: 'Julio de 2026' },
+        readingMinutes: 12,
+        series: { ar: 'المفاهيم القرآنية: بين دلالاتها وتطبيقاتها', en: "Qur'anic Concepts: Between Meaning and Application", es: 'Conceptos coránicos: entre su significado y su aplicación' },
+        episode: 1,
+        title: {
+                ar: "اليقين في القرآن: من عِلمٍ إلى عَينٍ إلى حَقّ",
+                en: "Yaqīn in the Qur'an: From Knowledge to Sight to Truth",
+                es: "El yaqīn en el Corán: del conocimiento a la visión y a la verdad",
+        },
+        subtitle: {
+                ar: "دراسةٌ في تدرّج المعرفة القرآنية نحو طمأنينة القلب",
+                en: "A Qur'anic study of the ascending path from inference to witnessing to lived certainty, and its bearing on the steadiness of the heart",
+                es: "Un estudio coránico del camino ascendente de la inferencia a la observación y a la certeza vivida, y su efecto en la firmeza del corazón",
+        },
+        excerpt: {
+                ar: "اليقين، ذلك اللفظ الذي يحسبه كثيرون حالة واحدة لا تتجزأ. لكن القرآن يصفه درجات ثلاثاً متصاعدة: علم اليقين، وعين اليقين، وحق اليقين. دراسةٌ تتتبع الجذر اللغوي، وتكشف عن آيةٍ فريدة تحذّر من يقينٍ زائف يخلط بين شدة الاقتناع وصحة اليقين، وتربط الدرجات الثلاث بنموذج إبراهيم عليه السلام وشهادة السنة وأقوال ابن القيّم والغزالي.",
+                en: "Yaqīn — that word many suppose a single, indivisible state. Yet the Qur'an describes it as three ascending degrees: the knowledge, the sight, and the truth of certainty. A study tracing the linguistic root, uncovering a remarkable verse that warns against a false certainty mistaking conviction for validity, and linking the three degrees to Abraham's own journey, the witness of the Sunnah, and the words of Ibn al-Qayyim and al-Ghazali.",
+                es: "Yaqīn: esa palabra que muchos suponen un estado único e indivisible. Pero el Corán la describe como tres grados ascendentes: el conocimiento, la visión y la verdad de la certeza. Un estudio que rastrea la raíz lingüística, descubre un versículo singular que advierte contra una certeza falsa que confunde la convicción con la validez, y vincula los tres grados con el propio recorrido de Abraham, el testimonio de la Sunna y las palabras de Ibn al-Qayyim y al-Gazālī.",
+        },
+  },
   // ===== مقال: الحنيفية في القرآن =====
   {
         slug: 'hanifiyyah-in-quran-meaning-and-application',
