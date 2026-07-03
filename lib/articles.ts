@@ -303,6 +303,30 @@ export const articlesMeta: ArticleMeta[] = [
     },
   },
   {
+    slug: 'tawakkul-in-quran-delegation-not-passivity',
+    category: 'wisdom-insights',
+    isoDate: '2026-07-02',
+    date: { ar: 'يوليو ٢٠٢٦', en: 'July 2026', es: 'Julio de 2026' },
+    readingMinutes: 12,
+    series: { ar: 'المفاهيم القرآنية: بين دلالاتها وتطبيقاتها', en: "Qur'anic Concepts: Between Meaning and Application", es: 'Conceptos coránicos: entre su significado y su aplicación' },
+    episode: 13,
+    title: {
+      ar: "التوكّل في القرآن: تفويضٌ لا تعطيل",
+      en: "Tawakkul in the Qurʾan: Delegation, Not Passivity",
+      es: "El tawakkul en el Corán: delegación, no pasividad",
+    },
+    subtitle: {
+      ar: "دراسةٌ في جذرٍ أصله الوكالة التجارية، وكيف نُقِل معنى توكيل الوكيل إلى توكيل القلب على الله: أخذٌ بالأسباب ثم تفويضٌ للنتيجة",
+      en: "A study of a root whose origin is commercial agency, and how the meaning of appointing an agent was transferred to the heart's entrustment to God: taking the means, then delegating the outcome",
+      es: "Un estudio de una raíz cuyo origen es la agencia comercial, y cómo el significado de nombrar un agente se transfirió a la encomienda del corazón a Dios: tomar los medios, luego delegar el resultado",
+    },
+    excerpt: {
+      ar: "قال إبراهيم في النار: «حسبي الله ونعم الوكيل»، وأمر النبيّ ﷺ بأن «اعقلها وتوكل». دراسةٌ في جذر «و ك ل» (٧٠ مرة) تفرّق بين التوكل (تفويضٌ بعد الأخذ بالسبب) والتواكل (تركٌ للسبب)، وتقرن التوكل بالمشورة والعمل ورزق الطير الذي «تغدو خِماصًا وتروح بِطانًا».",
+      en: "Abraham said in the fire: 'Sufficient for me is God, and how excellent a Trustee,' and the Prophet ﷺ commanded 'tie it and put your trust.' A study of the root 'w-k-l' (70 times) distinguishing tawakkul (delegation after taking the means) from tawākul (abandoning the means), pairing tawakkul with consultation, work, and the birds' provision — 'they go out hungry and return full.'",
+      es: "Abraham dijo en el fuego: «Me basta Dios, y qué excelente Encargado», y el Profeta ﷺ ordenó «átala y encomiéndate». Un estudio de la raíz «w-k-l» (70 veces) que distingue el tawakkul (delegación tras tomar el medio) del tawākul (abandono del medio), y empareja el tawakkul con la consulta, el trabajo y el sustento de las aves que «salen hambrientas y regresan saciadas».",
+    },
+  },
+  {
     slug: 'daawah-conveyance-and-excerpting',
     category: 'imamship',
     isoDate: '2026-07-03',
