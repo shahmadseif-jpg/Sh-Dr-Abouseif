@@ -327,6 +327,30 @@ export const articlesMeta: ArticleMeta[] = [
     },
   },
   {
+    slug: 'rida-in-quran-mutual-not-one-directional',
+    category: 'wisdom-insights',
+    isoDate: '2026-07-02',
+    date: { ar: 'يوليو ٢٠٢٦', en: 'July 2026', es: 'Julio de 2026' },
+    readingMinutes: 9,
+    series: { ar: 'المفاهيم القرآنية: بين دلالاتها وتطبيقاتها', en: "Qur'anic Concepts: Between Meaning and Application", es: 'Conceptos coránicos: entre su significado y su aplicación' },
+    episode: 14,
+    title: {
+      ar: "الرضا في القرآن: تبادلٌ لا اتجاهٌ واحد",
+      en: "Riḍā in the Qurʾan: Mutual, Not One-Directional",
+      es: "El riḍā en el Corán: mutuo, no de una sola dirección",
+    },
+    subtitle: {
+      ar: "دراسةٌ في عبارةٍ تتكرّر حرفيًّا أربع مرات: «رضي الله عنهم ورضوا عنه»، لتقرّر أن الرضا الحقّ لا يكون إلا متبادَلًا بين العبد وربّه",
+      en: "A study of a phrase recurring verbatim four times: 'God is well-pleased with them, and they are well-pleased with Him' — establishing that true contentment is only mutual, between the servant and his Lord",
+      es: "Un estudio de una frase que se repite literalmente cuatro veces: «Dios está complacido con ellos y ellos están complacidos con Él» —estableciendo que la verdadera complacencia solo es mutua, entre el siervo y su Señor",
+    },
+    excerpt: {
+      ar: "«ارجعي إلى ربّك راضيةً مرضيّة»: صفتان في اتجاهين. دراسةٌ في جذر «ر ض و» (٧٣ مرة)، تكشف بنية الرضا المزدوجة عبر عبارةٍ تتكرّر أربعًا، وتبيّن أنه «لا يفارق صاحبه» بخلاف الخوف والرجاء، وأنّ «رضوانًا من الله أكبر» من الجنّة نفسها.",
+      en: "'Return to your Lord, well-pleased and well-pleasing': two attributes in two directions. A study of the root 'r-ḍ-w' (73 times), disclosing riḍā's doubled structure through a phrase recurring four times, showing that it 'does not part from its owner' unlike fear and hope, and that 'a pleasure from God is greater' than Paradise itself.",
+      es: "«Vuelve a tu Señor, complacida y complaciente»: dos atributos en dos direcciones. Un estudio de la raíz «r-ḍ-w» (73 veces), que revela la estructura doble del riḍā mediante una frase que se repite cuatro veces, muestra que «no se separa de su dueño» a diferencia del temor y la esperanza, y que «una complacencia de Dios es mayor» que el Paraíso mismo.",
+    },
+  },
+  {
     slug: 'daawah-conveyance-and-excerpting',
     category: 'imamship',
     isoDate: '2026-07-03',
