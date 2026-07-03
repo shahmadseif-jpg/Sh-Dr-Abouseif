@@ -142,6 +142,8 @@ export const articlesMeta: ArticleMeta[] = [
     isoDate: '2026-06-25',
     date: { ar: 'يونيو ٢٠٢٦', en: 'June 2026', es: 'Junio de 2026' },
     readingMinutes: 7,
+    series: { ar: 'النداءات الإيمانية', en: 'The Calls to the Believers', es: 'Los llamados a los creyentes' },
+    episode: 2,
     title: {
       ar: 'عَتبةُ السِّلْم: قراءةٌ في مِحْور سورة البقرة',
       en: 'The Threshold of Peace: A Reading in the Axis of Sūrat al-Baqara',
@@ -247,10 +249,12 @@ export const articlesMeta: ArticleMeta[] = [
   // ===== تأمّل قرآنيّ (الاستجابة) =====
   {
     slug: 'response-is-life',
-    category: 'wisdom-insights',
+    category: 'maqasid-tafsir',
     isoDate: '2026-06-10',
     date: { ar: 'يونيو ٢٠٢٦', en: 'June 2026', es: 'Junio de 2026' },
     readingMinutes: 8,
+    series: { ar: 'النداءات الإيمانية', en: 'The Calls to the Believers', es: 'Los llamados a los creyentes' },
+    episode: 3,
     title: { ar: "الاستجابة حياة", en: "Response Is Life", es: "La respuesta es vida" },
     subtitle: { ar: "قراءةٌ تأصيليّةٌ تربويّةٌ في نداء ﴿اسْتَجِيبُوا لِلَّهِ وَلِلرَّسُولِ إِذَا دَعَاكُمْ لِمَا يُحْيِيكُمْ﴾", en: "A foundational, educative reading of the call: ‘Respond to God and to the Messenger when He calls you to that which gives you life’", es: "Una lectura fundacional y educativa del llamado: «Responded a Dios y al Mensajero cuando os llama a aquello que os da vida»" },
     excerpt: { ar: "ما من نداءٍ في كتاب الله بـ«يا أيها الذين آمنوا» إلا وهو بابُ شرفٍ ومنزلةُ تكليف. وفي ﴿استجيبوا لله وللرسول إذا دعاكم لما يحييكم﴾ يجتمع الأمرُ بالاستجابة، وبيانُ غايتها العظمى — الحياة — والتحذيرُ من التسويف ﴿واعلموا أن الله يحول بين المرء وقلبه﴾؛ مسارعةٌ كمسارعة الجيل الأول، تَحيا بها أركانُ الإنسان الثلاثة.", en: "Every call in God's Book opening with ‘O you who have believed’ is a door of honor and a station of duty. In ‘Respond to God and to the Messenger when He calls you to that which gives you life’ the command to respond meets its greatest aim — life — and a warning against delay: ‘And know that God comes between a person and his heart.’ A swiftness like the first generation's, by which heart, mind, and body all come alive.", es: "Todo llamado en el Libro de Dios que comienza con «¡Oh, vosotros que habéis creído!» es una puerta de honor y una estación de deber. En «Responded a Dios y al Mensajero cuando os llama a aquello que os da vida» se reúnen el mandato de responder, su fin supremo —la vida— y la advertencia contra el aplazamiento: «Y sabed que Dios se interpone entre la persona y su corazón»; una prontitud como la de la primera generación, por la que cobran vida el corazón, la mente y el cuerpo." },
