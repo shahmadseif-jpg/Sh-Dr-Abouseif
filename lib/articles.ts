@@ -399,6 +399,30 @@ export const articlesMeta: ArticleMeta[] = [
     },
   },
   {
+    slug: 'haya-in-quran-modesty-that-does-not-veil-truth',
+    category: 'wisdom-insights',
+    isoDate: '2026-07-02',
+    date: { ar: 'يوليو ٢٠٢٦', en: 'July 2026', es: 'Julio de 2026' },
+    readingMinutes: 12,
+    series: { ar: 'المفاهيم القرآنية: بين دلالاتها وتطبيقاتها', en: "Qur'anic Concepts: Between Meaning and Application", es: 'Conceptos coránicos: entre su significado y su aplicación' },
+    episode: 17,
+    title: {
+      ar: "الحياء في القرآن: حياءٌ لا يحجب الحقّ",
+      en: "Ḥayāʾ in the Qurʾan: A Modesty That Does Not Veil the Truth",
+      es: "El ḥayāʾ en el Corán: un pudor que no vela la verdad",
+    },
+    subtitle: {
+      ar: "دراسةٌ في لفظٍ نادر الورود في القرآن، غزير الشاهد في السنّة، يشترك في جذره مع الحياة نفسها",
+      en: "A study of a word rare in occurrence in the Qurʾan, abundant in witness in the Sunnah, that shares its root with life itself",
+      es: "Un estudio de una palabra rara en aparición en el Corán, abundante en testimonio en la Sunna, que comparte su raíz con la vida misma",
+    },
+    excerpt: {
+      ar: "كان النبيّ ﷺ «أشدّ حياءً من العذراء في خدرها»، ومع ذلك بلّغ أدقّ الأحكام. دراسةٌ في لفظٍ لا يرد بمعناه الدقيق إلا أربع مرات، مفتاحه أنّ «الله لا يستحيي من الحقّ»: فالحياء أدبٌ في الأداء لا عذرٌ عن الأداء، و«شعبةٌ من الإيمان» لا حاجبٌ عن العلم.",
+      en: "The Prophet ﷺ was 'more modest than a virgin in her chamber,' yet he conveyed the most precise rulings. A study of a word occurring in its precise meaning only four times, whose key is that 'God is not shy of the truth': modesty is propriety in the performance, not an excuse from it; 'a branch of faith,' not a veil over knowledge.",
+      es: "El Profeta ﷺ era «más pudoroso que una virgen en su aposento», y sin embargo transmitió las disposiciones más precisas. Un estudio de una palabra que aparece en su significado preciso solo cuatro veces, cuya clave es que «Dios no siente pudor de la verdad»: el pudor es recato en el desempeño, no una excusa de él; «una rama de la fe», no un velo sobre el conocimiento.",
+    },
+  },
+  {
     slug: 'daawah-conveyance-and-excerpting',
     category: 'imamship',
     isoDate: '2026-07-03',
