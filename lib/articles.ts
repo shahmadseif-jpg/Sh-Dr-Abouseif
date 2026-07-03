@@ -39,6 +39,54 @@ export interface ArticleMeta {
 export const articlesMeta: ArticleMeta[] = [
   // ===== مقال: الخطاب الدعوي بين تمام البلاغ وآفة الاجتزاء (سلسلة الإمامة والقيادة) =====
   {
+    slug: 'hanifiyyah-in-quran-meaning-and-application',
+    category: 'wisdom-insights',
+    isoDate: '2026-07-01',
+    date: { ar: 'يوليو ٢٠٢٦', en: 'July 2026', es: 'Julio de 2026' },
+    readingMinutes: 13,
+    series: { ar: 'المفاهيم القرآنية: بين دلالاتها وتطبيقاتها', en: "Qur'anic Concepts: Between Meaning and Application", es: 'Conceptos coránicos: entre su significado y su aplicación' },
+    episode: 2,
+    title: {
+      ar: "الحنيفية في القرآن: دلالة وتطبيقاً",
+      en: "Ḥanīfiyyah in the Qurʾan: From Meaning to Application",
+      es: "La ḥanīfiyyah en el Corán: del significado a la aplicación",
+    },
+    subtitle: {
+      ar: "مصطلحٌ تكاثرت حوله الأقوال، ولمّا يزل يستحقّ أن يُتابَع موضعاً موضعاً",
+      en: "A term surrounded by centuries of commentary, and still worth tracing verse by verse",
+      es: "Un término rodeado de comentarios durante siglos, que aún merece seguirse aleya por aleya",
+    },
+    excerpt: {
+      ar: "يتكرّر لفظ «الحنيف» في القرآن اثنتي عشرة مرّة، ثمانٍ منها لإبراهيم عليه السلام وحده، فما سرّ هذا الاختصاص؟ دراسةٌ تتتبّع اللفظ موضعاً موضعاً، وتكشف في أصل اللغة لماذا اختير «الميل» لا «الاستقامة» وصفاً للتوحيد، وتستجلي شاهد السنّة ومقاصد العلماء، لتخلص إلى أنّ الحنيفيّة ليست انتساباً تاريخيّاً بل ميلٌ مستمرٌّ نحو الاستقامة، لا محطّةٌ تُبلغ فيستقرّ عندها صاحبها.",
+      en: "The word 'ḥanīf' recurs twelve times in the Qurʾan — eight of them tied to Abraham alone. A study that traces the term occurrence by occurrence, uncovers why 'inclination' rather than 'uprightness' was chosen to describe monotheism, and draws on Prophetic hadith and the readings of Ibn ʿĀshūr, Ibn Taymiyyah, and Ibn al-Qayyim — concluding that ḥanīfiyyah is not a historical affiliation but a continuous inclination toward uprightness.",
+      es: "La palabra «ḥanīf» aparece doce veces en el Corán, ocho de ellas vinculadas únicamente a Abraham. Un estudio que rastrea el término aleya por aleya, revela por qué se eligió «la inclinación» y no «la rectitud» para describir el monoteísmo, recurriendo al hadiz profético y a las lecturas de Ibn ʿĀshūr, Ibn Taymiyyah e Ibn al-Qayyim, para concluir que la ḥanīfiyyah es una inclinación continua hacia la rectitud.",
+    },
+  },
+  {
+    slug: 'yaqin-in-quran-degrees-of-certainty',
+    category: 'wisdom-insights',
+    isoDate: '2026-07-01',
+    date: { ar: 'يوليو ٢٠٢٦', en: 'July 2026', es: 'Julio de 2026' },
+    readingMinutes: 12,
+    series: { ar: 'المفاهيم القرآنية: بين دلالاتها وتطبيقاتها', en: "Qur'anic Concepts: Between Meaning and Application", es: 'Conceptos coránicos: entre su significado y su aplicación' },
+    episode: 3,
+    title: {
+      ar: "اليقين في القرآن: من عِلمٍ إلى عَينٍ إلى حَقّ",
+      en: "Yaqīn in the Qur'an: From Knowledge to Sight to Truth",
+      es: "El yaqīn en el Corán: del conocimiento a la visión y a la verdad",
+    },
+    subtitle: {
+      ar: "دراسةٌ في تدرّج المعرفة القرآنية نحو طمأنينة القلب",
+      en: "A Qur'anic study of the ascending path from inference to witnessing to lived certainty",
+      es: "Un estudio coránico del camino ascendente de la inferencia a la observación y a la certeza vivida",
+    },
+    excerpt: {
+      ar: "اليقين، ذلك اللفظ الذي يحسبه كثيرون حالة واحدة لا تتجزأ. لكن القرآن يصفه درجات ثلاثاً متصاعدة: علم اليقين، وعين اليقين، وحق اليقين. دراسةٌ تتتبع الجذر اللغوي، وتكشف عن آيةٍ فريدة تحذّر من يقينٍ زائف، وتربط الدرجات الثلاث بنموذج إبراهيم عليه السلام وأقوال ابن القيّم والغزالي.",
+      en: "Yaqīn — a word many suppose a single, indivisible state. Yet the Qur'an describes three ascending degrees: the knowledge, the sight, and the truth of certainty. A study tracing the root, a verse warning against false certainty, and linking the degrees to Abraham's journey and the words of Ibn al-Qayyim and al-Ghazali.",
+      es: "Yaqīn: una palabra que muchos suponen un estado único. Pero el Corán la describe como tres grados: el conocimiento, la visión y la verdad de la certeza. Un estudio de la raíz, un versículo que advierte contra la certeza falsa, y su vínculo con el recorrido de Abraham y las palabras de Ibn al-Qayyim y al-Gazālī.",
+    },
+  },
+  {
     slug: 'daawah-conveyance-and-excerpting',
     category: 'imamship',
     isoDate: '2026-07-03',
@@ -116,6 +164,8 @@ export const articlesMeta: ArticleMeta[] = [
     isoDate: '2026-06-25',
     date: { ar: 'يونيو ٢٠٢٦', en: 'June 2026', es: 'Junio de 2026' },
     readingMinutes: 7,
+    series: { ar: 'النداءات الإيمانية', en: 'The Calls to the Believers', es: 'Los llamados a los creyentes' },
+    episode: 2,
     title: {
       ar: 'عَتبةُ السِّلْم: قراءةٌ في مِحْور سورة البقرة',
       en: 'The Threshold of Peace: A Reading in the Axis of Sūrat al-Baqara',
@@ -177,6 +227,8 @@ export const articlesMeta: ArticleMeta[] = [
     isoDate: '2026-06-17',
     date: { ar: 'يونيو ٢٠٢٦', en: 'June 2026', es: 'Junio de 2026' },
     readingMinutes: 10,
+    series: { ar: 'المفاهيم القرآنية: بين دلالاتها وتطبيقاتها', en: "Qur'anic Concepts: Between Meaning and Application", es: 'Conceptos coránicos: entre su significado y su aplicación' },
+    episode: 1,
     title: {
       ar: "التَّقْوَى في القرآن الكريم: من دَلالةِ اللَّفظِ إلى فلسفةِ التطبيق",
       en: "Taqwā in the Noble Qurʾan: From the Meaning of the Word to the Philosophy of Application",
@@ -219,10 +271,12 @@ export const articlesMeta: ArticleMeta[] = [
   // ===== تأمّل قرآنيّ (الاستجابة) =====
   {
     slug: 'response-is-life',
-    category: 'wisdom-insights',
+    category: 'maqasid-tafsir',
     isoDate: '2026-06-10',
     date: { ar: 'يونيو ٢٠٢٦', en: 'June 2026', es: 'Junio de 2026' },
     readingMinutes: 8,
+    series: { ar: 'النداءات الإيمانية', en: 'The Calls to the Believers', es: 'Los llamados a los creyentes' },
+    episode: 3,
     title: { ar: "الاستجابة حياة", en: "Response Is Life", es: "La respuesta es vida" },
     subtitle: { ar: "قراءةٌ تأصيليّةٌ تربويّةٌ في نداء ﴿اسْتَجِيبُوا لِلَّهِ وَلِلرَّسُولِ إِذَا دَعَاكُمْ لِمَا يُحْيِيكُمْ﴾", en: "A foundational, educative reading of the call: ‘Respond to God and to the Messenger when He calls you to that which gives you life’", es: "Una lectura fundacional y educativa del llamado: «Responded a Dios y al Mensajero cuando os llama a aquello que os da vida»" },
     excerpt: { ar: "ما من نداءٍ في كتاب الله بـ«يا أيها الذين آمنوا» إلا وهو بابُ شرفٍ ومنزلةُ تكليف. وفي ﴿استجيبوا لله وللرسول إذا دعاكم لما يحييكم﴾ يجتمع الأمرُ بالاستجابة، وبيانُ غايتها العظمى — الحياة — والتحذيرُ من التسويف ﴿واعلموا أن الله يحول بين المرء وقلبه﴾؛ مسارعةٌ كمسارعة الجيل الأول، تَحيا بها أركانُ الإنسان الثلاثة.", en: "Every call in God's Book opening with ‘O you who have believed’ is a door of honor and a station of duty. In ‘Respond to God and to the Messenger when He calls you to that which gives you life’ the command to respond meets its greatest aim — life — and a warning against delay: ‘And know that God comes between a person and his heart.’ A swiftness like the first generation's, by which heart, mind, and body all come alive.", es: "Todo llamado en el Libro de Dios que comienza con «¡Oh, vosotros que habéis creído!» es una puerta de honor y una estación de deber. En «Responded a Dios y al Mensajero cuando os llama a aquello que os da vida» se reúnen el mandato de responder, su fin supremo —la vida— y la advertencia contra el aplazamiento: «Y sabed que Dios se interpone entre la persona y su corazón»; una prontitud como la de la primera generación, por la que cobran vida el corazón, la mente y el cuerpo." },
@@ -647,7 +701,7 @@ export const articlesMeta: ArticleMeta[] = [
       en: 'Wisdoms & Insights',
       es: 'Sabidurías y Perspectivas',
     },
-    episode: 4,
+    episode: 12,
     title: {
       ar: 'الضَّمائرُ اليقظَة',
       en: 'Awakened Consciences',
