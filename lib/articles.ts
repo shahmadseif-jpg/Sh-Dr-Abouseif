@@ -591,6 +591,30 @@ export const articlesMeta: ArticleMeta[] = [
     },
   },
   {
+    slug: 'fitnah-in-quran-the-fire-that-distinguishes',
+    category: 'wisdom-insights',
+    isoDate: '2026-07-02',
+    date: { ar: 'يوليو ٢٠٢٦', en: 'July 2026', es: 'Julio de 2026' },
+    readingMinutes: 14,
+    series: { ar: 'المفاهيم القرآنية: بين دلالاتها وتطبيقاتها', en: "Qur'anic Concepts: Between Meaning and Application", es: 'Conceptos coránicos: entre su significado y su aplicación' },
+    episode: 25,
+    title: {
+      ar: "الفتنة في القرآن: من نار الصائغ إلى نار الآخرة",
+      en: "Fitnah in the Qurʾan: From the Goldsmith's Fire to the Fire of the Hereafter",
+      es: "La fitna en el Corán: del fuego del orfebre al fuego de la Otra Vida",
+    },
+    subtitle: {
+      ar: "دراسةٌ في استعارةٍ واحدة تحكم أوسع الألفاظ القرآنية دلالةً: كيف تميّز النارُ الخالصَ من المشوب في صوره الخمس",
+      en: "A study of a single metaphor governing the broadest of Qurʾanic words in signification: how the fire distinguishes the pure from the adulterated, in its five forms",
+      es: "Un estudio de una sola metáfora que gobierna la más amplia de las palabras coránicas en significación: cómo el fuego distingue lo puro de lo adulterado, en sus cinco formas",
+    },
+    excerpt: {
+      ar: "«فتنتُ الذهب»: أذبتُه بالنار لأميّز خالصه من مشوبه. دراسةٌ في جذر «ف ت ن» (٦٠ موضعًا) يجمعه خيطٌ واحد: نارٌ تكشف لا تصنع، بخمس صور — رخاءٌ وشدّةٌ واضطهادٌ وفُرقةٌ وعذابٌ — و«فتنة أمّتي المال»، و«أيّ نارٍ نحن فيها الآن؟».",
+      en: "'I assayed the gold': I melted it with fire to distinguish its pure from its adulterated. A study of the root 'f-t-n' (60 places) gathered by a single thread: a fire that discloses rather than makes, in five forms — ease, hardship, persecution, division, and punishment — and 'the fitnah of my community is wealth,' and 'which fire are we in now?'",
+      es: "«Ensayé el oro»: lo fundí con fuego para distinguir su puro de su adulterado. Un estudio de la raíz «f-t-n» (60 lugares) reunida por un solo hilo: un fuego que revela en lugar de hacer, en cinco formas —holgura, dificultad, persecución, división y castigo— y «la fitna de mi comunidad es la riqueza», y «¿en qué fuego estamos ahora?».",
+    },
+  },
+  {
     slug: 'daawah-conveyance-and-excerpting',
     category: 'imamship',
     isoDate: '2026-07-03',
