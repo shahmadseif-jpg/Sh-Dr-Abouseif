@@ -3,7 +3,7 @@
  * For file content loading (uses fs), see lib/articles-server.ts
  */
 
-export type ArticleCategory = 'imamship' | 'civilization' | 'family' | 'fiqh' | 'wisdom-insights' | 'maqasid-tafsir' | 'prophetic-light';
+export type ArticleCategory = 'imamship' | 'civilization' | 'family' | 'fiqh' | 'wisdom-insights' | 'maqasid-tafsir' | 'prophetic-light' | 'quranic-concepts';
 
 /** Supported site locales. */
 export type Loc = 'ar' | 'en' | 'es';
@@ -40,7 +40,7 @@ export const articlesMeta: ArticleMeta[] = [
       // ===== مقال: اليقين في القرآن (المفاهيم القرآنية، الحلقة 2) =====
   {
         slug: 'yaqin-in-quran-degrees-of-certainty',
-        category: 'wisdom-insights',
+        category: 'quranic-concepts',
         isoDate: '2026-07-01',
         date: { ar: 'يوليو ٢٠٢٦', en: 'July 2026', es: 'Julio de 2026' },
         readingMinutes: 12,
@@ -65,7 +65,7 @@ export const articlesMeta: ArticleMeta[] = [
     // ===== مقال: الحنيفية في القرآن (المفاهيم القرآنية، الحلقة 1) =====
   {
         slug: 'hanifiyyah-in-quran-meaning-and-application',
-        category: 'wisdom-insights',
+        category: 'quranic-concepts',
         isoDate: '2026-07-01',
         date: { ar: 'يوليو ٢٠٢٦', en: 'July 2026', es: 'Julio de 2026' },
         readingMinutes: 13,
@@ -163,7 +163,7 @@ export const articlesMeta: ArticleMeta[] = [
   // ===== مقال: المصلحون لا يكفّون عن المحاولة (قبسٌ من نور النبوّة) =====
   {
     slug: 'reformers-never-cease',
-    category: 'prophetic-light',
+    category: 'imamship',
     isoDate: '2026-06-19',
     date: { ar: 'يونيو ٢٠٢٦', en: 'June 2026', es: 'Junio de 2026' },
     readingMinutes: 14,
@@ -201,7 +201,7 @@ export const articlesMeta: ArticleMeta[] = [
   // ===== مقال: التقوى في القرآن الكريم (حِكَمٌ وبصائر) =====
   {
     slug: 'taqwa-in-the-quran',
-    category: 'wisdom-insights',
+    category: 'quranic-concepts',
     isoDate: '2026-06-17',
     date: { ar: 'يونيو ٢٠٢٦', en: 'June 2026', es: 'Junio de 2026' },
     readingMinutes: 10,
@@ -1183,29 +1183,32 @@ export function getAllArticles(): ArticleMeta[] {
 
 export const categoryLabels = {
   ar: {
-    imamship: 'الإمامة والقيادة',
+    imamship: 'الإمامة والدعوة',
     civilization: 'القرآن والحضارة',
     family: 'الأسرة والتربية',
     fiqh: 'فقه وفكر',
-    'wisdom-insights': 'حِكَمٌ وبصائر',
+    'wisdom-insights': 'تأمّلاتٌ وبصائر',
+    'quranic-concepts': 'المفاهيم القرآنية',
     'maqasid-tafsir': 'التفسير المقاصدي',
     'prophetic-light': 'قبسٌ من نور النبوّة',
   },
   en: {
-    imamship: 'Imamship & Leadership',
+    imamship: 'Imamship & Daʿwah',
     civilization: "Qur'an & Civilization",
     family: 'Family & Parenting',
     fiqh: 'Jurisprudence',
-    'wisdom-insights': 'Wisdoms & Insights',
+    'wisdom-insights': 'Reflections & Insights',
+    'quranic-concepts': "Qur'anic Concepts",
     'maqasid-tafsir': 'Objective-Based Tafsīr',
     'prophetic-light': 'Glimmers of Prophetic Light',
   },
   es: {
-    imamship: 'Imamato y Liderazgo',
+    imamship: 'Imamato y daʿwa',
     civilization: 'El Corán y la Civilización',
     family: 'Familia y Educación',
     fiqh: 'Jurisprudencia y Pensamiento',
-    'wisdom-insights': 'Sabidurías y Perspectivas',
+    'wisdom-insights': 'Reflexiones y percepciones',
+    'quranic-concepts': 'Conceptos coránicos',
     'maqasid-tafsir': 'Tafsīr orientado a los fines',
     'prophetic-light': 'Destellos de la Luz Profética',
   },
