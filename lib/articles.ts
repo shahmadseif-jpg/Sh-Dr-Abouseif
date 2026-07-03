@@ -159,6 +159,30 @@ export const articlesMeta: ArticleMeta[] = [
     },
   },
   {
+    slug: 'tawbah-in-quran-two-turnings-not-one',
+    category: 'wisdom-insights',
+    isoDate: '2026-07-02',
+    date: { ar: 'يوليو ٢٠٢٦', en: 'July 2026', es: 'Julio de 2026' },
+    readingMinutes: 13,
+    series: { ar: 'المفاهيم القرآنية: بين دلالاتها وتطبيقاتها', en: "Qur'anic Concepts: Between Meaning and Application", es: 'Conceptos coránicos: entre su significado y su aplicación' },
+    episode: 7,
+    title: {
+      ar: "التوبة في القرآن: توبتان لا توبة واحدة",
+      en: "Tawbah in the Qurʾan: Two Turnings, Not One",
+      es: "La tawba en el Corán: dos retornos, no uno",
+    },
+    subtitle: {
+      ar: "حين يكون رجوعُ الله إلى عبده هو الذي يُحرِّك رجوعَ العبد إلى ربّه",
+      en: "When God's turning toward His servant is what moves the servant's turning toward his Lord",
+      es: "Cuando el volverse de Dios hacia Su siervo es lo que mueve el retorno del siervo a su Señor",
+    },
+    excerpt: {
+      ar: "«تاب» فعلٌ واحد يخدم الاتجاهين: رجوعُ العبد، ورجوعُ الله عليه. دراسةٌ تتتبّع جذر «ت و ب» في سبعةٍ وثمانين موضعًا، وتكشف في آية كعب بن مالك ﴿ثمّ تاب عليهم ليتوبوا﴾ أنّ فضل الله يسبق توبة العبد فيحرّكها، وأنّ التوبة النصوح لا تمحو السيّئة فحسب بل تُبدّلها حسنات، عبر حديث فرح الله بتوبة عبده وأقوال ابن القيّم والغزالي وابن رجب.",
+      en: "'Tāba' is a single verb serving both directions: the servant's turning and God's turning toward him. A study tracing the root 't-w-b' across eighty-seven places, revealing in the verse of Kaʿb ibn Mālik, 'Then He turned to them so that they might turn,' that God's grace precedes the servant's repentance and moves it, and that sincere repentance not only erases the evil deed but transforms it into good deeds — through the hadith of God's joy at His servant's repentance and the words of Ibn al-Qayyim, al-Ghazālī, and Ibn Rajab.",
+      es: "«Tāba» es un solo verbo que sirve a ambas direcciones: el retorno del siervo y el retorno de Dios hacia él. Un estudio que rastrea la raíz «t-w-b» en ochenta y siete lugares, revela en la aleya de Kaʿb ibn Mālik, «Luego se volvió a ellos para que se volvieran», que la gracia de Dios precede al arrepentimiento del siervo y lo mueve, y que el arrepentimiento sincero no solo borra la mala acción sino que la transforma en buenas acciones, a través del hadiz de la alegría de Dios por el arrepentimiento de Su siervo y los dichos de Ibn al-Qayyim, al-Gazālī e Ibn Raŷab.",
+    },
+  },
+  {
     slug: 'daawah-conveyance-and-excerpting',
     category: 'imamship',
     isoDate: '2026-07-03',
