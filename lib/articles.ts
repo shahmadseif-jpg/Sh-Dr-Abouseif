@@ -495,6 +495,30 @@ export const articlesMeta: ArticleMeta[] = [
     },
   },
   {
+    slug: 'afw-in-quran-leaving-the-trace-to-fade',
+    category: 'wisdom-insights',
+    isoDate: '2026-07-02',
+    date: { ar: 'يوليو ٢٠٢٦', en: 'July 2026', es: 'Julio de 2026' },
+    readingMinutes: 8,
+    series: { ar: 'المفاهيم القرآنية: بين دلالاتها وتطبيقاتها', en: "Qur'anic Concepts: Between Meaning and Application", es: 'Conceptos coránicos: entre su significado y su aplicación' },
+    episode: 21,
+    title: {
+      ar: "العفو في القرآن: تركُ الأثر ليندرس",
+      en: "ʿAfw in the Qurʾan: Leaving the Trace to Fade",
+      es: "El ʿafw en el Corán: dejar el rastro para que se borre",
+    },
+    subtitle: {
+      ar: "دراسةٌ في جذرٍ أصله ترك الشيء حتى يعفو وينمو أو يندرس أثره، وكيف نُقِل هذا المعنى إلى ترك أثر الإساءة حتى يزول",
+      en: "A study of a root whose origin is leaving a thing until it grows or its trace is effaced, and how this meaning was transferred to leaving the trace of an offense until it vanishes",
+      es: "Un estudio de una raíz cuyo origen es dejar una cosa hasta que crezca o su rastro se borre, y cómo este significado se transfirió a dejar el rastro del agravio hasta que se desvanezca",
+    },
+    excerpt: {
+      ar: "«أعفوا اللحى» و«عفت الديار»: العفو ترك الأثر لا محوه عنوة. دراسةٌ في جذر «ع ف و» (٣٥ مرة)، تفرّق بين العفو والصفح والمغفرة، وتكشف أنّ «عفوًّا قديرًا» عفوٌ مع القدرة لا مع العجز، من أبي بكر مع مسطح إلى طلقاء مكة.",
+      en: "'Leave the beards' and 'the dwellings were effaced': pardon is leaving the trace, not erasing it by force. A study of the root 'ʿ-f-w' (35 times), distinguishing pardon, overlooking, and forgiveness, revealing that 'Pardoning and Able' is a pardon with ability, not with incapacity — from Abū Bakr with Misṭaḥ to the freed ones of Mecca.",
+      es: "«Dejad las barbas» y «las moradas se borraron»: el perdón es dejar el rastro, no borrarlo por la fuerza. Un estudio de la raíz «ʿ-f-w» (35 veces), que distingue el perdón, el pasar por alto y la indulgencia, y revela que «Perdonador y Capaz» es un perdón con capacidad, no con incapacidad —de Abū Bakr con Misṭaḥ a los liberados de La Meca.",
+    },
+  },
+  {
     slug: 'daawah-conveyance-and-excerpting',
     category: 'imamship',
     isoDate: '2026-07-03',
