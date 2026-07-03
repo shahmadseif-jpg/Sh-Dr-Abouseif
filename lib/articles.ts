@@ -673,7 +673,7 @@ export const articlesMeta: ArticleMeta[] = [
       en: 'Wisdoms & Insights',
       es: 'Sabidurías y Perspectivas',
     },
-    episode: 4,
+    episode: 12,
     title: {
       ar: 'الضَّمائرُ اليقظَة',
       en: 'Awakened Consciences',
