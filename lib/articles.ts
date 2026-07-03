@@ -207,6 +207,30 @@ export const articlesMeta: ArticleMeta[] = [
     },
   },
   {
+    slug: 'sidq-in-quran-correspondence-not-mere-absence-of-lying',
+    category: 'wisdom-insights',
+    isoDate: '2026-07-02',
+    date: { ar: 'يوليو ٢٠٢٦', en: 'July 2026', es: 'Julio de 2026' },
+    readingMinutes: 13,
+    series: { ar: 'المفاهيم القرآنية: بين دلالاتها وتطبيقاتها', en: "Qur'anic Concepts: Between Meaning and Application", es: 'Conceptos coránicos: entre su significado y su aplicación' },
+    episode: 9,
+    title: {
+      ar: "الصدق في القرآن: مطابقةٌ لا مجرّد عدم كذب",
+      en: "Ṣidq in the Qurʾan: Correspondence, Not Merely the Absence of Lying",
+      es: "El ṣidq en el Corán: correspondencia, no la mera ausencia de mentira",
+    },
+    subtitle: {
+      ar: "دراسةٌ في «الصدق»، حيث يتّضح أن جوهره تطابق القول مع الواقع والقلب مع اللسان، لا غياب الكذب فحسب",
+      en: "A study of 'ṣidq', where its essence is the correspondence of word with reality and heart with tongue, not the absence of lying alone",
+      es: "Un estudio del «ṣidq», donde su esencia es la correspondencia de la palabra con la realidad y del corazón con la lengua, no la mera ausencia de mentira",
+    },
+    excerpt: {
+      ar: "﴿رجالٌ صدقوا ما عاهدوا الله عليه﴾ — لا «لم يكذبوا»، بل طابقت أفعالهم أقوالهم حتى الموت. دراسةٌ تتتبّع جذر «ص د ق» في مئةٍ وخمسٍ وخمسين موضعًا، وتكشف في أصله اللغويّ (الرمية الصادقة تُصيب هدفها) أنّ الصدق مطابقةٌ لا نفيٌ، وأنّ رتبة «الصدّيق» تُنال بالتراكم لا بالدعوى، عبر حديث «ما يزال الرجل يصدق حتى يُكتَب صدّيقًا».",
+      en: "'Men true to what they pledged to God' — not 'they did not lie,' but their deeds corresponded to their words unto death. A study tracing the root 'ṣ-d-q' across one hundred and fifty-five places, revealing in its linguistic origin (the true shot hits its target) that ṣidq is correspondence, not negation, and that the rank of 'ṣiddīq' is attained by accumulation, not by claim — through the hadith 'a man continues to be truthful until he is recorded a ṣiddīq.'",
+      es: "«Hombres veraces en lo que pactaron con Dios» —no «no mintieron», sino que sus obras correspondieron a sus palabras hasta la muerte. Un estudio que rastrea la raíz «ṣ-d-q» en ciento cincuenta y cinco lugares, revela en su origen lingüístico (el disparo certero da en su blanco) que el ṣidq es correspondencia, no negación, y que el rango de «ṣiddīq» se alcanza por acumulación, no por pretensión, a través del hadiz «un hombre no cesa de ser veraz hasta que es registrado un ṣiddīq».",
+    },
+  },
+  {
     slug: 'daawah-conveyance-and-excerpting',
     category: 'imamship',
     isoDate: '2026-07-03',
