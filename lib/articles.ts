@@ -447,6 +447,30 @@ export const articlesMeta: ArticleMeta[] = [
     },
   },
   {
+    slug: 'ihsan-in-quran-beyond-what-is-due',
+    category: 'wisdom-insights',
+    isoDate: '2026-07-02',
+    date: { ar: 'يوليو ٢٠٢٦', en: 'July 2026', es: 'Julio de 2026' },
+    readingMinutes: 13,
+    series: { ar: 'المفاهيم القرآنية: بين دلالاتها وتطبيقاتها', en: "Qur'anic Concepts: Between Meaning and Application", es: 'Conceptos coránicos: entre su significado y su aplicación' },
+    episode: 19,
+    title: {
+      ar: "الإحسان في القرآن: ما فوق الحقّ",
+      en: "Iḥsān in the Qurʾan: Beyond What Is Due",
+      es: "El iḥsān en el Corán: más allá de lo debido",
+    },
+    subtitle: {
+      ar: "دراسةٌ في فعلٍ يتكرّر عقب حقّ الله مباشرة خمس مرات بالصيغة نفسها، وفي الفارق الدقيق بينه وبين العدل",
+      en: "A study of an act recurring directly after the right of God five times in the same form, and of the precise difference between it and justice",
+      es: "Un estudio de un acto que se repite directamente tras el derecho de Dios cinco veces en la misma forma, y de la diferencia precisa entre él y la justicia",
+    },
+    excerpt: {
+      ar: "«أن تعبد الله كأنك تراه»: الإحسان نوعيةٌ تعلو بالأفعال لا فعلٌ يُضاف. دراسةٌ في «أحسن» (٧٢ موضعًا) تكشف أنه ما فوق العدل الواجب، ويتكرّر أمرُه بالوالدين خمسًا عقب توحيد الله مباشرة، ويختم خمس قصصٍ نبوية بلازمة «إنّا كذلك نجزي المحسنين».",
+      en: "'That you worship God as though you see Him': iḥsān is a quality that elevates acts, not an act that is added. A study of 'aḥsana' (72 places) revealing it as what is beyond obligatory justice; the command toward parents recurs five times directly after affirming God's oneness, and five prophetic stories are sealed with the refrain 'thus do We reward the doers of good.'",
+      es: "«Que adores a Dios como si Lo vieras»: el iḥsān es una cualidad que eleva los actos, no un acto que se añade. Un estudio de «aḥsana» (72 lugares) que lo revela como lo que está más allá de la justicia obligatoria; la orden hacia los padres se repite cinco veces directamente tras afirmar la unicidad de Dios, y cinco historias proféticas se sellan con el estribillo «así recompensamos a los hacedores del bien».",
+    },
+  },
+  {
     slug: 'daawah-conveyance-and-excerpting',
     category: 'imamship',
     isoDate: '2026-07-03',
