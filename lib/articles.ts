@@ -3,7 +3,7 @@
  * For file content loading (uses fs), see lib/articles-server.ts
  */
 
-export type ArticleCategory = 'imamship' | 'civilization' | 'family' | 'fiqh' | 'wisdom-insights' | 'maqasid-tafsir' | 'prophetic-light';
+export type ArticleCategory = 'imamship' | 'civilization' | 'family' | 'fiqh' | 'wisdom-insights' | 'maqasid-tafsir' | 'prophetic-light' | 'quranic-concepts';
 
 /** Supported site locales. */
 export type Loc = 'ar' | 'en' | 'es';
@@ -40,7 +40,7 @@ export const articlesMeta: ArticleMeta[] = [
   // ===== مقال: الخطاب الدعوي بين تمام البلاغ وآفة الاجتزاء (سلسلة الإمامة والقيادة) =====
   {
     slug: 'hanifiyyah-in-quran-meaning-and-application',
-    category: 'wisdom-insights',
+    category: 'quranic-concepts',
     isoDate: '2026-07-01',
     date: { ar: 'يوليو ٢٠٢٦', en: 'July 2026', es: 'Julio de 2026' },
     readingMinutes: 13,
@@ -64,7 +64,7 @@ export const articlesMeta: ArticleMeta[] = [
   },
   {
     slug: 'yaqin-in-quran-degrees-of-certainty',
-    category: 'wisdom-insights',
+    category: 'quranic-concepts',
     isoDate: '2026-07-01',
     date: { ar: 'يوليو ٢٠٢٦', en: 'July 2026', es: 'Julio de 2026' },
     readingMinutes: 12,
@@ -88,7 +88,7 @@ export const articlesMeta: ArticleMeta[] = [
   },
   {
     slug: 'fitrah-in-quran-unblemished-nature',
-    category: 'wisdom-insights',
+    category: 'quranic-concepts',
     isoDate: '2026-07-02',
     date: { ar: 'يوليو ٢٠٢٦', en: 'July 2026', es: 'Julio de 2026' },
     readingMinutes: 13,
@@ -112,7 +112,7 @@ export const articlesMeta: ArticleMeta[] = [
   },
   {
     slug: 'mithaq-in-quran-covenant-with-the-force-of-a-binding',
-    category: 'wisdom-insights',
+    category: 'quranic-concepts',
     isoDate: '2026-07-02',
     date: { ar: 'يوليو ٢٠٢٦', en: 'July 2026', es: 'Julio de 2026' },
     readingMinutes: 12,
@@ -136,7 +136,7 @@ export const articlesMeta: ArticleMeta[] = [
   },
   {
     slug: 'istiqamah-in-quran-standing-that-never-sits',
-    category: 'wisdom-insights',
+    category: 'quranic-concepts',
     isoDate: '2026-07-02',
     date: { ar: 'يوليو ٢٠٢٦', en: 'July 2026', es: 'Julio de 2026' },
     readingMinutes: 11,
@@ -160,7 +160,7 @@ export const articlesMeta: ArticleMeta[] = [
   },
   {
     slug: 'tawbah-in-quran-two-turnings-not-one',
-    category: 'wisdom-insights',
+    category: 'quranic-concepts',
     isoDate: '2026-07-02',
     date: { ar: 'يوليو ٢٠٢٦', en: 'July 2026', es: 'Julio de 2026' },
     readingMinutes: 13,
@@ -184,7 +184,7 @@ export const articlesMeta: ArticleMeta[] = [
   },
   {
     slug: 'ikhlas-in-quran-purity-not-mere-intention',
-    category: 'wisdom-insights',
+    category: 'quranic-concepts',
     isoDate: '2026-07-02',
     date: { ar: 'يوليو ٢٠٢٦', en: 'July 2026', es: 'Julio de 2026' },
     readingMinutes: 9,
@@ -208,7 +208,7 @@ export const articlesMeta: ArticleMeta[] = [
   },
   {
     slug: 'sidq-in-quran-correspondence-not-mere-absence-of-lying',
-    category: 'wisdom-insights',
+    category: 'quranic-concepts',
     isoDate: '2026-07-02',
     date: { ar: 'يوليو ٢٠٢٦', en: 'July 2026', es: 'Julio de 2026' },
     readingMinutes: 13,
@@ -232,7 +232,7 @@ export const articlesMeta: ArticleMeta[] = [
   },
   {
     slug: 'amanah-in-quran-when-the-mountain-refuses',
-    category: 'wisdom-insights',
+    category: 'quranic-concepts',
     isoDate: '2026-07-02',
     date: { ar: 'يوليو ٢٠٢٦', en: 'July 2026', es: 'Julio de 2026' },
     readingMinutes: 13,
@@ -256,7 +256,7 @@ export const articlesMeta: ArticleMeta[] = [
   },
   {
     slug: 'sabr-in-quran-restraint-not-waiting',
-    category: 'wisdom-insights',
+    category: 'quranic-concepts',
     isoDate: '2026-07-02',
     date: { ar: 'يوليو ٢٠٢٦', en: 'July 2026', es: 'Julio de 2026' },
     readingMinutes: 14,
@@ -280,7 +280,7 @@ export const articlesMeta: ArticleMeta[] = [
   },
   {
     slug: 'shukr-in-quran-manifestation-not-concealment',
-    category: 'wisdom-insights',
+    category: 'quranic-concepts',
     isoDate: '2026-07-02',
     date: { ar: 'يوليو ٢٠٢٦', en: 'July 2026', es: 'Julio de 2026' },
     readingMinutes: 13,
@@ -304,7 +304,7 @@ export const articlesMeta: ArticleMeta[] = [
   },
   {
     slug: 'tawakkul-in-quran-delegation-not-passivity',
-    category: 'wisdom-insights',
+    category: 'quranic-concepts',
     isoDate: '2026-07-02',
     date: { ar: 'يوليو ٢٠٢٦', en: 'July 2026', es: 'Julio de 2026' },
     readingMinutes: 12,
@@ -328,7 +328,7 @@ export const articlesMeta: ArticleMeta[] = [
   },
   {
     slug: 'rida-in-quran-mutual-not-one-directional',
-    category: 'wisdom-insights',
+    category: 'quranic-concepts',
     isoDate: '2026-07-02',
     date: { ar: 'يوليو ٢٠٢٦', en: 'July 2026', es: 'Julio de 2026' },
     readingMinutes: 9,
@@ -352,7 +352,7 @@ export const articlesMeta: ArticleMeta[] = [
   },
   {
     slug: 'sakinah-in-quran-descent-not-acquisition',
-    category: 'wisdom-insights',
+    category: 'quranic-concepts',
     isoDate: '2026-07-02',
     date: { ar: 'يوليو ٢٠٢٦', en: 'July 2026', es: 'Julio de 2026' },
     readingMinutes: 12,
@@ -376,7 +376,7 @@ export const articlesMeta: ArticleMeta[] = [
   },
   {
     slug: 'khushu-in-quran-stillness-after-awe',
-    category: 'wisdom-insights',
+    category: 'quranic-concepts',
     isoDate: '2026-07-02',
     date: { ar: 'يوليو ٢٠٢٦', en: 'July 2026', es: 'Julio de 2026' },
     readingMinutes: 10,
@@ -400,7 +400,7 @@ export const articlesMeta: ArticleMeta[] = [
   },
   {
     slug: 'haya-in-quran-modesty-that-does-not-veil-truth',
-    category: 'wisdom-insights',
+    category: 'quranic-concepts',
     isoDate: '2026-07-02',
     date: { ar: 'يوليو ٢٠٢٦', en: 'July 2026', es: 'Julio de 2026' },
     readingMinutes: 12,
@@ -424,7 +424,7 @@ export const articlesMeta: ArticleMeta[] = [
   },
   {
     slug: 'birr-in-quran-breadth-that-resists-reduction',
-    category: 'wisdom-insights',
+    category: 'quranic-concepts',
     isoDate: '2026-07-02',
     date: { ar: 'يوليو ٢٠٢٦', en: 'July 2026', es: 'Julio de 2026' },
     readingMinutes: 11,
@@ -448,7 +448,7 @@ export const articlesMeta: ArticleMeta[] = [
   },
   {
     slug: 'ihsan-in-quran-beyond-what-is-due',
-    category: 'wisdom-insights',
+    category: 'quranic-concepts',
     isoDate: '2026-07-02',
     date: { ar: 'يوليو ٢٠٢٦', en: 'July 2026', es: 'Julio de 2026' },
     readingMinutes: 13,
@@ -472,7 +472,7 @@ export const articlesMeta: ArticleMeta[] = [
   },
   {
     slug: 'rahmah-in-quran-a-branch-from-the-most-merciful',
-    category: 'wisdom-insights',
+    category: 'quranic-concepts',
     isoDate: '2026-07-02',
     date: { ar: 'يوليو ٢٠٢٦', en: 'July 2026', es: 'Julio de 2026' },
     readingMinutes: 14,
@@ -496,7 +496,7 @@ export const articlesMeta: ArticleMeta[] = [
   },
   {
     slug: 'afw-in-quran-leaving-the-trace-to-fade',
-    category: 'wisdom-insights',
+    category: 'quranic-concepts',
     isoDate: '2026-07-02',
     date: { ar: 'يوليو ٢٠٢٦', en: 'July 2026', es: 'Julio de 2026' },
     readingMinutes: 8,
@@ -520,7 +520,7 @@ export const articlesMeta: ArticleMeta[] = [
   },
   {
     slug: 'hikmah-in-quran-a-gift-that-restrains-ignorance',
-    category: 'wisdom-insights',
+    category: 'quranic-concepts',
     isoDate: '2026-07-02',
     date: { ar: 'يوليو ٢٠٢٦', en: 'July 2026', es: 'Julio de 2026' },
     readingMinutes: 9,
@@ -544,7 +544,7 @@ export const articlesMeta: ArticleMeta[] = [
   },
   {
     slug: 'qist-and-adl-in-quran-two-scales-of-balance',
-    category: 'wisdom-insights',
+    category: 'quranic-concepts',
     isoDate: '2026-07-02',
     date: { ar: 'يوليو ٢٠٢٦', en: 'July 2026', es: 'Julio de 2026' },
     readingMinutes: 14,
@@ -568,7 +568,7 @@ export const articlesMeta: ArticleMeta[] = [
   },
   {
     slug: 'shura-in-quran-extracting-opinion-not-mere-formality',
-    category: 'wisdom-insights',
+    category: 'quranic-concepts',
     isoDate: '2026-07-02',
     date: { ar: 'يوليو ٢٠٢٦', en: 'July 2026', es: 'Julio de 2026' },
     readingMinutes: 9,
@@ -592,7 +592,7 @@ export const articlesMeta: ArticleMeta[] = [
   },
   {
     slug: 'fitnah-in-quran-the-fire-that-distinguishes',
-    category: 'wisdom-insights',
+    category: 'quranic-concepts',
     isoDate: '2026-07-02',
     date: { ar: 'يوليو ٢٠٢٦', en: 'July 2026', es: 'Julio de 2026' },
     readingMinutes: 14,
@@ -616,7 +616,7 @@ export const articlesMeta: ArticleMeta[] = [
   },
   {
     slug: 'tazkiyah-in-quran-growth-through-purification',
-    category: 'wisdom-insights',
+    category: 'quranic-concepts',
     isoDate: '2026-07-02',
     date: { ar: 'يوليو ٢٠٢٦', en: 'July 2026', es: 'Julio de 2026' },
     readingMinutes: 13,
@@ -775,7 +775,7 @@ export const articlesMeta: ArticleMeta[] = [
   // ===== مقال: التقوى في القرآن الكريم (حِكَمٌ وبصائر) =====
   {
     slug: 'taqwa-in-the-quran',
-    category: 'wisdom-insights',
+    category: 'quranic-concepts',
     isoDate: '2026-06-17',
     date: { ar: 'يونيو ٢٠٢٦', en: 'June 2026', es: 'Junio de 2026' },
     readingMinutes: 10,
@@ -1762,6 +1762,7 @@ export const categoryLabels = {
     family: 'الأسرة والتربية',
     fiqh: 'فقه وفكر',
     'wisdom-insights': 'حِكَمٌ وبصائر',
+    'quranic-concepts': 'المفاهيم القرآنية',
     'maqasid-tafsir': 'التفسير المقاصدي',
     'prophetic-light': 'قبسٌ من نور النبوّة',
   },
@@ -1771,6 +1772,7 @@ export const categoryLabels = {
     family: 'Family & Parenting',
     fiqh: 'Jurisprudence',
     'wisdom-insights': 'Wisdoms & Insights',
+    'quranic-concepts': "Qur'anic Concepts",
     'maqasid-tafsir': 'Objective-Based Tafsīr',
     'prophetic-light': 'Glimmers of Prophetic Light',
   },
@@ -1780,6 +1782,7 @@ export const categoryLabels = {
     family: 'Familia y Educación',
     fiqh: 'Jurisprudencia y Pensamiento',
     'wisdom-insights': 'Sabidurías y Perspectivas',
+    'quranic-concepts': 'Conceptos coránicos',
     'maqasid-tafsir': 'Tafsīr orientado a los fines',
     'prophetic-light': 'Destellos de la Luz Profética',
   },
