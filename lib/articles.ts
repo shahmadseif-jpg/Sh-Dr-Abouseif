@@ -45,7 +45,7 @@ export const articlesMeta: ArticleMeta[] = [
         date: { ar: 'يوليو ٢٠٢٦', en: 'July 2026', es: 'Julio de 2026' },
         readingMinutes: 12,
         series: { ar: 'المفاهيم القرآنية: بين دلالاتها وتطبيقاتها', en: "Qur'anic Concepts: Between Meaning and Application", es: 'Conceptos coránicos: entre su significado y su aplicación' },
-        episode: 2,
+        episode: 3,
         title: {
                 ar: "اليقين في القرآن: من عِلمٍ إلى عَينٍ إلى حَقّ",
                 en: "Yaqīn in the Qur'an: From Knowledge to Sight to Truth",
@@ -70,7 +70,7 @@ export const articlesMeta: ArticleMeta[] = [
         date: { ar: 'يوليو ٢٠٢٦', en: 'July 2026', es: 'Julio de 2026' },
         readingMinutes: 13,
         series: { ar: 'المفاهيم القرآنية: بين دلالاتها وتطبيقاتها', en: "Qur'anic Concepts: Between Meaning and Application", es: 'Conceptos coránicos: entre su significado y su aplicación' },
-            episode: 1,
+            episode: 2,
         title: {
                 ar: "الحنيفية في القرآن: دلالة وتطبيقاً",
                 en: "Ḥanīfiyyah in the Qurʾan: From Meaning to Application",
@@ -203,6 +203,8 @@ export const articlesMeta: ArticleMeta[] = [
     isoDate: '2026-06-17',
     date: { ar: 'يونيو ٢٠٢٦', en: 'June 2026', es: 'Junio de 2026' },
     readingMinutes: 10,
+    series: { ar: 'المفاهيم القرآنية: بين دلالاتها وتطبيقاتها', en: "Qur'anic Concepts: Between Meaning and Application", es: 'Conceptos coránicos: entre su significado y su aplicación' },
+    episode: 1,
     title: {
       ar: "التَّقْوَى في القرآن الكريم: من دَلالةِ اللَّفظِ إلى فلسفةِ التطبيق",
       en: "Taqwā in the Noble Qurʾan: From the Meaning of the Word to the Philosophy of Application",
