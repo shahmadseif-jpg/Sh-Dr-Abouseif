@@ -567,6 +567,30 @@ export const articlesMeta: ArticleMeta[] = [
     },
   },
   {
+    slug: 'shura-in-quran-extracting-opinion-not-mere-formality',
+    category: 'wisdom-insights',
+    isoDate: '2026-07-02',
+    date: { ar: 'يوليو ٢٠٢٦', en: 'July 2026', es: 'Julio de 2026' },
+    readingMinutes: 9,
+    series: { ar: 'المفاهيم القرآنية: بين دلالاتها وتطبيقاتها', en: "Qur'anic Concepts: Between Meaning and Application", es: 'Conceptos coránicos: entre su significado y su aplicación' },
+    episode: 24,
+    title: {
+      ar: "الشورى في القرآن: استخراجُ الرأي لا استئذان",
+      en: "Shūrā in the Qurʾan: Extracting the Opinion, Not a Formality",
+      es: "La shūrā en el Corán: extraer la opinión, no una formalidad",
+    },
+    subtitle: {
+      ar: "دراسةٌ في جذرٍ أصله استخراج العسل من خليّته، وكيف نُقِل هذا المعنى إلى استخراج الرأي من صدور الناس",
+      en: "A study of a root whose origin is extracting honey from its hive, and how this meaning was transferred to extracting the opinion from the breasts of people",
+      es: "Un estudio de una raíz cuyo origen es extraer la miel de su colmena, y cómo este significado se transfirió a extraer la opinión de los pechos de la gente",
+    },
+    excerpt: {
+      ar: "أمر الله نبيّه بمشاورة من أخطأوا للتوّ في أُحُد. دراسةٌ في جذرٍ لا يرد إلا أربع مرات، أصله «شُرتُ العسل» أي استخرجته: فالشورى استخراجٌ حقيقيّ للرأي لا استئذانٌ شكليّ، وضعها القرآن بين الصلاة والإنفاق، وفوّض إليها عمرُ أخطر قرار.",
+      en: "God commanded His Prophet to consult those who had just erred at Uḥud. A study of a root occurring only four times, whose origin is 'I extracted the honey': consultation is a real extraction of the opinion, not a formal permission-seeking; the Qurʾan placed it between prayer and spending, and ʿUmar delegated to it the gravest decision.",
+      es: "Dios ordenó a Su Profeta consultar a quienes acababan de errar en Uḥud. Un estudio de una raíz que aparece solo cuatro veces, cuyo origen es «extraje la miel»: la consulta es una extracción real de la opinión, no una petición formal de permiso; el Corán la colocó entre la oración y el gasto, y ʿUmar le delegó la decisión más grave.",
+    },
+  },
+  {
     slug: 'daawah-conveyance-and-excerpting',
     category: 'imamship',
     isoDate: '2026-07-03',
