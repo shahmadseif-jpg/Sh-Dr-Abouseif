@@ -351,6 +351,30 @@ export const articlesMeta: ArticleMeta[] = [
     },
   },
   {
+    slug: 'sakinah-in-quran-descent-not-acquisition',
+    category: 'wisdom-insights',
+    isoDate: '2026-07-02',
+    date: { ar: 'يوليو ٢٠٢٦', en: 'July 2026', es: 'Julio de 2026' },
+    readingMinutes: 12,
+    series: { ar: 'المفاهيم القرآنية: بين دلالاتها وتطبيقاتها', en: "Qur'anic Concepts: Between Meaning and Application", es: 'Conceptos coránicos: entre su significado y su aplicación' },
+    episode: 15,
+    title: {
+      ar: "السكينة في القرآن: تنزيلٌ لا اكتساب",
+      en: "Sakīnah in the Qurʾan: A Descent, Not an Acquisition",
+      es: "La sakīna en el Corán: un descenso, no una adquisición",
+    },
+    subtitle: {
+      ar: "دراسةٌ في مفهومٍ قرآنيّ يُنزَل على القلب في لحظة الخوف الأقصى، لا يُكتسَب منه بالتعوّد — ست مواضع فقط، كلّها لحظات أزمة",
+      en: "A study of a Qurʾanic concept sent down upon the heart in the moment of utmost fear, not acquired by habituation — only six places, all of them moments of crisis",
+      es: "Un estudio de un concepto coránico que se hace descender sobre el corazón en el momento del temor extremo, no adquirido por el hábito —solo seis lugares, todos momentos de crisis",
+    },
+    excerpt: {
+      ar: "في غار ثور، حين يبلغ الخوف أقصاه، «فأنزل الله سكينته». دراسةٌ في لفظٍ لا يرد إلا ست مرات، كلّها لحظات أزمة، ينسبه القرآن إلى الله بصيغة «أنزل» لا إلى كسب العبد؛ فالسكينة شرطُ الثبات لا مكافأتُه، وثباتٌ في عين المواجهة لا هروبٌ منها.",
+      en: "In the Cave of Thawr, when fear reaches its utmost, 'God sent down His tranquility.' A study of a word occurring only six times, all moments of crisis, which the Qurʾan ascribes to God in the form 'sent down' rather than to the servant's earning; sakīnah is the condition of steadfastness, not its reward — a steadfastness in the eye of confrontation, not a flight from it.",
+      es: "En la Cueva de Thawr, cuando el temor alcanza su extremo, «Dios hizo descender Su sosiego». Un estudio de una palabra que aparece solo seis veces, todas momentos de crisis, que el Corán atribuye a Dios en la forma «hizo descender» y no a la ganancia del siervo; la sakīna es la condición de la firmeza, no su recompensa —una firmeza en el ojo de la confrontación, no una huida de ella.",
+    },
+  },
+  {
     slug: 'daawah-conveyance-and-excerpting',
     category: 'imamship',
     isoDate: '2026-07-03',
