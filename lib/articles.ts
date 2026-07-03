@@ -183,6 +183,30 @@ export const articlesMeta: ArticleMeta[] = [
     },
   },
   {
+    slug: 'ikhlas-in-quran-purity-not-mere-intention',
+    category: 'wisdom-insights',
+    isoDate: '2026-07-02',
+    date: { ar: 'يوليو ٢٠٢٦', en: 'July 2026', es: 'Julio de 2026' },
+    readingMinutes: 9,
+    series: { ar: 'المفاهيم القرآنية: بين دلالاتها وتطبيقاتها', en: "Qur'anic Concepts: Between Meaning and Application", es: 'Conceptos coránicos: entre su significado y su aplicación' },
+    episode: 8,
+    title: {
+      ar: "الإخلاص في القرآن: خلوصٌ من الشوائب لا مجرّد نيّة",
+      en: "Ikhlāṣ in the Qurʾan: Purity from Admixture, Not Mere Intention",
+      es: "El ikhlāṣ en el Corán: pureza sin mezcla, no una mera intención",
+    },
+    subtitle: {
+      ar: "دراسةٌ في جذرٍ أصله استخلاص الصافي من بين ما يخالطه، وكيف طُبِّق على نيّة القلب",
+      en: "A study of a root whose origin is extracting the pure from amid what is mixed with it, and how it was applied to the intention of the heart",
+      es: "Un estudio de una raíz cuyo origen es extraer lo puro de entre lo que se mezcla con ello, y cómo se aplicó a la intención del corazón",
+    },
+    excerpt: {
+      ar: "كما يخرج اللبن صافيًا من بين فرثٍ ودم، يخرج الإخلاص صافيًا من بين ما يخالط النيّة. دراسةٌ تتتبّع جذر «خ ل ص» في واحدٍ وثلاثين موضعًا، وتفرّق بين «مُخلِص» يبذله العبد و«مُخلَص» يمنحه الله، وتكشف في دعاء الغرقى ﴿مخلصين له الدين﴾ أنّ الإخلاص أوضح حين يغيب كل رقيب، مع أثر السنّة «حتى لا تعلم شماله» وأقوال سفيان والجنيد.",
+      en: "As milk comes forth pure from between chyme and blood, ikhlāṣ comes forth pure from amid what mixes with the intention. A study tracing the root 'kh-l-ṣ' across thirty-one places, distinguishing 'mukhliṣ' (which the servant exerts) from 'mukhlaṣ' (which God grants), and revealing in the supplication of the drowning, 'making the religion sincerely His,' that sincerity is clearest when every observer vanishes — with the Sunnah's 'so his left hand does not know' and the words of Sufyān and al-Junayd.",
+      es: "Como la leche sale pura de entre el quimo y la sangre, el ikhlāṣ sale puro de entre lo que se mezcla con la intención. Un estudio que rastrea la raíz «kh-l-ṣ» en treinta y un lugares, distingue el «mukhliṣ» (que el siervo ejerce) del «mukhlaṣ» (que Dios concede), y revela en la súplica de los que se ahogan, «haciendo Suya la religión con sinceridad», que la sinceridad es más clara cuando se desvanece todo observador, con el «para que su izquierda no sepa» de la Sunna y los dichos de Sufyān y al-Ŷunayd.",
+    },
+  },
+  {
     slug: 'daawah-conveyance-and-excerpting',
     category: 'imamship',
     isoDate: '2026-07-03',
