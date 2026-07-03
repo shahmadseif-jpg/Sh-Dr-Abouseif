@@ -47,7 +47,7 @@ export const articlesMeta: ArticleMeta[] = [
     series: { ar: 'المفاهيم القرآنية: بين دلالاتها وتطبيقاتها', en: "Qur'anic Concepts: Between Meaning and Application", es: 'Conceptos coránicos: entre su significado y su aplicación' },
     episode: 2,
     title: {
-      ar: "الحنيفية في القرآن: دلالة وتطبيقاً",
+      ar: "الحنيفية في القرآن: دلالةً وتطبيقًا",
       en: "Ḥanīfiyyah in the Qurʾan: From Meaning to Application",
       es: "La ḥanīfiyyah en el Corán: del significado a la aplicación",
     },
@@ -335,7 +335,7 @@ export const articlesMeta: ArticleMeta[] = [
     series: { ar: 'المفاهيم القرآنية: بين دلالاتها وتطبيقاتها', en: "Qur'anic Concepts: Between Meaning and Application", es: 'Conceptos coránicos: entre su significado y su aplicación' },
     episode: 14,
     title: {
-      ar: "الرضا في القرآن: تبادلٌ لا اتجاهٌ واحد",
+      ar: "الرضا في القرآن: تبادلٌ لا اتجاهٌ واحدٌ",
       en: "Riḍā in the Qurʾan: Mutual, Not One-Directional",
       es: "El riḍā en el Corán: mutuo, no de una sola dirección",
     },
@@ -551,7 +551,7 @@ export const articlesMeta: ArticleMeta[] = [
     series: { ar: 'المفاهيم القرآنية: بين دلالاتها وتطبيقاتها', en: "Qur'anic Concepts: Between Meaning and Application", es: 'Conceptos coránicos: entre su significado y su aplicación' },
     episode: 23,
     title: {
-      ar: "القسط والعدل في القرآن: ميزانٌ ظاهرٌ وميزانٌ باطن",
+      ar: "القسط والعدل في القرآن: ميزانٌ ظاهرٌ وميزانٌ باطنٌ",
       en: "Qisṭ and ʿAdl in the Qurʾan: An Outer Scale and an Inner Scale",
       es: "El qisṭ y el ʿadl en el Corán: una balanza externa y una balanza interna",
     },
