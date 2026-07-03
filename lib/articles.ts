@@ -615,6 +615,30 @@ export const articlesMeta: ArticleMeta[] = [
     },
   },
   {
+    slug: 'tazkiyah-in-quran-growth-through-purification',
+    category: 'wisdom-insights',
+    isoDate: '2026-07-02',
+    date: { ar: 'يوليو ٢٠٢٦', en: 'July 2026', es: 'Julio de 2026' },
+    readingMinutes: 13,
+    series: { ar: 'المفاهيم القرآنية: بين دلالاتها وتطبيقاتها', en: "Qur'anic Concepts: Between Meaning and Application", es: 'Conceptos coránicos: entre su significado y su aplicación' },
+    episode: 26,
+    title: {
+      ar: "التزكية في القرآن: نموٌّ بالتطهير",
+      en: "Tazkiyah in the Qurʾan: Growth Through Purification",
+      es: "La tazkiya en el Corán: crecimiento mediante la purificación",
+    },
+    subtitle: {
+      ar: "دراسةٌ في «التزكية» حيث يلتقي معنى التطهير بمعنى النموّ في لفظٍ واحد لا يفرّقهما",
+      en: "A study of 'tazkiyah,' in which the meaning of purification meets the meaning of growth in a single word that does not separate them",
+      es: "Un estudio de la «tazkiya», en el que el significado de la purificación se encuentra con el significado del crecimiento en una sola palabra que no los separa",
+    },
+    excerpt: {
+      ar: "«قد أفلح من زكّاها»: يقسم الكون كلّه على فلاح نفسٍ واحدة. دراسةٌ في جذر «ز ك و» (٥٩ موضعًا) يوحّد التطهير بالنموّ: فالزكاة عطاءٌ يُنمّي، والتزكية سعيٌ يُطلَب لكن حكمها لله «بل الله يزكّي من يشاء»، وتتوسّط مهمّةَ الرسول بين التلاوة والتعليم.",
+      en: "'He has succeeded who purifies it': the whole cosmos swears an oath over the success of a single soul. A study of the root 'z-k-w' (59 places) uniting purification with growth: zakāh is a giving that makes grow, and tazkiyah is a striving that is required yet its verdict is God's — 'rather, God purifies whom He wills' — occupying the middle of the Messenger's mission between recitation and teaching.",
+      es: "«Ha triunfado quien la purifica»: todo el cosmos jura sobre el triunfo de una sola alma. Un estudio de la raíz «z-k-w» (59 lugares) que une la purificación con el crecimiento: la zakāh es un dar que hace crecer, y la tazkiya es un esfuerzo que se requiere mas cuyo veredicto es de Dios —«más bien, Dios purifica a quien quiere»— ocupando el medio de la misión del Mensajero entre la recitación y la enseñanza.",
+    },
+  },
+  {
     slug: 'daawah-conveyance-and-excerpting',
     category: 'imamship',
     isoDate: '2026-07-03',
