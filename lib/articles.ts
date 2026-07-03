@@ -279,6 +279,30 @@ export const articlesMeta: ArticleMeta[] = [
     },
   },
   {
+    slug: 'shukr-in-quran-manifestation-not-concealment',
+    category: 'wisdom-insights',
+    isoDate: '2026-07-02',
+    date: { ar: 'يوليو ٢٠٢٦', en: 'July 2026', es: 'Julio de 2026' },
+    readingMinutes: 13,
+    series: { ar: 'المفاهيم القرآنية: بين دلالاتها وتطبيقاتها', en: "Qur'anic Concepts: Between Meaning and Application", es: 'Conceptos coránicos: entre su significado y su aplicación' },
+    episode: 12,
+    title: {
+      ar: "الشكر في القرآن: ظهورٌ لا كتمان",
+      en: "Shukr in the Qurʾan: Manifestation, Not Concealment",
+      es: "El shukr en el Corán: manifestación, no ocultamiento",
+    },
+    subtitle: {
+      ar: "دراسةٌ في «الشكر» حيث يتّضح أنه إظهارٌ للنعمة على الجوارح لا مجرّد شعورٍ بالامتنان يُكتَم في الصدر",
+      en: "A study of 'shukr,' in which it becomes clear that it is a manifestation of the blessing upon the limbs, not a mere feeling of thankfulness concealed in the breast",
+      es: "Un estudio del «shukr», en el que se aclara que es una manifestación de la bendición sobre los miembros, no un mero sentimiento de agradecimiento oculto en el pecho",
+    },
+    excerpt: {
+      ar: "قام النبيّ ﷺ حتى تورّمت قدماه وقد غُفر له، فالشكر فعلٌ يظهر لا شعورٌ يُكتَم. دراسةٌ في جذر «ش ك ر» (٧٥ مرة)، تكشف أصله اللغويّ في الظهور، وبنيته المزدوجة: عبدٌ يشكر وربٌّ «شكور» يشكر سعي عبده، وأمرِ «اعملوا آل داود شكرًا».",
+      en: "The Prophet ﷺ stood until his feet swelled though he was forgiven — for shukr is an act that appears, not a feeling concealed. A study of the root 'sh-k-r' (75 times), revealing its linguistic origin in manifestation and its double structure: a servant who thanks and a 'Shakūr' Lord who appreciates His servant's striving — 'Work, O family of David, in gratitude.'",
+      es: "El Profeta ﷺ se levantó hasta hinchársele los pies aun estando perdonado —pues el shukr es un acto que aparece, no un sentimiento oculto. Un estudio de la raíz «sh-k-r» (75 veces), que revela su origen lingüístico en la manifestación y su doble estructura: un siervo que agradece y un Señor «Shakūr» que aprecia el esfuerzo de Su siervo —«Obrad, oh familia de David, en gratitud».",
+    },
+  },
+  {
     slug: 'daawah-conveyance-and-excerpting',
     category: 'imamship',
     isoDate: '2026-07-03',
