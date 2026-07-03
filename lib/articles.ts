@@ -87,6 +87,30 @@ export const articlesMeta: ArticleMeta[] = [
     },
   },
   {
+    slug: 'fitrah-in-quran-unblemished-nature',
+    category: 'wisdom-insights',
+    isoDate: '2026-07-02',
+    date: { ar: 'يوليو ٢٠٢٦', en: 'July 2026', es: 'Julio de 2026' },
+    readingMinutes: 13,
+    series: { ar: 'المفاهيم القرآنية: بين دلالاتها وتطبيقاتها', en: "Qur'anic Concepts: Between Meaning and Application", es: 'Conceptos coránicos: entre su significado y su aplicación' },
+    episode: 4,
+    title: {
+      ar: "الفطرة في القرآن: من فَطَرَ السماواتِ إلى فِطرةِ الإنسان",
+      en: "Fiṭrah in the Qurʾan: From the Originator of the Heavens to the Original Nature of Man",
+      es: "La fiṭrah en el Corán: del que originó los cielos a la naturaleza originaria del hombre",
+    },
+    subtitle: {
+      ar: "دراسةٌ في جذرٍ واحدٍ يصل الإبداعَ الكونيّ بأصل الإنسان، ويكشف متى تبقى الفطرةُ بلا فُطُور ومتى تنشقّ",
+      en: "A study of a single root that links cosmic origination to the origin of man, revealing when the fiṭrah stays without rift and when it splits",
+      es: "Un estudio de una sola raíz que une la originación cósmica con el origen del hombre, revelando cuándo la fiṭrah permanece sin fisura y cuándo se hiende",
+    },
+    excerpt: {
+      ar: "لفظُ «الفطرة» لا يقع في القرآن إلا مرّةً واحدة، لكنّ جذرَه «ف ط ر» يدور في عشرين موضعاً على ثلاث دوائر: إبداعُ السماوات، وأصلُ الإنسان، والشقُّ الذي يعتري البناء. دراسةٌ تكشف أنّ الفطرة أصلٌ سليمٌ لا يُصنَع، ووظيفةُ الدين حراستُه لا اختراعُه، عبر حديث «كلّ مولودٍ يُولَد على الفطرة» وأقوال ابن تيمية وابن القيّم والشاطبي.",
+      en: "The word 'fiṭrah' falls only once in the Qurʾan, yet its root 'f-ṭ-r' turns in twenty places across three circles: the origination of the heavens, the origin of man, and the rift that befalls a structure. A study showing that the fiṭrah is a sound, un-manufactured origin whose guardianship — not invention — is religion's task, through the hadith 'Every child is born upon the fiṭrah' and the words of Ibn Taymiyyah, Ibn al-Qayyim, and al-Shāṭibī.",
+      es: "La palabra «fiṭrah» cae solo una vez en el Corán, mas su raíz «f-ṭ-r» gira en veinte lugares en tres círculos: la originación de los cielos, el origen del hombre y la fisura que sobreviene a un edificio. Un estudio que muestra que la fiṭrah es un origen sano no fabricado cuya custodia —no invención— es la tarea de la religión, a través del hadiz «Todo recién nacido nace sobre la fiṭrah» y las palabras de Ibn Taymiyyah, Ibn al-Qayyim y al-Shāṭibī.",
+    },
+  },
+  {
     slug: 'daawah-conveyance-and-excerpting',
     category: 'imamship',
     isoDate: '2026-07-03',
