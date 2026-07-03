@@ -70,7 +70,7 @@ export default function ArticlesList() {
     cat,
     items: live
       .filter((a) => a.category === cat)
-      .sort((a, b) => (a.isoDate < b.isoDate ? 1 : -1)),
+      .sort((a, b) => (cat === 'quranic-concepts' ? (a.episode ?? 0) - (b.episode ?? 0) : (a.isoDate < b.isoDate ? 1 : -1))),
   })).filter((g) => g.items.length > 0);
 
   return (
