@@ -6,6 +6,7 @@ import { articlesMeta, categoryLabels, localize, type ArticleCategory, type Loc,
 
 // Display order of the reading paths (sections)
 const ORDER: ArticleCategory[] = [
+  'quranic-concepts',
   'maqasid-tafsir',
   'prophetic-light',
   'civilization',
@@ -16,6 +17,11 @@ const ORDER: ArticleCategory[] = [
 ];
 
 const PATH_DESC: Record<ArticleCategory, LocalizedText> = {
+  'quranic-concepts': {
+    ar: 'رحلةٌ تربويّةٌ في المفاهيم القرآنية الكبرى، مرتّبةً على مسير الإنسان إلى ربّه: من الفطرة والميثاق إلى الحكمة والعمران.',
+    en: 'An educational journey through the major Qur’anic concepts, ordered along the human path to God — from fitrah and covenant to wisdom and civilization.',
+    es: 'Un recorrido educativo por los grandes conceptos coránicos, ordenado según el camino del ser humano hacia Dios: de la fitrah y el pacto a la sabiduría y la civilización.',
+  },
   civilization: {
     ar: 'قراءةٌ بنيويّةٌ في سُنن نهوض الأمم وسقوطها كما يعرضها القرآن.',
     en: "A structural reading of the laws of nations' rise and fall in the Qur'an.",
