@@ -135,6 +135,30 @@ export const articlesMeta: ArticleMeta[] = [
     },
   },
   {
+    slug: 'istiqamah-in-quran-standing-that-never-sits',
+    category: 'wisdom-insights',
+    isoDate: '2026-07-02',
+    date: { ar: 'يوليو ٢٠٢٦', en: 'July 2026', es: 'Julio de 2026' },
+    readingMinutes: 11,
+    series: { ar: 'المفاهيم القرآنية: بين دلالاتها وتطبيقاتها', en: "Qur'anic Concepts: Between Meaning and Application", es: 'Conceptos coránicos: entre su significado y su aplicación' },
+    episode: 6,
+    title: {
+      ar: "الاستقامة في القرآن: قيامٌ لا يعرف الجلوس",
+      en: "Istiqāmah in the Qurʾan: A Standing That Never Sits",
+      es: "La istiqāma en el Corán: una firmeza que no conoce el sentarse",
+    },
+    subtitle: {
+      ar: "دراسةٌ في الجذر الذي يصل قيام الجسد بقيام القلب، وفي الأمر الذي شيّب النبيّ ﷺ",
+      en: "A study of the root that links the standing of the body to the standing of the heart, and of the command that turned the Prophet ﷺ grey",
+      es: "Un estudio de la raíz que une la posición del cuerpo con la del corazón, y de la orden que encaneció al Profeta ﷺ",
+    },
+    excerpt: {
+      ar: "«شيّبتني هودٌ وأخواتها» — أمرٌ من خمس كلمات ﴿فَاسْتَقِمْ كَمَا أُمِرْتَ﴾ أثقلُ على النبيّ ﷺ من عشرين عامًا. دراسةٌ تتتبّع فعل «استقام» في تسعة مواضع، وتصل بين قيام الصلاة وقيام القلب وقيام القيامة، وتكشف لماذا كانت الاستقامة أثقل من الإيمان، وأنّها خُلُقٌ يمتدّ إلى الوفاء بالعهد حتى مع المخالف، عبر حديث «آمنتُ بالله ثمّ استقم» وشرح ابن رجب.",
+      en: "'Hūd and its sisters have turned me grey' — a five-word command, 'So stand firm as you have been commanded,' heavier on the Prophet ﷺ than twenty years. A study tracing the verb 'istaqāma' across nine places, linking the standing of prayer, the heart, and the Resurrection, revealing why uprightness weighed more than belief, and that it extends to fidelity to covenant even with one who differs — through the hadith 'I believe in God, then stand firm' and Ibn Rajab's commentary.",
+      es: "«Me han encanecido Hūd y sus hermanas» —una orden de cinco palabras, «Mantente firme como se te ha ordenado», más pesada sobre el Profeta ﷺ que veinte años. Un estudio que rastrea el verbo «istaqāma» en nueve lugares, enlaza la posición de la oración, del corazón y de la Resurrección, y revela por qué la rectitud pesó más que la fe, y que se extiende a la fidelidad al pacto incluso con quien difiere, a través del hadiz «creo en Dios, y luego mantente firme» y el comentario de Ibn Raŷab.",
+    },
+  },
+  {
     slug: 'daawah-conveyance-and-excerpting',
     category: 'imamship',
     isoDate: '2026-07-03',
