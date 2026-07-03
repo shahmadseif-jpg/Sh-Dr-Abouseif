@@ -519,6 +519,30 @@ export const articlesMeta: ArticleMeta[] = [
     },
   },
   {
+    slug: 'hikmah-in-quran-a-gift-that-restrains-ignorance',
+    category: 'wisdom-insights',
+    isoDate: '2026-07-02',
+    date: { ar: 'يوليو ٢٠٢٦', en: 'July 2026', es: 'Julio de 2026' },
+    readingMinutes: 9,
+    series: { ar: 'المفاهيم القرآنية: بين دلالاتها وتطبيقاتها', en: "Qur'anic Concepts: Between Meaning and Application", es: 'Conceptos coránicos: entre su significado y su aplicación' },
+    episode: 22,
+    title: {
+      ar: "الحكمة في القرآن: عطاءٌ يمنع من الجهل",
+      en: "Ḥikmah in the Qurʾan: A Gift That Restrains Ignorance",
+      es: "La ḥikma en el Corán: un don que refrena la ignorancia",
+    },
+    subtitle: {
+      ar: "دراسةٌ في جذرٍ أصله لجام الدابة الذي يمنعها من جماحها، وكيف نُقِل هذا المعنى إلى ما يمنع القلب من جماح الجهل",
+      en: "A study of a root whose origin is the bridle of the beast that prevents it from bolting, and how this meaning was transferred to what prevents the heart from the bolting of ignorance",
+      es: "Un estudio de una raíz cuyo origen es el freno de la bestia que le impide desbocarse, y cómo este significado se transfirió a lo que impide al corazón el desbocarse de la ignorancia",
+    },
+    excerpt: {
+      ar: "«حَكَمَة الدابة» تمنعها من الجماح، والحكمة تمنع من الجهل. دراسةٌ في اسم «الحكمة» (٢٠ موضعًا)، تكشف أنها إصابةٌ للحقّ لا مجرّد علمٍ به، عطاءٌ يُؤتى لا يُكتَسب — أُوتيه يحيى صبيًّا ولقمان بلا نبوّة — وأنها «تُقضى وتُعلَّم» لا تُختزَن.",
+      en: "The 'ḥakamah of the beast' prevents it from bolting, and wisdom prevents from ignorance. A study of the noun 'al-ḥikmah' (20 places), revealing it as a hitting of the truth rather than mere knowledge of it — a gift that is given, not acquired (given to Yaḥyā as a boy and to Luqmān without prophethood) — and that it is 'judged by and taught,' not stored.",
+      es: "El «ḥakama de la bestia» le impide desbocarse, y la sabiduría impide la ignorancia. Un estudio del nombre «al-ḥikma» (20 lugares), que la revela como un acertar la verdad en lugar de un mero conocimiento de ella —un don que se da, no se adquiere (dado a Yaḥyā de niño y a Luqmān sin profecía)— y que se «juzga por ella y se enseña», no se almacena.",
+    },
+  },
+  {
     slug: 'daawah-conveyance-and-excerpting',
     category: 'imamship',
     isoDate: '2026-07-03',
