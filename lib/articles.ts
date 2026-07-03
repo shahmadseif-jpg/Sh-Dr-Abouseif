@@ -111,6 +111,30 @@ export const articlesMeta: ArticleMeta[] = [
     },
   },
   {
+    slug: 'mithaq-in-quran-covenant-with-the-force-of-a-binding',
+    category: 'wisdom-insights',
+    isoDate: '2026-07-02',
+    date: { ar: 'يوليو ٢٠٢٦', en: 'July 2026', es: 'Julio de 2026' },
+    readingMinutes: 12,
+    series: { ar: 'المفاهيم القرآنية: بين دلالاتها وتطبيقاتها', en: "Qur'anic Concepts: Between Meaning and Application", es: 'Conceptos coránicos: entre su significado y su aplicación' },
+    episode: 5,
+    title: {
+      ar: "الميثاق في القرآن: عهدٌ بقوّة الرباط",
+      en: "Mīthāq in the Qurʾan: A Covenant with the Force of a Binding",
+      es: "El mīthāq en el Corán: un pacto con la fuerza de una atadura",
+    },
+    subtitle: {
+      ar: "دراسةٌ في «الميثاق»، من رباط اليد إلى رباط القلب",
+      en: "A study of 'mīthāq', from the binding of the hand to the binding of the heart",
+      es: "Un estudio del «mīthāq», de la atadura de la mano a la atadura del corazón",
+    },
+    excerpt: {
+      ar: "يختار القرآن لأعظم عهوده لفظًا جذره لا يعرف التجريد: «الميثاق» من حقل الحبال والقيود لا الكلام. دراسةٌ تتتبّع جذر «و ث ق» في أربعةٍ وثلاثين موضعًا، وتكشف لماذا سُمّي عقد الزواج «ميثاقًا غليظًا» كعهد النبيّين، وتفرّق بين العهد محتوًى والميثاق رباطًا، مع تنبيهٍ منهجيّ على أنّ «ميثاق الذرّ» تسميةٌ من السنّة لا من نصّ الآية.",
+      en: "The Qurʾan chooses for its greatest covenants a word whose root knows no abstraction: 'mīthāq', from the field of ropes and fetters, not of speech. A study tracing the root 'w-th-q' across thirty-four places, showing why the marriage contract is called 'a solemn covenant' like the covenant of the prophets, and distinguishing the ʿahd as content from the mīthāq as its binding — with a methodological note that 'the covenant of the atoms' is a name from the Sunnah, not the verse's text.",
+      es: "El Corán elige para sus mayores pactos una palabra cuya raíz no conoce la abstracción: «mīthāq», del campo de las cuerdas y los grilletes, no del habla. Un estudio que rastrea la raíz «w-th-q» en treinta y cuatro lugares, muestra por qué el contrato matrimonial se llama «un pacto solemne» como el pacto de los profetas, y distingue el ʿahd como contenido del mīthāq como su atadura, con una advertencia metodológica de que «el pacto de los átomos» es un nombre de la Sunna, no del texto de la aleya.",
+    },
+  },
+  {
     slug: 'daawah-conveyance-and-excerpting',
     category: 'imamship',
     isoDate: '2026-07-03',
