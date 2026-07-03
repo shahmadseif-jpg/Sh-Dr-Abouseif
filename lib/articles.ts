@@ -3,7 +3,7 @@
  * For file content loading (uses fs), see lib/articles-server.ts
  */
 
-export type ArticleCategory = 'imamship' | 'civilization' | 'family' | 'fiqh' | 'wisdom-insights' | 'maqasid-tafsir' | 'prophetic-light' | 'quranic-concepts';
+export type ArticleCategory = 'imamship' | 'civilization' | 'family' | 'fiqh' | 'wisdom-insights' | 'maqasid-tafsir' | 'prophetic-light';
 
 /** Supported site locales. */
 export type Loc = 'ar' | 'en' | 'es';
@@ -37,55 +37,29 @@ export interface ArticleMeta {
 }
 
 export const articlesMeta: ArticleMeta[] = [
-      // ===== مقال: اليقين في القرآن (المفاهيم القرآنية، الحلقة 2) =====
+  // ===== مقال: الخطاب الدعوي بين تمام البلاغ وآفة الاجتزاء (سلسلة الإمامة والقيادة) =====
   {
-        slug: 'yaqin-in-quran-degrees-of-certainty',
-        category: 'quranic-concepts',
-        isoDate: '2026-07-01',
-        date: { ar: 'يوليو ٢٠٢٦', en: 'July 2026', es: 'Julio de 2026' },
-        readingMinutes: 12,
-        series: { ar: 'المفاهيم القرآنية: بين دلالاتها وتطبيقاتها', en: "Qur'anic Concepts: Between Meaning and Application", es: 'Conceptos coránicos: entre su significado y su aplicación' },
-        episode: 3,
-        title: {
-                ar: "اليقين في القرآن: من عِلمٍ إلى عَينٍ إلى حَقّ",
-                en: "Yaqīn in the Qur'an: From Knowledge to Sight to Truth",
-                es: "El yaqīn en el Corán: del conocimiento a la visión y a la verdad",
-        },
-        subtitle: {
-                ar: "دراسةٌ في تدرّج المعرفة القرآنية نحو طمأنينة القلب",
-                en: "A Qur'anic study of the ascending path from inference to witnessing to lived certainty, and its bearing on the steadiness of the heart",
-                es: "Un estudio coránico del camino ascendente de la inferencia a la observación y a la certeza vivida, y su efecto en la firmeza del corazón",
-        },
-        excerpt: {
-                ar: "اليقين، ذلك اللفظ الذي يحسبه كثيرون حالة واحدة لا تتجزأ. لكن القرآن يصفه درجات ثلاثاً متصاعدة: علم اليقين، وعين اليقين، وحق اليقين. دراسةٌ تتتبع الجذر اللغوي، وتكشف عن آيةٍ فريدة تحذّر من يقينٍ زائف يخلط بين شدة الاقتناع وصحة اليقين، وتربط الدرجات الثلاث بنموذج إبراهيم عليه السلام وشهادة السنة وأقوال ابن القيّم والغزالي.",
-                en: "Yaqīn — that word many suppose a single, indivisible state. Yet the Qur'an describes it as three ascending degrees: the knowledge, the sight, and the truth of certainty. A study tracing the linguistic root, uncovering a remarkable verse that warns against a false certainty mistaking conviction for validity, and linking the three degrees to Abraham's own journey, the witness of the Sunnah, and the words of Ibn al-Qayyim and al-Ghazali.",
-                es: "Yaqīn: esa palabra que muchos suponen un estado único e indivisible. Pero el Corán la describe como tres grados ascendentes: el conocimiento, la visión y la verdad de la certeza. Un estudio que rastrea la raíz lingüística, descubre un versículo singular que advierte contra una certeza falsa que confunde la convicción con la validez, y vincula los tres grados con el propio recorrido de Abraham, el testimonio de la Sunna y las palabras de Ibn al-Qayyim y al-Gazālī.",
-        },
-  },
-    // ===== مقال: الحنيفية في القرآن (المفاهيم القرآنية، الحلقة 1) =====
-  {
-        slug: 'hanifiyyah-in-quran-meaning-and-application',
-        category: 'quranic-concepts',
-        isoDate: '2026-07-01',
-        date: { ar: 'يوليو ٢٠٢٦', en: 'July 2026', es: 'Julio de 2026' },
-        readingMinutes: 13,
-        series: { ar: 'المفاهيم القرآنية: بين دلالاتها وتطبيقاتها', en: "Qur'anic Concepts: Between Meaning and Application", es: 'Conceptos coránicos: entre su significado y su aplicación' },
-            episode: 2,
-        title: {
-                ar: "الحنيفية في القرآن: دلالة وتطبيقاً",
-                en: "Ḥanīfiyyah in the Qurʾan: From Meaning to Application",
-                es: "La ḥanīfiyyah en el Corán: del significado a la aplicación",
-        },
-        subtitle: {
-                ar: "مصطلحٌ تكاثرت حوله الأقوال، ولمّا يزل يستحقّ أن يُتابَع موضعاً موضعاً",
-                en: "A term surrounded by centuries of commentary, and still worth tracing verse by verse",
-                es: "Un término rodeado de comentarios durante siglos, que aún merece seguirse aleya por aleya",
-        },
-        excerpt: {
-                ar: "يتكرّر لفظ «الحنيف» في القرآن اثنتي عشرة مرّة، ثمانٍ منها لإبراهيم عليه السلام وحده، فما سرّ هذا الاختصاص؟ دراسةٌ تتتبّع اللفظ موضعاً موضعاً، وتكشف في أصل اللغة لماذا اختير «الميل» لا «الاستقامة» وصفاً للتوحيد، وتستجلي شاهد السنّة ومقاصد العلماء، لتخلص إلى أنّ الحنيفيّة ليست انتساباً تاريخيّاً بل ميلٌ مستمرٌّ نحو الاستقامة، لا محطّةٌ تُبلغ فيستقرّ عندها صاحبها.",
-                en: "The word 'ḥanīf' recurs twelve times in the Qurʾan — eight of them tied to Abraham alone. Why this singular attachment? A study that traces the term occurrence by occurrence, uncovers in its linguistic root why 'inclination' rather than 'uprightness' was chosen to describe monotheism, and draws on Prophetic hadith and the objective-based readings of Ibn ʿĀshūr, Ibn Taymiyyah, and Ibn al-Qayyim — concluding that ḥanīfiyyah is not a historical affiliation but a continuous inclination toward uprightness, never a station where one comes to rest.",
-                es: "La palabra «ḥanīf» aparece doce veces en el Corán, ocho de ellas vinculadas únicamente a Abraham. ¿Cuál es el secreto de esta particularidad? Un estudio que rastrea el término aleya por aleya, revela en su raíz lingüística por qué se eligió «la inclinación» y no «la rectitud» para describir el monoteísmo, y recurre al hadiz profético y a las lecturas orientadas a los fines de Ibn ʿĀshūr, Ibn Taymiyyah e Ibn al-Qayyim, para concluir que la ḥanīfiyyah no es una filiación histórica, sino una inclinación continua hacia la rectitud, nunca una estación en la que uno se detiene.",
-        },
+    slug: 'daawah-conveyance-and-excerpting',
+    category: 'imamship',
+    isoDate: '2026-07-03',
+    date: { ar: 'يوليو ٢٠٢٦', en: 'July 2026', es: 'Julio de 2026' },
+    readingMinutes: 14,
+    series: { ar: 'الإمامة والقيادة', en: 'Imamate and Leadership', es: 'El imamato y el liderazgo' },
+    title: {
+      ar: 'الخِطابُ الدَّعَوِيُّ بين تمامِ البلاغِ وآفةِ الاجتزاء',
+      en: "Da'wah Discourse Between Complete Conveyance and the Blight of Excerpting",
+      es: 'El discurso de la daʿwah entre la transmisión completa y la lacra del recorte',
+    },
+    subtitle: {
+      ar: 'جمعُ النصوصِ والربطُ بينها: فنُّ درايةٍ يصونُ بيانَ الإمامِ من بَتْرِ المعاني',
+      en: "Gathering the texts and connecting them: an art of understanding that guards the imam's exposition from the severing of meanings",
+      es: 'Reunir los textos y conectarlos: un arte de comprensión que protege la exposición del imam de la mutilación de los significados',
+    },
+    excerpt: {
+      ar: 'من أخطر ما يعتري الخطاب المنبري اليوم آفةُ الاجتزاء: روايةٌ واحدةٌ من حديثٍ له روايات، أو آيةٌ مقطوعةٌ عن سياقها ونظائرها، فيخرج المعنى مبتورًا وربما فُهم منه خلافُ مراد الشارع. تحريرٌ لفنِّ «جمع النصوص والربط بينها»، وتأصيلُه من الوحي وأقوالِ الأئمة، وستةُ أمثلةٍ تطبيقية، وثلاثةُ نماذجَ من واقعنا في الغرب، وخمسُ خطواتٍ عمليةٍ قبل صعود المنبر.',
+      en: 'Among the gravest ailments of today’s pulpit discourse is the blight of excerpting: one narration of a hadith that has several, or a verse cut off from its context and parallels, so the meaning comes out severed — sometimes the opposite of what the Lawgiver intended. A clarification of the art of “gathering and connecting the texts,” its grounding in revelation and the words of the imams, six worked examples, three cases from our reality in the West, and five practical steps before ascending the pulpit.',
+      es: 'Entre los males más graves del discurso del púlpito hoy está la lacra del recorte: una sola narración de un hadiz que tiene varias, o una aleya separada de su contexto y sus paralelos, de modo que el significado sale mutilado —a veces lo contrario de lo que quiso el Legislador—. Una clarificación del arte de «reunir y conectar los textos», su fundamento en la revelación y en las palabras de los imames, seis ejemplos aplicados, tres casos de nuestra realidad en Occidente y cinco pasos prácticos antes de subir al púlpito.',
+    },
   },
   // ===== مقال: الإبحارُ في الزهراوين (النداءات الإيمانية — الحلقة ١) =====
   {
@@ -142,8 +116,6 @@ export const articlesMeta: ArticleMeta[] = [
     isoDate: '2026-06-25',
     date: { ar: 'يونيو ٢٠٢٦', en: 'June 2026', es: 'Junio de 2026' },
     readingMinutes: 7,
-    series: { ar: 'النداءات الإيمانية', en: 'The Calls to the Believers', es: 'Los llamados a los creyentes' },
-    episode: 2,
     title: {
       ar: 'عَتبةُ السِّلْم: قراءةٌ في مِحْور سورة البقرة',
       en: 'The Threshold of Peace: A Reading in the Axis of Sūrat al-Baqara',
@@ -163,7 +135,7 @@ export const articlesMeta: ArticleMeta[] = [
   // ===== مقال: المصلحون لا يكفّون عن المحاولة (قبسٌ من نور النبوّة) =====
   {
     slug: 'reformers-never-cease',
-    category: 'imamship',
+    category: 'prophetic-light',
     isoDate: '2026-06-19',
     date: { ar: 'يونيو ٢٠٢٦', en: 'June 2026', es: 'Junio de 2026' },
     readingMinutes: 14,
@@ -201,12 +173,10 @@ export const articlesMeta: ArticleMeta[] = [
   // ===== مقال: التقوى في القرآن الكريم (حِكَمٌ وبصائر) =====
   {
     slug: 'taqwa-in-the-quran',
-    category: 'quranic-concepts',
+    category: 'wisdom-insights',
     isoDate: '2026-06-17',
     date: { ar: 'يونيو ٢٠٢٦', en: 'June 2026', es: 'Junio de 2026' },
     readingMinutes: 10,
-    series: { ar: 'المفاهيم القرآنية: بين دلالاتها وتطبيقاتها', en: "Qur'anic Concepts: Between Meaning and Application", es: 'Conceptos coránicos: entre su significado y su aplicación' },
-    episode: 1,
     title: {
       ar: "التَّقْوَى في القرآن الكريم: من دَلالةِ اللَّفظِ إلى فلسفةِ التطبيق",
       en: "Taqwā in the Noble Qurʾan: From the Meaning of the Word to the Philosophy of Application",
@@ -249,12 +219,10 @@ export const articlesMeta: ArticleMeta[] = [
   // ===== تأمّل قرآنيّ (الاستجابة) =====
   {
     slug: 'response-is-life',
-    category: 'maqasid-tafsir',
+    category: 'wisdom-insights',
     isoDate: '2026-06-10',
     date: { ar: 'يونيو ٢٠٢٦', en: 'June 2026', es: 'Junio de 2026' },
     readingMinutes: 8,
-    series: { ar: 'النداءات الإيمانية', en: 'The Calls to the Believers', es: 'Los llamados a los creyentes' },
-    episode: 3,
     title: { ar: "الاستجابة حياة", en: "Response Is Life", es: "La respuesta es vida" },
     subtitle: { ar: "قراءةٌ تأصيليّةٌ تربويّةٌ في نداء ﴿اسْتَجِيبُوا لِلَّهِ وَلِلرَّسُولِ إِذَا دَعَاكُمْ لِمَا يُحْيِيكُمْ﴾", en: "A foundational, educative reading of the call: ‘Respond to God and to the Messenger when He calls you to that which gives you life’", es: "Una lectura fundacional y educativa del llamado: «Responded a Dios y al Mensajero cuando os llama a aquello que os da vida»" },
     excerpt: { ar: "ما من نداءٍ في كتاب الله بـ«يا أيها الذين آمنوا» إلا وهو بابُ شرفٍ ومنزلةُ تكليف. وفي ﴿استجيبوا لله وللرسول إذا دعاكم لما يحييكم﴾ يجتمع الأمرُ بالاستجابة، وبيانُ غايتها العظمى — الحياة — والتحذيرُ من التسويف ﴿واعلموا أن الله يحول بين المرء وقلبه﴾؛ مسارعةٌ كمسارعة الجيل الأول، تَحيا بها أركانُ الإنسان الثلاثة.", en: "Every call in God's Book opening with ‘O you who have believed’ is a door of honor and a station of duty. In ‘Respond to God and to the Messenger when He calls you to that which gives you life’ the command to respond meets its greatest aim — life — and a warning against delay: ‘And know that God comes between a person and his heart.’ A swiftness like the first generation's, by which heart, mind, and body all come alive.", es: "Todo llamado en el Libro de Dios que comienza con «¡Oh, vosotros que habéis creído!» es una puerta de honor y una estación de deber. En «Responded a Dios y al Mensajero cuando os llama a aquello que os da vida» se reúnen el mandato de responder, su fin supremo —la vida— y la advertencia contra el aplazamiento: «Y sabed que Dios se interpone entre la persona y su corazón»; una prontitud como la de la primera generación, por la que cobran vida el corazón, la mente y el cuerpo." },
@@ -679,7 +647,7 @@ export const articlesMeta: ArticleMeta[] = [
       en: 'Wisdoms & Insights',
       es: 'Sabidurías y Perspectivas',
     },
-    episode: 12,
+    episode: 4,
     title: {
       ar: 'الضَّمائرُ اليقظَة',
       en: 'Awakened Consciences',
@@ -1183,32 +1151,29 @@ export function getAllArticles(): ArticleMeta[] {
 
 export const categoryLabels = {
   ar: {
-    imamship: 'الإمامة والدعوة',
+    imamship: 'الإمامة والقيادة',
     civilization: 'القرآن والحضارة',
     family: 'الأسرة والتربية',
     fiqh: 'فقه وفكر',
-    'wisdom-insights': 'تأمّلاتٌ وبصائر',
-    'quranic-concepts': 'المفاهيم القرآنية',
+    'wisdom-insights': 'حِكَمٌ وبصائر',
     'maqasid-tafsir': 'التفسير المقاصدي',
     'prophetic-light': 'قبسٌ من نور النبوّة',
   },
   en: {
-    imamship: 'Imamship & Daʿwah',
+    imamship: 'Imamship & Leadership',
     civilization: "Qur'an & Civilization",
     family: 'Family & Parenting',
     fiqh: 'Jurisprudence',
-    'wisdom-insights': 'Reflections & Insights',
-    'quranic-concepts': "Qur'anic Concepts",
+    'wisdom-insights': 'Wisdoms & Insights',
     'maqasid-tafsir': 'Objective-Based Tafsīr',
     'prophetic-light': 'Glimmers of Prophetic Light',
   },
   es: {
-    imamship: 'Imamato y daʿwa',
+    imamship: 'Imamato y Liderazgo',
     civilization: 'El Corán y la Civilización',
     family: 'Familia y Educación',
     fiqh: 'Jurisprudencia y Pensamiento',
-    'wisdom-insights': 'Reflexiones y percepciones',
-    'quranic-concepts': 'Conceptos coránicos',
+    'wisdom-insights': 'Sabidurías y Perspectivas',
     'maqasid-tafsir': 'Tafsīr orientado a los fines',
     'prophetic-light': 'Destellos de la Luz Profética',
   },
