@@ -52,7 +52,7 @@ export const articlesMeta: ArticleMeta[] = [
       es: "La ḥanīfiyyah en el Corán: del significado a la aplicación",
     },
     subtitle: {
-      ar: "مصطلحٌ تكاثرت حوله الأقوال، ولمّا يزل يستحقّ أن يُتابَع موضعاً موضعاً",
+      ar: "مصطلحٌ تكاثرت حوله الأقوال، ولمّا يزل يستحقّ أن يُتابَع موضعًا موضعًا",
       en: "A term surrounded by centuries of commentary, and still worth tracing verse by verse",
       es: "Un término rodeado de comentarios durante siglos, que aún merece seguirse aleya por aleya",
     },
