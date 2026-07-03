@@ -471,6 +471,30 @@ export const articlesMeta: ArticleMeta[] = [
     },
   },
   {
+    slug: 'rahmah-in-quran-a-branch-from-the-most-merciful',
+    category: 'wisdom-insights',
+    isoDate: '2026-07-02',
+    date: { ar: 'يوليو ٢٠٢٦', en: 'July 2026', es: 'Julio de 2026' },
+    readingMinutes: 14,
+    series: { ar: 'المفاهيم القرآنية: بين دلالاتها وتطبيقاتها', en: "Qur'anic Concepts: Between Meaning and Application", es: 'Conceptos coránicos: entre su significado y su aplicación' },
+    episode: 20,
+    title: {
+      ar: "الرحمة في القرآن: شِجنةٌ من الرحمن",
+      en: "Raḥmah in the Qurʾan: A Branch from the Most Merciful",
+      es: "La raḥma en el Corán: una rama del Clementísimo",
+    },
+    subtitle: {
+      ar: "دراسةٌ في جذرٍ واحد يربط أحشاء الأم بأعظم أسماء الله",
+      en: "A study of a single root that links the womb of the mother to the greatest of the names of God",
+      es: "Un estudio de una sola raíz que vincula el útero de la madre con el más grande de los nombres de Dios",
+    },
+    excerpt: {
+      ar: "«إنّ الرحِمَ شِجنةٌ من الرحمن»: أحشاء الأم تحمل اسم الله الأعظم. دراسةٌ في جذر «ر ح م» (٣٣٩ مرة)، تكشف دائرةً واحدة تتّسع من رَحِم الأم إلى «رحمتي وسعت كل شيء»، وتصف الرسالة والقرآن نفسيهما رحمةً، ويلجأ إليها المكروبون بـ«أرحم الراحمين».",
+      en: "'Indeed, the womb is a branch of the Most Merciful': the mother's womb bears God's greatest name. A study of the root 'r-ḥ-m' (339 times), disclosing a single circle expanding from the mother's womb to 'My mercy encompasses everything,' describing the message and the Qurʾan themselves as mercy, to which the distressed resort with 'the Most Merciful of the merciful.'",
+      es: "«Ciertamente, el útero es una rama del Clementísimo»: el útero de la madre porta el más grande nombre de Dios. Un estudio de la raíz «r-ḥ-m» (339 veces), que revela un solo círculo que se expande del útero de la madre a «Mi misericordia abarca todo», describe el mensaje y el Corán mismos como misericordia, a la que recurren los afligidos con «el más Misericordioso de los misericordiosos».",
+    },
+  },
+  {
     slug: 'daawah-conveyance-and-excerpting',
     category: 'imamship',
     isoDate: '2026-07-03',
