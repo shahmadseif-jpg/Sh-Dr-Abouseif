@@ -423,6 +423,30 @@ export const articlesMeta: ArticleMeta[] = [
     },
   },
   {
+    slug: 'birr-in-quran-breadth-that-resists-reduction',
+    category: 'wisdom-insights',
+    isoDate: '2026-07-02',
+    date: { ar: 'يوليو ٢٠٢٦', en: 'July 2026', es: 'Julio de 2026' },
+    readingMinutes: 11,
+    series: { ar: 'المفاهيم القرآنية: بين دلالاتها وتطبيقاتها', en: "Qur'anic Concepts: Between Meaning and Application", es: 'Conceptos coránicos: entre su significado y su aplicación' },
+    episode: 18,
+    title: {
+      ar: "البِرّ في القرآن: اتّساعٌ لا يحتمل الاختزال",
+      en: "Birr in the Qurʾan: A Breadth That Resists Reduction",
+      es: "El birr en el Corán: una amplitud que resiste la reducción",
+    },
+    subtitle: {
+      ar: "دراسةٌ في جذرٍ يشترك فيه اتّساع الأرض واتّساع الخير، وفي آيةٍ نزلت لتمنع الدين من الانحسار في اتّجاه",
+      en: "A study of a root shared by the breadth of the earth and the breadth of good, and of a verse revealed to prevent religion from shrinking into a single direction",
+      es: "Un estudio de una raíz compartida por la amplitud de la tierra y la amplitud del bien, y de una aleya revelada para impedir que la religión se encoja en una sola dirección",
+    },
+    excerpt: {
+      ar: "«ليس البِرّ أن تولّوا وجوهكم قِبَل المشرق والمغرب»: آيةٌ تنسف اختزال الدين في شعيرة. دراسةٌ في جذر «ب ر ر» تكشف اتّساع البِرّ ليجمع الإيمان والإنفاق والصبر، ثم يُختصَر في كلمتين نبويّتين: «البِرّ حُسن الخُلُق».",
+      en: "'Righteousness is not that you turn your faces toward the east or the west': a verse demolishing the reduction of religion to a rite. A study of the root 'b-r-r' revealing the breadth of birr, gathering faith, spending, and patience, then abridged in two prophetic words: 'Righteousness is good character.'",
+      es: "«La rectitud no es que volváis vuestros rostros hacia el este o el oeste»: una aleya que demuele la reducción de la religión a un rito. Un estudio de la raíz «b-r-r» que revela la amplitud del birr, reuniendo la fe, el gasto y la paciencia, luego abreviada en dos palabras proféticas: «La rectitud es el buen carácter».",
+    },
+  },
+  {
     slug: 'daawah-conveyance-and-excerpting',
     category: 'imamship',
     isoDate: '2026-07-03',
