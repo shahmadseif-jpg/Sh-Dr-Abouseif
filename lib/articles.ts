@@ -375,6 +375,30 @@ export const articlesMeta: ArticleMeta[] = [
     },
   },
   {
+    slug: 'khushu-in-quran-stillness-after-awe',
+    category: 'wisdom-insights',
+    isoDate: '2026-07-02',
+    date: { ar: 'يوليو ٢٠٢٦', en: 'July 2026', es: 'Julio de 2026' },
+    readingMinutes: 10,
+    series: { ar: 'المفاهيم القرآنية: بين دلالاتها وتطبيقاتها', en: "Qur'anic Concepts: Between Meaning and Application", es: 'Conceptos coránicos: entre su significado y su aplicación' },
+    episode: 16,
+    title: {
+      ar: "الخشوع في القرآن: سكونٌ يعقب هيبة",
+      en: "Khushūʿ in the Qurʾan: A Stillness That Follows Awe",
+      es: "El jushūʿ en el Corán: un sosiego que sigue al temor reverencial",
+    },
+    subtitle: {
+      ar: "دراسةٌ في مشهدٍ قرآنيّ يتخيّل جبلًا صلبًا يتصدّع من خشية الله، بينما يبقى قلب المؤمن قاسيًا لا يلين",
+      en: "A study of a Qurʾanic scene imagining a solid mountain splitting apart from the fear of God, while the believer's heart remains hard, refusing to soften",
+      es: "Un estudio de una escena coránica que imagina una montaña sólida resquebrajándose por el temor de Dios, mientras el corazón del creyente permanece duro, negándose a ablandarse",
+    },
+    excerpt: {
+      ar: "«لو أنزلنا هذا القرآن على جبل لرأيته خاشعًا متصدّعًا»، فأين قلب الإنسان؟ دراسةٌ في جذر «خ ش ع» (١٧ مرة) تكشف أنّ الخشوع محلّه القلب فتتبعه الجوارح، وأنه سكونٌ يعقب هيبة لا مجرّد هدوء، وأنه «أوّل ما يُرفَع من هذه الأمّة».",
+      en: "'Had We sent down this Qurʾan upon a mountain, you would have seen it humbled and splitting apart' — so where is the human heart? A study of the root 'kh-sh-ʿ' (17 times) revealing that khushūʿ's locus is the heart, which the limbs follow; that it is a stillness following awe, not mere calm; and that it is 'the first thing to be raised from this community.'",
+      es: "«Si hubiéramos hecho descender este Corán sobre una montaña, la habrías visto humillada y resquebrajándose» —¿dónde está el corazón humano? Un estudio de la raíz «j-sh-ʿ» (17 veces) que revela que el lugar del jushūʿ es el corazón, al que siguen los miembros; que es un sosiego que sigue al temor reverencial, no una mera calma; y que es «lo primero que se elevará de esta comunidad».",
+    },
+  },
+  {
     slug: 'daawah-conveyance-and-excerpting',
     category: 'imamship',
     isoDate: '2026-07-03',
