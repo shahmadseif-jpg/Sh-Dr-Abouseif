@@ -231,6 +231,30 @@ export const articlesMeta: ArticleMeta[] = [
     },
   },
   {
+    slug: 'amanah-in-quran-when-the-mountain-refuses',
+    category: 'wisdom-insights',
+    isoDate: '2026-07-02',
+    date: { ar: 'يوليو ٢٠٢٦', en: 'July 2026', es: 'Julio de 2026' },
+    readingMinutes: 13,
+    series: { ar: 'المفاهيم القرآنية: بين دلالاتها وتطبيقاتها', en: "Qur'anic Concepts: Between Meaning and Application", es: 'Conceptos coránicos: entre su significado y su aplicación' },
+    episode: 10,
+    title: {
+      ar: "الأمانة في القرآن: حين يأبى الجبل ويقبل الإنسان",
+      en: "Amānah in the Qurʾan: When the Mountain Refuses and Man Accepts",
+      es: "La amāna en el Corán: cuando la montaña rehúsa y el hombre acepta",
+    },
+    subtitle: {
+      ar: "دراسةٌ في مشهدٍ قرآنيّ فريد: عرضٌ كونيّ على السماوات والأرض والجبال، فأبَين أن يحملنه، وحملها الإنسان",
+      en: "A study of a unique Qurʾanic scene: a cosmic offering to the heavens, the earth, and the mountains — they refused to bear it, and man bore it",
+      es: "Un estudio de una escena coránica única: un ofrecimiento cósmico a los cielos, la tierra y las montañas —rehusaron portarlo, y el hombre lo portó",
+    },
+    excerpt: {
+      ar: "عُرِضت الأمانة على الجبال الراسخة فأشفقن، وحملها الإنسان الضعيف. دراسةٌ تفرّق بين ثلاثة فروع لجذر «أ م ن» (الإيمان، الأمن، الأمانة)، وتكشف أنّ الأمانة حِملٌ يستلزم اختيارًا لا صفةً فطرية، وأنّ خمسة أنبياء قدّموا أنفسهم بـ«رسولٌ أمين» قبل الرسالة، عبر حديث «لا إيمان لمن لا أمانة له».",
+      en: "The Trust was offered to the firmly rooted mountains and they were apprehensive, yet weak man bore it. A study distinguishing three branches of the root 'ʾ-m-n' (īmān, amn, amānah), revealing that amānah is a burden entailing choice, not an innate attribute, and that five prophets presented themselves as 'a trustworthy messenger' before their message — through the hadith 'no faith for one who has no trustworthiness.'",
+      es: "El Depósito se ofreció a las montañas firmemente arraigadas y sintieron aprensión, mas el débil hombre lo portó. Un estudio que distingue tres ramas de la raíz «ʾ-m-n» (īmān, amn, amāna), revela que la amāna es una carga que entraña elección, no un atributo innato, y que cinco profetas se presentaron como «un mensajero fiable» antes de su mensaje, a través del hadiz «no hay fe para quien no tiene fiabilidad».",
+    },
+  },
+  {
     slug: 'daawah-conveyance-and-excerpting',
     category: 'imamship',
     isoDate: '2026-07-03',
