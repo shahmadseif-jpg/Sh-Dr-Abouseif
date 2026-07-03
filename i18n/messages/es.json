@@ -227,7 +227,7 @@
   },
   "comments": {
     "title": "Comentarios",
-    "subtitle": "Comparte un beneficio o una pregunta sobre el artículo; los comentarios se publican tras revisión.",
+    "subtitle": "Comparte un beneficio o una idea sobre el artículo; agradecemos tu opinión.",
     "name": "Nombre",
     "namePlaceholder": "Tu nombre",
     "email": "Correo (opcional, no se publica)",
@@ -239,7 +239,7 @@
     "success": "Tu comentario ha sido recibido y se publicará tras su revisión, si Dios quiere. Que Dios te recompense.",
     "error": "No se pudo enviar. Inténtalo de nuevo.",
     "empty": "Aún no hay comentarios publicados. Sé el primero en comentar.",
-    "moderationNote": "Los comentarios se revisan antes de publicarse; por favor mantén un tono respetuoso.",
+    "moderationNote": "Esperamos que el artículo te haya sido de provecho, y agradecemos tu comentario y tu consejo.",
     "replyLabel": "Respuesta del jeque"
   }
 }
