@@ -543,6 +543,30 @@ export const articlesMeta: ArticleMeta[] = [
     },
   },
   {
+    slug: 'qist-and-adl-in-quran-two-scales-of-balance',
+    category: 'wisdom-insights',
+    isoDate: '2026-07-02',
+    date: { ar: 'يوليو ٢٠٢٦', en: 'July 2026', es: 'Julio de 2026' },
+    readingMinutes: 14,
+    series: { ar: 'المفاهيم القرآنية: بين دلالاتها وتطبيقاتها', en: "Qur'anic Concepts: Between Meaning and Application", es: 'Conceptos coránicos: entre su significado y su aplicación' },
+    episode: 23,
+    title: {
+      ar: "القسط والعدل في القرآن: ميزانٌ ظاهرٌ وميزانٌ باطن",
+      en: "Qisṭ and ʿAdl in the Qurʾan: An Outer Scale and an Inner Scale",
+      es: "El qisṭ y el ʿadl en el Corán: una balanza externa y una balanza interna",
+    },
+    subtitle: {
+      ar: "دراسةٌ في جذرين متقاربين: أحدهما يزن الظاهر والآخر يزن الباطن",
+      en: "A study of two close roots: one weighs the outer and the other weighs the inner",
+      es: "Un estudio de dos raíces cercanas: una pesa lo externo y la otra pesa lo interno",
+    },
+    excerpt: {
+      ar: "«وأقيموا الوزن بالقسط»: ميزانٌ يُرى باليد. دراسةٌ تفرّق بين «القسط» (٢٥ مرة، عدلٌ ظاهرٌ يُوزَن) و«العدل» (٢٨ مرة، تسويةٌ باطنة تشمل توحيد الله)، وتكشف كيف يجتمعان في آية الصلح تكامُلًا لا تكرارًا: نيّةٌ سويّةٌ في القلب، وفعلٌ منصفٌ تراه العين.",
+      en: "'Establish the weighing with justice': a balance seen by the hand. A study distinguishing 'qisṭ' (25 times, an outer justice that is weighed) from 'ʿadl' (28 times, an inner evening comprising God's oneness), revealing how they gather in the verse of reconciliation as complementarity, not repetition: an even intention in the heart, and an equitable act the eye sees.",
+      es: "«Y estableced el pesaje con justicia»: una balanza vista por la mano. Un estudio que distingue el «qisṭ» (25 veces, una justicia externa que se pesa) del «ʿadl» (28 veces, un nivelar interno que comprende la unicidad de Dios), y revela cómo se reúnen en la aleya de la reconciliación como complementariedad, no repetición: una intención nivelada en el corazón, y un acto equitativo que el ojo ve.",
+    },
+  },
+  {
     slug: 'daawah-conveyance-and-excerpting',
     category: 'imamship',
     isoDate: '2026-07-03',
