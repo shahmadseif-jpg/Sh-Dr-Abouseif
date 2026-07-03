@@ -69,7 +69,7 @@ export const articlesMeta: ArticleMeta[] = [
     date: { ar: 'يوليو ٢٠٢٦', en: 'July 2026', es: 'Julio de 2026' },
     readingMinutes: 12,
     series: { ar: 'المفاهيم القرآنية: بين دلالاتها وتطبيقاتها', en: "Qur'anic Concepts: Between Meaning and Application", es: 'Conceptos coránicos: entre su significado y su aplicación' },
-    episode: 3,
+    episode: 4,
     title: {
       ar: "اليقين في القرآن: من عِلمٍ إلى عَينٍ إلى حَقّ",
       en: "Yaqīn in the Qur'an: From Knowledge to Sight to Truth",
@@ -93,7 +93,7 @@ export const articlesMeta: ArticleMeta[] = [
     date: { ar: 'يوليو ٢٠٢٦', en: 'July 2026', es: 'Julio de 2026' },
     readingMinutes: 13,
     series: { ar: 'المفاهيم القرآنية: بين دلالاتها وتطبيقاتها', en: "Qur'anic Concepts: Between Meaning and Application", es: 'Conceptos coránicos: entre su significado y su aplicación' },
-    episode: 4,
+    episode: 1,
     title: {
       ar: "الفطرة في القرآن: من فَطَرَ السماواتِ إلى فِطرةِ الإنسان",
       en: "Fiṭrah in the Qurʾan: From the Originator of the Heavens to the Original Nature of Man",
@@ -117,7 +117,7 @@ export const articlesMeta: ArticleMeta[] = [
     date: { ar: 'يوليو ٢٠٢٦', en: 'July 2026', es: 'Julio de 2026' },
     readingMinutes: 12,
     series: { ar: 'المفاهيم القرآنية: بين دلالاتها وتطبيقاتها', en: "Qur'anic Concepts: Between Meaning and Application", es: 'Conceptos coránicos: entre su significado y su aplicación' },
-    episode: 5,
+    episode: 3,
     title: {
       ar: "الميثاق في القرآن: عهدٌ بقوّة الرباط",
       en: "Mīthāq in the Qurʾan: A Covenant with the Force of a Binding",
@@ -189,7 +189,7 @@ export const articlesMeta: ArticleMeta[] = [
     date: { ar: 'يوليو ٢٠٢٦', en: 'July 2026', es: 'Julio de 2026' },
     readingMinutes: 9,
     series: { ar: 'المفاهيم القرآنية: بين دلالاتها وتطبيقاتها', en: "Qur'anic Concepts: Between Meaning and Application", es: 'Conceptos coránicos: entre su significado y su aplicación' },
-    episode: 8,
+    episode: 9,
     title: {
       ar: "الإخلاص في القرآن: خلوصٌ من الشوائب لا مجرّد نيّة",
       en: "Ikhlāṣ in the Qurʾan: Purity from Admixture, Not Mere Intention",
@@ -213,7 +213,7 @@ export const articlesMeta: ArticleMeta[] = [
     date: { ar: 'يوليو ٢٠٢٦', en: 'July 2026', es: 'Julio de 2026' },
     readingMinutes: 13,
     series: { ar: 'المفاهيم القرآنية: بين دلالاتها وتطبيقاتها', en: "Qur'anic Concepts: Between Meaning and Application", es: 'Conceptos coránicos: entre su significado y su aplicación' },
-    episode: 9,
+    episode: 10,
     title: {
       ar: "الصدق في القرآن: مطابقةٌ لا مجرّد عدم كذب",
       en: "Ṣidq in the Qurʾan: Correspondence, Not Merely the Absence of Lying",
@@ -237,7 +237,7 @@ export const articlesMeta: ArticleMeta[] = [
     date: { ar: 'يوليو ٢٠٢٦', en: 'July 2026', es: 'Julio de 2026' },
     readingMinutes: 13,
     series: { ar: 'المفاهيم القرآنية: بين دلالاتها وتطبيقاتها', en: "Qur'anic Concepts: Between Meaning and Application", es: 'Conceptos coránicos: entre su significado y su aplicación' },
-    episode: 10,
+    episode: 18,
     title: {
       ar: "الأمانة في القرآن: حين يأبى الجبل ويقبل الإنسان",
       en: "Amānah in the Qurʾan: When the Mountain Refuses and Man Accepts",
@@ -261,7 +261,7 @@ export const articlesMeta: ArticleMeta[] = [
     date: { ar: 'يوليو ٢٠٢٦', en: 'July 2026', es: 'Julio de 2026' },
     readingMinutes: 14,
     series: { ar: 'المفاهيم القرآنية: بين دلالاتها وتطبيقاتها', en: "Qur'anic Concepts: Between Meaning and Application", es: 'Conceptos coránicos: entre su significado y su aplicación' },
-    episode: 11,
+    episode: 15,
     title: {
       ar: "الصبر في القرآن: حبسٌ لا انتظار",
       en: "Ṣabr in the Qurʾan: Restraint, Not Waiting",
@@ -285,7 +285,7 @@ export const articlesMeta: ArticleMeta[] = [
     date: { ar: 'يوليو ٢٠٢٦', en: 'July 2026', es: 'Julio de 2026' },
     readingMinutes: 13,
     series: { ar: 'المفاهيم القرآنية: بين دلالاتها وتطبيقاتها', en: "Qur'anic Concepts: Between Meaning and Application", es: 'Conceptos coránicos: entre su significado y su aplicación' },
-    episode: 12,
+    episode: 14,
     title: {
       ar: "الشكر في القرآن: ظهورٌ لا كتمان",
       en: "Shukr in the Qurʾan: Manifestation, Not Concealment",
@@ -309,7 +309,7 @@ export const articlesMeta: ArticleMeta[] = [
     date: { ar: 'يوليو ٢٠٢٦', en: 'July 2026', es: 'Julio de 2026' },
     readingMinutes: 12,
     series: { ar: 'المفاهيم القرآنية: بين دلالاتها وتطبيقاتها', en: "Qur'anic Concepts: Between Meaning and Application", es: 'Conceptos coránicos: entre su significado y su aplicación' },
-    episode: 13,
+    episode: 12,
     title: {
       ar: "التوكّل في القرآن: تفويضٌ لا تعطيل",
       en: "Tawakkul in the Qurʾan: Delegation, Not Passivity",
@@ -333,7 +333,7 @@ export const articlesMeta: ArticleMeta[] = [
     date: { ar: 'يوليو ٢٠٢٦', en: 'July 2026', es: 'Julio de 2026' },
     readingMinutes: 9,
     series: { ar: 'المفاهيم القرآنية: بين دلالاتها وتطبيقاتها', en: "Qur'anic Concepts: Between Meaning and Application", es: 'Conceptos coránicos: entre su significado y su aplicación' },
-    episode: 14,
+    episode: 16,
     title: {
       ar: "الرضا في القرآن: تبادلٌ لا اتجاهٌ واحدٌ",
       en: "Riḍā in the Qurʾan: Mutual, Not One-Directional",
@@ -357,7 +357,7 @@ export const articlesMeta: ArticleMeta[] = [
     date: { ar: 'يوليو ٢٠٢٦', en: 'July 2026', es: 'Julio de 2026' },
     readingMinutes: 12,
     series: { ar: 'المفاهيم القرآنية: بين دلالاتها وتطبيقاتها', en: "Qur'anic Concepts: Between Meaning and Application", es: 'Conceptos coránicos: entre su significado y su aplicación' },
-    episode: 15,
+    episode: 17,
     title: {
       ar: "السكينة في القرآن: تنزيلٌ لا اكتساب",
       en: "Sakīnah in the Qurʾan: A Descent, Not an Acquisition",
@@ -381,7 +381,7 @@ export const articlesMeta: ArticleMeta[] = [
     date: { ar: 'يوليو ٢٠٢٦', en: 'July 2026', es: 'Julio de 2026' },
     readingMinutes: 10,
     series: { ar: 'المفاهيم القرآنية: بين دلالاتها وتطبيقاتها', en: "Qur'anic Concepts: Between Meaning and Application", es: 'Conceptos coránicos: entre su significado y su aplicación' },
-    episode: 16,
+    episode: 13,
     title: {
       ar: "الخشوع في القرآن: سكونٌ يعقب هيبة",
       en: "Khushūʿ in the Qurʾan: A Stillness That Follows Awe",
@@ -405,7 +405,7 @@ export const articlesMeta: ArticleMeta[] = [
     date: { ar: 'يوليو ٢٠٢٦', en: 'July 2026', es: 'Julio de 2026' },
     readingMinutes: 12,
     series: { ar: 'المفاهيم القرآنية: بين دلالاتها وتطبيقاتها', en: "Qur'anic Concepts: Between Meaning and Application", es: 'Conceptos coránicos: entre su significado y su aplicación' },
-    episode: 17,
+    episode: 11,
     title: {
       ar: "الحياء في القرآن: حياءٌ لا يحجب الحقّ",
       en: "Ḥayāʾ in the Qurʾan: A Modesty That Does Not Veil the Truth",
@@ -429,7 +429,7 @@ export const articlesMeta: ArticleMeta[] = [
     date: { ar: 'يوليو ٢٠٢٦', en: 'July 2026', es: 'Julio de 2026' },
     readingMinutes: 11,
     series: { ar: 'المفاهيم القرآنية: بين دلالاتها وتطبيقاتها', en: "Qur'anic Concepts: Between Meaning and Application", es: 'Conceptos coránicos: entre su significado y su aplicación' },
-    episode: 18,
+    episode: 19,
     title: {
       ar: "البِرّ في القرآن: اتّساعٌ لا يحتمل الاختزال",
       en: "Birr in the Qurʾan: A Breadth That Resists Reduction",
@@ -453,7 +453,7 @@ export const articlesMeta: ArticleMeta[] = [
     date: { ar: 'يوليو ٢٠٢٦', en: 'July 2026', es: 'Julio de 2026' },
     readingMinutes: 13,
     series: { ar: 'المفاهيم القرآنية: بين دلالاتها وتطبيقاتها', en: "Qur'anic Concepts: Between Meaning and Application", es: 'Conceptos coránicos: entre su significado y su aplicación' },
-    episode: 19,
+    episode: 20,
     title: {
       ar: "الإحسان في القرآن: ما فوق الحقّ",
       en: "Iḥsān in the Qurʾan: Beyond What Is Due",
@@ -477,7 +477,7 @@ export const articlesMeta: ArticleMeta[] = [
     date: { ar: 'يوليو ٢٠٢٦', en: 'July 2026', es: 'Julio de 2026' },
     readingMinutes: 14,
     series: { ar: 'المفاهيم القرآنية: بين دلالاتها وتطبيقاتها', en: "Qur'anic Concepts: Between Meaning and Application", es: 'Conceptos coránicos: entre su significado y su aplicación' },
-    episode: 20,
+    episode: 21,
     title: {
       ar: "الرحمة في القرآن: شِجنةٌ من الرحمن",
       en: "Raḥmah in the Qurʾan: A Branch from the Most Merciful",
@@ -501,7 +501,7 @@ export const articlesMeta: ArticleMeta[] = [
     date: { ar: 'يوليو ٢٠٢٦', en: 'July 2026', es: 'Julio de 2026' },
     readingMinutes: 8,
     series: { ar: 'المفاهيم القرآنية: بين دلالاتها وتطبيقاتها', en: "Qur'anic Concepts: Between Meaning and Application", es: 'Conceptos coránicos: entre su significado y su aplicación' },
-    episode: 21,
+    episode: 22,
     title: {
       ar: "العفو في القرآن: تركُ الأثر ليندرس",
       en: "ʿAfw in the Qurʾan: Leaving the Trace to Fade",
@@ -525,7 +525,7 @@ export const articlesMeta: ArticleMeta[] = [
     date: { ar: 'يوليو ٢٠٢٦', en: 'July 2026', es: 'Julio de 2026' },
     readingMinutes: 9,
     series: { ar: 'المفاهيم القرآنية: بين دلالاتها وتطبيقاتها', en: "Qur'anic Concepts: Between Meaning and Application", es: 'Conceptos coránicos: entre su significado y su aplicación' },
-    episode: 22,
+    episode: 23,
     title: {
       ar: "الحكمة في القرآن: عطاءٌ يمنع من الجهل",
       en: "Ḥikmah in the Qurʾan: A Gift That Restrains Ignorance",
@@ -549,7 +549,7 @@ export const articlesMeta: ArticleMeta[] = [
     date: { ar: 'يوليو ٢٠٢٦', en: 'July 2026', es: 'Julio de 2026' },
     readingMinutes: 14,
     series: { ar: 'المفاهيم القرآنية: بين دلالاتها وتطبيقاتها', en: "Qur'anic Concepts: Between Meaning and Application", es: 'Conceptos coránicos: entre su significado y su aplicación' },
-    episode: 23,
+    episode: 24,
     title: {
       ar: "القسط والعدل في القرآن: ميزانٌ ظاهرٌ وميزانٌ باطنٌ",
       en: "Qisṭ and ʿAdl in the Qurʾan: An Outer Scale and an Inner Scale",
@@ -573,7 +573,7 @@ export const articlesMeta: ArticleMeta[] = [
     date: { ar: 'يوليو ٢٠٢٦', en: 'July 2026', es: 'Julio de 2026' },
     readingMinutes: 9,
     series: { ar: 'المفاهيم القرآنية: بين دلالاتها وتطبيقاتها', en: "Qur'anic Concepts: Between Meaning and Application", es: 'Conceptos coránicos: entre su significado y su aplicación' },
-    episode: 24,
+    episode: 25,
     title: {
       ar: "الشورى في القرآن: استخراجُ الرأي لا استئذان",
       en: "Shūrā in the Qurʾan: Extracting the Opinion, Not a Formality",
@@ -597,7 +597,7 @@ export const articlesMeta: ArticleMeta[] = [
     date: { ar: 'يوليو ٢٠٢٦', en: 'July 2026', es: 'Julio de 2026' },
     readingMinutes: 14,
     series: { ar: 'المفاهيم القرآنية: بين دلالاتها وتطبيقاتها', en: "Qur'anic Concepts: Between Meaning and Application", es: 'Conceptos coránicos: entre su significado y su aplicación' },
-    episode: 25,
+    episode: 26,
     title: {
       ar: "الفتنة في القرآن: من نار الصائغ إلى نار الآخرة",
       en: "Fitnah in the Qurʾan: From the Goldsmith's Fire to the Fire of the Hereafter",
@@ -621,7 +621,7 @@ export const articlesMeta: ArticleMeta[] = [
     date: { ar: 'يوليو ٢٠٢٦', en: 'July 2026', es: 'Julio de 2026' },
     readingMinutes: 13,
     series: { ar: 'المفاهيم القرآنية: بين دلالاتها وتطبيقاتها', en: "Qur'anic Concepts: Between Meaning and Application", es: 'Conceptos coránicos: entre su significado y su aplicación' },
-    episode: 26,
+    episode: 8,
     title: {
       ar: "التزكية في القرآن: نموٌّ بالتطهير",
       en: "Tazkiyah in the Qurʾan: Growth Through Purification",
@@ -780,7 +780,7 @@ export const articlesMeta: ArticleMeta[] = [
     date: { ar: 'يونيو ٢٠٢٦', en: 'June 2026', es: 'Junio de 2026' },
     readingMinutes: 10,
     series: { ar: 'المفاهيم القرآنية: بين دلالاتها وتطبيقاتها', en: "Qur'anic Concepts: Between Meaning and Application", es: 'Conceptos coránicos: entre su significado y su aplicación' },
-    episode: 1,
+    episode: 5,
     title: {
       ar: "التَّقْوَى في القرآن الكريم: من دَلالةِ اللَّفظِ إلى فلسفةِ التطبيق",
       en: "Taqwā in the Noble Qurʾan: From the Meaning of the Word to the Philosophy of Application",
