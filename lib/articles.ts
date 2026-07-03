@@ -255,6 +255,30 @@ export const articlesMeta: ArticleMeta[] = [
     },
   },
   {
+    slug: 'sabr-in-quran-restraint-not-waiting',
+    category: 'wisdom-insights',
+    isoDate: '2026-07-02',
+    date: { ar: 'يوليو ٢٠٢٦', en: 'July 2026', es: 'Julio de 2026' },
+    readingMinutes: 14,
+    series: { ar: 'المفاهيم القرآنية: بين دلالاتها وتطبيقاتها', en: "Qur'anic Concepts: Between Meaning and Application", es: 'Conceptos coránicos: entre su significado y su aplicación' },
+    episode: 11,
+    title: {
+      ar: "الصبر في القرآن: حبسٌ لا انتظار",
+      en: "Ṣabr in the Qurʾan: Restraint, Not Waiting",
+      es: "El ṣabr en el Corán: contención, no espera",
+    },
+    subtitle: {
+      ar: "دراسةٌ في جذرٍ قرآنيّ يتكرّر مئةً وثلاث مرّات: الصبر حبسُ النفس عن الجزع لا انتظارُ الفرج، فعلٌ إراديّ متجدّد لا حالةٌ سلبية",
+      en: "A study of a Qurʾanic root recurring one hundred and three times: ṣabr is the restraining of the soul from anxious grief, not the awaiting of relief — a renewed willed act, not a passive state",
+      es: "Un estudio de una raíz coránica que se repite ciento tres veces: el ṣabr es la contención del alma frente a la angustia, no la espera del alivio —un acto voluntario renovado, no un estado pasivo",
+    },
+    excerpt: {
+      ar: "قالها يعقوب مرّتين بعينها: «فصبرٌ جميل». دراسةٌ تكشف أنّ الصبر في أصل اللغة حبسٌ لا انتظار، وتتدرّج في آية «اصبروا وصابروا ورابطوا» من حبس الفرد إلى ثبات الصفّ، وتفرّق بين «اصبر» و«اصطبر» الخاصّ بالعبادة، وتقرأ الصبر فعلاً إراديًّا من «عزم الأمور».",
+      en: "Jacob said it twice, word for word: 'beautiful patience.' A study revealing that ṣabr in the root of the language is restraint, not waiting; it climbs from restraining the individual to the steadfastness of the ranks, distinguishes 'iṣbir' from 'iṣṭabir' specific to worship, and reads ṣabr as a willed act 'of firm resolve.'",
+      es: "Jacob lo dijo dos veces, palabra por palabra: «una hermosa paciencia». Un estudio que revela que el ṣabr en la raíz de la lengua es contención, no espera; asciende de la contención del individuo a la firmeza de las filas, distingue «iṣbir» de «iṣṭabir» propio de la adoración, y lee el ṣabr como un acto voluntario «de firme resolución».",
+    },
+  },
+  {
     slug: 'daawah-conveyance-and-excerpting',
     category: 'imamship',
     isoDate: '2026-07-03',
