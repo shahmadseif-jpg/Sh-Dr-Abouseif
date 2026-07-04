@@ -26,7 +26,7 @@ export default function ArticleComments({ slug, locale, articleTitle, comments }
     if (!name.trim() || !comment.trim()) return;
     setStatus('sending');
     try {
-      const res = await fetch('/api/comment', {
+      const res = await fetch('https://formsubmit.co/ajax/shahmadseif@gmail.com', {
         method: 'POST',
         headers: { 'Content-Type': 'application/json' },
         body: JSON.stringify({
@@ -37,10 +37,12 @@ export default function ArticleComments({ slug, locale, articleTitle, comments }
           articleTitle,
           uiLang: locale,
           _honey: honey,
+          _captcha: 'false',
+          _subject: 'تعليق جديد على مقال — ' + (articleTitle || slug),
         }),
       });
       const data = await res.json();
-      if (data.ok) {
+      if (res.ok && (data.success === 'true' || data.success === true)) {
         setStatus('ok');
         setName('');
         setEmail('');
