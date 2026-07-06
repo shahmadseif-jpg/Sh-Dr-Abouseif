@@ -37,6 +37,32 @@ export interface ArticleMeta {
 }
 
 export const articlesMeta: ArticleMeta[] = [
+  // ===== مقال: خطبتك مقال أم مقام (سلسلة قضايا الإمام) =====
+  {
+    slug: 'sermon-essay-or-stance',
+    category: 'imamship',
+    isoDate: '2026-07-06',
+    date: { ar: '٦ يوليو ٢٠٢٦', en: 'July 6, 2026' },
+    readingMinutes: 17,
+    series: {
+      ar: 'قَضايا الإمام',
+      en: 'Issues of the Imam',
+    },
+    episode: 3,
+    title: {
+      ar: 'خطبتك: مقالٌ أم مقام؟',
+      en: 'Your Sermon: An Essay or a Stance?',
+    },
+    subtitle: {
+      ar: 'بين مَن يبحث عن عنوانٍ لجمعته، ومَن يحمل مشروعًا لصناعة إنسان',
+      en: 'Between the One Who Searches for a Friday Topic and the One Who Carries a Project for Building the Human',
+    },
+    excerpt: {
+      ar: 'الفرق شاسع بين خطيبٍ يبحث كل أسبوع عن «عنوان» يملأ به دقائق الخطبة، وخطيبٍ يحمل «مشروعًا» تكون كل خطبةٍ لبنةً في بنائه. الأول يسأل: ماذا أقول؟ والثاني يسأل: ماذا أصنع؟ هذه الحلقة الثالثة من «قَضايا الإمام» تكشف أزمة المنبر في فهم وظيفته، وترسم ثلاث درجات لمشروع صناعة الإنسان (الجزئية، الهوية، السلوك)، وتستأنس بالنموذج النبوي، ثم تقدِّم خمس خطوات عملية لتحويل المنبر من منصة إلقاءٍ إلى ورشة بناء.',
+      en: 'The gap is vast between a preacher who searches each week for a "topic" to fill the sermon\'s minutes, and a preacher who carries a "project" — one in which every sermon is a brick in a building. The first asks: What do I say? The second asks: What do I build? This third episode of "Issues of the Imam" exposes the pulpit\'s crisis of purpose, maps three degrees of the project for building the human (the trait, the identity, the conduct), draws on the Prophetic model, and offers five practical steps for turning the pulpit from a platform of delivery into a workshop of building.',
+    },
+  },
+
   // ===== مقال: الخطاب الدعوي بين تمام البلاغ وآفة الاجتزاء (سلسلة الإمامة والقيادة) =====
   {
     slug: 'hanifiyyah-in-quran-meaning-and-application',
