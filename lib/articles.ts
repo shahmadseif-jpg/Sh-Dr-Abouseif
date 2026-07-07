@@ -37,6 +37,29 @@ export interface ArticleMeta {
 }
 
 export const articlesMeta: ArticleMeta[] = [
+  // ===== مقال: معالم الحرية الحقيقية في القرآن الكريم =====
+  {
+    slug: 'landmarks-of-true-freedom',
+    category: 'civilization',
+    isoDate: '2026-07-07',
+    date: { ar: '٧ يوليو ٢٠٢٦', en: 'July 7, 2026', es: '7 de julio de 2026' },
+    readingMinutes: 20,
+    title: {
+      ar: 'مَعَالِمُ الحُرِّيَّةِ الحَقِيقِيَّةِ في القُرْآنِ الكَرِيمِ',
+      en: 'The Landmarks of True Freedom in the Noble Qurʾan',
+      es: 'Los hitos de la verdadera libertad en el Noble Corán',
+    },
+    subtitle: {
+      ar: 'من انعتاقِ القلبِ الفَرْدِ إلى قِيامِ العُمرانِ الحُرِّ',
+      en: 'From the Emancipation of the Individual Heart to the Establishment of a Free Civilization',
+      es: 'Desde la emancipación del corazón individual hasta el surgimiento de una civilización libre',
+    },
+    excerpt: {
+      ar: 'الحُرِّيَّةُ في القُرْآنِ الكَرِيمِ ليست مجرد انعتاق من العبودية القانونية، بل هي تحرير الباطن من سلطة البشر والأنا والخوف والهوى — من كل ما يستعبد القلب سوى الله.',
+      en: 'Freedom in the Qurʾan is not merely emancipation from legal bondage; it is the liberation of the inner self from the authority of human beings, ego, and desire — from everything that enslaves the heart except God.',
+      es: 'La libertad en el Corán no es meramente emancipación de la servidumbre legal, sino la liberación del interior de la autoridad de los seres humanos, el ego y el deseo — de todo lo que esclaviza el corazón excepto Dios.',
+    },
+  },
   // ===== مقال: خطبتك مقال أم مقام (سلسلة قضايا الإمام) =====
   {
     slug: 'sermon-essay-or-stance',
