@@ -6,12 +6,10 @@
 export type ArticleCategory = 'imamship' | 'civilization' | 'family' | 'fiqh' | 'wisdom-insights' | 'maqasid-tafsir' | 'prophetic-light' | 'quranic-concepts';
 
 /** Supported site locales. */
-export type Loc = 'ar' | 'en' | 'es';
+export type Loc = 'ar' | 'en' | 'es' | 'ur';
 
 /** A localized string. `es` is optional; missing values fall back to English. */
-export type LocalizedText = { ar: string; en: string; es?: string };
-
-/** Pick the value for a locale, gracefully falling back to English then Arabic. */
+export export type LocalizedText = { ar: string; en: string; es?: string; ur?: string };ick the value for a locale, gracefully falling back to English then Arabic. */
 export function localize(text: LocalizedText | undefined, locale: string): string {
   if (!text) return '';
   const v = (text as Record<string, string | undefined>)[locale];
