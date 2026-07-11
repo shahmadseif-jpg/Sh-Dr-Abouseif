@@ -12,6 +12,8 @@ export function getQABody(slug: string, locale: string): string | null {
       ? ['ar', 'en']
       : locale === 'es'
       ? ['es', 'en', 'ar']
+      : locale === 'ur'
+      ? ['ur', 'en', 'ar']
       : ['en', 'ar'];
 
   for (const loc of order) {
