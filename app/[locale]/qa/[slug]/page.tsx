@@ -20,6 +20,7 @@ const TXT = {
   ar: { back: 'العودة إلى سؤال وجواب', question: 'السؤال', answer: 'إجابة الشيخ', more: 'أسئلةٌ ذاتُ صلة', ask: 'أرسل سؤالك' },
   en: { back: 'Back to Q&A', question: 'The question', answer: 'The Shaykh’s answer', more: 'Related questions', ask: 'Ask your question' },
   es: { back: 'Volver a Preguntas y Respuestas', question: 'La pregunta', answer: 'La respuesta del Shaykh', more: 'Preguntas relacionadas', ask: 'Envía tu pregunta' },
+  ur: { back: 'سوال و جواب کی طرف واپس', question: 'سوال', answer: 'شیخ کا جواب', more: 'متعلقہ سوالات', ask: 'اپنا سوال بھیجیے' },
 };
 
 export async function generateMetadata({
@@ -40,7 +41,7 @@ export async function generateMetadata({
     description,
     alternates: {
       canonical: `/${locale}${path}`,
-      languages: { ar: `/ar${path}`, en: `/en${path}`, es: `/es${path}` },
+      languages: { ar: `/ar${path}`, en: `/en${path}`, es: `/es${path}`, ur: `/ur${path}` },
     },
     openGraph: { type: 'article', title, description, url: `/${locale}${path}`, siteName: author },
   };
