@@ -70,7 +70,7 @@
   },
   "cta": {
     "title": "Join the Imams Academy",
-    "description": "Specialized training programs in Islamic sciences and du'ah leadership for imams and seekers of knowledge.",
+    "description": "Specialized training programs in Islamic sciences and da'wah leadership for imams and seekers of knowledge.",
     "button": "Learn more"
   },
   "about": {
@@ -99,7 +99,7 @@
   },
   "articles": {
     "title": "Articles & Blog",
-    "subtitle": "Writings on jurisprudence, thought, and du'ah",
+    "subtitle": "Writings on jurisprudence, thought, and da'wah",
     "read_more": "Read more",
     "no_articles": "No articles published yet. Stay tuned."
   },
@@ -236,7 +236,7 @@
     "commentPlaceholder": "Write your comment respectfully...",
     "submit": "Post comment",
     "sending": "Sending...",
-    "success": "Your comment has been received and will be published after review, God willing. Thank you.",
+    "success": "Your comment has been received and will be published after review, God willing. May Allah reward you.",
     "error": "Could not send. Please try again.",
     "empty": "No comments published yet. Be the first to comment.",
     "moderationNote": "We hope the article has benefited you, and we welcome your comment and advice.",
