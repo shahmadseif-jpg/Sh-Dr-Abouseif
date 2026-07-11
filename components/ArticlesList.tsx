@@ -20,52 +20,52 @@ const ORDER: ArticleCategory[] = [
 
 const PATH_DESC: Record<ArticleCategory, LocalizedText> = {
   civilization: {
-    ar: ‘قراءةٌ بنيويّةٌ في سُنن نهوض الأمم وسقوطها كما يعرضها القرآن.’,
-    en: "A structural reading of the laws of nations’ rise and fall in the Qur’an.",
-    es: ‘Una lectura estructural de las leyes del auge y la caída de las naciones en el Corán.’,
-    ur: ‘قرآن میں امتوں کے عروج و زوال کی سنتوں کی بنیادی قراءت۔’,
+    ar: 'قراءةٌ بنيويّةٌ في سُنن نهوض الأمم وسقوطها كما يعرضها القرآن.',
+    en: "A structural reading of the laws of nations' rise and fall in the Qur'an.",
+    es: 'Una lectura estructural de las leyes del auge y la caída de las naciones en el Corán.',
+    ur: 'قرآن میں امتوں کے عروج و زوال کی سنتوں کی بنیادی قراءت۔',
   },
-  ‘quranic-concepts’: {
-    ar: ‘دراسةُ المفاهيم الإيمانية الكبرى بين دلالتها في اللغة والوحي وتطبيقها في حياة الإنسان.’,
-    en: ‘A study of the major concepts of faith between their meaning in language and revelation and their application in life.’,
-    es: ‘Un estudio de los grandes conceptos de la fe entre su significado en la lengua y la revelación y su aplicación en la vida.’,
-    ur: ‘بڑے ایمانی مفاہیم کا مطالعہ — لغت و وحی میں اُن کے معنیٰ اور انسان کی زندگی میں اُن کے اطلاق کے درمیان۔’,
+  'quranic-concepts': {
+    ar: 'دراسةُ المفاهيم الإيمانية الكبرى بين دلالتها في اللغة والوحي وتطبيقها في حياة الإنسان.',
+    en: 'A study of the major concepts of faith between their meaning in language and revelation and their application in life.',
+    es: 'Un estudio de los grandes conceptos de la fe entre su significado en la lengua y la revelación y su aplicación en la vida.',
+    ur: 'بڑے ایمانی مفاہیم کا مطالعہ — لغت و وحی میں اُن کے معنیٰ اور انسان کی زندگی میں اُن کے اطلاق کے درمیان۔',
   },
-  ‘wisdom-insights’: {
-    ar: ‘تأمّلاتٌ قرآنيّةٌ تربويّةٌ تنقل الآيةَ إلى القلب ومسيرةِ الإنسان إلى الله.’,
-    en: ‘Qur’anic, educational reflections carrying the verse to the heart.’,
-    es: ‘Reflexiones coránicas y educativas que llevan el versículo al corazón.’,
-    ur: ‘قرآنی تربیتی تأملات جو آیت کو دل اور اللہ کی طرف انسان کے سفر تک پہنچاتے ہیں۔’,
+  'wisdom-insights': {
+    ar: 'تأمّلاتٌ قرآنيّةٌ تربويّةٌ تنقل الآيةَ إلى القلب ومسيرةِ الإنسان إلى الله.',
+    en: "Qur'anic, educational reflections carrying the verse to the heart.",
+    es: 'Reflexiones coránicas y educativas que llevan el versículo al corazón.',
+    ur: 'قرآنی تربیتی تأملات جو آیت کو دل اور اللہ کی طرف انسان کے سفر تک پہنچاتے ہیں۔',
   },
   imamship: {
-    ar: ‘صناعةُ الإمام والداعية، وقضايا بيت الدعوة، وفقهُ الإصلاح والثبات.’,
-    en: ‘Crafting the imam and the caller, the daʿwah household, and the fiqh of reform and steadfastness.’,
-    es: ‘La formación del imam y del predicador, las cuestiones del hogar de la daʿwa y el fiqh de la reforma.’,
-    ur: ‘امام اور داعی کی تعمیر، دعوتی گھر کے مسائل، اور اصلاح و ثبات کا فقہ۔’,
+    ar: 'صناعةُ الإمام والداعية، وقضايا بيت الدعوة، وفقهُ الإصلاح والثبات.',
+    en: 'Crafting the imam and the caller, the daʿwah household, and the fiqh of reform and steadfastness.',
+    es: 'La formación del imam y del predicador, las cuestiones del hogar de la daʿwa y el fiqh de la reforma.',
+    ur: 'امام اور داعی کی تعمیر، دعوتی گھر کے مسائل، اور اصلاح و ثبات کا فقہ۔',
   },
   family: {
-    ar: ‘فقهُ الأسرة المسلمة وتربيةُ الأبناء في الغرب.’,
-    en: ‘The jurisprudence of the Muslim family and raising children in the West.’,
-    es: ‘La jurisprudencia de la familia musulmana y la crianza de los hijos en Occidente.’,
-    ur: ‘مسلم خاندان کا فقہ اور مغرب میں بچوں کی تربیت۔’,
+    ar: 'فقهُ الأسرة المسلمة وتربيةُ الأبناء في الغرب.',
+    en: 'The jurisprudence of the Muslim family and raising children in the West.',
+    es: 'La jurisprudencia de la familia musulmana y la crianza de los hijos en Occidente.',
+    ur: 'مسلم خاندان کا فقہ اور مغرب میں بچوں کی تربیت۔',
   },
   fiqh: {
-    ar: ‘مسائلُ الفقه والفكر المعاصر بمنهجٍ مقاصديّ.’,
-    en: ‘Contemporary jurisprudence and thought through a purpose-driven method.’,
-    es: ‘Cuestiones de jurisprudencia y pensamiento contemporáneo con un método orientado a los fines.’,
-    ur: ‘معاصر فقہ و فکر کے مسائل مقاصدی منہج کے ذریعے۔’,
+    ar: 'مسائلُ الفقه والفكر المعاصر بمنهجٍ مقاصديّ.',
+    en: 'Contemporary jurisprudence and thought through a purpose-driven method.',
+    es: 'Cuestiones de jurisprudencia y pensamiento contemporáneo con un método orientado a los fines.',
+    ur: 'معاصر فقہ و فکر کے مسائل مقاصدی منہج کے ذریعے۔',
   },
-  ‘maqasid-tafsir’: {
-    ar: ‘سلسلةٌ في قراءة القرآن على أساس مقاصده وغاياته.’,
-    en: "A series on reading the Qur’an in light of its higher objectives.",
-    es: ‘Una serie sobre la lectura del Corán a la luz de sus fines superiores.’,
-    ur: ‘قرآن کریم کو اس کے مقاصد اور غایات کی روشنی میں پڑھنے کا سلسلہ۔’,
+  'maqasid-tafsir': {
+    ar: 'سلسلةٌ في قراءة القرآن على أساس مقاصده وغاياته.',
+    en: "A series on reading the Qur'an in light of its higher objectives.",
+    es: 'Una serie sobre la lectura del Corán a la luz de sus fines superiores.',
+    ur: 'قرآن کریم کو اس کے مقاصد اور غایات کی روشنی میں پڑھنے کا سلسلہ۔',
   },
-  ‘prophetic-light’: {
-    ar: ‘قبساتٌ من الهَدْي النبويّ في فقه الإصلاح والثبات وطول النفس في الدعوة.’,
-    en: ‘Glimmers from the Prophetic guidance on reform, steadfastness, and perseverance in daʿwah.’,
-    es: ‘Destellos de la guía profética sobre la reforma, la constancia y la perseverancia en la daʿwa.’,
-    ur: ‘نبوی ہدایت سے اصلاح، ثبات اور دعوت میں طولِ نفس کے فقہ پر جھلکیاں۔’,
+  'prophetic-light': {
+    ar: 'قبساتٌ من الهَدْي النبويّ في فقه الإصلاح والثبات وطول النفس في الدعوة.',
+    en: 'Glimmers from the Prophetic guidance on reform, steadfastness, and perseverance in daʿwah.',
+    es: 'Destellos de la guía profética sobre la reforma, la constancia y la perseverancia en la daʿwa.',
+    ur: 'نبوی ہدایت سے اصلاح، ثبات اور دعوت میں طولِ نفس کے فقہ پر جھلکیاں۔',
   },
 };
 
