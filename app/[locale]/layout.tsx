@@ -16,8 +16,8 @@ export async function generateMetadata({
 }): Promise<Metadata> {
   const { locale } = await params;
   const t = await getTranslations({ locale, namespace: 'site' });
-  const lang = locale as 'ar' | 'en' | 'es';
-  const ogLocale = locale === 'ar' ? 'ar_EG' : locale === 'es' ? 'es_ES' : 'en_US';
+  const lang = locale as 'ar' | 'en' | 'es' | 'ur';
+  const ogLocale = locale === 'ar' ? 'ar_EG' : locale === 'es' ? 'es_ES' : locale === 'ur' ? 'ur_PK' : 'en_US';
 
   return {
     metadataBase: new URL(SITE_URL),
@@ -43,6 +43,7 @@ export async function generateMetadata({
         ar: '/ar',
         en: '/en',
         es: '/es',
+        ur: '/ur',
       },
     },
   };
@@ -66,7 +67,7 @@ export default async function LocaleLayout({
   }
 
   const messages = await getMessages();
-  const dir = locale === 'ar' ? 'rtl' : 'ltr';
+  const dir = (locale === 'ar' || locale === 'ur') ? 'rtl' : 'ltr';
 
   return (
     <html lang={locale} dir={dir}>
@@ -78,11 +79,11 @@ export default async function LocaleLayout({
           crossOrigin="anonymous"
         />
         <link
-          href="https://fonts.googleapis.com/css2?family=Cairo:wght@300;400;500;600;700&family=Cormorant+Garamond:wght@400;500;600&family=Inter:wght@300;400;500;600;700&display=swap"
+          href="https://fonts.googleapis.com/css2?family=Cairo:wght@300;400;500;600;700&family=Cormorant+Garamond:wght@400;500;600&family=Inter:wght@300;400;500;600;700&family=Noto+Nastaliq+Urdu:wght@400;500;600;700&display=swap"
           rel="stylesheet"
         />
       </head>
-      <body className="min-h-screen flex flex-col bg-white text-navy-900 antialiased">
+      <body className="min-h-screen flex flex-col bg-white text-navy-900 antialiased" style={locale === 'ur' ? { fontFamily: "'Noto Nastaliq Urdu', 'Cairo', serif" } : undefined}>
         <NextIntlClientProvider messages={messages}>
           <Header />
           <main className="flex-1">{children}</main>
