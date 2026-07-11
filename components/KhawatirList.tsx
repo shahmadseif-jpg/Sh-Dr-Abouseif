@@ -10,11 +10,11 @@ type Filter = 'all' | Prayer;
 
 export default function KhawatirList() {
   const locale = useLocale();
-  const pl = prayerLabels[locale as 'ar' | 'en' | 'es'] ?? prayerLabels.en;
+  const pl = prayerLabels[locale as 'ar' | 'en' | 'es' | 'ur'] ?? prayerLabels.en;
   const t = useTranslations('khawatir');
   const [filter, setFilter] = useState<Filter>('all');
 
-  const readMore = locale === 'ar' ? 'اقرأ الخاطرة' : locale === 'es' ? 'Leer la reflexión' : 'Read reflection';
+  const readMore = locale === 'ar' ? 'اقرأ الخاطرة' : locale === 'es' ? 'Leer la reflexión' : locale === 'ur' ? 'خاطرہ پڑھیں' : 'Read reflection';
 
   // Sort by date descending
   const sorted = useMemo(
@@ -88,8 +88,8 @@ export default function KhawatirList() {
                 {k.videoUrl && (
                   <span
                     className="text-navy-400 group-hover:text-gold-500 transition-colors"
-                    aria-label={locale === 'ar' ? 'يحوي فيديو' : locale === 'es' ? 'Contiene vídeo' : 'Contains video'}
-                    title={locale === 'ar' ? 'يحوي فيديو' : locale === 'es' ? 'Contiene vídeo' : 'Contains video'}
+                    aria-label={locale === 'ar' ? 'يحوي فيديو' : locale === 'es' ? 'Contiene vídeo' : locale === 'ur' ? 'ویڈیو موجود ہے' : 'Contains video'}
+                    title={locale === 'ar' ? 'يحوي فيديو' : locale === 'es' ? 'Contiene vídeo' : locale === 'ur' ? 'ویڈیو موجود ہے' : 'Contains video'}
                   >
                     <svg width="18" height="18" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true">
                       <path d="M8 5v14l11-7z" />
@@ -113,7 +113,7 @@ export default function KhawatirList() {
                 <div className="text-xs text-navy-500 flex items-center gap-2">
                   <span>{localize(k.date, locale)}</span>
                   <span className="text-gold-300">•</span>
-                  <span>{k.readingMinutes} {locale === 'ar' ? 'دقائق' : 'min'}</span>
+                  <span>{k.readingMinutes} {locale === 'ar' ? 'دقائق' : locale === 'ur' ? 'منٹ' : 'min'}</span>
                 </div>
                 <span className="inline-flex items-center gap-1 text-sm font-medium text-navy-600 group-hover:text-gold-500 transition-colors">
                   {readMore}
