@@ -1147,10 +1147,10 @@ export const articlesMeta: ArticleMeta[] = [
     isoDate: '2026-06-10',
     date: { ar: 'يونيو ٢٠٢٦', en: 'June 2026', es: 'Junio de 2026' },
     readingMinutes: 6,
-    title: { ar: "الصحابة وصناعة الوعي العلمي", en: "The Companions and the Making of Scholarly Awareness", es: "Los Compañeros y la formación de la conciencia científica"
+    title: { ar: "الصحابة وصناعة الوعي العلمي", en: "The Companions and the Making of Scholarly Awareness", es: "Los Compañeros y la formación de la conciencia científica",
       ur: 'صحابہ کرام اور علمی شعور کی تشکیل', },
     subtitle: { ar: "كيف حمل الجيلُ الأول ميراثَ النبوّة؟", en: "How the first generation bore the inheritance of prophethood", es: "¿Cómo portó la primera generación la herencia de la profecía?" },
-    excerpt: { ar: "لم يكن العلمُ عند الصحابة ترفًا عقليًّا، بل أصلَ الدين وروحَ الرسالة. قراءةٌ في منهجٍ جمع بين شرف التلقّي وصدق الفهم وأمانة النقل وعلوّ الهمّة — من أثر ابن مسعود في العلم والعمل، إلى رحلة جابرٍ شهرًا في حديثٍ واحد، وتواضع ابن عباس — حتى صار العلمُ مشروعًا حضاريًّا لصناعة الإنسان.", en: "For the Companions, knowledge was no intellectual luxury but the very root of the religion and the spirit of the message. A reading of a method that joined honorable reception, sincere understanding, faithful transmission, and lofty resolve — from Ibn Masʿūd on knowledge-and-action, to Jābir's month-long journey for a single hadith, to Ibn ʿAbbās's humility — until knowledge became a civilizational project for shaping the human being.", es: "Para los Compañeros, el saber no era un lujo intelectual, sino la raíz misma de la religión y el espíritu del Mensaje. Una lectura de un método que unió la recepción honorable, la comprensión sincera, la transmisión fiel y la alta determinación —desde Ibn Masʿūd sobre el saber y la obra, hasta el viaje de un mes de Ŷābir por un solo hadiz y la humildad de Ibn ʿAbbās— hasta que el saber se convirtió en un proyecto civilizador para formar al ser humano."
+    excerpt: { ar: "لم يكن العلمُ عند الصحابة ترفًا عقليًّا، بل أصلَ الدين وروحَ الرسالة. قراءةٌ في منهجٍ جمع بين شرف التلقّي وصدق الفهم وأمانة النقل وعلوّ الهمّة — من أثر ابن مسعود في العلم والعمل، إلى رحلة جابرٍ شهرًا في حديثٍ واحد، وتواضع ابن عباس — حتى صار العلمُ مشروعًا حضاريًّا لصناعة الإنسان.", en: "For the Companions, knowledge was no intellectual luxury but the very root of the religion and the spirit of the message. A reading of a method that joined honorable reception, sincere understanding, faithful transmission, and lofty resolve — from Ibn Masʿūd on knowledge-and-action, to Jābir's month-long journey for a single hadith, to Ibn ʿAbbās's humility — until knowledge became a civilizational project for shaping the human being.", es: "Para los Compañeros, el saber no era un lujo intelectual, sino la raíz misma de la religión y el espíritu del Mensaje. Una lectura de un método que unió la recepción honorable, la comprensión sincera, la transmisión fiel y la alta determinación —desde Ibn Masʿūd sobre el saber y la obra, hasta el viaje de un mes de Ŷābir por un solo hadiz y la humildad de Ibn ʿAbbās— hasta que el saber se convirtió en un proyecto civilizador para formar al ser humano.",
       ur: 'پہلی نسل کے علمی منہج کی ایک تعلیمی قرأت، اور اس نے وراثتِ نبوت کو کیسے اٹھایا۔', },
   },
   // ===== تأمّل قرآنيّ (حِكَمٌ وبصائر) =====
@@ -1160,10 +1160,10 @@ export const articlesMeta: ArticleMeta[] = [
     isoDate: '2026-06-10',
     date: { ar: 'يونيو ٢٠٢٦', en: 'June 2026', es: 'Junio de 2026' },
     readingMinutes: 7,
-    title: { ar: "تأمُّلٌ في الإخلاصِ الخالص", en: "A Reflection on Pure Sincerity", es: "Una reflexión sobre la sinceridad pura"
+    title: { ar: "تأمُّلٌ في الإخلاصِ الخالص", en: "A Reflection on Pure Sincerity", es: "Una reflexión sobre la sinceridad pura",
       ur: 'خالص اخلاص پر ایک تأمّل', },
     subtitle: { ar: "العطاءُ لوجه الله وحده والتحرُّرُ من رِقِّ المِنَّة", en: "Giving for God's countenance alone, and freedom from the bondage of obligation", es: "Dar solo por el rostro de Dios, y la liberación de la servidumbre del favor" },
-    excerpt: { ar: "في خواتيم سورة الليل، يرسم القرآنُ صورةً للنفس وقد بلغت أنقى ما تبلغه في بذلها: تُعطي ولا تنتظر، وتُحسِن ولا تَمُنّ. ثلاثُ آياتٍ تختزل فلسفةَ العطاء كلَّها — نفيُ المعاوضة، فإخلاصُ القصد، فالبشارةُ بالرضا — قراءةٌ تربويّةٌ تُحرّر القلبَ من رِقِّ المِنّة وذُلِّ انتظار العِوض.", en: "In the closing verses of Sūrat al-Layl, the Qurʾan paints the soul at its purest in giving: it gives and expects nothing, does good and never reminds of it. Three brief verses distill the whole philosophy of giving — the negation of exchange, the purity of intent, then the glad tidings of satisfaction — an educative reading that frees the heart from the bondage of obligation.", es: "En los versículos finales de la sura al-Layl, el Corán retrata al alma en lo más puro de su entrega: da y no espera nada, hace el bien y nunca lo recuerda. Tres breves aleyas destilan toda la filosofía del dar —la negación del intercambio, la pureza de la intención y, luego, la albricia de la satisfacción—: una lectura educativa que libera el corazón de la servidumbre del favor."
+    excerpt: { ar: "في خواتيم سورة الليل، يرسم القرآنُ صورةً للنفس وقد بلغت أنقى ما تبلغه في بذلها: تُعطي ولا تنتظر، وتُحسِن ولا تَمُنّ. ثلاثُ آياتٍ تختزل فلسفةَ العطاء كلَّها — نفيُ المعاوضة، فإخلاصُ القصد، فالبشارةُ بالرضا — قراءةٌ تربويّةٌ تُحرّر القلبَ من رِقِّ المِنّة وذُلِّ انتظار العِوض.", en: "In the closing verses of Sūrat al-Layl, the Qurʾan paints the soul at its purest in giving: it gives and expects nothing, does good and never reminds of it. Three brief verses distill the whole philosophy of giving — the negation of exchange, the purity of intent, then the glad tidings of satisfaction — an educative reading that frees the heart from the bondage of obligation.", es: "En los versículos finales de la sura al-Layl, el Corán retrata al alma en lo más puro de su entrega: da y no espera nada, hace el bien y nunca lo recuerda. Tres breves aleyas destilan toda la filosofía del dar —la negación del intercambio, la pureza de la intención y, luego, la albricia de la satisfacción—: una lectura educativa que libera el corazón de la servidumbre del favor.",
       ur: 'اللہ تعالیٰ کے کلامِ پاک کی تأمّلی قرأت: ﴾وَمَا لِأَحَدٍ عِندَهُ مِن نِّعْمَةٍ تُجْزَىٰ  إِلَّا ابْتِغَاءَ وَجْهِ رَبِّهِ الْأَعْلَىٰ  وَلَسَوْفَ يَرْضَىٰ﴿ الليل: 19-21۔ تیاری: ڈاکٹر احمد محمد علی ابو', },
   },
   // ===== تأمّل قرآنيّ (الاستجابة) =====
@@ -1173,10 +1173,10 @@ export const articlesMeta: ArticleMeta[] = [
     isoDate: '2026-06-10',
     date: { ar: 'يونيو ٢٠٢٦', en: 'June 2026', es: 'Junio de 2026' },
     readingMinutes: 8,
-    title: { ar: "الاستجابة حياة", en: "Response Is Life", es: "La respuesta es vida"
+    title: { ar: "الاستجابة حياة", en: "Response Is Life", es: "La respuesta es vida",
       ur: 'اجابت زندگی ہے', },
     subtitle: { ar: "قراءةٌ تأصيليّةٌ تربويّةٌ في نداء ﴿اسْتَجِيبُوا لِلَّهِ وَلِلرَّسُولِ إِذَا دَعَاكُمْ لِمَا يُحْيِيكُمْ﴾", en: "A foundational, educative reading of the call: ‘Respond to God and to the Messenger when He calls you to that which gives you life’", es: "Una lectura fundacional y educativa del llamado: «Responded a Dios y al Mensajero cuando os llama a aquello que os da vida»" },
-    excerpt: { ar: "ما من نداءٍ في كتاب الله بـ«يا أيها الذين آمنوا» إلا وهو بابُ شرفٍ ومنزلةُ تكليف. وفي ﴿استجيبوا لله وللرسول إذا دعاكم لما يحييكم﴾ يجتمع الأمرُ بالاستجابة، وبيانُ غايتها العظمى — الحياة — والتحذيرُ من التسويف ﴿واعلموا أن الله يحول بين المرء وقلبه﴾؛ مسارعةٌ كمسارعة الجيل الأول، تَحيا بها أركانُ الإنسان الثلاثة.", en: "Every call in God's Book opening with ‘O you who have believed’ is a door of honor and a station of duty. In ‘Respond to God and to the Messenger when He calls you to that which gives you life’ the command to respond meets its greatest aim — life — and a warning against delay: ‘And know that God comes between a person and his heart.’ A swiftness like the first generation's, by which heart, mind, and body all come alive.", es: "Todo llamado en el Libro de Dios que comienza con «¡Oh, vosotros que habéis creído!» es una puerta de honor y una estación de deber. En «Responded a Dios y al Mensajero cuando os llama a aquello que os da vida» se reúnen el mandato de responder, su fin supremo —la vida— y la advertencia contra el aplazamiento: «Y sabed que Dios se interpone entre la persona y su corazón»; una prontitud como la de la primera generación, por la que cobran vida el corazón, la mente y el cuerpo."
+    excerpt: { ar: "ما من نداءٍ في كتاب الله بـ«يا أيها الذين آمنوا» إلا وهو بابُ شرفٍ ومنزلةُ تكليف. وفي ﴿استجيبوا لله وللرسول إذا دعاكم لما يحييكم﴾ يجتمع الأمرُ بالاستجابة، وبيانُ غايتها العظمى — الحياة — والتحذيرُ من التسويف ﴿واعلموا أن الله يحول بين المرء وقلبه﴾؛ مسارعةٌ كمسارعة الجيل الأول، تَحيا بها أركانُ الإنسان الثلاثة.", en: "Every call in God's Book opening with ‘O you who have believed’ is a door of honor and a station of duty. In ‘Respond to God and to the Messenger when He calls you to that which gives you life’ the command to respond meets its greatest aim — life — and a warning against delay: ‘And know that God comes between a person and his heart.’ A swiftness like the first generation's, by which heart, mind, and body all come alive.", es: "Todo llamado en el Libro de Dios que comienza con «¡Oh, vosotros que habéis creído!» es una puerta de honor y una estación de deber. En «Responded a Dios y al Mensajero cuando os llama a aquello que os da vida» se reúnen el mandato de responder, su fin supremo —la vida— y la advertencia contra el aplazamiento: «Y sabed que Dios se interpone entre la persona y su corazón»; una prontitud como la de la primera generación, por la que cobran vida el corazón, la mente y el cuerpo.",
       ur: 'دعوت کی ایک بنیادی تشکیلی قراءت: ﴾يَا أَيُّهَا الَّذِينَ آمَنُوا اسْتَجِيبُوا لِلَّهِ وَلِلرَّسُولِ إِذَا دَعَاكُمْ لِمَا يُحْيِيكُمْ﴿ الأنفال: 24۔', },
   },
   // ===== سلسلة «التفسير المقاصدي» =====
@@ -1188,7 +1188,7 @@ export const articlesMeta: ArticleMeta[] = [
     readingMinutes: 6,
     series: { ar: 'التفسير المقاصدي', en: 'Objective-Based Tafsīr', es: 'Tafsīr orientado a los fines' },
     episode: 11,
-    title: { ar: "التفسير المقاصدي في سورة الفاتحة", en: "Objective-Based Tafsīr of Sūrat al-Fātiḥah", es: "El tafsīr orientado a los fines en la sura al-Fātiḥah"
+    title: { ar: "التفسير المقاصدي في سورة الفاتحة", en: "Objective-Based Tafsīr of Sūrat al-Fātiḥah", es: "El tafsīr orientado a los fines en la sura al-Fātiḥah",
       ur: 'سورۃ الفاتحہ کی مقاصدی تفسیر', },
     subtitle: { ar: "شعارُ السورة التي تُتلى سبعَ عشرةَ مرّةً كلَّ يوم", en: "The Slogan of the Sūrah Recited Seventeen Times Every Day", es: "El lema de la sura que se recita diecisiete veces cada día" },
     excerpt: { ar: "في كلّ يومٍ يَقف المسلمُ بين يدَي ربّه سبعَ عشرةَ مرّةً، فلا تنعقد له ركعةٌ إلّا بالفاتحة. فما الحكمةُ في أن تكون هذه السورةُ بعينها هي اللازمةَ التي لا تَسقط؟ قراءةٌ مقاصديّةٌ تَستجلي ما تُريد «أمُّ القرآن» أن تَصنعه في الإنسان كلَّ يوم — آيةً آية.", en: "Every day the Muslim stands before his Lord seventeen times, and no prayer-unit is valid without the Fātiḥah. Why is this very sūrah the indispensable one that never falls away? An objective-based reading draws out what 'the Mother of the Qur'an' seeks to make of the human being each day — verse by verse.", es: "Cada día el musulmán se yergue ante su Señor diecisiete veces, y ninguna unidad de oración es válida sin la Fātiḥah. ¿Por qué es precisamente esta sura la indispensable que nunca se omite? Una lectura orientada a los fines esclarece lo que «la Madre del Corán» busca hacer del ser humano cada día —aleya por aleya." },
@@ -1201,7 +1201,7 @@ export const articlesMeta: ArticleMeta[] = [
     readingMinutes: 8,
     series: { ar: 'التفسير المقاصدي', en: 'Objective-Based Tafsīr', es: 'Tafsīr orientado a los fines' },
     episode: 1,
-    title: { ar: "التفسير المقاصدي: تحرير المفهوم وضبط المصطلح", en: "Objective-Based Tafsīr: Clarifying the Concept and Defining the Term", es: "Tafsīr orientado a los fines: clarificar el concepto y precisar el término"
+    title: { ar: "التفسير المقاصدي: تحرير المفهوم وضبط المصطلح", en: "Objective-Based Tafsīr: Clarifying the Concept and Defining the Term", es: "Tafsīr orientado a los fines: clarificar el concepto y precisar el término",
       ur: 'مقاصدی تفسیر: تصور کی وضاحت اور اصطلاح کی تعریف', },
     excerpt: { ar: "ما أكثرَ من يقرأ القرآنَ طلباً للحُكم، وما أقلَّ من يقرؤه طلباً للحِكمة! وما أكثرَ من يسأل: ماذا أمر الله؟ وما أقلَّ من يَزيد: ولماذا أمر؟ وبين السؤالَين مسافةٌ بعيدة؛ مسافةُ ما بين أن تَحمل الآيةَ في حافظتك، وأن تَحمِلَك الآيةُ إلى مرادها.", en: "How many read the Qur'an seeking a ruling, and how few seeking wisdom! Between 'What did God command?' and 'Why did He command it?' lies a great distance. This opening article clarifies the concept of objective-based tafsīr and defines its term — the key to the whole series.", es: "¡Cuántos leen el Corán buscando un dictamen, y qué pocos buscando sabiduría! Entre «¿Qué ordenó Dios?» y «¿Por qué lo ordenó?» hay una gran distancia. Este artículo inaugural clarifica el concepto del tafsīr orientado a los fines y precisa su término —la llave de toda la serie." },
     coverImage: '/articles/concept-and-term/cover.jpg',
@@ -1214,7 +1214,7 @@ export const articlesMeta: ArticleMeta[] = [
     readingMinutes: 4,
     series: { ar: 'التفسير المقاصدي', en: 'Objective-Based Tafsīr', es: 'Tafsīr orientado a los fines' },
     episode: 2,
-    title: { ar: "التفسير المقاصدي وأخواته: تمييزٌ يرفع اللبس", en: "Objective-Based Tafsīr and Its Siblings: A Distinction That Removes Confusion", es: "El tafsīr orientado a los fines y sus hermanos: una distinción que disipa la confusión"
+    title: { ar: "التفسير المقاصدي وأخواته: تمييزٌ يرفع اللبس", en: "Objective-Based Tafsīr and Its Siblings: A Distinction That Removes Confusion", es: "El tafsīr orientado a los fines y sus hermanos: una distinción que disipa la confusión",
       ur: 'مقاصدی تفسیر اور اس کے ہمزاد: ایک تمیز جو ابہام دور کرتی ہے', },
     excerpt: { ar: "«مقاصد القرآن» موضوعٌ ومادّة: هي الغايات الكبرى التي نزل القرآن لتحقيقها، كالهداية وإصلاح الاعتقاد وتزكية النفس. أمّا التفسير المقاصدي فمنهجٌ وعملية نظرٍ تستثمر تلك المقاصد في فهم الآيات الجزئية وتنزيلها على الواقع. فبينهما عمومٌ وخصوص: مقا", en: "What distinguishes objective-based tafsīr from the objectives of the Qur'an, thematic tafsīr, the tafsīr of legal verses, and taʾwīl? Four boundaries that preserve the method's identity and protect the reader from confusion.", es: "¿Qué distingue al tafsīr orientado a los fines de los fines del Corán, el tafsīr temático, el tafsīr de los versículos legales y el taʾwīl? Cuatro límites que preservan la identidad del método y protegen al lector de la confusión." },
   },
@@ -1226,7 +1226,7 @@ export const articlesMeta: ArticleMeta[] = [
     readingMinutes: 5,
     series: { ar: 'التفسير المقاصدي', en: 'Objective-Based Tafsīr', es: 'Tafsīr orientado a los fines' },
     episode: 3,
-    title: { ar: "نشأة التفسير المقاصدي وتطوّره عبر القرون", en: "The Origin and Development of Objective-Based Tafsīr Across the Centuries", es: "El origen del tafsīr orientado a los fines y su desarrollo a través de los siglos"
+    title: { ar: "نشأة التفسير المقاصدي وتطوّره عبر القرون", en: "The Origin and Development of Objective-Based Tafsīr Across the Centuries", es: "El origen del tafsīr orientado a los fines y su desarrollo a través de los siglos",
       ur: 'تفسیرِ مقاصدی کا آغاز اور ارتقاء صدیوں کے سفر میں', },
     excerpt: { ar: "لم يولد التفسير المقاصدي مصطلحاً ناجزاً في يومٍ واحد، بل نَمَت بذورُه مع نزول الوحي، ثم تدرّج حتى صار اتجاهاً ممنهجاً. وفهمُ هذا التطوّر يعصِمنا من وهمين: وهمِ أنه بدعةٌ محدثة، ووهمِ أنه كان علماً مكتمل المعالم منذ البداية.", en: "Objective-based tafsīr was not born finished in a day; its seeds grew with revelation, matured with uṣūl al-fiqh, crystallized in the Qur'anic sciences, and became methodical in the modern era — an authentic extension of the tradition.", es: "El tafsīr orientado a los fines no nació acabado en un día; sus semillas crecieron con la revelación, maduraron con los uṣūl al-fiqh, se cristalizaron en las ciencias del Corán y se metodizaron en la era moderna —una extensión auténtica de la tradición." },
   },
@@ -1238,7 +1238,7 @@ export const articlesMeta: ArticleMeta[] = [
     readingMinutes: 4,
     series: { ar: 'التفسير المقاصدي', en: 'Objective-Based Tafsīr', es: 'Tafsīr orientado a los fines' },
     episode: 4,
-    title: { ar: "مقاصد القرآن الكبرى والغاية من التفسير المقاصدي", en: "The Grand Objectives of the Qur'an and the Goal of Objective-Based Tafsīr", es: "Los grandes fines del Corán y el propósito del tafsīr orientado a los fines"
+    title: { ar: "مقاصد القرآن الكبرى والغاية من التفسير المقاصدي", en: "The Grand Objectives of the Qur'an and the Goal of Objective-Based Tafsīr", es: "Los grandes fines del Corán y el propósito del tafsīr orientado a los fines",
       ur: 'قرآن کریم کے کبری مقاصد اور مقاصدی تفسیر کا ہدف', },
     excerpt: { ar: "إذا كان التفسير المقاصدي يقرأ الآية في ضوء غاياتها، فلا بدّ أن نتبيّن أوّلاً المقاصد الكبرى التي أُنزِل القرآن كلُّه لأجلها؛ فهي البوصلة التي تُوجِّه فهم الجزئيات. وقد صرّح القرآن بمقصده الأعظم في غير موضع:", en: "To read a verse in light of its goals, we must first discern the Qur'an's grand objectives — rectifying belief, purifying the soul, justice, civilization, and mercy — and the threefold goal of reading by them.", es: "Para leer un versículo a la luz de sus metas, hemos de discernir primero los grandes fines del Corán —rectificar la creencia, purificar el alma, la justicia, la civilización y la misericordia— y el triple propósito de leer por ellos." },
   },
@@ -1250,7 +1250,7 @@ export const articlesMeta: ArticleMeta[] = [
     readingMinutes: 4,
     series: { ar: 'التفسير المقاصدي', en: 'Objective-Based Tafsīr', es: 'Tafsīr orientado a los fines' },
     episode: 5,
-    title: { ar: "أعلام التفسير المقاصدي ورجالاته", en: "The Figures and Scholars of Objective-Based Tafsīr", es: "Las figuras y los sabios del tafsīr orientado a los fines"
+    title: { ar: "أعلام التفسير المقاصدي ورجالاته", en: "The Figures and Scholars of Objective-Based Tafsīr", es: "Las figuras y los sabios del tafsīr orientado a los fines",
       ur: 'مقاصدی تفسیر کی شخصیات اور علماء', },
     excerpt: { ar: "صاحب «الموافقات»، والمؤصِّل الأكبر لنظرية المقاصد. لم يكتب تفسيراً مقاصديّاً مستقلّاً، لكنّه وضع الأساس النظريّ الذي قام عليه هذا الاتجاه كلُّه؛ إذ رتّب المقاصد إلى ضروريّاتٍ وحاجيّاتٍ وتحسينيّات، وقرّر أنّ الشريعة وُضِعت لمصالح العباد في ا", en: "An edifice that generations cooperated to raise: al-Shāṭibī grounded it, Ibn ʿĀshūr moved it into tafsīr, the Manār school and ʿAllāl al-Fāsī revived it, and the moderns theorized it. A survey of its principal figures.", es: "Un edificio que generaciones cooperaron en levantar: al-Shāṭibī lo fundamentó, Ibn ʿĀshūr lo trasladó al tafsīr, la escuela de al-Manār y ʿAllāl al-Fāsī lo revivieron, y los modernos lo teorizaron. Una reseña de sus figuras principales." },
   },
@@ -1262,7 +1262,7 @@ export const articlesMeta: ArticleMeta[] = [
     readingMinutes: 5,
     series: { ar: 'التفسير المقاصدي', en: 'Objective-Based Tafsīr', es: 'Tafsīr orientado a los fines' },
     episode: 6,
-    title: { ar: "أصول التفسير المقاصدي وضوابطه: بين الانفتاح والانضباط", en: "The Principles and Controls of Objective-Based Tafsīr: Between Openness and Discipline", es: "Los principios y los controles del tafsīr orientado a los fines: entre la apertura y la disciplina"
+    title: { ar: "أصول التفسير المقاصدي وضوابطه: بين الانفتاح والانضباط", en: "The Principles and Controls of Objective-Based Tafsīr: Between Openness and Discipline", es: "Los principios y los controles del tafsīr orientado a los fines: entre la apertura y la disciplina",
       ur: 'مقاصدی تفسیر کے اصول اور ضوابط: کشادگی اور انضباط کے درمیان', },
     excerpt: { ar: "التفسير المقاصدي بابٌ من الخير عظيم، لكنّه — كأيّ منهجٍ — يُساء استعماله إذا فُكَّ من ضوابطه. فقد يتذرّع متذرّعٌ بـ«المقصد» ليُعطّل حكماً صريحاً، أو يُحمِّل الآية ما لا تحتمل. ولذلك كان وضع الضوابط صمّام الأمان الذي يحفظ المنهج من الانزلاق ", en: "A great door of good, but misused if unfastened from its controls. Five controls: regard for the word, recognized objectives, conformity of particular to universal, not opposing the definitive, and distinguishing objective from means.", es: "Una gran puerta de bien, pero mal usada si se desata de sus controles. Cinco controles: la consideración de la palabra, los fines reconocidos, la conformidad de lo particular con lo universal, no oponerse a lo definitivo, y distinguir el fin del medio." },
   },
@@ -1274,7 +1274,7 @@ export const articlesMeta: ArticleMeta[] = [
     readingMinutes: 4,
     series: { ar: 'التفسير المقاصدي', en: 'Objective-Based Tafsīr', es: 'Tafsīr orientado a los fines' },
     episode: 7,
-    title: { ar: "ثمرة مدارسة القرآن على أساس المقاصد", en: "The Fruit of Studying the Qur'an upon the Basis of Objectives", es: "El fruto de estudiar el Corán sobre la base de los fines"
+    title: { ar: "ثمرة مدارسة القرآن على أساس المقاصد", en: "The Fruit of Studying the Qur'an upon the Basis of Objectives", es: "El fruto de estudiar el Corán sobre la base de los fines",
       ur: 'قرآن کریم کو مقاصد کی بنیاد پر پڑھنے کا ثمر', },
     excerpt: { ar: "بعد التأصيل والتاريخ والمقاصد والأعلام والضوابط، يَحسُن أن نسأل سؤال المنتفِع: ماذا أجني من قراءة القرآن على أساس مقاصده؟ فالعلم الذي لا يُثمر عملاً ناقصٌ، والمنهج إنما يُقاس بثماره. وثمراتُ المدارسة المقاصدية كثيرةٌ، نُجمل أبرزها.", en: "What do I gain from reading the Qur'an by its objectives? Presence of the heart, grasping reality, fortification against rigidity and distortion, unity of conception, investing the verse in life, and deepening love for the Qur'an.", es: "¿Qué gano de leer el Corán por sus fines? La presencia del corazón, comprender la realidad, la fortificación contra la rigidez y la distorsión, la unidad de la concepción, invertir el versículo en la vida, y profundizar el amor por el Corán." },
   },
@@ -1286,7 +1286,7 @@ export const articlesMeta: ArticleMeta[] = [
     readingMinutes: 5,
     series: { ar: 'التفسير المقاصدي', en: 'Objective-Based Tafsīr', es: 'Tafsīr orientado a los fines' },
     episode: 8,
-    title: { ar: "تطبيقٌ سلوكيّ: مقاصد القرآن في بناء سلوك الفرد", en: "A Behavioral Application: The Objectives of the Qur'an in Building the Conduct of the Individual", es: "Una aplicación conductual: los fines del Corán en la construcción de la conducta del individuo"
+    title: { ar: "تطبيقٌ سلوكيّ: مقاصد القرآن في بناء سلوك الفرد", en: "A Behavioral Application: The Objectives of the Qur'an in Building the Conduct of the Individual", es: "Una aplicación conductual: los fines del Corán en la construcción de la conducta del individuo",
       ur: 'ایک عملی تطبیق: قرآن کریم کے مقاصد فرد کے رویے کی تشکیل میں', },
     excerpt: { ar: "ننتقل الآن من التأصيل إلى التطبيق الحيّ، ونبدأ بأقرب الميادين إلى الإنسان: سلوكه الفرديّ وأخلاقه. فالقرآن لم ينزل ليُتلى فقط ولا ليُحفظ فحسب، بل ليَبنيَ شخصيّةً متّزنةً صادقةً أمينة. والتفسير المقاصدي في هذا الباب يكشف أنّ آيات الأخلاق ليست", en: "The Qur'an was revealed to build a balanced, truthful, trustworthy personality. The verses of truthfulness, trustworthiness, self-restraint, and excellence — read with their objectives as a daily program of conduct.", es: "El Corán se reveló para construir una personalidad equilibrada, veraz y fiel. Los versículos de la veracidad, la fidelidad, el autodominio y la excelencia —leídos con sus fines como un programa cotidiano de conducta." },
   },
@@ -1298,7 +1298,7 @@ export const articlesMeta: ArticleMeta[] = [
     readingMinutes: 4,
     series: { ar: 'التفسير المقاصدي', en: 'Objective-Based Tafsīr', es: 'Tafsīr orientado a los fines' },
     episode: 9,
-    title: { ar: "تطبيقٌ اجتماعيّ: مقاصد القرآن في إصلاح العلاقات والمجتمع", en: "A Social Application: The Objectives of the Qur'an in Reforming Relationships and Society", es: "Una aplicación social: los fines del Corán en la reforma de las relaciones y la sociedad"
+    title: { ar: "تطبيقٌ اجتماعيّ: مقاصد القرآن في إصلاح العلاقات والمجتمع", en: "A Social Application: The Objectives of the Qur'an in Reforming Relationships and Society", es: "Una aplicación social: los fines del Corán en la reforma de las relaciones y la sociedad",
       ur: 'سماجی اطلاق: رشتوں اور معاشرے کی اصلاح میں قرآن کریم کے مقاصد', },
     excerpt: { ar: "تجمع الآية مقاصد الاجتماع في ثلاثٍ متدرّجة: العدلُ الذي يَضبط الحقوق فلا يُظلَم أحد، وهو الحدّ الأدنى الذي به قِوام المجتمع؛ ثم الإحسانُ الذي يتجاوز الحقّ المجرّد إلى الفضل والعطاء فيُذيب البغضاء ويَصنع المودّة؛ ثم صلةُ الأرحام التي تَبني ا", en: "How does the Qur'an reform relationships and society? The objectives of justice, consultation, reconciliation, and safeguarding society from suspicion, spying, and backbiting — applied to the digital age.", es: "¿Cómo reforma el Corán las relaciones y la sociedad? Los fines de la justicia, la consulta, la reconciliación y la salvaguarda de la sociedad ante la sospecha, el espionaje y la calumnia —aplicados a la era digital." },
   },
@@ -1310,7 +1310,7 @@ export const articlesMeta: ArticleMeta[] = [
     readingMinutes: 6,
     series: { ar: 'التفسير المقاصدي', en: 'Objective-Based Tafsīr', es: 'Tafsīr orientado a los fines' },
     episode: 10,
-    title: { ar: "تطبيقٌ نفسيّ: مقاصد القرآن في طمأنينة النفس وعلاجها", en: "A Psychological Application: The Objectives of the Qur'an in the Tranquility and Healing of the Soul", es: "Una aplicación psicológica: los fines del Corán en la serenidad del alma y su sanación"
+    title: { ar: "تطبيقٌ نفسيّ: مقاصد القرآن في طمأنينة النفس وعلاجها", en: "A Psychological Application: The Objectives of the Qur'an in the Tranquility and Healing of the Soul", es: "Una aplicación psicológica: los fines del Corán en la serenidad del alma y su sanación",
       ur: 'نفسیاتی اطلاق: قرآنی مقاصد روح کی سکون اور شفاء میں', },
     excerpt: { ar: "نختم سلسلتنا بأعمق ميادين الإنسان وأخفاها: نفسِه وقلبِه. فالقرآن كما يُصلح السلوك ويَبني المجتمع، يُداوي النفس ويَمنحها الطمأنينة؛ وقد وَصَفه الله بأنه شفاءٌ فقال: ﴿وَنُنَزِّلُ مِنَ الْقُرْآنِ مَا هُوَ شِفَاءٌ وَرَحْمَةٌ لِّلْمُؤْمِنِينَ﴾ [", en: "We conclude the series with the soul and the heart: the objectives of tranquility, serenity in hardship, hope, ease after hardship, and patience — the Qur'an as a healing for what is in the chests.", es: "Concluimos la serie con el alma y el corazón: los fines de la serenidad, el sosiego en la adversidad, la esperanza, la facilidad tras la dificultad y la paciencia —el Corán como sanación para lo que hay en los pechos." },
   },
