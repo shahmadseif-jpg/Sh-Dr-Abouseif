@@ -2152,6 +2152,37 @@ export const articlesMeta: ArticleMeta[] = [
       ur: 'مغرب میں امام کا دن سورج طلوع ہونے سے پہلے سات متشابک حلقوں میں شروع ہوتا ہے: شعائری، فتوائی، خانوادگی، تربیتی، ادارہ جاتی، معاشرتی اور نفسیاتی۔ نماز کی امامت معاشرتی قیادت سے کیسے الگ ہوئی — اور امریکی واقعیت ان کے اعادۂ وحدت کا تقاضا کیوں کرتی ہے؟',
     },
   },
+  // ===== فقه الأقليات — المقال الثاني (2026-07-11) =====
+  {
+    slug: 'muslim-political-participation-west',
+    category: 'fiqh',
+    isoDate: '2026-07-11',
+    date: {
+      ar: '١١ يوليو ٢٠٢٦',
+      en: 'July 11, 2026',
+      es: '11 de julio de 2026',
+      ur: '11 جولائی 2026',
+    },
+    readingMinutes: 9,
+    title: {
+      ar: 'الصوتُ الانتخابيُّ — المسلمُ في الغرب بينَ التنحِّي والمشاركة',
+      en: 'The Ballot — Muslims in the West Between Abstention and Participation',
+      es: 'El voto — los musulmanes en Occidente entre la abstension y la participacion',
+      ur: 'انتخابی ووٹ — مغرب میں مسلمان: دستبرداری اور شرکت کے درمیان',
+    },
+    subtitle: {
+      ar: 'قراءةٌ فقهيّةٌ مقاصديّةٌ في مسألة المشاركة السياسية للمسلمين في الغرب',
+      en: 'A Jurisprudential and Maqasid Reading of Political Participation for Muslims in the West',
+      es: 'Una lectura juridica y maqasidica sobre la participacion politica de los musulmanes en Occidente',
+      ur: 'مغرب میں مسلمانوں کی سیاسی شرکت کی فقہی و مقاصدی قرأت',
+    },
+    excerpt: {
+      ar: 'الملايين من المسلمين في الغرب ينحَّون عن الانتخابات باسم الدين. لكن هل الصمت السياسي فريضة؟ أم هو اختيار له ثمن يدفعه المسلم من مصلحته ومصلحة أجياله؟ قراءة مقاصدية في مسألة التصويت والمشاركة بين المنع والاستحباب.',
+      en: 'Millions of Muslims in the West abstain from elections in the name of religion. But is political silence a religious duty? Or a choice with a price paid from Muslim interests across generations? A maqasid reading of voting and participation between prohibition and encouragement.',
+      es: 'Muchos musulmanes en Occidente se abstienen de votar en nombre de la religion. Es el silencio politico un deber religioso? O una eleccion con un precio que se paga con los intereses musulmanes? Una lectura maqasidica.',
+      ur: 'مغرب میں لاکھوں مسلمان مذہب کے نام پر انتخابات سے دور رہتے ہیں۔ لیکن کیا سیاسی خاموشی دینی فریضہ ہے؟ یا ایک ایسا انتخاب جس کی قیمت نسلوں کے مفادات سے ادا ہوتی ہے؟ ووٹ اور شرکت کی مقاصدی قرأت۔',
+    },
+  },
   // ===== فقه الأقليات — المقال الأول (2026-07-11) =====
   {
     slug: 'home-mortgage-minority-fiqh',
