@@ -13,6 +13,7 @@ export default function Header() {
   const navItems = [
     { href: '/', label: t('home') },
     { href: '/about', label: t('about') },
+    { href: '/cv', label: t('cv') },
     { href: '/lectures', label: t('lectures') },
     { href: '/articles', label: t('articles') },
     { href: '/khawatir', label: t('khawatir') },
@@ -23,10 +24,11 @@ export default function Header() {
     { href: '/contact', label: t('contact') },
   ];
 
-  const switchLocales: { code: 'ar' | 'en' | 'es'; label: string }[] = [
+  const switchLocales: { code: 'ar' | 'en' | 'es' | 'ur'; label: string }[] = [
     { code: 'ar', label: 'ع' },
     { code: 'en', label: 'EN' },
     { code: 'es', label: 'ES' },
+    { code: 'ur', label: 'UR' },
   ];
 
   return (
@@ -34,14 +36,14 @@ export default function Header() {
       <div className="mx-auto flex max-w-container items-center justify-between px-4 sm:px-6 lg:px-8 h-16">
         <Link href="/" className="flex items-center gap-3 no-underline">
           <div className="flex h-10 w-10 items-center justify-center rounded-md bg-navy-600 text-white text-sm font-medium">
-            {locale === 'ar' ? 'أ' : 'A'}
+            {locale === 'ar' || locale === 'ur' ? 'أ' : 'A'}
           </div>
           <div className="leading-tight">
             <div className="text-sm font-medium text-navy-700">
-              {locale === 'ar' ? 'د. أحمد أبو سيف' : 'Dr. Ahmed Abouseif'}
+              {locale === 'ar' ? 'د. أحمد أبو سيف' : locale === 'ur' ? 'ڈاکٹر احمد ابو سیف' : 'Dr. Ahmed Abouseif'}
             </div>
             <div className="text-xs text-navy-500">
-              {locale === 'ar' ? 'أكاديمية الأئمة' : 'Imams Academy'}
+              {locale === 'ar' ? 'أكاديمية الأئمة' : locale === 'ur' ? 'اکیڈمی آف امامز' : 'Imams Academy'}
             </div>
           </div>
         </Link>
