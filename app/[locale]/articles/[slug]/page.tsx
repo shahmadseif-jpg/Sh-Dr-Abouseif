@@ -135,7 +135,7 @@ export default async function ArticlePage({
         {meta.series && (
           <div className="mb-4">
             <div className="text-xs uppercase tracking-[0.2em] text-gold-500 mb-1">
-              {locale === 'ar' ? 'سلسلة' : locale === 'es' ? 'Serie' : 'Series'} {meta.episode ? `· ${locale === 'ar' ? 'الحلقة' : locale === 'es' ? 'Episodio' : 'Episode'} ${meta.episode}` : ''}
+              {locale === 'ar' ? 'سلسلة' : locale === 'es' ? 'Serie' : locale === 'ur' ? 'سلسلہ' : 'Series'} {meta.episode ? `· ${locale === 'ar' ? 'الحلقة' : locale === 'es' ? 'Episodio' : locale === 'ur' ? 'قسط' : 'Episode'} ${meta.episode}` : ''}
             </div>
             <div className="text-sm text-navy-500 italic">{localize(meta.series, lang)}</div>
           </div>
@@ -162,7 +162,7 @@ export default async function ArticlePage({
           <span className="text-gold-300">•</span>
           <span>{localize(meta.date, lang)}</span>
           <span className="text-gold-300">•</span>
-          <span>{meta.readingMinutes} {locale === 'ar' ? 'دقائق قراءة' : locale === 'es' ? 'min de lectura' : 'min read'}</span>
+          <span>{meta.readingMinutes} {locale === 'ar' ? 'دقائق قراءة' : locale === 'es' ? 'min de lectura' : locale === 'ur' ? 'منٹ مطالعہ' : 'min read'}</span>
         </div>
 
         {/* Cover image (optional) */}
@@ -413,7 +413,7 @@ function renderMarkdown(md: string, locale: string): ReactNode {
     blocks.push(
       <div key="footnotes" className="mt-16 pt-8 border-t border-navy-100">
         <h3 className="text-base font-medium text-navy-700 mb-4 uppercase tracking-wider">
-          {locale === 'ar' ? 'الهوامش' : locale === 'es' ? 'Notas' : 'Notes'}
+          {locale === 'ar' ? 'الهوامش' : locale === 'es' ? 'Notas' : locale === 'ur' ? 'حواشی' : 'Notes'}
         </h3>
         <ol className="space-y-3 text-sm text-navy-600 leading-relaxed list-decimal list-inside">
           {footnoteDefs.map((fn, idx) => (
