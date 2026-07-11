@@ -1083,7 +1083,7 @@ export const articlesMeta: ArticleMeta[] = [
     readingMinutes: 14,
     series: { ar: 'قبسٌ من نور النبوّة', en: 'Glimmers of Prophetic Light', es: 'Destellos de la Luz Profética' },
     episode: 1,
-    title: { ar: 'المصلحون لا يكفّون عن المحاولة', en: 'Reformers Never Cease to Try', es: 'Los reformadores no cesan de intentarlo'
+    title: { ar: 'المصلحون لا يكفّون عن المحاولة', en: 'Reformers Never Cease to Try', es: 'Los reformadores no cesan de intentarlo',
       ur: 'مصلحون کبھی کوشش نہیں چھوڑتے', },
     subtitle: { ar: 'فقه الثبات وطول النفس في مسيرة الإصلاح', en: 'The Jurisprudence of Steadfastness and Perseverance on the Path of Reform', es: 'La jurisprudencia de la constancia y la perseverancia en el camino de la reforma' },
     excerpt: { ar: 'ليس الإصلاح صرخةً عابرة، ولا خطبةً مؤثرة، بل هو غرسٌ طويل، ومحاولةٌ تتبعها محاولة، حتى يأذن الله. فالمصلح كُلِّف بالبلاغ لا بصناعة الهداية؛ يزرع ولا يملك الحصاد، ويبقى على الثغر لا لأنّ الناس أنصفوه، بل لأنّ الله أقامه فيه — قبسٌ من نور النبوّة في فقه الثبات.', en: "Reform is no passing cry, no stirring sermon, but a long planting — an attempt followed by an attempt until God permits the fruit. The reformer is charged with conveyance, not with manufacturing guidance; he sows without owning the harvest, and holds his post not because people were fair to him, but because God stationed him there.", es: 'La reforma no es un grito pasajero ni un sermón conmovedor, sino una siembra prolongada: un intento al que sigue otro hasta que Dios permite el fruto. Al reformador le incumbe la transmisión, no fabricar la guía; siembra sin poseer la cosecha y permanece en su puesto no porque la gente fuera justa con él, sino porque Dios lo estableció allí.' },
