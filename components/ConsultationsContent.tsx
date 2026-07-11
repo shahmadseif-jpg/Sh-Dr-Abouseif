@@ -75,12 +75,79 @@ const content = {
     ],
     success: 'Your request is ready. Your email app will open to send it.',
   },
+  es: {
+    title: 'Servicio de Asesoramiento Familiar',
+    subtitle: 'Patrocinado por el Dr. Ahmed Abouseif',
+    intro:
+      'Un servicio de asesoramiento familiar islámico, confidencial y especializado, al servicio de nuestra comunidad musulmana. Hermanos y hermanas son bienvenidos en dos franjas semanales en cualquiera de las dos mezquitas de abajo —sin honorarios y con plena privacidad.',
+    select_location: 'Elige el lugar de tu consulta',
+    aia_name: 'Mezquita de la Academia Americana de Imames',
+    aia_address: 'American Imams Academy, USA',
+    aia_hours: 'Viernes después del Asr · Sábado después del Maghrib',
+    bayt_name: 'Centro Islámico Bayt Al-Karim',
+    bayt_address: 'Bayt Al-Karim Islamic Center, Fort Worth, TX',
+    bayt_hours: 'Jueves después del Maghrib · Domingo por la tarde',
+    form_title: 'Formulario de registro',
+    name_label: 'Nombre completo',
+    email_label: 'Correo electrónico',
+    phone_label: 'Número de teléfono',
+    type_label: 'Tipo de consulta',
+    type_premarital: 'Asesoramiento prematrimonial',
+    type_marital: 'Problema conyugal',
+    type_parenting: 'Crianza de los hijos',
+    type_other: 'Otro',
+    message_label: 'Descripción breve (se mantiene totalmente confidencial)',
+    message_placeholder: 'Escribe una nota breve... (opcional)',
+    submit: 'Enviar solicitud de consulta',
+    note_title: 'Notas importantes',
+    notes: [
+      'El servicio es completamente gratuito',
+      'Todas las consultas se mantienen estrictamente confidenciales',
+      'A los hermanos los recibe el Shaij; a las hermanas las recibe una asesora',
+      'Las sesiones pueden reprogramarse en caso de emergencia',
+      'Por favor, reserva con al menos 24 horas de antelación',
+    ],
+    success: 'Tu solicitud está lista. Se abrirá tu aplicación de correo para enviarla.',
+  },
+  ur: {
+    title: 'خاندانی مشاورتی خدمت',
+    subtitle: 'ڈاکٹر احمد ابو سیف کی نگرانی میں',
+    intro:
+      'مسلم کمیونٹی کی خدمت کے لیے خصوصی اسلامی خاندانی مشاورتی خدمت۔ بھائیوں اور بہنوں کا استقبال ہفتے میں دو بار دونوں میں سے کسی ایک مسجد میں کیا جاتا ہے — مکمل رازداری، بغیر کسی فیس کے۔',
+    select_location: 'مشاورت کی جگہ منتخب کریں',
+    aia_name: 'امریکن امامز اکیڈمی مسجد',
+    aia_address: 'American Imams Academy, USA',
+    aia_hours: 'جمعہ عصر کے بعد · ہفتہ مغرب کے بعد',
+    bayt_name: 'بیت الکریم اسلامک سنٹر',
+    bayt_address: 'Bayt Al-Karim Islamic Center, Fort Worth, TX',
+    bayt_hours: 'جمعرات مغرب کے بعد · اتوار بعد دوپہر',
+    form_title: 'رجسٹریشن فارم',
+    name_label: 'پورا نام',
+    email_label: 'ای میل',
+    phone_label: 'فون نمبر',
+    type_label: 'مشاورت کی قسم',
+    type_premarital: 'نکاح سے قبل مشاورت',
+    type_marital: 'ازدواجی مسئلہ',
+    type_parenting: 'بچوں کی تربیت',
+    type_other: 'دیگر',
+    message_label: 'مختصر تفصیل (مکمل رازداری کے ساتھ)',
+    message_placeholder: 'مختصر نوٹ لکھیں... (اختیاری)',
+    submit: 'مشاورت کی درخواست بھیجیں',
+    note_title: 'اہم نوٹس',
+    notes: [
+      'یہ خدمت مکمل طور پر مفت ہے',
+      'تمام مشاورتیں سختی سے رازداری میں رکھی جاتی ہیں',
+      'بھائیوں سے شیخ ملتے ہیں؛ بہنوں کو خاتون مشیر استقبال کرتی ہیں',
+      'ہنگامی حالات میں سیشن دوبارہ شیڈول ہو سکتا ہے',
+      'براہ کرم کم از کم 24 گھنٹے پہلے بکنگ کروائیں',
+    ],
+    success: 'آپ کی درخواست تیار ہے۔ بھیجنے کے لیے آپ کی ای میل ایپ کھلے گی۔',
+  },
 };
 
 export default function ConsultationsContent() {
-  const _loc = useLocale();
-  const locale = (_loc === 'es' ? 'en' : _loc) as 'ar' | 'en';
-  const c = content[locale];
+  const locale = useLocale();
+  const c = content[locale as 'ar' | 'en' | 'es' | 'ur'] ?? content.en;
 
   const [location, setLocation] = useState<Location>('aia');
   const [name, setName] = useState('');
