@@ -51,6 +51,16 @@ const UI = {
     ask_body: 'Envía tu pregunta; llega directamente al Shaykh, y la respuesta puede publicarse aquí.',
     ask_cta: 'Envía tu pregunta',
   },
+  ur: {
+    search: 'سوالات میں تلاش کریں…',
+    all: 'تمام ابواب',
+    none: 'آپ کی تلاش سے کوئی سوال مطابقت نہیں رکھتا۔',
+    read: 'جواب پڑھیے',
+    count: 'سوالات',
+    ask_title: 'اپنا سوال نہیں ملا؟',
+    ask_body: 'اپنا سوال بھیجیے؛ وہ براہِ راست شیخ تک پہنچتا ہے، اور جواب یہاں شائع ہو سکتا ہے۔',
+    ask_cta: 'اپنا سوال بھیجیے',
+  },
 };
 
 export default function QAList() {
