@@ -6,6 +6,7 @@ import { notFound } from 'next/navigation';
 import { routing } from '@/i18n/routing';
 import Header from '@/components/Header';
 import Footer from '@/components/Footer';
+import QAFloatingButton from '@/components/QAFloatingButton';
 import { SITE_URL, SITE_NAME } from '@/lib/site';
 import '../globals.css';
 
@@ -88,6 +89,7 @@ export default async function LocaleLayout({
           <Header />
           <main className="flex-1">{children}</main>
           <Footer />
+          <QAFloatingButton />
         </NextIntlClientProvider>
         {/* Privacy-friendly analytics (activates once the domain is added in a Plausible account) */}
         <Script
