@@ -50,10 +50,10 @@ const PATH_DESC: Record<ArticleCategory, LocalizedText> = {
     ur: 'مسلم خاندان کا فقہ اور مغرب میں بچوں کی تربیت۔',
   },
   fiqh: {
-    ar: 'مسائلُ الفقه والفكر المعاصر بمنهجٍ مقاصديّ.',
-    en: 'Contemporary jurisprudence and thought through a purpose-driven method.',
-    es: 'Cuestiones de jurisprudencia y pensamiento contemporáneo con un método orientado a los fines.',
-    ur: 'معاصر فقہ و فکر کے مسائل مقاصدی منہج کے ذریعے۔',
+    ar: 'مسائلُ المسلم في الغرب بين الفقه المعاصر والمقاصد الشرعية — حضور، هوية، تكيُّف وتميُّز.',
+    en: 'Islamic jurisprudence for Muslim minorities in the West — identity, civic presence, and navigating modernity.',
+    es: 'Jurisprudencia islámica para las minorías musulmanas en Occidente — identidad, presencia cívica y modernidad.',
+    ur: 'مغرب میں مسلم اقلیتوں کے لیے اسلامی فقہ — شناخت، شہری حضور، اور جدیدیت میں راستہ۔',
   },
   'maqasid-tafsir': {
     ar: 'سلسلةٌ في قراءة القرآن على أساس مقاصده وغاياته.',
@@ -159,19 +159,40 @@ export default function ArticlesList() {
       {groups.map(({ cat, seriesGroups, standalone, total }) => (
         <section key={cat} id={`cat-${cat}`} className="scroll-mt-24">
           {/* Section heading */}
-          <div className="mb-6 pb-4 border-b border-navy-100">
-            <div className="flex items-baseline justify-between gap-3">
-              <h2 className="text-2xl font-medium text-navy-700">
-                {categoryLabels[locale][cat]}
-              </h2>
-              <span className="text-xs text-navy-400 whitespace-nowrap">
-                {total} {countLabel}
-              </span>
+          {cat === 'fiqh' ? (
+            <div className="mb-6 px-5 py-4 bg-gold-50 border border-gold-200 rounded-lg">
+              <div className="flex items-center justify-between gap-3 flex-wrap">
+                <div className="flex items-center gap-3 flex-wrap">
+                  <h2 className="text-2xl font-medium text-navy-700">
+                    {categoryLabels[locale][cat]}
+                  </h2>
+                  <span className="text-xs font-semibold bg-gold-400 text-navy-900 px-3 py-1 rounded-full whitespace-nowrap">
+                    {locale === 'ar' ? 'مسلمو الغرب' : locale === 'es' ? 'Islam en Occidente' : locale === 'ur' ? 'مغرب میں اسلام' : 'Muslims in the West'}
+                  </span>
+                </div>
+                <span className="text-xs text-navy-400 whitespace-nowrap">
+                  {total} {countLabel}
+                </span>
+              </div>
+              <p className="mt-2 text-sm text-navy-600 leading-relaxed">
+                {localize(PATH_DESC[cat], locale)}
+              </p>
             </div>
-            <p className="mt-1 text-sm text-navy-500 leading-relaxed">
-              {localize(PATH_DESC[cat], locale)}
-            </p>
-          </div>
+          ) : (
+            <div className="mb-6 pb-4 border-b border-navy-100">
+              <div className="flex items-baseline justify-between gap-3">
+                <h2 className="text-2xl font-medium text-navy-700">
+                  {categoryLabels[locale][cat]}
+                </h2>
+                <span className="text-xs text-navy-400 whitespace-nowrap">
+                  {total} {countLabel}
+                </span>
+              </div>
+              <p className="mt-1 text-sm text-navy-500 leading-relaxed">
+                {localize(PATH_DESC[cat], locale)}
+              </p>
+            </div>
+          )}
 
           <div className="space-y-10">
             {/* Series sub-groups */}
