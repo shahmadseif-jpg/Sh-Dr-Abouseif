@@ -2152,6 +2152,37 @@ export const articlesMeta: ArticleMeta[] = [
       ur: 'مغرب میں امام کا دن سورج طلوع ہونے سے پہلے سات متشابک حلقوں میں شروع ہوتا ہے: شعائری، فتوائی، خانوادگی، تربیتی، ادارہ جاتی، معاشرتی اور نفسیاتی۔ نماز کی امامت معاشرتی قیادت سے کیسے الگ ہوئی — اور امریکی واقعیت ان کے اعادۂ وحدت کا تقاضا کیوں کرتی ہے؟',
     },
   },
+  // ===== فقه الأقليات — المقال الأول (2026-07-11) =====
+  {
+    slug: 'home-mortgage-minority-fiqh',
+    category: 'fiqh',
+    isoDate: '2026-07-11',
+    date: {
+      ar: '١١ يوليو ٢٠٢٦',
+      en: 'July 11, 2026',
+      es: '11 de julio de 2026',
+      ur: '11 جولائی 2026',
+    },
+    readingMinutes: 9,
+    title: {
+      ar: 'البيتُ في الغرب — الرهنُ العقاريُّ بينَ حاجةِ السَّكَن وإشكاليَّةِ الرِّبا',
+      en: 'Home in the West — The Mortgage Between Housing Need and the Question of Riba',
+      es: 'El hogar en Occidente — La hipoteca entre la necesidad de vivienda y la cuestión del riba',
+      ur: 'مغرب میں گھر — رہن کا مسئلہ: رہائش کی ضرورت اور ربا کا سوال',
+    },
+    subtitle: {
+      ar: 'قراءةٌ مقاصديّةٌ في مسألة الرهن العقاري للمسلمين في الغرب',
+      en: 'A Maqasid Reading of the Mortgage Question for Muslims in the West',
+      es: 'Una lectura maqasidica de la hipoteca para los musulmanes de Occidente',
+      ur: 'مغرب میں مسلمانوں کے لیے رہن کے مسئلے کی مقاصدی قرأت',
+    },
+    excerpt: {
+      ar: 'كثيرٌ من المسلمين في الغرب يدفعون إيجاراً طوال حياتهم لا يملكون في نهايته شيئاً. وحين يسألون عن الرهن العقاري يسمعون: ربا. لكن الأمر لم يُفصَل. قراءة مقاصدية جادة في مسألة السكن بين حاجة الأسرة وضوابط الفقه.',
+      en: 'Many Muslims in the West pay rent their entire lives and end up with nothing. When they ask about a mortgage they hear: riba. But the matter has not been settled. A serious maqasid reading of housing between genuine family need and jurisprudential controls.',
+      es: 'Muchos musulmanes en Occidente pagan alquiler toda su vida sin obtener nada a cambio. Cuando preguntan por la hipoteca escuchan: riba. Pero el asunto no esta cerrado. Una lectura maqasidica seria sobre la vivienda entre la necesidad familiar y los controles juridicos.',
+      ur: 'مغرب میں بہت سے مسلمان عمر بھر کرایہ ادا کرتے ہیں اور آخرکار کچھ نہیں پاتے۔ رہن کے بارے میں پوچھیں تو سنتے ہیں: ربا۔ لیکن یہ مسئلہ ابھی تک طے نہیں ہوا۔ خاندانی ضرورت اور فقہی ضوابط کے درمیان رہائش کی مقاصدی قرأت۔',
+    },
+  },
   {
     slug: 'quran-civilization',
     category: 'civilization',
