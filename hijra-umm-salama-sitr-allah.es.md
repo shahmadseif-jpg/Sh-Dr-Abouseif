@@ -1,0 +1,81 @@
+---
+title: "La vida conyugal en su forma más bella"
+locale: "es"
+slug: "hijra-umm-salama-sitr-allah"
+---
+
+*Escrito por el Imán Dr. Ahmed Muhammad Ali Abouseif*
+
+Solemos leer la hégira como una epopeya de sangre y sacrificio: bienes abandonados, hogares dejados atrás, cuellos expuestos a la espada por causa de la fe. Y esto es cierto, sin lugar a dudas. Pero en los registros de la hégira hay un hogar cuya historia, si se medita con detenimiento, abre ante nosotros otra puerta no menos profunda: que la hégira fue también una escuela para el matrimonio firme, y una de las señales de la protección divina con la que Dios —valiéndose de quien quiera entre los ejércitos de los cielos y la tierra— guarda el honor y la dignidad de Sus siervos. Se trata del hogar de Abū Salama ʿAbdullāh ibn ʿAbd al-Asad y su esposa Umm Salama Hind bint Abī Umayya al-Majzūmiyya, que Dios esté complacido con ambos.
+
+En este hogar se unieron dos cosas que rara vez confluyen en una misma historia: un sacrificio que desgarra el corazón, y una confianza conyugal inquebrantable, aunque los días despedazaran a la familia y la dispersaran por distintas tierras. Y a través de estas dos realidades se manifiesta el significado más grande: que cuando el siervo es sincero con Dios, Dios se encarga de protegerlo, aunque para ello disponga a un hombre politeísta que aún no formaba parte de los creyentes.
+
+## Un hogar antes de ser un viaje
+
+Abū Salama no era un hombre cualquiera entre los Compañeros del Mensajero de Dios ﷺ. Era hijo de la tía paterna del Profeta ﷺ, Barra bint ʿAbd al-Muṭṭalib, y su hermano de leche —pues ambos habían mamado de Thuwaybah, la liberta de Abū Lahab—. Era uno de los primeros en abrazar el Islam, entre los pioneros en emigrar a la tierra de Abisinia, y luego estuvo —según las fuentes— a la cabeza de quienes emigraron a Medina, hasta el punto de ser considerado el primero o uno de los primeros en hacerlo.
+
+Umm Salama era de una familia noble de Quraysh; su padre, Abū Umayya ibn al-Mughīra al-Majzūmī, era uno de los más generosos entre los árabes, llamado «Zād al-Rākib» —la provisión del viajero— porque nunca dejaba que su acompañante en un viaje cargara con sus propios víveres, costeando él todos los gastos. Era, pues, una mujer criada en la honra y el linaje, que prefirió a todo ello su fe y su esposo.
+
+Cuando contemplamos el relato de su hégira, no vemos a dos personas que se encontraron por casualidad en el camino, sino un hogar edificado sobre la confianza mutua: un esposo que conoce el valor de su esposa, y una esposa que conoce el lugar de su esposo en la fe. Esta confianza es la clave de toda la historia, y es la que pronto será puesta a prueba de un modo que solo un hogar construido sobre cimientos sólidos puede soportar.
+
+Entre las sutilezas del destino figura el hecho de que estos dos esposos pertenecían al mismo linaje —los Banū Majzūm, una de las familias más poderosas y ricas de Quraysh—; de modo que su partida de La Meca no fue una huida de la debilidad en busca de honor, sino el abandono de una gloria presente en aras de una gloria más duradera. Dejaron el linaje, la preeminencia y la tribu protectora, y eligieron un destierro sin tribu ni rango, sin llevar consigo en el camino más que la fe y la confianza el uno en el otro. Solo esto ya revela la genuina naturaleza del hogar antes de que comience el viaje.
+
+## Cuando la familia fue desgarrada ante los ojos del esposo
+
+Abū Salama decidió emigrar, montó a su esposa y a su hijo en un camello y partió con ellos hacia Medina. Cuando los hombres de los Banū al-Mughīra —el clan de Umm Salama— lo vieron, le cortaron el paso diciendo: «Tú mismo podemos aceptar que te vayas, pero ¿qué pasa con nuestra mujer? ¿Por qué habríamos de permitirte llevarla por los países?» Le arrebataron las riendas del camello y se la quitaron.
+
+Al enterarse, los Banū ʿAbd al-Asad —el clan de Abū Salama— se irritaron y dijeron: «No dejaremos a nuestro hijo con ella ahora que se la habéis arrebatado a nuestro compañero»; y disputándose al pequeño Salama entre ellos, terminaron dislocándole el brazo y se lo llevaron. Y Abū Salama continuó solo hasta Medina. Así se reunieron en una sola hora tres separaciones sobre este hogar: el esposo en una tierra, el niño en un regazo ajeno, y una madre con el corazón partido entre ambos.
+
+Umm Salama cuenta sobre aquellos días: «Cada mañana salía y me sentaba en al-Abṭaḥ, llorando sin cesar hasta que caía la tarde, durante un año o cerca de él.» Un año entero de llanto bajo el cielo abierto de La Meca, sin poder hacer nada salvo una paciencia que se renovaba cada mañana. Conviene detenerse ante esta imagen tal como es, sin sobrecargarla de explicaciones sobre los sentimientos; la escena habla por sí sola: una mujer noble de entre los señores de Quraysh, sentada a la intemperie un año entero, aguardando una salida cuya puerta desconoce.
+
+Luego llegó el alivio desde donde vino la prueba; un hombre de sus primos pasó junto a ella y sintió compasión, y dijo a los Banū al-Mughīra: «¿Acaso no vais a dejar ir a esta pobre mujer? ¡Habéis separado entre ella, su esposo y su hijo!» Y le dijeron: «Reúnete con tu esposo si quieres.» Y los Banū ʿAbd al-Asad le devolvieron a su hijo. Esta narración está recogida en la sīra de Ibn Isḥāq según la versión de Ibn Hishām, y la incluyó el ḥāfiẓ Ibn Kathīr en su obra *Al-Bidāya wa-l-Nihāya*, considerando su isnād aceptable según un grupo de eruditos.
+
+## El esposo confiado que conocía el valor de su esposa
+
+Quizá algún lector, precipitadamente, censure a Abū Salama: ¿cómo marchó a Medina y dejó a su esposa y a su hijo en poder de la gente? Pero meditar en el contexto de la hégira revela un sentido más profundo. Su partida no fue abandono, sino obediencia al mandato de emigrar cuando todas las puertas se habían cerrado, y confianza en una mujer cuya genuina naturaleza él conocía bien.
+
+El esposo verdaderamente confiado conoce el valor de su esposa, su capacidad psicológica e intelectual para guardarse a sí misma y guardar su honor, aunque los tiempos le sean adversos. Abū Salama no custodiaba físicamente a su esposa —pues le fue impedido—, pero tenía la certeza de que ella se guardaría a sí misma mediante su fe y su razón. Esta es una forma elevada de confianza que solo alcanza el esposo que ha construido su hogar sobre el respeto a su compañera, no sobre la tutela de ella, y sobre la convicción de que ella es tan digna de custodiar el honor como de custodiar la fe.
+
+Y frente a esta confianza, Umm Salama estuvo a la altura de quien no defrauda la expectativa de su esposo: durante un año entero, sola y abatida, ni su certeza vaciló ni la escasez de auxiliadores debilitó su paciencia. Cuando se abrió la puerta para ir a reunirse con él, no tardó, sino que partió cruzando el desierto sola con su pequeño hijo. La mujer que aguanta un año y luego se lanza sola hacia lo desconocido con semejante firmeza, confirma con su acción todo aquello en lo que su esposo había confiado.
+
+En esto hay también una corrección a una concepción extendida que reduce la protección de la mujer a muros y guardianes. Lo que más protege a la mujer es lo que ella misma lleva en su interior de fe, razón y castidad, no las restricciones que la rodean. Abū Salama comprendió esto, y no basó su tranquilidad en tener las riendas de su esposa, sino en conocer su naturaleza. Esta es la diferencia entre el esposo que custodia a su esposa porque no confía en ella, y el esposo que se siente tranquilo porque sabe que ella tiene demasiada dignidad para rebajarse. El primero posee un cuerpo y pierde un corazón; el segundo posee el corazón y no necesita guardia.
+
+## El compañero de camino que Dios dispuso
+
+Umm Salama salió de La Meca a lomos de su camello, con su hijo, sin un tercer acompañante, con destino a Medina, a varios días de viaje por una tierra donde ningún viajero está seguro, ¿cuánto menos una mujer sola con un niño? Cuando llegó a al-Tanʿīm, se encontró con ʿUthmān ibn Ṭalḥa —que era por entonces politeísta, pues aún no había abrazado el Islam— y él le dijo: «¿Adónde vas, hija de Abī Umayya?» Ella respondió: «Me dirijo a mi esposo en Medina.» Dijo: «¿No hay nadie contigo?» Respondió: «No, por Dios, nadie salvo Dios y este hijito mío.» Dijo: «Por Dios, no puede dejártela así.»
+
+Y tomó las riendas del camello y se puso a conducirla. Dice Umm Salama, que Dios esté complacido con ella: «Por Dios, jamás he viajado con ningún hombre árabe que me pareciera más honroso que él; cuando llegábamos a una etapa, me hacía arrodillar el camello, luego se apartaba; cuando yo había bajado, él llevaba el camello a un lado, lo ataba a un árbol, luego se retiraba a otro árbol y se echaba bajo él; cuando llegaba el momento de reemprender la marcha, se levantaba, cogía el camello, lo aparejaba y luego se apartaba y decía: "Monta"; y cuando yo había montado y me había acomodado bien sobre el camello, venía y tomaba las riendas y lo conducía hasta que llegábamos a la siguiente etapa.» Así fue siempre, hasta que la depositó en Qubāʾ y dijo: «Tu esposo está en esta aldea; entra con la bendición de Dios.» Luego se volvió hacia La Meca.
+
+Contemplemos esta escena a la luz del significado de al-sitr —el velo protector de Dios—. Una mujer creyente, en la situación de máxima vulnerabilidad que puede vivir un ser humano: sola, extranjera, sin ningún protector entre los hombres. ¿Y qué hizo Dios? Le envió un guardián de donde menos podía esperarlo, del campo contrario —un politeísta de Quraysh—, pero Dios subyugó en él la nobleza de carácter y la convirtió en un velo de protección para Su sierva. No se acercó, no hizo preguntas impertinentes, no la dejó subir ni bajar mientras él miraba; conducía el camello y luego se apartaba, la hacía arrodillar y se alejaba, hasta depositarla en su lugar seguro y marchar. Este es el amparo que Dios ha prometido a Sus amigos: el siervo no necesita poseer sus propios medios; le basta con ser sincero, y Dios Se encarga de la disposición y le envía Sus ejércitos:
+
+﴿وَلِلَّهِ جُنُودُ السَّمَاوَاتِ وَالْأَرْضِ﴾ [Al-Fatḥ: 7]
+
+(Y de Dios son los ejércitos de los cielos y la tierra.)
+
+Y añádase a esto la culminación del círculo: este hombre que guardó el honor de una creyente siendo aún politeísta, Dios le honró años después con el Islam, y el Profeta ﷺ le devolvió el día de la Conquista la llave de la Kaaba y su custodia, diciéndoles a los Banū Ṭalḥa: «Tomadla, heredada y perpetua; no os la quitará sino el injusto.» Quien guardó el velo de la sierva de Dios, Dios lo hizo guardián de Su Casa Sagrada. Y la recompensa es del mismo género que la acción.
+
+## El lugar de la comparación
+
+Cuánto necesitamos trasladar este hogar desde las páginas de la sīra a nuestra realidad. Vivimos en una época en la que han proliferado los medios aparentes de protección —comunicaciones, dispositivos de seguimiento, cerraduras—, y sin embargo es una época que se lamenta de una fragilidad asombrosa en la confianza conyugal. Muchos hogares de hoy no se derrumban bajo los golpes de la pobreza, el exilio o la persecución, sino bajo el peso de la suspicacia, la vigilancia mutua y la ausencia de la certeza de que el cónyuge es digno de la confianza depositada en él.
+
+Y aquí habla el modelo profético con su lección: el hogar de Abū Salama fue desgarrado materialmente de un modo que nuestros hogares no han conocido en una décima parte —una separación de un año, un niño con el brazo dislocado, un desierto cruzado en solitario— y, sin embargo, el hogar salió de la prueba más sólido de lo que entró. ¿Por qué? Porque su pilar no era la proximidad de los cuerpos, sino la confianza de los corazones, y la sincera apelación a Dios. El esposo confió y no humilló; la esposa se guardó y no defraudó; Dios amparó y no desenmascaró. ¿Qué queda por decir ante hogares que poseen todos los medios de la cercanía pero carecen del fundamento de la confianza?
+
+Y en la historia hay también para la propia mujer musulmana una lección no menor que la del hombre. Umm Salama no era un objeto pasivo que esperara a quien la rescatara, sino una mujer actuante y paciente: aguantó cuando no le quedaba más que la paciencia, se movió cuando se abrió la puerta, y cabalgó hacia lo desconocido confiando en su Señor, no en un acompañante ni en un guardián. La mujer que lleva dentro de sí esta certeza es la que merece que su esposo confíe en ella, y es la que Dios toma a su cargo para proteger. Pues el amparo divino se busca con la sinceridad, no se obtiene con la pasividad y el apego a los apoyos humanos.
+
+En verdad, el verdadero velo no es un cerrojo en una puerta, sino el fruto de la sinceridad con Dios. A quien fue sincero con Dios, Dios lo cubrió aunque estuviera a la intemperie del desierto; y a quien traicionó la esencia de la honradez, Dios lo descubrió aunque estuviera detrás de siete puertas.
+
+## Otros testimonios de la dignidad de este hogar
+
+Y la dignidad de este hogar no fue un instante fugaz en el camino de la hégira, sino una sombra extendida que le acompañó durante toda su vida.
+
+Entre esas muestras está que cuando Abū Salama murió en Medina —a causa de una herida que recibió el día de Uḥud y que luego se reabrió—, Umm Salama sintió sobre este hogar un duelo como el que siente el que fue el primero en emigrar, y pronunció las célebres palabras, contando lo que había escuchado de él: «Oí al Mensajero de Dios ﷺ decir: "No hay ningún musulmán al que le sobrevenga una desgracia y diga lo que Dios le ha ordenado: ﴿إِنَّا لِلَّهِ وَإِنَّا إِلَيْهِ رَاجِعُونَ﴾ —Ciertamente somos de Dios y a Él hemos de retornar—, oh Dios, dame recompensa en mi desgracia y dame algo mejor a cambio, sin que Dios le dé algo mejor."» Lo recoge Muslim en su Ṣaḥīḥ (918). Dice: «Y cuando murió Abū Salama, lo dije; luego me pregunté a mí misma: ¿Y quién es mejor que Abū Salama? Y Dios me dio a cambio a Su Mensajero ﷺ; el Profeta ﷺ se casó con ella y ella se convirtió en Madre de los Creyentes.» ¿Qué mayor honor para un hogar que su compensación por la pérdida ofrecida por su Señor sea el propio Mensajero de Dios? Ese es el cumplimiento más completo de las palabras «dame algo mejor a cambio».
+
+Entre los testimonios de su discernimiento e inteligencia —lo que confirma la confianza que en ella depositara su primer esposo— está su postura el día de al-Ḥudaybiyya. Cuando el Profeta ﷺ ordenó a sus Compañeros que sacrificaran y se rasuraran, y ellos se retrasaron por la gravedad de lo que les había caído encima, entró donde estaba Umm Salama angustiado, y ella le dio un consejo certero: que saliera sin hablar con nadie hasta que sacrificara su ofrenda y llamara a su barbero para que le rasurara, y entonces la gente haría lo mismo al verle actuar. Y así fue exactamente, la gente se levantó a sacrificar y comenzaron a rasurarse unos a otros. Lo recoge al-Bukhārī en su Ṣaḥīḥ (2731). Esta mujer en cuyo criterio Abū Salama confió para la salvaguarda de su honor es la misma en cuyo consejo confió el Profeta ﷺ en el momento más delicado por el que atravesó la Comunidad. La confianza de su esposo en ella estaba, pues, perfectamente bien puesta.
+
+## La cosecha
+
+De este hogar se sale con dos lecciones de las que ningún musulmán puede prescindir. La primera: la hégira es un sacrificio en la religión en el que se entregan la vida y los seres queridos, y quien es sincero en ella no pierde, sino que Dios le da algo mejor a cambio de lo que dejó. La segunda: este hogar es el modelo del matrimonio estable que los tiempos no sacuden ni el viento de las adversidades derriba; porque se erigió sobre la confianza mutua: un esposo confiado que conoce el valor de su esposa, una esposa guardiana que no lo defrauda, y sobre ambos un Señor que protege a Sus siervos y les dispone ejércitos de los cielos y la tierra, hasta hacer del politeísta guardián del honor de la creyente, y recompensarle luego haciéndolo custodio de Su Casa.
+
+Quien desee el amparo de Dios que sea sincero con Él, y quien desee un hogar que las tempestades no derrumben que lo construya sobre la confianza y no sobre la sospecha. Y lo que Dios Se ha comprometido a proteger, nadie lo descubrirá; y lo que fue edificado sobre el temor de Dios, los días no lo destruirán.
+
+Y Dios es el más Conocedor, y Él es el Protector del éxito; no hay Señor fuera de Él.
