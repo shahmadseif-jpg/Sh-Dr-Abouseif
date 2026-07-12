@@ -29,22 +29,22 @@ function EventsContent() {
   // Placeholder events. Replace with real data when ready.
   const events = [
     {
-      title: locale === 'ar' ? 'خاطرة الفجر — جامع العلوم والحكم' : locale === 'es' ? 'Reflexión del Fayr — Yāmiʿ al-ʿUlūm wal-Ḥikam' : 'Fajr Khatira — Jami\' Al-Ulum wal-Hikam',
-      date: locale === 'ar' ? 'يومياً بعد صلاة الفجر' : locale === 'es' ? 'A diario tras la oración del Fayr' : 'Daily after Fajr prayer',
+      title: locale === 'ar' ? 'خاطرة الفجر — جامع العلوم والحكم' : locale === 'es' ? 'Reflexión del Fayr — Yāmiʿ al-ʿUlūm wal-Ḥikam' : locale === 'ur' ? 'فجر خاطرہ — جامع العلوم والحکم' : "Fajr Khatira — Jami' Al-Ulum wal-Hikam",
+      date: locale === 'ar' ? 'يومياً بعد صلاة الفجر' : locale === 'es' ? 'A diario tras la oración del Fayr' : locale === 'ur' ? 'روزانہ نمازِ فجر کے بعد' : 'Daily after Fajr prayer',
       location: 'AIA',
-      type: locale === 'ar' ? 'درس يومي' : locale === 'es' ? 'Clase diaria' : 'Daily class',
+      type: locale === 'ar' ? 'درس يومي' : locale === 'es' ? 'Clase diaria' : locale === 'ur' ? 'روزانہ درس' : 'Daily class',
     },
     {
-      title: locale === 'ar' ? 'خطبة الجمعة' : locale === 'es' ? 'Sermón del viernes (Yumuʿa)' : 'Jumu\'ah Khutbah',
-      date: locale === 'ar' ? 'كل جمعة' : locale === 'es' ? 'Cada viernes' : 'Every Friday',
+      title: locale === 'ar' ? 'خطبة الجمعة' : locale === 'es' ? 'Sermón del viernes (Yumuʿa)' : locale === 'ur' ? 'جمعہ خطبہ' : "Jumu'ah Khutbah",
+      date: locale === 'ar' ? 'كل جمعة' : locale === 'es' ? 'Cada viernes' : locale === 'ur' ? 'ہر جمعہ' : 'Every Friday',
       location: 'Bayt Al-Karim Islamic Center',
-      type: locale === 'ar' ? 'خطبة أسبوعية' : locale === 'es' ? 'Sermón semanal' : 'Weekly khutbah',
+      type: locale === 'ar' ? 'خطبة أسبوعية' : locale === 'es' ? 'Sermón semanal' : locale === 'ur' ? 'ہفتہ وار خطبہ' : 'Weekly khutbah',
     },
     {
-      title: locale === 'ar' ? 'محاضرة العشاء — نداءات الإيمان' : locale === 'es' ? 'Conferencia del ʿIshāʾ — Llamadas a la fe' : 'Isha Lecture — Calls to Faith',
-      date: locale === 'ar' ? 'كل سبت بعد العشاء' : locale === 'es' ? 'Cada sábado tras el ʿIshāʾ' : 'Every Saturday after Isha',
+      title: locale === 'ar' ? 'محاضرة العشاء — نداءات الإيمان' : locale === 'es' ? 'Conferencia del ʿIshāʾ — Llamadas a la fe' : locale === 'ur' ? 'عشاء لیکچر — نداءاتِ ایمان' : 'Isha Lecture — Calls to Faith',
+      date: locale === 'ar' ? 'كل سبت بعد العشاء' : locale === 'es' ? 'Cada sábado tras el ʿIshāʾ' : locale === 'ur' ? 'ہر ہفتہ نمازِ عشاء کے بعد' : 'Every Saturday after Isha',
       location: 'AIA',
-      type: locale === 'ar' ? 'محاضرة أسبوعية' : locale === 'es' ? 'Conferencia semanal' : 'Weekly lecture',
+      type: locale === 'ar' ? 'محاضرة أسبوعية' : locale === 'es' ? 'Conferencia semanal' : locale === 'ur' ? 'ہفتہ وار محاضرہ' : 'Weekly lecture',
     },
   ];
 
