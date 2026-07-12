@@ -16,6 +16,8 @@ export default function Newsletter() {
       ? { title: 'النشرة البريديّة', desc: 'اشترك لتصلك أحدث المقالات والأبحاث.', ph: 'بريدك الإلكترونيّ', btn: 'اشترك', sending: 'جارٍ…', ok: 'تمّ اشتراكك، بارك الله فيك.', err: 'تعذّر الإرسال، حاول لاحقاً.' }
       : locale === 'es'
       ? { title: 'Boletín', desc: 'Suscríbete para recibir los últimos artículos e investigaciones.', ph: 'Tu correo electrónico', btn: 'Suscribirse', sending: 'Enviando…', ok: '¡Suscripción realizada, que Dios te bendiga!', err: 'No se pudo enviar, inténtalo más tarde.' }
+          : locale === 'ur'
+        ? { title: 'نیوز لیٹر', desc: 'تازہ ترین مقالات اور تحقیق موصول کرنے کے لیے سبسکرائب کریں۔', ph: 'آپ کا ای میل', btn: 'سبسکرائب', sending: 'بھیجا جا رہا ہے…', ok: 'سبسکرپشن مکمل — اللہ آپ کو برکت دے۔', err: 'بھیجنا ناکام رہا، بعد میں کوشش کریں۔' }
       : { title: 'Newsletter', desc: 'Subscribe for the latest articles and research.', ph: 'Your email', btn: 'Subscribe', sending: 'Sending…', ok: 'Subscribed — may God bless you.', err: 'Could not send, please try later.' };
 
   async function onSubmit(e: React.FormEvent<HTMLFormElement>) {
