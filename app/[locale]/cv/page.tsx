@@ -117,21 +117,21 @@ const articleCategoryLabels: Record<ArticleCategory, Record<Loc, string>> = {
 
 const educationDegrees: { slug: string; degree: Record<Loc, string> }[] = [
   {
-    slug: ‘ibn-juzayy-tarjihat’,
+    slug: 'ibn-juzayy-tarjihat',
     degree: {
-      ar: ‘العالَميّة (الدكتوراه) في التفسير وعلوم القرآن’,
-      en: ‘Doctorate (al-ʿĀlamiyya) in Tafsīr & Qurʾanic Sciences’,
-      es: ‘Doctorado (al-ʿĀlamiyya) en Tafsir y Ciencias Coránicas’,
-      ur: ‘العالمیۃ (ڈاکٹریٹ) — تفسیر اور علوم القرآن’,
+      ar: 'العالَميّة (الدكتوراه) في التفسير وعلوم القرآن',
+      en: 'Doctorate (al-ʿĀlamiyya) in Tafsīr & Qurʾanic Sciences',
+      es: 'Doctorado (al-ʿĀlamiyya) en Tafsir y Ciencias Coránicas',
+      ur: 'العالمیۃ (ڈاکٹریٹ) — تفسیر اور علوم القرآن',
     },
   },
   {
-    slug: ‘maturidi-tawilat-al-araf’,
+    slug: 'maturidi-tawilat-al-araf',
     degree: {
-      ar: ‘التخصّص (الماجستير) في التفسير وعلوم القرآن’,
-      en: ‘Master’s (al-Takhaṣṣuṣ) in Tafsīr & Qurʾanic Sciences’,
-      es: ‘Maestría (al-Takhaṣṣuṣ) en Tafsir y Ciencias Coránicas’,
-      ur: ‘التخصّص (ماجستیر) — تفسیر اور علوم القرآن’,
+      ar: 'التخصّص (الماجستير) في التفسير وعلوم القرآن',
+      en: "Master’s (al-Takhaṣṣuṣ) in Tafsīr & Qurʾanic Sciences",
+      es: 'Maestría (al-Takhaṣṣuṣ) en Tafsir y Ciencias Coránicas',
+      ur: 'التخصّص (ماجستیر) — تفسیر اور علوم القرآن',
     },
   },
 ];
