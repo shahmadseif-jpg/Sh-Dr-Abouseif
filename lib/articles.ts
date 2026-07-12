@@ -37,6 +37,30 @@ export interface ArticleMeta {
 }
 
 export const articlesMeta: ArticleMeta[] = [
+  // ===== مقال: إقالةُ عثراتِ أهلِ الفضل (حِكَمٌ وبصائر — سُجِّل 2026-07-12) =====
+  {
+    slug: 'overlooking-slips-of-the-virtuous',
+    category: 'wisdom-insights',
+    isoDate: '2026-07-12',
+    date: { ar: 'يوليو ٢٠٢٦', en: 'July 2026', es: 'Julio de 2026', ur: 'جولائی ۲۰۲۶ء' },
+    readingMinutes: 9,
+    title: {
+      ar: 'إقالةُ عثراتِ أهلِ الفضل',
+      en: 'Overlooking the Slips of People of Merit',
+      es: 'Pasar por alto los tropiezos de los hombres de mérito',
+      ur: 'اہلِ فضل کی لغزشوں سے درگزر',
+    },
+    subtitle: {
+      ar: 'حين يُذكَرُ الفضلُ في مقامِ الزلّة، فيتحوّلُ الرجلُ من موطنِ احتقارٍ إلى موطنِ نَفير',
+      en: 'When merit is recalled at the moment of the slip, and a man is turned from an object of contempt into a rallying point',
+      es: 'Cuando se recuerda el mérito en el momento del tropiezo, y un hombre pasa de ser objeto de desprecio a punto de reunión',
+    },
+    excerpt: {
+      ar: 'في النفسِ خَصلةٌ عجيبة: تُبصِرُ النقطةَ السوداءَ في الثوبِ الأبيض، ولا تكادُ تُبصِرُ الثوب. مقالٌ في أدبِ الأمّة مع زلّاتِ أهلِ الفضل — من مشهدِ حاطبِ بن أبي بَلْتعة، حيث لم يَقِهِ النبيُّ ﷺ السيفَ فحسب بل وقاه الاغتيالَ المعنويّ فذكَر بدراً حيث أُريد أن يُذكَر الخِزي، إلى قاعدةِ الذهبيِّ في أنّ كثيرَ الصوابِ يُغفَرُ زللُه ولا تُطّرَحُ محاسنُه — مع موازينَ تَحفظُ البابَ من أن يَنفتِحَ على كلِّ ريح: فلا إقالةَ في الحدود، ولا في حقوقِ الخلق، ولا مع الإصرار، ولا إسقاطَ للنصيحة.',
+      en: 'The soul has a strange habit: it sees the black speck on the white robe, and scarcely sees the robe. An essay on how a community should meet the lapses of those of merit — from the scene of Ḥāṭib ibn Abī Baltaʿa, where the Prophet ﷺ shielded him not only from the sword but from character assassination, invoking Badr where disgrace was meant to be invoked, to al-Dhahabī\'s rule that one whose correctness is abundant is forgiven his slips and whose merits are not discarded — with balances that keep the door from swinging open to every wind: no overlooking of prescribed punishments, nor of the rights of others, nor with persistence in error, nor at the cost of sincere counsel.',
+      es: 'El alma tiene una costumbre extraña: ve la mancha negra en el manto blanco y apenas ve el manto. Un ensayo sobre cómo la comunidad debe recibir los tropiezos de los hombres de mérito — desde la escena de Ḥāṭib ibn Abī Baltaʿa, donde el Profeta ﷺ no solo lo protegió de la espada sino del asesinato moral, hasta la regla de al-Dhahabī: a quien abunda en aciertos se le perdonan sus tropiezos y no se descartan sus méritos — con balanzas que impiden que la puerta se abra a todo viento.',
+    },
+  },
   // ===== مقال مفرد: مفهوم الرسالة من خلال سورة البقرة (سُجِّل 2026-07-12) =====
   {
     slug: 'concept-of-message-baqarah',
