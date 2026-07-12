@@ -2152,6 +2152,34 @@ export const articlesMeta: ArticleMeta[] = [
       ur: 'مغرب میں امام کا دن سورج طلوع ہونے سے پہلے سات متشابک حلقوں میں شروع ہوتا ہے: شعائری، فتوائی، خانوادگی، تربیتی، ادارہ جاتی، معاشرتی اور نفسیاتی۔ نماز کی امامت معاشرتی قیادت سے کیسے الگ ہوئی — اور امریکی واقعیت ان کے اعادۂ وحدت کا تقاضا کیوں کرتی ہے؟',
     },
   },
+  // ===== فقه الأقليات — المقال الثالث (2026-07-11) =====
+  {
+    slug: 'insurance-west-minority-fiqh',
+    category: 'fiqh',
+    isoDate: '2026-07-11',
+    date: { ar: '١١ يوليو ٢٠٢٦', en: 'July 11, 2026', es: '11 de julio de 2026', ur: '11 جولائی 2026' },
+    readingMinutes: 9,
+    series: { ar: 'فقه الأقليات', en: 'Minority Fiqh', es: 'Fiqh de las Minorías', ur: 'فقہ الاقلیات' },
+    episode: 3,
+    title: {
+      ar: 'التأمينُ في الغرب — بينَ الحاجةِ الحقيقيَّةِ وضوابطِ الفقه',
+      en: 'Insurance in the West — Between Genuine Need and Jurisprudential Controls',
+      es: 'El seguro en Occidente — entre la necesidad real y los controles jurídicos',
+      ur: 'مغرب میں انشورنس — حقیقی ضرورت اور فقہی ضوابط کے درمیان',
+    },
+    subtitle: {
+      ar: 'قراءةٌ مقاصديّةٌ في أنواع التأمين وأحكامها للمسلمين في الغرب',
+      en: 'A Maqasid Reading of Insurance Types and Their Rulings for Muslims in the West',
+      es: 'Una lectura maqasidica de los tipos de seguro y sus reglas para los musulmanes en Occidente',
+      ur: 'مغرب میں مسلمانوں کے لیے بیمہ کی اقسام اور احکام کی مقاصدی قرأت',
+    },
+    excerpt: {
+      ar: 'كثيرٌ من المسلمين في الغرب يتجنبون التأمين باسم الدين، ثم يجدون أنفسهم أمام فاتورة مستشفى تُهدِّم ما بنوه. والمسألة لم تُحسَم بكلمة "حرام" مختصرة. قراءة مقاصدية في أنواع التأمين وحاجة المسلم في الغرب بين التكافل والضرورة.',
+      en: 'Many Muslims in the West avoid insurance in the name of religion, then find themselves facing a hospital bill that undoes everything they have built. The matter is not settled by a single word of prohibition. A maqasid reading of insurance types and the genuine needs of Muslims in the West, between takaful and necessity.',
+      es: 'Muchos musulmanes en Occidente evitan el seguro en nombre de la religion, y luego se encuentran frente a una factura hospitalaria que destruye lo que construyeron. El asunto no se resuelve con una sola palabra de prohibicion. Una lectura maqasidica de los tipos de seguro y las necesidades reales de los musulmanes en Occidente.',
+      ur: 'مغرب میں بہت سے مسلمان مذہب کے نام پر انشورنس سے گریز کرتے ہیں، پھر اپنے آپ کو ایک ہسپتال کے بل کے سامنے پاتے ہیں جو سب کچھ تباہ کر دیتا ہے۔ یہ مسئلہ "حرام" کے ایک لفظ سے حل نہیں ہوتا۔ مغرب میں مسلمانوں کی بیمہ کی اقسام اور حقیقی ضروریات کی مقاصدی قرأت۔',
+    },
+  },
   // ===== فقه الأقليات — المقال الثاني (2026-07-11) =====
   {
     slug: 'muslim-political-participation-west',
