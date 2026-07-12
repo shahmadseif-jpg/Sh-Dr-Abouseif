@@ -37,6 +37,32 @@ export interface ArticleMeta {
 }
 
 export const articlesMeta: ArticleMeta[] = [
+  // ===== مقال مفرد: مفهوم الرسالة من خلال سورة البقرة (سُجِّل 2026-07-12) =====
+  {
+    slug: 'concept-of-message-baqarah',
+    category: 'maqasid-tafsir',
+    isoDate: '2026-07-12',
+    date: { ar: 'يوليو ٢٠٢٦', en: 'July 2026', es: 'Julio de 2026', ur: 'جولائی ۲۰۲۶ء' },
+    readingMinutes: 8,
+    title: {
+      ar: 'مفهوم الرسالة من خلال سورة البقرة',
+      en: 'The Concept of the Message through Sūrat al-Baqara',
+      es: 'El concepto del mensaje a través de la sura al-Baqara',
+      ur: 'سورۃ البقرہ کے ذریعے مفہومِ رسالت',
+    },
+    subtitle: {
+      ar: 'قراءةٌ بنيويةٌ في أنماط استقبال الدعوة',
+      en: 'A structural reading in the patterns of receiving the call',
+      es: 'Una lectura estructural de los modos de recibir la llamada',
+      ur: 'دعوت کے قبول کرنے کے انداز کی ایک ہیکلی قراءت',
+    },
+    excerpt: {
+      ar: 'القرآنُ خطابٌ ممتدٌّ لأنماط المتلقِّين، وسورةُ البقرة نموذجُه المُكثَّف: تفتتح بتصنيف النفوس — مؤمنٍ وكافرٍ ومنافق — ثم تُجسِّد الاستقبالَ في ثلاثة نماذج: آدمُ التأسيسيُّ الذي اكتملت له أدواتُ العلم وبقي فيه إمكانُ الزلَّة والرجوع، وبنو إسرائيلَ نموذجُ التعنُّت ونقضِ المواثيق، وإبراهيمُ النموذجُ الأمثل الذي أتمَّ الكلماتِ فبنى البيت. ثم تنتقل إلى منظومة التكاليف التي يحيا بها المجتمعُ المؤمن.',
+      en: 'The Qurʾan is one extended address to the patterns of its recipients, and Sūrat al-Baqara is its condensed model: it opens by classifying souls — believer, denier, and hypocrite — then embodies reception in three figures: Adam, the foundational model in whom the instruments of knowledge were completed while the possibility of lapse and return remained; the Children of Israel, the model of obstinacy and broken covenants; and Abraham, the highest model, who fulfilled the words and raised the House. It then turns to the system of obligations by which the believing community lives.',
+      es: 'El Corán es un discurso extendido dirigido a los modos de recepción del ser humano, y la sura al-Baqara es su modelo condensado: comienza clasificando las almas —creyente, negador e hipócrita— y luego encarna la recepción en tres figuras: Adán, el modelo fundacional; los hijos de Israel, el modelo de la obstinación; y Abraham, el modelo más alto, que completó las palabras y levantó la Casa. Después pasa al sistema de obligaciones por el que vive la comunidad creyente.',
+      ur: 'قرآن انسان کے قبولِ دعوت کے انداز سے متعلق ایک وسیع خطاب ہے، اور سورۃ البقرہ اس کا مرتکز نمونہ ہے: پہلے نفوس کی تقسیم — مومن، کافر اور منافق — پھر قبولِ رسالت کے تین نمونے: آدم، بنی اسرائیل، اور ابراہیم علیہم السلام؛ پھر وہ نظامِ تکالیف جس سے مومن معاشرہ زندہ رہتا ہے۔',
+    },
+  },
   // ===== سلسلة «المفاهيم الإيمانية» + مقالان مفردان (سُجِّلت 2026-07-11) =====
   {
     slug: 'fitrah-in-quran-unblemished-nature',
@@ -2157,9 +2183,19 @@ export const articlesMeta: ArticleMeta[] = [
     slug: 'insurance-west-minority-fiqh',
     category: 'fiqh',
     isoDate: '2026-07-11',
-    date: { ar: '١١ يوليو ٢٠٢٦', en: 'July 11, 2026', es: '11 de julio de 2026', ur: '11 جولائی 2026' },
+    date: {
+      ar: '١١ يوليو ٢٠٢٦',
+      en: 'July 11, 2026',
+      es: '11 de julio de 2026',
+      ur: '11 جولائی 2026',
+    },
     readingMinutes: 9,
-    series: { ar: 'فقه الأقليات', en: 'Minority Fiqh', es: 'Fiqh de las Minorías', ur: 'فقہ الاقلیات' },
+    series: {
+      ar: 'فقه الأقليات',
+      en: 'Minority Fiqh',
+      es: 'Fiqh de las Minorías',
+      ur: 'فقہ الاقلیات',
+    },
     episode: 3,
     title: {
       ar: 'التأمينُ في الغرب — بينَ الحاجةِ الحقيقيَّةِ وضوابطِ الفقه',
@@ -2207,7 +2243,7 @@ export const articlesMeta: ArticleMeta[] = [
     excerpt: {
       ar: 'الملايين من المسلمين في الغرب ينحَّون عن الانتخابات باسم الدين. لكن هل الصمت السياسي فريضة؟ أم هو اختيار له ثمن يدفعه المسلم من مصلحته ومصلحة أجياله؟ قراءة مقاصدية في مسألة التصويت والمشاركة بين المنع والاستحباب.',
       en: 'Millions of Muslims in the West abstain from elections in the name of religion. But is political silence a religious duty? Or a choice with a price paid from Muslim interests across generations? A maqasid reading of voting and participation between prohibition and encouragement.',
-      es: 'Muchos musulmanes en Occidente se abstienen de votar en nombre de la religion. Es el silencio politico un deber religioso? O una eleccion con un precio que se paga con los intereses musulmanes? Una lectura maqasidica.',
+      es: 'Millones de musulmanes en Occidente se abstienen de votar en nombre de la religion. Pero es el silencio politico un deber religioso? O una eleccion con un precio que se paga con los intereses musulmanes a lo largo de las generaciones? Una lectura maqasidica.',
       ur: 'مغرب میں لاکھوں مسلمان مذہب کے نام پر انتخابات سے دور رہتے ہیں۔ لیکن کیا سیاسی خاموشی دینی فریضہ ہے؟ یا ایک ایسا انتخاب جس کی قیمت نسلوں کے مفادات سے ادا ہوتی ہے؟ ووٹ اور شرکت کی مقاصدی قرأت۔',
     },
   },
