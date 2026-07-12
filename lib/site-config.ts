@@ -3,10 +3,10 @@
  * Edit these values to customize the site without touching components.
  */
 
-export const siteConfig = {
+export const siteConfig = 
   // Identity
   name: {
-    ar: 'د. أحمد أبو سيف',
+    ar: 'د. أحمد أبو سيف'
     en: 'Dr. Ahmed Abouseif',
   },
   url: 'https://drahmedabouseif.com', // Update when domain is ready
@@ -23,7 +23,7 @@ export const siteConfig = {
     lectures: 2600,
     years: 35, // Since 1991
     subscribers: 88500, // Combined: YouTube (2.5K) + Facebook (86K)
-    languages: 3,
+    languages: 4,
   },
 
   // Social media
