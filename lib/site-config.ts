@@ -3,10 +3,10 @@
  * Edit these values to customize the site without touching components.
  */
 
-export const siteConfig = 
+export const siteConfig = {
   // Identity
   name: {
-    ar: 'د. أحمد أبو سيف'
+    ar: 'د. أحمد أبو سيف',
     en: 'Dr. Ahmed Abouseif',
   },
   url: 'https://drahmedabouseif.com', // Update when domain is ready
