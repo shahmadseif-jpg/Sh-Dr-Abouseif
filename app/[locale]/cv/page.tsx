@@ -110,7 +110,6 @@ const articleCategoryLabels: Record<ArticleCategory, Record<Loc, string>> = {
   'prophetic-light': { ar: 'قبسٌ من نور النبوّة', en: 'Glimmers of Prophetic Light', es: 'Destellos de la Luz Profética', ur: 'نورِ نبوّت کی کرنیں' },
   imamship: { ar: 'الإمامة والقيادة', en: 'Imamship & Leadership', es: 'Imamato y liderazgo', ur: 'امامت و قیادت' },
   civilization: { ar: 'الإسلام والحضارة', en: 'Islam & Civilization', es: 'Islam y civilización', ur: 'قرآن اور تہذیب' },
-  'dawah-awareness': { ar: 'الدعوة وبناء الوعي', en: 'Daʿwah & Building Awareness', es: 'Daʿwa y formación de la conciencia', ur: 'دعوت اور شعور کی تعمیر' },
   'quranic-concepts': { ar: 'المفاهيم الإيمانية', en: 'Concepts of Faith', es: 'Conceptos de la Fe', ur: 'ایمانی مفاہیم' },
   family: { ar: 'الأسرة', en: 'Family', es: 'Familia', ur: 'خاندان' },
   fiqh: { ar: 'الفقه', en: 'Fiqh', es: 'Jurisprudencia', ur: 'فقہ الاقلیات' },
@@ -150,7 +149,7 @@ export default async function CvPage({
   const pubs = researchMeta.filter((r) => !r.draft).sort((a, b) => b.year - a.year);
 
   const orderedCats: ArticleCategory[] = [
-    'maqasid-tafsir', 'quranic-concepts', 'dawah-awareness', 'wisdom-insights', 'prophetic-light', 'imamship', 'civilization', 'family', 'fiqh',
+    'maqasid-tafsir', 'quranic-concepts', 'wisdom-insights', 'prophetic-light', 'imamship', 'civilization', 'family', 'fiqh',
   ];
   const articlesByCat = orderedCats
     .map((cat) => ({
