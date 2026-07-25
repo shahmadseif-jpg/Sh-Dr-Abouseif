@@ -3,7 +3,7 @@
  * For file content loading (uses fs), see lib/articles-server.ts
  */
 
-export type ArticleCategory = 'imamship' | 'civilization' | 'family' | 'fiqh' | 'wisdom-insights' | 'maqasid-tafsir' | 'prophetic-light' | 'quranic-concepts';
+export type ArticleCategory = 'imamship' | 'civilization' | 'family' | 'fiqh' | 'wisdom-insights' | 'maqasid-tafsir' | 'prophetic-light' | 'quranic-concepts' | 'dawah-awareness';
 
 /** Supported site locales. */
 export type Loc = 'ar' | 'en' | 'es' | 'ur';
@@ -40,7 +40,7 @@ export const articlesMeta: ArticleMeta[] = [
   // ===== مقال: ديننا أمانتنا (سُجِّل 2026-07-24) =====
   {
     slug: 'our-faith-our-sacred-trust',
-    category: 'civilization',
+    category: 'dawah-awareness',
     isoDate: '2026-07-24',
     date: {
       ar: '٢٤ يوليو ٢٠٢٦',
@@ -2380,6 +2380,7 @@ export const categoryLabels: Record<Loc, Record<ArticleCategory, string>> = {
   ar: {
     imamship: 'الإمامة والقيادة',
     civilization: 'القرآن والحضارة',
+    'dawah-awareness': 'الدعوة وبناء الوعي',
     family: 'الأسرة والتربية',
     fiqh: 'فقه الأقليات',
     'wisdom-insights': 'حِكَمٌ وبصائر',
@@ -2390,6 +2391,7 @@ export const categoryLabels: Record<Loc, Record<ArticleCategory, string>> = {
   en: {
     imamship: 'Imamship & Leadership',
     civilization: "Qur'an & Civilization",
+    'dawah-awareness': 'Daʿwah & Building Awareness',
     family: 'Family & Parenting',
     fiqh: 'Minority Fiqh',
     'wisdom-insights': 'Wisdoms & Insights',
@@ -2400,6 +2402,7 @@ export const categoryLabels: Record<Loc, Record<ArticleCategory, string>> = {
   es: {
     imamship: 'Imamato y Liderazgo',
     civilization: 'El Corán y la Civilización',
+    'dawah-awareness': 'Daʿwa y formación de la conciencia',
     family: 'Familia y Educación',
     fiqh: 'Fiqh de las Minorías',
     'wisdom-insights': 'Sabidurías y Perspectivas',
@@ -2410,6 +2413,7 @@ export const categoryLabels: Record<Loc, Record<ArticleCategory, string>> = {
   ur: {
     imamship: 'امامت و قیادت',
     civilization: 'قرآن اور تہذیب',
+    'dawah-awareness': 'دعوت اور شعور کی تعمیر',
     family: 'خاندان اور تربیت',
     fiqh: 'فقہ الاقلیات',
     'wisdom-insights': 'حکمتیں اور بصیرتیں',
