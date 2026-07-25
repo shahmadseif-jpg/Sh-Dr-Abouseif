@@ -11,18 +11,20 @@ import { SITE_URL } from '@/lib/site';
 export const dynamic = 'force-static';
 
 export function generateStaticParams() {
-  return [{ locale: 'ar' }, { locale: 'en' }, { locale: 'es' }];
+  return [{ locale: 'ar' }, { locale: 'en' }, { locale: 'es' }, { locale: 'ur' }];
 }
 
 const FEED_TITLE: Record<string, string> = {
   ar: 'د. أحمد أبو سيف — أحدث المحتوى',
   en: 'Dr. Ahmed Abouseif — Latest',
   es: 'Dr. Ahmed Abouseif — Lo más reciente',
+  ur: 'ڈاکٹر احمد ابو سیف — تازہ ترین مواد',
 };
 const FEED_DESC: Record<string, string> = {
   ar: 'أحدث المقالات والأبحاث والخواطر للدكتور أحمد أبو سيف.',
   en: 'Latest articles, research, and reflections by Dr. Ahmed Abouseif.',
   es: 'Últimos artículos, investigaciones y reflexiones del Dr. Ahmed Abouseif.',
+  ur: 'ڈاکٹر احمد ابو سیف کے تازہ ترین مضامین، تحقیقات اور خواطر۔',
 };
 
 function esc(s: string): string {

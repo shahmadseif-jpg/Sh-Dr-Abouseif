@@ -28,7 +28,7 @@ export default function Hero() {
               >
                 {t('cta_primary')}
                 <svg width="16" height="16" viewBox="0 0 16 16" fill="none" stroke="currentColor" strokeWidth="2">
-                  {locale === 'ar' ? (
+                  {locale === 'ar' || locale === 'ur' ? (
                     <path d="M10 4L6 8l4 4" />
                   ) : (
                     <path d="M6 4l4 4-4 4" />
@@ -49,7 +49,7 @@ export default function Hero() {
               <div className="aspect-[4/5] rounded-lg overflow-hidden bg-navy-100 border border-navy-200">
                 <img
                   src="/dr-ahmed.jpg"
-                  alt={locale === 'ar' ? 'د. أحمد أبو سيف' : 'Dr. Ahmed Abouseif'}
+                  alt={locale === 'ar' ? 'د. أحمد أبو سيف' : locale === 'ur' ? 'ڈاکٹر احمد ابو سیف' : 'Dr. Ahmed Abouseif'}
                   className="w-full h-full object-cover"
                   loading="eager"
                 />

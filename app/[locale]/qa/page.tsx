@@ -15,6 +15,10 @@ const TXT = {
     title: 'Preguntas y Respuestas',
     subtitle: 'Un archivo de preguntas religiosas respondidas con un estilo accesible y orientado a los fines —atento a la adoración, las transacciones, la familia y las cuestiones del musulmán en Occidente.',
   },
+  ur: {
+    title: 'سوال و جواب',
+    subtitle: 'شرعی سوالات اور ان کے آسان، مقاصدی جوابات کا ذخیرہ—مغرب میں مسلمانوں کی عبادات، معاملات، خاندان اور معاصر مسائل پر خصوصی توجہ کے ساتھ۔',
+  },
 };
 
 export async function generateMetadata({
@@ -25,7 +29,7 @@ export async function generateMetadata({
   const { locale } = await params;
   const t = TXT[(locale as keyof typeof TXT)] ?? TXT.ar;
   return {
-    title: `${t.title} — ${locale === 'ar' ? 'د. أحمد أبو سيف' : 'Dr. Ahmed Abouseif'}`,
+    title: `${t.title} — ${locale === 'ar' ? 'د. أحمد أبو سيف' : locale === 'ur' ? 'ڈاکٹر احمد ابو سیف' : 'Dr. Ahmed Abouseif'}`,
     description: t.subtitle,
   };
 }

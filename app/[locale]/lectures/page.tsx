@@ -1,6 +1,6 @@
 import { setRequestLocale, getTranslations } from 'next-intl/server';
 import { useTranslations, useLocale } from 'next-intl';
-import { fetchLatestOwnVideos, formatDate, YouTubeVideo } from '@/lib/youtube';
+import { fetchLatestOwnVideos, YouTubeVideo } from '@/lib/youtube';
 import LectureFilters from '@/components/LectureFilters';
 
 // Force dynamic rendering so YouTube fetch happens at request-time.
@@ -14,7 +14,7 @@ export async function generateMetadata({
 }) {
   const { locale } = await params;
   const t = await getTranslations({ locale, namespace: 'lectures' });
-  return { title: `${t('title')} — ${locale === 'ar' ? 'د. أحمد أبو سيف' : 'Dr. Ahmed Abouseif'}` };
+  return { title: `${t('title')} — ${locale === 'ar' ? 'د. أحمد أبو سيف' : locale === 'ur' ? 'ڈاکٹر احمد ابو سیف' : 'Dr. Ahmed Abouseif'}` };
 }
 
 export default async function LecturesPage({
@@ -46,7 +46,7 @@ function LecturesContent({ videos }: { videos: YouTubeVideo[] }) {
           </p>
         </div>
 
-        <LectureFilters videos={videos} locale={locale as 'ar' | 'en' | 'es'} />
+        <LectureFilters videos={videos} locale={locale as 'ar' | 'en' | 'es' | 'ur'} />
       </div>
     </div>
   );

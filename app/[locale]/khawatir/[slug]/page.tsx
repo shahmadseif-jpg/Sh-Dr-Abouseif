@@ -7,9 +7,10 @@ import {
   prayerLabels,
   getYoutubeEmbedUrl,
 } from '@/lib/khawatir';
-import { getKhatraBody } from '@/lib/khawatir-server';
+import { getKhatraContent } from '@/lib/khawatir-server';
 import { localize } from '@/lib/articles';
 import { ReactNode } from 'react';
+import ContentLanguageNotice from '@/components/ContentLanguageNotice';
 
 export const dynamic = 'force-dynamic';
 
@@ -22,11 +23,11 @@ export async function generateMetadata({
   const meta = getKhatraMeta(slug);
   if (!meta) return { title: locale === 'ar' ? 'خاطرة غير موجودة' : locale === 'es' ? 'Reflexión no encontrada' : 'Reflection not found' };
 
-  const author = locale === 'ar' ? 'د. أحمد أبو سيف' : 'Dr. Ahmed Abouseif';
+  const author = locale === 'ar' ? 'د. أحمد أبو سيف' : locale === 'ur' ? 'ڈاکٹر احمد ابو سیف' : 'Dr. Ahmed Abouseif';
   const title = `${localize(meta.title, locale)} — ${author}`;
   const description = localize(meta.excerpt, locale);
   const path = `/khawatir/${slug}`;
-  const ogLocale = locale === 'ar' ? 'ar_EG' : locale === 'es' ? 'es_ES' : 'en_US';
+  const ogLocale = locale === 'ar' ? 'ar_EG' : locale === 'es' ? 'es_ES' : locale === 'ur' ? 'ur_PK' : 'en_US';
   const image = '/dr-ahmed.jpg';
 
   return {
@@ -34,7 +35,7 @@ export async function generateMetadata({
     description,
     alternates: {
       canonical: `/${locale}${path}`,
-      languages: { ar: `/ar${path}`, en: `/en${path}`, es: `/es${path}` },
+      languages: { ar: `/ar${path}`, en: `/en${path}`, es: `/es${path}`, ur: `/ur${path}` },
     },
     openGraph: {
       type: 'article',
@@ -67,11 +68,15 @@ export default async function KhatraPage({
   const meta = getKhatraMeta(slug);
   if (!meta) notFound();
 
-  const body = getKhatraBody(slug, locale);
-  if (!body) notFound();
+  const content = getKhatraContent(slug, locale);
+  if (!content) notFound();
+  const body = content.body;
+  const isRtl = locale === 'ar' || locale === 'ur';
+  const bodyIsRtl =
+    content.resolvedLocale === 'ar' || content.resolvedLocale === 'ur';
 
   const trimmedBody = stripDuplicateHeaderFromMarkdown(body);
-  const pl = prayerLabels[locale as 'ar' | 'en' | 'es'] ?? prayerLabels.en;
+  const pl = prayerLabels[locale as keyof typeof prayerLabels] ?? prayerLabels.ar;
 
   const t = await getTranslations({ locale, namespace: 'khawatir_page' });
 
@@ -89,7 +94,7 @@ export default async function KhatraPage({
           className="inline-flex items-center gap-2 text-sm text-navy-500 hover:text-gold-500 transition-colors mb-8"
         >
           <svg width="14" height="14" viewBox="0 0 14 14" fill="none" stroke="currentColor" strokeWidth="2" aria-hidden="true">
-            {locale === 'ar' ? <path d="M5 3l4 4-4 4" /> : <path d="M9 3L5 7l4 4" />}
+            {isRtl ? <path d="M5 3l4 4-4 4" /> : <path d="M9 3L5 7l4 4" />}
           </svg>
           {t('back_to_khawatir')}
         </Link>
@@ -104,7 +109,7 @@ export default async function KhatraPage({
             }`}
           >
             <span className="h-1.5 w-1.5 rounded-full bg-current opacity-60" />
-            {locale === 'ar' ? 'خاطرة' : locale === 'es' ? 'Reflexión' : 'Reflection'} · {pl[meta.prayer]}
+            {locale === 'ar' ? 'خاطرة' : locale === 'es' ? 'Reflexión' : locale === 'ur' ? 'خاطرہ' : 'Reflection'} · {pl[meta.prayer]}
           </span>
         </div>
 
@@ -120,11 +125,11 @@ export default async function KhatraPage({
 
         {/* Metadata row */}
         <div className="flex flex-wrap items-center gap-3 text-xs text-navy-500 pb-6 mb-10 border-b border-navy-100">
-          <span>{locale === 'ar' ? 'د. أحمد أبو سيف' : 'Dr. Ahmed Abouseif'}</span>
+          <span>{locale === 'ar' ? 'د. أحمد أبو سيف' : locale === 'ur' ? 'ڈاکٹر احمد ابو سیف' : 'Dr. Ahmed Abouseif'}</span>
           <span className="text-gold-300">•</span>
           <span>{localize(meta.date, locale)}</span>
           <span className="text-gold-300">•</span>
-          <span>{meta.readingMinutes} {locale === 'ar' ? 'دقائق قراءة' : locale === 'es' ? 'min de lectura' : 'min read'}</span>
+          <span>{meta.readingMinutes} {locale === 'ar' ? 'دقائق قراءة' : locale === 'es' ? 'min de lectura' : locale === 'ur' ? 'منٹ مطالعہ' : 'min read'}</span>
         </div>
 
         {/* Embedded video */}
@@ -140,14 +145,18 @@ export default async function KhatraPage({
               />
             </div>
             <figcaption className="mt-3 text-xs text-navy-500 text-center">
-              {locale === 'ar' ? 'الفيديو الأصلي للخاطرة' : locale === 'es' ? 'Vídeo original de la reflexión' : 'Original video of the reflection'}
+              {locale === 'ar' ? 'الفيديو الأصلي للخاطرة' : locale === 'es' ? 'Vídeo original de la reflexión' : locale === 'ur' ? 'خاطرے کی اصل ویڈیو' : 'Original video of the reflection'}
             </figcaption>
           </figure>
         )}
 
         {/* Body */}
-        <div className={`article-prose ${locale === 'ar' ? 'article-rtl' : 'article-ltr'}`}>
-          {renderMarkdown(trimmedBody, locale as 'ar' | 'en' | 'es')}
+        <ContentLanguageNotice
+          requestedLocale={content.requestedLocale}
+          resolvedLocale={content.resolvedLocale}
+        />
+        <div className={`article-prose ${bodyIsRtl ? 'article-rtl' : 'article-ltr'}`}>
+          {renderMarkdown(trimmedBody, content.resolvedLocale)}
         </div>
 
         {/* More khawatir */}
@@ -213,7 +222,7 @@ function stripDuplicateHeaderFromMarkdown(md: string): string {
   return out.join('\n').trim();
 }
 
-function renderMarkdown(md: string, locale: 'ar' | 'en' | 'es'): ReactNode {
+function renderMarkdown(md: string, locale: 'ar' | 'en' | 'es' | 'ur'): ReactNode {
   const blocks: ReactNode[] = [];
   const paragraphs = md.split(/\n\n+/);
 
@@ -339,7 +348,7 @@ function renderMarkdown(md: string, locale: 'ar' | 'en' | 'es'): ReactNode {
   return blocks;
 }
 
-function processInline(text: string, _locale: 'ar' | 'en' | 'es'): ReactNode {
+function processInline(text: string, _locale: 'ar' | 'en' | 'es' | 'ur'): ReactNode {
   let working = text
     .replace(/&nbsp;/g, ' ')
     .replace(/&amp;/g, '&')

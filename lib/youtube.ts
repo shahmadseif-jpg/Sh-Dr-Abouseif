@@ -175,13 +175,19 @@ export async function fetchLatestOwnVideos(limit = 6): Promise<YouTubeVideo[]> {
 }
 
 /**
- * Format date for display in either locale.
+ * Format a video date in any supported site locale.
  */
-export function formatDate(dateString: string, locale: 'ar' | 'en'): string {
+export function formatDate(dateString: string, locale: 'ar' | 'en' | 'es' | 'ur'): string {
   if (!dateString) return '';
   try {
     const date = new Date(dateString);
-    return new Intl.DateTimeFormat(locale === 'ar' ? 'ar-EG' : 'en-US', {
+    const intlLocale = {
+      ar: 'ar-EG',
+      en: 'en-US',
+      es: 'es-ES',
+      ur: 'ur-PK',
+    }[locale];
+    return new Intl.DateTimeFormat(intlLocale, {
       year: 'numeric',
       month: 'long',
       day: 'numeric',

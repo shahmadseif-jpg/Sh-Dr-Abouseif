@@ -21,11 +21,11 @@ export default function Footer() {
           <div className="md:col-span-2">
             <div className="flex items-center gap-3 mb-4">
               <div className="flex h-10 w-10 items-center justify-center rounded-md bg-navy-600 text-white text-sm font-medium">
-                {locale === 'ar' ? 'أ' : 'A'}
+                {locale === 'ar' || locale === 'ur' ? 'أ' : 'A'}
               </div>
               <div>
                 <div className="text-base font-medium text-navy-700">
-                  {locale === 'ar' ? 'د. أحمد أبو سيف' : 'Dr. Ahmed Abouseif'}
+                  {locale === 'ar' ? 'د. أحمد أبو سيف' : locale === 'ur' ? 'ڈاکٹر احمد ابو سیف' : 'Dr. Ahmed Abouseif'}
                 </div>
                 <div className="text-xs text-navy-500">{t('site.tagline')}</div>
               </div>
@@ -105,7 +105,7 @@ export default function Footer() {
 
         <div className="pt-6 border-t border-navy-100 flex flex-col sm:flex-row justify-between items-center gap-2 text-xs text-navy-500">
           <div>
-            © {year} {locale === 'ar' ? 'د. أحمد أبو سيف' : 'Dr. Ahmed Abouseif'} · {t('footer.rights')}
+            © {year} {locale === 'ar' ? 'د. أحمد أبو سيف' : locale === 'ur' ? 'ڈاکٹر احمد ابو سیف' : 'Dr. Ahmed Abouseif'} · {t('footer.rights')}
           </div>
           <div>{t('footer.made_with')}</div>
         </div>

@@ -27,7 +27,7 @@ export default async function LatestVideos() {
           >
             {t('watch_all')}
             <svg width="14" height="14" viewBox="0 0 14 14" fill="none" stroke="currentColor" strokeWidth="2">
-              {locale === 'ar' ? <path d="M9 3L5 7l4 4" /> : <path d="M5 3l4 4-4 4" />}
+              {locale === 'ar' || locale === 'ur' ? <path d="M9 3L5 7l4 4" /> : <path d="M5 3l4 4-4 4" />}
             </svg>
           </Link>
         </div>
@@ -52,7 +52,21 @@ export default async function LatestVideos() {
                   className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-300"
                 />
                 <div className="absolute top-2 end-2 px-2 py-1 bg-black/60 text-white text-[10px] rounded">
-                  {video.language === 'ar' ? (locale === 'ar' ? 'عربي' : locale === 'es' ? 'Árabe' : 'Arabic') : (locale === 'ar' ? 'إنجليزي' : locale === 'es' ? 'Inglés' : 'English')}
+                  {video.language === 'ar'
+                    ? locale === 'ar'
+                      ? 'عربي'
+                      : locale === 'es'
+                      ? 'Árabe'
+                      : locale === 'ur'
+                      ? 'عربی'
+                      : 'Arabic'
+                    : locale === 'ar'
+                    ? 'إنجليزي'
+                    : locale === 'es'
+                    ? 'Inglés'
+                    : locale === 'ur'
+                    ? 'انگریزی'
+                    : 'English'}
                 </div>
               </div>
               <div className="p-5">
@@ -60,7 +74,7 @@ export default async function LatestVideos() {
                   {video.title}
                 </h3>
                 <div className="text-xs text-navy-500">
-                  {formatDate(video.publishedAt, (locale === 'es' ? 'en' : locale) as 'ar' | 'en')}
+                  {formatDate(video.publishedAt, locale as 'ar' | 'en' | 'es' | 'ur')}
                 </div>
               </div>
             </a>

@@ -2,9 +2,10 @@ import type { MetadataRoute } from 'next';
 import { getAllArticles } from '@/lib/articles';
 import { getAllKhawatir } from '@/lib/khawatir';
 import { getAllResearch } from '@/lib/research';
+import { getAllQA } from '@/lib/qa';
 import { SITE_URL } from '@/lib/site';
 
-const LOCALES = ['ar', 'en', 'es'] as const;
+const LOCALES = ['ar', 'en', 'es', 'ur'] as const;
 
 // Static, indexable pages (relative to /{locale})
 const STATIC_PATHS = [
@@ -13,6 +14,7 @@ const STATIC_PATHS = [
   '/articles',
   '/khawatir',
   '/research',
+  '/qa',
   '/lectures',
   '/events',
   '/gallery',
@@ -60,6 +62,16 @@ export default function sitemap(): MetadataRoute.Sitemap {
       entries.push({
         url: `${SITE_URL}/${locale}/research/${r.slug}`,
         lastModified: r.isoDate ? new Date(r.isoDate) : now,
+        changeFrequency: 'monthly',
+        priority: 0.6,
+      });
+    }
+
+    // Questions and answers
+    for (const q of getAllQA()) {
+      entries.push({
+        url: `${SITE_URL}/${locale}/qa/${q.slug}`,
+        lastModified: q.isoDate ? new Date(q.isoDate) : now,
         changeFrequency: 'monthly',
         priority: 0.6,
       });

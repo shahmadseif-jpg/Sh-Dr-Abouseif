@@ -4,11 +4,12 @@ import { notFound } from 'next/navigation';
 import Link from 'next/link';
 import Image from 'next/image';
 import { getArticleMeta, getAllArticles, categoryLabels, localize, type Loc } from '@/lib/articles';
-import { getArticleBody } from '@/lib/articles-server';
+import { getArticleContent } from '@/lib/articles-server';
 import { SITE_URL, SITE_NAME, SITE_ORG } from '@/lib/site';
 import ShareButtons from '@/components/ShareButtons';
 import ReadingTools from '@/components/ReadingTools';
 import ArticleComments from '@/components/ArticleComments';
+import ContentLanguageNotice from '@/components/ContentLanguageNotice';
 import { getApprovedComments } from '@/lib/comments';
 import { ReactNode } from 'react';
 
@@ -28,14 +29,14 @@ export async function generateMetadata({
   const description = localize(meta.excerpt, lang);
   const path = `/articles/${slug}`;
   const image = meta.coverImage || '/dr-ahmed.jpg';
-  const ogLocale = locale === 'ar' ? 'ar_EG' : locale === 'es' ? 'es_ES' : 'en_US';
+  const ogLocale = locale === 'ar' ? 'ar_EG' : locale === 'es' ? 'es_ES' : locale === 'ur' ? 'ur_PK' : 'en_US';
 
   return {
     title,
     description,
     alternates: {
       canonical: `/${locale}${path}`,
-      languages: { ar: `/ar${path}`, en: `/en${path}`, es: `/es${path}` },
+      languages: { ar: `/ar${path}`, en: `/en${path}`, es: `/es${path}`, ur: `/ur${path}` },
     },
     openGraph: {
       type: 'article',
@@ -69,8 +70,12 @@ export default async function ArticlePage({
   const meta = getArticleMeta(slug);
   if (!meta) notFound();
 
-  const body = getArticleBody(slug, locale);
-  if (!body) notFound();
+  const content = getArticleContent(slug, locale);
+  if (!content) notFound();
+  const body = content.body;
+  const isRtl = locale === 'ar' || locale === 'ur';
+  const bodyIsRtl =
+    content.resolvedLocale === 'ar' || content.resolvedLocale === 'ur';
 
   // Strip the YAML-like top metadata (lines we already store in articlesMeta)
   // The .md file currently has its own title/subtitle in the first 3 lines (# / ## / ###)
@@ -126,7 +131,7 @@ export default async function ArticlePage({
           className="inline-flex items-center gap-2 text-sm text-navy-500 hover:text-gold-500 transition-colors mb-8"
         >
           <svg width="14" height="14" viewBox="0 0 14 14" fill="none" stroke="currentColor" strokeWidth="2" aria-hidden="true">
-            {locale === 'ar' ? <path d="M5 3l4 4-4 4" /> : <path d="M9 3L5 7l4 4" />}
+            {isRtl ? <path d="M5 3l4 4-4 4" /> : <path d="M9 3L5 7l4 4" />}
           </svg>
           {t('back_to_articles')}
         </Link>
@@ -158,7 +163,7 @@ export default async function ArticlePage({
 
         {/* Metadata row */}
         <div className="flex flex-wrap items-center gap-3 text-xs text-navy-500 pb-6 mb-10 border-b border-navy-100">
-          <span>{locale === 'ar' ? 'د. أحمد أبو سيف' : 'Dr. Ahmed Abouseif'}</span>
+          <span>{locale === 'ar' ? 'د. أحمد أبو سيف' : locale === 'ur' ? 'ڈاکٹر احمد ابو سیف' : 'Dr. Ahmed Abouseif'}</span>
           <span className="text-gold-300">•</span>
           <span>{localize(meta.date, lang)}</span>
           <span className="text-gold-300">•</span>
@@ -179,7 +184,7 @@ export default async function ArticlePage({
               />
             </div>
             {meta.coverCaption && (
-              <figcaption className={`mt-4 text-sm text-navy-500 italic leading-relaxed text-center px-2 ${locale === 'ar' ? 'article-rtl' : 'article-ltr'}`}>
+              <figcaption className={`mt-4 text-sm text-navy-500 italic leading-relaxed text-center px-2 ${isRtl ? 'article-rtl' : 'article-ltr'}`}>
                 {localize(meta.coverCaption, lang)}
               </figcaption>
             )}
@@ -187,8 +192,12 @@ export default async function ArticlePage({
         )}
 
         {/* Article body */}
-        <div className={`article-prose ${locale === 'ar' ? 'article-rtl' : 'article-ltr'}`}>
-          {renderMarkdown(trimmedBody, locale)}
+        <ContentLanguageNotice
+          requestedLocale={content.requestedLocale}
+          resolvedLocale={content.resolvedLocale}
+        />
+        <div className={`article-prose ${bodyIsRtl ? 'article-rtl' : 'article-ltr'}`}>
+          {renderMarkdown(trimmedBody, content.resolvedLocale)}
         </div>
 
         {/* Share bar */}

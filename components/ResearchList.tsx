@@ -10,12 +10,12 @@ import {
   researchCategoryLabels,
   type ResearchType,
 } from '@/lib/research';
-import { localize } from '@/lib/articles';
+import { localize, type Loc } from '@/lib/articles';
 
 export default function ResearchList() {
   const t = useTranslations('research');
   const locale = useLocale();
-  const labelLoc = (locale === 'ar' ? 'ar' : locale === 'es' ? 'es' : 'en') as 'ar' | 'en' | 'es';
+  const labelLoc = locale as Loc;
   const [filter, setFilter] = useState<'all' | ResearchType>('all');
 
   const allItems = useMemo(() => getAllResearch(), []);
@@ -158,7 +158,7 @@ export default function ResearchList() {
                   href={`/research/${r.slug}` as any}
                   className="inline-flex items-center px-4 py-2 bg-navy-700 text-white text-sm rounded-md hover:bg-navy-800 transition-colors no-underline"
                 >
-                  {t('read_more')} ←
+                  {t('read_more')} {locale === 'ar' || locale === 'ur' ? '→' : '←'}
                 </Link>
                 {getPdfUrl(r, locale) && (
                   <a

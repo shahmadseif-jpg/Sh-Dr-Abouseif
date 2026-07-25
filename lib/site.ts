@@ -11,10 +11,12 @@ export const SITE_NAME = {
   ar: 'د. أحمد أبو سيف',
   en: 'Dr. Ahmed Abouseif',
   es: 'Dr. Ahmed Abouseif',
+  ur: 'ڈاکٹر احمد ابو سیف',
 } as const;
 
 export const SITE_ORG = {
   ar: 'أكاديمية الأئمة الأمريكية',
   en: 'American Imams Academy',
   es: 'Academia Americana de Imames',
+  ur: 'امریکن ائمہ اکیڈمی',
 } as const;

@@ -9,11 +9,12 @@ import {
   researchTypeLabels,
   researchCategoryLabels,
 } from '@/lib/research';
-import { getResearchBody } from '@/lib/research-server';
-import { localize } from '@/lib/articles';
+import { getResearchContent } from '@/lib/research-server';
+import { localize, type Loc } from '@/lib/articles';
 import { SITE_URL } from '@/lib/site';
 import ReadingTools from '@/components/ReadingTools';
 import CiteThis from '@/components/CiteThis';
+import ContentLanguageNotice from '@/components/ContentLanguageNotice';
 
 export async function generateStaticParams() {
   return researchMeta
@@ -30,11 +31,11 @@ export async function generateMetadata({
   const item = getResearchItem(slug);
   if (!item) return {};
 
-  const author = locale === 'ar' ? 'د. أحمد أبو سيف' : 'Dr. Ahmed Abouseif';
+  const author = locale === 'ar' ? 'د. أحمد أبو سيف' : locale === 'ur' ? 'ڈاکٹر احمد ابو سیف' : 'Dr. Ahmed Abouseif';
   const title = `${localize(item.title, locale)} — ${author}`;
   const description = localize(item.abstract, locale).substring(0, 200);
   const path = `/research/${slug}`;
-  const ogLocale = locale === 'ar' ? 'ar_EG' : locale === 'es' ? 'es_ES' : 'en_US';
+  const ogLocale = locale === 'ar' ? 'ar_EG' : locale === 'es' ? 'es_ES' : locale === 'ur' ? 'ur_PK' : 'en_US';
   const image = '/dr-ahmed.jpg';
 
   return {
@@ -42,7 +43,7 @@ export async function generateMetadata({
     description,
     alternates: {
       canonical: `/${locale}${path}`,
-      languages: { ar: `/ar${path}`, en: `/en${path}`, es: `/es${path}` },
+      languages: { ar: `/ar${path}`, en: `/en${path}`, es: `/es${path}`, ur: `/ur${path}` },
     },
     openGraph: {
       type: 'article',
@@ -77,16 +78,19 @@ export default async function ResearchItemPage({
     notFound();
   }
 
-  const loc = (locale === 'ar' ? 'ar' : locale === 'es' ? 'es' : 'en') as 'ar' | 'en' | 'es';
+  const loc = locale as Loc;
   const t = await getTranslations({ locale, namespace: 'research' });
 
-  const body = getResearchBody(slug, locale);
-  const fullTextLabel = loc === 'ar' ? 'النص الكامل' : loc === 'es' ? 'Texto completo' : 'Full Text';
+  const content = getResearchContent(slug, locale);
+  const body = content?.body;
+  const bodyIsRtl =
+    content?.resolvedLocale === 'ar' || content?.resolvedLocale === 'ur';
+  const fullTextLabel = loc === 'ar' ? 'النص الكامل' : loc === 'es' ? 'Texto completo' : loc === 'ur' ? 'مکمل متن' : 'Full Text';
 
   const related = researchMeta
     .filter((r) => !r.draft && r.slug !== slug && r.category === item.category)
     .slice(0, 3);
-  const relatedLabel = loc === 'ar' ? 'أبحاثٌ ذات صلة' : loc === 'es' ? 'Investigaciones relacionadas' : 'Related research';
+  const relatedLabel = loc === 'ar' ? 'أبحاثٌ ذات صلة' : loc === 'es' ? 'Investigaciones relacionadas' : loc === 'ur' ? 'متعلقہ تحقیقات' : 'Related research';
 
   return (
     <article className="py-12 sm:py-16">
@@ -97,7 +101,7 @@ export default async function ResearchItemPage({
           href="/research"
           className="inline-flex items-center text-sm text-navy-600 hover:text-navy-800 mb-8 no-underline"
         >
-          ← {t('back_to_list')}
+          {locale === 'ar' || locale === 'ur' ? '→' : '←'} {t('back_to_list')}
         </Link>
 
         {/* Header badges */}
@@ -248,12 +252,12 @@ export default async function ResearchItemPage({
         </div>
 
         {/* Full text */}
-        {body && (() => {
+        {body && content && (() => {
           const cleanBody = stripFrontmatter(body);
           const toc = extractToc(cleanBody);
           const mins = readingMinutes(cleanBody);
-          const minsLabel = loc === 'ar' ? `${mins} دقيقة قراءة` : loc === 'es' ? `${mins} min de lectura` : `${mins} min read`;
-          const tocLabel = loc === 'ar' ? 'محتويات' : loc === 'es' ? 'Contenido' : 'Contents';
+          const minsLabel = loc === 'ar' ? `${mins} دقيقة قراءة` : loc === 'es' ? `${mins} min de lectura` : loc === 'ur' ? `${mins} منٹ مطالعہ` : `${mins} min read`;
+          const tocLabel = loc === 'ar' ? 'محتويات' : loc === 'es' ? 'Contenido' : loc === 'ur' ? 'فہرست' : 'Contents';
           return (
             <div className="mt-4 mb-12">
               <div className="flex flex-wrap items-baseline justify-between gap-2 pt-8 border-t border-navy-100">
@@ -261,11 +265,16 @@ export default async function ResearchItemPage({
                 <span className="text-xs text-navy-500">⏱ {minsLabel}</span>
               </div>
 
+              <ContentLanguageNotice
+                requestedLocale={content.requestedLocale}
+                resolvedLocale={content.resolvedLocale}
+              />
+
               {/* In-page table of contents */}
               {toc.length > 2 && (
                 <nav
                   aria-label={tocLabel}
-                  className={`mb-8 rounded-lg border border-navy-100 bg-navy-50/40 p-5 ${locale === 'ar' ? 'article-rtl' : 'article-ltr'}`}
+                  className={`mb-8 rounded-lg border border-navy-100 bg-navy-50/40 p-5 ${bodyIsRtl ? 'article-rtl' : 'article-ltr'}`}
                 >
                   <div className="text-xs font-medium uppercase tracking-wider text-navy-500 mb-3">{tocLabel}</div>
                   <ul className="space-y-1.5">
@@ -283,19 +292,19 @@ export default async function ResearchItemPage({
                 </nav>
               )}
 
-              <div className={`article-prose ${locale === 'ar' ? 'article-rtl' : 'article-ltr'}`}>
-                {renderResearchMarkdown(cleanBody, locale)}
+              <div className={`article-prose ${bodyIsRtl ? 'article-rtl' : 'article-ltr'}`}>
+                {renderResearchMarkdown(cleanBody, content.resolvedLocale)}
               </div>
             </div>
           );
         })()}
 
         {/* Keywords */}
-        {item.keywords && (item.keywords[loc] ?? item.keywords.en).length > 0 && (
+        {item.keywords && (item.keywords[loc] ?? item.keywords.ar ?? item.keywords.en).length > 0 && (
           <div className="mt-8 pt-6 border-t border-navy-100">
             <h3 className="text-sm font-medium text-navy-500 mb-3">{t('keywords')}</h3>
             <div className="flex flex-wrap gap-2">
-              {(item.keywords[loc] ?? item.keywords.en).map((kw) => (
+              {(item.keywords[loc] ?? item.keywords.ar ?? item.keywords.en).map((kw) => (
                 <span
                   key={kw}
                   className="inline-flex items-center px-3 py-1 rounded-full text-xs bg-navy-50 text-navy-700"

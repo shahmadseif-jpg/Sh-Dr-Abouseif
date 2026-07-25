@@ -8,8 +8,8 @@ export async function generateMetadata({
 }) {
   const { locale } = await params;
   return {
-    title: `${locale === 'ar' ? 'الاستشارات الأسرية' : locale === 'es' ? 'Consultas familiares' : 'Family Consultations'} — ${
-      locale === 'ar' ? 'د. أحمد أبو سيف' : 'Dr. Ahmed Abouseif'
+    title: `${locale === 'ar' ? 'الاستشارات الأسرية' : locale === 'es' ? 'Consultas familiares' : locale === 'ur' ? 'خاندانی مشاورت' : 'Family Consultations'} — ${
+      locale === 'ar' ? 'د. أحمد أبو سيف' : locale === 'ur' ? 'ڈاکٹر احمد ابو سیف' : 'Dr. Ahmed Abouseif'
     }`,
   };
 }

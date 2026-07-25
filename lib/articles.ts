@@ -8,14 +8,14 @@ export type ArticleCategory = 'imamship' | 'civilization' | 'family' | 'fiqh' | 
 /** Supported site locales. */
 export type Loc = 'ar' | 'en' | 'es' | 'ur';
 
-/** A localized string. `es` and `ur` are optional; missing values fall back to English. */
+/** A localized string. `es` and `ur` are optional; Arabic is the canonical fallback. */
 export type LocalizedText = { ar: string; en: string; es?: string; ur?: string };
 
-/** Pick the value for a locale, gracefully falling back to English then Arabic. */
+/** Pick the value for a locale, gracefully falling back to Arabic then English. */
 export function localize(text: LocalizedText | undefined, locale: string): string {
   if (!text) return '';
   const v = (text as Record<string, string | undefined>)[locale];
-  return v ?? text.en ?? text.ar;
+  return v ?? text.ar ?? text.en;
 }
 
 export interface ArticleMeta {

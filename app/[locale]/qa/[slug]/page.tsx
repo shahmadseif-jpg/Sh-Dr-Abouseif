@@ -10,9 +10,10 @@ import {
   localize,
   type Loc,
 } from '@/lib/qa';
-import { getQABody } from '@/lib/qa-server';
+import { getQAContent } from '@/lib/qa-server';
 import { SITE_URL, SITE_NAME, SITE_ORG } from '@/lib/site';
 import ShareButtons from '@/components/ShareButtons';
+import ContentLanguageNotice from '@/components/ContentLanguageNotice';
 
 export const dynamic = 'force-dynamic';
 
@@ -60,8 +61,12 @@ export default async function QADetailPage({
   const meta = getQAMeta(slug);
   if (!meta) notFound();
 
-  const body = getQABody(slug, locale);
-  if (!body) notFound();
+  const content = getQAContent(slug, locale);
+  if (!content) notFound();
+  const body = content.body;
+  const isRtl = locale === 'ar' || locale === 'ur';
+  const bodyIsRtl =
+    content.resolvedLocale === 'ar' || content.resolvedLocale === 'ur';
   const trimmedBody = stripFrontmatter(body);
 
   const related = getAllQA()
@@ -97,7 +102,7 @@ export default async function QADetailPage({
           className="inline-flex items-center gap-2 text-sm text-navy-500 hover:text-gold-500 transition-colors mb-8"
         >
           <svg width="14" height="14" viewBox="0 0 14 14" fill="none" stroke="currentColor" strokeWidth="2" aria-hidden="true">
-            {locale === 'ar' ? <path d="M5 3l4 4-4 4" /> : <path d="M9 3L5 7l4 4" />}
+            {isRtl ? <path d="M5 3l4 4-4 4" /> : <path d="M9 3L5 7l4 4" />}
           </svg>
           {t.back}
         </Link>
@@ -112,7 +117,7 @@ export default async function QADetailPage({
         </h1>
 
         <div className="flex flex-wrap items-center gap-3 text-xs text-navy-500 pb-6 mb-10 border-b border-navy-100">
-          <span>{locale === 'ar' ? 'د. أحمد أبو سيف' : 'Dr. Ahmed Abouseif'}</span>
+          <span>{locale === 'ar' ? 'د. أحمد أبو سيف' : locale === 'ur' ? 'ڈاکٹر احمد ابو سیف' : 'Dr. Ahmed Abouseif'}</span>
           <span className="text-gold-300">•</span>
           <span>{localize(meta.date, lang)}</span>
           {meta.origin && (
@@ -139,8 +144,12 @@ export default async function QADetailPage({
         </div>
 
         {/* Answer body */}
-        <div className={`article-prose ${locale === 'ar' ? 'article-rtl' : 'article-ltr'}`}>
-          {renderMarkdown(trimmedBody, locale)}
+        <ContentLanguageNotice
+          requestedLocale={content.requestedLocale}
+          resolvedLocale={content.resolvedLocale}
+        />
+        <div className={`article-prose ${bodyIsRtl ? 'article-rtl' : 'article-ltr'}`}>
+          {renderMarkdown(trimmedBody, content.resolvedLocale)}
         </div>
 
         {/* Share */}

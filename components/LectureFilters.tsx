@@ -12,7 +12,7 @@ export default function LectureFilters({
   locale,
 }: {
   videos: YouTubeVideo[];
-  locale: 'ar' | 'en' | 'es';
+  locale: 'ar' | 'en' | 'es' | 'ur';
 }) {
   const t = useTranslations('lectures');
   const [langFilter, setLangFilter] = useState<LangFilter>('all');
@@ -147,7 +147,21 @@ export default function LectureFilters({
                 className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-300"
               />
               <div className="absolute top-2 end-2 px-2 py-1 bg-black/60 text-white text-[10px] rounded">
-                {video.language === 'ar' ? (locale === 'ar' ? 'عربي' : locale === 'es' ? 'Árabe' : 'Arabic') : (locale === 'ar' ? 'إنجليزي' : locale === 'es' ? 'Inglés' : 'English')}
+                  {video.language === 'ar'
+                    ? locale === 'ar'
+                      ? 'عربي'
+                      : locale === 'es'
+                      ? 'Árabe'
+                      : locale === 'ur'
+                      ? 'عربی'
+                      : 'Arabic'
+                    : locale === 'ar'
+                    ? 'إنجليزي'
+                    : locale === 'es'
+                    ? 'Inglés'
+                    : locale === 'ur'
+                    ? 'انگریزی'
+                    : 'English'}
               </div>
             </div>
             <div className="p-5">
@@ -164,7 +178,7 @@ export default function LectureFilters({
                 {video.title}
               </h3>
               <div className="text-xs text-navy-500">
-                {formatDate(video.publishedAt, locale === 'es' ? 'en' : locale)}
+                {formatDate(video.publishedAt, locale)}
               </div>
             </div>
           </a>
@@ -173,7 +187,7 @@ export default function LectureFilters({
 
       {filtered.length === 0 && (
         <div className="text-center py-16 text-navy-500">
-          {locale === 'ar' ? 'لا توجد نتائج مطابقة' : locale === 'es' ? 'No hay resultados coincidentes' : 'No matching results'}
+          {locale === 'ar' ? 'لا توجد نتائج مطابقة' : locale === 'es' ? 'No hay resultados coincidentes' : locale === 'ur' ? 'کوئی مماثل نتیجہ نہیں ملا' : 'No matching results'}
         </div>
       )}
     </>
