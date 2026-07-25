@@ -8,7 +8,7 @@
   "nav": {
     "home": "Inicio",
     "profile": "Perfil",
-    "about": "Biografía",
+    "about": "Biografía y CV académico",
     "cv": "CV académico y publicaciones",
     "lectures": "Videoteca",
     "articles": "Artículos",
@@ -75,8 +75,8 @@
     "button": "Saber más"
   },
   "about": {
-    "title": "Biografía",
-    "subtitle": "Trayectoria académica y de daʿwa",
+    "title": "Biografía y CV académico",
+    "subtitle": "Formación azharí, servicio de daʿwa, producción académica y liderazgo institucional",
     "intro": "El Imam Dr. Ahmed Abouseif es Doctor en Tafsīr y Ciencias Coránicas por la Universidad de Al-Azhar (2008), con una ijāza coránica en la recitación de Ḥafṣ por las vías Shāṭibiyyah y Ṭayyibah, con cadena de transmisión (isnād) conectada hasta el Profeta ﷺ. Es Fundador y Presidente de la Academia Americana de Imames en Plano, Texas (desde marzo de 2017), y se desempeña como Imam y Director de Asuntos Religiosos de la Mezquita de la Academia (desde noviembre de 2021). Su trayectoria abarca más de tres décadas en el imamato, la docencia universitaria, la investigación académica, el liderazgo institucional y la labor mediática, tanto en Egipto como en los Estados Unidos.",
     "sections": {
       "academic": "Titulaciones académicas e ijāzas",
