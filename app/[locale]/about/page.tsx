@@ -1,5 +1,115 @@
 import { useTranslations, useLocale } from 'next-intl';
 import { setRequestLocale, getTranslations } from 'next-intl/server';
+import { Link } from '@/i18n/routing';
+import { researchMeta, researchTypeLabels } from '@/lib/research';
+import { articlesMeta, localize, type ArticleCategory } from '@/lib/articles';
+import { siteConfig } from '@/lib/site-config';
+import PrintButton from '@/components/PrintButton';
+
+type Loc = 'ar' | 'en' | 'es' | 'ur';
+
+const ui: Record<Loc, Record<string, string>> = {
+  ar: {
+    eyebrow: 'التعريف العلمي والدعوي',
+    print: 'تنزيل السيرة (PDF)',
+    currentH: 'المناصب والمهام الحالية',
+    eduH: 'التكوين والمؤهلات العلمية',
+    formationH: 'الإجازات والتكوين التخصصي',
+    pubH: 'الأبحاث والمنشورات المحكَّمة',
+    teachingH: 'التدريس والدعوة والإعلام',
+    leadershipH: 'الخبرات العملية والقيادية',
+    membershipH: 'العضويات والمبادرات المؤسسية',
+    articlesH: 'المقالات والسلاسل العلمية',
+    viewAll: 'عرض جميع المقالات',
+    lecturesL: 'محاضرة ودرس',
+    yearsL: 'سنةَ خبرة',
+    langsL: 'لغات',
+    thesisL: 'موضوع الرسالة:',
+  },
+  en: {
+    eyebrow: 'Scholarly & Daʿwah Profile',
+    print: 'Download CV (PDF)',
+    currentH: 'Current Roles',
+    eduH: 'Education & Academic Qualifications',
+    formationH: 'Ijāzas & Specialized Formation',
+    pubH: 'Peer-Reviewed Research & Publications',
+    teachingH: 'Teaching, Daʿwah & Media',
+    leadershipH: 'Professional & Leadership Experience',
+    membershipH: 'Memberships & Institutional Initiatives',
+    articlesH: 'Articles & Scholarly Series',
+    viewAll: 'View all articles',
+    lecturesL: 'lectures & lessons',
+    yearsL: 'years of experience',
+    langsL: 'languages',
+    thesisL: 'Thesis:',
+  },
+  es: {
+    eyebrow: 'Perfil académico y de daʿwa',
+    print: 'Descargar CV (PDF)',
+    currentH: 'Cargos actuales',
+    eduH: 'Formación y titulaciones académicas',
+    formationH: 'Iŷāzas y formación especializada',
+    pubH: 'Investigaciones y publicaciones arbitradas',
+    teachingH: 'Docencia, daʿwa y medios',
+    leadershipH: 'Experiencia profesional y de liderazgo',
+    membershipH: 'Membresías e iniciativas institucionales',
+    articlesH: 'Artículos y series académicas',
+    viewAll: 'Ver todos los artículos',
+    lecturesL: 'conferencias y lecciones',
+    yearsL: 'años de experiencia',
+    langsL: 'idiomas',
+    thesisL: 'Tesis:',
+  },
+  ur: {
+    eyebrow: 'علمی و دعوتی تعارف',
+    print: 'سوانح ڈاؤن لوڈ کریں (PDF)',
+    currentH: 'موجودہ مناصب و ذمہ داریاں',
+    eduH: 'تعلیم اور علمی اسناد',
+    formationH: 'اجازات اور تخصصی تربیت',
+    pubH: 'ہم مرتبہ جائزہ شدہ تحقیقات و مطبوعات',
+    teachingH: 'تدریس، دعوت اور ذرائع ابلاغ',
+    leadershipH: 'عملی و قائدانہ تجربات',
+    membershipH: 'رکنیتیں اور ادارہ جاتی اقدامات',
+    articlesH: 'مقالات اور علمی سلسلے',
+    viewAll: 'تمام مقالات دیکھیں',
+    lecturesL: 'لیکچر و دروس',
+    yearsL: 'سالِ خدمت',
+    langsL: 'زبانیں',
+    thesisL: 'مقالے کا عنوان:',
+  },
+};
+
+const articleCategoryLabels: Record<ArticleCategory, Record<Loc, string>> = {
+  'maqasid-tafsir': { ar: 'التفسير المقاصدي', en: 'Maqāṣid-Based Tafsīr', es: 'Tafsir basado en los objetivos', ur: 'مقاصدی تفسیر' },
+  'quranic-concepts': { ar: 'المفاهيم الإيمانية', en: 'Concepts of Faith', es: 'Conceptos de la Fe', ur: 'ایمانی مفاہیم' },
+  'wisdom-insights': { ar: 'حِكَمٌ وبصائر', en: 'Wisdom & Insights', es: 'Sabiduría y perspicacias', ur: 'حکمتیں اور بصیرتیں' },
+  'prophetic-light': { ar: 'قبسٌ من نور النبوّة', en: 'Glimmers of Prophetic Light', es: 'Destellos de la Luz Profética', ur: 'نورِ نبوّت کی کرنیں' },
+  imamship: { ar: 'الإمامة والقيادة', en: 'Imamship & Leadership', es: 'Imamato y liderazgo', ur: 'امامت و قیادت' },
+  civilization: { ar: 'القرآن والحضارة', en: "Qur'an & Civilization", es: 'El Corán y la Civilización', ur: 'قرآن اور تہذیب' },
+  family: { ar: 'الأسرة', en: 'Family', es: 'Familia', ur: 'خاندان' },
+  fiqh: { ar: 'الفقه', en: 'Fiqh', es: 'Jurisprudencia', ur: 'فقہ الاقلیات' },
+};
+
+const educationDegrees: { slug: string; degree: Record<Loc, string> }[] = [
+  {
+    slug: 'ibn-juzayy-tarjihat',
+    degree: {
+      ar: 'العالَميّة (الدكتوراه) في التفسير وعلوم القرآن',
+      en: 'Doctorate (al-ʿĀlamiyya) in Tafsīr & Qurʾanic Sciences',
+      es: 'Doctorado (al-ʿĀlamiyya) en Tafsir y Ciencias Coránicas',
+      ur: 'العالمیۃ (ڈاکٹریٹ) — تفسیر اور علوم القرآن',
+    },
+  },
+  {
+    slug: 'maturidi-tawilat-al-araf',
+    degree: {
+      ar: 'التخصّص (الماجستير) في التفسير وعلوم القرآن',
+      en: "Master’s (al-Takhaṣṣuṣ) in Tafsīr & Qurʾanic Sciences",
+      es: 'Maestría (al-Takhaṣṣuṣ) en Tafsir y Ciencias Coránicas',
+      ur: 'التخصّص (ماجستیر) — تفسیر اور علوم القرآن',
+    },
+  },
+];
 
 export async function generateMetadata({
   params,
@@ -192,47 +302,238 @@ function AboutContent() {
     },
   };
 
-  const data = content[locale as 'ar' | 'en' | 'es' | 'ur'] ?? content.en;
+  const loc: Loc =
+    locale === 'ar' || locale === 'es' || locale === 'ur'
+      ? (locale as Loc)
+      : 'en';
+  const data = content[loc];
+  const labels = ui[loc];
+  const pubs = researchMeta
+    .filter((item) => !item.draft)
+    .sort((a, b) => b.year - a.year);
+  const orderedCats: ArticleCategory[] = [
+    'maqasid-tafsir',
+    'quranic-concepts',
+    'wisdom-insights',
+    'prophetic-light',
+    'imamship',
+    'civilization',
+    'family',
+    'fiqh',
+  ];
+  const articlesByCat = orderedCats
+    .map((cat) => ({
+      cat,
+      items: articlesMeta
+        .filter((item) => !item.draft && item.category === cat)
+        .sort((a, b) => b.isoDate.localeCompare(a.isoDate)),
+    }))
+    .filter((group) => group.items.length > 0);
+
+  const currentRoles = data.leadership.slice(0, 2);
+  const memberships = data.leadership.slice(2, 5);
+  const leadershipExperience = data.leadership.slice(5);
+  const additionalEducation = data.academic.slice(2, 4);
+  const specializedFormation = data.academic.slice(4);
+  const teachingAndMedia = data.scholarly.slice(0, 5);
 
   return (
     <div className="py-16 sm:py-20">
-      <div className="mx-auto max-w-4xl px-4 sm:px-6 lg:px-8">
-        <div className="text-center mb-12">
-          <div className="text-xs uppercase tracking-[0.2em] text-gold-500 mb-3">
-            {t('subtitle')}
+      <div className="mx-auto max-w-3xl px-4 sm:px-6 lg:px-8">
+        <div className="mb-12">
+          <div className="flex flex-col gap-5 sm:flex-row sm:items-end sm:justify-between">
+            <div>
+              <div className="mb-3 text-xs uppercase tracking-[0.2em] text-gold-500">
+                {labels.eyebrow}
+              </div>
+              <h1 className="mb-3 text-4xl font-medium text-navy-700 sm:text-5xl">
+                {t('title')}
+              </h1>
+              <p className="text-lg leading-relaxed text-navy-600">
+                {t('subtitle')}
+              </p>
+            </div>
+            <PrintButton label={labels.print} />
           </div>
-          <h1 className="text-4xl sm:text-5xl font-medium text-navy-700 mb-4">
-            {t('title')}
-          </h1>
-          <p className="text-base sm:text-lg text-navy-600 max-w-3xl mx-auto leading-relaxed">
-            {t('intro')}
-          </p>
         </div>
 
-        <div className="space-y-12 mt-16">
-          <Section title={t('sections.academic')} items={data.academic} />
-          <Section title={t('sections.scholarly')} items={data.scholarly} />
-          <Section title={t('sections.leadership')} items={data.leadership} />
+        <p className="mb-10 text-base leading-loose text-navy-700 sm:text-lg">
+          {t('intro')}
+        </p>
+
+        <div className="mb-14 grid grid-cols-3 gap-4">
+          {[
+            {
+              n: `+${siteConfig.stats.lectures.toLocaleString(
+                loc === 'ar' ? 'ar-EG' : 'en-US'
+              )}`,
+              l: labels.lecturesL,
+            },
+            { n: `+${siteConfig.stats.years}`, l: labels.yearsL },
+            { n: `${siteConfig.stats.languages}`, l: labels.langsL },
+          ].map((stat) => (
+            <div
+              key={stat.l}
+              className="rounded-lg border border-navy-100 bg-navy-50/40 p-4 text-center"
+            >
+              <div className="text-2xl font-semibold text-navy-700 sm:text-3xl">
+                {stat.n}
+              </div>
+              <div className="mt-1 text-xs text-navy-500 sm:text-sm">
+                {stat.l}
+              </div>
+            </div>
+          ))}
         </div>
+
+        <Section title={labels.currentH}>
+          <div className="grid gap-4 sm:grid-cols-2">
+            {currentRoles.map((item) => (
+              <div
+                key={item}
+                className="rounded-lg border border-navy-100 bg-navy-50/30 p-5 leading-relaxed text-navy-700"
+              >
+                {item}
+              </div>
+            ))}
+          </div>
+        </Section>
+
+        <Section title={labels.eduH}>
+          <div className="space-y-6">
+            {educationDegrees.map(({ slug, degree }) => {
+              const item = researchMeta.find((entry) => entry.slug === slug);
+              if (!item) return null;
+              return (
+                <div key={slug} className="border-s-2 border-gold-300 ps-4">
+                  <div className="font-medium text-navy-700">{degree[loc]}</div>
+                  <div className="mt-0.5 text-sm text-navy-500">
+                    {localize(item.venue, locale)} · {item.year}
+                  </div>
+                  <div className="mt-1 text-sm text-navy-600">
+                    <span className="text-navy-400">{labels.thesisL} </span>
+                    <Link
+                      href={`/research/${slug}`}
+                      className="text-navy-700 no-underline hover:text-gold-600"
+                    >
+                      {localize(item.title, locale)}
+                    </Link>
+                  </div>
+                </div>
+              );
+            })}
+            <BulletList items={additionalEducation} />
+          </div>
+        </Section>
+
+        <Section title={labels.formationH}>
+          <BulletList items={specializedFormation} />
+        </Section>
+
+        <Section title={`${labels.pubH} (${pubs.length})`}>
+          <ol className="space-y-5">
+            {pubs.map((item) => (
+              <li
+                key={item.slug}
+                className="border-b border-navy-50 pb-5 last:border-0"
+              >
+                <Link
+                  href={`/research/${item.slug}`}
+                  className="font-medium leading-snug text-navy-700 no-underline hover:text-gold-600"
+                >
+                  {localize(item.title, locale)}
+                </Link>
+                <div className="mt-1 text-sm text-navy-500">
+                  <span className="text-gold-600">
+                    {researchTypeLabels[loc][item.type]}
+                  </span>
+                  {' · '}
+                  {localize(item.venue, locale)}
+                  {' · '}
+                  {item.year}
+                </div>
+              </li>
+            ))}
+          </ol>
+        </Section>
+
+        <Section title={labels.teachingH}>
+          <BulletList items={teachingAndMedia} />
+        </Section>
+
+        <Section title={labels.leadershipH}>
+          <BulletList items={leadershipExperience} />
+        </Section>
+
+        <Section title={labels.membershipH}>
+          <BulletList items={memberships} />
+        </Section>
+
+        <Section title={labels.articlesH}>
+          <div className="space-y-7">
+            {articlesByCat.map(({ cat, items }) => (
+              <div key={cat}>
+                <h3 className="mb-3 text-sm font-semibold text-gold-600">
+                  {articleCategoryLabels[cat][loc]}
+                </h3>
+                <ul className="space-y-2">
+                  {items.map((item) => (
+                    <li key={item.slug}>
+                      <Link
+                        href={`/articles/${item.slug}`}
+                        className="text-[15px] text-navy-700 no-underline hover:text-gold-600"
+                      >
+                        {localize(item.title, locale)}
+                      </Link>
+                    </li>
+                  ))}
+                </ul>
+              </div>
+            ))}
+          </div>
+          <div className="mt-5">
+            <Link
+              href="/articles"
+              className="text-sm font-medium text-navy-600 no-underline hover:text-gold-600"
+            >
+              {labels.viewAll}
+            </Link>
+          </div>
+        </Section>
       </div>
     </div>
   );
 }
 
-function Section({ title, items }: { title: string; items: string[] }) {
+function Section({
+  title,
+  children,
+}: {
+  title: string;
+  children: React.ReactNode;
+}) {
   return (
-    <div>
-      <h2 className="text-2xl font-medium text-navy-700 mb-5 gold-line">
+    <section className="mb-12">
+      <h2 className="mb-5 border-b-2 border-gold-200 pb-2 text-2xl font-semibold text-navy-700">
         {title}
       </h2>
-      <ul className="space-y-3">
-        {items.map((item, idx) => (
-          <li key={idx} className="flex gap-3 items-start text-navy-600 leading-relaxed">
-            <span className="mt-2 h-1.5 w-1.5 rounded-full bg-gold-400 flex-shrink-0" />
-            <span>{item}</span>
-          </li>
-        ))}
-      </ul>
-    </div>
+      {children}
+    </section>
+  );
+}
+
+function BulletList({ items }: { items: string[] }) {
+  return (
+    <ul className="space-y-3">
+      {items.map((item) => (
+        <li
+          key={item}
+          className="flex items-start gap-3 leading-relaxed text-navy-600"
+        >
+          <span className="mt-2 h-1.5 w-1.5 flex-shrink-0 rounded-full bg-gold-400" />
+          <span>{item}</span>
+        </li>
+      ))}
+    </ul>
   );
 }
