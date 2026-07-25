@@ -37,6 +37,37 @@ export interface ArticleMeta {
 }
 
 export const articlesMeta: ArticleMeta[] = [
+  // ===== مقال: ديننا أمانتنا (سُجِّل 2026-07-24) =====
+  {
+    slug: 'our-faith-our-sacred-trust',
+    category: 'civilization',
+    isoDate: '2026-07-24',
+    date: {
+      ar: '٢٤ يوليو ٢٠٢٦',
+      en: 'July 24, 2026',
+      es: '24 de julio de 2026',
+      ur: '24 جولائی 2026ء',
+    },
+    readingMinutes: 14,
+    title: {
+      ar: 'ديننا أمانتنا: من شرف الانتماء إلى مسؤولية الحفظ والبلاغ',
+      en: 'Our Faith Is Our Sacred Trust: From the Honor of Belonging to the Responsibility of Safeguarding and Conveying It',
+      es: 'Nuestra fe es una encomienda sagrada: del honor de pertenecer a la responsabilidad de custodiar y transmitir',
+      ur: 'ہمارا دین ہماری امانت: نسبت کے شرف سے حفاظت و ابلاغ کی ذمہ داری تک',
+    },
+    subtitle: {
+      ar: 'أمانة حمل الدين وتمثيله وصونه في النفس والأسرة والمجتمع والفضاء الرقمي',
+      en: 'The trust of carrying, representing, and safeguarding faith within the self, the family, society, and the digital sphere',
+      es: 'La encomienda de portar, representar y custodiar la fe en la persona, la familia, la sociedad y el espacio digital',
+      ur: 'نفس، خاندان، معاشرے اور ڈیجیٹل فضا میں دین کو اٹھانے، اس کی نمائندگی کرنے اور اسے محفوظ رکھنے کی امانت',
+    },
+    excerpt: {
+      ar: 'ليس الدين بطاقةَ هويّةٍ نُبرزها عند الجدل، ولا شعارًا نرفعه في مواسم الحماسة؛ بل عهدٌ بين العبد وربّه، ومنهجٌ يوجّه حياته، ورسالةٌ يتحمّل مسؤولية تمثيلها. قراءةٌ في أمانة الدين بين شرف الانتماء وتكليف الحفظ والبلاغ، من تضحيات الأنبياء والصحابة إلى مسؤولية المسلم والداعية والمؤسسة في زمن الكلمة التي لا تموت.',
+      en: 'Faith is not an identity card we produce in an argument, nor a slogan we raise in moments of fervor. It is a covenant between a servant and his Lord, a way of life, and a message he bears the responsibility of representing. A reflection on the trust of faith—from the sacrifices of the prophets and Companions to the responsibility of the Muslim, the caller, and the institution in an age when words do not die.',
+      es: 'La fe no es una tarjeta de identidad que exhibimos en una disputa, ni una consigna que alzamos en momentos de entusiasmo. Es un pacto entre el siervo y su Señor, un camino de vida y un mensaje cuya representación asume como responsabilidad. Una reflexión sobre la encomienda de la fe, desde los sacrificios de los profetas y los Compañeros hasta la responsabilidad del musulmán, el predicador y la institución en el tiempo de la palabra que no muere.',
+      ur: 'دین کوئی شناختی کارڈ نہیں جسے ہم بحث کے وقت دکھا دیں، نہ کوئی نعرہ جسے جوش کے موسم میں بلند کریں؛ بلکہ بندے اور اس کے رب کے درمیان عہد، زندگی کا منہج، اور ایسا پیغام ہے جس کی نمائندگی کی ذمہ داری انسان اٹھاتا ہے۔ انبیاء و صحابہ کی قربانیوں سے لے کر ایسے زمانے میں مسلمان، داعی اور ادارے کی ذمہ داری تک دین کی امانت پر ایک نظر، جس میں لفظ مرتا نہیں۔',
+    },
+  },
   // ===== مقال: إقالةُ عثراتِ أهلِ الفضل (حِكَمٌ وبصائر — سُجِّل 2026-07-12) =====
   {
     slug: 'overlooking-slips-of-the-virtuous',
