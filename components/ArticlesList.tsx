@@ -11,6 +11,7 @@ const ORDER: ArticleCategory[] = [
   'maqasid-tafsir',
   'civilization',
   'quranic-concepts',
+  'dawah-awareness',
   'wisdom-insights',
   'imamship',
   'family',
@@ -30,6 +31,12 @@ const PATH_DESC: Record<ArticleCategory, LocalizedText> = {
     en: 'A study of the major concepts of faith between their meaning in language and revelation and their application in life.',
     es: 'Un estudio de los grandes conceptos de la fe entre su significado en la lengua y la revelación y su aplicación en la vida.',
     ur: 'بڑے ایمانی مفاہیم کا مطالعہ — لغت و وحی میں اُن کے معنیٰ اور انسان کی زندگی میں اُن کے اطلاق کے درمیان۔',
+  },
+  'dawah-awareness': {
+    ar: 'مقالاتٌ في حمل رسالة الدين، وبناء الوعي، وحسن البلاغ، ومسؤولية القدوة.',
+    en: 'Essays on carrying the message of faith, building awareness, wise communication, and the responsibility of moral example.',
+    es: 'Ensayos sobre llevar el mensaje de la fe, formar la conciencia, comunicar con sabiduría y asumir la responsabilidad del buen ejemplo.',
+    ur: 'دین کی دعوت اٹھانے، شعور کی تعمیر، حکیمانہ ابلاغ اور عملی نمونہ بننے کی ذمہ داری پر مضامین۔',
   },
   'wisdom-insights': {
     ar: 'تأمّلاتٌ قرآنيّةٌ تربويّةٌ تنقل الآيةَ إلى القلب ومسيرةِ الإنسان إلى الله.',
