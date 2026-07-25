@@ -9,10 +9,10 @@ export default function Header() {
   const locale = useLocale();
   const pathname = usePathname();
   const [mobileOpen, setMobileOpen] = useState(false);
-  const [profileOpen, setProfileOpen] = useState(false);
 
   const navItems = [
     { href: '/', label: t('home') },
+    { href: '/about', label: t('about') },
     { href: '/lectures', label: t('lectures') },
     { href: '/articles', label: t('articles') },
     { href: '/khawatir', label: t('khawatir') },
@@ -22,13 +22,6 @@ export default function Header() {
     { href: '/qa', label: t('qa'), highlight: true },
     { href: '/contact', label: t('contact') },
   ];
-
-  const profileItems = [
-    { href: '/about', label: t('about') },
-    { href: '/cv', label: t('cv') },
-  ];
-  const profileActive =
-    pathname.startsWith('/about') || pathname.startsWith('/cv');
 
   const switchLocales: { code: 'ar' | 'en' | 'es' | 'ur'; label: string }[] = [
     { code: 'ar', label: 'ع' },
@@ -60,7 +53,7 @@ export default function Header() {
               item.href === '/'
                 ? pathname === '/'
                 : pathname.startsWith(item.href);
-            const link = (
+            return (
               <Link
                 key={item.href}
                 href={item.href}
@@ -76,74 +69,6 @@ export default function Header() {
               >
                 {item.label}
               </Link>
-            );
-            if (item.href !== '/') return link;
-            return (
-              <div key="home-and-profile" className="contents">
-                {link}
-                <div
-                  className="relative"
-                  onBlur={(event) => {
-                    if (!event.currentTarget.contains(event.relatedTarget as Node)) {
-                      setProfileOpen(false);
-                    }
-                  }}
-                >
-                  <button
-                    type="button"
-                    onClick={() => setProfileOpen((open) => !open)}
-                    aria-expanded={profileOpen}
-                    aria-haspopup="menu"
-                    className={`flex items-center gap-1 px-3 py-2 text-sm rounded-md transition-colors ${
-                      profileActive
-                        ? 'text-navy-700 bg-navy-50'
-                        : 'text-navy-600 hover:text-navy-700 hover:bg-navy-50/60'
-                    }`}
-                  >
-                    {t('profile')}
-                    <svg
-                      width="14"
-                      height="14"
-                      viewBox="0 0 24 24"
-                      fill="none"
-                      stroke="currentColor"
-                      strokeWidth="2"
-                      className={`transition-transform ${profileOpen ? 'rotate-180' : ''}`}
-                      aria-hidden="true"
-                    >
-                      <path d="m6 9 6 6 6-6" />
-                    </svg>
-                  </button>
-                  {profileOpen && (
-                    <div
-                      role="menu"
-                      className="absolute top-full z-50 pt-1 min-w-56"
-                      style={{ insetInlineStart: 0 }}
-                    >
-                      <div className="rounded-md border border-navy-100 bg-white p-1.5 shadow-lg">
-                        {profileItems.map((profileItem) => {
-                          const isActive = pathname.startsWith(profileItem.href);
-                          return (
-                            <Link
-                              key={profileItem.href}
-                              href={profileItem.href}
-                              role="menuitem"
-                              onClick={() => setProfileOpen(false)}
-                              className={`block whitespace-nowrap rounded px-3 py-2 text-sm no-underline ${
-                                isActive
-                                  ? 'bg-navy-50 text-navy-700'
-                                  : 'text-navy-600 hover:bg-navy-50/60 hover:text-navy-700'
-                              }`}
-                            >
-                              {profileItem.label}
-                            </Link>
-                          );
-                        })}
-                      </div>
-                    </div>
-                  )}
-                </div>
-              </div>
             );
           })}
           <Link
@@ -205,8 +130,7 @@ export default function Header() {
               </svg>
               {t('search')}
             </Link>
-            {navItems.map((item) => {
-              const link = (
+            {navItems.map((item) => (
                 <Link
                   key={item.href}
                   href={item.href}
@@ -215,55 +139,7 @@ export default function Header() {
                 >
                   {item.label}
                 </Link>
-              );
-              if (item.href !== '/') return link;
-              return (
-                <div key="mobile-home-and-profile" className="contents">
-                  {link}
-                  <button
-                    type="button"
-                    onClick={() => setProfileOpen((open) => !open)}
-                    aria-expanded={profileOpen}
-                    className={`flex items-center justify-between px-3 py-2 text-sm rounded-md ${
-                      profileActive
-                        ? 'bg-navy-50 text-navy-700'
-                        : 'text-navy-600 hover:bg-navy-50'
-                    }`}
-                  >
-                    {t('profile')}
-                    <svg
-                      width="14"
-                      height="14"
-                      viewBox="0 0 24 24"
-                      fill="none"
-                      stroke="currentColor"
-                      strokeWidth="2"
-                      className={`transition-transform ${profileOpen ? 'rotate-180' : ''}`}
-                      aria-hidden="true"
-                    >
-                      <path d="m6 9 6 6 6-6" />
-                    </svg>
-                  </button>
-                  {profileOpen && (
-                    <div className="flex flex-col gap-1 px-3 pb-1">
-                      {profileItems.map((profileItem) => (
-                        <Link
-                          key={profileItem.href}
-                          href={profileItem.href}
-                          onClick={() => {
-                            setProfileOpen(false);
-                            setMobileOpen(false);
-                          }}
-                          className="rounded-md px-4 py-2 text-sm text-navy-600 hover:bg-navy-50 no-underline"
-                        >
-                          {profileItem.label}
-                        </Link>
-                      ))}
-                    </div>
-                  )}
-                </div>
-              );
-            })}
+              ))}
             <div className="mt-2 flex items-center justify-center gap-1">
               {switchLocales.map((l) => (
                 <Link
