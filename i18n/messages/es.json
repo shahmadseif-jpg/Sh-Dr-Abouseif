@@ -7,8 +7,9 @@
   },
   "nav": {
     "home": "Inicio",
+    "profile": "Perfil",
     "about": "Biografía",
-    "cv": "CV académico",
+    "cv": "CV académico y publicaciones",
     "lectures": "Videoteca",
     "articles": "Artículos",
     "khawatir": "Reflexiones",
