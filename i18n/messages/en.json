@@ -7,8 +7,9 @@
   },
   "nav": {
     "home": "Home",
-    "about": "About",
-    "cv": "Academic CV",
+    "profile": "Profile",
+    "about": "Biography",
+    "cv": "Academic CV & Publications",
     "lectures": "Video Library",
     "articles": "Articles",
     "khawatir": "Reflections",
