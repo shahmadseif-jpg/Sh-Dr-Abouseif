@@ -8,7 +8,7 @@
   "nav": {
     "home": "Home",
     "profile": "Profile",
-    "about": "Biography",
+    "about": "Biography & Academic CV",
     "cv": "Academic CV & Publications",
     "lectures": "Video Library",
     "articles": "Articles",
@@ -75,8 +75,8 @@
     "button": "Learn more"
   },
   "about": {
-    "title": "Biography",
-    "subtitle": "Scholarly and Da'wah Journey",
+    "title": "Biography & Academic CV",
+    "subtitle": "Azhar formation, daʿwah service, scholarly production, and institutional leadership",
     "intro": "Imam Dr. Ahmed Abouseif holds a Ph.D. in Tafsīr and Qur'anic Sciences from Al-Azhar University (2008), along with a Qur'anic ijazah in the recitation of Hafs through the Shāṭibiyyah and Ṭayyibah transmissions, with a connected isnād to the Prophet ﷺ. He is the Founder and President of the American Imams Academy in Plano, Texas (since March 2017), and serves as Imam and Director of Religious Affairs at the Academy's Mosque (since November 2021). His career spans more than three decades across imamate, university teaching, scholarly research, institutional leadership, and media engagement in both Egypt and the United States.",
     "sections": {
       "academic": "Academic Qualifications & Ijazahs",
