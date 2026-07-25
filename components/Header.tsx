@@ -83,8 +83,6 @@ export default function Header() {
                 {link}
                 <div
                   className="relative"
-                  onMouseEnter={() => setProfileOpen(true)}
-                  onMouseLeave={() => setProfileOpen(false)}
                   onBlur={(event) => {
                     if (!event.currentTarget.contains(event.relatedTarget as Node)) {
                       setProfileOpen(false);
@@ -94,7 +92,6 @@ export default function Header() {
                   <button
                     type="button"
                     onClick={() => setProfileOpen((open) => !open)}
-                    onFocus={() => setProfileOpen(true)}
                     aria-expanded={profileOpen}
                     aria-haspopup="menu"
                     className={`flex items-center gap-1 px-3 py-2 text-sm rounded-md transition-colors ${
