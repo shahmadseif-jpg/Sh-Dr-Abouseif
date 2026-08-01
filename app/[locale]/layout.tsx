@@ -94,7 +94,7 @@ export default async function LocaleLayout({
         {/* Privacy-friendly analytics (activates once the domain is added in a Plausible account) */}
         <Script
           defer
-          data-domain="sh-dr-abouseif.vercel.app"
+          data-domain="www.drahmedabouseif.com"
           src="https://plausible.io/js/script.js"
         />
       </body>
