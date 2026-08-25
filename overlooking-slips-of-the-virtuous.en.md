@@ -12,13 +12,13 @@ They do not consider that the very star by which men steer may be eclipsed for a
 
 This is no license taken against the truth, nor a courtesy paid at the expense of the Sacred Law. It is a foundation among the foundations of prophetic justice: that a man be weighed by the sum of his affair and not by the severed moment of his state; and that his stumble be pardoned if he is worthy of pardon — in that which God has not forbidden us to pardon. This principle has a support in the Law, an unforgettable scene in the Prophetic biography, and a lofty application in the conduct of the imams; and to all of these we now proceed.
 
-## First: The Legal Foundation
+## First: The Scriptural Foundation
 
 The root of this chapter is the report of ʿĀʾisha (may God be pleased with her), raised to the Prophet ﷺ: "Overlook the slips of people of good standing, except the prescribed penalties."[^1] Honesty requires that it be described as it is: it is a disputed report; critics have weakened its chain, while others graded it fair by the sum of its routes and corroborating narrations. It is neither of the authentic beyond doubt, nor of the fallen that merits no attention. This is fairness: neither belittling it nor magnifying it.
 
 Yet its meaning — on either view — is bound fast to decisive texts over which no two disagree, so that acting upon it does not hang upon the authentication of its chain alone. God, Exalted is He, said of one who erred against the household of the Prophet: "Let them pardon and overlook. Do you not love that God should forgive you?"[^2] And He said: "Indeed, good deeds efface evil deeds"[^3] — and this is the rule governing the entire chapter: that the scale is a scale of weighing and offsetting, not a scale of one moment into which a whole life is compressed. And He said to His Prophet ﷺ after Uḥud, and after the disobedience that cost the Ummah what it cost: "So pardon them, and ask forgiveness for them, and consult them in the affair."[^4] Consider the ascending order: a pardon that quenches reproach; then an asking of forgiveness that lifts the trace of the fault; then a consultation that restores the man to the station of competence. Thus is error treated in the school of prophethood.
 
-## Second: The Mother-Scene — Ḥāṭib ibn Abī Baltaʿa
+## Second: The Defining Scene — Ḥāṭib ibn Abī Baltaʿa
 
 Nowhere do these meanings take flesh more vividly than in a single scene. When the Messenger of God ﷺ made ready for the conquest of Mecca and kept his purpose secret and enjoined secrecy upon others, Ḥāṭib ibn Abī Baltaʿa — a Muhājir, a veteran of Badr — wrote to Quraysh informing them of his march, and handed the letter to a woman traveller who hid it in her hair. Then the news came down from heaven, and the Prophet ﷺ sent ʿAlī and al-Zubayr, who overtook her at Rawḍat Khākh and drew out the letter.
 
@@ -40,9 +40,9 @@ Whoever does not know the worth of the man does not know the worth of the pardon
 
 Then listen to the Qurʾānic subtlety that is the crown of this whole chapter. With what address did the reproach descend at the opening of Sūrat al-Mumtaḥana? "O you who believe." It was not said: O you who have betrayed; nor: O you who have played the hypocrite. The man was kept within the circle of faith, and then reproached inside it. This is the most eloquent portrait ever drawn of overlooking a slip: a reproach that mends and does not fell, that straightens and does not break.
 
-And what was sown bore fruit: Ḥāṭib lived on, firm in the ranks, until he died in the year thirty after the Hijra, and the Commander of the Faithful ʿUthmān (may God be pleased with him) prayed over him.[^10] See, then, what pardon accomplished: it preserved a man for the Ummah for thirty years. Overlooking a slip, therefore, is no sentimental indulgence that glosses over the truth; it is the preservation of a capital of faith from being squandered, and a wise stewardship of the Ummah's energies, that an hour of anger may not consume them.
+And what was sown bore fruit: Ḥāṭib lived on, firm in the ranks, until he died in the year thirty after the Hijra, and the Commander of the Faithful ʿUthmān (may God be pleased with him) prayed over him.[^10] See, then, what pardon accomplished: it preserved a man for the Ummah for more than twenty years after that slip. Overlooking a slip, therefore, is no sentimental indulgence that glosses over the truth; it is the preservation of a capital of faith from being squandered, and a wise stewardship of the Ummah's energies, that an hour of anger may not consume them.
 
-Close to this is what came from Abū Bakr al-Ṣiddīq (may God be pleased with him), when he swore that he would never again benefit Misṭaḥ ibn Uthātha with any benefit, after what he had said in the affair of the slander; then there came down: "Let them pardon and overlook," and he said: Yes, by God, I do indeed love that God should forgive me. So he restored his maintenance to him, and said: I shall never withdraw it from him.[^11]
+Close to this is what came from Abū Bakr al-Ṣiddīq (may God be pleased with him), when he swore that he would never again benefit Miṣṭaḥ ibn Uthātha with any benefit, after what he had said in the affair of the slander; then there came down: "Let them pardon and overlook," and he said: Yes, by God, I do indeed love that God should forgive me. So he restored his maintenance to him, and said: I shall never withdraw it from him.[^11]
 
 ## Fifth: The Rule of the Masters of Verification
 

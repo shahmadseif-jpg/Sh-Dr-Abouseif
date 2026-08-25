@@ -4,7 +4,7 @@ locale: "es"
 slug: "overlooking-slips-of-the-virtuous"
 ---
 
-*Ensayo literario, espiritual y formativo sobre la conducta que debe guardar la Umma ante los tropiezos de sus hombres de mérito: desde la escena de Ḥāṭib ibn Abī Baltaʿa hasta la regla de los maestros de la verificación, y las balanzas del perdón y sus límites. Por el Dr. Ahmed Abouseif, Presidente de la American Imams Academy.*
+*Ensayo literario, espiritual y formativo sobre la conducta que debe guardar la Umma ante los tropiezos de sus hombres de mérito: desde la escena de Ḥāṭib ibn Abī Baltaʿa hasta la regla de los maestros de la verificación, y las balanzas del perdón y sus límites. By Dr. Ahmed Abouseif, President of the American Imams Academy.*
 
 Hay en el alma un rasgo asombroso: ve la mancha negra sobre el manto blanco, y apenas alcanza a ver el manto. Si al hombre de mérito le resbala el pie una sola vez, las gentes olvidan su océano y se pasan de boca en boca su única gota turbia; pliegan las páginas de toda una vida de bien ante una sola línea que salió torcida.
 
@@ -12,13 +12,13 @@ Y no reparan en que el astro que sirve de guía puede eclipsarse por una hora, s
 
 No es esto licencia tomada contra la verdad, ni cortesía pagada a costa de la Ley. Es un principio entre los principios de la justicia profética: que se pese al hombre por el conjunto de su asunto y no por el instante desgajado de su estado; y que se le perdone el tropiezo si es digno de perdón, en aquello cuyo perdón Dios no ha prohibido. Este principio tiene un apoyo en la Ley, una escena inolvidable en la biografía profética y una aplicación excelsa en la conducta de los imanes; y hacia todo ello marchamos.
 
-## Primero: el fundamento legal
+## Primero: el fundamento escriturario
 
 La raíz de este capítulo es el relato de ʿĀʾisha (Dios esté complacido con ella), elevado al Profeta ﷺ: «Perdonad los tropiezos de las gentes de buena condición, salvo en las penas prescritas»[^1]. La honradez exige decir de él lo que es: es un ḥadīz discutido; críticos han debilitado su cadena, y otros lo han dado por bueno en virtud del conjunto de sus vías y testimonios. Ni es de lo auténtico sin sombra de duda, ni de lo caído que no merece atención. Ésta es la equidad: ni menospreciarlo ni exagerarlo.
 
 Mas su sentido —en cualquiera de las dos opiniones— está firmemente atado a textos decisivos sobre los que nadie discrepa, de modo que obrar conforme a él no depende únicamente de la autenticación de su cadena. Dijo el Altísimo acerca de quien erró contra la gente de la Casa profética: «Que perdonen y disculpen. ¿Acaso no amáis que Dios os perdone?»[^2]. Y dijo: «Ciertamente, las buenas obras borran las malas»[^3] —y ésta es la regla que gobierna todo el capítulo: que la balanza es balanza de ponderación y de compensación, y no balanza de un instante único en el que se comprima una vida entera. Y dijo a Su Profeta ﷺ tras Uḥud, y tras la desobediencia que costó a la Umma lo que le costó: «Perdónalos, pide perdón por ellos y consúltales en el asunto»[^4]. Considérese la gradación: un perdón que apaga el reproche; luego una petición de perdón que borra la huella; luego una consulta que devuelve al hombre a la estación de la competencia. Así se trata el error en la escuela de la profecía.
 
-## Segundo: la escena madre — Ḥāṭib ibn Abī Baltaʿa
+## Segundo: la escena fundacional — Ḥāṭib ibn Abī Baltaʿa
 
 En ninguna parte toman estos sentidos carne más viva que en una sola escena. Cuando el Mensajero de Dios ﷺ se dispuso para la conquista de La Meca y guardó en secreto su propósito imponiendo el sigilo, Ḥāṭib ibn Abī Baltaʿa —emigrante, veterano de Badr— escribió a los Quraysh anunciándoles su marcha, y entregó la carta a una viajera que la escondió en su cabello. Entonces bajó la noticia del cielo, y el Profeta ﷺ envió a ʿAlī y a al-Zubayr, quienes la alcanzaron en Rawḍat Jāj y le sacaron la carta.
 
@@ -26,7 +26,7 @@ Y entonces ocurrió aquello en lo que se detienen las miradas de la historia. Di
 
 Que nadie imagine que en este ḥadīz hay atenuación de la gravedad de lo ocurrido; pues bajó el Corán reprendiendo con severidad: «¡Vosotros que creéis! No toméis por aliados a Mi enemigo y enemigo vuestro, ofreciéndoles afecto»[^6]. Ni hay en la postura de ʿUmar nada que menoscabarle; habló movido por un celo sincero y por un esfuerzo en guardar la religión —y fue él quien se rindió y cuyos ojos lloraron cuando se le manifestó el rostro de la sabiduría. No hay en ello sino el principio mismo que perseguimos: que una trayectoria firme perdona un tropiezo pasajero. Y adviértase: el Profeta ﷺ no dijo «no lo hizo», sino: «estuvo presente en Badr». El perdón, pues, se edifica sobre una historia, no sobre una excusa.
 
-## Tercero: más allá del corte del cuello
+## Tercero: más allá de salvarle la vida
 
 Mas detenerse en la superficie de la escena es perder su médula. No se trataba sólo de salvar una sangre. La espada mata el cuerpo; la palabra mata al hombre mientras camina entre los suyos. Si Ḥāṭib se hubiera salvado de la espada y hubiera permanecido en las filas marcado por la carta que escribió, habría sido muerto dos veces: una en la conciencia de las gentes, y otra en su propia conciencia.
 
@@ -40,9 +40,9 @@ Quien no conoce el valor del hombre no conoce el valor del perdón. ¿Quién era
 
 Escúchese ahora la sutileza coránica que es la corona de este capítulo. ¿Con qué llamamiento bajó el reproche al comienzo de la sura «La Examinada»? «¡Vosotros que creéis!». No se dijo: ¡Vosotros que habéis traicionado!, ni: ¡Vosotros que habéis actuado con hipocresía! Se mantuvo al hombre dentro del círculo de la fe, y se le reprendió dentro de él. Y ésta es la más elocuente imagen que se haya trazado del perdón del tropiezo: un reproche que enmienda y no derriba, que endereza y no quiebra.
 
-Y fructificó lo sembrado: vivió Ḥāṭib firme en las filas hasta que murió el año treinta de la Hégira, y oró por él el Príncipe de los Creyentes ʿUzmān (Dios esté complacido con él)[^10]. Véase, pues, lo que obró el perdón: conservó a la Umma un hombre durante treinta años. El perdón del tropiezo no es, por tanto, indulgencia sentimental que encubre la verdad; es preservación de un capital de fe frente al despilfarro, y buena administración de las energías de la Umma, para que no las consuma una hora de ira.
+Y fructificó lo sembrado: vivió Ḥāṭib firme en las filas hasta que murió el año treinta de la Hégira, y oró por él el Príncipe de los Creyentes ʿUzmān (Dios esté complacido con él)[^10]. Véase, pues, lo que obró el perdón: conservó a la Umma un hombre durante más de veinte años después de aquel tropiezo. El perdón del tropiezo no es, por tanto, indulgencia sentimental que encubre la verdad; es preservación de un capital de fe frente al despilfarro, y buena administración de las energías de la Umma, para que no las consuma una hora de ira.
 
-Cercano a esto es lo que hizo Abū Bakr al-Ṣiddīq (Dios esté complacido con él), cuando juró que jamás volvería a beneficiar con nada a Misṭaḥ ibn Uthātha, tras lo que dijo en el suceso de la calumnia; y bajó entonces: «Que perdonen y disculpen». Y dijo: Sí, por Dios, yo amo que Dios me perdone. Y le restituyó su manutención, y dijo: Jamás se la retiraré[^11].
+Cercano a esto es lo que hizo Abū Bakr al-Ṣiddīq (Dios esté complacido con él), cuando juró que jamás volvería a beneficiar con nada a Miṣṭaḥ ibn Uthātha, tras lo que dijo en el suceso de la calumnia; y bajó entonces: «Que perdonen y disculpen». Y dijo: Sí, por Dios, yo amo que Dios me perdone. Y le restituyó su manutención, y dijo: Jamás se la retiraré[^11].
 
 ## Quinto: la regla de los maestros de la verificación
 
