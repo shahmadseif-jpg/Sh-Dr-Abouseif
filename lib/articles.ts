@@ -60,16 +60,19 @@ export const articlesMeta: ArticleMeta[] = [
       ar: 'المراودة في القرآن',
       en: 'Murāwadah in the Qurʾan: Drawing a Person Away from Himself',
       es: 'La murāwadah en el Corán: apartar a una persona de sí misma',
+      ur: 'قرآن میں مراودت: انسان کو اس کی اپنی ذات سے کھینچ نکالنے کی کوشش',
     },
     subtitle: {
       ar: 'نزعٌ للإنسان عن نفسه',
       en: 'Drawing a Person Away from Himself',
       es: 'apartar a una persona de sí misma',
+      ur: 'ایک ایسے فعل کا مطالعہ جو قرآن میں تقریباً ہمیشہ حرفِ «عن» کے ساتھ آتا ہے، اور اس بات کا کہ جس سے مراودت کی جاتی ہے وہ جسم نہیں بلکہ وہ ذات ہے جسے اس کی جگہ سے اکھاڑنا مقصود ہے',
     },
     excerpt: {
       ar: 'المراودة، ذلك اللفظ الذي ارتبط في الأذهان بمشهدٍ واحد، والقرآن يستعمله في بنيةٍ لغوية دقيقة تكشف حقيقته…',
       en: 'A Qurʾanic study of murāwadah, tracing its occurrences, its linguistic root and the structure of «drawing him away from himself» through the story of Yusuf.',
       es: 'Un estudio coránico de la murāwadah: sus apariciones, su raíz lingüística y la estructura de «apartarlo de sí mismo» en la historia de Yusuf.',
+      ur: 'ایک قرآنی مطالعہ جو فعل «راوَد» کو اس کی لغوی جڑ سے لے کر سورۂ یوسف اور سورۂ القمر کے آٹھوں مقامات تک پرکھتا ہے، اور دکھاتا ہے کہ مراودت دراصل انسان کو اس کی اپنی ذات سے نرمی اور اصرار کے ساتھ ہٹانے کی کوشش ہے، پھر اس کے نبوی شواہد اور عصرِ حاضر کے عملی اسباق بیان کرتا ہے۔',
     },
   },
   {
@@ -94,16 +97,19 @@ export const articlesMeta: ArticleMeta[] = [
       ar: 'الكيد في القرآن',
       en: 'Kayd in the Qurʾan: One Verb, Two Opposing Agents',
       es: 'El kayd en el Corán: un verbo, dos agentes opuestos',
+      ur: 'قرآن میں کید: ایک فعل، دو متضاد فاعل',
     },
     subtitle: {
       ar: 'فعلٌ واحد وفاعلان متضادّان',
       en: 'One Verb, Two Opposing Agents',
       es: 'un verbo, dos agentes opuestos',
+      ur: 'ایک ایسے لفظ کا مطالعہ جس سے برادرانِ یوسف کے منظر کا آغاز ہوتا ہے اور اللہ کی تدبیر کا اختتام',
     },
     excerpt: {
       ar: 'الكيد، اللفظ الذي يفتتح به مشهد الإخوة ويُختتم به تدبير الله، والفعل بعينه يُسند إلى الخلق والخالق…',
       en: 'A Qurʾanic study of kayd (scheming) in Surat Yusuf, where the same verb is attributed first to the brothers and then to God.',
       es: 'Un estudio coránico del kayd (la estratagema) en la sura de Yusuf, donde el mismo verbo se atribuye primero a los hermanos y luego a Dios.',
+      ur: 'لفظِ «کید» پر ایک قرآنی مطالعہ جو اس کی لغوی جڑ سے لے کر سورۂ یوسف میں اس کی مرکزی ساخت تک کا سفر طے کرتا ہے، اور دکھاتا ہے کہ ایک ہی فعل، ایک ہی حرفِ جار کے ساتھ، کیسے مخلوق اور خالق دونوں کی طرف منسوب ہوتا ہے۔',
     },
   },
   {
@@ -128,16 +134,19 @@ export const articlesMeta: ArticleMeta[] = [
       ar: 'النفس الأمّارة بالسوء في القرآن',
       en: 'The Self That Commands Evil in the Qurʾan',
       es: 'El nafs que ordena el mal en el Corán',
+      ur: 'قرآن میں نفسِ امّارہ بالسوء: وہ ذات جسے رحمت کی ضرورت ہے',
     },
     subtitle: {
       ar: 'الذات التي تحتاج إلى رحمة',
       en: 'The Self That Needs Mercy',
       es: 'el yo que necesita misericordia',
+      ur: 'ایک ایسے وصف کا مطالعہ جو قرآن میں صرف ایک بار آیا، پھر تزکیہ کے ایک باب کا عنوان بن گیا',
     },
     excerpt: {
       ar: 'النفس الأمّارة، وصفٌ ورد في القرآن مرةً واحدة ثم صار عنواناً لأحد أبواب التزكية…',
       en: 'A Qurʾanic study of the commanding self (al-nafs al-ammārah), the single verse in which it appears and its place among the stations of the self.',
       es: 'Un estudio coránico del nafs ammārah, el único versículo en que aparece y su lugar entre los grados del alma.',
+      ur: 'ایک قرآنی مطالعہ جو «امّارہ» کے وصف کو سورۂ یوسف کی اس یکتا آیت سے لے کر تسویل، تطویع اور وسوسے جیسے قریبی الفاظ تک، اور پھر مجاہدہ، محاسبہ اور رحمتِ الٰہی کی طلب تک کھول کر بیان کرتا ہے۔',
     },
   },
   {
@@ -162,16 +171,19 @@ export const articlesMeta: ArticleMeta[] = [
       ar: 'التمكين في القرآن',
       en: 'Tamkīn in the Qurʾan: Empowerment After Trial',
       es: 'El tamkīn en el Corán: el poder que llega tras la prueba',
+      ur: 'قرآن میں تمکین: وہ اقتدار جو آزمائش کے بعد ملتا ہے اور جس کی امانت کے طور پر جواب دہی ہوتی ہے',
     },
     subtitle: {
       ar: 'قدرةٌ تأتي بعد الابتلاء وتُسأل عن الأمانة',
       en: 'Power That Comes After Trial and Is Held to Account',
       es: 'un poder que llega tras la prueba y rinde cuentas',
+      ur: 'ایک ایسے لفظ کا مطالعہ جو پہلے اللہ کی طرف منسوب ہوتا ہے، پھر اسی سے ریاستوں اور افراد کے معاملات کو پرکھا جاتا ہے',
     },
     excerpt: {
       ar: 'التمكين، لفظٌ يُنسب إلى الله أولاً ثم يُقاس به أمر الدول والأفراد، وقصة يوسف أجلى نماذجه…',
       en: 'A Qurʾanic study of tamkīn (empowerment): its occurrences, its conditions and its Yusufian model.',
       es: 'Un estudio coránico del tamkīn (capacitación): sus apariciones, sus condiciones y su modelo en Yusuf.',
+      ur: 'ایک قرآنی مطالعہ جو «تمکین» کو اس کے لغوی مادّے سے لے کر سورۂ یوسف کے ابتلا سے منصب تک کے سفر تک دیکھتا ہے، اور بتاتا ہے کہ قرآن میں اقتدار امانت، شکر اور حق کے قیام سے مشروط ایک احسان ہے۔',
     },
   },
   {
@@ -196,16 +208,19 @@ export const articlesMeta: ArticleMeta[] = [
       ar: 'التأويل في القرآن',
       en: 'Taʾwīl in the Qurʾan: What Things Return To',
       es: 'El taʾwīl en el Corán: aquello a lo que las cosas retornan',
+      ur: 'قرآن میں تاویل: وہ انجام جس کی طرف معاملات لوٹتے ہیں، نہ کہ وہ معنی جس کی طرف لفظ کو پھیر دیا جائے',
     },
     subtitle: {
       ar: 'ما تؤول إليه الأمور لا ما يُصرف إليه اللفظ',
       en: 'What Things Return To, Not What a Word Is Turned Into',
       es: 'aquello a lo que retornan las cosas',
+      ur: 'سورۂ یوسف میں تاویل کے آٹھ مقامات کا مطالعہ، اور اس کے قرآنی معنی اور متاخرین کے معنی میں فرق',
     },
     excerpt: {
       ar: 'التأويل، مصطلحٌ ثماني مرّاته السبع عشرة في سورة يوسف، ومعناه القرآني غير معناه عند المتأخرين…',
       en: 'A Qurʾanic study of taʾwīl across its seventeen occurrences, eight of them in Surat Yusuf, and its difference from the later technical sense.',
       es: 'Un estudio coránico del taʾwīl en sus diecisiete apariciones, ocho de ellas en la sura de Yusuf, y su diferencia con el sentido técnico posterior.',
+      ur: 'ایک قرآنی مطالعہ جو لفظ «تاویل» کو اس کی لغوی جڑ سے لے کر سورۂ یوسف کے استعمال، آلِ عمران کی آیت اور مآلات کے اعتبار تک دیکھتا ہے، اور بتاتا ہے کہ قرآن میں تاویل کا مطلب لفظ کو پھیرنا نہیں بلکہ یہ دیکھنا ہے کہ معاملات آخر کس انجام کو پہنچتے ہیں۔',
     },
   },
   {
@@ -230,16 +245,19 @@ export const articlesMeta: ArticleMeta[] = [
       ar: 'الاستعصام في القرآن',
       en: 'Istiʿṣām in the Qurʾan: Seeking Protection and Taking Its Means',
       es: 'El istiʿṣām en el Corán: pedir protección y tomar sus medios',
+      ur: 'قرآن میں استعصام: عصمت طلب کرنا اور اس کے اسباب اختیار کرنا',
     },
     subtitle: {
       ar: 'أن تطلب العصمة وتبذل أسبابها',
       en: 'Seeking Protection and Taking Its Means',
       es: 'pedir protección y tomar sus medios',
+      ur: 'ایک ایسے فعل کا مطالعہ جو قرآن میں صرف ایک بار آیا ہے، اور اعتصام و عصمت سے اس کا تعلق',
     },
     excerpt: {
       ar: 'الاستعصام، فعلٌ ورد في القرآن مرةً واحدة، وهو من أدقّ ما وُصف به الامتناع عن المعصية…',
       en: 'A Qurʾanic study of istiʿṣām, the verb that occurs once in the Qurʾan, and its relation to iʿtiṣām and ʿiṣmah.',
       es: 'Un estudio coránico del istiʿṣām, el verbo que aparece una sola vez en el Corán, y su relación con el iʿtiṣām y la ʿiṣmah.',
+      ur: 'ایک قرآنی مطالعہ جو «فاستعصم» کے لفظ کو اس کے مادے «ع ص م» سے لے کر یوسف علیہ السلام کے منظر تک، اور فرد کے استعصام سے امت کے اعتصام تک کھول کر دکھاتا ہے۔',
     },
   },
   {
@@ -264,16 +282,19 @@ export const articlesMeta: ArticleMeta[] = [
       ar: 'الرجاء في القرآن',
       en: 'Rajāʾ in the Qurʾan: The Ease of God and the Negation of Despair',
       es: 'El rajāʾ en el Corán: el alivio de Dios y la negación de la desesperanza',
+      ur: 'قرآن میں رجاء: رَوحِ الٰہی اور یاس کی نفی',
     },
     subtitle: {
       ar: 'روحُ الله ونفيُ اليأس',
       en: 'The Ease of God and the Negation of Despair',
       es: 'el alivio de Dios y la negación de la desesperanza',
+      ur: 'ایک ایسے مفہوم کا مطالعہ جس میں رجاء، یاس اور قنوط آمنے سامنے آتے ہیں، حضرت یعقوب کی اپنے بیٹوں کو وصیت سے',
     },
     excerpt: {
       ar: 'الرجاء، ومفهومه في سورة يوسف يظهر بنقيضه اللفظي وبعبارة «روح الله»، ولا يفارق العمل والخوف…',
       en: 'A Qurʾanic study of hope (rajāʾ) as read through Yaʿqub’s counsel, «do not despair of the ease of God», and its pairing with action and fear.',
       es: 'Un estudio coránico de la esperanza (rajāʾ) a partir del consejo de Yaʿqub, «no desesperéis del alivio de Dios», y su unión con la acción y el temor.',
+      ur: 'ایک قرآنی مطالعہ جو رجاء کے مفہوم کو حضرت یعقوب علیہ السلام کی وصیت «اور اللہ کی رَوح سے ناامید نہ ہو» سے شروع کر کے عمل، خوف، صبر اور حسنِ ظن کے ساتھ اس کے رشتے تک پہنچاتا ہے۔',
     },
   },
   {
@@ -298,16 +319,19 @@ export const articlesMeta: ArticleMeta[] = [
       ar: 'اللطف الإلهي في القرآن',
       en: 'Divine Luṭf in the Qurʾan: Gentle, Hidden Planning',
       es: 'El luṭf divino en el Corán: una planificación sutil y oculta',
+      ur: 'قرآن میں لطفِ الٰہی: ایک مخفی تدبیر جو اپنی منزل کو پہنچتی ہے',
     },
     subtitle: {
       ar: 'تدبيرٌ خفيّ يبلغ غايته',
       en: 'Gentle, Hidden Planning That Reaches Its End',
       es: 'una planificación sutil y oculta que alcanza su fin',
+      ur: 'اسمِ حسنیٰ «اللطیف» پر ایک مطالعہ، جس پر یوسفؑ نے اپنا قصہ ختم کیا، اور «لطیفٌ لِما یشاء» کے معنی',
     },
     excerpt: {
       ar: 'اللطف، اسمٌ حسنى ختم به يوسف قصّته، ومعناه دقة العلم ورفق التدبير…',
       en: 'A Qurʾanic study of the divine name al-Laṭīf and Yusuf’s closing words, «my Lord is subtle in what He wills».',
       es: 'Un estudio coránico del nombre divino al-Laṭīf y de las palabras finales de Yusuf, «mi Señor es sutil en lo que quiere».',
+      ur: 'ایک قرآنی مطالعہ جو لطفِ الٰہی کو اس کی لغوی جڑ سے لے کر قصۂ یوسف کی مخفی تدبیر اور مومن کی زندگی میں اس کے عملی اثرات تک بیان کرتا ہے۔',
     },
   },
   {
@@ -332,16 +356,19 @@ export const articlesMeta: ArticleMeta[] = [
       ar: 'التقوى في القرآن',
       en: 'Taqwā in the Qurʾan',
       es: 'La taqwà en el Corán',
+      ur: 'قرآن میں تقویٰ: محض خوف نہیں، ایک سپر اختیار کرنا',
     },
     subtitle: {
       ar: 'اتّخاذ وقايةٍ لا مجرّد خوف',
       en: 'Taking a Shield, Not Mere Fear',
       es: 'tomar una protección, no mero temor',
+      ur: 'ایک ایسے لغوی مادّے کا مطالعہ جس کی اصل زرہ اور محسوس حفاظت ہے، اور جس کا یہی معنی دل کو اللہ کے غضب سے بچانے تک منتقل ہوا',
     },
     excerpt: {
       ar: 'يذكر القرآن في سورة النحل نعمةً حسّية بسيطة: ﴿وَجَعَلَ لَكُمْ سَرَابِيلَ تَقِيكُمُ الْحَرَّ وَسَرَابِيلَ تَقِيكُمْ بَأْسَكُمْ﴾ (١٦:٨١). قمصا…',
       en: 'In Sūrat al-Naḥl the Qurʾan mentions a simple, tangible blessing: garments that shield you from the heat and garments that shield you from your own violence (16:81)…',
       es: 'En la sura al-Nahl el Corán menciona una bendición simple y tangible: prendas que os protegen del calor y prendas que os protegen de vuestra violencia (16:81)…',
+      ur: 'ایک قرآنی مطالعہ جو لفظِ تقویٰ کو اس کے مادّے «و ق ي» سے، یعنی کرتے اور زرہ کی محسوس حفاظت سے، دل کے لباس تک لے جاتا ہے۔ یہ مضمون لغت، آیات اور احادیث کی روشنی میں دکھاتا ہے کہ تقویٰ محض خوف یا خشیت نہیں بلکہ انسان کا اپنے ارادے سے اختیار کردہ بچاؤ ہے۔',
     },
   },
   {
@@ -366,16 +393,19 @@ export const articlesMeta: ArticleMeta[] = [
       ar: 'الحنيفية في القرآن',
       en: 'Ḥanīfiyyah in the Qurʾan: From Meaning to Application',
       es: 'La ḥanīfiyyah en el Corán: del significado a la aplicación',
+      ur: 'قرآن میں حنیفیت: مفہوم اور اطلاق',
     },
     subtitle: {
       ar: 'دلالةً وتطبيقاً',
       en: 'Meaning and Application',
       es: 'significado y aplicación',
+      ur: 'ایک ایسی اصطلاح جس کے گرد اقوال کا ہجوم رہا، مگر جسے آج بھی مقام بہ مقام دیکھنا لازم ہے',
     },
     excerpt: {
       ar: 'الحنيفيّة، ذلك المصطلح الذي تكاثرت حوله التفاسير والأقوال، وهو لمّا يزل يستحقّ أن يُتابَع موضعاً موضعاً…',
       en: 'A Qurʾanic study tracing the term ḥanīf across every occurrence, from its linguistic root to its objective-based reading.',
       es: 'Un estudio coránico que rastrea el término ḥanīf en cada una de sus apariciones, desde su raíz lingüística hasta su lectura orientada a los fines.',
+      ur: 'قرآن میں لفظ "حنیف" بارہ مرتبہ آیا ہے، ایک نبی سے خاتم النبیین اور پھر پوری امت تک پھیلتے ہوئے۔ یہ مضمون لغت، سنت اور علمائے مقاصد کے اقوال کی روشنی میں اس کے مفہوم اور آج کے طالبِ حق کی صفات کو واضح کرتا ہے۔',
     },
   },
   {
@@ -400,16 +430,19 @@ export const articlesMeta: ArticleMeta[] = [
       ar: 'اليقين في القرآن',
       en: 'Yaqīn in the Qurʾan: From Knowledge to Sight to Truth',
       es: 'El yaqīn en el Corán: del conocimiento a la visión y a la verdad',
+      ur: 'قرآن میں یقین: علم سے عین تک اور عین سے حق تک',
     },
     subtitle: {
       ar: 'من عِلمٍ إلى عَينٍ إلى حَقّ',
       en: 'From Knowledge to Sight to Truth',
       es: 'del conocimiento a la visión y a la verdad',
+      ur: 'قرآنی معرفت کے دلی اطمینان کی طرف تدریجی سفر کا ایک مطالعہ',
     },
     excerpt: {
       ar: 'اليقين، ذلك اللفظ الذي يحسبه كثيرون حالةً واحدةً لا تتجزّأ، والقرآن يصفه درجاتٍ متتالية…',
       en: 'A Qurʾanic study tracing yaqīn (certainty) from its linguistic root to its threefold epistemic structure and its bearing on the steadiness of the heart.',
       es: 'Un estudio coránico que rastrea el yaqīn (certeza) desde su raíz lingüística hasta su estructura epistémica triple y su efecto en la firmeza del corazón.',
+      ur: 'قرآن یقین کو ایک ہی کیفیت نہیں بلکہ علم، عین اور حق کے تین درجوں کا سفر بتاتا ہے۔ یہ مطالعہ لفظ کے قرآنی استعمال، ابراہیم علیہ السلام کے نمونے، سنت اور علما کے اقوال کی روشنی میں آج کے صاحبِ یقین کی صورت واضح کرتا ہے۔',
     },
   },
   // ===== مقال: ديننا أمانتنا (سُجِّل 2026-07-24) =====
