@@ -37,6 +37,108 @@ export interface ArticleMeta {
 }
 
 export const articlesMeta: ArticleMeta[] = [
+  {
+    slug: 'taqwa-in-quran-taking-a-shield-not-mere-fear',
+    category: 'quranic-concepts',
+    isoDate: '2026-10-07',
+    date: {
+      ar: '٧ أكتوبر ٢٠٢٦',
+      en: 'October 7, 2026',
+      es: '7 de octubre de 2026',
+      ur: '7 اکتوبر 2026',
+    },
+    readingMinutes: 10,
+    series: {
+      ar: 'المفاهيم الإيمانية',
+      en: 'Concepts of Faith',
+      es: 'Conceptos de la Fe',
+      ur: 'ایمانی مفاہیم',
+    },
+    episode: 24,
+    title: {
+      ar: 'التقوى في القرآن',
+      en: 'Taqwā in the Qurʾan',
+      es: 'La taqwà en el Corán',
+    },
+    subtitle: {
+      ar: 'اتّخاذ وقايةٍ لا مجرّد خوف',
+      en: 'Taking a Shield, Not Mere Fear',
+      es: 'tomar una protección, no mero temor',
+    },
+    excerpt: {
+      ar: 'يذكر القرآن في سورة النحل نعمةً حسّية بسيطة: ﴿وَجَعَلَ لَكُمْ سَرَابِيلَ تَقِيكُمُ الْحَرَّ وَسَرَابِيلَ تَقِيكُمْ بَأْسَكُمْ﴾ (١٦:٨١). قمصا…',
+      en: 'In Sūrat al-Naḥl the Qurʾan mentions a simple, tangible blessing: garments that shield you from the heat and garments that shield you from your own violence (16:81)…',
+      es: 'En la sura al-Nahl el Corán menciona una bendición simple y tangible: prendas que os protegen del calor y prendas que os protegen de vuestra violencia (16:81)…',
+    },
+  },
+  {
+    slug: 'hanifiyyah-in-quran-meaning-and-application',
+    category: 'quranic-concepts',
+    isoDate: '2026-07-01',
+    date: {
+      ar: '١ يوليو ٢٠٢٦',
+      en: 'July 1, 2026',
+      es: '1 de julio de 2026',
+      ur: '1 جولائی 2026',
+    },
+    readingMinutes: 13,
+    series: {
+      ar: 'المفاهيم الإيمانية',
+      en: 'Concepts of Faith',
+      es: 'Conceptos de la Fe',
+      ur: 'ایمانی مفاہیم',
+    },
+    episode: 25,
+    title: {
+      ar: 'الحنيفية في القرآن',
+      en: 'Ḥanīfiyyah in the Qurʾan: From Meaning to Application',
+      es: 'La ḥanīfiyyah en el Corán: del significado a la aplicación',
+    },
+    subtitle: {
+      ar: 'دلالةً وتطبيقاً',
+      en: 'Meaning and Application',
+      es: 'significado y aplicación',
+    },
+    excerpt: {
+      ar: 'الحنيفيّة، ذلك المصطلح الذي تكاثرت حوله التفاسير والأقوال، وهو لمّا يزل يستحقّ أن يُتابَع موضعاً موضعاً…',
+      en: 'A Qurʾanic study tracing the term ḥanīf across every occurrence, from its linguistic root to its objective-based reading.',
+      es: 'Un estudio coránico que rastrea el término ḥanīf en cada una de sus apariciones, desde su raíz lingüística hasta su lectura orientada a los fines.',
+    },
+  },
+  {
+    slug: 'yaqin-in-quran-degrees-of-certainty',
+    category: 'quranic-concepts',
+    isoDate: '2026-07-01',
+    date: {
+      ar: '١ يوليو ٢٠٢٦',
+      en: 'July 1, 2026',
+      es: '1 de julio de 2026',
+      ur: '1 جولائی 2026',
+    },
+    readingMinutes: 12,
+    series: {
+      ar: 'المفاهيم الإيمانية',
+      en: 'Concepts of Faith',
+      es: 'Conceptos de la Fe',
+      ur: 'ایمانی مفاہیم',
+    },
+    episode: 26,
+    title: {
+      ar: 'اليقين في القرآن',
+      en: 'Yaqīn in the Qurʾan: From Knowledge to Sight to Truth',
+      es: 'El yaqīn en el Corán: del conocimiento a la visión y a la verdad',
+    },
+    subtitle: {
+      ar: 'من عِلمٍ إلى عَينٍ إلى حَقّ',
+      en: 'From Knowledge to Sight to Truth',
+      es: 'del conocimiento a la visión y a la verdad',
+    },
+    excerpt: {
+      ar: 'اليقين، ذلك اللفظ الذي يحسبه كثيرون حالةً واحدةً لا تتجزّأ، والقرآن يصفه درجاتٍ متتالية…',
+      en: 'A Qurʾanic study tracing yaqīn (certainty) from its linguistic root to its threefold epistemic structure and its bearing on the steadiness of the heart.',
+      es: 'Un estudio coránico que rastrea el yaqīn (certeza) desde su raíz lingüística hasta su estructura epistémica triple y su efecto en la firmeza del corazón.',
+    },
+  },
   // ===== مقال: ديننا أمانتنا (سُجِّل 2026-07-24) =====
   {
     slug: 'our-faith-our-sacred-trust',
