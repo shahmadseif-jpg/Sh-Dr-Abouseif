@@ -2,6 +2,7 @@
 
 import { useTranslations, useLocale } from 'next-intl';
 import { Link } from '@/i18n/routing';
+import { siteConfig } from '@/lib/site-config';
 
 export default function Hero() {
   const t = useTranslations('hero');
@@ -35,12 +36,14 @@ export default function Hero() {
                   )}
                 </svg>
               </Link>
-              <Link
-                href="/about"
+              <a
+                href={siteConfig.contact.academy}
+                target="_blank"
+                rel="noopener noreferrer"
                 className="inline-flex items-center px-6 py-3 border border-navy-200 text-navy-600 text-sm font-medium rounded-md hover:bg-navy-50 transition-colors no-underline"
               >
                 {t('cta_secondary')}
-              </Link>
+              </a>
             </div>
           </div>
 
