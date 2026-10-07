@@ -158,7 +158,6 @@ export const researchMeta: ResearchMeta[] = [
       es: ['al-Māturīdī', 'Taʾwīlāt Ahl al-Sunna', 'Sūrat al-Aʿrāf', 'edición crítica', 'tafsīr', 'ciencias coránicas', 'Universidad de al-Azhar'],
       ur: ['الماتریدی', 'تأویلات أہل السنۃ', 'سورۃ الأعراف', 'تحقیق', 'تفسیر', 'علوم القرآن', 'جامعۂ ازہر'],
     },
-    featured: true,
   },
   // بحث محكَّم مُقدَّم إلى مؤتمر AMJA العاشر (٢٠١٣م)
   {
@@ -245,7 +244,6 @@ export const researchMeta: ResearchMeta[] = [
       es: ['Gente del Libro', 'reses sacrificadas', 'sacrificio ritual lícito', 'jurisprudencia de las minorías', 'regla de lo predominante', 'bloqueo de los medios', 'Estados Unidos'],
       ur: ['اہل کتاب', 'ذبائح', 'تذکیۂ شرعی', 'فقہ الأقلیات', 'قاعدۂ غالب', 'سد الذرائع', 'امریکی واقعیت'],
     },
-    featured: true,
   },
   // دراسة فقهية أصولية مقاصدية — على هامش موسم الحج ١٤٤٧هـ
   {
@@ -289,7 +287,6 @@ export const researchMeta: ResearchMeta[] = [
       es: ['Ṭawāf de Despedida', 'Hach', 'alcance del mandato', 'ofrenda de sangre (dam)', 'rito (nusuk)', 'puntos de divergencia', 'ponderación maqāṣid', 'fiqh comparado'],
       ur: ['طوافِ وداع', 'حج', 'امر کی دلالت', 'دم سے جبر', 'نسک', 'اختلاف کے مناطات', 'مقاصدی ترجیح', 'فقہ مقارن'],
     },
-    featured: true,
   },
 
   // ورقة المؤتمر الدولي الأول — مركز المعرفة (ماليزيا) 2026
@@ -456,7 +453,6 @@ export const researchMeta: ResearchMeta[] = [
       es: ['fatwa digital', 'inteligencia artificial', 'Estados Unidos', 'jurisprudencia de las minorías', 'formación del muftí', 'ecosistema del dictamen', 'Dar al-Iftāʾ de Egipto'],
       ur: ['ڈیجیٹل فتویٰ', 'مصنوعی ذہانت', 'ریاستہائے متحدہ', 'اقلیات فقہ', 'مفتی کی تربیت', 'فتویٰ منظومہ', 'دارالافتاء المصریہ'],
     },
-    featured: true,
   },
 
   // البحث الأصلي 2018
@@ -500,7 +496,6 @@ export const researchMeta: ResearchMeta[] = [
       es: ['fatwa', 'idoneidad del muftí', 'caos del dictamen', 'AMJA', 'jurisprudencia de las minorías'],
       ur: ['فتویٰ', 'مفتی کی اہلیت', 'فتویٰ کی افراتفری', 'AMJA', 'اقلیات فقہ'],
     },
-    featured: true,
   },
 ];
 
