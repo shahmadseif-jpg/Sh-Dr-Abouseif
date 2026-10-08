@@ -364,8 +364,13 @@ function AboutContent() {
 
         <MediaBio locale={loc} />
 
-        <p className="mb-10 text-base leading-loose text-navy-700 sm:text-lg">
+        <p className="mb-4 text-base leading-loose text-navy-700 sm:text-lg">
           {t('intro')}
+        </p>
+        <p className="mb-10 print:hidden">
+          <Link href="/project" className="text-navy-700 font-medium underline hover:text-gold-600">
+            {({ ar: 'تعرّف على المشروع الفكري ومساراته البحثية', en: 'Explore the intellectual project and its lines of research', es: 'Conozca el proyecto intelectual y sus líneas de investigación', ur: 'فکری منصوبہ اور اس کے تحقیقی سلسلے دیکھیں' } as Record<string, string>)[loc]}
+          </Link>
         </p>
 
         <div className="mb-14 grid grid-cols-3 gap-4">
