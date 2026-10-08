@@ -1391,7 +1391,7 @@ export const articlesMeta: ArticleMeta[] = [
     readingMinutes: 10,
     title: {
       ar: 'الزوجيّة في أبهى صورها',
-      en: 'Marriage at Its Most Radiant',
+      en: 'Marriage at Its Most Beautiful',
       es: 'La vida conyugal en su forma más bella',
       ur: 'ازدواجیّت اپنی بہترین صورت میں',
     },
