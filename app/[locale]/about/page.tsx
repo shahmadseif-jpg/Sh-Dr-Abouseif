@@ -9,6 +9,7 @@ import { getEstimatedLectureCount } from '@/lib/lecture-counter';
 // Refresh hourly so the lecture counter matches the homepage.
 export const revalidate = 3600;
 import PrintButton from '@/components/PrintButton';
+import MediaBio from '@/components/MediaBio';
 
 type Loc = 'ar' | 'en' | 'es' | 'ur';
 
@@ -360,6 +361,8 @@ function AboutContent() {
             <PrintButton label={labels.print} />
           </div>
         </div>
+
+        <MediaBio locale={loc} />
 
         <p className="mb-10 text-base leading-loose text-navy-700 sm:text-lg">
           {t('intro')}
