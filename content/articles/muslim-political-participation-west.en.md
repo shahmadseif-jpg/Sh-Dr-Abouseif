@@ -53,11 +53,13 @@ The five universal objectives of Sharia are not insulated from the Muslim's poli
 
 **Preserving life:** Immigration and asylum laws, protection from hate crimes, the treatment of Muslims in emergency security contexts — these are settled or contested in legislative bodies whose members are elected by voters.
 
+**Preserving the mind:** Laws on drugs, alcohol, and gambling, the rules that govern media and the digital content shaping young people's minds, and freedom of research and expression on university campuses — all of these are decided by elected bodies, and their effects reach the minds of Muslims and their children.
+
 **Preserving lineage:** School curricula, parents' rights to raise their children religiously, family law policies on divorce, custody, and adoption — these are not only religious matters; they are profoundly political ones.
 
 **Preserving property:** Economic policies, anti-discrimination in employment, government support for small businesses in Muslim communities — these are shaped by who reaches legislative office.
 
-Surveying these four objectives together, the Muslim who does not participate does not protect his religion — he surrenders his decision to others who do show up.
+Surveying these five objectives together, the Muslim who does not participate does not protect his religion — he surrenders his decision to others who do show up.
 
 ---
 
