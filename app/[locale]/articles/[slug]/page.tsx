@@ -458,8 +458,9 @@ function processInline(text: string, locale: string): ReactNode {
   let keyCounter = 0;
   let remaining = working;
 
-  // Regex to match: **bold**, [^N] footnote ref
-  const tokenRegex = /(\*\*[^*]+\*\*)|(\[\^(\w+)\])|(\([^)]*?٢٠[0-9]+م?\))/g;
+  // Regex to match: **bold**, [^N] footnote ref, parenthesized Arabic year,
+  // *italic* (single asterisks hugging the text, not part of ** or a word).
+  const tokenRegex = /(\*\*[^*]+\*\*)|(\[\^(\w+)\])|(\([^)]*?٢٠[0-9]+م?\))|((?<![*\p{L}\p{N}])\*(?![\s*])[^*\n]+?(?<![\s*])\*(?![*\p{L}\p{N}]))/gu;
 
   let lastIndex = 0;
   let match: RegExpExecArray | null;
@@ -493,6 +494,9 @@ function processInline(text: string, locale: string): ReactNode {
     } else if (match[4]) {
       // parenthesized year - just keep as text
       out.push(match[4]);
+    } else if (match[5]) {
+      // *italic*
+      out.push(<em key={`i-${keyCounter++}`}>{match[5].slice(1, -1)}</em>);
     }
 
     lastIndex = match.index + match[0].length;
