@@ -36,7 +36,7 @@ And in the call to those who have transgressed: ﴿قُلْ يَا عِبَاد�
 
 ### The Prophetic Witness
 
-The Prophet ﷺ says, in what he reports from his Lord: «أنا عند ظنّ عبدي بي، وأنا معه إذا ذكرني» ("I am as My servant thinks of Me, and I am with him when he remembers Me")[^1]. And he ﷺ said, three days before his death: «لا يموتنّ أحدُكم إلا وهو يُحسن الظنّ بالله عز وجل» ("Let none of you die except while thinking well of God, the Mighty and Majestic")[^2]. Thinking well of God (ḥusn al-ẓann) is thus a pillar of hope. The scholars stipulated that thinking well must be joined to action, otherwise it becomes delusion, and something similar was reported from al-Ḥasan al-Baṣrī in warning against the one who pleads good opinion of God while doing no deeds, a meaning well known in the books of asceticism (zuhd).
+The Prophet ﷺ says, in what he reports from his Lord: «أنا عند ظنّ عبدي بي، وأنا معه إذا ذكرني» ("I am as My servant thinks of Me, and I am with him when he remembers Me")[^1]. And he ﷺ said, three days before his death: «لا يموتنّ أحدُكم إلا وهو يُحسن الظنّ بالله عز وجل» ("Let none of you die except while thinking well of God, the Mighty and Majestic")[^2]. Thinking well of God (ḥusn al-ẓann) is thus a pillar of hope. The scholars stipulated that thinking well must be joined to action, otherwise it becomes delusion, and this is a meaning transmitted from the early generations (the salaf) in warning against the one who pleads good opinion of God while doing no deeds.
 
 ### A Maqāṣid Reading
 
@@ -72,6 +72,6 @@ The counsel of Yaʿqūb to his sons, "and do not despair of the rawḥ of God," 
 
 ---
 
-[^1]: Narrated by al-Bukhārī (7405) and Muslim (2675) from the ḥadīth of Abū Hurayrah, may God be pleased with him.
+[^1]: Narrated by Muslim (2675) with the wording «إذا ذكرني» ("when he remembers Me"), and by al-Bukhārī (7405) with the wording «حين يذكرني» ("when he remembers Me"), from the ḥadīth of Abū Hurayrah, may God be pleased with him.
 [^2]: Narrated by Muslim (2877) from the ḥadīth of Jābir, may God be pleased with him.
 [^3]: Narrated by Muslim (2755) from the ḥadīth of Abū Hurayrah, may God be pleased with him.

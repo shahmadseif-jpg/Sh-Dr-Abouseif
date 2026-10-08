@@ -36,7 +36,7 @@ Y en la llamada a los que se excedieron: ﴿قُلْ يَا عِبَادِيَ �
 
 ### El testimonio profético
 
-Dice el Profeta ﷺ en lo que transmite de su Señor: «أنا عند ظنّ عبدي بي، وأنا معه إذا ذكرني» («Yo estoy según la opinión que Mi siervo tiene de Mí, y estoy con él cuando Me recuerda»)[^1]. Y dijo ﷺ tres días antes de su muerte: «لا يموتنّ أحدُكم إلا وهو يُحسن الظنّ بالله عز وجل» («Que ninguno de vosotros muera sino pensando bien de Dios, el Poderoso y Majestuoso»)[^2]. Pensar bien de Dios (ḥusn al-ẓann) es, pues, un pilar de la esperanza. Los sabios establecieron como condición que el pensar bien vaya unido a la acción; de lo contrario se convierte en ilusión, y se transmitió algo semejante de al-Ḥasan al-Baṣrī como advertencia contra quien se excusa en la buena opinión de Dios mientras no obra, un sentido muy conocido en los libros de ascetismo (zuhd).
+Dice el Profeta ﷺ en lo que transmite de su Señor: «أنا عند ظنّ عبدي بي، وأنا معه إذا ذكرني» («Yo estoy según la opinión que Mi siervo tiene de Mí, y estoy con él cuando Me recuerda»)[^1]. Y dijo ﷺ tres días antes de su muerte: «لا يموتنّ أحدُكم إلا وهو يُحسن الظنّ بالله عز وجل» («Que ninguno de vosotros muera sino pensando bien de Dios, el Poderoso y Majestuoso»)[^2]. Pensar bien de Dios (ḥusn al-ẓann) es, pues, un pilar de la esperanza. Los sabios establecieron como condición que el pensar bien vaya unido a la acción; de lo contrario se convierte en ilusión, y es un sentido transmitido de los piadosos predecesores (los salaf) como advertencia contra quien se excusa en la buena opinión de Dios mientras no obra.
 
 ### Una lectura desde los propósitos (maqāṣid)
 
@@ -72,6 +72,6 @@ La recomendación de Yaʿqūb a sus hijos, «y no desesperéis del rawḥ de Dio
 
 ---
 
-[^1]: Lo transmitieron al-Bukhārī (7405) y Muslim (2675) del ḥadīth de Abū Hurayrah, que Dios esté complacido con él.
+[^1]: Lo transmitió Muslim (2675) con la formulación «إذا ذكرني» («cuando Me recuerda»), y al-Bukhārī (7405) con la formulación «حين يذكرني» («cuando Me recuerda»), del ḥadīth de Abū Hurayrah, que Dios esté complacido con él.
 [^2]: Lo transmitió Muslim (2877) del ḥadīth de Jābir, que Dios esté complacido con él.
 [^3]: Lo transmitió Muslim (2755) del ḥadīth de Abū Hurayrah, que Dios esté complacido con él.

@@ -74,6 +74,6 @@ El taʾwīl en el Corán es la respuesta a la pregunta: ¿a dónde va a parar es
 [^2]: Sobre la división de los sentidos del taʾwīl, véase: Ibn Taymiyyah, *Majmūʿ al-Fatāwā* (vol. 3, tratado sobre el sentido del taʾwīl), y *al-Iklīl fī al-Mutashābih wa-l-Taʾwīl*.
 [^3]: Lo transmitió al-Bukhārī (143) con la expresión «اللهم فقهه في الدين», y la adición «وعلمه التأويل» la transmitieron Aḥmad, Ibn Ḥibbān y al-Ḥākim por varias vías, y algunos sabios la consideraron auténtica. Es uno de los ḥadīths conocidos sobre el mérito de Ibn ʿAbbās, que Dios esté complacido con ambos.
 [^4]: Lo transmitieron al-Bukhārī (6983) y Muslim (2264) del ḥadīth de Anas, que Dios esté complacido con él; en el capítulo hay otras transmisiones con este sentido.
-[^5]: Está confirmado en el Ṣaḥīḥ de al-Bukhārī, del ḥadīth de Samurah ibn Jundab, que Dios esté complacido con él, en su largo ḥadīth sobre los sueños.
-[^6]: Lo transmitieron al-Bukhārī (6985) y Muslim (2261) del ḥadīth de Abū Saʿīd al-Khudrī, que Dios esté complacido con él.
+[^5]: Lo transmitió al-Bukhārī (7047; véase también 1386), del ḥadīth de Samurah ibn Jundab, que Dios esté complacido con él, en su largo ḥadīth sobre los sueños.
+[^6]: Lo transmitieron al-Bukhārī (6984, 7045) y Muslim (2261) del ḥadīth de Abū Saʿīd al-Khudrī, que Dios esté complacido con él.
 [^7]: Lo transmitieron al-Bukhārī (4905) y Muslim (2584) del ḥadīth de Jābir, que Dios esté complacido con él, con una expresión cercana a esta.

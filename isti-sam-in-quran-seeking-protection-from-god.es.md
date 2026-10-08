@@ -76,4 +76,4 @@ Una sola palabra, «fa-staʿṣama», condensó la escena de la firmeza: recuerd
 
 ---
 
-[^1]: Lo relatan al-Bukhārī (660) y Muslim (1031), del ḥadīz de Abū Hurayrah, que Dios esté complacido con él.
+[^1]: Transmitido por Muslim (1031), cuya es la formulación, y por al-Bukhārī (660, 1423) con una formulación similar, por Abū Hurayrah, que Dios esté complacido con él.

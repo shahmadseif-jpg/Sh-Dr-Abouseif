@@ -80,7 +80,7 @@ And God knows best; He is the One who grants success, and there is no lord but H
 [^2]: Ibn Fāris, *Muʿjam Maqāyīs al-Lugha*, entry «وقي».
 [^3]: A well-known report from Ubayy ibn Kaʿb explaining *taqwā* to ʿUmar ibn al-Khaṭṭāb, may God be pleased with them both, cited by a number of exegetes in their commentary on the beginning of Sūrat al-Baqarah, among them Ibn Kathīr in his *Tafsīr*.
 [^4]: Narrated by Muslim in his *Ṣaḥīḥ*, no. 2564, on the authority of Abū Hurayrah, may God be pleased with him.
-[^5]: Narrated by al-Tirmidhī, who said: a good (ḥasan) ḥadīth, on the authority of Abū Dharr and Muʿādh ibn Jabal, may God be pleased with them both.
+[^5]: Narrated by al-Tirmidhī, who said: a ḥasan ṣaḥīḥ ḥadīth, on the authority of Abū Dharr and Muʿādh ibn Jabal, may God be pleased with them both.
 [^أ]: Ibn Fāris, *Muʿjam Maqāyīs al-Lugha*, entry «خوف».
 [^ب]: al-Rāghib al-Aṣfahānī, *al-Mufradāt fī Gharīb al-Qur'ān*, entry «خشي».
 [^ج]: A definition attributed to the Tābiʿī Ṭalq ibn Ḥabīb, transmitted by Ibn al-Qayyim in *Madārij al-Sālikīn* and approved by a number of scholars for combining the positive act with the motive of the heart.

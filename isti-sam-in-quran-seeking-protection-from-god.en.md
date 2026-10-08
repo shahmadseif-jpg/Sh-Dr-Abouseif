@@ -76,4 +76,4 @@ A single word, «fa-staʿṣama», condensed the scene of steadfastness: remembr
 
 ---
 
-[^1]: Narrated by al-Bukhārī (660) and Muslim (1031), from the ḥadīth of Abū Hurayrah, may God be pleased with him.
+[^1]: Narrated by Muslim (1031), whose wording this is, and by al-Bukhārī (660, 1423) with similar wording, on the authority of Abū Hurayrah, may God be pleased with him.

@@ -80,7 +80,7 @@ Y Dios sabe más; Él es quien concede el éxito, y no hay otro señor sino Él.
 [^2]: Ibn Fāris, *Muʿjam Maqāyīs al-Lugha*, entrada «وقي».
 [^3]: Un relato muy conocido de Ubayy ibn Kaʿb explicando la *taqwā* a ʿUmar ibn al-Khaṭṭāb, que Dios esté complacido con ambos, citado por varios exégetas al comentar el comienzo de la sura al-Baqarah, entre ellos Ibn Kathīr en su *Tafsīr*.
 [^4]: Lo transmitió Muslim en su *Ṣaḥīḥ*, n.º 2564, de Abū Hurayra, que Dios esté complacido con él.
-[^5]: Lo transmitió al-Tirmidhī, quien dijo: hadiz bueno (ḥasan), de Abū Dharr y Muʿādh ibn Jabal, que Dios esté complacido con ambos.
+[^5]: Lo transmitió al-Tirmidhī, quien dijo: hadiz ḥasan ṣaḥīḥ, de Abū Dharr y Muʿādh ibn Jabal, que Dios esté complacido con ambos.
 [^أ]: Ibn Fāris, *Muʿjam Maqāyīs al-Lugha*, entrada «خوف».
 [^ب]: al-Rāghib al-Aṣfahānī, *al-Mufradāt fī Gharīb al-Qurʾān*, entrada «خشي».
 [^ج]: Definición atribuida al tābiʿī Ṭalq ibn Ḥabīb, transmitida por Ibn al-Qayyim en *Madārij al-Sālikīn* y aprobada por varios sabios por reunir el acto positivo con el móvil del corazón.

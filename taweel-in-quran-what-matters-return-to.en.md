@@ -74,6 +74,6 @@ Taʾwīl in the Qurʾān is the answer to the question: to what does this come? 
 [^2]: On the division of the meanings of taʾwīl, see: Ibn Taymiyyah, *Majmūʿ al-Fatāwā* (vol. 3, treatise on the meaning of taʾwīl), and *al-Iklīl fī al-Mutashābih wa-l-Taʾwīl*.
 [^3]: Narrated by al-Bukhārī (143) with the wording «اللهم فقهه في الدين», and the addition «وعلمه التأويل» was narrated by Aḥmad, Ibn Ḥibbān and al-Ḥākim through several chains, and some scholars deemed it sound. It is among the well-known ḥadīths on the merit of Ibn ʿAbbās, may God be pleased with them both.
 [^4]: Narrated by al-Bukhārī (6983) and Muslim (2264) from the ḥadīth of Anas, may God be pleased with him; there are other narrations on the subject with this meaning.
-[^5]: This is established in Ṣaḥīḥ al-Bukhārī from the ḥadīth of Samurah ibn Jundab, may God be pleased with him, in his long ḥadīth about dreams.
-[^6]: Narrated by al-Bukhārī (6985) and Muslim (2261) from the ḥadīth of Abū Saʿīd al-Khudrī, may God be pleased with him.
+[^5]: Narrated by al-Bukhārī (7047; see also 1386) from the ḥadīth of Samurah ibn Jundab, may God be pleased with him, in his long ḥadīth about dreams.
+[^6]: Narrated by al-Bukhārī (6984, 7045) and Muslim (2261) from the ḥadīth of Abū Saʿīd al-Khudrī, may God be pleased with him.
 [^7]: Narrated by al-Bukhārī (4905) and Muslim (2584) from the ḥadīth of Jābir, may God be pleased with him, in wording close to this.
