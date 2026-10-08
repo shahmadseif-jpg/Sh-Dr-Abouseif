@@ -1,9 +1,18 @@
 'use client';
 
-import { useTranslations } from 'next-intl';
+import { useTranslations, useLocale } from 'next-intl';
+import { Link } from '@/i18n/routing';
+
+const READ_MORE: Record<string, string> = {
+  ar: 'اقرأ المشروع كاملًا',
+  en: 'Read about the full project',
+  es: 'Conozca el proyecto completo',
+  ur: 'پورا منصوبہ پڑھیں',
+};
 
 export default function Mission() {
   const t = useTranslations('mission');
+  const locale = useLocale();
 
   const pillars = [
     { title: t('pillar_1_title'), desc: t('pillar_1_desc') },
@@ -24,6 +33,12 @@ export default function Mission() {
           <p className="text-base sm:text-lg text-navy-600 leading-relaxed">
             {t('body')}
           </p>
+          <Link
+            href="/project"
+            className="mt-6 inline-flex items-center px-5 py-2.5 border border-navy-200 text-navy-700 text-sm font-medium rounded-md hover:bg-navy-50 transition-colors no-underline"
+          >
+            {READ_MORE[locale] ?? READ_MORE.ar}
+          </Link>
         </div>
 
         <div className="mt-12 grid grid-cols-1 sm:grid-cols-3 gap-6">
