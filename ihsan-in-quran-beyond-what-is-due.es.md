@@ -4,54 +4,106 @@ locale: "es"
 slug: "ihsan-in-quran-beyond-what-is-due"
 ---
 
-Gabriel (la paz sea con él) preguntó al Profeta ﷺ, en la forma de un hombre no reconocido, sobre el Islam y él le respondió, luego sobre la fe (īmān) y él le respondió, luego le preguntó sobre el más alto de los tres rangos: «Infórmame sobre la excelencia (iḥsān)», y él ﷺ dijo: «Que adores a Dios como si Lo vieras, y si no Lo ves, ciertamente Él te ve»[^1]. El Profeta ﷺ no respondió sobre el iḥsān mencionando un acto adicional que se haga, sino con un estado de evocación [de la presencia de Dios] que acompaña cada acto. Y esto solo revela que el iḥsān en el balance de la revelación no es un ítem añadido a la lista de las obligaciones, sino una cualidad por la que todos los actos se elevan por encima de su límite mínimo.
+*El iḥsān no es un deber más añadido a la lista de las obligaciones, sino una cualidad que eleva todo acto por encima de su mínimo: dar más de lo debido y hacerlo con un corazón consciente de que Dios lo ve.*
 
-### Delimitación de la palabra y el recuento
+Por el Dr. Ahmed Muhammad Ali Abouseif, presidente de la American Imams Academy (AIA)
 
-La raíz «ḥ-s-n» aparece en el Corán ciento noventa y cuatro veces, en doce formas. Pero este gran número se distribuye en dos campos semánticos distintos: el campo del «ḥusn» como belleza o bien en una cosa o una recompensa —incluyendo «ḥasuna» (3 veces), «aḥsan» en el sentido de lo mejor y lo más bello (36 veces), «ḥusn» (13 veces), «ḥasan» (21 veces), «ḥasanāt» (3 veces), «ḥusnā» (17 veces), y «ḥasana» (28 veces)— todos los cuales describen la cualidad de la belleza o el bien en una cosa existente, no el acto del iḥsān en su sentido activo. En cuanto al campo que nos concierne aquí específicamente, son las formas del verbo de forma IV «aḥsana», que indica el acto voluntario y transitivo: el producir de bondad en un acto que el agente realiza hacia otro. Este campo incluye: veintiuna veces el verbo «aḥsana», doce veces el nombre «iḥsān», y treinta y nueve veces el participio activo «muḥsin/muḥsinūn/muḥsināt» —es decir, setenta y dos lugares que son el testimonio verbal directo del concepto de «iḥsān» como un acto activo, de un total de ciento noventa y cuatro lugares para la raíz en general.
+Gabriel (la paz sea con él) se presentó ante el Profeta ﷺ en forma de un hombre desconocido y le preguntó por el islam, y él respondió; luego por la fe, y respondió; y por último le preguntó por el más alto de los tres grados:
+
+«فأخبرني عن الإحسان»
+
+*«Háblame, pues, del iḥsān.»*
+
+Y él ﷺ contestó:
+
+«أَنْ تَعْبُدَ اللَّهَ كَأَنَّكَ تَرَاهُ، فَإِنْ لَمْ تَكُنْ تَرَاهُ فَإِنَّهُ يَرَاكَ»
+
+*«Que adores a Dios como si Lo vieras; y si no Lo ves, en verdad Él te ve.»*[^1]
+
+El Profeta ﷺ no respondió sobre el iḥsān nombrando un acto adicional que hubiera que realizar, sino describiendo un estado de presencia consciente que acompaña a todo acto. Esto basta para revelar que, en la balanza de la revelación, el iḥsān no es una partida más en la lista de las obligaciones, sino una cualidad que eleva todos los actos por encima de su límite mínimo.
+
+### Delimitación del término y recuento
+
+La raíz ḥ-s-n aparece en el Corán ciento noventa y cuatro veces, en doce formas. Esta gran cifra se reparte entre dos campos semánticos distintos. El primero es el de *ḥusn*, como belleza o bondad en una cosa o en una recompensa. Incluye *ḥasuna* (3 veces), *aḥsan* en el sentido de «lo mejor» y «lo más bello» (36), *ḥusn* (13), *ḥasan* (21), *ḥasanāt* (3), *ḥusnā* (17) y *ḥasana* (28). Todas ellas describen una cualidad de belleza o bondad en algo existente, no el acto del iḥsān en su sentido activo.
+
+El campo que aquí nos interesa son las formas del verbo de forma IV *aḥsana*, que denota un acto voluntario y transitivo: introducir bondad en lo que el agente hace hacia otro. Este campo comprende el verbo *aḥsana* (21 veces), el sustantivo *iḥsān* (12) y el participio activo *muḥsin/muḥsinūn/muḥsināt* (39). Son setenta y dos pasajes que dan testimonio verbal directo del iḥsān como acción activa, de entre las ciento noventa y cuatro apariciones de la raíz en su conjunto.
 
 ### La raíz lingüística: de la descripción al acto
 
-En el origen de la lengua, «ḥasuna» es un verbo intransitivo que describe la presencia de la belleza en la cosa misma: el rostro fue bello, el carácter fue bueno. Pero «aḥsana» —su hamza es la hamza de la transitividad que transforma el verbo intransitivo en uno transitivo: de «la cosa fue bella en sí misma» a «el agente hizo el acto bueno», es decir, lo hizo bueno por su propia acción. Esta transición morfológica precisa —de la descripción estática al acto transitivo— es la clave para entender la diferencia entre «al-ḥasan» (la cosa bella en sí misma) y «al-iḥsān» (el acto por el que el agente hace el bien a otro o en su obra), y es la diferencia que hace que este artículo se ocupe del segundo campo y no del primero.
+En el origen de la lengua, *ḥasuna* es un verbo intransitivo que describe la belleza presente en la cosa misma: el rostro era hermoso, el carácter era bueno. La *hamza* de *aḥsana*, en cambio, es la *hamza* de transitividad, que convierte el verbo intransitivo en transitivo. Se pasa de «la cosa era buena en sí misma» a «el agente hizo bueno el acto», es decir, lo hizo bueno con su propia obra. Este sutil tránsito morfológico, de la descripción estática a la acción transitiva, es la clave de la diferencia entre *al-ḥasan* (lo bello en sí mismo) y *al-iḥsān* (la acción por la cual el agente hace el bien a otro o en su propio quehacer). Es también la razón por la que este artículo se ocupa del segundo campo y no del primero.
 
-### La estructura central: más allá de lo debido obligatorio
+### La estructura central: más allá del derecho obligatorio
 
-El Corán define el iḥsān implícitamente cuando lo empareja con la justicia (ʿadl) en una sola aleya considerada entre las más comprehensivas del Corán: «Ciertamente, Dios ordena la justicia, la excelencia (iḥsān) y el dar a los parientes» [16:90]. Un artículo anterior de esta serie detalló la diferencia entre el qisṭ y el ʿadl como un balance externo y uno interno; y el iḥsān aquí añade una tercera capa por encima de ambos: pues la justicia, en la definición de la mayoría de los sabios, es la reciprocidad con lo igual —que des a todo poseedor de un derecho su derecho, ni más ni menos; pero el iḥsān es la generosidad que excede el derecho obligatorio, que des más de lo que te es obligatorio o tomes menos de lo que es tu derecho. Así, si la justicia es el mínimo por debajo del cual no es lícito descender, entonces el iḥsān es el horizonte que no tiene límite superior. Y por esto el iḥsān siempre viene en el Corán emparejado con un lugar en el que el agente excede lo que le habría bastado hacer si se hubiera contentado con la justicia sola.
+El Corán define el iḥsān de manera implícita cuando lo empareja con la justicia en una sola aleya, tenida por una de las más comprehensivas del Libro:
 
-### Un modelo recurrente: el iḥsān directamente tras el derecho de Dios
+﴿إِنَّ اللَّهَ يَأْمُرُ بِالْعَدْلِ وَالْإِحْسَانِ وَإِيتَاءِ ذِي الْقُرْبَىٰ﴾ (16:90)
 
-De lo más asombroso que revela el rastreo de la palabra es que la orden de la excelencia hacia los padres se repite en el Corán cinco veces en una forma casi literal, y siempre en el mismo lugar: directamente tras la orden de afirmar la unicidad de Dios, sin intervalo: «Y adorad a Dios y no asociéis nada con Él, y [mostrad] a los padres buen trato (iḥsānan)» [4:36, y en casi la misma forma 2:83, 6:151, 17:23, 46:15]. El Corán no dijo «luego a los padres buen trato» con un intervalo temporal o de rango, sino que conjuntó la excelencia hacia los padres con el derecho de Dios con la conjunción directa «y», como si concediera a este derecho humano el segundo lugar tras el derecho del Creador sin intermediario. Y esta recurrencia literal cinco veces en cinco suras diferentes no es una coincidencia estilística, sino un énfasis deliberado de que la excelencia hacia los padres no es una puerta secundaria de las puertas de la rectitud, sino la extensión directa de la afirmación de la unicidad de Dios en el campo de las relaciones humanas.
+*«En verdad, Dios ordena la justicia, el iḥsān y la generosidad con los parientes.»*
 
-### Otro modelo: la condición de la sumisión sana
+Un artículo anterior de esta serie explicó la diferencia entre *qisṭ* y *ʿadl* como una balanza externa y otra interna. El iḥsān añade una tercera capa por encima de ambas. La justicia, en la definición de la mayoría de los sabios, es la reciprocidad en igualdad: dar a cada titular de un derecho su derecho, ni más ni menos. El iḥsān es la generosidad que excede el derecho obligatorio: dar más de lo que estás obligado a dar, o tomar menos de lo que te corresponde. Si la justicia es el mínimo por debajo del cual no se puede descender, el iḥsān es el horizonte que no tiene límite superior. Por eso el iḥsān aparece siempre en el Corán allí donde el agente va más allá de lo que le habría bastado si se hubiera contentado con la justicia sola.
 
-El Corán vincula el iḥsān con la solidez de la sumisión a Dios en tres lugares en una forma cercana: «Sí, quien somete su rostro a Dios siendo hacedor del bien (muḥsin) —tendrá su recompensa junto a su Señor» [2:112, y en el mismo significado 4:125, 31:22]. Así, la aleya no se contenta con la condición «somete su rostro a Dios», sino que le añade una calificación: «siendo hacedor del bien» —como si la sumisión desnuda, desprovista del iḥsān en el desempeño, no alcanzara su perfección requerida. Esto concuerda enteramente con lo que vino en el hadiz de Gabriel: pues el Islam son pilares que se realizan, y la fe son credos a los que se asiente, pero el iḥsān es el espíritu que fluye por la realización de los pilares y el asentimiento a los credos juntos, haciendo de la adoración una evocación [de la presencia de Dios], no una mera repetición.
+### Un patrón recurrente: el iḥsān inmediatamente después del derecho de Dios
 
-### Un tercer modelo: una vía que se repite a través de los profetas
+Una de las cosas más llamativas que revela el rastreo del término es que el mandato del iḥsān hacia los padres se repite cinco veces en el Corán con una formulación casi idéntica, y siempre en la misma posición: inmediatamente después del mandato de afirmar la unicidad de Dios, sin nada entre ambos:
 
-El Corán sella en Sūrat al-Ṣāffāt cinco historias proféticas consecutivas —Noé, Abraham, Moisés, Aarón y Elías— con el mismo estribillo literalmente: «Ciertamente, así recompensamos a los hacedores del bien (al-muḥsinīn)» [37:80, 105, 110, 121, 131]. Cinco historias enteramente diferentes en sus detalles —un diluvio, un sacrificio, la división de un mar— reunidas por un solo sello que no cambia: que la recompensa del iḥsān es una vía divina fija a través de todos los profetas, no un trato particular de un profeta específico. Y en esto hay una indicación de que el iḥsān no es una estación particular de la élite de la élite, sino un criterio fijo por el que es recompensado todo el que lo alcanza, de un profeta al último de la gente en posición.
+﴿وَاعْبُدُوا اللَّهَ وَلَا تُشْرِكُوا بِهِ شَيْئًا وَبِالْوَالِدَيْنِ إِحْسَانًا﴾ (4:36)
 
-### Un cuarto modelo: ¿es la recompensa del bien sino el bien?
+*«Adorad a Dios, no Le asociéis nada y sed buenos (iḥsān) con los padres.»*
 
-Y en Sūrat al-Raḥmān, tras la sucesión de bendiciones que la sura enumeró, viene una aleya corta a resumir toda la lógica de la recompensa: «¿Es la recompensa del bien (iḥsān) sino el bien (iḥsān)?» [55:60]. Y el contexto en que vino esta aleya es un contexto ultraterreno: la recompensa de quien hizo el bien en este mundo es un Paraíso en el que se le trata bien. Pero los sabios no se detuvieron en este significado solo; más bien, extrajeron de ella una regla ética general válida para todo trato humano: que quien te hace el bien merece de ti un bien que excede la mera reciprocidad con lo igual. Y esto añade una capa a la estructura central que este artículo ha establecido: pues si el iḥsān en su esencia es una generosidad que excede lo obligatorio, entonces reciprocarlo con iḥsān es otra generosidad que excede lo obligatorio también; así, aquel a quien se le hace el bien no se contenta con un agradecimiento que iguale lo que recibió, sino que lo excede, de modo que el movimiento de la generosidad continúa sin detenerse en el límite de la ecuación.
+La misma fórmula figura, casi en los mismos términos, en 2:83, 6:151, 17:23 y 46:15. El Corán no dice «luego, a los padres, iḥsān», con un intervalo de tiempo o de rango. Une el iḥsān hacia los padres al derecho de Dios mediante la conjunción directa «y», como si concediera a este derecho humano el segundo lugar inmediatamente después del derecho del Creador, sin intermediario. Esta repetición casi literal en cinco suras distintas no es un azar estilístico. Es un énfasis deliberado: el iḥsān hacia los padres no es una estancia menor entre las muchas estancias de la rectitud, sino la prolongación directa de la unicidad de Dios en el ámbito de las relaciones humanas.
+
+### Otro patrón: la condición de la sumisión sana
+
+El Corán vincula el iḥsān con la solidez de la sumisión a Dios en tres lugares, con formulaciones muy próximas:
+
+﴿بَلَىٰ مَنْ أَسْلَمَ وَجْهَهُ لِلَّهِ وَهُوَ مُحْسِنٌ فَلَهُ أَجْرُهُ عِنْدَ رَبِّهِ﴾ (2:112)
+
+*«Sí: quien somete su rostro a Dios siendo un hacedor del bien (muḥsin) tendrá su recompensa junto a su Señor.»*
+
+El mismo sentido figura en 4:125 y 31:22. La aleya no se contenta con la condición «somete su rostro a Dios»: le añade una cualificación, «siendo un hacedor del bien». Es como si la sumisión desnuda, vacía de iḥsān en su cumplimiento, no alcanzara la perfección que se le exige. Esto concuerda plenamente con el hadiz de Gabriel. El islam son pilares que se cumplen y la fe son credos que se afirman; el iḥsān es el espíritu que recorre tanto el cumplimiento de los pilares como la afirmación de los credos, y que hace de la adoración un acto de presencia y no una mera repetición.
+
+### Un tercer patrón: una vía que se repite a lo largo de los profetas
+
+En la sura de al-Ṣāffāt, el Corán cierra una serie de narraciones proféticas con un mismo estribillo:
+
+﴿إِنَّا كَذَٰلِكَ نَجْزِي الْمُحْسِنِينَ﴾ (37:80, 105, 110, 121, 131)
+
+*«En verdad, así recompensamos a los hacedores del bien.»*
+
+Estas narraciones (Noé, Abraham, Moisés, Aarón y Elías) difieren por completo en sus detalles: un diluvio, un sacrificio, la separación de un mar. Sin embargo, quedan reunidas bajo un solo sello inmutable. La recompensa del iḥsān es una vía divina establecida que recorre a todos los profetas, no un trato peculiar de alguno de ellos. Hay en esto una insinuación de que el iḥsān no es una estación reservada a la élite de la élite, sino una medida fija con la que se recompensa a todo el que la alcanza, desde un profeta hasta el más humilde de los hombres en rango.
+
+### Un cuarto patrón: ¿es la recompensa del bien algo distinto del bien?
+
+En la sura de al-Raḥmān, tras la sucesión de bendiciones que la sura enumera, una aleya breve resume toda la lógica de la retribución:
+
+﴿هَلْ جَزَاءُ الْإِحْسَانِ إِلَّا الْإِحْسَانُ﴾ (55:60)
+
+*«¿Acaso la recompensa del iḥsān es otra cosa que el iḥsān?»*
+
+El contexto de esta aleya es el más allá: la recompensa de quien hizo el bien en este mundo es un Jardín en el que se le hará el bien. Pero los sabios no se detuvieron en ese sentido. Extrajeron de ella una regla ética general válida para todo trato humano: quien te hace un bien merece de ti un bien que vaya más allá de la mera reciprocidad en igualdad. Esto añade una capa a la estructura central aquí establecida. Si el iḥsān es en esencia una generosidad que excede lo obligatorio, corresponderle con iḥsān es otra generosidad que también excede lo obligatorio. Aquel a quien se hizo el bien no se contenta con un agradecimiento igual a lo recibido, sino que lo supera, de modo que el movimiento de la generosidad continúa y no se detiene en la línea de la equivalencia.
 
 ### El testimonio profético
 
-El hadiz de Gabriel con que se abrió este artículo fue narrado por ʿUmar ibn al-Jaṭṭāb (que Dios esté complacido con él), y registrado por Muslim en su Ṣaḥīḥ (n.º 8)[^1]. Y los comentaristas del hadiz añaden que el iḥsān en él tiene dos grados: el primero es la evocación de la visión del corazón de Dios, por la que aumentan la sinceridad de la obra y su precisión, y el segundo es la evocación del conocimiento de Dios de Su ver al siervo, lo cual lo impele a la auto-vigilancia y al pudor ante Él. Y ambos grados vierten en el mismísimo significado que reveló el análisis lingüístico: que el iḥsān no es un acto adicional que se haga, sino una cualidad por la que los actos que ya existen se elevan por encima de su límite mínimo.
+El hadiz de Gabriel con el que se abrió este artículo fue transmitido por ʿUmar ibn al-Jaṭṭāb (que Dios esté complacido con él) y recogido por Muslim en su *Ṣaḥīḥ* (n.º 8).[^1] Los comentaristas añaden que el iḥsān en este hadiz tiene dos grados. El primero es evocar la visión de Dios por parte del corazón, lo que profundiza la sinceridad de la obra y el esmero con que se hace. El segundo es evocar el conocimiento de Dios, que ve a Su siervo, lo cual mueve a este al examen de sí y al recato ante Él. Ambos grados desembocan en el mismo sentido que ha puesto de manifiesto el análisis lingüístico: el iḥsān no es un acto adicional que hubiera que realizar, sino una cualidad que eleva los actos ya existentes por encima de su límite mínimo.
 
-### Una lectura orientada a los fines (maqāṣidī)
+### Una lectura desde los objetivos superiores (*maqāṣid*)
 
-Un número de sabios sostiene, al tratar la aleya [16:90], que el orden de las tres virtudes en ella —la justicia, luego el iḥsān, luego el dar a los parientes— es un orden ascendente deliberado: la justicia es un mínimo obligatorio cuyo abandonador no es excusado, el iḥsān es una generosidad cuyo hacedor es recompensado y cuyo abandonador no es castigado, y el dar a los parientes —que es mantener los lazos de parentesco con bondad sin recompensa— es el más alto de los tres porque es un dar que no espera ni recompensa ni siquiera elogio. Y sobre este orden, el iḥsān es una puerta intermedia entre lo que todo legalmente responsable está obligado a hacer y los más altos rangos de la generosidad, lo cual es lo que explica la frecuencia de su aparición en contextos variados: excelencia hacia los padres, y hacia los parientes, los huérfanos y los necesitados [4:36], y hacia quien te agravió («y los que perdonan a la gente», [3:134]), e incluso en los detalles procesales más precisos como el divorcio («así, retención con bondad o liberación con excelencia (iḥsān)», [2:229]). Así, el iḥsān, en el sistema coránico, no es un solo campo sino un criterio de desempeño aplicado a cada campo en el que puedan concebirse un mínimo obligatorio y un horizonte superior posible.
+Varios sabios sostienen, al tratar la aleya 16:90, que el orden de las tres virtudes que contiene (justicia, luego iḥsān, luego generosidad con los parientes) es un ascenso deliberado. La justicia es un mínimo obligatorio, y quien la abandona no tiene excusa. El iḥsān es una generosidad cuyo autor es recompensado y cuyo omisor no es castigado. La generosidad con los parientes, es decir, mantener los lazos de parentesco con bondad y sin contrapartida, es la más alta de las tres, porque es un dar que no espera recompensa ni siquiera elogio.
 
-### La dimensión aplicada contemporánea
+Según este orden, el iḥsān es una puerta intermedia entre lo exigido a todo responsable y los más altos grados de la generosidad. Eso explica su frecuente aparición en contextos variados: el iḥsān hacia los padres, los parientes, los huérfanos y los necesitados (4:36); hacia quien te ha agraviado («y los que perdonan a los hombres», 3:134); e incluso en los detalles procesales más finos, como el divorcio («o bien retenerlas con bondad o dejarlas ir con iḥsān», 2:229). En el esquema coránico, pues, el iḥsān no es un campo único, sino un criterio de desempeño que se aplica a todo ámbito en el que quepa concebir un mínimo obligatorio y un horizonte superior posible.
 
-Muchos hoy confunden «realizar la obligación» con «la excelencia en ella», suponiendo que cumplir el mínimo de sus responsabilidades —hacia sus padres, o su trabajo, o quienes están bajo su cuidado— es suficiente para descargar la conciencia. Pero las cinco aleyas que emparejan el iḥsān con los padres directamente tras la afirmación de la unicidad de Dios recuerdan que hay una diferencia real entre quien visita a sus padres por virtud de la obligación social y quien les hace el bien más allá de lo que se le pide; el primero es justo dentro de los límites de la obligación, y el segundo es un hacedor del bien en un horizonte sin techo. Y en el ambiente del trabajo, la definición del iḥsān como «más allá de lo debido» sirve como un criterio práctico para distinguir entre un empleado que realiza lo que se le requiere literalmente y otro que hace su desempeño más allá del texto de la descripción del puesto. Y el hadiz de Gabriel añade una dimensión de la que el desempeño externo solo no prescinde: que en cada acto —sea obligatorio o generoso— se evoque que Dios lo ve, pues ese es el espíritu que hace del iḥsān iḥsān y no una mera precisión técnica sin una evocación del corazón.
+### La aplicación contemporánea
 
-Y en las relaciones humanas cotidianas, la aleya «¿es la recompensa del bien sino el bien?» ofrece un balance diferente del balance común de «devolver el favor», que a menudo se contenta con igualar el acto con su similar. Pues a quien te hizo una bondad, basta en la lógica de la justicia que le devuelvas una bondad que la iguale; pero la lógica del iḥsān llama a excederla, no a meramente equilibrarla. Y esto explica por qué el iḥsān no se menciona en el Corán sino en contextos en los que se espera que el agente se contente con el mínimo: los que perdonan a la gente, en lugar de tomar represalias contra ellos en especie; y el que retiene con bondad o libera con excelencia, en lugar de divorciarse con los menos derechos posibles; y padres a quienes el hijo ha realizado sus derechos básicos, de modo que se le pide que los exceda.
+Muchos confunden hoy «cumplir la obligación» con «la excelencia en ella». Suponen que cubrir el mínimo de sus deberes hacia los padres, el trabajo o las personas a su cargo basta para dejar saldadas sus cuentas. Las cinco aleyas que sitúan el iḥsān hacia los padres inmediatamente después de la afirmación de la unicidad de Dios nos recuerdan que hay una diferencia real entre quien visita a sus padres por deber social y quien les hace el bien más allá de lo que se le pide. El primero es justo dentro de los límites de la obligación; el segundo es un hacedor del bien en un horizonte sin techo.
+
+En el ámbito laboral, la definición del iḥsān como «más allá de lo debido» ofrece una medida práctica para distinguir al empleado que cumple exactamente lo que se le exige del que realiza su tarea muy por encima de la letra de su descripción de puesto. El hadiz de Gabriel añade una dimensión que el desempeño exterior por sí solo no puede dar: en todo acto, sea obligatorio o espontáneo, se mantiene presente la conciencia de que Dios lo ve. Ese es el espíritu que hace del iḥsān lo que es, y no un mero pulido técnico sin presencia del corazón.
+
+En las relaciones humanas cotidianas, la aleya «¿Acaso la recompensa del iḥsān es otra cosa que el iḥsān?» ofrece una escala distinta de la habitual de «devolver el favor», que a menudo se da por satisfecha con igualar la acción con su semejante. A quien te ha hecho una bondad, la lógica de la justicia queda satisfecha si le devuelves una bondad igual. La lógica del iḥsān te llama a superarla, no solo a equilibrarla. Por eso el Corán habla del iḥsān precisamente en contextos donde cabría esperar que el agente se conformase con el mínimo: quienes perdonan a los hombres en lugar de exigir una retribución idéntica; quien retiene con bondad o deja ir con iḥsān en lugar de divorciarse con los menores derechos posibles; y los padres a quienes el hijo ya ha satisfecho sus derechos elementales y de quien, aun así, se espera más.
 
 ### Conclusión
 
-De la pregunta de Gabriel sobre el más alto de los tres rangos, a una aleya que se repite cinco veces añadiendo a los padres al derecho de Dios directamente, a un solo estribillo que sella cinco historias proféticas diferentes, el Corán dibuja para el iḥsān un solo significado que no cambia: un desempeño que excede el límite obligatorio, con un corazón que evoca que aquel a quien se le hace el acto lo ve antes de que lo vea nadie más. Y Dios, el Altísimo, es quien mejor sabe; Él es el Protector del éxito.
+Desde la pregunta de Gabriel sobre el más alto de los tres grados, pasando por un mandato repetido cinco veces que une a los padres directamente al derecho de Dios, hasta un único estribillo que sella una serie de narraciones proféticas, el Corán traza para el iḥsān un único sentido inmutable: un desempeño que va más allá del límite obligatorio, ofrecido por un corazón consciente de que Aquel para quien se hace lo ve antes que nadie. Y Dios, el Altísimo, es quien mejor sabe; Él es el Protector de todo éxito.
 
 ---
 
-[^1]: Narrado por Muslim en su Ṣaḥīḥ, n.º 8, por vía de ʿUmar ibn al-Jaṭṭāb (que Dios esté complacido con él), en el famoso hadiz de Gabriel.
+[^1]: Transmitido por Muslim en su *Ṣaḥīḥ*, n.º 8, por vía de ʿUmar ibn al-Jaṭṭāb (que Dios esté complacido con él), en el conocido hadiz de Gabriel.

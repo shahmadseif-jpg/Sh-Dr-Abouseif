@@ -4,73 +4,147 @@ locale: "en"
 slug: "hikmah-in-quran-a-gift-that-restrains-ignorance"
 ---
 
-The Qurʾan mentions in Sūrat Luqmān a gift that God granted to a man who was neither a prophet nor a king: "And We had certainly given Luqmān wisdom (al-ḥikmah), [saying]: Be grateful to God" [31:12]. And the Qurʾan did not follow this gift with a description of theoretical knowledge or a passing acquaintance, but with a single practical counsel: that he be grateful to God. Then the sura opens a window onto Luqmān's counsels to his son, and behold, they are all of this sort: practical stances, not abstract theories. This pairing between "wisdom" and a specific practical stance — gratitude — is the entryway with which this article opens the concept of wisdom in the Qurʾan.
+*In the Qurʾan, wisdom is not an invention of human cleverness but a gift from God: a bridle that holds its bearer back from the headlong rush of ignorance, and whose worth is complete only when it brings the truth to its proper place.*
 
-### Delimiting the word and the count
+By Dr. Ahmed Muhammad Ali Abouseif, President of the American Imams Academy (AIA)
 
-The root "ḥ-k-m" occurs in the Qurʾan two hundred and ten times, in thirteen forms, and it is among the most frequently occurring Qurʾanic roots. But this large number is distributed over entirely distinct semantic fields: the field of "al-ḥukm" in the sense of judgment and adjudication between people (the verb "ḥakama" occurring forty-five times, the noun "ḥukm" occurring thirty times, and the active participle "ḥākim/ḥukkām" occurring six times); the field of "al-Ḥakīm" as a name of the beautiful names of God or a description of the Qurʾan itself (occurring ninety-seven times, the most frequent in the whole root, often paired with "ʿAzīz" [Mighty] or "ʿAlīm" [Knowing]); and the field of "al-muḥkam" in the sense of the well-fashioned, clear in signification, describing the verses of the Qurʾan (twice). As for the field that concerns us in this article, it is the noun "al-ḥikmah" specifically, which occurs only twenty times out of two hundred and ten — and it is the direct verbal witness for wisdom as a virtue granted to a human being, entirely distinct from the field of adjudication and judgment which is an independent juristic and political concept with its own chapter.
+In Sūrat Luqmān the Qurʾan recalls a gift that God bestowed on a man who was neither a prophet nor a king:
 
-### The linguistic root: from the bridle of the beast to the bridle of the intellect
+﴿وَلَقَدْ آتَيْنَا لُقْمَانَ الْحِكْمَةَ أَنِ اشْكُرْ لِلَّهِ﴾ (31:12)
 
-Ibn Fāris mentions in *Maqāyīs al-Lughah* that the origin of the ḥāʾ, the kāf, and the mīm is one, which is "prevention"; and from that the "ḥakamah of the beast" — which is the piece of the bridle placed in the mouth of the horse — was named by this name because it prevents it from bolting; one says "I bridled the beast (ḥakamtu al-dābbah)" when you place the ḥakamah upon it and thus prevent it. And he mentions that the Arabs used the same verb for a metaphorical meaning, saying "I restrained the fool (ḥakamtu al-safīh)," that is, I prevented him from his foolishness and took hold of his hand. Then he seals it by saying: "And wisdom (ḥikmah) is from this, because it prevents from ignorance"[^1]. So wisdom, then, in its linguistic origin, is not a mere knowledge or information, but a restraining power resembling the bridle of the beast: just as the bridle prevents the horse from bolting and blind rushing, so wisdom prevents its possessor from acting with ignorance, recklessness, or an uncalculated impulse.
+*“And We certainly gave Luqmān wisdom: ‘Be grateful to God.’”*
 
-### Wisdom is hitting the truth, not merely knowing it
+The Qurʾan does not follow this gift with a portrait of theoretical learning or passing familiarity, but with a single practical charge: that he give thanks to God. The sura then opens a window onto Luqmān's counsels to his son, and they prove to be of the same kind: concrete stances rather than abstract theories. This pairing of “wisdom” with one specific practical posture, gratitude, is the doorway through which this article enters the Qurʾanic concept of wisdom.
 
-Al-Rāghib al-Aṣfahānī, in *al-Mufradāt fī Gharīb al-Qurʾan*, formulated a comprehensive definition of wisdom consistent with its linguistic origin that just passed, saying that it is "hitting the truth by knowledge and intellect," and detailed that wisdom from God is "the knowledge of things and their bringing into existence at the utmost of perfection," and from man is "the knowledge of existents and the doing of good deeds"[^2]. And the word "hitting (iṣābah)" here is deliberate, not superfluous: for hitting entails a target that is hit, that is, a correct place whose attainment is sought, not the mere theoretical possession of the correct information. For a person may know the truth and not hit with it its appropriate place, so he says it at the wrong time or does it in the wrong way, so he misses the hitting even if he hit the knowledge. And this accords entirely with the image of the bridle: for the bridle does not prevent the horse from movement, but directs its movement to where it ought to go; and likewise wisdom does not prevent its possessor from knowledge, but directs his knowledge to where it hits rather than where it misses.
+### Delimiting the Word and Counting Its Occurrences
 
-### The central structure: a gift, not a self-attained effort
+The root ḥ-k-m occurs in the Qurʾan two hundred and ten times, in thirteen forms, which makes it one of the most frequent roots in the Book. Yet this large number is spread across semantic fields that are entirely distinct. There is the field of *al-ḥukm*, meaning judgment and adjudication between people: the verb *ḥakama* occurs forty-five times, the noun *ḥukm* thirty times, and the active participle *ḥākim/ḥukkām* six times. There is the field of *al-Ḥakīm*, whether as one of God's Most Beautiful Names or as a description of the Qurʾan itself; it occurs ninety-seven times, the most frequent form in the whole root, and is often joined to *ʿAzīz* (Almighty) or *ʿAlīm* (All-Knowing). And there is the field of *al-muḥkam*, the well-wrought and plainly meaningful, which describes the verses of the Qurʾan (twice). The field that concerns us here is the noun *al-ḥikmah* in particular, which occurs only twenty times out of the two hundred and ten. It is the direct verbal witness to wisdom as a virtue granted to a human being, and is quite distinct from the field of judgment and adjudication, which is an independent juristic and political concept with a chapter of its own.
 
-And the clearest thing that distinguishes the Qurʾan's use of the word "al-ḥikmah" is that it always links it to the act of divine giving, not to self-attained effort or the accumulation of experience alone: "He gives wisdom to whom He wills, and whoever is given wisdom has certainly been given much good" [2:269]. For the verb recurring with "al-ḥikmah" in the Qurʾan is "gave (ātā)" and "taught (ʿallama)," not "acquired" or "learned by himself." And this departs from a common conception that sees wisdom as the fruit of the accumulation of experiences alone; for the Qurʾan does not deny that experience has an effect, but insists that the essence of wisdom is a Lordly gift that can be granted to a youth who has not experienced life long, as it was granted to Yaḥyā (peace be upon him) while he was a boy: "O Yaḥyā, take the Scripture with strength. And We gave him judgment [while yet] a boy" [19:12], or to Solomon while he was young in the case of the crop and the sheep [21:78–79], in which his father David did not grasp it with the same understanding despite his precedence in age.
+### The Linguistic Root: From the Bridle of a Mount to the Bridle of the Mind
 
-### A recurrent model: wisdom alongside the Book
+Ibn Fāris observes in *Maqāyīs al-Lughah* that the letters ḥāʾ, kāf and mīm share a single origin, which is “restraint.” From this, he says, the *ḥakamah* of a beast, the part of the bridle placed in a horse's mouth, took its name, because it holds the animal back from bolting. One says *ḥakamtu al-dābbah* when one fits the *ḥakamah* to the animal and so restrains it. The Arabs also used the same verb in a figurative sense, saying *ḥakamtu al-safīh*, “I restrained the fool,” meaning that one held him back from his folly and took him firmly by the hand. He then concludes: “And *ḥikmah* is from this, for it restrains from ignorance.”[^1]
 
-And among the clearest patterns in the distribution of the word is that ten of twenty places — exactly half the occurrences — pair "wisdom" with "the Book" in a nearly fixed phrase: "teaching them the Book and wisdom" [2:129, and in the same meaning 2:151, 2:231, 3:48, 3:81, 4:54, 4:113, 5:110, 33:34, 62:2]. So wisdom, in this recurrent pattern, is not mentioned alone, but always paired with the revealed revelation, as though the Qurʾan establishes that true wisdom is inseparable from the knowledge of the Book, even if not identical to it; for the Book is a text that is recited, and wisdom is an understanding that is granted for applying that text to the changing reality of life.
+In its linguistic origin, then, wisdom is not mere knowledge or information. It is a restraining power, like the bridle of a mount. As the bridle keeps the horse from bolting and charging blindly, so wisdom keeps its possessor from acting in ignorance, in recklessness, or on an impulse he has not weighed.
 
-### Another model: wisdom is a method of calling, not merely content
+### Wisdom Is Hitting Upon the Truth, Not Merely Knowing It
 
-And wisdom in the Qurʾan is not confined to being a knowledge its possessor carries, but extends to describe the method of conveying that knowledge to others: "Call to the way of your Lord with wisdom and good instruction" [16:125]. For the verse does not content itself with commanding calling to the truth, but qualifies it with a specific method: that the correct word be placed in its appropriate place, in the appropriate measure, for the appropriate listener. And this accords with the linguistic meaning this article established: for just as the bridle prevents the horse from blind rushing, so wisdom prevents the caller from delivering the truth in a way that repels rather than draws near, thus restraining his impulse by what suits the occasion.
+In *al-Mufradāt fī Gharīb al-Qurʾan*, al-Rāghib al-Aṣfahānī gave a comprehensive definition of wisdom that accords with the linguistic root just described. It is, he says, “hitting upon the truth through knowledge and intellect.” He adds that wisdom, when ascribed to God, is “knowledge of things and bringing them into being in the utmost perfection,” and when ascribed to man, “knowledge of existing things and the doing of good deeds.”[^2]
 
-### A third model: two distinct human models of wisdom
+The word “hitting” (*iṣābah*) is deliberate, not superfluous. To hit implies a mark to be struck, a right place that one aims to reach, and not merely the theoretical possession of correct information. A person may know the truth and yet fail to hit with it the place that suits it: he speaks it at the wrong time or does it in the wrong way, and so misses the mark though he has grasped the knowledge. All this agrees with the image of the bridle. The bridle does not forbid the horse to move; it directs its movement toward where it ought to go. In the same way, wisdom does not forbid its possessor to know; it directs his knowledge toward the place where it will strike true rather than go astray.
 
-The Qurʾan presents two human models of those given wisdom, entirely different in their standing: David (peace be upon him), the prophet who was given "decisive speech" [38:20], that is, the ability of decisive judgment between disputants; and Luqmān, the righteous man who was not a prophet, who was given a wisdom that manifested in educational advice to his son, not in judgment between contenders. And this diversity in the models of wisdom discloses that it is not exclusive to the standing of prophethood or judgment, but a gift that can manifest in multiple arenas: a just judgment, or a wise upbringing, or advice in its place, according to the standing of its possessor and his responsibility.
+### The Central Structure: A Gift, Not a Self-Won Achievement
 
-### A fourth model: a wisdom the warner alone cannot compel
+What most clearly distinguishes the Qurʾan's use of the word *al-ḥikmah* is that it always ties it to an act of divine giving, never to personal striving or to the accumulation of experience alone:
 
-And in Sūrat al-Qamar, after a series of scenes of the nations that denied their messengers and so were destroyed, the verses seal with the words of God: "Extensive wisdom — but warnings avail not" [54:5]. So wisdom here is a description of the Qurʾan itself and of the method of warning it carries: a wisdom that reached its utmost in clarity and elucidation, and yet did not avail a people who insisted on turning away. And in this is an important reminder: that wisdom, however great its perfection in itself, does not impose itself by force upon one who has closed his heart to accepting it; for it is a gift that is offered, not imposed.
+﴿يُؤْتِي الْحِكْمَةَ مَنْ يَشَاءُ وَمَنْ يُؤْتَ الْحِكْمَةَ فَقَدْ أُوتِيَ خَيْرًا كَثِيرًا﴾ (2:269)
 
-### "Leave him, and pour a bucket of water over his urine"
+*“He grants wisdom to whom He wills, and whoever is granted wisdom has been granted much good.”*
 
-And among the clearest places of applying the words of God "Call to the way of your Lord with wisdom" in the prophetic biography is what Abū Hurayrah (may God be pleased with him) narrated, that a bedouin urinated in the mosque, and the people rose to fall upon him, so the Prophet ﷺ said: "Leave him, and pour over his urine a bucket of water, for you were sent only to make things easy, and you were not sent to make things difficult"[^3]. The bedouin was ignorant not only of the sanctity of the mosque, but was also ignorant of the state of those around him; and yet the Prophet ﷺ did not meet him with the reproach that could have repelled him from Islam altogether, but prevented his Companions from the immediate reaction, then treated the effect of the act in the easiest way, then taught him afterward with gentleness. This situation is a living application of what this article concluded — that wisdom is a method of calling, not merely content: for the Prophet ﷺ possessed the truth and possessed the authority to apply it immediately and severely, but his wisdom bridled that authority from haste, so he thereby hit the place of teaching rather than the place of repelling.
+The verbs that recur with *al-ḥikmah* in the Qurʾan are “gave” (*ātā*) and “taught” (*ʿallama*), never “acquired” or “learned by himself.” This departs from the common notion that wisdom is simply the fruit of accumulated experience. The Qurʾan does not deny that experience leaves its mark, but it insists that the essence of wisdom is a gift from the Lord, one that may be granted even to a young person who has not long known life. So it was granted to Yaḥyā (peace be upon him) while still a boy:
 
-### The Prophetic witness
+﴿يَا يَحْيَىٰ خُذِ الْكِتَابَ بِقُوَّةٍ وَآتَيْنَاهُ الْحُكْمَ صَبِيًّا﴾ (19:12)
 
-Ibn Masʿūd (may God be pleased with him) narrated, and al-Bukhārī and Muslim recorded, that the Prophet ﷺ said: "There is no envy except in two: a man to whom God gave wealth and empowered him to spend it in the truth, and a man to whom God gave wisdom and he judges by it and teaches it"[^4]. And the hadith did not mention wisdom as a knowledge that is stored, but as a double act: a judgment that is applied, and a teaching that is transmitted. So wisdom in this hadith, as in the verses of the Qurʾan, has no value while it is confined to the breast of its possessor; its value appears only when it moves: matters are judged by it, and it is taught to others.
+*“O Yaḥyā, take hold of the Book with strength.” And We granted him judgment while still a boy.*
 
-### An objective-based (maqāṣidī) reading
+So too, it is said, with Solomon, who was young at the time of the case of the crop and the sheep (21:78–79), in which his father David, though older in years, did not reach the same understanding.
 
-The scholars observe that the Qurʾan made wisdom, when it is mentioned paired with the Book, often precede purification (tazkiyah) in the verbal ordering of some verses, and follow it in others, and this suggests that the relationship between them is complementary rather than a strict ordering: for purification cleanses the soul of vices, and wisdom grants it the ability to place matters in their correct places. And some link this with the linguistic origin with which this article opened: for whoever's soul is cleansed (by purification) but remains without a wisdom that prevents him from poor judgment may mean well and err in the act; and whoever is given wisdom but whose soul is not cleansed may judge well and corrupt the intent. So the gathering of the two is the perfection with which the verses described the prophets and the righteous.
+### A Recurrent Pattern: Wisdom Beside the Book
 
-### The contemporary applied dimension
+One of the clearest patterns in the distribution of the word is that in ten of its twenty occurrences, exactly half, “wisdom” is joined to “the Book” in a near-fixed phrase:
 
-Many confuse wisdom with intelligence, supposing that quickness of wit or an abundance of information is enough to describe a person as wise. But the linguistic origin this article has disclosed proposes a different criterion: wisdom is not in knowing much, but in the ability to restrain the impulse toward what one knows when his word or act is not appropriate to the moment. For the wise one is he who possesses the information and possesses, at the same time, the reins of himself against saying or doing it out of its place. And in a time in which every opinion has become subject to immediate publication without a bridle, the scene of the beast's bridle serves as a practical reminder: that a person ask himself, before he speaks or acts, not only "is this correct?" but also "is this appropriate now, for this person, in this way?" For that distance between correct knowledge and appropriate action by it is the home of wisdom.
+﴿يُعَلِّمُهُمُ الْكِتَابَ وَالْحِكْمَةَ﴾ (2:129)
 
-And the pairing of wisdom with gratitude in the story of Luqmān, with which this article opened, serves as another criterion for testing a person's wisdom in his daily decisions: for whenever a person faces a choice, he asks whether this choice leads him to more gratitude to God and acknowledgment of His favor, or to more self-conceit and forgetfulness of the Benefactor? For if the answer is the first, then that is a trace of the traces of true wisdom, not a mere clever decision that succeeded in achieving an immediate benefit.
+*“…teaching them the Book and wisdom.”*
 
-And this also connects with what was established in another article of this series on consultation (shūrā), where it became clear that extracting the opinion from others is a step without which wisdom is not completed; for the wise one does not content himself with the bridle of himself against haste, but seeks the aid of the minds of those around him to weigh the matter from angles he would not have seen alone, so that an individual wisdom and a collective wisdom gather for him together.
+The same sense recurs at 2:151, 2:231, 3:48, 3:81, 4:54, 4:113, 5:110, 33:34 and 62:2. In this recurring pattern wisdom is never mentioned alone, but always alongside the revelation that was sent down. It is as though the Qurʾan establishes that true wisdom cannot be separated from knowledge of the Book, even though it is not identical with it. The Book is a text that is recited; wisdom is an understanding granted so that the text may be applied to the changing realities of life.
 
-### Luqmān's counsels to his son: when wisdom becomes upbringing
+### Another Pattern: Wisdom as a Manner of Calling, Not Merely Content
 
-And if one wishes to see wisdom embodied in its practical content rather than in its abstract definition, then Sūrat Luqmān itself, with which this article opened, details what the effect of that wisdom came to when it was translated into a father's counsel to his son. Luqmān begins with the foundation of creed: "O my son, do not associate [anything] with God" [31:13], then moves to the watchfulness of God in the most precise matters: "Indeed, if it should be the weight of a mustard seed… God will bring it forth" [31:16], then to the establishment of prayer, the enjoining of good, and patience over harm [31:17], and ends with two counsels on social manners: that he not turn his cheek away from people out of arrogance, and that he be moderate in his walk and lower his voice, "for the most disagreeable of sounds is the voice of donkeys" [31:19]. So these six counsels — the rejection of associating partners, the watchfulness over minutiae, the establishment of prayer, the enjoining of good, patience, and humility in bearing and voice — are not a random list, but a gradual application of what this article opened with: a creed bridled from associating partners, a soul bridled from heedlessness, and a character bridled from arrogance. So Luqmān's wisdom, in its complete image, was not information he stored for himself, but a bridle that passed from his heart to the upbringing of his son.
+Wisdom in the Qurʾan is not confined to knowledge that its bearer holds. It extends to the way that knowledge is conveyed to others:
+
+﴿ادْعُ إِلَىٰ سَبِيلِ رَبِّكَ بِالْحِكْمَةِ وَالْمَوْعِظَةِ الْحَسَنَةِ﴾ (16:125)
+
+*“Call to the way of your Lord with wisdom and good counsel.”*
+
+The verse is not content merely to command the call to truth; it binds that call to a particular method: that the right word be set in its proper place, in due measure, for the listener who needs it. This accords with the linguistic meaning on which this article is built. As the bridle keeps the horse from charging blindly, wisdom keeps the caller from delivering the truth in a way that drives people away instead of drawing them near, and restrains his eagerness by what the occasion requires.
+
+### A Third Pattern: Two Distinct Human Models of Wisdom
+
+The Qurʾan presents two human exemplars of those granted wisdom, entirely different in station. The first is David (peace be upon him), a prophet given “decisive speech” (38:20), that is, the capacity for final judgment between disputants. The second is Luqmān, a righteous man who was not a prophet, and whose wisdom was shown in educative counsel to his son rather than in adjudication between litigants. This variety reveals that wisdom is not the preserve of prophethood or of the judge's seat. It is a gift that can appear in many fields, as a just verdict, a wise upbringing, or counsel offered at the right moment, according to the station and responsibility of the one who holds it.
+
+### A Fourth Pattern: A Wisdom That the Warner Alone Cannot Compel
+
+In Sūrat al-Qamar, after a series of scenes showing nations that denied their messengers and were destroyed, the verses close with the words of God:
+
+﴿حِكْمَةٌ بَالِغَةٌ فَمَا تُغْنِ النُّذُرُ﴾ (54:5)
+
+*“[It is] far-reaching wisdom, yet warnings do not avail.”*
+
+Here wisdom describes the Qurʾan itself and the way of warning it carries: a wisdom that attained the utmost in clarity and explanation, and yet availed nothing for a people who persisted in turning away. There is an important reminder in this. However perfect wisdom may be in itself, it does not impose itself by force on one who has closed his heart to receiving it. It is a gift that is offered, not one that is imposed.
+
+### “Leave Him, and Pour a Bucket of Water over His Urine”
+
+Among the clearest applications of the words “Call to the way of your Lord with wisdom” in the Prophet's life is what Abū Hurayrah (may God be pleased with him) related: a bedouin urinated in the mosque, and the people rose to seize him. The Prophet ﷺ said:
+
+«دعوه، وأريقوا على بوله سَجْلًا من ماء، فإنما بُعثتم مُيسِّرين، ولم تُبعثوا مُعسِّرين»
+
+*“Leave him, and pour a bucket of water over his urine, for you were sent to make things easy, and you were not sent to make things hard.”*[^3]
+
+The bedouin was ignorant not only of the sanctity of the mosque but of the feelings of those around him. Even so, the Prophet ﷺ did not meet him with the rebuke that might have driven him away from Islam altogether. He held back his Companions from their immediate reaction, then dealt with the consequence of the act in the gentlest way, and afterward taught the man with kindness. This episode is a living application of the conclusion reached above, that wisdom is a manner of calling and not merely content. The Prophet ﷺ possessed the truth, and he possessed the authority to enforce it at once and harshly. But his wisdom reined in that authority and its haste, and so he struck the place of teaching rather than the place of repelling.
+
+### The Prophetic Witness
+
+Ibn Masʿūd (may God be pleased with him) reported, in a hadith recorded by al-Bukhārī and Muslim, that the Prophet ﷺ said:
+
+«لا حسدَ إلا في اثنتين: رجلٌ آتاه اللهُ مالًا فسلَّطه على هلكته في الحقّ، ورجلٌ آتاه الله الحكمةَ فهو يقضي بها ويُعلِّمها»
+
+*“There is no envy save in two: a man whom God has given wealth and empowered to spend it away in the cause of truth, and a man whom God has given wisdom, so that he judges by it and teaches it.”*[^4]
+
+The hadith does not present wisdom as knowledge laid up in storage, but as a twofold act: a judgment that is carried out and a teaching that is passed on. Here, as in the verses of the Qurʾan, wisdom has no value while it is shut up in its owner's breast. Its worth appears only when it moves, when affairs are judged by it and others are taught it.
+
+### A Reading in Light of the Higher Objectives (*Maqāṣid*)
+
+Scholars have noted that when the Qurʾan pairs wisdom with the Book, wisdom sometimes comes before purification (*tazkiyah*) in the order of wording, and in other verses comes after it. This suggests that the relation between them is complementary rather than strictly sequential: purification cleanses the soul of vice, and wisdom gives it the power to set matters in their right places. Some link this to the linguistic origin with which this article began. A man whose soul has been purified, but who lacks the wisdom that restrains him from poor judgment, may mean well and yet act wrongly. A man who has been given wisdom but whose soul is unpurified may judge well and yet corrupt his intention. The union of the two is the perfection with which the verses describe the prophets and the righteous.
+
+### The Contemporary Application
+
+Many confuse wisdom with intelligence, supposing that quickness of wit or an abundance of information suffices to call a person wise. The linguistic origin laid out in this article proposes a different measure. Wisdom lies not in knowing much, but in being able to restrain the urge to say or do what one knows when it does not suit the moment. The wise person is one who holds the information and, at the same time, holds the reins of himself against speaking or acting out of place. In an age when every opinion can be published at once and without a bridle, the picture of the mount's bridle is a practical reminder: before speaking or acting, ask not only “Is this true?” but also “Is this fitting now, for this person, in this manner?” That distance between sound knowledge and fitting action is the home of wisdom.
+
+The pairing of wisdom with gratitude in the story of Luqmān, with which this article opened, offers another test of a person's wisdom in his daily decisions. Whenever he faces a choice, he may ask whether it leads him toward deeper gratitude to God and acknowledgment of His favor, or toward greater self-regard and forgetfulness of the Giver. If the answer is the former, that is a mark of true wisdom, and not merely a shrewd decision that happened to secure some immediate advantage.
+
+This also ties in with what was established in another article in this series, on consultation (*shūrā*): drawing out the opinions of others is a step without which wisdom is not complete. The wise person is not content to bridle himself against haste. He draws also on the minds of those around him, to weigh the matter from angles he could not have seen alone, so that individual wisdom and collective wisdom come together in him.
+
+### Luqmān's Counsels to His Son: When Wisdom Becomes Upbringing
+
+If one wishes to see wisdom embodied in its practical substance rather than in its abstract definition, Sūrat Luqmān itself, with which this article opened, shows what that wisdom became when it was turned into a father's counsel to his son. Luqmān begins with the foundation of belief:
+
+﴿يَا بُنَيَّ لَا تُشْرِكْ بِاللَّهِ﴾ (31:13)
+
+*“O my son, do not associate anything with God.”*
+
+He then turns to God's watchfulness over the most minute things:
+
+﴿إِنَّهَا إِنْ تَكُ مِثْقَالَ حَبَّةٍ مِنْ خَرْدَلٍ… يَأْتِ بِهَا اللَّهُ﴾ (31:16)
+
+*“Indeed, if it be the weight of a grain of mustard seed… God will bring it forth.”*
+
+Next come the establishment of prayer, the enjoining of good, and patience under harm (31:17). Finally he closes with two counsels of social conduct: not to turn one's cheek away from people in pride, and to be moderate in one's gait and lower one's voice:
+
+﴿إِنَّ أَنْكَرَ الْأَصْوَاتِ لَصَوْتُ الْحَمِيرِ﴾ (31:19)
+
+*“Indeed, the most disagreeable of sounds is the voice of donkeys.”*
+
+These six counsels are the rejection of idolatry, watchfulness over the smallest things, the establishment of prayer, the enjoining of good, patience, and humility in bearing and voice. They are no random list. They apply, step by step, what this article began with: a creed bridled against idolatry, a soul bridled against heedlessness, and a character bridled against pride. In its complete form, Luqmān's wisdom was not information he stored up for himself but a bridle that passed from his heart into the upbringing of his son.
 
 ### Conclusion
 
-From Luqmān who was given wisdom, so that the first of its effects was gratitude and the last of them a counsel to his son, to the bridle of a beast that prevents it from bolting, to a prophet who bridled the anger of his Companions from an ignorant bedouin, to a hadith describing wisdom as being judged by and taught rather than stored, the Qurʾan draws for wisdom a single unchanging meaning: a gift that is granted, not invented, preventing its possessor from the bolting of ignorance as the bridle prevents the horse from its bolting, and whose value is not completed except when he hits with it its correct place.
+From Luqmān, who was given wisdom so that its first fruit was gratitude and its last a counsel to his son; to the bridle that keeps a mount from bolting; to a Prophet who reined in his Companions' anger against an ignorant bedouin; to a hadith that describes wisdom as something to be judged by and taught, not hoarded: through all of these the Qurʾan draws one unchanging meaning for wisdom. It is a gift that is granted, not invented. It holds its bearer back from the bolting of ignorance as the bridle holds back the horse, and its worth is complete only when it brings the truth to its right place.
 
-And God knows best; He is the Teacher of wisdom to whom He wills of His servants.
+And God knows best; He is the Teacher of wisdom to whomever He wills among His servants.
 
 ---
 
-[^1]: Ibn Fāris, Muʿjam Maqāyīs al-Lughah, entry "ḥ-k-m."
-[^2]: Al-Rāghib al-Aṣfahānī, al-Mufradāt fī Gharīb al-Qurʾan, entry "ḥ-k-m."
-[^3]: Narrated by al-Bukhārī in his Ṣaḥīḥ, on the authority of Abū Hurayrah (may God be pleased with him).
+[^1]: Ibn Fāris, *Muʿjam Maqāyīs al-Lughah*, entry “ḥ-k-m.”
+[^2]: Al-Rāghib al-Aṣfahānī, *al-Mufradāt fī Gharīb al-Qurʾan*, entry “ḥ-k-m.”
+[^3]: Narrated by al-Bukhārī in his *Ṣaḥīḥ*, on the authority of Abū Hurayrah (may God be pleased with him).
 [^4]: Narrated by al-Bukhārī (no. 73) and Muslim (no. 816), agreed upon, on the authority of ʿAbd Allāh ibn Masʿūd (may God be pleased with him).

@@ -4,72 +4,166 @@ locale: "en"
 slug: "qist-and-adl-in-quran-two-scales-of-balance"
 ---
 
-In the last of the verses of Sūrat al-Raḥmān that draw the cosmos before they draw the human being, the verse comes in this order: "And the heaven He raised and set up the balance, that you not transgress in the balance. And establish the weighing with justice (bi-l-qisṭ) and do not fall short in the balance." The heaven is raised, and the balance is set up in the cosmos as the stars are set up in their orbits; then the verse suddenly descends from the reaches of the sky to the hand of the merchant as he weighs a sack of grain in the market. The balance by which the orbits of the celestial spheres are weighed is the same one that man is required to establish with his hand when he weighs for his neighbor. This is the verse that makes "qisṭ" — not "ʿadl" — the chosen word when speaking of the sensory pan of the balance: the justice that is seen by the eye, weighed by the hand, and written in a deed.
+*Qisṭ and ʿadl are not twin words but two scales: qisṭ weighs what is shared out among people in the open, ʿadl weighs the evenness of the heart; equity is complete only when an even intention is joined to a just deed.*
 
-This precise distinction between two words that seem synonymous is the subject of this article. For the Qurʾan does not use "ʿadl" and "qisṭ" in one identical usage, but distributes them over two different contexts in a distribution that is almost consistent, so that even when they gather in a single verse — which happens more than once — their gathering is complementarity, not repetition.
+By Dr. Ahmed Muhammad Ali Abouseif, President of the American Imams Academy (AIA)
 
-### Delimiting the word and the count
+In those verses of Sūrat al-Raḥmān that draw the cosmos before they draw the human being, the passage runs in this order:
 
-The root "q-s-ṭ" occurs in the Qurʾan twenty-five times[^4], distributed over five forms: three times the imperative of the form-IV verb "aqsiṭū" [4:3, 49:9, 60:8], twice the elative "aqsaṭ" in the sense of "more just" [2:282, 33:5], fifteen times the noun "qisṭ" — most of them in the construction "bi-l-qisṭ" inseparable from the verbs of judging, fulfilling, and weighing (among them 3:18, 4:135, 5:42, 6:152, 55:9, 21:47) — twice the active participle from the bare triliteral "al-qāsiṭūn" [72:14–15], and three times the active participle from the form-IV "muqsiṭīn" [5:42, 49:9, 60:8].
+﴿وَالسَّمَاءَ رَفَعَهَا وَوَضَعَ الْمِيزَانَ، أَلَّا تَطْغَوْا فِي الْمِيزَانِ، وَأَقِيمُوا الْوَزْنَ بِالْقِسْطِ وَلَا تُخْسِرُوا الْمِيزَانَ﴾ (55:7–9)
 
-And the root "ʿ-d-l" occurs twenty-eight times, in only two forms: fourteen times as a past and present verb from the triliteral "ʿadala / yaʿdilu" mostly in the sense of doing justice (among them 4:3, 4:129, 5:8, 6:152, 42:15), and fourteen times as the noun "ʿadl" (among them 2:282, 4:58, 5:95, 6:115, 16:90).
+*“And the heaven He raised and set up the balance, that you not transgress in the balance. And establish weight with equity (bi-l-qisṭ) and do not make the balance deficient.”*
 
-These two numbers — twenty-five and twenty-eight — are close, and this alone is a linguistic indicator that the Qurʾan does not use one of the two words as a substitute for the other without distinction, but needs both in a nearly balanced measure to convey through them two complementary meanings, as will become clear.
+The heaven is raised, and the balance is set in the cosmos as the stars are set in their orbits. Then the verse descends suddenly from the heights of the sky to the hand of the merchant weighing a sack of grain in the market. The balance by which the orbits of the celestial spheres are weighed is the very one that man is required to hold up with his own hand when he weighs for his neighbor. This is the verse that makes *qisṭ*, and not *ʿadl*, the word of choice when it speaks of the sensible pan of the scale: the justice that is seen by the eye, weighed by the hand, and written in a deed.
 
-### The linguistic root: equalization and share
+This careful distinction between two words that seem to be synonyms is the subject of this article. The Qurʾan does not use *ʿadl* and *qisṭ* in one identical manner, but distributes them across two different contexts in a pattern that is almost unvarying. Even when they come together in a single verse, as happens more than once, their meeting is one of complementarity, not repetition.
 
-In the origin of the language, "ʿadl" revolves around the meaning of equalization and evening: "adjustment (taʿdīl)" is to make a thing even, equal on both sides, and from it "the ʿidl of a thing": its like and equivalent that equals it in value. But "qisṭ" revolves around the meaning of share: al-qisṭ is the just portion that belongs to every possessor of a right of it, and from it "al-muqsiṭ": the one who gives every possessor of a right his right without diminishment. And al-Rāghib al-Aṣfahānī, in his book *al-Mufradāt fī Gharīb al-Qurʾan*, pointed to a precise difference between the two words consistent with this origin: that qisṭ is an outer justice perceived by the senses and practiced in dealings among people, while ʿadl is more general than it, for it comprises the outer and the inner together[^1].
+### Delimiting the Word and Counting Its Occurrences
 
-This linguistic difference — between a word that weighs the outer distribution between two parties or more, and a word that weighs the inner evening in the heart and the moral balance in general — is what the Qurʾan built its actual use of the two words upon, as will become clear from the Qurʾanic models.
+The root q-s-ṭ occurs in the Qurʾan twenty-five times,[^4] in five forms. The Form IV verb *aqsaṭa* occurs three times in its verbal forms (4:3, 49:9, 60:8). The elative *aqsaṭ*, “more equitable,” occurs twice (2:282, 33:5). The noun *qisṭ* occurs fifteen times, mostly in the construction *bi-l-qisṭ*, inseparable from verbs of judging, fulfilling and weighing (among them 3:18, 4:135, 5:42, 6:152, 55:9, 21:47). The active participle of the simple triliteral verb, *al-qāsiṭūn*, occurs twice (72:14–15). The active participle of Form IV, *muqsiṭīn*, occurs three times (5:42, 49:9, 60:8).
 
-And this origin is supported by what the lexicographers mentioned in the derivation of the two roots: for "ʿadl," according to Ibn Fāris in *Maqāyīs al-Lughah*, returns to a single origin indicating "evenness and mediation" — and from it the balancing of a thing when it is even between two opposing sides, whether that be in the balance of the heart or the balance of the body. But "qisṭ" returns to an origin indicating "a portion of a thing and a share," then it was used for justice because the just one gives every possessor of a right his share without increase or decrease. So ʿadl, from this origin, is an act of mediation and evening, and qisṭ is an act of distribution and giving — and they are two adjacent meanings, but not a single meaning repeated under two names.
+The root ʿ-d-l occurs twenty-eight times, in only two forms: fourteen times as a past and present verb from the simple triliteral *ʿadala/yaʿdilu*, mostly in the sense of acting justly (among them 4:3, 4:129, 5:8, 6:152, 42:15), and fourteen times as the noun *ʿadl* (among them 2:282, 4:58, 5:95, 6:115, 16:90).
 
-### The central structure: an outer scale and an inner scale
+The two figures, twenty-five and twenty-eight, are close, and this alone is a linguistic indication that the Qurʾan does not use one of the two words in place of the other without distinction. It needs both in nearly equal measure to convey two complementary meanings, as will become clear.
 
-When the occurrence of "qisṭ" in the Qurʾan is traced, it is observed that it always accompanies a context in which there is more than one party, and in which there is something to be divided, weighed, or witnessed: measure and balance in the market [6:152, 55:9], the rights of orphans in division [4:3], reconciliation between two disputing groups [49:9], testimony and judgment between people [5:42, 7:29]. Qisṭ, in this meaning, is an external balance established between two parties, and its effect appears in the dealing itself: a measure not diminished, an inheritance not shortchanged, and a judgment that did not lean.
+### The Linguistic Root: Equalization and Share
 
-But "ʿadl" widens to comprise what does not fall directly under the senses: the evening of the self in its creation ("who created you, proportioned you, and balanced you (fa-ʿadalak)," [82:7]), and the words of God in their completeness and truthfulness ("and the word of your Lord has been fulfilled in truth and justice (ʿadlan)," [6:115]), and more grave than that: the false equating that the polytheist falls into when he equates between God and other than Him, which is the only meaning in which the verb "yaʿdilūn" is used in a negative usage in the Qurʾan: "Then those who disbelieve equate [others] with their Lord" [6:1], and "and they equate [others] with their Lord" [6:150, 27:60]. Here the deep secret of "ʿadl" being a verb that carries the very root of equalization is disclosed: for justice when it occurs between one creature and another is a virtue, and when the equating of the creature with the Creator is intended by it, it becomes the greatest deviation conceivable — because it equates between what may not be equated.
+In the origin of the language, *ʿadl* revolves around the meaning of equalizing and making even. *Taʿdīl*, “adjustment,” is to make a thing level and equal on both sides, and from it comes the *ʿidl* of a thing: its like and counterpart, equal to it in value. *Qisṭ*, by contrast, revolves around the meaning of a share. *Al-qisṭ* is the just portion that belongs to each person with a right in a thing, and from it comes *al-muqsiṭ*, one who gives each person with a right his right without diminishment.
 
-And in contrast, the root "qisṭ" has its own deviation too, and it is a subtle linguistic deviation: for while the form-IV "aqsaṭa / yuqsiṭu" means to establish justice, the bare triliteral "qasaṭa" means the exact opposite — to be unjust and deviate from the straight path. And from this triliteral came the Qurʾan's description of a group of the jinn as "al-qāsiṭūn": "And among us are those who submit, and among us are the deviators (al-qāsiṭūn)… And as for the deviators, they will be firewood for Hell" [72:14–15][^5]. So the added letter — the hamzah in "aqsaṭa" — is what corrects the deviation latent in the origin of the root and makes it uprightness, exactly as ʿadl becomes associating partners when its original meaning is misapplied. Each of the two words, then, carries in its very linguistic composition an indication that the balance — any balance — is capable of being established and capable of being tilted.
+In his *al-Mufradāt fī Gharīb al-Qurʾan*, al-Rāghib al-Aṣfahānī pointed to a precise difference between the two words that accords with this origin: *qisṭ* is outward justice, perceived by the senses and practiced in dealings among people, while *ʿadl* is more general, since it embraces the outward and the inward together.[^1]
 
-### Two other images: testimony and ransom
+This linguistic difference lies between a word that weighs the outward distribution among two parties or more, and a word that weighs the inner evenness of the heart and the moral balance in general. It is on this difference that the Qurʾan builds its actual use of the two words, as the Qurʾanic examples will show.
 
-This same distribution appears in two other chapters of the chapters of the Qurʾan. The first chapter is the chapter of testimony: when the Qurʾan commands the documentation of debt it says: "and let a scribe write [it] between you in justice (bi-l-ʿadl)" [2:282], then later requests in the same verse "two witnesses from among your men," and in another place "two just persons (dhawā ʿadl) from among you" [5:95, 65:2]. Here "ʿadl" is used as a description of the person of the witness and his inner trustworthiness before it is used as a description of his act, because testimony is built essentially upon trust in the integrity of the heart, not upon the procedure alone.
+This origin is supported by what the lexicographers say of the derivation of the two roots. For *ʿadl*, according to Ibn Fāris in *Maqāyīs al-Lughah*, returns to a single origin indicating “evenness and a middle course”; hence *iʿtidāl*, a thing's being level between two opposing sides, whether in the balance of the heart or the balance of the body. *Qisṭ*, on the other hand, returns to an origin indicating “a part of a thing, a portion,” and then came to be used of justice because the just person gives each person with a right his portion, with no increase and no decrease. *ʿAdl*, from this origin, is an act of balance and evenness; *qisṭ* is an act of distribution and giving. They are two neighboring meanings, but not one meaning repeated under two names.
 
-And the second chapter is the chapter of ransom and compensation: the Qurʾan recurrently expresses the impossibility of accepting any substitute on the Day of Resurrection with the word "ʿadl," not "qisṭ": "and no compensation (ʿadl) will be accepted from it, nor will intercession benefit it" [2:123], and "and if it should offer every [possible] ransom (ʿadl), it will not be taken from it" [6:70]. So the ʿidl here is the equal like that is presented as a substitute for the self, and it is a usage that returns directly to the linguistic origin of the word — equalization and likeness — not to the meaning of distribution that "qisṭ" carries. The Qurʾan's choice of the word "ʿadl" here, rather than "qisṭ," is precise: for what is required in that moment is a like that equals the self in value, not a share divided among parties.
+### The Central Structure: An Outer Scale and an Inner Scale
 
-### When the two words gather in a single verse
+When the occurrences of *qisṭ* in the Qurʾan are traced, it is seen that it always accompanies a context involving more than one party, in which something is to be divided, weighed or witnessed: measure and balance in the market (6:152, 55:9); the rights of orphans in the division of property (4:3); reconciliation between two disputing parties (49:9); testimony and judgment among people (5:42, 7:29). *Qisṭ*, in this sense, is an external scale set up between two parties, and its effect shows in the transaction itself: a measure not shortened, an inheritance not curtailed, a judgment that did not lean.
 
-The most eloquent witness that the two words are not synonyms is that the Qurʾan gathers them together in a single context more than once, which it does not usually do with words entirely identical in meaning. For in the verse of reconciliation between the two fighting groups of the believers it says: "But if it returns, then reconcile between them with justice (bi-l-ʿadl) and act equitably (aqsiṭū). Indeed, God loves those who act equitably (al-muqsiṭīn)" [49:9]. For reconciliation between the two parties needs "ʿadl" — that is, the evening of the heart and the removal of the inner leaning toward one of the two groups — then it also needs "qisṭ," that is, that this inner evening be translated into an outer equitable act in which the right is distributed between the two parties in a perceptible distribution.
+*ʿAdl*, however, widens to take in what does not fall directly under the senses. It covers the evenness of the self in its creation:
 
-And in another verse, after commanding that the believers be "maintainers of equity (qawwāmīna bi-l-qisṭ)" in their testimony, comes the warning against being turned by the hatred of a people away from justice: "and do not let the hatred of a people lead you to not being just. Be just (iʿdilū); that is nearer to God-consciousness" [5:8]. So maintaining equity here is a description of a fixed institutional stance — that testimony and judgment be built on a structurally equitable basis — while "be just (taʿdilū)" here is a momentary psychological act, addressing the moment in which the hatred of the heart moves to turn the witness away from the truth. Qisṭ, then, is the established structure, and ʿadl is the steadfastness upon it when caprice blows to remove it.
+﴿الَّذِي خَلَقَكَ فَسَوَّاكَ فَعَدَلَكَ﴾ (82:7)
 
-### The Prophetic witness
+*“[He] who created you, proportioned you, and made you balanced.”*
 
-The Prophet ﷺ gathers the two words in a single hadith, in the very Qurʾanic pattern, when he describes the standing of the people of justice on the Day of Resurrection: "Indeed, those who act equitably (al-muqsiṭīn) will be with God upon pulpits of light, at the right hand of the Most Merciful, Mighty and Majestic — and both His hands are right — those who are just (yaʿdilūn) in their judgment, and their families, and what they are given charge over"[^2]. So the hadith begins by describing them as "al-muqsiṭīn" — the possessors of the outer equitable act — then explains this description with the verb "yaʿdilūn," which extends to comprise general judgment, family, and particular authority together, that is, the outer and the inner, the public relationship and the intimate relationship. This ordering — qisṭ first as the outer name, then ʿadl as an explanation extending to what is not seen — is a direct echo of the linguistic difference that al-Rāghib grounded.
+It covers the words of God in their completeness and truthfulness:
 
-### Two objective-based (maqāṣidī) readings
+﴿وَتَمَّتْ كَلِمَتُ رَبِّكَ صِدْقًا وَعَدْلًا﴾ (6:115)
 
-Ibn ʿĀshūr, in his book *Maqāṣid al-Sharīʿah al-Islāmiyyah*, attended to justice as a universal aim of the aims of legislation, not a mere individual virtue, and saw that justice in the Qurʾan is a governing principle that widens to comprise the relationship between individuals, the relationship of the ruler with the ruled, and the relationship of the nation with other nations, citing the generality of the command in the words of God "Indeed, God commands justice and excellence" [16:90] as a comprehensive verse not particular to a single chapter of dealings[^3].
+*“And the word of your Lord has been fulfilled in truth and in justice.”*
 
-And on another side, the majority of the exegetes held, in treating verse [49:9], that the pairing of the command to reconcile with justice, then the independent command to act equitably, is not a rhetorical repetition, but an indication that true reconciliation needs two stages: correcting the inner intention first, then translating it into an actual equitable distribution of rights second — and that one without the other is a deficient reconciliation: justice without equity is a good feeling that does not turn into an act, and equity without justice is a cold procedure that may be devoid of the truthfulness of intention.
+And, graver still, it covers the false equating into which the idolater falls when he sets God and other than God on a level. This is the only sense in which the verb *yaʿdilūn* is used negatively in the Qurʾan:
 
-### The contemporary applied dimension
+﴿ثُمَّ الَّذِينَ كَفَرُوا بِرَبِّهِمْ يَعْدِلُونَ﴾ (6:1)
 
-Whoever takes charge of the affair of his family, or his institution, or even a small work team, experiences this distinction daily without naming it: he may distribute tasks and resources in an outwardly equal formal distribution (and this is qisṭ), while his heart remains inclined toward one of the parties without his feeling it (and this is the absence of ʿadl); or he feels an equal love for all (the justice of the heart), but is remiss in translating this feeling into an actual equitable decision when resources are contested (the absence of qisṭ). The verse that gathered the two matters together in the context of reconciliation reminds us that complete equity needs both matters together, not one as a substitute for the other: an evened intention in the heart, and a weighed act by the hand.
+*“Yet those who disbelieve equate [others] with their Lord.”*
 
-And perhaps the clearest contemporary example of the separation of the two words is what occurs in some work environments of "equitable procedures" in their outward appearance — written distribution policies, announced promotion criteria, unified wage tables — while the one who applies them continues to practice a hidden bias in choosing who is nominated for these criteria in the first place, or in interpreting them upon application. This is qisṭ without ʿadl: an equitable structure through which an unchanged favoritism is managed. And the reverse occurs too: one who truthfully feels an equal love for his children or his employees, but neglects documenting the division or recording the decision, so he leaves a wide space for suspicion that demolishes the effect of his good intention. And the two verses in which the two words gathered together [49:9 and 5:8] propose a practical remedy for both faults: correcting the intention first when caprice blows ("Be just; that is nearer to God-consciousness"), then fixing this justice in an outer procedure that every party can see and verify.
+and
 
-And in a time in which the tools of measurement and transparency are available — written contracts, digital records, announced evaluation criteria — it has become possible today to achieve "qisṭ" with a precision that was not available before: a measure not diminished, and a reckoning in which no error is made. But these very tools may be used as a cover for the absence of "ʿadl": an outwardly just procedure used to justify a decision already taken with an inner leaning. And perhaps the verse that gathers the cosmic balance with the market balance ("and establish the weighing with justice") reminds us that the precision of the tool does not dispense with the uprightness of the hand that holds it; for technology regulates qisṭ, but it does not make ʿadl, because ʿadl is a matter of the heart that no machine reaches.
+﴿وَهُمْ بِرَبِّهِمْ يَعْدِلُونَ﴾ (6:150; 27:60)
+
+*“and they equate [others] with their Lord.”*
+
+Here the deep secret appears of why *ʿadl* is a verb that carries the very root of equalizing. Justice between one creature and another is a virtue; but when it is meant to level the creature with the Creator, it becomes the greatest deviation conceivable, because it equates what may never be equated.
+
+Conversely, the root *qisṭ* has a deviation of its own, a subtle linguistic one. While the Form IV verb *aqsaṭa/yuqsiṭu* means to establish justice, the simple triliteral *qasaṭa* means precisely the opposite: to act unjustly and swerve from the straight path. From this triliteral comes the Qurʾan's description of a company of the jinn as *al-qāsiṭūn*:
+
+﴿وَأَنَّا مِنَّا الْمُسْلِمُونَ وَمِنَّا الْقَاسِطُونَ… وَأَمَّا الْقَاسِطُونَ فَكَانُوا لِجَهَنَّمَ حَطَبًا﴾ (72:14–15)
+
+*“And among us are those who submit, and among us are the deviators… As for the deviators, they will be firewood for Hell.”*[^5]
+
+The added letter, the *hamzah* in *aqsaṭa*, is what corrects the deviation latent in the root's origin and turns it into uprightness, just as *ʿadl* becomes idolatry when its original meaning is misapplied. Each of the two words thus carries, in its very linguistic makeup, an indication that a balance, any balance, can be set upright and can be tilted.
+
+### Two Further Images: Testimony and Ransom
+
+The same distribution appears in two other chapters of the Qurʾan. The first is the chapter of testimony. When the Qurʾan commands that debts be recorded, it says:
+
+﴿وَلْيَكْتُبْ بَيْنَكُمْ كَاتِبٌ بِالْعَدْلِ﴾ (2:282)
+
+*“And let a scribe write [it] between you in justice.”*
+
+Later in the same verse it asks for “two witnesses from among your men,” and elsewhere for:
+
+﴿ذَوَا عَدْلٍ مِنْكُمْ﴾ (5:95; 65:2)
+
+*“two just men from among you.”*
+
+Here *ʿadl* describes the person of the witness and his inward trustworthiness before it describes his act, because testimony is built first of all on confidence in the integrity of the heart, and not on procedure alone.
+
+The second chapter is that of ransom and compensation. The Qurʾan repeatedly expresses the impossibility of accepting any substitute on the Day of Resurrection with the word *ʿadl*, and not *qisṭ*:
+
+﴿وَلَا يُقْبَلُ مِنْهَا عَدْلٌ وَلَا تَنْفَعُهَا شَفَاعَةٌ﴾ (2:123)
+
+*“And no compensation will be accepted from it, nor will intercession benefit it.”*
+
+﴿وَإِنْ تَعْدِلْ كُلَّ عَدْلٍ لَا يُؤْخَذْ مِنْهَا﴾ (6:70)
+
+*“And if it should offer every [possible] ransom, it will not be taken from it.”*
+
+The *ʿidl* here is the equal counterpart presented as a substitute for the self. This use goes straight back to the word's linguistic origin, equalization and likeness, and not to the sense of distribution that *qisṭ* carries. The Qurʾan's choice of *ʿadl* here, and not *qisṭ*, is exact: what is wanted at that moment is a counterpart equal in value to the self, not a share divided among parties.
+
+### When the Two Words Meet in One Verse
+
+The most eloquent witness that the two words are not synonyms is that the Qurʾan brings them together in one context more than once, which it does not ordinarily do with words that are entirely identical in meaning. In the verse on reconciling two fighting groups of believers it says:
+
+﴿فَإِنْ فَاءَتْ فَأَصْلِحُوا بَيْنَهُمَا بِالْعَدْلِ وَأَقْسِطُوا إِنَّ اللَّهَ يُحِبُّ الْمُقْسِطِينَ﴾ (49:9)
+
+*“But if it returns, then make peace between them with justice, and act equitably. Indeed, God loves those who act equitably.”*
+
+Reconciling two parties needs *ʿadl*, that is, the evening of the heart and the removal of any inward leaning toward either group. It then needs *qisṭ* as well: this inner evenness must be translated into an outward, equitable act in which the right is shared out between the two parties in a way that can be seen.
+
+In another verse, after commanding the believers to be upholders of equity in their testimony, there comes the warning against being swayed by hatred of a people away from justice:
+
+﴿وَلَا يَجْرِمَنَّكُمْ شَنَآنُ قَوْمٍ عَلَىٰ أَلَّا تَعْدِلُوا اعْدِلُوا هُوَ أَقْرَبُ لِلتَّقْوَىٰ﴾ (5:8)
+
+*“And let not hatred of a people lead you to be unjust. Be just; that is nearer to God-consciousness.”*
+
+Upholding equity here describes a settled, institutional stance: testimony and judgment are to rest on a structurally fair foundation. The command to *be just* (*iʿdilū*) is a momentary psychological act, addressing the instant when hatred in the heart stirs to turn the witness away from the truth. *Qisṭ* is the structure that has been set up; *ʿadl* is steadfastness in it when caprice blows to bring it down.
+
+### The Prophetic Witness
+
+The Prophet ﷺ brings the two words together in a single hadith, in the same Qurʾanic pattern, when he describes the standing of the people of justice on the Day of Resurrection:
+
+«إِنَّ الْمُقْسِطِينَ عِنْدَ اللَّهِ عَلَى مَنَابِرَ مِنْ نُورٍ، عَنْ يَمِينِ الرَّحْمَنِ عَزَّ وَجَلَّ، وَكِلْتَا يَدَيْهِ يَمِينٌ، الَّذِينَ يَعْدِلُونَ فِي حُكْمِهِمْ وَأَهْلِيهِمْ وَمَا وَلُوا»
+
+*“Those who act with equity will be with God upon pulpits of light, at the right hand of the Most Merciful, Mighty and Majestic (and both His hands are right): those who are just in their judgment, their families, and in whatever they are charged with.”*[^2]
+
+The hadith begins by describing them as *al-muqsiṭīn*, those who perform the outward equitable act. It then explains the description with the verb *yaʿdilūn*, which extends to take in public judgment, family and particular authority together, that is, the outward and the inward, the public relationship and the intimate one. This order, with *qisṭ* first as the outward name and *ʿadl* next as an explanation reaching to what is not seen, is a direct echo of the linguistic difference al-Rāghib grounded.
+
+### Two Readings in Light of the Higher Objectives (*Maqāṣid*)
+
+In his *Maqāṣid al-Sharīʿah al-Islāmiyyah*, Ibn ʿĀshūr treated justice as a universal objective of legislation and not merely an individual virtue. He saw justice in the Qurʾan as a governing principle that embraces the relations between individuals, between ruler and ruled, and between a nation and other nations, citing the generality of the command in the words of God:
+
+﴿إِنَّ اللَّهَ يَأْمُرُ بِالْعَدْلِ وَالْإِحْسَانِ﴾ (16:90)
+
+*“Indeed, God commands justice and excellence.”*
+
+as a comprehensive verse not confined to one chapter of human dealings.[^3]
+
+On another front, the majority of the exegetes, in treating verse 49:9, held that the pairing of the command to reconcile with justice and the separate command to act with equity is no rhetorical repetition. It indicates that true reconciliation has two stages: correcting the inner intention first, then translating it into a real and equitable distribution of rights. One without the other is an incomplete reconciliation. Justice without equity is a fine feeling that never becomes action; equity without justice is a cold procedure that may lack sincerity of intention.
+
+### The Contemporary Application
+
+Anyone responsible for his family, his institution or even a small work team meets this distinction daily without naming it. He may share out tasks and resources in a way that is formally and visibly equal (that is *qisṭ*), while his heart leans, without his noticing, toward one of the parties (that is the absence of *ʿadl*). Or he may feel an equal love for all (the justice of the heart), yet fail to turn that feeling into an equitable decision when resources are contested (the absence of *qisṭ*). The verse that joined the two in the context of reconciliation reminds us that complete fairness needs both together, neither standing in for the other: an even intention in the heart, and a weighed act in the hand.
+
+Perhaps the clearest present-day example of the two words coming apart is what happens in some workplaces: procedures that look fair, such as written allocation rules, published promotion criteria and uniform pay scales, while the person who applies them keeps a hidden bias in choosing who is put forward for those criteria in the first place, or in how they are interpreted when applied. This is *qisṭ* without *ʿadl*: a fair structure through which an unchanged favoritism is run. The reverse also happens. A man may truly feel an equal love for his children or his employees, yet neglect to document the division or record the decision, and so leave wide room for suspicion that demolishes the effect of his good intention.
+
+The two verses in which the words appear together (49:9 and 5:8) offer a practical remedy for both failings. First correct the intention when caprice blows (“Be just; that is nearer to God-consciousness”), then fix that justice in an outward procedure that every party can see and verify.
+
+In an age when the tools of measurement and transparency are at hand, such as written contracts, digital records and published evaluation criteria, it is possible today to achieve *qisṭ* with a precision unavailable before: a measure not shortened, an account without error. Yet these same tools may be used as a cover for the absence of *ʿadl*, a procedure just in form used to justify a decision already made out of inner inclination. Perhaps the verse that joins the cosmic balance to the balance of the market (“and establish weight with equity”) reminds us that the precision of the instrument does not excuse us from uprightness in the hand that holds it. Technology can regulate *qisṭ*, but it cannot produce *ʿadl*, because *ʿadl* is a matter of the heart that no machine reaches.
 
 ### Conclusion
 
-The Qurʾan weighs justice (ʿadl) and equity (qisṭ) with two scales, not with a single scale: an inner scale that weighs the intention, the heart, and the affirmation of God's oneness in an evening that associates none with Him, and an outer scale that weighs rights and shares among people with a weighing from which nothing is diminished. And when the two scales gather — as they gathered in the verse of reconciliation, and in the hadith of those who act equitably — equity is completed: an even intention in the breast, and an equitable act that the eye sees. And God, the Exalted, knows best; He is the Guardian of success.
+The Qurʾan weighs justice and equity with two scales, not one. An inner scale weighs intention, the heart, and the affirmation of God's oneness, in an evenness that sets none beside Him. An outer scale weighs rights and shares among people, in a weighing from which nothing is withheld. When the two scales meet, as they met in the verse of reconciliation and in the hadith of those who act with equity, fairness is complete: an even intention in the breast, and an equitable deed that the eye can see. And God, the Exalted, knows best; He is the Guardian of success.
 
 ---
 
-[^1]: Al-Rāghib al-Aṣfahānī, *al-Mufradāt fī Gharīb al-Qurʾan*, entry "ʿ-d-l": he distinguishes between ʿadl as the more general (comprising the outer and the inner) and qisṭ as the outer justice perceived by the senses in dealings among people.
-[^2]: Narrated by Muslim in his Ṣaḥīḥ, the Book of Government, hadith no. 1827, on the authority of ʿAbd Allāh ibn ʿAmr ibn al-ʿĀṣ (may God be pleased with them both), graded authentic.
-[^3]: Ibn ʿĀshūr, *Maqāṣid al-Sharīʿah al-Islāmiyyah*, in the discussion of justice as one of the universal aims of legislation.
-[^4]: All figures for the occurrences of the two roots "q-s-ṭ" and "ʿ-d-l" and their forms are taken from the Quranic Arabic Corpus (corpus.quran.com), in which the bare triliteral form (qasaṭa: deviation) is distinguished from the form-IV (aqsaṭa: acting equitably), a distinction that is morphological, not merely lexical.
-[^5]: Verse 72:14–15 ("al-qāsiṭūn") from Sūrat al-Jinn, on the tongue of the jinn about themselves, is the only negative usage of the root "q-s-ṭ" in the Qurʾan; its counterpart from the root "ʿ-d-l" is likewise the only negative usage in verses 6:1, 6:150, 27:60 ("they equate [others] with their Lord").
+[^1]: Al-Rāghib al-Aṣfahānī, *al-Mufradāt fī Gharīb al-Qurʾan*, entry “ʿ-d-l”: he distinguishes between *ʿadl* as the more general (embracing the outward and the inward) and *qisṭ* as outward justice perceived by the senses in dealings among people.
+
+[^2]: Narrated by Muslim in his *Ṣaḥīḥ*, the Book of Government, hadith no. 1827, on the authority of ʿAbd Allāh ibn ʿAmr ibn al-ʿĀṣ (may God be pleased with them both); graded authentic.
+
+[^3]: Ibn ʿĀshūr, *Maqāṣid al-Sharīʿah al-Islāmiyyah*, in the discussion of justice as one of the universal objectives of legislation.
+
+[^4]: All figures for the occurrences of the two roots q-s-ṭ and ʿ-d-l and their forms are taken from the Quranic Arabic Corpus (corpus.quran.com), in which the simple triliteral form (*qasaṭa*: deviation) is distinguished from Form IV (*aqsaṭa*: acting with equity), a distinction that is morphological and not merely lexical.
+
+[^5]: Verses 72:14–15 (*al-qāsiṭūn*), from Sūrat al-Jinn, spoken by the jinn about themselves, are the only negative use of the root q-s-ṭ in the Qurʾan. Its counterpart from the root ʿ-d-l is likewise the only negative use, in verses 6:1, 6:150 and 27:60 (“they equate [others] with their Lord”).

@@ -4,66 +4,154 @@ locale: "es"
 slug: "ikhlas-in-quran-purity-not-mere-intention"
 ---
 
-El Corán describe una escena fisiológica precisa en la sura al-Naḥl: «Y ciertamente, en el ganado tenéis una lección: os damos de beber de lo que hay en sus vientres —de entre quimo y sangre— una leche pura, agradable para los que la beben» [al-Naḥl: 66]. Una leche que sale de entre el quimo (el residuo del alimento digerido) y la sangre, pura y clara, sin que la empañe nada de lo que vecindaba su lugar. Esta misma imagen tangible —la extracción de lo puro de entre lo que se mezcla con ello, sin que se entremezcle con ello— es el sentido sobre el que el Corán construirá, en otros lugares, uno de sus más finos conceptos en las obras de los corazones: el ikhlāṣ (la pureza sincera).
+*El ikhlāṣ no es una simple buena intención, sino una intención depurada de toda mezcla, como la leche que brota pura de entre el contenido del vientre y la sangre: un secreto entre el siervo y su Señor, fácil de empañar y por eso siempre necesitado de custodia.*
 
-### Delimitación de la palabra y el recuento
+Por el Dr. Ahmed Muhammad Ali Abouseif, presidente de la American Imams Academy (AIA)
 
-La raíz «kh-l-ṣ» aparece en el Corán treinta y una veces, en siete formas. Tres de ellas están lejos del eje de este artículo: el verbo «khalaṣū», con el sentido de se retiraron y se apartaron (una vez, [Yūsuf: 80], en la historia de los hermanos de José cuando se retiraron a deliberar en privado), y el verbo «astakhliṣhu», con el sentido de lo selecciono para mi servicio especial (una vez, [Yūsuf: 54], en boca del rey de Egipto acerca de José) —dos usos que comparten con el origen de la raíz el sentido de «apartar y extraer» pero están distantes del contexto de la sinceridad en la adoración. En cuanto al campo que nos interesa, comprende: el participio «khāliṣ / khāliṣa», que aparece siete veces en el sentido de pureza y exclusividad (como la leche pura en [al-Naḥl: 66] y la religión pura en [al-Zumar: 3]); el participio activo de la forma «afʿala», «mukhliṣ / mukhliṣīn», que aparece once veces, el testimonio verbal directo de quien hace su obra sincera para Dios por su propia voluntad; y el participio pasivo «mukhlaṣ / mukhlaṣīn», que aparece nueve veces, descripción de aquellos a quienes Dios eligió y purificó, no de quien él mismo hizo sincera su obra —el primero es un acto que el siervo realiza, el segundo un acto que Dios realiza en Su siervo, aunque compartan la raíz y la palabra.
+En la sura de al-Naḥl, el Corán traza una escena fisiológica precisa:
+
+﴿وَإِنَّ لَكُمْ فِي الْأَنْعَامِ لَعِبْرَةً نُسْقِيكُمْ مِمَّا فِي بُطُونِهِ مِنْ بَيْنِ فَرْثٍ وَدَمٍ لَبَنًا خَالِصًا سَائِغًا لِلشَّارِبِينَ﴾ (16:66)
+
+*«Y ciertamente, en el ganado tenéis una lección: os damos de beber de lo que hay en sus vientres, de entre el quimo y la sangre, una leche pura y grata para quienes la beben.»*
+
+La leche brota de entre el *farth* (el residuo del alimento digerido) y la sangre, clara y pura, sin que la toque nada de lo que estaba junto a su manantial. Esta imagen tan tangible, la de extraer lo puro de entre lo que lo rodea sin que se mezcle con ello, es el sentido sobre el que el Corán edifica en otros pasajes uno de sus conceptos más sutiles entre las obras del corazón: el *ikhlāṣ*, la pureza sincera.
+
+### Delimitación del término y recuento
+
+La raíz kh-l-ṣ aparece en el Corán treinta y una veces, en siete formas. Dos usos quedan lejos del eje de este artículo. El primero es el verbo *khalaṣū*, «se retiraron y se apartaron», que aparece una vez (12:80), en la historia de los hermanos de José cuando se retiraron a deliberar en privado. El segundo es el verbo *astakhliṣhu*, «lo escogeré para mi servicio personal», que aparece una vez (12:54), en boca del rey de Egipto a propósito de José. Ambos comparten con el origen de la raíz el sentido de «apartar y extraer», pero distan del contexto de la sinceridad en la adoración.
+
+El campo que nos ocupa comprende tres formas. Primero, el adjetivo *khāliṣ/khāliṣa*, que aparece siete veces con el sentido de pureza y exclusividad, como la leche pura de 16:66 y la religión pura de 39:3. Segundo, el participio activo de la forma IV, *mukhliṣ/mukhliṣīn*, que aparece once veces y es el testimonio verbal directo de quien hace sincera su obra para Dios por su propia voluntad. Tercero, el participio pasivo *mukhlaṣ/mukhlaṣīn*, que aparece nueve veces y describe a aquellos a quienes Dios ha escogido y purificado, no a quienes se hicieron sinceros a sí mismos. El primero es un acto que el siervo realiza; el segundo es un acto que Dios realiza en Su siervo, aunque ambos compartan raíz y vocablo.
 
 ### La raíz lingüística: de la pureza de la leche a la pureza de la intención
 
-El origen de «khalaṣa» en la lengua denota la claridad y la pureza que resulta de la separación de lo que se mezcla con una cosa. La leche sale de entre el quimo y la sangre, mas no se mezcla con ellos; el oro puro es lo que se ha separado del polvo y las impurezas que se mezclaban con él en el mineral en bruto; y cuando el Corán dice que los hermanos de José «khalaṣū najiyyan» [Yūsuf: 80], significa que se separaron del grupo para deliberar en privado a solas. El sentido unificador en todos estos usos es uno: la salida de lo puro o lo aislado de entre lo que se mezclaba con ello o lo vecindaba. Y cuando este mismo sentido se aplica a la intención del corazón, su significación se vuelve: que el propósito de la adoración salga puro para Dios solo, separado de lo que pudo mezclarse con él de ostentación, o búsqueda de elogio, o algún otro fin.
+En la lengua, la raíz *khalaṣa* denota la claridad y la pureza que resultan de la separación de lo que se mezcla con una cosa. La leche sale de entre el *farth* y la sangre sin confundirse con ellos. El oro puro es el que se ha desprendido del polvo y de las impurezas que se le mezclaban en el mineral en bruto. Y cuando el Corán dice de los hermanos de José que *khalaṣū najiyyan* (12:80), significa que se separaron del grupo para deliberar a solas. El sentido que unifica todos estos usos es uno: la salida de lo puro o lo apartado de entre lo que se mezclaba con ello o lo rodeaba. Aplicado a la intención del corazón, ese mismo sentido se vuelve este: el propósito de la adoración sale puro para Dios solo, separado de cuanto pudiera haberse mezclado con él, sea ostentación, afán de elogio o cualquier otro fin.
 
-### Todo sincero tiene una intención, pero no toda intención es sincera
+### Todo sincero tiene intención, pero no toda intención es sincera
 
-Aquí conviene detenerse en una distinción a menudo pasada por alto cuando el ikhlāṣ se traduce como «buena intención»: pues la «intención» (niyya) en el origen de la lengua no es más que el propósito, un sentido general y neutro que incluye toda orientación del corazón hacia algún fin, sea loable o mezclado, puro o empañado; una persona puede tener una intención en su adoración, mas una intención mezclada con un deseo del elogio de la gente, y sigue siendo, no obstante, una intención en el sentido lingüístico general. El ikhlāṣ, en cambio, no describe la mera existencia del propósito, sino que describe el estado de ese propósito después de haber sido cribado de todo lo que se mezcló con él —exactamente como la leche se criba del quimo y la sangre sin perder su ser leche en ninguno de los dos casos. Así, todo sincero tiene una intención, pero no toda intención es sincera; y esta es la distinción que hace del ikhlāṣ algo más específico que la intención y un grado por encima de ella, no un sinónimo suyo.
+Conviene aquí detenerse en una distinción que a menudo se pasa por alto cuando se traduce *ikhlāṣ* como «buena intención». En la raíz de la lengua, la intención (*niyya*) no es más que el propósito. Es una noción general y neutra que abarca toda orientación del corazón hacia un fin, loable o mezclado, puro o empañado. Una persona puede tener una intención en su adoración que, sin embargo, esté mezclada con el deseo de que la gente la elogie, y sigue siendo una intención en el sentido lingüístico general.
 
-### La estructura central: purificar la obra de las impurezas
+El *ikhlāṣ*, en cambio, no describe la mera existencia de un propósito. Describe el estado de ese propósito una vez cribado de todo lo que se le mezcló, igual que la leche se cuela del *farth* y la sangre sin dejar de ser leche en ninguno de los dos casos. Todo sincero tiene intención, pero no toda intención es sincera. Esa es la distinción que hace del *ikhlāṣ* algo más específico que la intención y un grado por encima de ella, no un sinónimo suyo.
 
-Esta es la esencia de lo que el Corán describe como «ikhlāṣ»: no la mera existencia de una buena intención, sino la purificación del acto de todo lo que se mezcla con él de otros fines hasta que salga para Dios solo, exactamente como la pureza de la leche del quimo y la sangre. El Corán afirma este sentido explícitamente cuando describe la religión pura: «¿Acaso no es de Dios la religión pura (al-dīn al-khāliṣ)?» [al-Zumar: 3], usando el mismísimo adjetivo con que describió la leche, para decir que la adoración, como la leche, no es aceptada a menos que salga pura, sin mezcla de impureza alguna de asociación oculta o manifiesta.
+### La estructura central: depurar la obra de toda mezcla
 
-### Un modelo que revela el verdadero momento de la sinceridad: la súplica de la angustia
+Este es el núcleo de lo que el Corán llama *ikhlāṣ*: no la simple existencia de una buena intención, sino la limpieza del acto de todo otro propósito que se le mezcle, hasta que salga para Dios solo, como la leche sale pura de entre el *farth* y la sangre. El Corán enuncia este sentido de forma explícita al hablar de la religión pura:
 
-El Corán repite una sola escena en tres lugares distintos con una redacción casi idéntica: gentes que se embarcaron en el mar, y las olas los rodearon por todos lados hasta que creyeron que perecían —¿qué hicieron? «Invocaron a Dios haciendo Suya la religión con sinceridad (mukhliṣīn lahu al-dīn)» [Yūnus: 22, y en el mismo sentido al-ʿAnkabūt: 65, Luqmān: 32]. En el momento del peligro extremo, cuando el corazón queda al descubierto de su realidad y toda afectación social se desprende de él, esas gentes no invocaron sino a Dios solo, sin copartícipe mencionado junto a Él ni siquiera por imitación o costumbre. Esta escena recurrente revela que el ikhlāṣ es más claro cuando se desvanece todo motivo de ostentación; pues cuando no queda nadie ante quien alardear, ni beneficio en pretender la fe, aparece la sinceridad innata en su forma más pura —luego el Corán reprocha a esas mismas gentes en la continuación de las aleyas que, cuando Dios los salva a tierra, vuelven a asociar copartícipes, como si la sinceridad que la dificultad hizo aflorar no se sostuviera en la holgura.
+﴿أَلَا لِلَّهِ الدِّينُ الْخَالِصُ﴾ (39:3)
 
-### Otro modelo: los siervos de Dios a quienes Él eligió y seleccionó
+*«¿Acaso no es de Dios la religión pura?»*
 
-En contraste con esta sinceridad que el siervo ejerce por su propia voluntad, el Corán describe a un grupo de los profetas como «mukhlaṣūn» —el participio pasivo, no el activo— es decir, que Dios es Quien los purificó y los eligió: «salvo los siervos escogidos de Dios (ʿibād Allāh al-mukhlaṣīn)», frase que se repite literalmente cinco veces solo en la sura al-Ṣāffāt [al-Ṣāffāt: 40, 74, 128, 160, 169], junto a otros lugares [Yūsuf: 24, al-Ḥiŷr: 40, Ṣād: 83]. En la historia de José en concreto, cuando se inclinó hacia la mujer que quiso seducirlo, el Corán explica su salvación de la indecencia diciendo: «Así fue, para que apartáramos de él el mal y la indecencia. Ciertamente, era de Nuestros siervos escogidos (min ʿibādinā al-mukhlaṣīn)» [Yūsuf: 24]. Así, la sinceridad aquí es la causa de la protección, no su resultado: porque Dios lo purificó y lo eligió, se apartó de él el mal. Esto añade una capa importante al concepto: que el ikhlāṣ tiene dos caras complementarias —una sinceridad que el siervo ejerce por su propia voluntad en su adoración, y una elección que Dios concede a quien Él elige, guardándolo así del desliz.
+Emplea el mismo adjetivo con el que describió la leche, para decir que la adoración, como la leche, solo se acepta si sale pura, sin mezcla de rastro alguno de asociación, oculta o manifiesta.
 
-### Cuando el ikhlāṣ se une a la ḥanīfiyya
+### Una escena que revela el verdadero momento de la sinceridad: la súplica en la angustia
 
-Entre lo que merece detenerse está que el Corán, en casi la última de sus aleyas reveladas, describe el mandato divino que reúne todas las leyes reveladas anteriores diciendo: «Y no se les ordenó sino que adoraran a Dios, haciendo Suya la religión con sinceridad (mukhliṣīn lahu al-dīn), inclinados a la verdad (ḥunafāʾ)» [al-Bayyina: 5]. El ikhlāṣ aquí no se menciona solo, sino acoplado a la ḥanīfiyya —y el sentido de la ḥanīfiyya se detalló en el primer artículo de esta serie como una inclinación innata que se aparta de la asociación hacia el monoteísmo puro. La aleya aquí reúne las dos descripciones porque son dos caras de la misma moneda: la ḥanīfiyya es una inclinación de credo que rehúsa que se asocie copartícipe a Dios en la creencia, y el ikhlāṣ es una pureza práctica que rehúsa que se le asocie copartícipe en el propósito y la intención, y ambos son una purificación de la relación del siervo con su Señor de todo lo que se mezcla con ella o la disputa.
+El Corán repite una misma escena en tres lugares con palabras casi idénticas. Unos hombres se embarcan en el mar; las olas los envuelven por todas partes hasta que creen perecer; y ¿qué hacen?
 
-### Para que su mano izquierda no sepa lo que gasta su derecha
+﴿دَعَوُا اللَّهَ مُخْلِصِينَ لَهُ الدِّينَ﴾ (10:22)
 
-Y si la escena de la gente del barco revela la sinceridad en el momento de la angustia apremiante, la Sunna profética ofrece otro modelo que la revela en el momento de la elección libre, cuando la persona es capaz de mostrar su obra y elige ocultarla. En el hadiz de los siete a quienes Dios dará sombra en Su sombra el Día en que no habrá sombra salvo la Suya, el Profeta ﷺ menciona entre ellos: «y un hombre que dio una limosna y la ocultó, de suerte que su mano izquierda no supo lo que gastó su derecha»[^1]. Esta imagen —imaginar que la mano izquierda, lo más cercano a la mano derecha, quede velada de conocer lo que gastó su hermana— es una hipérbole retórica en la descripción de la ocultación de todo ojo posible, aunque sea el ojo del propio cuerpo. Es una aplicación literal del criterio de «la gente del barco» al que llegó este artículo: como los que se ahogaban fueron sinceros cuando todo observador estuvo ausente de ellos, este dador de limosna fue sincero cuando él mismo eligió que todo observador estuviera ausente de su obra, aunque no estuviera obligado a ello.
+*«Invocan a Dios, consagrándole sinceramente la religión.»*
+
+La misma escena se repite en 29:65 y 31:32. En el instante de peligro extremo, cuando el corazón queda desnudo en su realidad y cae toda afectación social, esos hombres no invocan sino a Dios solo, sin nombrar copartícipe a Su lado, ni siquiera por imitación o costumbre.
+
+Esta escena recurrente muestra que el *ikhlāṣ* es más claro cuando se ha desvanecido todo motivo de ostentación. Cuando ya no queda nadie ante quien lucirse ni provecho alguno en profesar la fe, la sinceridad natural aparece en su forma más pura. El Corán reprocha luego a esos mismos hombres, en la continuación de las aleyas, que apenas Dios los salva y los lleva a tierra vuelven a asociarle copartícipes, como si la sinceridad que la adversidad hizo aflorar no perdurase en la holgura.
+
+### Otro patrón: los siervos a quienes Dios escogió y eligió
+
+Frente a esta sinceridad que el siervo ejerce por su propia voluntad, el Corán describe a un grupo de profetas como *mukhlaṣūn*, en participio pasivo y no activo. Es Dios quien los purificó y los escogió:
+
+﴿إِلَّا عِبَادَ اللَّهِ الْمُخْلَصِينَ﴾
+
+*«Salvo los siervos escogidos de Dios.»*
+
+Esta expresión se repite literalmente cinco veces solo en la sura de al-Ṣāffāt (37:40, 74, 128, 160, 169) y figura también en otros pasajes (12:24, 15:40, 38:83). En la historia de José en particular, cuando se inclinó hacia la mujer que quiso seducirlo, el Corán explica su salvación de la indecencia con estas palabras:
+
+﴿كَذَٰلِكَ لِنَصْرِفَ عَنْهُ السُّوءَ وَالْفَحْشَاءَ إِنَّهُ مِنْ عِبَادِنَا الْمُخْلَصِينَ﴾ (12:24)
+
+*«Así [fue], para apartar de él el mal y la indecencia. Ciertamente, era de Nuestros siervos escogidos.»*
+
+Aquí la sinceridad es causa de la protección, no su resultado: porque Dios lo había purificado y escogido, el mal fue apartado de él. Esto añade una capa importante al concepto. El *ikhlāṣ* tiene dos caras complementarias: una sinceridad que el siervo ofrece por su propia voluntad en su adoración, y una elección que Dios concede a quien quiere, guardándolo del tropiezo.
+
+### Cuando el *ikhlāṣ* se une a la *ḥanīfiyya*
+
+Merece detenerse en que el Corán, en lo que se dice que son casi las últimas de sus aleyas reveladas, describe el mandato divino que reúne todas las leyes anteriores con estas palabras:
+
+﴿وَمَا أُمِرُوا إِلَّا لِيَعْبُدُوا اللَّهَ مُخْلِصِينَ لَهُ الدِّينَ حُنَفَاءَ﴾ (98:5)
+
+*«Y no se les ordenó sino que adoraran a Dios, consagrándole sinceramente la religión, inclinados hacia la verdad.»*
+
+El *ikhlāṣ* no se menciona aquí solo, sino unido a la *ḥanīfiyya*, cuyo sentido se expuso en el primer artículo de esta serie como una inclinación innata que se aparta de la idolatría hacia el monoteísmo puro. La aleya reúne las dos descripciones porque son dos caras de una misma moneda. La *ḥanīfiyya* es una inclinación de creencia que rehúsa asociar a Dios copartícipe alguno en el credo; el *ikhlāṣ* es una pureza práctica que rehúsa asociarle copartícipe alguno en el propósito y la intención. Ambas son una depuración de la relación del siervo con su Señor de cuanto se mezcla con ella o la disputa.
+
+### «Para que su mano izquierda no sepa lo que gasta su derecha»
+
+Si la escena de la gente del barco revela la sinceridad en un momento de angustia abrumadora, la Sunna profética ofrece otra imagen de ella en un momento de libre elección, cuando la persona podría exhibir su obra y decide ocultarla. En el hadiz de los siete a quienes Dios dará sombra bajo Su sombra el día en que no habrá más sombra que la Suya, el Profeta ﷺ menciona entre ellos:
+
+«ورجلٌ تصدّق بصدقةٍ فأخفاها، حتى لا تعلم شماله ما تُنفق يمينه»
+
+*«…y un hombre que dio una limosna y la ocultó, de modo que su mano izquierda no supo lo que gastó su derecha.»*[^1]
+
+La imagen es una hipérbole retórica: la mano izquierda, lo más cercano a la derecha, queda velada para no saber lo que su hermana ha gastado, a fin de expresar la ocultación a todo ojo posible, incluso al del propio cuerpo. Es una aplicación literal del criterio de «la gente del barco» al que ha llegado este artículo. Como los que se ahogaban fueron sinceros cuando todo observador estaba ausente, este dador de limosna fue sincero cuando él mismo eligió que todo observador estuviera ausente de su obra, sin que nada lo obligara a ello.
 
 ### El testimonio profético
 
-ʿUmar ibn al-Khaṭṭāb (que Dios esté complacido con él) narró —y al-Bujārī y Muslim lo registraron en sus dos Ṣaḥīḥs, acordado— que el Profeta ﷺ dijo: «Las obras son solo por las intenciones, y cada persona tendrá solo lo que intentó»[^2] —el hadiz del que el imán Aḥmad dijo que los fundamentos del islam giran sobre tres hadices, siendo este uno de ellos. En cambio, Abū Hurayra (que Dios esté complacido con él) narró —y Muslim lo registró en su Ṣaḥīḥ— el hadiz del «primero con quien se encenderá el Fuego el Día de la Resurrección»: un sabio, un combatiente y un dadivoso, que realizaron obras de gran apariencia, pero que no salieron puras para Dios, sino en busca de elogio, y se le dijo a cada uno de ellos: «Has mentido; más bien lo hiciste para que se dijera…»[^3]. El imán al-Nawawī dijo en su comentario: este hadiz es una prueba de la severidad de la prohibición de la ostentación (riyāʾ) y la intensidad de su castigo, y de la obligación del ikhlāṣ en las obras. Así, los dos hadices juntos dibujan los dos platos de la balanza: quien hizo su intención sincera es juzgado por ella aunque su obra sea poca; y quien corrompió su intención buscando el elogio, se le devuelve su obra aunque sea grande.
+ʿUmar ibn al-Jaṭṭāb (que Dios esté complacido con él) transmitió, en un hadiz recogido por al-Bujārī y Muslim en sus dos *Ṣaḥīḥ*, que el Profeta ﷺ dijo:
 
-### Una lectura orientada a los fines (maqāṣidī)
+«إنما الأعمال بالنيّات، وإنما لكلّ امرئٍ ما نوى»
 
-Los sabios notan que el Corán no hizo del ikhlāṣ una condición en las adoraciones puras solamente, sino que lo extendió a toda la religión: «¿Acaso no es de Dios la religión pura?» es una expresión general que incluye el credo, la adoración y el trato juntos, no la oración y el ayuno solamente. Algunos comentaristas enlazan esta generalidad con que el ikhlāṣ es una condición de aceptación, no una mera recomendación añadida; pues la obra de intención corrupta, por grande que sea su perfección aparente, no se cuenta ante Dios como obra recta —por la evidencia del hadiz precedente del sabio, el combatiente y el dadivoso. Esto distingue al ikhlāṣ de muchas otras virtudes que, si menguan, mengua su recompensa; pero el ikhlāṣ, si está ausente, toda la obra está ausente con él, porque lo puro, si una impureza suficiente se mezcla con ello, se corrompe su origen, no solo su medida. Por ello muchos sabios del camino espiritual contaron el ikhlāṣ como la más difícil de las obras de los corazones en absoluto —no por la dificultad de alcanzarlo de partida, sino por la dificultad de permanecer firme en él; pues la impureza de la ostentación puede entrar en la obra después de haber sido pura, corrompiéndola mientras está en camino, como una impureza puede entrar en la leche pura tras su extracción y corromper su pureza. Quizá el más elocuente en expresar esta dificultad fue Sufyān al-Thawrī, de quien se relata que dijo: «No he tratado nada más duro sobre mí que mi intención, pues no cesa de volverse sobre mí»[^4] —así, el ikhlāṣ no es una resolución que se anuda una vez y luego se deja, sino un esfuerzo renovado en cada obra, porque la intención, como él la describió, no se asienta en un estado. De este mismo capítulo es también lo que se relata de al-Ŷunayd ibn Muḥammad, el maestro de los sufíes de su tiempo, que definió el ikhlāṣ diciendo: «un secreto entre Dios y el siervo, que ningún ángel conoce para registrarlo, ni ningún demonio para corromperlo»[^5] —una definición que se encuentra con el hadiz «lo ocultó de suerte que su izquierda no supo»: pues mientras el ikhlāṣ sea un secreto al que nadie sino Dios es privado, su mayor protección es que permanezca así, distante incluso del conocimiento de los ángeles escribas que registran lo externo de la obra, no lo oculto del corazón.
+*«Las obras valen solo por las intenciones, y cada persona obtendrá únicamente lo que se propuso.»*[^2]
 
-### La dimensión aplicada contemporánea
+Se cuenta que el imán Aḥmad dijo de este hadiz que los fundamentos del islam giran en torno a tres hadices, y que este es uno de ellos.
 
-En una época en que todos los actos se han vuelto susceptibles de exhibición, documentación y difusión, es difícil para muchos separar el valor de la obra en sí de su eco ante quien la ve. La escena de la leche con la que se abrió este artículo ofrece un criterio práctico: como la más leve mezcla real entre la leche y el quimo y la sangre corrompe la leche, así la más leve mezcla real entre la intención de la obra y la búsqueda de la exhibición corrompe su valor ante Dios, aunque la obra misma permanezca correcta en su apariencia. Lo requerido no es cortar con la difusión del bien u ocultar toda obra recta —pues en mostrarla puede haber un ejemplo para otros— sino que el primer motor de la obra permanezca puro para Dios, de suerte que si todos los que la ven se desvanecieran, ni el propósito del que la hace ni su empeño cambiarían. Esta es la fina distinción que reveló la escena de la gente del barco: el verdadero ikhlāṣ es lo que permanece cuando no queda nadie que lo vea.
+En contraste, Abū Hurayra (que Dios esté complacido con él) transmitió, en un hadiz recogido por Muslim en su *Ṣaḥīḥ*, el relato de aquellos «con quienes se encenderá primero el Fuego el Día de la Resurrección»: un sabio, un combatiente y un hombre generoso. Realizaron obras de grandioso aspecto, pero no salieron puras para Dios; se hicieron en busca de elogio. A cada uno de ellos se le dijo:
 
-Y esto sirve como un simple criterio diario con el que cada persona puede poner a prueba su intención: preguntarse, antes de cualquier obra que se proponga, ¿la haría si supiera con certeza que nadie la conocería sino él y Dios? Si la respuesta es sí, esto es una marca de pureza en el propósito; y si la respuesta cambia con la presencia o la ausencia de la gente, ese es el lugar de la impureza que debe purificarse, exactamente como se purifica la leche de lo que pueda mezclarse con ella.
+«كذبتَ، ولكنّك فعلتَ ليُقال…»
+
+*«Has mentido; más bien lo hiciste para que se dijera…»*[^3]
+
+El imán al-Nawawī dijo en su comentario que este hadiz es prueba de la gravedad de la prohibición de la ostentación (*riyāʾ*) y de la dureza de su castigo, y de la obligación de la sinceridad en las obras. Juntos, los dos hadices trazan los dos platillos de la balanza. Quien hizo sincera su intención es juzgado por ella, aunque su obra sea pequeña. Quien echó a perder su intención buscando elogio ve devuelta su obra, aunque sea grande.
+
+### Una lectura desde los objetivos superiores (*maqāṣid*)
+
+Los sabios señalan que el Corán no hizo del *ikhlāṣ* una condición solo de los actos de culto propiamente dichos, sino que lo extendió a la religión entera. «¿Acaso no es de Dios la religión pura?» es una expresión general que abarca el credo, la adoración y el trato entre los hombres, no solo la oración y el ayuno.
+
+Algunos comentaristas enlazan esta generalidad con el hecho de que el *ikhlāṣ* es condición de aceptación y no una mera recomendación añadida. Una obra de intención corrompida, por perfecta que sea en su forma externa, no cuenta ante Dios como obra recta, como deja claro el hadiz del sabio, el combatiente y el generoso. Esto distingue al *ikhlāṣ* de otras muchas virtudes, cuya falta merma la recompensa; cuando falta el *ikhlāṣ*, desaparece con él toda la obra, pues cuando a lo puro se mezcla suficiente impureza, se echa a perder su propia sustancia y no solo su medida.
+
+Por eso muchos maestros del camino espiritual tuvieron el *ikhlāṣ* por la más difícil de todas las obras del corazón. No es difícil por lo arduo de alcanzarlo al principio, sino por lo arduo de mantenerse firme en él. La mácula de la ostentación puede entrar en una obra que empezó pura y echarla a perder por el camino, como una impureza puede caer en la leche pura una vez ordeñada y arruinar su limpidez.
+
+Quizá nadie expresó esta dificultad con mayor elocuencia que Sufyān al-Thawrī, de quien se relata que dijo:
+
+«ما عالجتُ شيئًا أشدَّ عليَّ من نيّتي؛ لأنها تتقلَّب عليَّ»
+
+*«Nunca he luchado con nada más duro que mi intención, pues no cesa de revolverse contra mí.»*[^4]
+
+El *ikhlāṣ*, pues, no es una resolución que se anuda una vez y se deja atrás, sino un esfuerzo que se renueva en cada obra, porque la intención, tal como él la describe, nunca se asienta en un solo estado.
+
+De la misma índole es lo que se relata de al-Ŷunayd ibn Muḥammad, maestro de los sufíes de su tiempo, quien definió el *ikhlāṣ* así:
+
+«سرٌّ بين الله وبين العبد، لا يعلمه ملَكٌ فيكتبه، ولا شيطانٌ فيُفسده»
+
+*«Un secreto entre Dios y el siervo, que ningún ángel conoce para registrarlo, ni ningún demonio para corromperlo.»*[^5]
+
+Esta definición se encuentra con el hadiz «la ocultó de modo que su izquierda no supo». Mientras el *ikhlāṣ* sea un secreto que solo Dios conoce, su mayor protección es que siga siéndolo, oculto incluso al conocimiento de los ángeles escribas, que registran la apariencia externa de la obra y no los arcanos del corazón.
+
+### La aplicación contemporánea
+
+En una época en que todo acto puede exhibirse, documentarse y compartirse, a muchos les cuesta separar el valor de una obra en sí misma de su eco ante quienes la ven. La imagen de la leche con la que se abrió este artículo ofrece una medida práctica. Así como la más leve mezcla real de *farth* y sangre echa a perder la leche, la más leve mezcla real del deseo de ser visto en la intención de una obra echa a perder su valor ante Dios, aunque la obra siga siendo recta en su forma externa.
+
+No se pide que dejemos de compartir el bien ni que ocultemos toda obra buena; puede haber ejemplo para otros en mostrarla. Se pide que el primer móvil de la obra siga siendo puro para Dios, de modo que si cuantos la ven se desvanecieran, ni el propósito del que la hace ni su esfuerzo cambiarían. Esta es la fina distinción que reveló la escena de la gente del barco: el verdadero *ikhlāṣ* es lo que permanece cuando ya no queda nadie para verlo.
+
+De aquí se desprende también una sencilla prueba diaria con la que cualquiera puede examinar su intención. Antes de cualquier obra que se proponga, que se pregunte: ¿haría esto si supiera con certeza que nadie llegaría a saberlo salvo yo y Dios? Si la respuesta es afirmativa, es señal de pureza en el propósito. Si la respuesta cambia según la presencia o la ausencia de la gente, ahí está la mezcla que hay que colar, igual que se depura la leche de cuanto pueda mezclarse con ella.
 
 ### Conclusión
 
-De una leche que sale pura de entre el quimo y la sangre, a una súplica hecha con sinceridad para Dios solo en el oleaje, a una limosna que la derecha oculta de la izquierda, a siervos a quienes Dios eligió y purificó de la indecencia, el Corán y la Sunna dibujan para el ikhlāṣ un solo sentido inmutable: que el propósito salga puro de entre todo lo que pueda mezclarse con él, un secreto al que nadie es privado sino Dios, como lo puro sale de entre lo que lo rodeaba. Y Dios, el Altísimo, es quien mejor sabe; Él es el Protector del éxito.
+Desde la leche que brota pura de entre el *farth* y la sangre, pasando por la súplica hecha a Dios solo en el oleaje, hasta la limosna que la derecha oculta a la izquierda y los siervos a quienes Dios escogió y limpió de la indecencia, el Corán y la Sunna trazan para el *ikhlāṣ* un único sentido inmutable: que el propósito salga puro de entre todo lo que pudiera mezclarse con él, un secreto que nadie conoce salvo Dios, como lo puro sale de entre lo que lo rodeaba. Y Dios, el Altísimo, es quien mejor sabe; Él es el Protector del éxito.
 
 ---
 
-[^1]: Narrado por al-Bujārī en su Ṣaḥīḥ y Muslim en su Ṣaḥīḥ, acordado, por vía de Abū Hurayra (que Dios esté complacido con él), en el hadiz de los siete a quienes Dios da sombra en Su sombra.
+[^1]: Transmitido por al-Bujārī en su *Ṣaḥīḥ* y por Muslim en su *Ṣaḥīḥ*, de común acuerdo, por vía de Abū Hurayra (que Dios esté complacido con él), en el hadiz de los siete a quienes Dios da sombra bajo Su sombra.
 
-[^2]: Narrado por al-Bujārī en su Ṣaḥīḥ (el Comienzo de la Revelación) y Muslim en su Ṣaḥīḥ, acordado, por vía de ʿUmar ibn al-Khaṭṭāb (que Dios esté complacido con él).
+[^2]: Transmitido por al-Bujārī en su *Ṣaḥīḥ* (el Comienzo de la Revelación) y por Muslim en su *Ṣaḥīḥ*, de común acuerdo, por vía de ʿUmar ibn al-Jaṭṭāb (que Dios esté complacido con él).
 
-[^3]: Narrado por Muslim en su Ṣaḥīḥ, por vía de Abū Hurayra (que Dios esté complacido con él), en el hadiz de los tres que son los primeros con quienes se enciende el Fuego.
+[^3]: Transmitido por Muslim en su *Ṣaḥīḥ*, por vía de Abū Hurayra (que Dios esté complacido con él), en el hadiz de los tres con quienes se enciende primero el Fuego.
 
-[^4]: Un dicho relatado de Sufyān al-Thawrī, citado por un número de los sabios del camino espiritual en el capítulo sobre el esfuerzo con la intención.
+[^4]: Dicho que se relata de Sufyān al-Thawrī, citado por varios sabios del camino espiritual en el capítulo sobre el esfuerzo con la intención.
 
-[^5]: Una definición relatada de al-Ŷunayd ibn Muḥammad al-Bagdādī, transmitida en los libros del sufismo suní moderado en el capítulo sobre el ikhlāṣ.
+[^5]: Definición que se relata de al-Ŷunayd ibn Muḥammad al-Bagdādī, transmitida en los libros del sufismo suní moderado en el capítulo sobre el *ikhlāṣ*.

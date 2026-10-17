@@ -4,48 +4,124 @@ locale: "en"
 slug: "sidq-in-quran-correspondence-not-mere-absence-of-lying"
 ---
 
-In the Battle of the Confederates (al-Aḥzāb), when the idolatrous alliance closed in upon Madīnah from every side until the eyes swerved and the hearts reached the throats, and the hypocrites and those with disease in their hearts said, "God and His Messenger did not promise us except delusion," there were in the ranks of the believers other men, whom the Qurʾan described in a single sentence: "Among the believers are men true (ṣadaqū) to what they pledged to God. Among them is he who has fulfilled his vow, and among them is he who awaits; and they did not alter [their commitment] by any alteration" [al-Aḥzāb: 23]. The Qurʾan did not say that they "did not lie" in their promise, but that they were "true" (ṣadaqū) to what they pledged to God — that is, their deeds corresponded to their words in complete correspondence, even unto death. This fine distinction, between the mere absence of lying and complete correspondence between word and deed, is the entryway to this Qurʾanic concept.
+*In the Qurʾan, ṣidq is far more than refraining from falsehood: it is the full correspondence of word to deed and of heart to tongue, a truthfulness that is tested rather than claimed, and built through repetition until it ripens into the rank of the ṣiddīq.*
 
-### Delimiting the word and the count
+By Dr. Ahmed Muhammad Ali Abouseif, President of the American Imams Academy (AIA)
 
-The root "ṣ-d-q" occurs in the Qurʾan one hundred and fifty-five times, in nineteen forms, but this number is distributed across three semantic fields that must be distinguished: the first field, which is the subject of this article, the field of "ṣidq" in the sense of the correspondence of word to reality and heart to tongue, and it includes: the verb "ṣadaqa" fifteen times, the noun "ṣidq" fourteen times, the active participle "ṣādiq" fifty-nine times (the most frequently occurring of the root's forms absolutely), "ṣādiqāt" once, the intensive form "ṣiddīq" five times, "ṣiddīqah" once, and the superlative "aṣdaq" twice — that is, ninety-six places are the direct verbal witness for this article. As for the second field, it is "ṣadaqah" in the sense of financial giving (about twenty places from the forms "taṣaddaqa," "ṣadaqah," and "ṣadaqāt"), a juristic concept linguistically connected to ṣidq — for ṣadaqah was named ṣadaqah because it is a tangible proof of the truthfulness of its giver — but it is not the subject of this article. And the third field, "taṣdīq," in the sense of affirming the soundness of revelation and accepting it (nineteen times the form "muṣaddiq," often in describing the Qurʾan as "confirming what is before it" of the earlier scriptures), which is nearer to faith in its creedal sense than to moral truthfulness. This article concerns itself with the first field exclusively.
+At the Battle of the Confederates (al-Aḥzāb), when the idolatrous coalition had closed upon Madīnah from every side, until eyes grew wild and hearts leapt to the throat, the hypocrites and those with sickness in their hearts declared: ﴿مَا وَعَدَنَا اللَّهُ وَرَسُولُهُ إِلَّا غُرُورًا﴾ (33:12), "God and His Messenger promised us nothing but delusion." Yet there stood among the believers other men, whom the Qurʾan describes in a single sentence:
 
-### The linguistic root: correspondence, not mere negation
+﴿مِنَ الْمُؤْمِنِينَ رِجَالٌ صَدَقُوا مَا عَاهَدُوا اللَّهَ عَلَيْهِ فَمِنْهُمْ مَنْ قَضَىٰ نَحْبَهُ وَمِنْهُمْ مَنْ يَنْتَظِرُ وَمَا بَدَّلُوا تَبْدِيلًا﴾ (33:23)
 
-In the root of the language, "ṣadaqa" does not denote the mere negation of lying, but correspondence and hitting the mark: one says "the shot was true" (ṣadaqat al-ramyah) when it hit its target with no deviation, and one says "a true spear" (rumḥ ṣādiq) when it is straight with no crookedness in it. So ṣidq, by virtue of its linguistic origin, is a correspondence to reality as the spear hits its target or the spear runs straight upon a single line, not a mere abstaining from an erroneous statement. This distinguishes ṣidq from its meaning readily understood today as "not lying" alone: for it is possible that a person not lie with his tongue, and yet not attain complete ṣidq if his deeds do not correspond to his words, and his heart to his tongue.
+*"Among the believers are men who were true (ṣadaqū) to the covenant they made with God. Some of them have fulfilled their vow by death, and some still await their turn; and they have not altered their resolve in the least."*
 
-### The central structure: a truthfulness that is tested, not claimed
+The Qurʾan does not say that these men "did not lie" in their promise. It says that they were *true* (ṣadaqū) to what they had pledged to God: their deeds corresponded wholly to their words, even unto death. This fine distinction, between the mere absence of lying and the complete correspondence of word and deed, is the doorway into this Qurʾanic concept.
 
-The Qurʾan discloses, in a single verse of Sūrat al-Aḥzāb, that the mere claim of ṣidq does not suffice; for ṣidq itself is a place of testing on the Day of Resurrection: "that He might question the truthful about their truthfulness" [al-Aḥzāb: 8]. Note that the Questioner here does not question the liars about their lying, but questions "the truthful" themselves about their truthfulness — that is, even the one described as truthful outwardly will be reckoned as to the extent of that description's correspondence to the reality of his inner self. In another place, the Qurʾan describes the Day of Resurrection as the Day on which "the truthful will benefit from their truthfulness": "God will say: This is the Day when the truthful will benefit from their truthfulness" [al-Māʾidah: 119] — that is, the fruit of ṣidq does not appear complete except in the moment when every prior claim is tested, so it benefits the one whose truthfulness was real and does not benefit the one whose was an empty claim. The verse of al-Aḥzāb crowns this meaning when it describes the truthful as those whom God "will reward for their truthfulness" [al-Aḥzāb: 24] — that is, for their actual correspondence, not for their mere saying that they are truthful.
+### The Word and Its Occurrences
 
-### A Qurʾanic model: a rank attained only by accumulation
+The root ṣ-d-q occurs in the Qurʾan one hundred and fifty-five times, in nineteen forms. These occurrences, however, fall into three semantic fields that must be kept distinct. The first, which is the subject of this article, is that of *ṣidq* in the sense of the conformity of speech to reality and of heart to tongue. It comprises the verb *ṣadaqa* (fifteen times); the noun *ṣidq* (fourteen); the active participle *ṣādiq* (fifty-nine, by far the most frequent form of the root); *ṣādiqāt* (once); the intensive *ṣiddīq* (five); *ṣiddīqah* (once); and the elative *aṣdaq* (twice). These make ninety-six occurrences in all, and they furnish the direct lexical witness for this study.
 
-There occurs in the Qurʾan a special title bestowed only upon a rare few: "ṣiddīq," an intensive form indicating one from whom ṣidq has recurred until it became a description inseparable from his person. Abraham is described by it: "And mention in the Book Abraham. Indeed, he was a man of truth (ṣiddīq), a prophet" [Maryam: 41], and Idrīs by the same form verbatim [Maryam: 56]; and the mother of Mary — or Mary herself in another reading — is described by it: "and his mother was a woman of truth (ṣiddīqah)" [al-Māʾidah: 75]; and Joseph is addressed by it by those who knew him in prison: "Joseph, O man of truth (al-ṣiddīq)" [Yūsuf: 46]. The Qurʾan places this rank in an explicit ordering among the degrees of those upon whom God has bestowed favor: "Those are with the ones upon whom God has bestowed favor — of the prophets, the truthful (al-ṣiddīqīn), the martyrs, and the righteous" [al-Nisāʾ: 69] — so the truthful come in the second rank directly after the prophets, before the martyrs and the righteous. This ordering is not arbitrary: for while prophethood is granted by divine selection, not human earning, the rank of "ṣiddīqiyyah" — as the Prophetic hadith will make clear — is attained by the accumulation of ṣidq until it becomes a firmly rooted disposition; it is the highest rank a non-prophet attains by his effort and his recurring truthfulness.
+The second field is *ṣadaqah*, material giving (some twenty occurrences of the forms *taṣaddaqa*, *ṣadaqah* and *ṣadaqāt*). It is a juristic concept bound to ṣidq by etymology, for alms are called *ṣadaqah* because they are tangible proof of the giver's sincerity, but it is not our present concern. The third is *taṣdīq*, the affirmation and acceptance of revelation (the participle *muṣaddiq* occurs nineteen times, chiefly in describing the Qurʾan as "confirming what lies before it" of earlier scriptures), which lies closer to faith in its creedal sense than to moral truthfulness. This article attends to the first field alone.
 
-### Another model: a truthfulness for which a companion is sought
+### The Linguistic Root: Correspondence, Not Mere Negation
 
-The Qurʾan does not content itself with commanding ṣidq for an isolated individual, but commands joining the community of the truthful: "O you who have believed, fear God and be with the truthful (al-ṣādiqīn)" [al-Tawbah: 119]. The command here is not "be truthful" alone, but "be with the truthful" — a signal that ṣidq needs an environment that preserves it and accumulates it, not that it be practiced in social isolation. Strikingly, this verse came after the story of the three who were left behind in the expedition of Tabūk, whose truthfulness with the Prophet ﷺ delivered them from ruin when they did not excuse themselves with false excuses as the hypocrites did, but confessed their staying behind openly — so their truthfulness, despite its immediate bitterness, was the cause of their ultimate deliverance.
+In the original sense of the language, *ṣadaqa* does not denote the mere negation of lying, but correspondence and hitting the mark. One says *ṣadaqat al-ramyah*, "the shot was true," when it struck its target without deviation, and *rumḥ ṣādiq*, "a true spear," when it is straight and without crookedness. Ṣidq, by its very origin, is therefore conformity to reality, as the spear meets its target or runs true along a single line, and not merely an abstention from false speech.
 
-### A fourth model: a tongue of truth that remains after its owner
+This distinguishes ṣidq from the meaning that readily comes to mind today, "not lying." A person may never lie with his tongue and yet fall short of complete ṣidq, if his deeds do not correspond to his words, or his heart to his tongue.
 
-Abraham supplicated his Lord with a striking supplication: "And grant me a tongue of truth (lisāna ṣidq) among the later generations" [al-Shuʿarāʾ: 84] — that is, a truthful legacy that remains upon the tongues of those who come after him, so that he is not remembered other than by his reality. The same form recurs in other places ("an entrance of truth," "an exit of truth," [al-Isrāʾ: 80]; and "a lofty tongue of truth" for John, [Maryam: 50]), adding a dimension not yet apparent: that ṣidq is not confined to the correspondence of word to reality in its moment, but extends to the correspondence of the remembrance to the reality after its owner's departure. Whoever lived truthful bequeathed a truthful legacy, and whoever contradicted his inner self by his outer left a betrayal whose trace is disclosed even after a while. This reminds us that ṣidq, in the Qurʾanic system, is not a momentary virtue measured by a particular stance, but a connected fabric extending from the first word to the last of it that remains in people's memory.
+### The Central Structure: A Truthfulness Tested, Not Claimed
 
-### The Prophetic witness
+In a single passage of Sūrat al-Aḥzāb, the Qurʾan reveals that the mere claim to ṣidq does not suffice, for ṣidq itself will be put to the test on the Day of Resurrection:
 
-The Prophet ﷺ describes the long path of ṣidq from the recurring act to the firm rank in a comprehensive hadith: "Hold fast to truthfulness (ṣidq), for truthfulness guides to piety (birr), and piety guides to Paradise; and a man continues to be truthful and to seek out truthfulness until he is recorded with God as a ṣiddīq."[^1] This hadith connects directly between what this article began with — the concept of ṣidq as a recurring act ("he is truthful and seeks out truthfulness") — and the Qurʾanic rank with which the third model was sealed: for ṣiddīqiyyah, by the text of the hadith, is not a title granted at the outset, but a cumulative result of recurring truthfulness until God records its owner as a "ṣiddīq" — the very destiny that Abraham and Idrīs attained by the text of the Qurʾan.
+﴿لِيَسْأَلَ الصَّادِقِينَ عَنْ صِدْقِهِمْ﴾ (33:8)
 
-### An objective-based (maqāṣidī) reading
+*"That He may question the truthful about their truthfulness."*
 
-It is observed from the totality of the verses that the Qurʾan widens the circle of ṣidq to include more than spoken words: truthfulness in the promise (as in the description of Ishmael, "Indeed, he was true to his promise," [Maryam: 54]), truthfulness in the covenant (as in the men of al-Aḥzāb), truthfulness in confession (as in the story of Tabūk), and truthfulness in the inner intention about which one is questioned on the Day of Resurrection. A number of scholars have noted that this Prophetic hadith draws a clear causal gradation — ṣidq, then birr, then Paradise — matched on the other side by a reverse gradation — lying, then wickedness, then the Fire — as though ṣidq and lying were not two isolated acts, but two gates opening onto two entirely opposite paths of character and destiny together. This accords with the linguistic origin upon which this article was built: for as the true shot hits its target with no deviation, so a life of ṣidq hits its goal with no deviation, unlike a life of lying that deviates with its owner step by step until it brings him to a destiny entirely contrary to what he began with.
+Observe that the Questioner does not interrogate the liars about their lying; He questions the truthful themselves about their truthfulness. Even one who is outwardly called truthful will be reckoned with as to how faithfully that description matched the reality of his inner self. Elsewhere the Qurʾan names the Day of Resurrection as the day on which truthfulness bears fruit:
 
-### The contemporary applied dimension
+﴿قَالَ اللَّهُ هَٰذَا يَوْمُ يَنفَعُ الصَّادِقِينَ صِدْقُهُمْ﴾ (5:119)
 
-Many today confuse "the absence of explicit lying" with the complete ṣidq that the Qurʾan describes, supposing that avoiding direct falsehoods is sufficient, while they overlook finer forms of non-correspondence: a promise cut with no intention of fulfillment, an outward agreement that hides an inner objection, or a commitment declared in a task and not translated into deed. The men of al-Aḥzāb who were "true to what they pledged to God" offer a different model: that true ṣidq is tested when fulfillment is difficult, not when it is easy, and that "not altering" the stance under pressure — not the mere initial declaration of it — is the actual test of the truthfulness of commitment. In the environment of work and institutions, the principle "ṣidq guides to birr" serves as a criterion that exceeds the mere "transparency" common today: for transparency may content itself with not concealing information, while Qurʾanic ṣidq demands complete correspondence between what is declared and what is actually practiced. And whoever wishes to attain the firmness of the "ṣiddīqīn," not to content himself with a passing moment of truthfulness, must seek out ṣidq in every small stance before he is tested in the great one, as the Prophetic hadith indicated when it described the path as an accumulation, not a leap.
+*"God will say: This is the Day on which the truthful shall profit from their truthfulness."*
+
+The fruit of ṣidq, that is, appears in its fullness only at the moment when every earlier claim is put to proof: it profits the one whose truthfulness was real, and avails nothing to the one whose truthfulness was an empty pretension. The verses of al-Aḥzāb crown this meaning when they say that God will "reward the truthful for their truthfulness" (33:24), reward them, that is, for their actual correspondence, and not for their merely saying that they are truthful.
+
+### A Qurʾanic Model: A Rank Attained Only by Accumulation
+
+The Qurʾan bestows a special title upon a rare few: *ṣiddīq*, an intensive form denoting one in whom truthfulness has recurred so often that it has become a quality inseparable from his person. Abraham is so described:
+
+﴿وَاذْكُرْ فِي الْكِتَابِ إِبْرَاهِيمَ إِنَّهُ كَانَ صِدِّيقًا نَبِيًّا﴾ (19:41)
+
+*"And mention in the Book Abraham. He was a man of utter truthfulness (ṣiddīq), a prophet."*
+
+Idrīs is described in the very same words (19:56). The title is given also to the mother of Mary (or, in another reading, to Mary herself):
+
+﴿وَأُمُّهُ صِدِّيقَةٌ﴾ (5:75)
+
+*"And his mother was a woman of utter truthfulness."*
+
+And Joseph is addressed by it by those who had known him in prison:
+
+﴿يُوسُفُ أَيُّهَا الصِّدِّيقُ﴾ (12:46)
+
+*"Joseph, O man of utter truthfulness."*
+
+The Qurʾan places this rank in an explicit order among the degrees of those whom God has favored:
+
+﴿فَأُولَٰئِكَ مَعَ الَّذِينَ أَنْعَمَ اللَّهُ عَلَيْهِمْ مِنَ النَّبِيِّينَ وَالصِّدِّيقِينَ وَالشُّهَدَاءِ وَالصَّالِحِينَ﴾ (4:69)
+
+*"Such are with those upon whom God has bestowed His favor: the prophets, the truthful (ṣiddīqīn), the martyrs, and the righteous."*
+
+The ṣiddīqūn thus stand in the second rank, immediately after the prophets and before the martyrs and the righteous. The order is not arbitrary. Prophethood is conferred by divine election, not won by human effort, whereas the rank of *ṣiddīqiyyah*, as the Prophetic hadith will make plain, is reached by the accumulation of truthfulness until it becomes a firmly rooted disposition. It is the highest rank that a non-prophet can attain by his own striving and his habitual truthfulness.
+
+### Another Model: A Truthfulness That Seeks Companions
+
+The Qurʾan is not content to enjoin ṣidq upon the solitary individual; it commands him to join the company of the truthful:
+
+﴿يَا أَيُّهَا الَّذِينَ آمَنُوا اتَّقُوا اللَّهَ وَكُونُوا مَعَ الصَّادِقِينَ﴾ (9:119)
+
+*"O you who believe, fear God and be with the truthful."*
+
+The command is not simply "be truthful," but "be *with* the truthful," a sign that ṣidq needs an environment that guards it and lets it accumulate, and cannot be practiced in social isolation. It is striking that this verse follows the story of the three who were left behind at the expedition of Tabūk. Their honesty before the Prophet ﷺ saved them from ruin: they did not offer false excuses, as the hypocrites did, but openly confessed their failure to join the march. Their truthfulness, for all its present bitterness, became the cause of their final deliverance.
+
+### A Fourth Model: A Tongue of Truth That Outlives Its Owner
+
+Abraham made a remarkable petition to his Lord:
+
+﴿وَاجْعَلْ لِي لِسَانَ صِدْقٍ فِي الْآخِرِينَ﴾ (26:84)
+
+*"And grant me a tongue of truth among the later generations."*
+
+He asked, that is, for an honest legacy that would live on the lips of those who came after him, so that he would be remembered only as he truly was. The same construction recurs elsewhere: "an entrance of truth" and "an exit of truth" (17:80), and a "lofty tongue of truth" (19:50), which the Arabic text attributes to John. It adds a dimension not yet apparent: ṣidq is not confined to the conformity of speech to reality in the moment of speaking, but extends to the conformity of memory to reality after its owner has departed.
+
+He who lived truthfully bequeaths a truthful legacy; he who contradicted his inner self by his outer leaves a betrayal whose traces come to light, if only after a time. Ṣidq in the Qurʾanic scheme is thus no momentary virtue, measured by a single stance, but a continuous fabric stretching from a man's first word to the last of it that survives in the memory of others.
+
+### The Prophetic Witness
+
+The Prophet ﷺ describes the long road of ṣidq, from repeated action to settled rank, in a comprehensive hadith:
+
+«عَلَيْكُمْ بِالصِّدْقِ؛ فَإِنَّ الصِّدْقَ يَهْدِي إِلَى الْبِرِّ، وَإِنَّ الْبِرَّ يَهْدِي إِلَى الْجَنَّةِ، وَمَا يَزَالُ الرَّجُلُ يَصْدُقُ وَيَتَحَرَّى الصِّدْقَ حَتَّى يُكْتَبَ عِنْدَ اللَّهِ صِدِّيقًا»[^1]
+
+*"Hold fast to truthfulness, for truthfulness guides to righteousness (birr), and righteousness guides to Paradise. A man keeps speaking the truth and striving for truthfulness until he is recorded with God as a ṣiddīq."*
+
+This hadith links directly the notion with which the article began, ṣidq as a recurring act ("he speaks the truth and strives for truthfulness"), to the Qurʾanic rank with which the preceding model closed. By the very words of the hadith, ṣiddīqiyyah is not a title conferred at the outset but the cumulative result of repeated truthfulness, until God records its bearer as a *ṣiddīq*, the destiny that, by the testimony of the Qurʾan, Abraham and Idrīs attained.
+
+### A Reading in Light of the Higher Objectives
+
+The verses taken together show that the Qurʾan widens the circle of ṣidq beyond spoken words: truthfulness in the promise (as in the description of Ishmael, ﴿إِنَّهُ كَانَ صَادِقَ الْوَعْدِ﴾, "he was true to his promise," 19:54); truthfulness in the covenant (as with the men of al-Aḥzāb); truthfulness in confession (as in the story of Tabūk); and truthfulness in the hidden intention, about which one will be questioned on the Day of Resurrection.
+
+A number of scholars have observed that this hadith traces a clear causal progression, ṣidq, then birr, then Paradise, to which the same hadith opposes, on the other side, a reverse progression: lying, then wickedness, then the Fire. Truthfulness and lying are thus not two isolated acts but two gates, opening upon two wholly opposite paths of character and of destiny alike. This accords with the linguistic origin on which the article is built: as the true shot reaches its target without deviation, so a life of ṣidq reaches its goal without deviation, while a life of lying leads its owner astray, step by step, until it brings him to a destination utterly contrary to the one he set out for.
+
+### The Contemporary Application
+
+Many today confuse "the absence of outright lying" with the complete ṣidq that the Qurʾan describes. They suppose that avoiding direct falsehood is enough, and overlook subtler forms of non-correspondence: a promise made without any intention of keeping it, an outward assent that conceals an inward objection, a commitment proclaimed in the workplace and never translated into deed.
+
+The men of al-Aḥzāb who were "true to the covenant they made with God" offer a different model: genuine ṣidq is tested when fulfillment is hard, not when it is easy, and the real proof of a commitment's sincerity is "not altering" one's stance under pressure, and not the mere declaration of it at the outset. In the life of workplaces and institutions, the principle that "ṣidq guides to birr" supplies a standard that goes beyond the "transparency" so often praised today. Transparency may be satisfied with not concealing information; Qurʾanic ṣidq demands a complete correspondence between what is declared and what is actually practiced.
+
+And whoever aspires to the steadfastness of the ṣiddīqūn, and does not wish to rest content with a fleeting moment of honesty, must cultivate truthfulness in every small matter before he is tried in the great one. This is what the Prophetic hadith teaches in describing the path as an accumulation and not a leap.
 
 ### Conclusion
 
-From men whose deeds corresponded to their covenants unto death, to a prophet described as a "ṣiddīq" before he was described as a prophet, to a hadith drawing the path from recurring truthfulness to a rank recorded with God, the Qurʾan draws for ṣidq a single, unchanging meaning: a correspondence between word and deed, and inner and outer, that is tested and not claimed, and is built by repetition, not attained by claim. And God, the Exalted, knows best; He is the Guardian of success.
+From men whose deeds matched their covenants unto death, to a prophet called a "ṣiddīq" even before he is called a prophet, to a hadith that charts the road from repeated truthfulness to a rank inscribed with God, the Qurʾan draws for ṣidq a single, unchanging meaning: a correspondence between word and deed, between inner and outer, which is tested rather than claimed, and is built by repetition, not won by assertion. And God, the Exalted, knows best; and from Him alone comes all success.
 
 ---
 
-[^1]: Narrated by al-Bukhārī in his Ṣaḥīḥ (6094) and Muslim in his Ṣaḥīḥ (2607), on the authority of ʿAbd Allāh ibn Masʿūd (may God be pleased with him).
+[^1]: Narrated by al-Bukhārī in his *Ṣaḥīḥ* (6094) and by Muslim in his *Ṣaḥīḥ* (2607), on the authority of ʿAbd Allāh ibn Masʿūd (may God be pleased with him).

@@ -4,48 +4,124 @@ locale: "es"
 slug: "sidq-in-quran-correspondence-not-mere-absence-of-lying"
 ---
 
-En la batalla de los Coligados (al-Aḥzāb), cuando la alianza idólatra cercó Medina por todos lados hasta que las miradas se desviaron y los corazones llegaron a las gargantas, y los hipócritas y aquellos con enfermedad en sus corazones dijeron: «Dios y Su Mensajero no nos prometieron sino un engaño», había en las filas de los creyentes otros hombres, a quienes el Corán describió en una sola frase: «Entre los creyentes hay hombres que fueron veraces (ṣadaqū) en lo que pactaron con Dios. Entre ellos hay quien cumplió su voto, y entre ellos quien aguarda; y no alteraron [su compromiso] con alteración alguna» [al-Aḥzāb: 23]. El Corán no dijo que «no mintieron» en su promesa, sino que fueron «veraces» (ṣadaqū) en lo que pactaron con Dios —es decir, que sus obras correspondieron a sus palabras en correspondencia completa, hasta la muerte. Esta fina distinción, entre la mera ausencia de mentira y la correspondencia completa entre la palabra y la obra, es la entrada a este concepto coránico.
+*En el Corán, el ṣidq es mucho más que abstenerse de la falsedad: es la plena correspondencia de la palabra con la obra y del corazón con la lengua, una veracidad que se somete a prueba en lugar de proclamarse, y que se edifica por la repetición hasta madurar en el rango del ṣiddīq.*
 
-### Delimitación de la palabra y el recuento
+Por el Dr. Ahmed Muhammad Ali Abouseif, presidente de la American Imams Academy (AIA)
 
-La raíz «ṣ-d-q» aparece en el Corán ciento cincuenta y cinco veces, en diecinueve formas, pero este número se distribuye en tres campos semánticos que deben distinguirse: el primer campo, que es el tema de este artículo, el campo del «ṣidq» en el sentido de la correspondencia de la palabra con la realidad y del corazón con la lengua, e incluye: el verbo «ṣadaqa» quince veces, el nombre «ṣidq» catorce veces, el participio activo «ṣādiq» cincuenta y nueve veces (la más frecuente de las formas de la raíz en absoluto), «ṣādiqāt» una vez, la forma intensiva «ṣiddīq» cinco veces, «ṣiddīqa» una vez, y el superlativo «aṣdaq» dos veces —es decir, noventa y seis lugares son el testimonio verbal directo de este artículo. En cuanto al segundo campo, es la «ṣadaqa» en el sentido del don material (unos veinte lugares de las formas «taṣaddaqa», «ṣadaqa» y «ṣadaqāt»), un concepto jurídico ligado lingüísticamente al ṣidq —pues la ṣadaqa se llamó ṣadaqa porque es una prueba tangible de la veracidad de quien la da— pero no es el tema de este artículo. Y el tercer campo, el «taṣdīq», en el sentido de afirmar la veracidad de la revelación y aceptarla (diecinueve veces la forma «muṣaddiq», a menudo al describir el Corán como «confirmador de lo que tiene ante sí» de las escrituras anteriores), que está más cerca de la fe en su sentido de credo que de la veracidad moral. Este artículo se ocupa del primer campo exclusivamente.
+En la batalla de los Coligados (al-Aḥzāb), cuando la alianza idólatra cercó Medina por todos los flancos, hasta que las miradas se extraviaron y los corazones subieron a las gargantas, los hipócritas y los de corazón enfermo decían: ﴿مَا وَعَدَنَا اللَّهُ وَرَسُولُهُ إِلَّا غُرُورًا﴾ (33:12), «Dios y Su Mensajero no nos prometieron sino engaño». Sin embargo, en las filas de los creyentes había otros hombres, a quienes el Corán describe en una sola frase:
+
+﴿مِنَ الْمُؤْمِنِينَ رِجَالٌ صَدَقُوا مَا عَاهَدُوا اللَّهَ عَلَيْهِ فَمِنْهُمْ مَنْ قَضَىٰ نَحْبَهُ وَمِنْهُمْ مَنْ يَنْتَظِرُ وَمَا بَدَّلُوا تَبْدِيلًا﴾ (33:23)
+
+*«Entre los creyentes hay hombres que fueron veraces (ṣadaqū) con el pacto que habían sellado con Dios. Algunos de ellos cumplieron su promesa hasta la muerte, y otros aguardan todavía; y en nada alteraron su resolución.»*
+
+El Corán no dice que estos hombres «no mintieron» en su promesa, sino que fueron *veraces* (ṣadaqū) con lo que pactaron con Dios: sus obras coincidieron plenamente con sus palabras, hasta la muerte. Esta sutil distinción, entre la mera ausencia de mentira y la correspondencia cabal entre la palabra y la obra, es la puerta de entrada a este concepto coránico.
+
+### La palabra y su recuento
+
+La raíz ṣ-d-q aparece en el Corán ciento cincuenta y cinco veces, en diecinueve formas. Estas apariciones se reparten, sin embargo, en tres campos semánticos que conviene distinguir. El primero, objeto de este artículo, es el del *ṣidq* en el sentido de conformidad de la palabra con la realidad y del corazón con la lengua. Comprende el verbo *ṣadaqa* (quince veces); el sustantivo *ṣidq* (catorce); el participio activo *ṣādiq* (cincuenta y nueve, con mucho la forma más frecuente de la raíz); *ṣādiqāt* (una vez); la forma intensiva *ṣiddīq* (cinco); *ṣiddīqa* (una); y el elativo *aṣdaq* (dos). Son noventa y seis ocurrencias en total, que constituyen el testimonio léxico directo de este estudio.
+
+El segundo campo es el de la *ṣadaqa*, la dádiva material (unas veinte apariciones de las formas *taṣaddaqa*, *ṣadaqa* y *ṣadaqāt*). Es un concepto jurídico ligado al ṣidq por la etimología, pues la limosna se llama *ṣadaqa* porque es prueba tangible de la sinceridad de quien la da, pero no es nuestro asunto aquí. El tercero es el *taṣdīq*, la afirmación y aceptación de la revelación (el participio *muṣaddiq* aparece diecinueve veces, sobre todo al describir el Corán como «confirmador de lo que tiene delante» de las escrituras anteriores), más próximo a la fe en su sentido doctrinal que a la veracidad moral. Este artículo se ocupa únicamente del primer campo.
 
 ### La raíz lingüística: correspondencia, no mera negación
 
-En la raíz de la lengua, «ṣadaqa» no denota la mera negación de la mentira, sino la correspondencia y el acertar: se dice «el disparo fue certero» (ṣadaqat al-ramya) cuando dio en su blanco sin desviación, y se dice «una lanza recta» (rumḥ ṣādiq) cuando es derecha sin torcedura. Así, el ṣidq, en virtud de su origen lingüístico, es una correspondencia con la realidad como la lanza da en su blanco o la lanza corre recta sobre una sola línea, no un mero abstenerse de una afirmación errónea. Esto distingue el ṣidq de su sentido hoy fácilmente entendido como «no mentir» solamente: pues es posible que una persona no mienta con su lengua, y aun así no alcance el ṣidq completo si sus obras no corresponden a sus palabras, y su corazón a su lengua.
+En el sentido primitivo de la lengua, *ṣadaqa* no denota la simple negación de la mentira, sino la correspondencia y el dar en el blanco. Se dice *ṣadaqat al-ramya*, «el tiro fue certero», cuando alcanzó su objetivo sin desviarse, y *rumḥ ṣādiq*, «lanza veraz», cuando es recta y sin torcedura. El ṣidq es, pues, por su mismo origen, conformidad con la realidad, como la lanza que da en su blanco o corre derecha por una sola línea, y no una mera abstención de la palabra falsa.
 
-### La estructura central: una veracidad que se pone a prueba, no que se pretende
+Esto distingue el ṣidq del sentido que hoy acude con facilidad a la mente, el de «no mentir». Una persona puede no mentir jamás con la lengua y, sin embargo, no alcanzar el ṣidq cabal, si sus obras no corresponden a sus palabras ni su corazón a su lengua.
 
-El Corán revela, en una sola aleya de la sura al-Aḥzāb, que la mera pretensión del ṣidq no basta; pues el ṣidq mismo es lugar de prueba el Día de la Resurrección: «para que preguntara a los veraces sobre su veracidad» [al-Aḥzāb: 8]. Nótese que el Que pregunta aquí no pregunta a los mentirosos sobre su mentira, sino que pregunta a «los veraces» mismos sobre su veracidad —es decir, que incluso quien es descrito como veraz externamente será juzgado en cuanto a la medida de la correspondencia de esa descripción con la realidad de su interior. En otro lugar, el Corán describe el Día de la Resurrección como el Día en que «a los veraces les aprovechará su veracidad»: «Dios dirá: Este es el Día en que a los veraces les aprovechará su veracidad» [al-Māʾida: 119] —es decir, que el fruto del ṣidq no aparece completo sino en el momento en que se pone a prueba toda pretensión anterior, de modo que aprovecha a aquel cuya veracidad fue real y no aprovecha a aquel cuya fue una pretensión vacía. La aleya de al-Aḥzāb corona este sentido cuando describe a los veraces como aquellos a quienes Dios «recompensará por su veracidad» [al-Aḥzāb: 24] —es decir, por su correspondencia real, no por su mero decir que son veraces.
+### La estructura central: una veracidad que se pone a prueba, no que se proclama
+
+En un solo pasaje de la sura al-Aḥzāb, el Corán revela que la mera pretensión de ṣidq no basta, pues el propio ṣidq será puesto a prueba el Día de la Resurrección:
+
+﴿لِيَسْأَلَ الصَّادِقِينَ عَنْ صِدْقِهِمْ﴾ (33:8)
+
+*«Para preguntar a los veraces por su veracidad.»*
+
+Obsérvese que el Interrogador no pide cuentas a los mentirosos por su mentira, sino a los veraces mismos por su veracidad. Incluso quien es llamado veraz por su apariencia será juzgado según cuán fielmente esa descripción correspondía a la realidad de su interior. En otro lugar, el Corán presenta el Día de la Resurrección como el día en que la veracidad da su fruto:
+
+﴿قَالَ اللَّهُ هَٰذَا يَوْمُ يَنفَعُ الصَّادِقِينَ صِدْقُهُمْ﴾ (5:119)
+
+*«Dirá Dios: Este es el día en que a los veraces les aprovechará su veracidad.»*
+
+El fruto del ṣidq, esto es, solo se manifiesta en plenitud en el instante en que toda pretensión anterior es sometida a prueba: aprovecha a quien fue realmente veraz, y de nada sirve a quien solo tuvo una pretensión vacía. Las aleyas de al-Aḥzāb coronan este sentido al decir que Dios «recompensará a los veraces por su veracidad» (33:24), es decir, por su correspondencia efectiva, y no por afirmar simplemente que lo son.
 
 ### Un modelo coránico: un rango que solo se alcanza por acumulación
 
-Aparece en el Corán un título especial que solo se otorga a unos raros pocos: «ṣiddīq», una forma intensiva que indica a aquel de quien el ṣidq se ha repetido hasta convertirse en una descripción inseparable de su persona. Abraham es descrito por él: «Y menciona en el Libro a Abraham. Ciertamente, era un hombre veraz (ṣiddīq), un profeta» [Maryam: 41], e Idrīs con la misma forma literalmente [Maryam: 56]; y la madre de María —o María misma en otra lectura— es descrita por él: «y su madre era una mujer veraz (ṣiddīqa)» [al-Māʾida: 75]; y a José se dirigen con él quienes lo conocieron en la prisión: «José, oh veraz (al-ṣiddīq)» [Yūsuf: 46]. El Corán coloca este rango en un orden explícito entre los grados de aquellos a quienes Dios ha favorecido: «Esos están con aquellos a quienes Dios ha favorecido —de los profetas, los veraces (al-ṣiddīqīn), los mártires y los rectos» [al-Nisāʾ: 69] —así, los veraces vienen en el segundo rango directamente después de los profetas, antes de los mártires y los rectos. Este orden no es arbitrario: pues mientras la profecía se otorga por elección divina, no por adquisición humana, el rango de la «ṣiddīqiyya» —como aclarará el hadiz profético— se alcanza por la acumulación del ṣidq hasta que se convierte en una disposición firmemente arraigada; es el más alto rango que un no profeta alcanza por su esfuerzo y su veracidad recurrente.
+El Corán concede un título especial a muy pocos: *ṣiddīq*, forma intensiva que designa a aquel en quien la veracidad se ha repetido tanto que se ha vuelto cualidad inseparable de su persona. Así se describe a Abraham:
 
-### Otro modelo: una veracidad para la que se busca un compañero
+﴿وَاذْكُرْ فِي الْكِتَابِ إِبْرَاهِيمَ إِنَّهُ كَانَ صِدِّيقًا نَبِيًّا﴾ (19:41)
 
-El Corán no se contenta con ordenar el ṣidq a un individuo aislado, sino que ordena unirse a la comunidad de los veraces: «¡Oh, vosotros que habéis creído! Temed a Dios y estad con los veraces (al-ṣādiqīn)» [al-Tawba: 119]. El mandato aquí no es «sed veraces» solamente, sino «estad con los veraces» —una señal de que el ṣidq necesita un entorno que lo preserve y lo acumule, no que se practique en aislamiento social. Es notable que esta aleya vino tras la historia de los tres que se quedaron atrás en la expedición de Tabūk, a quienes su veracidad con el Profeta ﷺ salvó de la ruina cuando no se excusaron con excusas falsas como hicieron los hipócritas, sino que confesaron su quedarse atrás abiertamente —así, su veracidad, pese a su amargura inmediata, fue la causa de su salvación final.
+*«Y recuerda en el Libro a Abraham. Era un hombre de absoluta veracidad (ṣiddīq), un profeta.»*
 
-### Un cuarto modelo: una lengua de verdad que permanece tras su dueño
+Idrīs recibe, literalmente, la misma descripción (19:56). El título se da también a la madre de María (o, según otra lectura, a la propia María):
 
-Abraham suplicó a su Señor con una súplica notable: «Y concédeme una lengua de verdad (lisāna ṣidq) entre las generaciones posteriores» [al-Shuʿarāʾ: 84] —es decir, un legado veraz que permanezca en las lenguas de quienes vengan después de él, de modo que no sea recordado sino por su realidad. La misma forma se repite en otros lugares («una entrada de verdad», «una salida de verdad», [al-Isrāʾ: 80]; y «una lengua de verdad elevada» para Juan, [Maryam: 50]), añadiendo una dimensión aún no aparente: que el ṣidq no se limita a la correspondencia de la palabra con la realidad en su momento, sino que se extiende a la correspondencia del recuerdo con la realidad tras la partida de su dueño. Quien vivió veraz legó un legado veraz, y quien contradijo su interior con su exterior dejó una traición cuyo rastro se revela aun después de un tiempo. Esto recuerda que el ṣidq, en el sistema coránico, no es una virtud momentánea medida por una postura en particular, sino un tejido continuo que se extiende desde la primera palabra hasta lo último de ella que permanece en la memoria de la gente.
+﴿وَأُمُّهُ صِدِّيقَةٌ﴾ (5:75)
+
+*«Y su madre era una mujer de absoluta veracidad.»*
+
+Y a José se dirigen con él quienes lo habían conocido en la prisión:
+
+﴿يُوسُفُ أَيُّهَا الصِّدِّيقُ﴾ (12:46)
+
+*«José, oh hombre de absoluta veracidad.»*
+
+El Corán sitúa este rango en un orden explícito entre los grados de aquellos a quienes Dios ha agraciado:
+
+﴿فَأُولَٰئِكَ مَعَ الَّذِينَ أَنْعَمَ اللَّهُ عَلَيْهِمْ مِنَ النَّبِيِّينَ وَالصِّدِّيقِينَ وَالشُّهَدَاءِ وَالصَّالِحِينَ﴾ (4:69)
+
+*«Esos estarán con aquellos a quienes Dios ha favorecido: los profetas, los veraces (ṣiddīqīn), los mártires y los justos.»*
+
+Los ṣiddīqūn ocupan así el segundo rango, inmediatamente después de los profetas y antes de los mártires y los justos. El orden no es arbitrario. La profecía se concede por elección divina, no por mérito humano; el rango de la *ṣiddīqiyya*, en cambio, como lo hará patente el hadiz profético, se alcanza acumulando veracidad hasta que se convierte en disposición firmemente arraigada. Es el más alto rango al que puede llegar un no profeta por su esfuerzo y su veracidad constante.
+
+### Otro modelo: una veracidad que busca compañía
+
+El Corán no se limita a ordenar el ṣidq al individuo aislado, sino que manda unirse a la comunidad de los veraces:
+
+﴿يَا أَيُّهَا الَّذِينَ آمَنُوا اتَّقُوا اللَّهَ وَكُونُوا مَعَ الصَّادِقِينَ﴾ (9:119)
+
+*«Oh, creyentes, temed a Dios y estad con los veraces.»*
+
+El mandato no es simplemente «sed veraces», sino «estad *con* los veraces», señal de que el ṣidq necesita un entorno que lo proteja y lo haga crecer, y no puede practicarse en el aislamiento social. Resulta notable que esta aleya siga al relato de los tres que se quedaron atrás en la expedición de Tabūk. Su sinceridad ante el Profeta ﷺ los salvó de la perdición: no presentaron excusas falsas, como hicieron los hipócritas, sino que confesaron abiertamente su ausencia. Su veracidad, pese a su amargura inmediata, fue la causa de su salvación definitiva.
+
+### Un cuarto modelo: una lengua de verdad que sobrevive a su dueño
+
+Abraham elevó a su Señor una súplica admirable:
+
+﴿وَاجْعَلْ لِي لِسَانَ صِدْقٍ فِي الْآخِرِينَ﴾ (26:84)
+
+*«Y concédeme una lengua de verdad entre las generaciones venideras.»*
+
+Pedía, es decir, un legado veraz que perdurara en labios de quienes vinieran después, para ser recordado solo tal como realmente fue. La misma construcción reaparece en otros lugares: «una entrada de verdad» y «una salida de verdad» (17:80), y «una lengua de verdad sublime» (19:50), que el texto árabe atribuye a Juan. Añade una dimensión hasta ahora no advertida: el ṣidq no se limita a la conformidad de la palabra con la realidad en el momento de pronunciarla, sino que se extiende a la conformidad del recuerdo con la realidad después de la partida de su dueño.
+
+Quien vivió con veracidad lega una memoria veraz; quien contradijo su interior con su exterior deja una traición cuyas huellas salen a la luz, aunque sea con el tiempo. El ṣidq, en el orden coránico, no es una virtud momentánea que se mide por una sola postura, sino un tejido continuo que se extiende desde la primera palabra de un hombre hasta la última que pervive en la memoria de los demás.
 
 ### El testimonio profético
 
-El Profeta ﷺ describe el largo camino del ṣidq del acto recurrente al rango firme en un hadiz integrador: «Aferraos a la veracidad (ṣidq), pues la veracidad guía a la piedad (birr), y la piedad guía al Paraíso; y un hombre no cesa de ser veraz y de buscar la veracidad hasta que es registrado ante Dios como un ṣiddīq»[^1]. Este hadiz conecta directamente entre lo que este artículo comenzó —el concepto del ṣidq como acto recurrente («es veraz y busca la veracidad»)— y el rango coránico con que se selló el tercer modelo: pues la ṣiddīqiyya, por el texto del hadiz, no es un título otorgado de partida, sino un resultado acumulativo de una veracidad recurrente hasta que Dios registra a su dueño como un «ṣiddīq» —el mismísimo destino que alcanzaron Abraham e Idrīs por el texto del Corán.
+El Profeta ﷺ describe el largo camino del ṣidq, desde el acto repetido hasta el rango asentado, en un hadiz de amplio alcance:
 
-### Una lectura orientada a los fines (maqāṣidī)
+«عَلَيْكُمْ بِالصِّدْقِ؛ فَإِنَّ الصِّدْقَ يَهْدِي إِلَى الْبِرِّ، وَإِنَّ الْبِرَّ يَهْدِي إِلَى الْجَنَّةِ، وَمَا يَزَالُ الرَّجُلُ يَصْدُقُ وَيَتَحَرَّى الصِّدْقَ حَتَّى يُكْتَبَ عِنْدَ اللَّهِ صِدِّيقًا»[^1]
 
-Se observa del conjunto de las aleyas que el Corán ensancha el círculo del ṣidq para incluir más que las palabras habladas: veracidad en la promesa (como en la descripción de Ismael, «Ciertamente, era veraz en la promesa», [Maryam: 54]), veracidad en el pacto (como en los hombres de al-Aḥzāb), veracidad en la confesión (como en la historia de Tabūk), y veracidad en la intención interior sobre la que se pregunta el Día de la Resurrección. Un número de sabios ha notado que este hadiz profético dibuja una gradación causal clara —ṣidq, luego birr, luego Paraíso— correspondida en el otro lado por una gradación inversa —mentira, luego iniquidad, luego el Fuego— como si el ṣidq y la mentira no fueran dos actos aislados, sino dos puertas que se abren a dos caminos enteramente opuestos de carácter y destino a la vez. Esto concuerda con el origen lingüístico sobre el que se construyó este artículo: pues como el disparo certero da en su blanco sin desviación, así una vida de ṣidq da en su meta sin desviación, a diferencia de una vida de mentira que desvía a su dueño paso a paso hasta llevarlo a un destino enteramente contrario a aquel con que comenzó.
+*«Aferraos a la veracidad, pues la veracidad conduce a la rectitud (birr), y la rectitud conduce al Paraíso. El hombre sigue diciendo la verdad y esforzándose por la veracidad hasta que se le inscribe ante Dios como ṣiddīq.»*
 
-### La dimensión aplicada contemporánea
+Este hadiz une directamente la noción con que comenzó el artículo, el ṣidq como acto recurrente («dice la verdad y se esfuerza por la veracidad»), con el rango coránico en que se cerró el modelo anterior. Según las palabras mismas del hadiz, la ṣiddīqiyya no es un título concedido de entrada, sino el resultado acumulado de una veracidad reiterada, hasta que Dios inscribe a su portador como *ṣiddīq*, el destino que, por testimonio del Corán, alcanzaron Abraham e Idrīs.
 
-Muchos hoy confunden «la ausencia de mentira explícita» con el ṣidq completo que el Corán describe, suponiendo que evitar las falsedades directas es suficiente, mientras pasan por alto formas más finas de no correspondencia: una promesa hecha sin intención de cumplirla, un acuerdo externo que oculta una objeción interior, o un compromiso declarado en una tarea y no traducido en obra. Los hombres de al-Aḥzāb que fueron «veraces en lo que pactaron con Dios» ofrecen un modelo distinto: que el verdadero ṣidq se pone a prueba cuando el cumplimiento es difícil, no cuando es fácil, y que el «no alterar» la postura bajo presión —no la mera declaración inicial de ella— es la verdadera prueba de la veracidad del compromiso. En el entorno del trabajo y las instituciones, el principio «el ṣidq guía al birr» sirve como criterio que excede la mera «transparencia» común hoy: pues la transparencia puede contentarse con no ocultar la información, mientras que el ṣidq coránico exige una correspondencia completa entre lo que se declara y lo que se practica realmente. Y quien desee alcanzar la firmeza de los «ṣiddīqīn», no contentarse con un momento pasajero de veracidad, debe buscar el ṣidq en cada pequeña postura antes de ser puesto a prueba en la grande, como indicó el hadiz profético cuando describió el camino como una acumulación, no un salto.
+### Una lectura a la luz de los fines superiores
+
+El conjunto de las aleyas muestra que el Corán ensancha el círculo del ṣidq más allá de las palabras pronunciadas: veracidad en la promesa (como en la descripción de Ismael, ﴿إِنَّهُ كَانَ صَادِقَ الْوَعْدِ﴾, «era fiel a su promesa», 19:54); veracidad en el pacto (como los hombres de al-Aḥzāb); veracidad en la confesión (como en el relato de Tabūk); y veracidad en la intención oculta, por la que se pedirá cuenta el Día de la Resurrección.
+
+Varios sabios han observado que este hadiz traza una clara progresión causal, ṣidq, luego birr, luego Paraíso, a la que se opone, por el otro lado, una progresión inversa: mentira, luego perversidad, luego el Fuego. La veracidad y la mentira no son, pues, dos actos aislados, sino dos puertas que se abren a dos caminos totalmente opuestos, tanto de carácter como de destino. Ello concuerda con el origen lingüístico sobre el que se funda este artículo: así como el tiro certero alcanza su blanco sin desviarse, una vida de ṣidq alcanza su meta sin desviarse, mientras que una vida de mentira extravía a su dueño paso a paso hasta conducirlo a un destino enteramente contrario al que había emprendido.
+
+### La aplicación contemporánea
+
+Muchos confunden hoy «la ausencia de mentira patente» con el ṣidq cabal que describe el Corán. Suponen que basta evitar la falsedad directa, y pasan por alto formas más sutiles de falta de correspondencia: una promesa hecha sin intención de cumplirla, un asentimiento exterior que encubre una objeción interior, un compromiso proclamado en el trabajo que nunca se traduce en obra.
+
+Los hombres de al-Aḥzāb, «veraces con el pacto que sellaron con Dios», ofrecen un modelo distinto: el ṣidq genuino se prueba cuando cumplir es difícil, no cuando es fácil, y la verdadera prueba de la sinceridad de un compromiso es «no alterar» la postura bajo presión, no la mera declaración inicial. En la vida de las instituciones y del trabajo, el principio de que «el ṣidq conduce al birr» ofrece un criterio que va más allá de la «transparencia» tan elogiada hoy. La transparencia puede darse por satisfecha con no ocultar información; el ṣidq coránico exige una correspondencia total entre lo que se declara y lo que de hecho se practica.
+
+Y quien aspire a la firmeza de los ṣiddīqūn, sin conformarse con un fugaz instante de sinceridad, debe cultivar la veracidad en cada asunto pequeño antes de ser probado en el grande. Eso enseña el hadiz profético al describir el camino como una acumulación y no como un salto.
 
 ### Conclusión
 
-De hombres cuyas obras correspondieron a sus pactos hasta la muerte, a un profeta descrito como un «ṣiddīq» antes de ser descrito como profeta, a un hadiz que dibuja el camino de una veracidad recurrente a un rango registrado ante Dios, el Corán dibuja para el ṣidq un solo sentido inmutable: una correspondencia entre la palabra y la obra, y el interior y el exterior, que se pone a prueba y no se pretende, y se construye por la repetición, no se alcanza por la pretensión. Y Dios, el Altísimo, es quien mejor sabe; Él es el Protector del éxito.
+Desde hombres cuyas obras igualaron sus pactos hasta la muerte, pasando por un profeta llamado «ṣiddīq» antes aún que profeta, hasta un hadiz que traza el camino desde la veracidad repetida hasta un rango inscrito ante Dios, el Corán dibuja para el ṣidq un único sentido inmutable: una correspondencia entre la palabra y la obra, entre lo interior y lo exterior, que se somete a prueba y no se proclama, y que se edifica por la repetición, no se obtiene por la afirmación. Y Dios, el Altísimo, sabe más; y de Él solo procede todo acierto.
 
 ---
 
-[^1]: Narrado por al-Bujārī en su Ṣaḥīḥ (6094) y Muslim en su Ṣaḥīḥ (2607), por vía de ʿAbd Allāh ibn Masʿūd (que Dios esté complacido con él).
+[^1]: Lo transmitió al-Bujārī en su *Ṣaḥīḥ* (6094) y Muslim en su *Ṣaḥīḥ* (2607), por vía de ʿAbd Allāh ibn Masʿūd (que Dios esté complacido con él).
