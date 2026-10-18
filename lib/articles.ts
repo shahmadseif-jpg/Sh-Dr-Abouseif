@@ -2772,6 +2772,316 @@ export const articlesMeta: ArticleMeta[] = [
       ur: 'سورۃ الکہف محض ایک سورہ نہیں جو جمعہ کو برکت کے لیے تلاوت کی جاتی ہو — یہ انسانی تہذیب کے ارکان کا ایک مکمل خاکہ ہے: صالح انسانی وسیلہ، درست طریقے سے سنبھالی گئی دولت، پیہم علم، اور عادل قیادت۔ کہف کی لغت اور تہذیب کے قرآنی انبیاء میں ایک تازہ قرأت۔',
     },
   },
+  {
+    slug: 'shirk-in-quran-partner-in-what-belongs-to-god',
+    category: 'quranic-concepts',
+    isoDate: '2026-10-18',
+    date: {
+      ar: '١٨ أكتوبر ٢٠٢٦',
+      en: 'October 18, 2026',
+      es: '18 de octubre de 2026',
+      ur: '18 اکتوبر 2026',
+    },
+    readingMinutes: 12,
+    series: {
+      ar: 'المفاهيم الإيمانية',
+      en: 'Concepts of Faith',
+      es: 'Conceptos de la Fe',
+      ur: 'ایمانی مفاہیم',
+    },
+    episode: 35,
+    title: {
+      ar: 'الشرك في القرآن',
+      en: 'Shirk in the Qurʾan: Making a Partner in What Belongs to God Alone',
+    },
+    subtitle: {
+      ar: 'أن تجعل لله شريكًا فيما هو له وحده',
+      en: 'Making a Partner in What Belongs to God Alone',
+    },
+    excerpt: {
+      ar: 'جذر «ش ر ك» يتكرر في القرآن مئةً وثمانيًا وستين مرة، وللشرك فيه معنى مفرد: أن يُجعل لله شريكٌ فيما هو له وحده. قراءة في دلالة اللفظ القرآنية، وفيما يُجعل فيه الشريك، وكيف يقف التوحيد في مقابله.',
+      en: 'The root sh-r-k occurs 168 times in the Qurʾan, and shirk has a distinct meaning there: setting up a partner in what belongs to God alone. A reading of the Qurʾanic usage, of what the partner is given a share in, and of where tawḥīd stands against it.',
+    },
+  },
+  {
+    slug: 'iman-in-quran-trust-the-heart-rests-in',
+    category: 'quranic-concepts',
+    isoDate: '2026-10-18',
+    date: {
+      ar: '١٨ أكتوبر ٢٠٢٦',
+      en: 'October 18, 2026',
+      es: '18 de octubre de 2026',
+      ur: '18 اکتوبر 2026',
+    },
+    readingMinutes: 12,
+    series: {
+      ar: 'المفاهيم الإيمانية',
+      en: 'Concepts of Faith',
+      es: 'Conceptos de la Fe',
+      ur: 'ایمانی مفاہیم',
+    },
+    episode: 36,
+    title: {
+      ar: 'الإيمان في القرآن',
+      en: 'Imān in the Qurʾan: A Trust in Which the Heart Finds Rest',
+    },
+    subtitle: {
+      ar: 'تصديقٌ تسكن إليه النفس ويدخل القلب',
+      en: 'A Trust in Which the Heart Finds Rest',
+    },
+    excerpt: {
+      ar: 'الإيمان في القرآن مأخوذ من الأمن: تصديقٌ تسكن به النفس ويزول معه الخوف، لا مجرد إقرارٍ على اللسان. دراسة في أصل اللفظ وأقوال أهل اللغة وما يدخل القلب قبل أن يظهر في القول والعمل.',
+      en: 'Imān in the Qurʾan is drawn from amn, security: a trust in which the soul finds rest and fear departs, not a mere statement on the tongue. A study of the root, the words of the lexicographers, and what enters the heart before it appears in speech and deed.',
+    },
+  },
+  {
+    slug: 'hidayah-in-quran-guidance-and-tawfiq',
+    category: 'quranic-concepts',
+    isoDate: '2026-10-18',
+    date: {
+      ar: '١٨ أكتوبر ٢٠٢٦',
+      en: 'October 18, 2026',
+      es: '18 de octubre de 2026',
+      ur: '18 اکتوبر 2026',
+    },
+    readingMinutes: 12,
+    series: {
+      ar: 'المفاهيم الإيمانية',
+      en: 'Concepts of Faith',
+      es: 'Conceptos de la Fe',
+      ur: 'ایمانی مفاہیم',
+    },
+    episode: 37,
+    title: {
+      ar: 'الهداية في القرآن',
+      en: 'Hidāya in the Qurʾan: Guidance by Gentleness, and Divine Success Reserved to God',
+    },
+    subtitle: {
+      ar: 'دلالةٌ بلطف، وتوفيقٌ يختصّ به الله',
+      en: 'Guidance by Gentleness, and Divine Success Reserved to God',
+    },
+    excerpt: {
+      ar: 'بين ﴿إِنَّكَ لَا تَهْدِي مَنْ أَحْبَبْتَ﴾ و﴿وَإِنَّكَ لَتَهْدِي إِلَىٰ صِرَاطٍ مُّسْتَقِيمٍ﴾: كيف يميّز القرآن بين هداية الدلالة التي يملكها الرسل والدعاة وهداية التوفيق التي يختص بها الله، وما يترتب على ذلك في الدعوة والتربية.',
+      en: 'Between ﴿You do not guide whom you love﴾ and ﴿You surely guide to a straight path﴾: how the Qurʾan distinguishes the guidance of direction that messengers and callers possess from the guidance of divine success that God alone grants, and what follows for da‘wa and upbringing.',
+    },
+  },
+  {
+    slug: 'inabah-in-quran-return-with-one-direction',
+    category: 'quranic-concepts',
+    isoDate: '2026-10-18',
+    date: {
+      ar: '١٨ أكتوبر ٢٠٢٦',
+      en: 'October 18, 2026',
+      es: '18 de octubre de 2026',
+      ur: '18 اکتوبر 2026',
+    },
+    readingMinutes: 11,
+    series: {
+      ar: 'المفاهيم الإيمانية',
+      en: 'Concepts of Faith',
+      es: 'Conceptos de la Fe',
+      ur: 'ایمانی مفاہیم',
+    },
+    episode: 38,
+    title: {
+      ar: 'الإنابة في القرآن',
+      en: 'Ināba in the Qurʾan: A Return with No Direction but God',
+    },
+    subtitle: {
+      ar: 'رجوعٌ لا وجهة له إلا الله',
+      en: 'A Return with No Direction but God',
+    },
+    excerpt: {
+      ar: 'ورد جذر «ن و ب» في القرآن ثماني عشرة مرة كلها على صيغة الإفعال: إحدى عشرة مرة «أناب» وسبع مرات «منيب». قراءة في معنى الرجوع إلى الله بوجهةٍ واحدة، وفي اقتران الإنابة بالإسلام والتوكل.',
+      en: 'The root n-w-b occurs eighteen times in the Qurʾan, always in the fourth form: eleven times as anāba and seven as munīb. A reading of what it means to return to God with a single direction, and of how ināba is paired with islām and tawakkul.',
+    },
+  },
+  {
+    slug: 'duaa-in-quran-calling-and-answering',
+    category: 'quranic-concepts',
+    isoDate: '2026-10-18',
+    date: {
+      ar: '١٨ أكتوبر ٢٠٢٦',
+      en: 'October 18, 2026',
+      es: '18 de octubre de 2026',
+      ur: '18 اکتوبر 2026',
+    },
+    readingMinutes: 12,
+    series: {
+      ar: 'المفاهيم الإيمانية',
+      en: 'Concepts of Faith',
+      es: 'Conceptos de la Fe',
+      ur: 'ایمانی مفاہیم',
+    },
+    episode: 39,
+    title: {
+      ar: 'الدعاء في القرآن',
+      en: 'Duʿāʾ in the Qurʾan: The Servant Calls and the Lord Answers',
+    },
+    subtitle: {
+      ar: 'نداء العبد وجواب الرب',
+      en: 'The Servant Calls and the Lord Answers',
+    },
+    excerpt: {
+      ar: 'الدعاء في القرآن نداءٌ من العبد وجوابٌ من الرب: ﴿وَإِذَا سَأَلَكَ عِبَادِي عَنِّي فَإِنِّي قَرِيبٌ﴾. قراءة في دلالة اللفظ ومواضعه القرآنية، وفي أدب المناجاة بين العبد وربه.',
+      en: 'Duʿāʾ in the Qurʾan is a call from the servant and an answer from the Lord: ﴿When My servants ask you about Me, I am near﴾. A reading of the term and its Qurʾanic occurrences, and of the manners of intimate address between servant and Lord.',
+    },
+  },
+  {
+    slug: 'dhikr-in-quran-presence-against-forgetting',
+    category: 'quranic-concepts',
+    isoDate: '2026-10-18',
+    date: {
+      ar: '١٨ أكتوبر ٢٠٢٦',
+      en: 'October 18, 2026',
+      es: '18 de octubre de 2026',
+      ur: '18 اکتوبر 2026',
+    },
+    readingMinutes: 11,
+    series: {
+      ar: 'المفاهيم الإيمانية',
+      en: 'Concepts of Faith',
+      es: 'Conceptos de la Fe',
+      ur: 'ایمانی مفاہیم',
+    },
+    episode: 40,
+    title: {
+      ar: 'الذكر في القرآن',
+      en: 'Dhikr in the Qurʾan: A Presence Set Against Forgetting',
+    },
+    subtitle: {
+      ar: 'حضورٌ يقابل النسيان ويتسع حتى يصير اسمًا للوحي',
+      en: 'A Presence Set Against Forgetting',
+    },
+    excerpt: {
+      ar: 'يتسع الذكر في القرآن من حضور القلب واللسان حتى يصير اسمًا للوحي نفسه. قراءة في دلالة اللفظ ومقابله النسيان وأبرز مواضعه.',
+      en: 'Dhikr in the Qurʾan widens from the presence of heart and tongue until it becomes a name for revelation itself. A reading of the term, of its opposite — forgetting — and of its principal occurrences.',
+    },
+  },
+  {
+    slug: 'hawa-in-quran-desire-taken-as-god',
+    category: 'quranic-concepts',
+    isoDate: '2026-10-18',
+    date: {
+      ar: '١٨ أكتوبر ٢٠٢٦',
+      en: 'October 18, 2026',
+      es: '18 de octubre de 2026',
+      ur: '18 اکتوبر 2026',
+    },
+    readingMinutes: 11,
+    series: {
+      ar: 'المفاهيم الإيمانية',
+      en: 'Concepts of Faith',
+      es: 'Conceptos de la Fe',
+      ur: 'ایمانی مفاہیم',
+    },
+    episode: 41,
+    title: {
+      ar: 'الهوى في القرآن',
+      en: 'Hawā in the Qurʾan: When Inclination Is Taken as a God',
+    },
+    subtitle: {
+      ar: 'حين يُتَّخذ الميل إلهًا',
+      en: 'When Inclination Is Taken as a God',
+    },
+    excerpt: {
+      ar: 'في القرآن لا يقف الهوى عند الميل الطبيعي، بل يُتَّخذ إلهًا: ﴿أَفَرَأَيْتَ مَنِ اتَّخَذَ إِلَٰهَهُ هَوَاهُ﴾. نظر في الجذر وفي ما يقابل الهوى في الآيات من الحق والعلم والوحي وخشية المقام.',
+      en: 'In the Qurʾan, hawā does not stop at natural inclination; it is taken as a god: ﴿Have you seen him who takes his own desire as his god?﴾ A study of the root and of what the verses set against hawā: truth, knowledge, revelation, and fear of standing before the Lord.',
+    },
+  },
+  {
+    slug: 'ghaflah-in-quran-state-before-unveiling',
+    category: 'quranic-concepts',
+    isoDate: '2026-10-18',
+    date: {
+      ar: '١٨ أكتوبر ٢٠٢٦',
+      en: 'October 18, 2026',
+      es: '18 de octubre de 2026',
+      ur: '18 اکتوبر 2026',
+    },
+    readingMinutes: 11,
+    series: {
+      ar: 'المفاهيم الإيمانية',
+      en: 'Concepts of Faith',
+      es: 'Conceptos de la Fe',
+      ur: 'ایمانی مفاہیم',
+    },
+    episode: 42,
+    title: {
+      ar: 'الغفلة في القرآن',
+      en: 'Ghafla in the Qurʾan: A State Lived In Until the Veil Is Lifted',
+    },
+    subtitle: {
+      ar: 'حالٌ يُسكَن فيها حتى ينكشف الغطاء',
+      en: 'A State Lived In Until the Veil Is Lifted',
+    },
+    excerpt: {
+      ar: 'الغفلة في القرآن حالٌ يعيش فيها الإنسان دون أن يراها حتى يُكشف الغطاء. قراءة في دلالة اللفظ وصوره القرآنية وما يوقظ منه.',
+      en: 'Ghafla in the Qurʾan is a state in which a person lives without seeing it until the veil is lifted. A reading of the term, its Qurʾanic scenes, and what awakens from it.',
+    },
+  },
+  {
+    slug: 'ithar-in-quran-preferring-others-over-self',
+    category: 'quranic-concepts',
+    isoDate: '2026-10-18',
+    date: {
+      ar: '١٨ أكتوبر ٢٠٢٦',
+      en: 'October 18, 2026',
+      es: '18 de octubre de 2026',
+      ur: '18 اکتوبر 2026',
+    },
+    readingMinutes: 12,
+    series: {
+      ar: 'المفاهيم الإيمانية',
+      en: 'Concepts of Faith',
+      es: 'Conceptos de la Fe',
+      ur: 'ایمانی مفاہیم',
+    },
+    episode: 43,
+    title: {
+      ar: 'الإيثار في القرآن',
+      en: 'Īthār in the Qurʾan: Putting Before Yourself What Deserves Precedence',
+    },
+    subtitle: {
+      ar: 'أن تُقدِّم على نفسك ما هو أحقُّ بالتقديم',
+      en: 'Putting Before Yourself What Deserves Precedence',
+    },
+    excerpt: {
+      ar: 'ورد فعل «آثر» في القرآن خمس مرات بمعنى واحد هو تفضيل شيء على شيء، ويتغيّر الفاعل والمفعول: من إيثار الله ليوسف عليه السلام إلى إيثار الأنصار على أنفسهم وإيثار الدنيا على الآخرة.',
+      en: 'The verb āthara occurs five times in the Qurʾan with one meaning, preferring one thing over another, while the subject and object change: from God preferring Yūsuf, to the Anṣār preferring others over themselves, to those who prefer this world over the next.',
+    },
+  },
+  {
+    slug: 'ibtila-in-quran-test-by-hardship-and-favour',
+    category: 'quranic-concepts',
+    isoDate: '2026-10-18',
+    date: {
+      ar: '١٨ أكتوبر ٢٠٢٦',
+      en: 'October 18, 2026',
+      es: '18 de octubre de 2026',
+      ur: '18 اکتوبر 2026',
+    },
+    readingMinutes: 11,
+    series: {
+      ar: 'المفاهيم الإيمانية',
+      en: 'Concepts of Faith',
+      es: 'Conceptos de la Fe',
+      ur: 'ایمانی مفاہیم',
+    },
+    episode: 44,
+    title: {
+      ar: 'الابتلاء في القرآن',
+      en: 'Ibtilāʾ in the Qurʾan: A Test by Hardship and by Favour Alike',
+    },
+    subtitle: {
+      ar: 'اختبارٌ بالمحنة والمنحة معًا',
+      en: 'A Test by Hardship and by Favour Alike',
+    },
+    excerpt: {
+      ar: 'يرد جذر «ب ل و» في القرآن ثمانيًا وثلاثين مرة، ومعناه الاختبار بالشر والخير معًا. قراءة في غاية الابتلاء ﴿أَيُّكُمْ أَحْسَنُ عَمَلًا﴾، وفي ازدواج «البلاء» بين المحنة والمنحة، وفي ابتلاء إبراهيم عليه السلام.',
+      en: 'The root b-l-w occurs thirty-eight times in the Qurʾan, meaning a test by evil and good alike. A reading of the purpose of the test, ﴿which of you is best in deed﴾, of the double sense of balāʾ as trial and favour, and of the testing of Ibrāhīm.',
+    },
+  },
 ];
 
 export function getArticleMeta(slug: string): ArticleMeta | undefined {
