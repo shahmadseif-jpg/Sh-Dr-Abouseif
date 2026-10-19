@@ -3280,6 +3280,160 @@ export const articlesMeta: ArticleMeta[] = [
       en: 'Forgiveness is the safety valve of home and society: from the brotherhood of Medina to the verses of pardon and forbearance in al-Baqara, Āl ʿImrān, al-Māʾida and al-Taghābun, then Yūsuf and his brothers and the Prophet ﷺ on the day of the Conquest.',
     },
   },
+  {
+    slug: 'our-purpose-in-the-west',
+    category: 'imamship',
+    isoDate: '2026-07-31',
+    date: {
+      ar: '٣١ يوليو ٢٠٢٦',
+      en: 'July 31, 2026',
+    },
+    readingMinutes: 6,
+    title: {
+      ar: 'غايتنا في الغرب',
+      en: 'Our Purpose in the West',
+    },
+    subtitle: {
+      ar: 'لماذا جاء الله بنا إلى هذه البلاد، وهل نحن حَمَلةُ هذا الدين أم معتنقوه؟',
+      en: 'Why God brought us to this land, and whether we are the bearers of this religion or merely its adherents',
+    },
+    excerpt: {
+      ar: 'خطبة عن الغاية من وجودنا في الغرب: هل نحن حَمَلةُ هذا الدين أم معتنقوه؟ مع نموذج أبي بكر الصديق رضي الله عنه في حمل الدين.',
+      en: 'A khutbah on our purpose in the West: are we the bearers of this religion or merely its adherents? With the example of Abū Bakr al-Ṣiddīq, may God be pleased with him, in carrying the faith.',
+    },
+  },
+  {
+    slug: 'al-damaer-al-yaqidhah',
+    category: 'wisdom-insights',
+    isoDate: '2026-05-15',
+    date: {
+      ar: '١٥ مايو ٢٠٢٦',
+      en: 'May 15, 2026',
+    },
+    readingMinutes: 9,
+    title: {
+      ar: 'الضمائر اليقظة',
+      en: 'Wakeful Consciences',
+    },
+    subtitle: {
+      ar: 'ما الذي حرّك إبراهيم وهاجر وإسماعيل؟ ضميرٌ لم ينم',
+      en: 'What moved Ibrāhīm, Hājar and Ismāʿīl? A conscience that never slept',
+    },
+    excerpt: {
+      ar: 'الضمير اليقظ عند إبراهيم وهاجر وإسماعيل: تسليم لا يسأل لماذا، وبصيرة تحاسب صاحبها في سورة القيامة، وعبادات توقظ الضمير كل يوم وكل عام.',
+      en: 'The wakeful conscience of Ibrāhīm, Hājar and Ismāʿīl: surrender that does not ask why, an insight that holds its owner to account in Sūrat al-Qiyāma, and acts of worship that wake the conscience every day and every year.',
+    },
+  },
+  {
+    slug: 'ramadan-and-the-eternal-battles',
+    category: 'wisdom-insights',
+    isoDate: '2026-03-06',
+    date: {
+      ar: '٦ مارس ٢٠٢٦',
+      en: 'March 6, 2026',
+    },
+    readingMinutes: 11,
+    title: {
+      ar: 'رمضان والمعارك الأزلية',
+      en: 'Ramadan and the Eternal Battles',
+    },
+    subtitle: {
+      ar: 'نصف الشهر مضى: ماذا تغيّر فينا، وأين نحن من الغاية؟',
+      en: 'Half the month has passed: what has changed in us, and where do we stand in relation to the purpose?',
+    },
+    excerpt: {
+      ar: 'في منتصف رمضان تسأل الخطبة: ماذا تغيّر فينا؟ وتروي قصة الطفيل بن عمرو الدوسي، وتصف المعارك الباقية ضد الشهوة والنفس والبيئة.',
+      en: 'At the midpoint of Ramadan the khutbah asks what has changed in us, retells the story of Ṭufayl al-Dawsī, and describes the lasting battles against desire, the self and the surroundings.',
+    },
+  },
+  {
+    slug: 'fa-la-qtahama-al-aqabah',
+    category: 'wisdom-insights',
+    isoDate: '2025-03-07',
+    date: {
+      ar: '٧ مارس ٢٠٢٥',
+      en: 'March 7, 2025',
+    },
+    readingMinutes: 7,
+    title: {
+      ar: 'فَلَا اقْتَحَمَ الْعَقَبَةَ',
+      en: 'And He Has Not Attempted the Steep Path',
+    },
+    subtitle: {
+      ar: 'عقبةُ الآخرة لا تُعبَر إلا بيدٍ امتدّت إلى جائع',
+      en: 'The steep path of the Hereafter is crossed only by a hand stretched out to the hungry',
+    },
+    excerpt: {
+      ar: 'من سورة البلد: عقبة الآخرة لا تُعبر بغير فكّ رقبة وإطعام مسكين، وكيف يصير ترك الإنفاق على المحتاجين شعارًا للكافرين وخللًا في وحدة الأمة.',
+      en: 'From Sūrat al-Balad: the steep path of the Hereafter is crossed only by freeing a neck and feeding the needy, and how neglecting spending on those in need becomes a mark of the disbelievers and a flaw in the unity of the community.',
+    },
+  },
+  {
+    slug: 'how-the-quran-moves-a-community',
+    category: 'civilization',
+    isoDate: '2018-03-30',
+    date: {
+      ar: '٣٠ مارس ٢٠١٨',
+      en: 'March 30, 2018',
+    },
+    readingMinutes: 7,
+    title: {
+      ar: 'منهجيات حركة المجتمع بالقرآن',
+      en: 'How the Qur\'an Moves a Community',
+    },
+    subtitle: {
+      ar: 'خمس تنزّلات أولى ترسم طريق الفرد والأمة: علمٌ، فخُلُق، فسكينة، فبلاغ، فحمد',
+      en: 'Five first revelations chart the road for the individual and the community: knowledge, then character, then steadiness, then communication, then gratitude',
+    },
+    excerpt: {
+      ar: 'من خلال التنزّلات الخمس الأولى (اقرأ، ن والقلم، المزمل، المدثر، الفاتحة) ترسم الخطبة منهجًا للمجتمع: علم، فخُلق، فسكينة، فبلاغ، فحمد. وتختم بالنبي ﷺ قرآنًا يمشي على الأرض.',
+      en: 'Through the first five Qurʾanic descents (iqraʾ, al-Qalam, al-Muzzammil, al-Muddaththir, al-Fātiḥa) the khutbah sketches a method for a community: knowledge, character, inner steadiness, communication, and gratitude. It ends with the Prophet ﷺ as a walking Qurʾan.',
+    },
+  },
+  {
+    slug: 'benefits-of-hajj-1',
+    category: 'wisdom-insights',
+    isoDate: '2016-08-12',
+    date: {
+      ar: '١٢ أغسطس ٢٠١٦',
+      en: 'August 12, 2016',
+    },
+    readingMinutes: 5,
+    title: {
+      ar: 'فوائد الحج في الإسلام (١)',
+      en: 'Benefits of Hajj in Islam (1)',
+    },
+    subtitle: {
+      ar: 'حين تهوي الأفئدة إلى البيت، وكيف يُقدَّم مراد الله على مراد النفس',
+      en: 'When hearts yearn for the House, and how God\'s will is placed before the self\'s',
+    },
+    excerpt: {
+      ar: 'شوق الأفئدة إلى البيت الحرام، وتنوع العبادات رحمة من الله، وتقديم مراد الله على مراد النفس، وشرط الاستطاعة، وأجر المعذور الذي حبسه العذر.',
+      en: 'The yearning of hearts for the Sacred House, the variety of acts of worship as a mercy from God, placing God\'s will before the self\'s, the condition of ability, and the reward of the one held back by an excuse.',
+    },
+  },
+  {
+    slug: 'what-after-ramadan-1',
+    category: 'wisdom-insights',
+    isoDate: '2016-07-08',
+    date: {
+      ar: '٨ يوليو ٢٠١٦',
+      en: 'July 8, 2016',
+    },
+    readingMinutes: 4,
+    title: {
+      ar: 'ماذا بعد رمضان؟ (١)',
+      en: 'What After Ramadan? (1)',
+    },
+    subtitle: {
+      ar: 'المسافر لا يحمل ما لا ينفعه، والدنيا ظلّ شجرة نمرّ به ونمضي',
+      en: 'The traveler carries nothing that does not benefit him, and this world is the shade of a tree we pass and move on',
+    },
+    excerpt: {
+      ar: 'الموت أقرب من شراك النعل، والدنيا ظلّ شجرة يستظل به راكب ثم يمضي؛ وما يبقى من رمضان عبودية لا استغناء عنها، وست من شوال، وميزان البدن والروح.',
+      en: 'Death is nearer than a sandal strap, and this world is the shade of a tree under which a rider rests and moves on; what remains of Ramadan is a servitude we cannot do without, the six days of Shawwāl, and the balance of body and soul.',
+    },
+  },
 ];
 
 export function getArticleMeta(slug: string): ArticleMeta | undefined {
