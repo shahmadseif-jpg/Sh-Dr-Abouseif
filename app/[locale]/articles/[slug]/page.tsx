@@ -460,7 +460,7 @@ function processInline(text: string, locale: string): ReactNode {
 
   // Regex to match: **bold**, [^N] footnote ref, parenthesized Arabic year,
   // *italic* (single asterisks hugging the text, not part of ** or a word).
-  const tokenRegex = /(\*\*(?:[^*]|\*(?!\*))+?\*\*)|(\[\^(\w+)\])|(\([^)]*?٢٠[0-9]+م?\))|((?<![*\p{L}\p{N}])\*(?![\s*])[^*\n]+?(?<![\s*])\*(?![*\p{L}\p{N}]))/gu;
+  const tokenRegex = /(\*\*(?:[^*]|\*(?!\*))+?\*\*)|(\[\^(\w+)\])|(\([^)]*?٢٠[0-9]+م?\))|((?<![*\p{L}\p{N}])\*(?![\s*])[^*\n]+?(?<![\s*])\*(?![*\p{L}\p{N}]))|(\[([^\]\n]+)\]\((https?:\/\/[^\s)]+)\))/gu;
 
   let lastIndex = 0;
   let match: RegExpExecArray | null;
@@ -497,6 +497,13 @@ function processInline(text: string, locale: string): ReactNode {
     } else if (match[5]) {
       // *italic*
       out.push(<em key={`i-${keyCounter++}`}>{match[5].slice(1, -1)}</em>);
+    } else if (match[6]) {
+      // [label](https://url) link
+      out.push(
+        <a key={`l-${keyCounter++}`} href={match[8]} target="_blank" rel="noopener noreferrer" className="text-gold-600 hover:text-gold-700 underline">
+          {match[7]}
+        </a>
+      );
     }
 
     lastIndex = match.index + match[0].length;
