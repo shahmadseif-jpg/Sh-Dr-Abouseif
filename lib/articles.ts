@@ -3,6 +3,8 @@
  * For file content loading (uses fs), see lib/articles-server.ts
  */
 
+import { lectureArticlesMeta } from './lectures-meta';
+
 export type ArticleCategory = 'imamship' | 'civilization' | 'family' | 'fiqh' | 'wisdom-insights' | 'maqasid-tafsir' | 'prophetic-light' | 'quranic-concepts';
 
 /** Supported site locales. */
@@ -37,6 +39,7 @@ export interface ArticleMeta {
 }
 
 export const articlesMeta: ArticleMeta[] = [
+  ...lectureArticlesMeta,
   // ===== بنك ٤: مفاهيم من سورة يوسف (سُجِّل 2026-10-07) =====
   {
     slug: 'murawadah-in-quran-drawing-a-person-away-from-himself',
