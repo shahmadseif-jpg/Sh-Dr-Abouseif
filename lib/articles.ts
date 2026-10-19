@@ -3082,6 +3082,28 @@ export const articlesMeta: ArticleMeta[] = [
       en: 'The root b-l-w occurs thirty-eight times in the Qurʾan, meaning a test by evil and good alike. A reading of the purpose of the test, ﴿which of you is best in deed﴾, of the double sense of balāʾ as trial and favour, and of the testing of Ibrāhīm.',
     },
   },
+  {
+    slug: 'whoever-relies-on-allah-suffices-him',
+    category: 'wisdom-insights',
+    isoDate: '2026-10-16',
+    date: {
+      ar: '١٦ أكتوبر ٢٠٢٦',
+      en: 'October 16, 2026',
+    },
+    readingMinutes: 8,
+    title: {
+      ar: 'ومن يتوكل على اللَّه فهو حسبه',
+      en: 'Whoever Relies on God, He Is Sufficient for Him',
+    },
+    subtitle: {
+      ar: 'التوكل في سير الأنبياء: قلبٌ في يد الله، وبدنٌ وعقلٌ في الميدان',
+      en: 'Reliance in the lives of the prophets: a heart in God’s hand, a body and mind in the field',
+    },
+    excerpt: {
+      ar: 'في زمن القلق من أحوال العالم وهموم الأبناء، يمرّ الخطيب على سياقات التوكل في سير الأنبياء من نوح إلى يعقوب، ليبيّن أن التوكل قلبٌ في يد الله وبدنٌ وعقلٌ في الميدان.',
+      en: 'In an age of anxiety over the world and over our children, the khatib walks through the contexts of reliance on God in the lives of the prophets, from Nūḥ to Yaʿqūb, showing that tawakkul is a heart in God’s hand and a body and mind in the field.',
+    },
+  },
 ];
 
 export function getArticleMeta(slug: string): ArticleMeta | undefined {
