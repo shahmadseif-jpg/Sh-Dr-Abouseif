@@ -1,5 +1,5 @@
 ---
-title: "Fajr Khatira: From the Secrets of the Prophetic Supplication"
+title: "From the Secrets of the Prophetic Supplication: The Battle for Bread and What the Prophet ﷺ Sought Refuge in When Going Out for His Livelihood"
 subtitle: "The Battle for Bread: What the Prophet ﷺ Seeks Refuge From Whenever He Goes Out to His Livelihood"
 date: "2025-05-11"
 locale: "en"

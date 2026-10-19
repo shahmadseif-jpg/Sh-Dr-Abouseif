@@ -1,5 +1,5 @@
 ---
-title: "Fajr Khatira"
+title: "Sūrat al-Aḥqāf: Two Models of Receiving the Message"
 subtitle: "Sūrat al-Aḥqāf: Two Models in Receiving the Message"
 date: "2026-01-07"
 locale: "en"

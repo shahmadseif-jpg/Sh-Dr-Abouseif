@@ -1,5 +1,5 @@
 ---
-title: "Fajr Khatira"
+title: "Dawud and Sulayman: The Ever-Returning Servant Whose Giving Never Ceases"
 subtitle: "Dāwūd and Sulaymān: The Oft-Returning Servant Whose Giving Never Stops"
 date: "2026-07-21"
 locale: "en"

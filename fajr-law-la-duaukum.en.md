@@ -1,5 +1,5 @@
 ---
-title: "Fajr Khatira | Dr. Ahmed Abouseif | 14 September 2026 | AIA"
+title: "Supplication Is the Bond That Cannot Be Allowed to Break"
 subtitle: "«قل ما يعبأ بكم ربي لولا دعاؤكم» (“Say, ‘My Lord would not care for you were it not for your supplication’”): supplication is the bond that cannot be allowed to break"
 date: "2026-09-14"
 locale: "en"

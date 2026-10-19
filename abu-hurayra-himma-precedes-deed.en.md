@@ -1,5 +1,5 @@
 ---
-title: "Fajr Khatira"
+title: "The Resolve of Abū Hurayra: Resolve Precedes Action"
 subtitle: "The Resolve of Abū Hurayra (may Allah be pleased with him): Resolve Precedes Action — from the Fajr Khatira series"
 date: "2026-09-22"
 locale: "en"

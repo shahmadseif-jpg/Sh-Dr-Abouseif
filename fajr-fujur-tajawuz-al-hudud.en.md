@@ -1,5 +1,5 @@
 ---
-title: "Fajr Khatira | Dr. Ahmed Abou Seif | September 21, 2025"
+title: "Wickedness: Transgressing All Limits Without Fear of Consequences"
 subtitle: "Fujūr: Transgressing All Limits Without Fearing the Consequences"
 date: "2025-09-21"
 locale: "en"

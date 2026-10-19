@@ -1,5 +1,5 @@
 ---
-title: "Fajr Khatira | Dr. Ahmed Abouseif | 29 September 2026"
+title: "Ayat al-Kursi: Allah, the Ever-Living, the Self-Sustaining"
 subtitle: "Ayat al-Kursi: Allah, the Ever-Living, the Self-Sustaining, to whom belongs all that is in the heavens and the earth"
 date: "2026-09-29"
 locale: "en"

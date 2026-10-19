@@ -1,5 +1,5 @@
 ---
-title: "Fajr Khatira"
+title: "‹Is it for Our punishment that they are impatient?›: Do Not Hasten Allah's Punishment"
 subtitle: "\"Is it for Our punishment that they are impatient?\": Do not hasten Allah's punishment; hasten rather to His mercy"
 date: "2026-10-12"
 locale: "en"

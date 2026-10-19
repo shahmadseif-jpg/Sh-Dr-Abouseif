@@ -1,5 +1,5 @@
 ---
-title: "Fajr Khatira: Do Not Fall Behind the Ranks"
+title: "The Golden Calf of the Children of Israel: How True Faith Shapes Wisdom and Patience, and Why We Must Not Fall Behind the Ranks"
 subtitle: "The Calf of the Children of Israel: How True Faith Produces Wisdom and Patience, and Why We Must Not Fall Behind the Ranks"
 date: "2026-05-06"
 locale: "en"

@@ -1,5 +1,5 @@
 ---
-title: "Fajr Khatira | Dr. Ahmed Abouseif | 11 July 2026 | AIA"
+title: "The First Covenant, Blinding, Transformation and Reversal at the End of Surat Yā Sīn"
 subtitle: "The primordial covenant, blinding, transformation, and reversal in the closing verses of Sūrat Yā Sīn"
 date: "2026-07-11"
 locale: "en"

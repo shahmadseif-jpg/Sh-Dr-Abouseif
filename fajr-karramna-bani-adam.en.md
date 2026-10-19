@@ -1,5 +1,5 @@
 ---
-title: "Fajr Khatira | Dr. Ahmed Abouseif | 9 June 2026 | AIA"
+title: "‹We Have Certainly Honored the Children of Adam›: Honor, Carrying, and Provision"
 subtitle: "On the saying of the Exalted: \"We have certainly honored the children of Adam\": the meaning of honor, carrying, and provision"
 date: "2026-06-09"
 locale: "en"

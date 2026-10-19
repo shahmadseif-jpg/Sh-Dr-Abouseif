@@ -1,5 +1,5 @@
 ---
-title: "Fajr Khatira | Dr. Ahmed Abouseif | 13 August 2026 | AIA"
+title: "Pardon Is the Way of the Lord of Might, Between Plotting and Seizing"
 subtitle: "Between \"Do Those Who Plot Evil Deeds Feel Secure\" and \"If Allah Were to Seize People for Their Wrongdoing\": Pardon Is the Way of the Lord of Might"
 date: "2026-08-13"
 locale: "en"

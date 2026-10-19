@@ -1,5 +1,5 @@
 ---
-title: "Fajr Khatira"
+title: "‹What Would Allah Do with Your Punishment If You Are Grateful and Believe?›: What Befalls the Believers Is Discipline, Not Vengeance"
 subtitle: "﴿ما يفعل الله بعذابكم إن شكرتم وآمنتم﴾ (What would Allah do with your punishment if you are grateful and believe?): What Befalls the People of Faith Is Discipline, Not Vengeance"
 date: "2026-04-15"
 locale: "en"

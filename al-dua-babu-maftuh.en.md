@@ -1,5 +1,5 @@
 ---
-title: "Fajr Khatira"
+title: "The Open Gate of Heaven and the Answering of Supplication"
 subtitle: "Fajr Khatira — The Open Gate of Heaven and the Answering of Supplication"
 date: "2026-05-07"
 locale: "en"

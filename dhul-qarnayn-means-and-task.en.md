@@ -1,5 +1,5 @@
 ---
-title: "A Fajr Reflection"
+title: "Dhū al-Qarnayn: The Means We Were Given and the Task Upon Us"
 subtitle: "Dhū al-Qarnayn in Sūrat al-Kahf: “And We gave him from everything a means” — what means we were given and what task is upon us"
 date: "2026-08-26"
 locale: "en"

@@ -1,5 +1,5 @@
 ---
-title: "Fajr Khatira [Du'a Is the Marrow of Worship]"
+title: "Du'a Is the Marrow of Worship"
 subtitle: "Fajr Khatira — Du'a Is the Marrow of Worship"
 date: "2026-07-07"
 locale: "en"

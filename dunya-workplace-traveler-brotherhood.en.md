@@ -1,5 +1,5 @@
 ---
-title: "Isha Khatira: Faith-Based Lessons"
+title: "This World Is a Workplace, and Brotherhood for Allah's Sake Prepares Us to Meet Him"
 subtitle: "This world is a workplace we pass through, and the brotherhood for God's sake prepares us to meet Him"
 date: "2026-10-12"
 locale: "en"

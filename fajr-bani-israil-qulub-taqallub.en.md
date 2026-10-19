@@ -1,5 +1,5 @@
 ---
-title: "Fajr Khatira | Dr. Ahmed Abouseif | 10 June 2026 | AIA"
+title: "People's Susceptibility to Corruption and the Turning of Hearts"
 subtitle: "From the story of the Children of Israel after crossing the sea: people's susceptibility to corruption and the turning of hearts"
 date: "2026-06-10"
 locale: "en"

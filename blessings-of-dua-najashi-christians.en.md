@@ -1,5 +1,5 @@
 ---
-title: "Khatira: The Christians Who Wept at the Qur’an"
+title: "The Christians Who Wept on Hearing the Qur'an"
 subtitle: "A recovered fragment on Qur’an 5:82–83, September 23, 2026"
 date: "2026-09-23"
 locale: "en"

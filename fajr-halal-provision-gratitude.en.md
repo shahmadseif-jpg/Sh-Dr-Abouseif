@@ -1,5 +1,5 @@
 ---
-title: "Fajr Khatira | Dr. Ahmed Abouseif | 17 August 2026 | AIA"
+title: "Joining Lawful Eating with Gratitude for Blessings"
 subtitle: "On Joining Lawful Eating with Gratitude for Blessings: Pharaoh, Qārūn, and the Opposite of Gratitude"
 date: "2026-08-17"
 locale: "en"

@@ -1,5 +1,5 @@
 ---
-title: "Fajr Khatira"
+title: "'Pleased with Their Striving' in Surat al-Ghashiyah"
 subtitle: "Fajr Khatira | Dr. Ahmed Abouseif | July 24, 2026 — \"Well pleased with their striving\" in Sūrat al-Ghāshiyah"
 date: "2026-07-24"
 locale: "en"

@@ -1,5 +1,5 @@
 ---
-title: "Isha Khatira [ Faith-Based Lessons ] | Dr. Ahmed AbouSeif | Oct. 14, 2026 | Bayt Al-Karim"
+title: "The Men in the Cave: What Have We Stored Up for the Hard Moment?"
 subtitle: "The men in the cave: what have we stored up for the hard moment?"
 date: "2026-10-14"
 locale: "en"

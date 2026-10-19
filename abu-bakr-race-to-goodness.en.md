@@ -1,5 +1,5 @@
 ---
-title: "Fajr Khatira"
+title: "Abū Bakr and the Race of Aspirations Toward Paradise"
 subtitle: "Abū Bakr and the race of aspirations toward Paradise"
 date: "2026-04-25"
 locale: "en"

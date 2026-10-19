@@ -1,5 +1,5 @@
 ---
-title: "O You Who Believe, Fulfil Your Contracts"
+title: "A Contract Is a Word and a Mindset, Not a Paper and a Signature"
 subtitle: "A contract is a word and a mindset, not a paper and a signature: fulfilling covenants, among them the covenant with Allah"
 date: "2025-10-19"
 locale: "en"

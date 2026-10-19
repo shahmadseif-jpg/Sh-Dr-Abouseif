@@ -1,5 +1,5 @@
 ---
-title: "Fajr Khatira | Dr. Ahmed Abouseif | June 30, 2026 | AIA"
+title: "Nothing Is Concealed on the Day of Presentation"
 subtitle: "“Not a Secret of Yours Will Remain Hidden”: Nothing Is Concealed on the Day of Presentation"
 date: "2026-06-30"
 locale: "en"

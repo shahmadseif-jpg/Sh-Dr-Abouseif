@@ -1,5 +1,5 @@
 ---
-title: "Khatira: Closeness to Allah Through Obligations and Character"
+title: "Closeness to Allah Through Obligations and Good Character"
 subtitle: "Closeness to Allah through what He made obligatory, and through character"
 date: "2026-09-21"
 locale: "en"

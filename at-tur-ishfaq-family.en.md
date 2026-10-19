@@ -1,5 +1,5 @@
 ---
-title: "Fajr Khatira"
+title: "Sūrat al-Ṭūr: Showing Concern for One's Family"
 subtitle: "Sūrat al-Ṭūr: Tender Concern for One's Family"
 date: "2026-01-13"
 locale: "en"

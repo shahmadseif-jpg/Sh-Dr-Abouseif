@@ -1,5 +1,5 @@
 ---
-title: "Isha Khatira [ Faith-Based Lessons ] | Dr. Ahmed AbouSeif | September 30, 2026 | Bayt Al-Karim"
+title: "A Blind Companion Who Left Us No Excuse"
 subtitle: "A blind Companion who left us no excuse: dignity, responsibility, and doing it for God alone"
 date: "2026-09-30"
 locale: "en"

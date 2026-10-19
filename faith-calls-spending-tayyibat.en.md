@@ -1,5 +1,5 @@
 ---
-title: "ʿIshāʾ Khatira [The Calls of Faith in the Noble Qur'an] 9"
+title: "Calls of Faith in the Qur'an 9: Spending from the Good Things You Have Earned"
 subtitle: "The Calls of Faith (9): Spending from the Good Things You Have Earned"
 date: "2026-04-26"
 locale: "en"

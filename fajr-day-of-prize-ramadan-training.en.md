@@ -1,5 +1,5 @@
 ---
-title: "Fajr Khatira"
+title: "The Day of the Prize and Ramadan as Training for the Whole Year"
 subtitle: "The day of the prize, and Ramadan as training for the year"
 date: "2026-03-20"
 locale: "en"

@@ -1,5 +1,5 @@
 ---
-title: "Fajr Khatira | Dr. Ahmed Abouseif | 6 June 2026 | AIA"
+title: "Giving in Seeking the Face of One's Lord, the Most High"
 subtitle: "From the end of Sūrat al-Layl: giving seeking the face of one's Lord, the Most High, and dealing with Allah rather than with people"
 date: "2026-06-06"
 locale: "en"

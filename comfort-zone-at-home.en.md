@@ -1,5 +1,5 @@
 ---
-title: "Isha Khatira: Objectives of Islamic Law (7)"
+title: "Is Our Home a Comfort Zone for Our Children?"
 subtitle: "Is our home a comfort zone for our children?"
 date: "2026-08-03"
 locale: "en"

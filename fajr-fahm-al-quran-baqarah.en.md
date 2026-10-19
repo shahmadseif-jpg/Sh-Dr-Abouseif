@@ -1,5 +1,5 @@
 ---
-title: "Fajr Khatira: Understanding the Qur'an"
+title: "Reflections on the Recited Quarter of Sūrat al-Baqarah"
 subtitle: "Reflections on the Portion Recited from Sūrat al-Baqarah: Causes, Rebellion Against Blessing, and the Difference Between Choosing with the Heart and with the Mind"
 date: "2024-07-08"
 locale: "en"

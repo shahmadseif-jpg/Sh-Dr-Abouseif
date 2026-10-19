@@ -1,5 +1,5 @@
 ---
-title: "Fajr Khatira"
+title: "Entrusting Oneself and One's Family to Allah's Protection"
 subtitle: "On entrusting oneself and one's family to Allah, and the meaning of “in the protection of Allah”"
 date: "2026-03-27"
 locale: "en"

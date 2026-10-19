@@ -1,5 +1,5 @@
 ---
-title: "Fajr Khatira [Which of Allah's Blessings Upon Us Is More Deserving of Notice and Thanks?] | August 19, 2025 | Dr. Ahmed Abou Seif | AIA"
+title: "‹This Is Our Gift›: The Blessing of Faith and the Qur'an"
 subtitle: "﴿هَٰذَا عَطَاؤُنَا﴾ (This is Our gift): The Blessing of Faith and the Qur'an Is More Deserving of Awareness Than the Blessings of the Senses and of Numbers"
 date: "2025-08-19"
 locale: "en"

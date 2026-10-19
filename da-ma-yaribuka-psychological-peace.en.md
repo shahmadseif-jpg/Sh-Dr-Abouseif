@@ -1,5 +1,5 @@
 ---
-title: "Fajr Khatira | Dr. Ahmed Abouseif | July 13, 2026 | AIA"
+title: "Leave What Makes You Doubt for What Does Not: The Law Wants to Put Your Soul at Ease"
 subtitle: "Leave What Makes You Doubt for What Does Not Make You Doubt: The Sharīʿah Wants to Give Your Soul Rest"
 date: "2026-07-13"
 locale: "en"

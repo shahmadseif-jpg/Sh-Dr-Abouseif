@@ -1,5 +1,5 @@
 ---
-title: "Fajr Khatira | Dr. Ahmed Abouseif | September 11, 2024 | Dar al-Hadith, New Jersey"
+title: "Landmarks from Sūrat al-ʿAnkabūt: Trial, Toil, and Patience with Parents"
 subtitle: "Landmarks from Sūrat al-ʿAnkabūt: Trial, the Question of Toil, and Patience with Parents"
 date: "2024-09-11"
 locale: "en"

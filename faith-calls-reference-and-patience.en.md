@@ -1,5 +1,5 @@
 ---
-title: "ʿIshāʾ Khatira"
+title: "The Calls of Faith 2: The Authority of the Sharīʿah, Then Seeking Help through Patience and Prayer"
 subtitle: "The Calls of Faith in the Noble Qur’an (2): The Authority of the Sharīʿah, Then Seeking Help through Patience and Prayer"
 date: "2026-03-29"
 locale: "en"

@@ -1,5 +1,5 @@
 ---
-title: "Fajr Khatira"
+title: "Those Left Behind and the Means to Act"
 subtitle: "Fajr Khatira: Those Left Behind and the Means to Act"
 date: "2026-02-26"
 locale: "en"

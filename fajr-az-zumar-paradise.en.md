@@ -1,5 +1,5 @@
 ---
-title: "Fajr Khatira | Dr. Ahmed Abouseif | 17 October 2026 | AIA"
+title: "The Scene of Paradise and Worldly Distinction in Sūrat al-Zumar"
 subtitle: "In Sūrat al-Zumar: the scene of Paradise we are meant to live in, and the worldly distinction whose taste fades"
 date: "2026-10-17"
 locale: "en"

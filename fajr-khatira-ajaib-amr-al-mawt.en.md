@@ -1,5 +1,5 @@
 ---
-title: "Fajr Khatira"
+title: "The Wonder of Death: Permanence, the Final Outcome, Paradise and Hell"
 subtitle: "How Wondrous Is the Matter of Death: A Pause on Remaining Alive, the Final Ending, Paradise and the Fire"
 date: "2024-09-27"
 locale: "en"

@@ -1,5 +1,5 @@
 ---
-title: "Fajr Khatira [ Allah Is the Ally of Those Who Believe ]"
+title: "‹Allah Is the Ally of Those Who Believe›: Allah's Guardianship over the Believers"
 subtitle: "Fajr Khatira | Dr. Ahmed Abouseif | August 13, 2024"
 date: "2024-08-13"
 locale: "en"

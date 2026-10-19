@@ -1,5 +1,5 @@
 ---
-title: "Fajr Khatira [ ʿĀshūrāʾ and the Meanings of Freedom ]"
+title: "Fasting on ʿĀshūrāʾ as a Renewed Declaration of Freedom"
 subtitle: "Fasting on ʿĀshūrāʾ Is a Renewed Declaration of Freedom from Every Captivity"
 date: "2026-06-25"
 locale: "en"

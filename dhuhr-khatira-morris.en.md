@@ -1,5 +1,5 @@
 ---
-title: "خاطرة بعد صلاة الظهر | د. أحمد أبو سيف | 4 سبتمبر 2022 | المركز الإسلامي بمدينة موريس"
+title: "The Five Prayers as a Check-Up for the Heart, and the Meaning of 'Praise Be to Allah'"
 subtitle: "The five daily prayers as a scan of the heart, and what it means to say “Alhamdulillah”"
 date: "2022-09-04"
 locale: "en"

@@ -1,5 +1,5 @@
 ---
-title: "Fajr Khatira"
+title: "Planning for the Future in the Context of Sūrat al-Ḥashr"
 subtitle: "“Let Every Soul Look to What It Has Sent Ahead for Tomorrow”: Planning for the Future in the Context of Sūrat al-Ḥashr"
 date: "2026-06-20"
 locale: "en"

@@ -1,5 +1,5 @@
 ---
-title: "Fajr Khatira"
+title: "The Conditions of the Faith That Brings Supremacy"
 subtitle: "Fajr Khatira | Dr. Ahmed Abouseif | July 25, 2026 — The Conditions of the Faith That Brings Supremacy"
 date: "2026-07-25"
 locale: "en"
