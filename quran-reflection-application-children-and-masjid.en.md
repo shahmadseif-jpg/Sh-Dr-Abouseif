@@ -3,7 +3,7 @@ title: "The Qur’an: Reflection & Application: Children and the Masjid"
 subtitle: "A phone call about a drifting child, and the question of whether our children know the masjid"
 date: "2026-04-15"
 locale: "en"
-slug: "children-and-the-masjid"
+slug: "quran-reflection-application-children-and-masjid"
 readingMinutes: 8
 ---
 > Occasion: Transcript of an Isha lecture delivered on April 13, 2026; the place is not named in the video title.
