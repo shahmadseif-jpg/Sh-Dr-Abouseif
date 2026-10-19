@@ -3104,6 +3104,182 @@ export const articlesMeta: ArticleMeta[] = [
       en: 'In an age of anxiety over the world and over our children, the khatib walks through the contexts of reliance on God in the lives of the prophets, from Nūḥ to Yaʿqūb, showing that tawakkul is a heart in God’s hand and a body and mind in the field.',
     },
   },
+  {
+    slug: 'the-outcome-belongs-to-taqwa',
+    category: 'family',
+    isoDate: '2025-10-17',
+    date: {
+      ar: '١٧ أكتوبر ٢٠٢٥',
+      en: 'October 17, 2025',
+    },
+    readingMinutes: 8,
+    title: {
+      ar: 'وَالْعَاقِبَةُ لِلتَّقْوَىٰ',
+      en: 'And the Outcome Belongs to Taqwa',
+    },
+    subtitle: {
+      ar: 'من ابنَي آدم إلى يوسف إلى أبي بكر: كيف نخرج من دائرة الدنيا الضيقة إلى الغاية التي خُلقنا لها',
+      en: 'From the two sons of Ādam to Yūsuf to Abū Bakr: how we step out of the narrow circle of this world toward the purpose we were created for',
+    },
+    excerpt: {
+      ar: 'خطبة عن صلة الرحم والحسد بين الأقارب انطلاقًا من قصة ابني آدم، ثم عن الغاية التي خُلق الإنسان لها من خلال يوسف وأبي بكر وعمر رضي الله عنهم.',
+      en: 'A khutbah on kinship ties and envy between relatives, beginning with the story of Ādam\'s two sons, then on the purpose for which humans were created, through Yūsuf, Abū Bakr and ʿUmar, may God be pleased with them.',
+    },
+  },
+  {
+    slug: 'faith-between-claim-and-commitment',
+    category: 'wisdom-insights',
+    isoDate: '2025-09-12',
+    date: {
+      ar: '١٢ سبتمبر ٢٠٢٥',
+      en: 'September 12, 2025',
+    },
+    readingMinutes: 7,
+    title: {
+      ar: 'الإيمان بين الادعاء والالتزام',
+      en: 'Faith Between Claim and Commitment',
+    },
+    subtitle: {
+      ar: 'ليس الإيمان دعوى تُقال ولا مسكّنًا للضمير، بل قوة تحرّك القلب والبدن والتجارة والبيت',
+      en: 'Faith is neither a claim spoken nor a sedative for the conscience, but a force that moves the heart, the body, trade and the home',
+    },
+    excerpt: {
+      ar: 'خطبة تفرّق بين دعوى الإيمان والتزامه، وتعرض مرحلة مكة بوصفها تأهيلًا إيمانيًّا، وتدعو إلى أن يسري الإيمان في المعاملات والبيت والعمل، وتربط العبادات بالتدريب على الالتزام.',
+      en: 'A khutbah distinguishing the claim of faith from its commitment, presenting the Meccan stage as a formation in faith, and calling for faith to run through dealings, home and work, linking acts of worship to training in commitment.',
+    },
+  },
+  {
+    slug: 'al-baqiyat-al-salihat-khayr',
+    category: 'wisdom-insights',
+    isoDate: '2022-05-13',
+    date: {
+      ar: '١٣ مايو ٢٠٢٢',
+      en: 'May 13, 2022',
+    },
+    readingMinutes: 9,
+    title: {
+      ar: 'الباقيات الصالحات خير',
+      en: 'The Lasting Good Deeds Are Better',
+    },
+    subtitle: {
+      ar: 'ماذا أكلتَ بالأمس وأين هو اليوم؟ وما الذي يبقى من العمر حقًّا',
+      en: 'What did you eat yesterday, and where is it today? And what truly remains of a lifetime',
+    },
+    excerpt: {
+      ar: 'ما الذي يبقى مما أكلناه وأنفقناه وجمعناه؟ تأمل في «الباقيات الصالحات» بين الذكر والأثر، وفي «المال والبنون زينة»، وحديث «أحب الناس إلى الله أنفعهم للناس».',
+      en: 'What remains of what we ate, spent and gathered? A reflection on al-bāqiyāt al-ṣāliḥāt between remembrance and legacy, on “wealth and children are the adornment,” and on the hadith “The most beloved of people to God are the most beneficial to people.”',
+    },
+  },
+  {
+    slug: 'hijra-meaning-and-structure',
+    category: 'imamship',
+    isoDate: '2024-07-12',
+    date: {
+      ar: '١٢ يوليو ٢٠٢٤',
+      en: 'July 12, 2024',
+    },
+    readingMinutes: 6,
+    title: {
+      ar: 'الهجرة معنى ومبنى',
+      en: 'Hijra: Meaning and Structure',
+    },
+    subtitle: {
+      ar: 'الهجرة مرحلة من مراحل العمل لهذا الدين، لا استراحةً منه',
+      en: 'Hijra is a stage of working for this religion, not a rest from it',
+    },
+    excerpt: {
+      ar: 'الهجرة لم تكن هروبًا ولا راحة بل مرحلة من مراحل العمل لهذا الدين. خطبة في استشعار المسؤولية عن الإسلام، من دار الأرقم إلى جواب النبي ﷺ لخبّاب.',
+      en: 'Hijra was neither flight nor rest, but a stage in the work for this religion. A khutbah on feeling responsibility for Islam, from Dār al-Arqam to the Prophet\'s ﷺ reply to Khabbāb.',
+    },
+  },
+  {
+    slug: 'shaping-the-future',
+    category: 'wisdom-insights',
+    isoDate: '2018-09-28',
+    date: {
+      ar: '٢٨ سبتمبر ٢٠١٨',
+      en: 'September 28, 2018',
+    },
+    readingMinutes: 9,
+    title: {
+      ar: 'صناعة المستقبل',
+      en: 'Shaping the Future',
+    },
+    subtitle: {
+      ar: 'كيف صنع أصحاب النبي ﷺ مستقبلهم، وما الذي يفصل الصانعين عن القاعدين',
+      en: 'How the Companions of the Prophet ﷺ shaped their future, and what separates the makers from those who sit back',
+    },
+    excerpt: {
+      ar: 'كيف صنع أصحاب النبي ﷺ مستقبلهم؟ من مصعب بن عمير وأبي أيوب وعتبة بن غزوان وسعيد بن عامر، سؤالان على كل واحد منا: هل نريد صناعة المستقبل؟ وهل نحن جاهزون للبذل؟',
+      en: 'How did the Companions shape their future? Through Muṣʿab ibn ʿUmayr, Abū Ayyūb, ʿUtba ibn Ghazwān and Saʿīd ibn ʿĀmir, two questions for each of us: do we want to shape the future, and are we ready to give?',
+    },
+  },
+  {
+    slug: 'last-ten-nights-deal-of-a-lifetime',
+    category: 'wisdom-insights',
+    isoDate: '2018-06-01',
+    date: {
+      ar: '١ يونيو ٢٠١٨',
+      en: 'June 1, 2018',
+    },
+    readingMinutes: 7,
+    title: {
+      ar: 'العشر الأواخر صفقة العمر',
+      en: 'The Last Ten Nights: The Deal of a Lifetime',
+    },
+    subtitle: {
+      ar: 'ما الذي تخسره إن اعتزلتَ الدنيا أيامًا، وما الذي تربحه؟',
+      en: 'What do you lose by withdrawing from the world for some days, and what do you gain?',
+    },
+    excerpt: {
+      ar: 'على أعتاب العشر الأواخر من رمضان، تزن الخطبة ما نخسره وما نربحه إن اعتزلنا الدنيا أيامًا، وتجد في هذه الليالي جهدين للنبي ﷺ: الاعتكاف والجود، وتختم بزكاة الفطر.',
+      en: 'On the threshold of the last ten nights of Ramadan, the khutbah weighs what we lose and gain by withdrawing from the world, and finds the Prophet\'s two efforts in these nights: iʿtikāf and generosity. It ends with zakāt al-fiṭr.',
+    },
+  },
+  {
+    slug: 'trials-are-doors-to-gifts',
+    category: 'wisdom-insights',
+    isoDate: '2024-05-17',
+    date: {
+      ar: '١٧ مايو ٢٠٢٤',
+      en: 'May 17, 2024',
+    },
+    readingMinutes: 7,
+    title: {
+      ar: 'المِحَن أبواب المِنَح',
+      en: 'Trials Are the Doors of Gifts',
+    },
+    subtitle: {
+      ar: 'الحياة كَبَدٌ وكَدْح، وما بعد الشدة إلا عطاء لمن صبر وعمل',
+      en: 'Life is toil and struggle, and after hardship comes giving for whoever endures and works',
+    },
+    excerpt: {
+      ar: 'المحن جزء من بنية الحياة لا طارئ عليها: من آدم إلى النبي ﷺ ومن آيات الكبد والكدح. وتنتهي الخطبة بسؤال: ماذا نصنع بوقتنا في هذا البلد؟',
+      en: 'Trials are part of the structure of life, not an interruption of it: from Ādam to the Prophet ﷺ, and from the verses on kabad and kadḥ. The khutbah ends by asking what we are doing with our time in this country.',
+    },
+  },
+  {
+    slug: 'milestones-of-brotherhood-in-society',
+    category: 'wisdom-insights',
+    isoDate: '2024-05-10',
+    date: {
+      ar: '١٠ مايو ٢٠٢٤',
+      en: 'May 10, 2024',
+    },
+    readingMinutes: 9,
+    title: {
+      ar: 'معالم الأخوة في المجتمع',
+      en: 'Milestones of Brotherhood in Society',
+    },
+    subtitle: {
+      ar: 'العفو صمّام الأمان حين تتراكم الضغائن تحت سقف واحد',
+      en: 'Forgiveness is the safety valve when grudges pile up under one roof',
+    },
+    excerpt: {
+      ar: 'العفو صمّام أمان البيت والمجتمع: من مؤاخاة المدينة إلى آيات العفو والصفح في البقرة وآل عمران والمائدة والتغابن، ثم يوسف وإخوته والنبي ﷺ يوم الفتح.',
+      en: 'Forgiveness is the safety valve of home and society: from the brotherhood of Medina to the verses of pardon and forbearance in al-Baqara, Āl ʿImrān, al-Māʾida and al-Taghābun, then Yūsuf and his brothers and the Prophet ﷺ on the day of the Conquest.',
+    },
+  },
 ];
 
 export function getArticleMeta(slug: string): ArticleMeta | undefined {
