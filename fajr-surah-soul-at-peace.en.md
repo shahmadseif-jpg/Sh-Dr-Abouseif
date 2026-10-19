@@ -1,5 +1,5 @@
 ---
-title: "Khatira: Short Surahs, Understanding and Application"
+title: "The Soul at Peace and Its Journey Back to Its Lord"
 subtitle: "The soul at peace and its journey back to the Lord"
 date: "2026-08-24"
 locale: "en"

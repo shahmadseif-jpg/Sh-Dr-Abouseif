@@ -1,5 +1,5 @@
 ---
-title: "Fajr Khatira"
+title: "‹Whoever Introduces into This Affair of Ours What Is Not of It Is Rejected› and Contemporary Developments"
 subtitle: "From Jāmiʿ al-ʿUlūm wa-l-Ḥikam, the fifth ḥadīth: «من أحدث في أمرنا هذا ما ليس منه فهو ردّ» (Whoever introduces into this affair of ours what is not part of it, it is rejected) and contemporary developments"
 date: "2026-04-27"
 locale: "en"

@@ -1,5 +1,5 @@
 ---
-title: "Khatira on the Ḥawāmīm (6)"
+title: "The Ḥawāmīm 6: Sūrat Ghāfir and Sūrat Fuṣṣilat"
 subtitle: "Khatira [on the Ḥawāmīm] 6 — Sūrat Ghāfir and Sūrat Fuṣṣilat"
 date: "2026-02-28"
 locale: "en"

@@ -1,5 +1,5 @@
 ---
-title: "Sūrat al-Anʿām and the Civil State"
+title: "Sūrat al-Anʿām: A Refined Society That Knows Its Limits, and the Surah of the Civil State"
 subtitle: "Sūrat al-Anʿām: a refined society that knows its limits, and the sūra of the civil state"
 date: "2026-04-29"
 locale: "en"

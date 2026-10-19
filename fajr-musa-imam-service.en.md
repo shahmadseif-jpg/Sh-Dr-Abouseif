@@ -1,5 +1,5 @@
 ---
-title: "Fajr Khatira: “And [Recall] When Moses Prayed for Water for His People”"
+title: "Leadership as Service to the People: From Mūsā to the Prophet ﷺ"
 subtitle: "Leadership Is Service to the People: From Moses, Peace Be upon Him, to the Prophet ﷺ"
 date: "2026-02-12"
 locale: "en"

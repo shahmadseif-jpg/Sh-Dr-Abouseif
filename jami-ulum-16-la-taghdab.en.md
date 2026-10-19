@@ -1,5 +1,5 @@
 ---
-title: "Fajr Khatira [Jāmiʿ al-ʿUlūm wa-l-Ḥikam] 16"
+title: "Jāmiʿ al-ʿUlūm wa'l-Ḥikam 16: ‹Do Not Become Angry›, a Counsel That Forms a Way of Life"
 subtitle: "\"Do Not Become Angry\": A Counsel That Forms a Way of Life, and a Hobble That Keeps the Mind from Bolting"
 date: "2026-08-23"
 locale: "en"

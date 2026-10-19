@@ -1,5 +1,5 @@
 ---
-title: "Fajr Khatira [Jāmiʿ al-ʿUlūm wa'l-Ḥikam] 20"
+title: "Jāmiʿ al-ʿUlūm wa'l-Ḥikam 20: Modesty, Shyness Before Falsehood and Boldness Toward the Truth"
 subtitle: "Modesty: shyness before falsehood and boldness toward the truth, and a safety valve in the heart"
 date: "2026-10-11"
 locale: "en"

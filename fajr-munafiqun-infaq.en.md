@@ -1,5 +1,5 @@
 ---
-title: "Fajr Khatira"
+title: "Spending in Charity Is a Sense of Responsibility"
 subtitle: "Spending Is a Sense of Responsibility: A Reflection on a Verse Near the End of Sūrat al-Munāfiqūn"
 date: "2026-01-22"
 locale: "en"

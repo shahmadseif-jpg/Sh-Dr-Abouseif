@@ -1,5 +1,5 @@
 ---
-title: "Fajr Khatira [Jāmiʿ al-ʿUlūm wa-l-Ḥikam] 4"
+title: "Jāmiʿ al-ʿUlūm wa'l-Ḥikam 4: The Ḥadīth of Ibn Masʿūd on the Stages of Creation: Do We Act Because the Decree Preceded, or Did the Decree Precede Because We Act?"
 subtitle: "Ibn Masʿūd's Ḥadīth on the Stages of Creation: Do We Act Because the Writing Preceded, or Did the Writing Precede Because We Act?"
 date: "2026-04-19"
 locale: "en"

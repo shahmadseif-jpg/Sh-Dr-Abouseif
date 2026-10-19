@@ -1,5 +1,5 @@
 ---
-title: "Fajr Khatira [Jāmiʿ al-ʿUlūm wa-l-Ḥikam] 19"
+title: "Jāmiʿ al-ʿUlūm wa'l-Ḥikam 19: Guard Allah, and He Will Guard You"
 subtitle: "Guard Allah, and He Will Guard You: The Prophet's ﷺ counsel to Ibn ʿAbbās — from the series «Jāmiʿ al-ʿUlūm wa-l-Ḥikam», the nineteenth khatira"
 date: "2026-09-27"
 locale: "en"

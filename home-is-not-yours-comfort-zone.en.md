@@ -1,5 +1,5 @@
 ---
-title: "Isha Khatira"
+title: "The Comfort Zone: When Home Stops Being a Refuge"
 subtitle: "The comfort zone, continued: when home stops being a refuge"
 date: "2026-08-05"
 locale: "en"

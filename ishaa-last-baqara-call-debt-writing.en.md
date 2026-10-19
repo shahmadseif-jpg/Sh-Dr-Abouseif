@@ -1,5 +1,5 @@
 ---
-title: "The Last Call in Sūrat al-Baqara: The Verse of Debt"
+title: "The Final Calls of Faith in Sūrat al-Baqara: The Prohibition of Usury and the Writing Down of Debt"
 subtitle: "Closing the believers' calls in Sūrat al-Baqara: the prohibition of ribā, and the opening of the door of lending and writing it down"
 date: "2026-05-03"
 locale: "en"

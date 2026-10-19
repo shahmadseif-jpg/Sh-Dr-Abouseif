@@ -1,5 +1,5 @@
 ---
-title: "ʿIshāʾ Khatira [ The Calls of Faith in the Noble Qur'an ] | Dr. Ahmed Abouseif | June 28, 2026 | AIA"
+title: "The Call on Ribā in Sūrat Āl ʿImrān"
 subtitle: "The Call on Ribā in Sūrat Āl ʿImrān: “Do Not Consume Ribā, Doubled and Multiplied”"
 date: "2026-06-28"
 locale: "en"

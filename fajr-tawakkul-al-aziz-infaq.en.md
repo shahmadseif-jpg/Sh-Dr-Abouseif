@@ -1,5 +1,5 @@
 ---
-title: "Fajr Khatira | Dr. Ahmed Abouseif | 16 September 2026 | AIA"
+title: "The Might and Mercy of Allah, and the Logic of ‹Shall We Feed One Whom Allah Could Have Fed?›"
 subtitle: "The might of Allah and His mercy, and the logic of «أنطعمُ مَن لو يشاء الله أطعمه» (“Shall we feed one whom, if Allah willed, He would have fed?”) in how we treat the poor"
 date: "2026-09-16"
 locale: "en"

@@ -1,5 +1,5 @@
 ---
-title: "Fajr Khatira"
+title: "Ibrāhīm, Peace Be Upon Him: The Sound Heart and the Thought of the Lord of the Worlds"
 subtitle: "Ibrāhīm, peace be upon him: a sound heart, and the question \"What then is your thought about the Lord of the worlds?\""
 date: "2026-10-10"
 locale: "en"

@@ -1,5 +1,5 @@
 ---
-title: "Fajr Khatira"
+title: "Purifying the Soul, Your Role in Shaping It, and What Comes after Ramadan"
 subtitle: "Purifying the soul: where did you come from, what is your role in shaping yourself, and what comes after Ramadan"
 date: "2026-03-21"
 locale: "en"

@@ -1,5 +1,5 @@
 ---
-title: "Fajr Khatira"
+title: "‹And Allah Would Not Wrong Them›: Divine and Cosmic Laws and the Believer's Resilient Psyche"
 subtitle: "\"Allah Would Not Have Wronged Them\": Divine and Cosmic Laws, and the Solid Psyche of the Believer"
 date: "2026-05-16"
 locale: "en"

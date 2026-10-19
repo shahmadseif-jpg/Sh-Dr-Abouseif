@@ -1,5 +1,5 @@
 ---
-title: "Isha Khatira"
+title: "Verifying News and the Rooms of Society"
 subtitle: "Verifying news and the rooms of society: from Sūrat al-Ḥujurāt"
 date: "2026-03-20"
 locale: "en"

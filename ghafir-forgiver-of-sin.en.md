@@ -1,5 +1,5 @@
 ---
-title: "Fajr Khatira"
+title: "'Ghāfir' and the Bearers of the Throne"
 subtitle: "Fajr Khatira | Dr. Ahmed Abouseif | July 23, 2026 — \"Ghāfir\" and the Bearers of the Throne"
 date: "2026-07-23"
 locale: "en"

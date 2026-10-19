@@ -1,5 +1,5 @@
 ---
-title: "Fajr Khatira: “For What Are Lifetimes and Deeds Spent?”"
+title: "Everything Has a Price, and the Failure Is the One Who Pays It in the Wrong Place"
 subtitle: "Everything Has a Price, and the Failure Is the One Who Pays the Price in the Wrong Place"
 date: "2026-02-11"
 locale: "en"

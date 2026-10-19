@@ -1,5 +1,5 @@
 ---
-title: "A Fajr Khatira"
+title: "Your Task Is to Remind; Reckoning and Guidance Belong to Allah"
 subtitle: "The Close of al-Ghāshiyah: Your Task Is to Remind; Reckoning and Guidance Belong to Allah"
 date: "2026-06-19"
 locale: "en"

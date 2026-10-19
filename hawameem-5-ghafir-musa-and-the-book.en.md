@@ -1,5 +1,5 @@
 ---
-title: "Khatira on the Ḥawāmīm (5)"
+title: "The Ḥawāmīm 5: Moses, the Book and the Outcome in Ghāfir and Fuṣṣilat"
 subtitle: "Khatira on the Ḥawāmīm (5): Moses, the Book, and the Outcome in Ghāfir and Fuṣṣilat"
 date: "2026-02-26"
 locale: "en"

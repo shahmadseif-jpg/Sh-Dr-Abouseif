@@ -1,5 +1,5 @@
 ---
-title: "Fajr Khatira [Ruinous Victories]"
+title: "Ruinous Victories: The Difference Between Momentary Triumph and Lasting Gain in Light of Sūrat al-Anfāl"
 subtitle: "Fajr Khatira — The Difference Between a Momentary Victory and Lasting Gain, in Light of Sūrat al-Anfāl"
 date: "2026-05-09"
 locale: "en"

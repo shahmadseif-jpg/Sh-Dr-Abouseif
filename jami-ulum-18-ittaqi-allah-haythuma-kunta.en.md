@@ -1,5 +1,5 @@
 ---
-title: "Fajr Khatira [Jāmiʿ al-ʿUlūm wa'l-Ḥikam] 18"
+title: "Jāmiʿ al-ʿUlūm wa'l-Ḥikam 18: Fear Allah Wherever You Are"
 subtitle: "The Jāmiʿ al-ʿUlūm wa'l-Ḥikam series: «اتق الله حيثما كنت وأتبع السيئة الحسنة تمحها وخالق الناس بخلق حسن» (Fear Allah wherever you are, follow a bad deed with a good one and it will erase it, and treat people with good character)"
 date: "2026-09-20"
 locale: "en"

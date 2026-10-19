@@ -1,5 +1,5 @@
 ---
-title: "Khatira: Reflections from a Surah"
+title: "The Qur'an Builds a Mentality of Giving More Than Taking"
 subtitle: "The Quran builds a mentality of giving more than we take, and trust is its fruit"
 date: "2026-10-14"
 locale: "en"

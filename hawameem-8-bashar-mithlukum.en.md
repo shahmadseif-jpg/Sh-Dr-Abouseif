@@ -1,5 +1,5 @@
 ---
-title: "Khatira on the Ḥawāmīm (8)"
+title: "‹Say: I Am Only a Man Like You›: The First Recipient Is the First to Act"
 subtitle: "From Sūrat Fuṣṣilat: \"Say, I am only a man like you,\" and the First Recipient Is the First to Act"
 date: "2026-03-03"
 locale: "en"

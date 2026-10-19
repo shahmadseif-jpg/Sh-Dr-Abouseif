@@ -1,5 +1,5 @@
 ---
-title: "Fajr Khatira | Dr. Ahmed Abou Seif | September 23, 2025"
+title: "The Saver's Mindset and the Ḥadīth of the Bankrupt"
 subtitle: "The Saver's Mindset and the Ḥadīth of the Bankrupt: Neglecting the Small Things"
 date: "2025-09-23"
 locale: "en"

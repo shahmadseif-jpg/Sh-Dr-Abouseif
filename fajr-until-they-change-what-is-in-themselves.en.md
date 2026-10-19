@@ -1,5 +1,5 @@
 ---
-title: "Fajr Khatira [ Until They Change What Is in Themselves ]"
+title: "Change Is a Desire That Springs from Within"
 subtitle: "Fajr Khatira — Dr. Ahmed Abouseif — American Imams Academy"
 date: "2025-10-15"
 locale: "en"

@@ -1,5 +1,5 @@
 ---
-title: "Isha Khatira [ Objectives of Islamic Law ] | Dr. Ahmed AbouSeif | August 19, 2026 | Bayt Al-Karim"
+title: "Whoever Wants the Hurried World and Whoever Wants the Hereafter and Strives for It"
 subtitle: "Whoever wants the hurried world, and whoever wants the Hereafter and strives for it: a reflection on Surah al-Isra'"
 date: "2026-08-19"
 locale: "en"

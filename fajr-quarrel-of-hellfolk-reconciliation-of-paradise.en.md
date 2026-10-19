@@ -1,5 +1,5 @@
 ---
-title: "Fajr Khatira | August 20, 2025 | Dr. Ahmed Abou Seif | AIA Masjid"
+title: "The Quarrelling of the People of Hell and the Reconciliation of the People of Paradise"
 subtitle: "The Quarreling of the People of the Fire and the Reconciliation of the People of Paradise: Which Do We Choose for Our Homes?"
 date: "2025-08-20"
 locale: "en"

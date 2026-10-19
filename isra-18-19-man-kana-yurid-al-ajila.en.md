@@ -1,5 +1,5 @@
 ---
-title: "Fajr Khatira | 19 August 2026"
+title: "‹Whoever Desires the Immediate› and ‹Whoever Desires the Hereafter›: What the Qur'an Makes of a Person"
 subtitle: "\"Whoever Desires the Immediate\" and \"Whoever Desires the Hereafter and Strives for It as It Deserves\": What the Qur'an Makes of a Person"
 date: "2026-08-19"
 locale: "en"

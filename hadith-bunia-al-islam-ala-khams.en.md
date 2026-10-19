@@ -1,5 +1,5 @@
 ---
-title: "Fajr Khatira [Jāmiʿ al-ʿUlūm wa'l-Ḥikam] 3"
+title: "Jāmiʿ al-ʿUlūm wa'l-Ḥikam 3: Islam as a Building That Shelters Its Owner"
 subtitle: "“Islam Is Built upon Five”: Islam as a Building That Shelters Its Owner (Jāmiʿ al-ʿUlūm wa'l-Ḥikam, Episode 3)"
 date: "2026-04-05"
 locale: "en"

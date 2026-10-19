@@ -1,5 +1,5 @@
 ---
-title: "A Fajr Khatira"
+title: "Hijrah Is Uprooting the Self and Renewing the Intention"
 subtitle: "At the Head of the Hijri Year: Hijrah Is Uprooting the Self, and Renewing the Intention to Stay"
 date: "2026-06-16"
 locale: "en"

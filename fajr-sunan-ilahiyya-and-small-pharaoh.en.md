@@ -1,5 +1,5 @@
 ---
-title: "Fajr Khatira: The Great Pharaoh and the Small Pharaoh"
+title: "Divine Laws No One Escapes, and the Arrogance of the Great and the Small Pharaoh"
 subtitle: "The Divine Laws No One Escapes, and the Arrogance of the Great and the Small Pharaoh"
 date: "2026-05-04"
 locale: "en"

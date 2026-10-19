@@ -1,5 +1,5 @@
 ---
-title: "A Fajr Khatira: Between Sulaymān and Ayyūb"
+title: "Between Sulaymān and Ayyūb: Those Granted the World, Those Denied It, and the Oft-Returning"
 subtitle: "Who was granted the world and who was denied it, and the one who turns back to Allah as the common thread among the prophets"
 date: "2024-05-14"
 locale: "en"

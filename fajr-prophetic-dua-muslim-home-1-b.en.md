@@ -1,5 +1,5 @@
 ---
-title: "Fajr Khatira: From the Secrets of the Prophetic Supplication – The Muslim Home 1"
+title: "From the Secrets of the Prophetic Supplication: The Muslim Home 1"
 subtitle: "From the Secrets of the Prophetic Supplication – The Muslim Home (1)"
 date: "2025-05-07"
 locale: "en"

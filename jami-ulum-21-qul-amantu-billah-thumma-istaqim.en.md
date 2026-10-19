@@ -1,5 +1,5 @@
 ---
-title: "Fajr Khatira [Jāmiʿ al-ʿUlūm wa'l-Ḥikam] 21"
+title: "Jāmiʿ al-ʿUlūm wa'l-Ḥikam 21: ‹Say: I believe in Allah, then be upright›"
 subtitle: "\"Say: I believe in Allah, then be upright\": A comprehensive statement after which one need ask no one else"
 date: "2026-10-18"
 locale: "en"

@@ -1,5 +1,5 @@
 ---
-title: "Fajr Khatira [Jāmiʿ al-ʿUlūm wa-l-Ḥikam] 8"
+title: "Jāmiʿ al-ʿUlūm wa'l-Ḥikam 8: ‹I Have Been Commanded to Fight the People›"
 subtitle: "\"I Have Been Commanded to Fight the People\": Understanding the Ḥadīth Between Excess and Neglect, and Where Is Our Daʿwah?"
 date: "2026-05-17"
 locale: "en"

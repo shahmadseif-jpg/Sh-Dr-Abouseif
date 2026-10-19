@@ -1,5 +1,5 @@
 ---
-title: "Fajr Khatira [Jāmiʿ al-ʿUlūm wa-l-Ḥikam] 15 | Dr. Ahmed Abouseif | 16 August 2026 | AIA"
+title: "Jāmiʿ al-ʿUlūm wa'l-Ḥikam 15: ‹Let Him Speak Good or Remain Silent›"
 subtitle: "The Fifteenth Ḥadīth of Jāmiʿ al-ʿUlūm wa-l-Ḥikam: \"Whoever Believes in Allah and the Last Day, Let Him Speak Good or Remain Silent…\""
 date: "2026-08-16"
 locale: "en"

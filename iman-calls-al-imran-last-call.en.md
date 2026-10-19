@@ -1,5 +1,5 @@
 ---
-title: "Evening Khatira [The Calls of Faith in the Noble Qur'an]"
+title: "Calls of Faith: The Last Call of Faith in Surat Āl ʿImrān"
 subtitle: "The last call of faith in Sūrat Āl ʿImrān: ﴿اصْبِرُوا وَصَابِرُوا وَرَابِطُوا﴾ (Be patient, persevere, and remain stationed) — and its place in the architecture of the calls in the sūrah"
 date: "2026-07-12"
 locale: "en"

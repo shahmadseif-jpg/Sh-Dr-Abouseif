@@ -1,5 +1,5 @@
 ---
-title: "Isha Khatira [The Calls of Faith in the Qur'an] 5"
+title: "Calls of Faith in the Qur'an 5: Fasting Is Prescribed for You, and Training the Soul in Voluntary Abstention"
 subtitle: "The Fifth Call: «Fasting Is Prescribed for You», and Training the Self in Voluntary Abstention"
 date: "2026-04-12"
 locale: "en"

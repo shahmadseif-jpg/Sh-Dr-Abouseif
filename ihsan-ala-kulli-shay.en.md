@@ -1,5 +1,5 @@
 ---
-title: "Fajr Khatira"
+title: "Jāmiʿ al-ʿUlūm wa'l-Ḥikam: ‹Indeed, Allah Has Prescribed Excellence in Everything›"
 subtitle: "From Ibn Rajab's «Jāmiʿ al-ʿUlūm wa'l-Ḥikam»: the hadith «إن الله كتب الإحسان على كل شيء» (“Indeed, Allah has prescribed excellence in everything”)"
 date: "2026-09-13"
 locale: "en"

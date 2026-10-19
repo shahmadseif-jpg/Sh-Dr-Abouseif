@@ -1,5 +1,5 @@
 ---
-title: "Fajr Khatira | August 21, 2025 | Dr. Ahmed Abou Seif | AIA Masjid"
+title: "One Lord or Quarrelling Partners"
 subtitle: "One Lord or Quarreling Partners: How the World Tears at the Heart of One Who Worships Other Than Allah"
 date: "2025-08-21"
 locale: "en"

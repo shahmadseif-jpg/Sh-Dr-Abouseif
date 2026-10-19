@@ -1,5 +1,5 @@
 ---
-title: "Isha Khatira"
+title: "Where We Die, and Who Will Bear Witness for Us or Against Us"
 subtitle: "Where we will die, and who will bear witness for or against us"
 date: "2024-10-02"
 locale: "en"

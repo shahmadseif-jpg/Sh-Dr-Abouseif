@@ -1,5 +1,5 @@
 ---
-title: "Until the Messenger Says: The Price of Paradise"
+title: "‹Until the Messenger Said›: The Price of Paradise Is a Recurring Trial"
 subtitle: "﴿حَتَّىٰ يَقُولَ الرَّسُولُ﴾: The price of Paradise is a trial that recurs, and a giving that includes the mind, the heart, the body and wealth"
 date: "2025-10-06"
 locale: "en"

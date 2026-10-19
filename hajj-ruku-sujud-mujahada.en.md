@@ -1,5 +1,5 @@
 ---
-title: "A Fajr Khatira"
+title: "From Sūrat al-Ḥajj: Bowing, Prostration and a Chosen Elite"
 subtitle: "From Sūrat al-Ḥajj: The Parable of the Fly, Bowing and Prostration, and a Chosen Elite"
 date: "2026-03-05"
 locale: "en"

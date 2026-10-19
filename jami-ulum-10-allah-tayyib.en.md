@@ -1,5 +1,5 @@
 ---
-title: "Fajr Khatira [ Jāmiʿ al-ʿUlūm wa-l-Ḥikam ] 10"
+title: "Jāmiʿ al-ʿUlūm wa'l-Ḥikam 10: ‹Allah Is Good and Accepts Only What Is Good›"
 subtitle: "“Allah Is Good and Accepts Only What Is Good”: The Tenth Ḥadīth of Jāmiʿ al-ʿUlūm wa-l-Ḥikam"
 date: "2026-06-27"
 locale: "en"
