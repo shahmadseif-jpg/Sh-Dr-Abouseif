@@ -1,5 +1,5 @@
 ---
-title: "Fajr Khatira"
+title: "The Blessing of Security, Well-Being and Daily Bread"
 subtitle: "Fajr Khatira | The blessing of security, well-being and the day's sustenance"
 date: "2025-11-06"
 locale: "en"

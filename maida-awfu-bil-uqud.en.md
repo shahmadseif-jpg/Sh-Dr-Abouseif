@@ -1,5 +1,5 @@
 ---
-title: "Sūrat al-Māʾida: Fulfill the Contracts"
+title: "Calls of Faith: ‹Do Not Violate the Rites of Allah› in Sūrat al-Māʾida"
 subtitle: "From the series “Calls of Faith in the Noble Qur'an”: the call “O you who have believed, do not violate the rites of Allah” at the opening of Sūrat al-Māʾida"
 date: "2026-09-13"
 locale: "en"

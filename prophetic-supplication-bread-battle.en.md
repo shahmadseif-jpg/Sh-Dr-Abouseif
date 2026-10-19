@@ -1,5 +1,5 @@
 ---
-title: "Fajr Khatira [From the Secrets of the Prophetic Supplication]"
+title: "From the Secrets of the Prophetic Supplication: The Battle for Bread and the Prayer for Stepping Out into the World"
 subtitle: "The Battle for Bread: How the Believer Goes Out Into the World with the Prophet's ﷺ Supplication"
 date: "2025-05-12"
 locale: "en"

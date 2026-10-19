@@ -1,5 +1,5 @@
 ---
-title: "Khatira on Laylat al-Qadr"
+title: "Laylat al-Qadr: Why Allah Concealed Its Date and What Descends Upon Hearts"
 subtitle: "Khatira on Laylat al-Qadr, 27 Ramadan 1442 AH — Why Allah Concealed Its Date, and What Descends Upon Hearts in It"
 date: "2021-05-08"
 locale: "en"

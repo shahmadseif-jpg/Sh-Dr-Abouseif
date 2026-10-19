@@ -1,5 +1,5 @@
 ---
-title: "Fajr Khatira"
+title: "The Opening of Sūrat Fāṭir: Praise, the Originating, and the Completion of Blessing"
 subtitle: "A pause at the opening of Sūrat Fāṭir: praise, the originating, and the completion of blessing"
 date: "2026-10-07"
 locale: "en"

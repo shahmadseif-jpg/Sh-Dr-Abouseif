@@ -1,5 +1,5 @@
 ---
-title: "Fajr Khatira"
+title: "Surat al-Burūj and Building a Mindset That Can Absorb Recurring Crises"
 subtitle: "Sūrat al-Burūj and Building a Mindset That Can Absorb Recurring Crises"
 date: "2026-05-10"
 locale: "en"

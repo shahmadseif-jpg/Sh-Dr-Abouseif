@@ -1,5 +1,5 @@
 ---
-title: "Khatira: Those Who Think Deeply"
+title: "Those Who Think Deeply: The Duas of the People of Understanding and the Crime of Ceasing to Think"
 subtitle: "Isha Khatira [ Objectives of Islamic Law ] — the duas of the people of understanding, and why the crime is to stop thinking"
 date: "2026-08-26"
 locale: "en"

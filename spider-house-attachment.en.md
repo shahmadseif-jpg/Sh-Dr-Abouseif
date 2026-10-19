@@ -1,5 +1,5 @@
 ---
-title: "Fajr Khatira"
+title: "The Spider's House: Every Attachment to Other Than Allah Is a Flimsy Thread"
 subtitle: "The Spider's House: Every attachment to other than Allah is a flimsy thread"
 date: "2026-09-24"
 locale: "en"

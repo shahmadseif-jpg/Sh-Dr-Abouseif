@@ -1,5 +1,5 @@
 ---
-title: "A Fajr Khatira [The Qāriʿah of al-ʿĀdiyāt]"
+title: "Sūrat al-Qāriʿah and What Makes the Scales Heavy"
 subtitle: "Sūrat al-Qāriʿah and Its Place Among the Sūrahs, and What Makes the Scales Heavy"
 date: "2026-06-17"
 locale: "en"

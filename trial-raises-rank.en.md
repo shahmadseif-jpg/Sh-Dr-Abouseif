@@ -1,5 +1,5 @@
 ---
-title: "Fajr Khatira"
+title: "How the Servant Attains His Rank in Paradise Through Trial and Patience"
 subtitle: "How Trial and Patience Raise a Servant to His Rank in Paradise"
 date: "2026-04-24"
 locale: "en"

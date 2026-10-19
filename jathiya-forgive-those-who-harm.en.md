@@ -1,5 +1,5 @@
 ---
-title: "Fajr Khatira"
+title: "Sūrat al-Jāthiya: Forgive Those Who Have Harmed You"
 subtitle: "Sūrat al-Jāthiyah: Forgive Those Who Harm You"
 date: "2026-01-05"
 locale: "en"

@@ -1,5 +1,5 @@
 ---
-title: "Fajr Khatira | Dr. Ahmed Abouseif | 5 October 2026"
+title: "The Story of Sabaʾ: How Turning Away Begins from a Small Point in the Heart"
 subtitle: "How turning away begins from a small point in the heart"
 date: "2026-10-05"
 locale: "en"

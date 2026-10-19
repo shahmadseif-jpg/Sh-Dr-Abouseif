@@ -1,5 +1,5 @@
 ---
-title: "Fajr Khatira [Jāmiʿ al-ʿUlūm wa-l-Ḥikam] 1"
+title: "Jāmiʿ al-ʿUlūm wa'l-Ḥikam 1: Intention as the Factory of Awareness and of Grasping Outcomes"
 subtitle: "The ḥadīth “Actions are but by intentions”, and intention as the factory of awareness and of grasping outcomes"
 date: "2026-03-22"
 locale: "en"

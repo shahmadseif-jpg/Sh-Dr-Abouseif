@@ -1,5 +1,5 @@
 ---
-title: "Fajr Khatira [ “We Hear and We Obey”: Which Comes First, Hearing or Obedience? ]"
+title: "We Hear and We Obey: Which Comes First, Hearing or Obedience?"
 subtitle: "Between One Who Obeys Within the Herd and One Who Hears Before He Obeys"
 date: "2026-06-26"
 locale: "en"

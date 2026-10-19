@@ -1,5 +1,5 @@
 ---
-title: "A Fajr Reflection"
+title: "Wronging Oneself and the Overpowering of Wretchedness: ‹Do Not Place Me Among the Wrongdoing People›"
 subtitle: "“My Lord, do not place me among the wrongdoing people” — between wronging oneself and the overpowering of wretchedness"
 date: "2026-09-07"
 locale: "en"

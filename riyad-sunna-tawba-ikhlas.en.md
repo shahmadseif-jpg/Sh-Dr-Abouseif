@@ -1,5 +1,5 @@
 ---
-title: "Ẓuhr Khatira: In the Gardens of the Purified Sunna"
+title: "The Chapter on Repentance in Riyāḍ al-Ṣāliḥīn: Why It Follows Sincerity"
 subtitle: "The Chapter on Repentance in Riyāḍ al-Ṣāliḥīn: Why It Comes after Sincerity, and Why the Qur'an Addressed the Whole Society"
 date: "2026-02-21"
 locale: "en"

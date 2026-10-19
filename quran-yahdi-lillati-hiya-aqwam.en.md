@@ -1,5 +1,5 @@
 ---
-title: "A Fajr Reflection"
+title: "‹Guides to That Which Is Most Upright› and the Size That Fits You"
 subtitle: "“Indeed, this Qur'an guides to that which is most upright” — and the size that fits you"
 date: "2026-09-12"
 locale: "en"

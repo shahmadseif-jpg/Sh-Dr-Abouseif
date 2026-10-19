@@ -1,5 +1,5 @@
 ---
-title: "Fajr Khatira [ After the Month of Ramadan 1442 ]"
+title: "After Ramadan: Following the Obligatory with the Voluntary, and Fasting Six Days of Shawwāl"
 subtitle: "Fajr Khatira | Dr. Ahmed Abouseif | May 14, 2021"
 date: "2021-05-14"
 locale: "en"

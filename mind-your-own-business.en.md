@@ -1,5 +1,5 @@
 ---
-title: "Fajr Khatira [Jāmiʿ al-ʿUlūm wa-l-Ḥikam] 12"
+title: "Jāmiʿ al-ʿUlūm wa'l-Ḥikam 12: Part of the Excellence of a Person's Islam Is Leaving What Does Not Concern Him"
 subtitle: "Part of the Excellence of a Person's Islam Is His Leaving What Does Not Concern Him: Preoccupation with Allah Spares You the Meddling of People"
 date: "2026-07-19"
 locale: "en"

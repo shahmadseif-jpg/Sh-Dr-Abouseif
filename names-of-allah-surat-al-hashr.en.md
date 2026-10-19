@@ -1,5 +1,5 @@
 ---
-title: "Fajr Khatira"
+title: "The Complementarity of the Beautiful Names at the End of Surat al-Hashr"
 subtitle: "The Complementarity of the Most Beautiful Names at the Close of Sūrat al-Ḥashr"
 date: "2026-08-04"
 locale: "en"

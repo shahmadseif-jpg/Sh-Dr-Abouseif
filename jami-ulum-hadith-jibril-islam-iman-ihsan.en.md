@@ -1,5 +1,5 @@
 ---
-title: "Fajr Khatira (Jāmiʿ al-ʿUlūm wa'l-Ḥikam 2)"
+title: "Jāmiʿ al-ʿUlūm wa'l-Ḥikam 2: The Ḥadīth of Jibrīl on Islam, Īmān and Iḥsān"
 subtitle: "The Ḥadīth of Jibrīl: The Scene of the Arrival, Then Islam, Īmān and Iḥsān"
 date: "2026-03-29"
 locale: "en"

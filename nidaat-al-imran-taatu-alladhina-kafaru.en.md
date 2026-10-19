@@ -1,5 +1,5 @@
 ---
-title: "Evening Khatira [The Calls of Faith in the Noble Qur'an]"
+title: "The Calls of Faith: ‹If you obey those who disbelieve, they will turn you back on your heels›"
 subtitle: "Evening Khatira — The Calls of Faith: ﴿إِن تُطِيعُوا الَّذِينَ كَفَرُوا يَرُدُّوكُمْ عَلَىٰ أَعْقَابِكُمْ﴾ (If you obey those who disbelieve, they will turn you back on your heels)"
 date: "2026-06-30"
 locale: "en"

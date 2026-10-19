@@ -1,5 +1,5 @@
 ---
-title: "Fajr Khatira"
+title: "Allah's Promise and Satan's Promise"
 subtitle: "The Promise of Allah and the Promise of Satan: \"That is for him who fears My standing and fears My threat\""
 date: "2026-07-14"
 locale: "en"

@@ -1,5 +1,5 @@
 ---
-title: "Khatira: Short Surahs, Understanding and Application"
+title: "Wealth Between Allah's Abundant Gift and Our Hoarding: In Our Hands or in Our Hearts?"
 subtitle: "Between what Allah gives in abundance and what we strive to pile up: is wealth in our hands or in our hearts?"
 date: "2026-05-11"
 locale: "en"

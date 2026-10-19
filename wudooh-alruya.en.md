@@ -1,5 +1,5 @@
 ---
-title: "Fajr Khatira [Clarity of Vision]"
+title: "The Principle of Clarity of Vision"
 subtitle: "Fajr Khatira — Dr. Ahmed Abouseif — 31 December 2025"
 date: "2025-12-31"
 locale: "en"

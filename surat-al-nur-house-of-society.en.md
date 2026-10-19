@@ -1,5 +1,5 @@
 ---
-title: "Fajr Khatira [On Sūrat al-Nūr]"
+title: "Sūrat al-Nūr: A Sūra Built Like a House"
 subtitle: "A sūrah built like a house: society cannot stand without a single letter of it, and honor is safeguarded only in the houses of Allah"
 date: "2025-12-04"
 locale: "en"

@@ -1,5 +1,5 @@
 ---
-title: "Fajr Khatira | Dr. Ahmed Abouseif | 8 July 2026 | AIA"
+title: "The Farmer's Tawhid in Surat al-Naml"
 subtitle: "The tawḥīd of the farmer: from the purity of the family of Lūṭ to the chain of provision in Sūrat al-Naml"
 date: "2026-07-08"
 locale: "en"

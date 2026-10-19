@@ -1,5 +1,5 @@
 ---
-title: "Isha Khatira [The Calls of Faith in the Qur'an] 4"
+title: "The Calls of Faith 4: Retaliation as a Safety Valve in the Fabric of the Calls"
 subtitle: "The Fourth Call: Retaliation as a Safety Valve in the Fabric of the Calls"
 date: "2026-04-05"
 locale: "en"

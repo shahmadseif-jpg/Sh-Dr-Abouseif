@@ -1,5 +1,5 @@
 ---
-title: "Fajr Khatira"
+title: "Two Scenes That Raise Suspicion in the Story of Yusuf: The Brother's Request and the Separate Doors"
 subtitle: "From the Story of Yūsuf, Peace Be Upon Him: Two Scenes That Raise Suspicion — Asking for the Brother, and Entering by Separate Doors"
 date: "2026-08-05"
 locale: "en"

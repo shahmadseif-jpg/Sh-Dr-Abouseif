@@ -1,5 +1,5 @@
 ---
-title: "A Fajr Reflection"
+title: "Allah's Promise of Succession in the Land to Those Who Believe and Do Righteous Deeds"
 subtitle: "“Allah has promised those among you who believe and do righteous deeds that He will surely grant them succession in the land”"
 date: "2026-09-10"
 locale: "en"

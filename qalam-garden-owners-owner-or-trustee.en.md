@@ -1,5 +1,5 @@
 ---
-title: "The Garden Owners of Sūrat al-Qalam"
+title: "The Owners of the Garden in Surat al-Qalam: Are You an Owner or a Trustee?"
 subtitle: "Are You an Owner or a Trustee?"
 date: "2026-07-27"
 locale: "en"

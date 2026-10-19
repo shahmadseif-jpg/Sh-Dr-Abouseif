@@ -1,5 +1,5 @@
 ---
-title: "ʿIshāʾ Khatira [The Calls of Faith in the Noble Qur'an]"
+title: "Calls of Faith: 'Do Not Approach Prayer While Intoxicated' and the Principle of Gradual Legislation"
 subtitle: "The Third Call in Sūrat al-Nisāʾ: \"Do Not Approach Prayer While You Are Intoxicated,\" and the Way of Gradualism in Legislation"
 date: "2026-07-26"
 locale: "en"

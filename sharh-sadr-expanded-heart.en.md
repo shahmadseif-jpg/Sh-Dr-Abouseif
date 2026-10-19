@@ -1,5 +1,5 @@
 ---
-title: "Khatira: The Expanded Heart"
+title: "The Expanded Heart: The Blessing of an Enlarged Chest and Why Bigger Hearts Meet Bigger Tests"
 subtitle: "Isha Khatira [ Objectives of Islamic Law ] — the blessing of an enlarged chest, and why a bigger heart meets bigger tests"
 date: "2026-09-07"
 locale: "en"

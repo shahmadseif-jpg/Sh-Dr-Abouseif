@@ -1,5 +1,5 @@
 ---
-title: "Tahajjud Khatira on Sūrat Yūsuf"
+title: "Reflections on Sūrat Yūsuf: Yaʿqūb's Trial with His Sons and His Patience"
 subtitle: "Tahajjud Khatira on [ Sūrat Yūsuf ] | Dr. Ahmed Abouseif | Ramadan 1442"
 date: "2021-05-12"
 locale: "en"

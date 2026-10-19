@@ -1,5 +1,5 @@
 ---
-title: "Fajr Khatira | Dr. Ahmed Abouseif | 9 July 2026 | AIA"
+title: "The Pharaoh Within Every Person: Tyranny and Imagined Self-Sufficiency"
 subtitle: "The Pharaoh within every human being: tyranny and imagined self-sufficiency"
 date: "2026-07-09"
 locale: "en"

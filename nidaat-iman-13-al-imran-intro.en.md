@@ -1,5 +1,5 @@
 ---
-title: "Isha Khatira [The Calls of Faith in the Noble Qur'an] 13"
+title: "Calls of Faith in the Qur'an 13: Introduction to Sūrat Āl ʿImrān and Its Link to Sūrat al-Baqara"
 subtitle: "Isha Khatira — The Calls of Faith (13): An Introduction to Sūrat Āl ʿImrān and Its Connection to Sūrat al-Baqarah"
 date: "2026-05-10"
 locale: "en"

@@ -1,5 +1,5 @@
 ---
-title: "Isha Khatira"
+title: "Calls of Faith in the Qur'an 7: ‹Spend from What We Have Provided for You›"
 subtitle: "The Calls of Faith in the Qur'an (7): ﴿أَنْفِقُوا مِمَّا رَزَقْنَاكُمْ﴾ (Spend from what We have provided for you)"
 date: "2026-04-19"
 locale: "en"

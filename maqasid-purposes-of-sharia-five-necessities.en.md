@@ -1,5 +1,5 @@
 ---
-title: "Isha Khatira [ Objectives of Islamic Law ] | Dr. Ahmed AbouSeif | July 13, 2026 | Bayt Al-Karim"
+title: "Objectives of Islamic Law: Why Does Allah Ask This of Us?"
 subtitle: "Why does Allah ask this of us? Starting the objectives of the Sharia from scratch"
 date: "2026-07-13"
 locale: "en"

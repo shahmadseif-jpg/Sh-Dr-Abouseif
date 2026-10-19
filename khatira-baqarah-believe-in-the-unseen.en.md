@@ -1,5 +1,5 @@
 ---
-title: "Fajr Khatira"
+title: "From the Opening of Sūrat al-Baqarah: Guidance and Belief in the Unseen"
 subtitle: "From the opening of Surah al-Baqarah: guidance, the unseen, and how the hypocrites see the believers"
 date: "2026-03-23"
 locale: "en"

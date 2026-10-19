@@ -1,5 +1,5 @@
 ---
-title: "Fajr Khatira | Dr. Ahmed Abou Seif | October 4, 2025"
+title: "‹Among the People Are Those Who Take Rivals Besides Allah›"
 subtitle: "﴿وَمِنَ النَّاسِ مَن يَتَّخِذُ مِن دُونِ اللَّهِ أَندَادًا﴾ (And among the people are those who take rivals besides Allah): Those Deluded by the World and Those Who Worship It, and Eating What Is Good and Thanking the Provider"
 date: "2025-10-04"
 locale: "en"

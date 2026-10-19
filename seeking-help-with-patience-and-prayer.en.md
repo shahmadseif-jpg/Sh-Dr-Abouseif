@@ -1,5 +1,5 @@
 ---
-title: "Fajr Khatira"
+title: "‹Seek Help through Patience and Prayer›: Do Not Imagine You Are the Only Victim"
 subtitle: "“Seek Help through Patience and Prayer”: Do Not Imagine You Are the Only Victim"
 date: "2026-03-28"
 locale: "en"

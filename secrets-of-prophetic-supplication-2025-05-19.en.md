@@ -1,5 +1,5 @@
 ---
-title: "Fajr Khatira: Secrets of the Prophetic Supplication"
+title: "From the Secrets of the Prophetic Supplication: The Prophets Are Human, Their Chests Tighten, and They Turn to Allah"
 subtitle: "The prophets are human: their chests tighten and they turn to Allah — Fajr khatira of May 19, 2025"
 date: "2025-05-19"
 locale: "en"

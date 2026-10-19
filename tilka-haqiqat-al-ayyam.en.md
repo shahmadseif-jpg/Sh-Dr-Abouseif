@@ -1,5 +1,5 @@
 ---
-title: "Evening Khatira: This Is the Reality of the Days"
+title: "This Is the Reality of the Days: Everything We Live Through Will Pass"
 subtitle: "This is the reality of the days: everything we live through will pass"
 date: "2026-06-13"
 locale: "en"

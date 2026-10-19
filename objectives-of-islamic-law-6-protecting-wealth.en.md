@@ -1,5 +1,5 @@
 ---
-title: "Isha Khatira [ Objectives of Islamic Law ] 6"
+title: "Objectives of Islamic Law 6: Protecting Wealth"
 subtitle: "Protecting wealth: why Islam does not despise money, and why tomorrow is in Allah's hands"
 date: "2026-07-29"
 locale: "en"

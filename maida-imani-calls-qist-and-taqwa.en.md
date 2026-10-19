@@ -1,5 +1,5 @@
 ---
-title: "Isha Khatira [The Calls of Faith in the Noble Qur'an]"
+title: "The Calls of Faith in the Noble Qur'an: Sūrat al-Māʾida and the Call to Justice"
 subtitle: "The series on the calls of faith in the Noble Qur'an: Sūrat al-Māʾida and the call to justice (qisṭ)"
 date: "2026-09-20"
 locale: "en"

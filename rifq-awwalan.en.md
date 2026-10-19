@@ -1,5 +1,5 @@
 ---
-title: "A Fajr Khatira [Gentleness First]"
+title: "Gentleness First"
 subtitle: "Gentleness First: The Prophet ﷺ Chooses for People What Is Gentlest on Them"
 date: "2026-06-13"
 locale: "en"

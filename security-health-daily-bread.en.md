@@ -1,5 +1,5 @@
 ---
-title: "Fajr Khatira"
+title: "Security, Health and Daily Bread: Possessing the Whole World"
 subtitle: "Security, Health and Daily Bread: When the Whole World Is Gathered"
 date: "2026-03-30"
 locale: "en"
