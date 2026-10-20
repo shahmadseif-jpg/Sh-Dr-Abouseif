@@ -17,7 +17,7 @@ Du'a is a word which, when it comes to your mind, makes you think you will repea
 
 ### The speech of the heart
 
-People think that du'a is the repetition of words that run on tongues, but in reality it is the pure speech of the heart; a speech in which a person addresses his Lord not so much as he addresses himself. Du'a is the moment in which a person is laid bare before himself, with no arrogance or conceit accompanying him. It is the moment in which the effect of position fades away from you, and the numbers disappear with it, and no one among people stands out in front of you or before your eyes, but only Allah alone, with no partner: the Remover of harm, the Lifter of calamity, the Reliever of worries, the Bringer of good, the Provider, Possessor of power, the Firm.
+People think that du'a is the repetition of words that run on tongues, but in reality it is the pure speech of the heart; a speech in which a person addresses not so much his Lord as himself. Du'a is the moment in which a person is laid bare before himself, with no arrogance or conceit accompanying him. It is the moment in which the effect of position fades away from you, and the numbers disappear with it, and no one among people stands out in front of you or before your eyes, but only Allah alone, with no partner: the Remover of harm, the Lifter of calamity, the Reliever of worries, the Bringer of good, the Provider, Possessor of power, the Firm.
 
 ### Why "marrow" of worship?
 

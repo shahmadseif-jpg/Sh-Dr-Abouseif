@@ -59,7 +59,7 @@ The speaker says: the Prophet ﷺ, in the highest of stations, once forbade hims
 
 ### The Outer Wall and the Inner Walls
 
-A simple question in which we are honest with ourselves: which walls of the house are stronger, the outer or the inner? The outer, without doubt, because it endures the winds, the dust, the rains, and the dangers of thieves. And we clean the outer wall less than we clean the inner walls, because more endurance, patience, and resilience is expected of it. So do you see yourself as an outer wall or an inner one? Our Lord created you a man, so do not ask for more tenderness than is necessary, for it is the wife whom we pat and whose feelings we soothe.
+A simple question in which we are honest with ourselves: which walls of the house are stronger, the outer or the inner? The outer, without doubt, because it endures the winds, the dust, the rains, and the dangers of thieves. And we clean the outer wall less than we clean the inner walls, because more endurance, patience, and resilience are expected of it. So do you see yourself as an outer wall or an inner one? Our Lord created you a man, so do not ask for more tenderness than is necessary, for it is the wife whom we pat and whose feelings we soothe.
 
 The speaker gives an example in raising children: when we quarrel because of the children, the husband says to his wife that what is inside the door is her affair, but what is from the door outward is "men's work" in which no one interferes. Then he asks: do we raise our male children on tenderness and patting, or on resilience, enduring the fluctuations of circumstances, dealing with people, earning a living, and perseverance? This is the making of men.
 

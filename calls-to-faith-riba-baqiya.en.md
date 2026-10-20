@@ -9,7 +9,7 @@ readingMinutes: 6
 > Occasion: A transcription of a lecture after the ʿIshāʾ prayer delivered at AIA on April 28, 2026, as part of the series "Calls to Faith in the Qur'an" (Episode 10)   
 > Source: A transcription of a video lecture by Dr. Ahmed Abouseif — [Watch the original video on YouTube](https://www.youtube.com/watch?v=CSVEjqIqIIE)
 
-We open with a supplication: «اللهم بارك لنا فيما رزقتنا، وقنا عذاب النار، واصرف عنا أسباب العذاب في الدنيا والآخرة، برحمة منك ورضوان وكرم ولطف وبرّ يا أرحم الراحمين» ("O Allah, bless us in what You have provided us, protect us from the punishment of the Fire, and turn away from us the causes of punishment in this world and the next, through Your mercy, pleasure, generosity, gentleness and kindness, O Most Merciful of the merciful"). Then Dr. Ahmed welcomed those present, asked Allah to bless them and to preserve for them the well-being of faith, to fix faith firmly in the roots of their hearts, and he sought refuge in Allah from deviation, misguidance, wickedness, disbelief and polytheism, and from our changing what He has entrusted to souls and hearts of taqwā.
+Dr. Ahmed opened the lecture with a supplication: «اللهم بارك لنا فيما رزقتنا، وقنا عذاب النار، واصرف عنا أسباب العذاب في الدنيا والآخرة، برحمة منك ورضوان وكرم ولطف وبرّ يا أرحم الراحمين» ("O Allah, bless us in what You have provided us, protect us from the punishment of the Fire, and turn away from us the causes of punishment in this world and the next, through Your mercy, pleasure, generosity, gentleness and kindness, O Most Merciful of the merciful"). Then he welcomed those present, asked Allah to bless them and to preserve for them the well-being of faith, to fix faith firmly in the roots of their hearts, and he sought refuge in Allah from deviation, misguidance, wickedness, disbelief and polytheism, and from our changing what He has entrusted to souls and hearts of taqwā.
 
 Then he said: This is the tenth call in the Noble Qur'an to the people of faith:
 
@@ -37,7 +37,7 @@ Then came the command:
 
 ﴿يَا أَيُّهَا الَّذِينَ آمَنُوا اسْتَعِينُوا بِالصَّبْرِ وَالصَّلَاةِ ۚ إِنَّ اللَّهَ مَعَ الصَّابِرِينَ﴾ (O you who believe, seek help through patience and prayer; indeed Allah is with the patient)
 
-They had begun the road and walked on it, and when they had walked, the Lord of the worlds commanded them to greater steadfastness and endurance in facing all the trials that were coming upon them one after another. Then the commands come from the Lord of the worlds as they appear in His Book, each of them raising the people of faith to a level higher and loftier than that from which they could ever fall back to where they were. Then the verses in the noble sūrah conclude with His words, glory be to Him: ﴿يَا أَيُّهَا الَّذِينَ آمَنُوا اتَّقُوا اللَّهَ وَذَرُوا مَا بَقِيَ مِنَ الرِّبَا﴾ (O you who believe, fear Allah and give up what remains of riba).
+They had begun the road and walked on it, and when they had walked, the Lord of the worlds commanded them to greater steadfastness and endurance in facing all the trials that were coming upon them one after another. Then the commands come from the Lord of the worlds as they appear in His Book, each of them raising the people of faith to a level too high and lofty for them ever to fall back to where they were. Then the verses in the noble sūrah conclude with His words, glory be to Him: ﴿يَا أَيُّهَا الَّذِينَ آمَنُوا اتَّقُوا اللَّهَ وَذَرُوا مَا بَقِيَ مِنَ الرِّبَا﴾ (O you who believe, fear Allah and give up what remains of riba).
 
 ### ﴿مَا بَقِيَ﴾ ("What remains")
 
@@ -49,7 +49,7 @@ Then he pointed to the conflict that takes place within the human soul, between 
 
 And when I look at this condition that the Lord of the worlds set: ﴿إِن كُنتُم مُّؤْمِنِينَ﴾ (if you are believers) — he said, and he asked the one beside him to help him recall another place where this condition occurs, and then mentioned what came to him: ﴿وَأَنتُمُ الْأَعْلَوْنَ﴾ (and you will be the superior), and then His words, the Exalted: ﴿إِن يَمْسَسْكُمْ قَرْحٌ فَقَدْ مَسَّ الْقَوْمَ قَرْحٌ مِّثْلُهُ ۚ وَتِلْكَ الْأَيَّامُ نُدَاوِلُهَا بَيْنَ النَّاسِ﴾ (If a wound touches you, a similar wound has touched the others; and these days We rotate among the people). Then he said: The verse says: ﴿وَلَا تَهِنُوا وَلَا تَحْزَنُوا وَأَنتُمُ الْأَعْلَوْنَ إِن كُنتُم مُّؤْمِنِينَ﴾ (Do not weaken and do not grieve, for you will be superior, if you are believers).[^2]
 
-There, the condition of faith was the cause for the fulfillment of the promise of Allah, blessed and exalted. But in this verse our Lord says: ﴿اتَّقُوا اللَّهَ وَذَرُوا مَا بَقِيَ مِنَ الرِّبَا إِن كُنتُم مُّؤْمِنِينَ﴾ (fear Allah and give up what remains of riba, if you are believers). So at one time He makes faith a condition for an action to proceed from the Lord of Might, glory be to Him, and at another time He makes it a condition for the soul's response and its embodying the command of Allah, blessed and exalted. Faith is the regulator; indeed it is almost the dividing line between the decisions of servants: whether they will be at the lower level or at the higher.
+There, the condition of faith was the cause for the fulfillment of the promise of Allah, blessed and exalted. But in this verse our Lord says: ﴿اتَّقُوا اللَّهَ وَذَرُوا مَا بَقِيَ مِنَ الرِّبَا إِن كُنتُم مُّؤْمِنِينَ﴾ (fear Allah and give up what remains of riba, if you are believers). So at one time He makes faith a condition for an action to proceed from the Lord of Might, glory be to Him, and at another time He makes it a condition for the soul's response and its embodying the command of Allah, blessed and exalted. Faith is the regulator; indeed it almost is the dividing line between the decisions of servants: whether they will be at the lower level or at the higher.
 
 ### The faith that is sought
 
@@ -67,7 +67,7 @@ Then comes the warning that expresses the gravity of the act and the immensity o
 
 ﴿فَإِن لَّمْ تَفْعَلُوا فَأْذَنُوا بِحَرْبٍ مِّنَ اللَّهِ وَرَسُولِهِ ۖ وَإِن تُبْتُمْ فَلَكُمْ رُءُوسُ أَمْوَالِكُمْ لَا تَظْلِمُونَ وَلَا تُظْلَمُونَ﴾ (And if you do not, then be informed of a war from Allah and His Messenger; but if you repent, you shall have your principal, wronging not and being wronged not)[^3]
 
-Between push and pull, between warning and encouragement, the Lord of the worlds, glory be to Him, warns of a war that He, mighty and majestic, Himself wages against those who fell short of the command, and also deals justly with them: We will return your principal to you, so We touch nothing of yours, and We have no need of your wealth; so be mindful of what the life in your hands stands upon.
+Between pulling and drawing, between warning and encouragement, the Lord of the worlds, glory be to Him, warns of a war that He, mighty and majestic, Himself wages against those who fell short of the command, and also deals justly with them: We will return your principal to you, so We touch nothing of yours, and We have no need of your wealth; so be mindful of what the life in your hands stands upon.
 
 ### In sum: uprightness
 

@@ -9,7 +9,7 @@ readingMinutes: 6
 > Occasion: Transcription of a Fajr khatira delivered on 11 July 2026   
 > Source: A transcription of a video khatira by Dr. Ahmed Abouseif — [Watch the original video on YouTube](https://www.youtube.com/watch?v=rsP3Cwq5u84)
 
-We begin with a prayer: O Lord of the worlds, overlook our misdeeds and our sins, have mercy in Your presence on our weakness, pardon our slips, ease our affairs, manage what is in our hands, and fulfill our needs. O Allah, do not entrust us to ourselves or to anyone among Your creation, and bestow Your favor upon us and have mercy on our weakness.
+At the start of the khatira the Shaykh prayed: O Lord of the worlds, overlook our misdeeds and our sins, have mercy in Your presence on our weakness, pardon our slips, ease our affairs, manage what is in our hands, and fulfill our needs. O Allah, do not entrust us to ourselves or to anyone among Your creation, and bestow Your favor upon us and have mercy on our weakness.
 
 ### A direct warning to those who broke the covenant
 
@@ -51,7 +51,7 @@ And glory be to Allah, the Able, when a person is inspired to make du'a in a sit
 
 ### The best of creation
 
-And when we speak to the people who have come to the Fajr prayer, we are speaking to the best of creation, whom Allah has singled out to stand before Him in this station while people sleep. You are better than the one who slept through his purpose, and the one who slept is better than the one who spread corruption in the earth and moved about in it. So you are the essence of Allah's creation on earth, so be at the expectation the Lord of the worlds, glorified, has of you.
+And when we speak to the people who have come to the Fajr prayer, we are speaking to the best of creation, whom Allah has singled out to stand before Him in this station while people sleep. You are better than the one who slept through his purpose, and the one who slept is better than the one who spread corruption in the earth and moved about in it. So you are the essence of Allah's creation on earth, so live up to the expectation the Lord of the worlds, glorified, has of you.
 
 ---
 [^1]: Editor's documentation: Sūrat Yā Sīn, verses 66 and 67.

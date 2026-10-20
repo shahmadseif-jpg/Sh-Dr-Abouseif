@@ -20,13 +20,13 @@ Una aplicación a nuestra realidad de hoy: cada uno de nosotros se ha convertido
 
 > «En verdad, Dios os ordena restituir los depósitos confiados a sus dueños.» [al-Nisāʾ: 58]
 
-La fidelidad (amāna) en el versículo es más amplia que devolver un depósito financiero; la palabra «depósitos» vino como un plural indefinido para incluir todo aquello con lo que el ser humano es confiado: su trabajo que cumple, su palabra que dice, el secreto que guarda, la responsabilidad que carga, e incluso sus miembros y facultades que le fueron confiados. Quien mantiene presente este fin amplio domina su trabajo aunque no haya observador, guarda el secreto de su compañero, y rinde lo que le corresponde del modo más completo; pues sabe que la fidelidad es un fin que construye la confianza sobre la que se sostiene toda la sociedad, y que traicionarla —por pequeña que sea— es una brecha en este edificio.
+La fidelidad (amāna) en el versículo es más amplia que devolver un depósito financiero; la palabra «depósitos» vino como un plural indefinido para incluir todo aquello que se le ha confiado al ser humano: su trabajo que cumple, su palabra que dice, el secreto que guarda, la responsabilidad que carga, e incluso sus miembros y facultades que le fueron confiados. Quien mantiene presente este fin amplio domina su trabajo aunque no haya observador, guarda el secreto de su compañero, y rinde lo que le corresponde del modo más completo; pues sabe que la fidelidad es un fin que construye la confianza sobre la que se sostiene toda la sociedad, y que traicionarla —por pequeña que sea— es una brecha en este edificio.
 
 ## El fin del autodominio: el perdón y la contención de la ira
 
 > «Y los que contienen la ira y perdonan a las personas — y Dios ama a los que hacen el bien.» [Āl ʿImrān: 134]
 
-El fin del versículo es educar el alma en la indulgencia y dominar la reacción en la ira. Contempla su precisión educativa: no pidió arrancar la ira —una naturaleza humana por la que no se reprocha a la persona—, sino que pidió, primero, contenerla y refrenar su efecto; luego, en segundo lugar, ascender a perdonar a quien hizo el mal; luego, en tercer lugar, a hacerle el bien. Es una escalera educativa de tres peldaños que eleva al musulmán desde el mero autodominio hasta los más altos nobles rasgos. Quien comprende este fin trata su ira por etapas, y no desespera si no alcanza la cima de una vez.
+El fin del versículo es educar el alma en la indulgencia y dominar la reacción en la ira. Contempla su precisión educativa: no pidió arrancar la ira —una naturaleza humana por la que no se reprocha a la persona—, sino que pidió, primero, contenerla y refrenar su efecto; luego, en segundo lugar, ascender a perdonar a quien hizo el mal; luego, en tercer lugar, a hacerle el bien. Es una escalera educativa de tres peldaños que eleva al musulmán desde el mero autodominio hasta los más nobles rasgos. Quien comprende este fin trata su ira por etapas, y no desespera si no alcanza la cima de una vez.
 
 ## El fin de la maestría y la excelencia en el trabajo
 

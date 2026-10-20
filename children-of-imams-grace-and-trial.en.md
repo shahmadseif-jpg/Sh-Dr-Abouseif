@@ -39,7 +39,7 @@ This is a harsh lesson for children — yet later it forges men who understand t
 
 ### When the Home Carries the Burdens of All the People
 
-The imam's son does not merely live with his father; he lives alongside him the burdens of every person who comes to him. The father returns home laden with what stone itself could not bear: a wife who complained of her husband and whose pain pierced him; a deceased man whose funeral prayer he led, while the image of his bereaved family will not leave him; a sick person he visited, returning with a heart in pain; a quarrel between neighbors he tried to mend but could not; a wounding criticism from some who did not deserve to direct it at him.
+The imam's son does not merely live with his father; he lives alongside him the burdens of every person who comes to him. The father returns home laden with what stone itself could not bear: a wife who complained of her husband and whose pain pierced him; a deceased man whose funeral prayer he led, while the image of his bereaved family will not leave him; a sick person he visited, returning with a heart in pain; a quarrel between neighbors he tried to mend but could not; a wounding criticism from some people that he did not deserve.
 
 All of this enters the house with the father. It sits at the table. It spends the night beneath the roof. It seeps into the children's hearts without their knowing. And Allah spoke the truth: *"Indeed, We shall cast upon you a weighty word"* (al-Muzzammil 73:5). The burden of the people is but a single ember of that weighty word — the father carries it on his pulpit, while the members of his household help him bear it in secret, from where no one perceives.
 
@@ -136,4 +136,4 @@ As for society, it needs to recognize that the imam is not a project of sanctifi
 
 Perhaps among the greatest injustices done to imams and their children is this: that they are asked to live above the level of human beings, and then held accountable when they descend to the level they were always at. When people forget the imam's humanity, his children are the first to pay the price… and the first to deserve to be vindicated.
 
-O Allah, as You entrusted our imams with Your message, preserve their offspring, and make them a comfort to the eyes of their fathers and mothers. Make them — they and their fathers — a comfort to the eyes of Your community. *"Our Lord, grant us comfort of the eyes from our wives and our offspring, and make us a leader for the righteous"* (al-Furqān 25:74).
+O Allah, as You entrusted our imams with Your trust, preserve their offspring, and make them a comfort to the eyes of their fathers and mothers. Make them — they and their fathers — a comfort to the eyes of Your community. *"Our Lord, grant us comfort of the eyes from our wives and our offspring, and make us a leader for the righteous"* (al-Furqān 25:74).

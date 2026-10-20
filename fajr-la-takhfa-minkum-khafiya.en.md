@@ -9,7 +9,7 @@ readingMinutes: 4
 > Occasion: Transcription of a Fajr khatira delivered on June 30, 2026  
 > Source: A transcription of a video khatira by Dr. Ahmed Abouseif — [Watch the original video on YouTube](https://www.youtube.com/watch?v=ekOJZjaJG0k)
 
-And bless for us, O Allah, what You have provided us, and protect us, O Allah, from the punishment of the Fire. Then we pause with the words of Allah the Exalted: ﴿يَوْمَئِذٍ تُعْرَضُونَ لَا تَخْفَىٰ مِنكُمْ خَافِيَةٌ﴾ (“On that Day you will be presented; not a secret of yours will remain hidden”)[^1]
+And bless for us, O Allah, what You have provided us, and protect us, O Allah, from the punishment of the Fire. Then we pause with the words of Allah the Exalted: ﴿يَوْمَئِذٍ تُعْرَضُونَ لَا تَخْفَىٰ مِنكُمْ خَافِيَةٌ﴾ (“On that Day you will be presented; not a secret of yours will remain hidden”)[^1].
 
 ### A Pause at the Word “Khāfiyah”
 
@@ -43,7 +43,7 @@ If it was in the sense of certainty, why was the word “zann” used? Because t
 
 ### A Pleasant Life
 
-So if we review His words ﴿لَا تَخْفَىٰ مِنكُمْ خَافِيَةٌ﴾ (“not a secret of yours will remain hidden”) and see this great scene before the Lord of the worlds, and then the words of the one given his record, ﴿إِنِّي ظَنَنتُ أَنِّي مُلَاقٍ حِسَابِيَهْ﴾ (“Indeed, I was certain that I would meet my account”), Allah says: ﴿فَهُوَ فِي عِيشَةٍ رَّاضِيَةٍ﴾ (“So he will be in a pleasant life”)[^3]
+So if we review His words ﴿لَا تَخْفَىٰ مِنكُمْ خَافِيَةٌ﴾ (“not a secret of yours will remain hidden”) and see this great scene before the Lord of the worlds, and then the words of the one given his record, ﴿إِنِّي ظَنَنتُ أَنِّي مُلَاقٍ حِسَابِيَهْ﴾ (“Indeed, I was certain that I would meet my account”), Allah says: ﴿فَهُوَ فِي عِيشَةٍ رَّاضِيَةٍ﴾ (“So he will be in a pleasant life”)[^3].
 
 Who is the one who is pleased here, to begin with? And who is it that should be pleased? It seems that he is pleased with his life, but the life itself is “pleased” (“rāḍiyah”): as though He is telling you that this life is comfortable in itself, so everyone who comes to it finds ease and no one is made miserable by it. In this world, a person may find comfort in a place where another is made miserable: one loves engineering, is passionately devoted to it and sees himself in it, and another, forced into it, sees it as the hardest work in the world. One loves to sit here and speak a few words, at ease and happy, feeling that he is offering a service, and another, compelled, attends and endures. But there, the life itself is pleased and at ease, so everyone who comes to it is pleased.
 

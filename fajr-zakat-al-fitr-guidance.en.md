@@ -29,7 +29,7 @@ The third thing: give it as soon as you can, because it is better for you. The p
 
 ### Trust in Allah
 
-One of the most important things in our Islam is our trust in Allah, glory be to Him, and on no one else. You trust in Allah that much, and because of that you give even if you have nothing. Sometimes, when I make a fundraising appeal, somebody comes to me and says: Sheikh, please forgive me about the amount, but this is all I have. He opens his hand and you find a few crumpled dollars, all he has. He brings it and puts it in your hand and says, forgive my shortcoming. Why did this person come with that? He could have bought something with it, but his trust is in Allah, glory be to Him, the Most High.
+One of the most important things in our Islam is our trust in Allah, glory be to Him, and in no one else. You trust in Allah that much, and because of that you give even if you have nothing. Sometimes, when I make a fundraising appeal, somebody comes to me and says: Sheikh, please forgive me about the amount, but this is all I have. He opens his hand and you find a few crumpled dollars, all he has. He brings it and puts it in your hand and says, forgive my shortcoming. Why did this person come with that? He could have bought something with it, but his trust is in Allah, glory be to Him, the Most High.
 
 And sometimes we have our own obligations tomorrow or the day after, and I know I am going to pay them, yet when somebody calls me and says, I am in need, I take from my pocket and give. That is how much we trust in Allah, the Most High. This is the basis on which Allah will give us baraka; otherwise we lose our dignity.
 

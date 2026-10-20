@@ -15,7 +15,7 @@ readingMinutes: 7
 
 El orden de las suras del Corán no es solo un orden temático, sino que es un orden anímico y educativo admirable. El Corán no educa al ser humano con sus significados aislados solamente, sino con la sucesión misma de sus suras; hace que la albricia venga tras la amenaza, y el alba tras al-Gāšiya (la Envolvente), y el resplandor de la mañana tras la quietud de la noche, para plantar en el alma la esperanza con firmeza.
 
-Esto es lo que llama la atención del lector reflexivo cuando abre el Códice contemplándolo, no solo recitándolo. Las suras se contiguan como se contiguan las etapas mismas del corazón: miedo y luego sosiego, dureza y luego alivio, noche y luego alba. Y este orden —como está establecido entre la mayoría de la gente de ciencia— es de transmisión fija (tawqīfī) del Profeta (la paz sea con él), por lo que Gabriel (la paz sea con él) le enseñó; no hay en él vanidad ni arbitrariedad. Y los teóricos de la ciencia de las correspondencias —como al-Biqāʿī en «El ensartado de las perlas», al-Suyūṭī en «Los secretos del orden del Corán», y Abū Ŷaʿfar ibn al-Zubayr en «al-Burhān»— nos abrieron la puerta de la reflexión sobre la contigüidad de las suras. Y esta serie abre un ángulo de ello: el ángulo de **la albricia que se alterna con la advertencia**, lo comenzamos con este primer episodio: cómo Dios diseñó la estructura del Códice para que fuera en sí misma una fábrica de esperanza.
+Esto es lo que llama la atención del lector reflexivo cuando abre el Códice contemplándolo, no solo recitándolo. Las suras están contiguas como lo están las etapas mismas del corazón: miedo y luego sosiego, dureza y luego alivio, noche y luego alba. Y este orden —como está establecido entre la mayoría de la gente de ciencia— es de transmisión fija (tawqīfī) del Profeta (la paz sea con él), por lo que Gabriel (la paz sea con él) le enseñó; no hay en él vanidad ni arbitrariedad. Y los teóricos de la ciencia de las correspondencias —como al-Biqāʿī en «El ensartado de las perlas», al-Suyūṭī en «Los secretos del orden del Corán», y Abū Ŷaʿfar ibn al-Zubayr en «al-Burhān»— nos abrieron la puerta de la reflexión sobre la contigüidad de las suras. Y esta serie abre un ángulo de ello: el ángulo de **la albricia que se alterna con la advertencia**, lo comenzamos con este primer episodio: cómo Dios diseñó la estructura del Códice para que fuera en sí misma una fábrica de esperanza.
 
 ### Primero: tres escenas firmes de la contigüidad de las suras
 
@@ -47,7 +47,7 @@ Y esta repetición no es una coincidencia compositiva, sino una extensión inten
 
 > «¡Por la mañana! ¡Y por la noche cuando reposa! Tu Señor no te ha abandonado ni te ha aborrecido.» [al-Ḍuḥā: 1–3]
 
-Y nota una sutileza: Dios no juró por la mañana sola, sino que juró por la noche junto a ella. Porque la luz de la mañana no se conoce su valor sino por la negrura de la quietud que la precede.
+Y nota una sutileza: Dios no juró por la mañana sola, sino que juró por la noche junto a ella. Porque el valor de la luz de la mañana no se conoce sino por la negrura de la quietud que la precede.
 
 #### (3) al-Ḍuḥā y al-Šarḥ — la continuación del consuelo en dos suras
 
@@ -63,7 +63,7 @@ Hasta que imaginas que tres suras contiguas —la Noche, la Mañana y el Ensanch
 
 ### Segundo: aproximaciones de patrones contiguos
 
-Junto al patrón anterior (advertencia ← albricia), aparecen en la contigüidad de las suras otros patrones cercanos a él, aunque no sean exactamente de su género. Mencionamos aquí dos ejemplos de ellos a modo de **aproximación**, no de argumentación, para que se le revele al lector la amplitud de esta puerta reflexiva:
+Junto al patrón anterior (advertencia → albricia), aparecen en la contigüidad de las suras otros patrones cercanos a él, aunque no sean exactamente de su género. Mencionamos aquí dos ejemplos de ellos a modo de **aproximación**, no de argumentación, para que se le revele al lector la amplitud de esta puerta reflexiva:
 
 #### (1) Hūd y Yūsuf — la prueba y luego el establecimiento
 

@@ -9,7 +9,7 @@ readingMinutes: 3
 > Occasion: Transcription of a Fajr khatira delivered on 17 October 2026   
 > Source: A transcription of a video khatira by Dr. Ahmed Abouseif — [Watch the original video on YouTube](https://www.youtube.com/watch?v=sSiqy7hx04E)
 
-We open with a comprehensive supplication: that Allah set right for us our religion, our worldly life and our Hereafter; that He preserve for us what He has placed in hearts of faith and in minds of wisdom; and that He keep our bodies standing upright until we meet Him as worshippers, not neglectful.
+We open with a comprehensive supplication: that Allah set right for us our religion, our worldly life and our Hereafter; that He preserve for us what He has placed of faith in hearts and of wisdom in minds; and that He keep our bodies standing upright until we meet Him as worshippers, not neglectful.
 
 Then Dr. Ahmed said: Speaking about Sūrat al-Zumar is a conversation with many branches, and it is a surah full of abundant good things, glory be to the All-Creating, the All-Knowing. And when the Lord of the worlds tells us about the scene of the Hereafter, it is as if He is saying to each one of us: If you wish to keep your dignity, then store it up for the Day of Resurrection.
 

@@ -31,7 +31,7 @@ Verse 33:72 is the axis upon which the whole meaning of amānah turns. When God 
 
 In Sūrat al-Shuʿarāʾ a striking scene recurs. Five prophets, Noah, Hūd, Ṣāliḥ, Lot, and Shuʿayb, address their peoples in precisely the same words:
 
-﴿إِنِّي لَكُمْ رَسُولٌ أَمِينٌ﴾ (26:107، 125، 143، 162، 178)
+﴿إِنِّي لَكُمْ رَسُولٌ أَمِينٌ﴾ (26:107, 125, 143, 162, 178)
 *"Indeed, I am to you a trustworthy messenger."*
 
 Before any of them states the substance of his message or calls his people to the worship of God, he first introduces himself by one attribute: trustworthiness. It is as though the Qurʾan affirms that a message's credibility rests first on trust in its bearer, and not on the force of his argument alone. Joseph is described by the same attribute when he is summoned to interpret the king's dream:
@@ -78,7 +78,7 @@ It includes the secrets of war and sensitive information:
 
 And it includes even marital rights:
 
-﴿وَالَّذِينَ هُمْ لِأَمَانَاتِهِمْ وَعَهْدِهِمْ رَاعُونَ﴾ (23:8، 70:32)
+﴿وَالَّذِينَ هُمْ لِأَمَانَاتِهِمْ وَعَهْدِهِمْ رَاعُونَ﴾ (23:8, 70:32)
 *"And those who are watchful over their trusts and their covenant,"*
 
 in a passage that comes directly after the verses on guarding chastity. This breadth shows that amānah, in the Qurʾanic scheme, is no narrow juristic chapter concerned with financial deposits, but a governing principle that covers every instance in which a person is relied upon for something that belongs to another.
