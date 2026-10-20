@@ -9,7 +9,7 @@ readingMinutes: 9
 > Occasion: transcript of an Isha khatira delivered at Bayt Al-Karim on July 29, 2026  
 > Source: transcript of a video khatira by Dr. Ahmed AbouSeif, [watch the original video on YouTube](https://www.youtube.com/watch?v=fNLUqjLfQSA)
 
-This is the sixth session in our series on the objectives of Islamic law, and the time is flying. We have spoken about the introduction and the reasons behind it, and now we come to one of the objectives: the protection of wealth.
+This is the sixth session in our series on the objectives of Islamic law, and time is flying. We have spoken about the introduction and the reasons behind it, and now we come to one of the objectives: the protection of wealth.
 
 ### Wealth is part of life
 

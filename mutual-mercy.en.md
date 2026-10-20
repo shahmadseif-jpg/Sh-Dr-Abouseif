@@ -19,7 +19,7 @@ Look at the harshness in people's hearts. It is behind so many of the problems b
 
 When we hear a word from the Prophet Muhammad ﷺ, it is not coming randomly; it comes intentionally. He had other words he could have used, did he not? Here he did not say "Muslim" in its place. That means he is speaking of a different rank, a different level of people.[^1]
 
-In another ḥadīth he said that the relationship between Muslims is like a wall, where the stones stick to one another and keep one another strong.[^2] Hear the picture: a wall has to be solid, and sometimes tough. It does not need any kindness; it needs to be strong.
+In another ḥadīth he said that the relationship between Muslims is like a wall, where the stones stick to one another and keep one another strong.[^2] Consider the picture: a wall has to be solid, and sometimes tough. It does not need any kindness; it needs to be strong.
 
 But when he comes to the relationship between the believers, listen to the words he chose: mutual compassion, mutual mercy. He likened them, in their harmony, to one body.[^3] If you have pain in any part of your body, the rest of the body keeps feeling the same pain, and you cannot sleep at night because of one part. If the hurt is in your foot, your mind stays awake. If it is in your finger, your heart still feels it. This is the relationship between the believers.
 
@@ -27,7 +27,7 @@ And once you see harshness, it means those people do not have real īmān. One o
 
 ### Imitating the attributes of Allah
 
-Now think of Sūrat al-Fātiḥah. Which word do we begin with? We say *al-ḥamdu lillāh* again. Why does Allah keep repeating those words? Once in a while we find them throughout the Qur'an, and Allah is showing us His mercy. Why? Because we are supposed to imitate the characters of Allah, subḥānahu wa taʿālā. Allah is the Most Generous, so we need to be generous with other people. Allah is the Most Forgiving, so we need to be forgiving in the same way. From the beginning of the Qur'an, Allah shows us His attributes, His characters, so that we may take them as our model.
+Now think of Sūrat al-Fātiḥah. Which word do we begin with? We say *al-ḥamdu lillāh* again. Why does Allah keep repeating those words? Once in a while we find them throughout the Qur'an, and Allah is showing us His mercy. Why? Because we are supposed to imitate the character of Allah, subḥānahu wa taʿālā. Allah is the Most Generous, so we need to be generous with other people. Allah is the Most Forgiving, so we need to be forgiving in the same way. From the beginning of the Qur'an, Allah shows us His attributes, His character, so that we may take them as our model.
 
 ### Humility toward the believer
 
@@ -39,7 +39,7 @@ Now let me ask: does your wife have faith? Is she a believer? (You are laughing,
 
 When we go this way, we will find ourselves at home with each of us trying to respect the other as much as he can. And here is the key. Usually I will say, "I will not do that; she will take advantage." But she will try to imitate the character of Allah, subḥānahu wa taʿālā, and what Allah described as her position in the Qur'an, and she will try to put herself down too, to have that humbleness. It is a mutual relationship: I am trying to do it, and you are trying to do it.
 
-So which one is going to be down, and which one is going to be up? Imagine that both of us are trying to put ourselves down. Which one will be up? Both of us will be up, because each of us is trying to make the other side up. Each of us will keep his dignity.
+So which one is going to be down, and which one is going to be up? Imagine that both of us are trying to put ourselves down. Which one will be up? Both of us will be up, because each of us is trying to raise the other side up. Each of us will keep his dignity.
 
 ### How do we get it?
 

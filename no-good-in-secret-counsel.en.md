@@ -45,11 +45,11 @@ Allah's answer is "No, indeed." Then what is the right thing? The right thing, H
 
 ### The steep path and the freeing of a neck
 
-If you pass on to the next surah, he said, you find Allah speaking of an obstacle that will stand on the Day of Judgment, which we must pass in order to be among the people of Paradise. Some are left behind this step. What prevents me from going with them? Allah says what it takes to pass it: the freeing of a neck, which means releasing someone from slavery.[^5]
+If you pass on to the next surah, he said, you find Allah speaking of an obstacle that will stand on the Day of Judgment, which we must pass in order to be among the people of Paradise. Some are left behind at this step. What prevents me from going with them? Allah says what it takes to pass it: the freeing of a neck, which means releasing someone from slavery.[^5]
 
 He gave a present-day example. Suppose a man is in prison because of a debt he could not pay: a hundred dollars here, a thousand there, two thousand somewhere else, and someone has accused him and sent him to jail. SubḥānAllāh. If I go and release his neck from that place, when we give a modest amount, or even gather together and post a bond for him, that is a kind of freeing. Sometimes we do pay a bond to release one of our brothers from jail. Allah's words are not only about slaves, which was the case in that time. Today we have other kinds of captivity.
 
-The same passage speaks of feeding people in a time of hardship: the needy person who has nothing, with nothing between his hand and the dust. The lecturer then adds, unclearly, that if a person does have something in his hand, it may be like sharing advice with one another.
+The same passage speaks of feeding people in a time of hardship: the needy person who has nothing, with nothing between his hand and the dust. The lecturer then seems to add that if a person does have something in his hand, it may be like sharing advice with one another.
 
 ### The one who denies the religion
 
@@ -61,7 +61,7 @@ Then the lecturer turned to what Allah asks us to say. He asked the audience whe
 
 He gave a method for understanding commands. Usually, if we want a rule of action in our lives, we need to compare that command with the other command next to it, because grammatically it is an order that comes to us. Allah gives me an order. What is the next word in the same verse? Is it an order too, an obligation or not? Imagine Allah puts two things together in one verse; they should be at the same level. Imagine He asks me to speak nicely to the people, and asks me in the same verse for something else. You know what I mean?
 
-Once we have this, we find one of the characters of the Muslim: they speak nicely, and talk gently to people. Sometimes we become angry and lose our composure, and Allah knows that, and He gave us the solution. How can we do it? We say: "I apologize, I did something wrong, forgive me." He also noted that when Allah described one of the traits of such people, it was that they follow what is said, apparently "according to the best of it."
+Once we have this, we find one of the characteristics of the Muslim: they speak nicely, and talk gently to people. Sometimes we become angry and lose our composure, and Allah knows that, and He gave us the solution. How can we do it? We say: "I apologize, I did something wrong, forgive me." He also noted that when Allah described one of the traits of such people, it was that they follow what is said, apparently "according to the best of it."
 
 ### Three actions a community needs
 

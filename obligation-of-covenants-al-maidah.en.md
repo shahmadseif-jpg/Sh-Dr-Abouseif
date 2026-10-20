@@ -9,7 +9,7 @@ readingMinutes: 6
 > Occasion: A transcription of an evening lecture delivered at AIA on September 9, 2026
 > Source: A transcription of a video lecture by Dr. Ahmed Abouseif — [Watch the original video on YouTube](https://www.youtube.com/watch?v=XcZk5vlAEoM)
 
-He was in the middle of a supplication: «…والفوز بالجنة والنجاة من النارين. ﴿رَبَّنَا لَا تُؤَاخِذْنَا إِن نَّسِينَا أَوْ أَخْطَأْنَا﴾، ﴿لَا تَحْمِلْ عَلَيْنَا إِصْرًا كَمَا حَمَلْتَهُ عَلَى الَّذِينَ مِن قَبْلِنَا﴾، ﴿لَا تُحَمِّلْنَا مَا لَا طَاقَةَ لَنَا بِهِ﴾، ﴿وَاعْفُ عَنَّا وَاغْفِرْ لَنَا وَارْحَمْنَا﴾. ربنا تب علينا من سيئاتنا وتقبل أعمالنا… آمين يا رب العالمين» (…and the triumph of Paradise and deliverance from the two Fires. "Our Lord, do not hold us to account if we forget or make a mistake," "do not lay on us a burden as You laid on those before us," "do not burden us with more than we have the strength to bear," "and pardon us, forgive us, and have mercy on us." Our Lord, turn to us in repentance from our wrongdoings and accept our deeds… Amen, O Lord of the worlds.)
+We open with a supplication: «…والفوز بالجنة والنجاة من النارين. ﴿رَبَّنَا لَا تُؤَاخِذْنَا إِن نَّسِينَا أَوْ أَخْطَأْنَا﴾، ﴿لَا تَحْمِلْ عَلَيْنَا إِصْرًا كَمَا حَمَلْتَهُ عَلَى الَّذِينَ مِن قَبْلِنَا﴾، ﴿لَا تُحَمِّلْنَا مَا لَا طَاقَةَ لَنَا بِهِ﴾، ﴿وَاعْفُ عَنَّا وَاغْفِرْ لَنَا وَارْحَمْنَا﴾. ربنا تب علينا من سيئاتنا وتقبل أعمالنا… آمين يا رب العالمين» (…and the triumph of Paradise and deliverance from the two Fires. "Our Lord, do not hold us to account if we forget or make a mistake," "do not lay on us a burden as You laid on those before us," "do not burden us with more than we have the strength to bear," "and pardon us, forgive us, and have mercy on us." Our Lord, turn to us in repentance from our wrongdoings and accept our deeds… Amen, O Lord of the worlds.)
 
 Tonight we reach Sūrat al-Māʾidah, and we pause at the first call of faith in it:
 
@@ -53,11 +53,11 @@ This verse came after about twenty-seven calls of faith in the Qur'an, according
 
 ### al-Māʾidah: Opening Your Eyes to Those Around You
 
-Sūrat al-Māʾidah is a very special surah. I have always described the harmony among the surahs: Allah raised for us the building of society in Sūrat al-Baqarah; He commanded us with the tools of maintaining society in Sūrat Āl ʿImrān; in Sūrat al-Nisāʾ He singled out for maintenance the first building block of this society; and then He commanded you to look around you to see non-Muslims and to treat them as He commanded you in Sūrat al-Māʾidah. So al-Māʾidah is like the beginning of opening your eyes to the universe around you: look at who is here with you.
+Sūrat al-Māʾidah is a very special surah. I have always described the harmony among the surahs: Allah raised for us the building of society in Sūrat al-Baqarah; He enjoined on us the tools of maintaining society in Sūrat Āl ʿImrān; in Sūrat al-Nisāʾ He singled out for maintenance the first building block of this society; and then He commanded you to look around you to see non-Muslims and to treat them as He commanded you in Sūrat al-Māʾidah. So al-Māʾidah is like the beginning of opening your eyes to the universe around you: look at who is here with you.
 
 That is why you see that it opened with the command to full commitment, to fulfilment, and to not transgressing: ﴿لَا تُحِلُّوا شَعَائِرَ اللَّهِ وَلَا الشَّهْرَ الْحَرَامَ﴾ ("Do not violate the sacred rites of Allah, nor the sacred month"). And a little further on you find: ﴿إِذَا قُمْتُمْ إِلَى الصَّلَاةِ فَاغْسِلُوا﴾ ("When you rise for prayer, wash"),[^6] as if He commanded you to bind your mind to the Lord of Might, glory be to Him, the Most High, first, and then to hold this body to constant purification.
 
-Then we move on after that to see the calls to the believers, and the calls to the People of the Book, and a long story. Glory be to You, O Allah, and praise.
+Then we move on after that to see the calls to the believers, and the calls to the People of the Book, and a long story. Glory be to You, O Allah, and with Your praise.
 
 ---
 [^1]: Editor's documentation: The phrase quoted in the body from the verse («أنزل علينا من السماء تكون لنا عيدًا لأولنا وآخرنا») is in al-Māʾidah: 114. The full verse in the muṣḥaf is: ﴿قَالَ عِيسَى ابْنُ مَرْيَمَ اللَّهُمَّ رَبَّنَا أَنزِلْ عَلَيْنَا مَائِدَةً مِّنَ السَّمَاءِ تَكُونُ لَنَا عِيدًا لِّأَوَّلِنَا وَآخِرِنَا وَآيَةً مِّنكَ﴾ ("Jesus, son of Mary, said: O Allah, our Lord, send down to us a table from heaven to be a festival for the first of us and the last of us, and a sign from You").

@@ -9,7 +9,7 @@ readingMinutes: 3
 > Occasion: Transcription of a Fajr khatira delivered at the American Imams Academy on 18 October 2026   
 > Source: A transcription of a video khatira by Dr. Ahmed Abouseif — [Watch the original video on YouTube](https://www.youtube.com/watch?v=wBZ4lbZAN30)
 
-Dr. Ahmed began his khatira with a supplication in which he asked Allah to turn away from us the causes of punishment in this world and the Hereafter, to write us among the people of Paradise and grant us the means to it, to bring us close to His mosques and not distance us from obedience to Him, and to make us among the people of the Qur'an and not deprive us of the delight of worshipping Him with it in His presence. Then he said: And now, in our hadith today, Abū ʿAmra Sufyān ibn ʿAbd Allāh al-Thaqafī (may Allah be pleased with him) narrates to us, saying:
+We open with a supplication, asking Allah to turn away from us the causes of punishment in this world and the Hereafter, to write us among the people of Paradise and grant us the means to it, to bring us close to His mosques and not distance us from obedience to Him, and to make us among the people of the Qur'an and not deprive us of the delight of worshipping Him with it in His presence. Then Dr. Ahmed said: And now, in our hadith today, Abū ʿAmra Sufyān ibn ʿAbd Allāh al-Thaqafī (may Allah be pleased with him) narrates to us, saying:
 
 «قلتُ: يا رسول الله، قل لي في الإسلام قولًا لا أسأل عنه أحدًا غيرك. فقال النبي ﷺ: قل آمنت بالله ثم استقم».[^1]
 
@@ -31,7 +31,7 @@ Sufyān ibn ʿAbd Allāh al-Thaqafī was from the tribe of Thaqīf, who embraced
 
 ### He wanted protection, so he was directed to faith
 
-Sufyān asked for "a statement after which he need ask no one else," and said: Direct me to something I may hold fast to. He wants to protect himself. And the Prophet's ﷺ answer was one: Say: I believe in Allah; say: I believe in Allah.
+Sufyān asked for "a statement after which he need ask no one else," and said: Direct me to something I may hold fast to. He wants to protect himself. And the Prophet's ﷺ answer was the same: Say: I believe in Allah; say: I believe in Allah.
 
 Dr. Ahmed sees that this command to say it carries two possible meanings: either it is a repetition of the words to remind the mind and revive the meaning in a person's self and heart, so that he remains settled in this obedience, by Allah's leave; or it is the taking of a decision in life: Say: I believe in Allah.
 

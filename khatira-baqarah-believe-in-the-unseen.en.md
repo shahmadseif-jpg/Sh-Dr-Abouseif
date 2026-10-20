@@ -9,9 +9,9 @@ readingMinutes: 3
 > المناسبة: تفريغ خاطرة فجر أُلقيت بتاريخ 23 مارس 2026م   
 > المصدر: تفريغ خاطرة مرئية للدكتور أحمد أبو سيف، [مشاهدة الفيديو الأصلي على يوتيوب](https://www.youtube.com/watch?v=7ur9ovfovDA)
 
-He opened with a supplication: that God set right our religion, our worldly life and our hereafter; prepare for us right guidance in our affairs; bless us in what He has provided; protect us from the punishment of the Fire; and turn away from us the causes of punishment in this world and the next, out of His mercy, pleasure, generosity and kindness.
+We open with a supplication: that God set right our religion, our worldly life and our hereafter; prepare for us right guidance in our affairs; bless us in what He has provided; protect us from the punishment of the Fire; and turn away from us the causes of punishment in this world and the next, out of His mercy, pleasure, generosity and kindness.
 
-The Qur'an, he said, is guidance for creation, and that guidance has several dimensions: the intellectual, the psychological, and the behavioural and practical.
+The Qur'an, Dr. Ahmed said, is guidance for creation, and that guidance has several dimensions: the intellectual, the psychological, and the behavioural and practical.
 
 ### The unseen as the starting point
 

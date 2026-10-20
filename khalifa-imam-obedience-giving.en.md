@@ -39,7 +39,7 @@ Now let us move on. This is the first of their sayings: what is the meaning of *
 
 Can somebody help me with what they asked for? They wanted to see Allah directly: if you cannot show us your Lord, we will not believe. Allah punished them at that time, and then gave them another chance, to bring them back to the beginning. And then again: we will never be patient anymore. *Where are you going, man? Give us a break.* And then they moved on to making a nice little god for themselves. They collected the gold and made it, and they came back to disobeying with a lot of other things.
 
-To make a long story short: what is the main condition? What did you say, brother? Obeying. This is the main condition. If we can say yes, we can do everything after that. Do you agree? You can sign the contract? Yes, I will sign the contract. And what does the contract say? It has a job description, and the job description says you will follow all the items in it. Just signing: I agree, I am there, I am in. That is it. And whenever you find you are missing in your word, you come back to the contract and see what is in it.
+To make a long story short: what is the main condition? What did you say, brother? Obeying. This is the main condition. If we can say yes, we can do everything after that. Do you agree? You can sign the contract? Yes, I will sign the contract. And what does the contract say? It has a job description, and the job description says you will follow all the items in it. Just signing: I agree, I am there, I am in. That is it. And whenever you find yourself falling short of your word, you come back to the contract and see what is in it.
 
 ### Ibrāhīm: obedience, and then more
 
