@@ -13,7 +13,7 @@ readingMinutes: 5
 
 The speaker opened with a supplication: «اللهم إنا نسألك خير هذه الليلة وخير ما فيها وخير ما بعدها، ونعوذ بك من شر هذه الليلة وشر ما فيها وشر ما بعدها. اللهم أصلح لنا ديننا الذي هو عصمة أمرنا، وأصلح لنا دنيانا التي فيها معاشنا، وأصلح لنا آخرتنا التي إليها معادنا. اللهم اجعل الحياة زيادة لنا في كل خير، واجعل الموت راحة لنا من كل شر. لا تضلنا ولا تضل بنا، واهدنا واهد بنا، وثبّت قلوبنا على ما يرضيك، وخذ بنواصينا إلى طاعتك وأسبابها، واجعلنا ربنا ممن أخلصوا دينهم ودنياهم لك وحدك لا شريك لك. اللهم برّئنا من النفاق والرياء والشرك. اللهم إنا نعوذ بك من موالاة الظالمين والانتصار إليهم. اللهم طهّر قلوبنا وبرّئها من آيات النفاق وأسبابه. اللهم آمين يا رب» (O Allah, we ask You for the good of this night, the good of what it holds and the good of what follows it, and we seek refuge in You from the evil of this night, the evil of what it holds and the evil of what follows it. O Allah, set right for us our religion, which is the safeguard of our affairs; set right for us our worldly life, in which is our livelihood; and set right for us our hereafter, to which is our return. O Allah, make life an increase for us in every good, and make death a rest for us from every evil. Do not let us go astray and do not let anyone go astray through us; guide us and guide others through us; make our hearts firm upon what pleases You; take us by our forelocks to obedience to You and its means; and make us, our Lord, among those who devoted their religion and their worldly life to You alone, who have no partner. O Allah, free us from hypocrisy, showing off and associating partners with You. O Allah, we seek refuge in You from allying with the wrongdoers and siding with them. O Allah, purify our hearts and free them from the signs of hypocrisy and its causes. O Allah, amen, our Lord).
 
-Then he mentioned the call with which he had begun: ﴿يَا أَيُّهَا الَّذِينَ آمَنُوا لَا تُبْطِلُوا صَدَقَاتِكُم بِالْمَنِّ وَالْأَذَىٰ﴾ (O you who believe, do not nullify your charity with reproach and injury).[^1] After it, the transcript contains fragmentary English speech from which no meaning could be made out.
+Then he mentioned the call with which he had begun: ﴿يَا أَيُّهَا الَّذِينَ آمَنُوا لَا تُبْطِلُوا صَدَقَاتِكُم بِالْمَنِّ وَالْأَذَىٰ﴾ (O you who believe, do not nullify your charity with reproach and injury).[^1]
 
 ### The Calls of Sūrat al-Baqarah
 
@@ -71,7 +71,7 @@ And after it, the parable of those who spend seeking Allah's pleasure:
 
 ﴿وَمَثَلُ الَّذِينَ يُنفِقُونَ أَمْوَالَهُمُ ابْتِغَاءَ مَرْضَاتِ اللَّهِ وَتَثْبِيتًا مِّنْ أَنفُسِهِمْ كَمَثَلِ جَنَّةٍ بِرَبْوَةٍ أَصَابَهَا وَابِلٌ فَآتَتْ أُكُلَهَا ضِعْفَيْنِ فَإِن لَّمْ يُصِبْهَا وَابِلٌ …﴾ (And the parable of those who spend their wealth seeking Allah's pleasure and to strengthen their souls is that of a garden on high ground: a downpour strikes it and it yields its fruit twofold; and if no downpour strikes it …)
 
-At this point the transcript contains a question about the name of what comes after the downpour (and about its English word), and an answer: "the dew" (al-nadā).[^2]
+At this point came a question about the name of what comes after the downpour (and about its English word), and an answer: "the dew" (al-nadā).[^2]
 
 Then the other parable:
 
@@ -83,7 +83,7 @@ He repeated "you may reflect" (tatafakkarūn) three times, then said: "This is a
 
 ### "Shall We Feed One Whom, If Allah Willed …"
 
-And he concluded by pausing at what he called the slogans of the disbelievers, we seek refuge in Allah, when the Lord of the worlds sets for us a parable through their saying: «أنطعم من لو يشاء الله …» (Shall we feed one whom, if Allah willed …). And he commented in colloquial Arabic, the meaning of which is that this is what they say: shall we feed someone whom Allah, had He willed, would have fed? Then he followed it with what appears to be a rejection of the weight of this statement.[^4] And the transcript ended with a repetition of the call: ﴿يَا أَيُّهَا الَّذِينَ آمَنُوا أَنفِقُوا مِن طَيِّبَاتِ مَا كَسَبْتُمْ﴾ (O you who believe, spend from the good things you have earned).
+And he concluded by pausing at what he called the slogans of the disbelievers, we seek refuge in Allah, when the Lord of the worlds sets for us a parable through their saying: «أنطعم من لو يشاء الله …» (Shall we feed one whom, if Allah willed …). And he commented in colloquial Arabic, the meaning of which is that this is what they say: shall we feed someone whom Allah, had He willed, would have fed? Then he followed it with what appears to be a rejection of the weight of this statement.[^4] Then he repeated the call: ﴿يَا أَيُّهَا الَّذِينَ آمَنُوا أَنفِقُوا مِن طَيِّبَاتِ مَا كَسَبْتُمْ﴾ (O you who believe, spend from the good things you have earned).
 
 ---
 [^1]: Editor's documentation: The speaker did not mention the locations of the verses he recited; these are their locations in the order in which they appear in the article: al-Baqarah: 264; al-Baqarah: 104; al-Baqarah: 153; al-Baqarah: 172; al-Baqarah: 178; al-Baqarah: 183; al-Baqarah: 208; al-Baqarah: 254; al-Baqarah: 263; al-Baqarah: 261; al-Baqarah: 260; al-Baqarah: 257; al-Baqarah: 256; al-Baqarah: 255; al-Baqarah: 267; al-Baqarah: 265; al-Baqarah: 266; al-Rūm: 21.

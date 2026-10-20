@@ -31,7 +31,7 @@ After these calls, he said, Allah, glorified and exalted, made it a rule of life
 
 ### Qisṭ and the steadfast
 
-He paused over two words. As for qisṭ, it is justice kept upright until it completes its course. And justice is defined in Arabic as putting things in the places that suit them. As for "qawwāmīn," it is an intensive form of "qā'im" (one who stands), and he repeated this, and in his words there appeared what seems to be a reference to "men are qawwāmūn over women" (though the original here is garbled).[^2]
+He paused over two words. As for qisṭ, it is justice kept upright until it completes its course. And justice is defined in Arabic as putting things in the places that suit them. As for "qawwāmīn," it is an intensive form of "qā'im" (one who stands), and he repeated this, and in his words there appeared what seems to be a reference to "men are qawwāmūn over women".[^2]
 
 ### Between al-Nisā' and al-Mā'idah
 

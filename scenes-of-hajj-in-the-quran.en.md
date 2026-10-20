@@ -9,7 +9,7 @@ readingMinutes: 16
 > Occasion: transcript of a lecture delivered at the Islamic Center of San Antonio on June 14, 2024.
 > Source: transcription of a recorded lecture by Dr. Ahmed Abouseif — [watch the original video on YouTube](https://www.youtube.com/watch?v=gUvOSpz8-Dk)
 
-We also want to ask Allah, glory be to Him, to bring all of our brothers and sisters back home (the transcript is garbled here; it seems to refer to those who went out for Hajj).
+We also want to ask Allah, glory be to Him, to bring all of our brothers and sisters back home.
 
 My dear brothers and sisters in Islam, it is my pleasure to be with you again. Alhamdulillah, I had a beautiful time with you earlier, in the session in Arabic and in the other one in English, and I ask Allah to accept from all of us.
 

@@ -9,7 +9,7 @@ readingMinutes: 6
 > Occasion: A transcription of an evening lecture delivered at AIA on September 9, 2026
 > Source: A transcription of a video lecture by Dr. Ahmed Abouseif — [Watch the original video on YouTube](https://www.youtube.com/watch?v=XcZk5vlAEoM)
 
-The recording begins in the middle of a supplication, of which this remains: «…والفوز بالجنة والنجاة من النارين. ﴿رَبَّنَا لَا تُؤَاخِذْنَا إِن نَّسِينَا أَوْ أَخْطَأْنَا﴾، ﴿لَا تَحْمِلْ عَلَيْنَا إِصْرًا كَمَا حَمَلْتَهُ عَلَى الَّذِينَ مِن قَبْلِنَا﴾، ﴿لَا تُحَمِّلْنَا مَا لَا طَاقَةَ لَنَا بِهِ﴾، ﴿وَاعْفُ عَنَّا وَاغْفِرْ لَنَا وَارْحَمْنَا﴾. ربنا تب علينا من سيئاتنا وتقبل أعمالنا… آمين يا رب العالمين» (…and the triumph of Paradise and deliverance from the two Fires. "Our Lord, do not hold us to account if we forget or make a mistake," "do not lay on us a burden as You laid on those before us," "do not burden us with more than we have the strength to bear," "and pardon us, forgive us, and have mercy on us." Our Lord, turn to us in repentance from our wrongdoings and accept our deeds… Amen, O Lord of the worlds.)
+He was in the middle of a supplication: «…والفوز بالجنة والنجاة من النارين. ﴿رَبَّنَا لَا تُؤَاخِذْنَا إِن نَّسِينَا أَوْ أَخْطَأْنَا﴾، ﴿لَا تَحْمِلْ عَلَيْنَا إِصْرًا كَمَا حَمَلْتَهُ عَلَى الَّذِينَ مِن قَبْلِنَا﴾، ﴿لَا تُحَمِّلْنَا مَا لَا طَاقَةَ لَنَا بِهِ﴾، ﴿وَاعْفُ عَنَّا وَاغْفِرْ لَنَا وَارْحَمْنَا﴾. ربنا تب علينا من سيئاتنا وتقبل أعمالنا… آمين يا رب العالمين» (…and the triumph of Paradise and deliverance from the two Fires. "Our Lord, do not hold us to account if we forget or make a mistake," "do not lay on us a burden as You laid on those before us," "do not burden us with more than we have the strength to bear," "and pardon us, forgive us, and have mercy on us." Our Lord, turn to us in repentance from our wrongdoings and accept our deeds… Amen, O Lord of the worlds.)
 
 Tonight we reach Sūrat al-Māʾidah, and we pause at the first call of faith in it:
 
@@ -21,11 +21,11 @@ In this surah the words of Jesus, son of Mary, peace be upon him, are mentioned:
 
 The contract (ʿaqd) is the joining of words between people, one with another, so that it does not come undone or break apart. If it comes apart, the contract is broken, and breaking pledges becomes the rule among these people.
 
-The speaker drew attention to the letter qāf in the word «العقود», as if it were an indication of added commitment, especially when the word occurs in this place. Then he said that no one asks about the translation in this passage (and his phrase after it, "try to connect," is unclear in the transcript).
+The speaker drew attention to the letter qāf in the word «العقود», as if it were an indication of added commitment, especially when the word occurs in this place. Then he said that no one asks about the translation in this passage.
 
 ### A Reference Already Mentioned
 
-With the help of one of those present, he recalled calls that came earlier in Sūrat al-Baqarah: ﴿لَا تَقُولُوا رَاعِنَا وَقُولُوا انظُرْنَا وَاسْمَعُوا﴾ ("Do not say 'Rāʿinā' but say 'Unẓurnā,' and listen"), and «كلوا من الطيبات ما رزقناكم واشكروا لله» ("Eat of the good things We have provided for you, and give thanks to God"), and ﴿اسْتَعِينُوا بِالصَّبْرِ وَالصَّلَاةِ﴾ ("Seek help through patience and prayer"). Then in his talk there came a mention of "commitment to the reference" and some words about "the life of creation," whose connection to these calls was not clear.[^2]
+With the help of one of those present, he recalled calls that came earlier in Sūrat al-Baqarah: ﴿لَا تَقُولُوا رَاعِنَا وَقُولُوا انظُرْنَا وَاسْمَعُوا﴾ ("Do not say 'Rāʿinā' but say 'Unẓurnā,' and listen"), and «كلوا من الطيبات ما رزقناكم واشكروا لله» ("Eat of the good things We have provided for you, and give thanks to God"), and ﴿اسْتَعِينُوا بِالصَّبْرِ وَالصَّلَاةِ﴾ ("Seek help through patience and prayer"). Then in his talk there came a mention of "commitment to the reference" and some words about "the life of creation."[^2]
 
 ### The Default in Things Is Permissibility, and the Contract Is Attached to It
 
