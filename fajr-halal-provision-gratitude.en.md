@@ -27,13 +27,12 @@ So whoever senses that this wealth, or provision, or running of a business, or s
 
 ### The Opposite of Gratitude
 
-If that is not so, nothing comes of him but the opposite of gratitude. And what is the opposite of gratitude? Its contrary, disbelief, we seek refuge in Allah. Disbelief drives the servant to further greed, and greed leads a person to seek means, and the means are varied and many, some lawful and some forbidden. Greed drives the servant to enter the class of the ambiguous matters in which the realm of the lawful and the forbidden are mixed, so he may cross into the forbidden while persuading himself that it is permissible, when in fact the self has simply not ceased to be greedy. Whoever gives thanks has arrived.[^3]
+If that is not so, nothing comes of him but the opposite of gratitude. And what is the opposite of gratitude? Its contrary, disbelief, we seek refuge in Allah. Disbelief drives the servant to further greed, and greed leads a person to seek means, and the means are varied and many, some lawful and some forbidden. Greed drives the servant to enter the class of the ambiguous matters in which the realm of the lawful and the forbidden are mixed, so he may cross into the forbidden while persuading himself that it is permissible, when in fact the self has simply not ceased to be greedy. Whoever gives thanks has arrived.
 
 ### The Supplication
 
 Then he asked Allah, Blessed and Exalted, for continued concealment, complete contentment, and good acceptance of everything the Lord of the worlds brings, and that He grant him and us richness of soul, heart, mind and wealth, and keep our homes safe for us, and our souls safe from rancor and from trial. Amen, O Lord.
 
 ---
-[^1]: Editor's documentation: The speaker did not mention where the verse is found; the joining of "كلوا مما رزقكم الله حلالًا طيبًا" ("eat of what Allah has provided you, lawful and good") and "واشكروا نعمة الله" ("and give thanks for the blessing of Allah") is in Sūrat al-Naḥl, verse 114. The text of the verse was not set down in the body because the speaker did not recite it in full.
+[^1]: Editor's documentation: The speaker did not mention where the verse is found; the joining of "كلوا مما رزقكم الله حلالًا طيبًا" ("eat of what Allah has provided you, lawful and good") and "واشكروا نعمة الله" ("and give thanks for the blessing of Allah") is in Sūrat al-Naḥl, verse 114.
 [^2]: Editor's documentation: Sūrat al-Qaṣaṣ, verse 76; the first phrase is in verse 78.
-[^3]: Editor's documentation: In the transcript this was followed by "ومن كفر فقد…" ("and whoever disbelieves has…"), and the speech broke off, so it was not rendered.

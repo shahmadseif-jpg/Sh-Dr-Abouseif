@@ -19,7 +19,7 @@ Imagine a soldier in a battle: could he come and say, “The conditions are hard
 
 And in the Expedition of Hardship our Lord, glory be to Him, tells us of the state of the Prophet ﷺ and the state of his Companions, may Allah be pleased with them: matters pressed hard upon them from every side, the distances and the times were long, and the conditions were as difficult as they could be, and even so their Lord, glory be to Him, commands them to move.
 
-And you might say: Were matters really that difficult? They did not have these machines, nor nuclear bombs, nor ballistic drones, nor all these terms too big for us that we do not understand well. The answer is that every environment is hard on the machine of the children of Adam, may Allah honor you. You find a person screaming at the top of his voice: What is the matter, my son? A killer headache, a killer headache! And next to him is another person, silent, and you ask him: How are you? He says: Praise be to Allah. You ask him: What is wrong with you? (I ask Allah for safety and well-being for us).[^4] So which of the two is more severely afflicted in terms of the initial picture, in terms of the medical judgment, and in terms of the resulting consequences? But this one screams because he cannot bear this simple procedure, and that one is patient and silent because his psychology is higher than the situation he is in.
+And you might say: Were matters really that difficult? They did not have these machines, nor nuclear bombs, nor ballistic drones, nor all these terms too big for us that we do not understand well. The answer is that every environment is hard on the machine of the children of Adam, may Allah honor you. You find a person screaming at the top of his voice: What is the matter, my son? A killer headache, a killer headache! And next to him is another person, silent, and you ask him: How are you? He says: Praise be to Allah. You ask him: What is wrong with you? (I ask Allah for safety and well-being for us). So which of the two is more severely afflicted in terms of the initial picture, in terms of the medical judgment, and in terms of the resulting consequences? But this one screams because he cannot bear this simple procedure, and that one is patient and silent because his psychology is higher than the situation he is in.
 
 ### Setting Out Is a Matter of the Soul
 
@@ -44,7 +44,6 @@ Therefore, if you have children, never make them sit out from a deed they want s
 I ask Allah, the Most High, the All-Powerful, to bless our aspirations, to deposit them in our souls, never to hold them back in any condition, and to grant us a sincerity with which we meet Him on the day of meeting Him. O Allah, amen.
 
 ---
-[^1]: Editor's documentation: From Sūrat al-Tawba, verse 41; the transcript begins in the middle of the khatira. The body records only what the speaker uttered of the verse.
+[^1]: Editor's documentation: From Sūrat al-Tawba, verse 41. The body records only what the speaker uttered of the verse.
 [^2]: Editor's documentation: From Sūrat al-Tawba, verse 46.
 [^3]: Editor's documentation: From Sūrat al-Tawba, verse 47.
-[^4]: Editor's documentation: The wording in the transcript is garbled (an unclear word after «ما بك مثلا»), and from the context of the comparison that follows it is understood that the silent one is the more severely afflicted; the body does not name the illness. Likewise, the word describing the soul in «وإنما تبقى النفس …» is unclear in the transcript, so it was not recorded.

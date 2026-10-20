@@ -34,4 +34,4 @@ I still remember a time when we were buying something with cash, and a teacher w
 We will keep talking about this same surah until we finish it. May God accept from us.
 
 ---
-[^1]: Editor's documentation: The description matches the opening of Sūrat al-Muṭaffifīn, ﴿وَيْلٌ لِّلْمُطَفِّفِينَ ۝ الَّذِينَ إِذَا اكْتَالُوا عَلَى النَّاسِ يَسْتَوْفُونَ ۝ وَإِذَا كَالُوهُمْ أَوْ وَزَنُوهُمْ يُخْسِرُونَ﴾ [المطففين: 1–3]. The surah is not named in the transcript and the recitation is missing from it, so the verses are given here for reference only and are not attributed to the speaker's wording.
+[^1]: Editor's documentation: The description matches the opening of Sūrat al-Muṭaffifīn, ﴿وَيْلٌ لِّلْمُطَفِّفِينَ ۝ الَّذِينَ إِذَا اكْتَالُوا عَلَى النَّاسِ يَسْتَوْفُونَ ۝ وَإِذَا كَالُوهُمْ أَوْ وَزَنُوهُمْ يُخْسِرُونَ﴾ [المطففين: 1–3]. The speaker did not name the surah or recite the verses, so they are given here for reference only and are not attributed to his wording.

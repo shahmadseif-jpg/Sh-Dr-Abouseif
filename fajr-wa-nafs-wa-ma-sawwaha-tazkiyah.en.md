@@ -48,5 +48,5 @@ And I ask Allah, Blessed and Exalted, to complete these blessed days for us, to 
 ---
 [^1]: Sūrat al-Shams: 9.
 [^2]: Sūrat al-Aʿlā: 14–15.
-[^3]: Sūrat al-Zukhruf: 23. Editor's documentation: In the transcript it reads “muhtadūn muqtadūn”; its counterpart in the previous verse (22) has “muhtadūn”, and “muqtadūn” was retained as in the wording of verse 23.
-[^4]: Editor's documentation: The speaker alluded to many texts without specifying them, and what he mentioned about the river in which a person bathes five times a day derives from a ḥadīth narrated by Muslim in similar wording; the transcript is garbled at this point, so it was retained by meaning without quotation.
+[^3]: Sūrat al-Zukhruf: 23. Editor's documentation: Its counterpart in the previous verse (22) has “muhtadūn”, and “muqtadūn” is as in the wording of verse 23.
+[^4]: Editor's documentation: The speaker alluded to many texts without specifying them, and what he mentioned about the river in which a person bathes five times a day derives from a ḥadīth narrated by Muslim in similar wording; it is given by meaning without quotation.

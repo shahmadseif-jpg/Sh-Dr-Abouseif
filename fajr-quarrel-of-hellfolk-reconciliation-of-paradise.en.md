@@ -30,5 +30,5 @@ And we think that Allah, Blessed and Exalted, chose for us pure souls, God-feari
 And the conclusion we leave with today is a question: will there be among us the quarreling of the people of the Fire or the reconciliation of the people of Paradise? And he concluded by supplicating Allah, Glorified, to sweeten our feelings in our homes, our work, our friendships, our relationships and all our families.
 
 ---
-[^1]: Editor's documentation: The verse is in Sūrat Ṣād, 64: ﴿إِنَّ ذَٰلِكَ لَحَقٌّ تَخَاصُمُ أَهْلِ النَّارِ﴾ (Indeed, that is truth: the quarreling of the people of the Fire). The speaker did not recite it in the transcript; he only referred to «the quarreling of the people of the Fire» and pointed out that it is «true».
+[^1]: Editor's documentation: The verse is in Sūrat Ṣād, 64: ﴿إِنَّ ذَٰلِكَ لَحَقٌّ تَخَاصُمُ أَهْلِ النَّارِ﴾ (Indeed, that is truth: the quarreling of the people of the Fire). The speaker did not recite it; he only referred to «the quarreling of the people of the Fire» and pointed out that it is «true».
 [^2]: Editor's documentation: Sūrat al-Ḥijr, verse 47.

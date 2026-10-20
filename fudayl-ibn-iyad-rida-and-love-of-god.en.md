@@ -15,7 +15,7 @@ In our circles on "Guideposts of Guidance" we had spoken about al-Fuḍayl ibn �
 
 ### From Highwayman to Neighbor of the House
 
-He proceeded on his way to repentance. And on the night he repented to Allah he heard people warning one another against traveling this road because al-Fuḍayl ibn ʿIyāḍ was on it, so he informed those around him of his resolve to take up residence beside the Kaʿba.[^2] And we mentioned that on his way he passed by people of knowledge and sat with them, and continued his journey heading to the Meccan Sanctuary.
+He proceeded on his way to repentance. And on the night he repented to Allah he heard people warning one another against traveling this road because al-Fuḍayl ibn ʿIyāḍ was on it, so he informed those around him of his resolve to take up residence beside the Kaʿba. And we mentioned that on his way he passed by people of knowledge and sat with them, and continued his journey heading to the Meccan Sanctuary.
 
 ### ʿArafa: Weeping That Prevents Supplication
 
@@ -39,13 +39,13 @@ And they relate about one of his sons, he had a son named ʿAlī, and they say: 
 
 Reflect: What does the son fear? He fears that on the Day of Resurrection we will not be together. This is his concern! And imagine our children, and what we are thinking about. We think about the enjoyment of the world and gain in it, and worldly profits, and fame among people, and companionship that testifies for you to such-and-such; we think about more of what is in our hands, about our appearances and shapes and colors and the areas in which we move and frolic. That is the world in our hands, while the son weeps that he may not be gathered with his father on the Day of Resurrection.
 
-And this reminded us of one of the Companions of the Prophet ﷺ when he came to him weeping, and he asked him about his weeping, and he said: O Messenger of Allah, I called the Resurrection to mind and feared that I would not be with you. The Prophet ﷺ asked him: Do you love? He said: I love you, O Messenger of Allah. So he ﷺ made clear to him that «المرء مع من أحبّ» ("a person is with whom he loves").[^3] This is the state of human beings who sense the brevity of the world in its very word: it is dunyā, not the highest but the lowest, while the Hereafter is the ḥayawān, that is, the true life in the presence of the Lord of the worlds, glorified and exalted is He.[^4]
+And this reminded us of one of the Companions of the Prophet ﷺ when he came to him weeping, and he asked him about his weeping, and he said: O Messenger of Allah, I called the Resurrection to mind and feared that I would not be with you. The Prophet ﷺ asked him: Do you love? He said: I love you, O Messenger of Allah. So he ﷺ made clear to him that «المرء مع من أحبّ» ("a person is with whom he loves").[^2] This is the state of human beings who sense the brevity of the world in its very word: it is dunyā, not the highest but the lowest, while the Hereafter is the ḥayawān, that is, the true life in the presence of the Lord of the worlds, glorified and exalted is He.[^3]
 
 Then he said to him: Father, ask the One who granted me to you in this world to grant me to you in the Hereafter. That is: Pray to our Lord, as He granted me to you in this world as a son, to grant me to you in the Hereafter. And we did not choose that this child be our son; Allah, glorified and exalted is He, willed him and chose him for us with his shape, appearance, characteristics, and psychological and mental makeup. Allah chose this child for us to be our son, and he is a gift from Allah, blessed and exalted is He. So he says to him: As You granted me to you in this world, pray to Allah that He grant me to you in the Hereafter. And he knows, from the righteousness of his father's state, that he is, Allah willing, in Paradise, and wants to be with him, and nothing makes him weep except that he fears the separation that may occur when they meet Allah, blessed and exalted is He.
 
 Al-Fuḍayl said: He did not cease, my son, to be broken-hearted and sad. Then he said: He used to help me to weep, O fruit of my heart, may Allah thank you for what He knows in you. And this speech was after the son had died in his father's lifetime.
 
-And ʿAlī died from a verse he heard from a reciter reading the Qur'an. Abū Saʿīd al-Kharrāz said: I heard Ibrāhīm ibn Bashshār say: The verse from which ʿAlī ibn al-Fuḍayl died is the saying of Allah, blessed and exalted is He: ﴿وَلَوْ تَرَىٰ إِذْ وُقِفُوا عَلَى النَّارِ فَقَالُوا يَا لَيْتَنَا نُرَدُّ﴾[^5] (If you could but see when they are made to stand before the Fire and say: Oh, would that we could be sent back). This is the verse after which the son died.
+And ʿAlī died from a verse he heard from a reciter reading the Qur'an. Abū Saʿīd al-Kharrāz said: I heard Ibrāhīm ibn Bashshār say: The verse from which ʿAlī ibn al-Fuḍayl died is the saying of Allah, blessed and exalted is He: ﴿وَلَوْ تَرَىٰ إِذْ وُقِفُوا عَلَى النَّارِ فَقَالُوا يَا لَيْتَنَا نُرَدُّ﴾[^4] (If you could but see when they are made to stand before the Fire and say: Oh, would that we could be sent back). This is the verse after which the son died.
 
 ### A World Other Than the World of Give and Take
 
@@ -59,7 +59,7 @@ So we are before a woman or a girl who complains of pain in her palm, and the fa
 
 ### "Love Is for the Creator and Mercy for the Children"
 
-Al-Fuḍayl said: I was sitting with her when a son of mine, three years old, came to me, and I turned to him and kissed him and held him to my chest, and she said to me: Father, I ask you by Allah, do you love him? I said: Yes, by Allah, my daughter.[^6] She said: By Allah, father, I thought you did not love anyone besides Allah! He said: My daughter, should we not love children? She said: Father, love is for the Creator and mercy for the children.
+Al-Fuḍayl said: I was sitting with her when a son of mine, three years old, came to me, and I turned to him and kissed him and held him to my chest, and she said to me: Father, I ask you by Allah, do you love him? I said: Yes, by Allah, my daughter. She said: By Allah, father, I thought you did not love anyone besides Allah! He said: My daughter, should we not love children? She said: Father, love is for the Creator and mercy for the children.
 
 As if she divided the matter of feelings into two kinds: a pure heart attached to the Lord of Might, glorified and exalted is He, knowing no one but Him, and feelings adjoining this love that revolve around it: mercy, compassion, tenderness, and pardon. As if she divided the matter into two issues: the issue of love directed to Allah, blessed and exalted is He, which is not turned to anyone else, and the issue of dealing with the surrounding persons; the wife has such a share, the children have such a share, the mother has such a share, the father has such a share.
 
@@ -102,9 +102,7 @@ So the answer by that was: You approved the world for yourself so you approve it
 And the discussion has more to come, with the permission of the Lord of the worlds, glorified and exalted is He.
 
 ---
-[^1]: Editor's documentation: Sūrat al-Ḥadīd, verse 16. The speaker limited himself to what we have entered of the verse without completing it. And al-Fuḍayl's answer is transcribed from the transcript in a form garbled in hearing ("I am, O Lord, now"), and it has been phrased here according to its closest reading; the original of the passage should be reviewed in the video.
-[^2]: Editor's documentation: The transcript's wording here is garbled ("والله لأجا... الكعبة"). What has been entered is the closest reading of it, and it is supported by the speaker's statement a little later that he was residing beside the Sacred House of Allah.
-[^3]: Editor's documentation: The ḥadīth "A person is with whom he loves" was recorded by al-Bukhārī and Muslim. The speaker did not name the Companion of the story, and transmitted the story by meaning, while his saying ﷺ "A person is with whom he loves" is transmitted in its well-known wording.
-[^4]: Editor's documentation: The speaker's allusion to "al-ḥayawān" accords with the saying of the Exalted in Sūrat al-ʿAnkabūt, verse 64, and he did not recite the verse.
-[^5]: Editor's documentation: Sūrat al-Anʿām, verse 27, and the speaker limited himself to what appears in the body.
-[^6]: Editor's documentation: The transcript's text here is unclear ("I do not love him"), and the context (her saying after it and al-Fuḍayl's saying at the end of the story) favors that he answered her in the affirmative; the original of the passage should be reviewed in the video.
+[^1]: Editor's documentation: Sūrat al-Ḥadīd, verse 16. The speaker limited himself to what we have entered of the verse without completing it.
+[^2]: Editor's documentation: The ḥadīth "A person is with whom he loves" was recorded by al-Bukhārī and Muslim. The speaker did not name the Companion of the story, and transmitted the story by meaning, while his saying ﷺ "A person is with whom he loves" is transmitted in its well-known wording.
+[^3]: Editor's documentation: The speaker's allusion to "al-ḥayawān" accords with the saying of the Exalted in Sūrat al-ʿAnkabūt, verse 64, and he did not recite the verse.
+[^4]: Editor's documentation: Sūrat al-Anʿām, verse 27, and the speaker limited himself to what appears in the body.

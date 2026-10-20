@@ -21,7 +21,7 @@ He created everything with perfection, with no mistakes. When someone looks in t
 
 Then comes the meaning of ordaining and guiding. At the very beginning of my life I tried to become a doctor, but God stopped me on that road and guided me to this college, this field, this city, this country, and finally to be sitting with you right now. Who guided me to be with you now? Had I followed my own direction from the beginning, I would be in a hospital somewhere else, dealing with people's bodies and seeing the same symptoms every day. But God moved me away from that field to something very different: instead of healing people's bodies, we try to heal their souls, their hearts, their minds.
 
-Who brought you here? God, glorified is He. Who guided you to be the principal, or the janitor, or the servant? God, subhanahu wa ta'ala. If you do not believe that, look at the grass on the street. Who made it grow? Who showed it to people, beautiful or ugly, however you see it? God is giving us a hint about what He is doing: He is doing everything, and we do nothing without His permission. For that reason we need to glorify Him.[^3]
+Who brought you here? God, glorified is He. Who guided you to be the principal, or the janitor, or the servant? God, subhanahu wa ta'ala. If you do not believe that, look at the grass on the street. Who made it grow? Who showed it to people, beautiful or ugly, however you see it? God is giving us a hint about what He is doing: He is doing everything, and we do nothing without His permission. For that reason we need to glorify Him.
 
 ### The guidance that completes it
 
@@ -37,6 +37,5 @@ So if you are given a chance to do something for the sake of God or for the sake
 
 We ask God to accept from all of us.
 
-[^1]: Editor's documentation: The speaker did not recite the verse in the transcript. The passage is apparently Surat al-A'la (87), "short surahs" being the series theme; this identification is the editor's.
-[^2]: Editor's documentation: The verses giving the reasons were not audible in the transcript; the speaker's three headings correspond, in the editor's reading, to Surat al-A'la 87:2-3 and the verse about pasture (87:4-5); the final section corresponds to 87:16-19, which the speaker also did not recite.
-[^3]: Editor's documentation: The words the speaker says after "we need to say" are not audible in the transcript, so no formula is quoted. The transcript also ends abruptly during the closing supplication.
+[^1]: Editor's documentation: The speaker did not recite the verse. The passage is apparently Surat al-A'la (87), "short surahs" being the series theme; this identification is the editor's.
+[^2]: Editor's documentation: The speaker's three headings correspond, in the editor's reading, to Surat al-A'la 87:2-3 and the verse about pasture (87:4-5); the final section corresponds to 87:16-19, which the speaker did not recite.

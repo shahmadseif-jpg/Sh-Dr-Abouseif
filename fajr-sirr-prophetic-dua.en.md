@@ -1,5 +1,5 @@
 ---
-title: "From the Secrets of the Prophetic Supplication"
+title: "Drawing Feeling from Words in the Opening of the Prayer"
 subtitle: "Drawing Feeling from Words: Pausing at \"Praise Be to Allah Abundantly\" and \"Glory Be to Allah Morning and Evening\" in the Opening of the Prayer"
 date: "2025-06-17"
 locale: "en"
@@ -43,4 +43,4 @@ I ask Allah, Glorified is He, to teach us the meaning of the words that are befo
 
 ---
 [^1]: Editor's documentation: The speaker cited the opening of the prayer gathered together in a single context without attribution; its wordings are found in separate narrations, among them «وجّهت وجهي للذي فطر السماوات والأرض…» in Ṣaḥīḥ Muslim, and «الله أكبر كبيرًا والحمد لله كثيرًا وسبحان الله بكرة وأصيلًا» in Abū Dāwūd and others.
-[^2]: Al-Inshiqāq: 6. Editor's documentation: The speaker cited the verse in a fragmentary context in the transcript, and the text of the sentence that preceded it did not appear.
+[^2]: Editor's documentation: Al-Inshiqāq: 6.

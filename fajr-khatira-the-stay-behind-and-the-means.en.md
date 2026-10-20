@@ -30,5 +30,5 @@ Then he brings the meaning close to our own situation and says: In this land All
 I ask Allah, Blessed and Exalted, to bless us and you in this noble day, to extend the means of provision into our hands and yours, to grant us and you the means of well-being, to accept from us our deeds, the righteous ones, and to forgive us our shortcomings in the right of His religion and His call. O Allah, amen.
 
 ---
-[^1]: Editor's documentation: al-Tawba 81. A colloquial phrase whose context was unclear was omitted from the body (it could not be determined whether it was a quotation of the discouragers' words or a comment). The verses are in the context of the expedition of Tabūk, which was not stated explicitly in the transcript (it has a garbled number after “expedition”).
-[^2]: Editor's documentation: al-Tawba 91 and 92. The clause «تولوا وأعينهم تفيض…» is from al-Tawba 92, and before it the transcript has «كلفني يا رسول الله», with unclear context, so it was not included.
+[^1]: Editor's documentation: al-Tawba 81. The verses are in the context of the expedition of Tabūk.
+[^2]: Editor's documentation: al-Tawba 91 and 92. The clause «تولوا وأعينهم تفيض…» is from al-Tawba 92.

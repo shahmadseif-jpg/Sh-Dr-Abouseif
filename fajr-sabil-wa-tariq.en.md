@@ -37,4 +37,4 @@ Then he supplicated: O Allah, make us steadfast, guide us, make us content, and 
 
 ---
 [^1]: Editor's documentation: Sūrat al-Furqān, verse 27.
-[^2]: Editor's documentation: The speaker hesitated over this example and commented that it does no harm if it is not correct; the location was not precisely verified in the transcript (see His words near the end of Sūrat al-Nisā': ﴿إِلَّا طَرِيقَ جَهَنَّمَ﴾).
+[^2]: Editor's documentation: The speaker hesitated over this example and commented that it does no harm if it is not correct (see His words near the end of Sūrat al-Nisā': ﴿إِلَّا طَرِيقَ جَهَنَّمَ﴾).

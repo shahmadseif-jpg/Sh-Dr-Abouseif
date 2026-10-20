@@ -31,8 +31,8 @@ I ask Allah, Blessed and Exalted, to keep for us the harmony of hearts, to prese
 
 ---
 [^1]: Editor's documentation: Sūrat Āl ʿImrān, verse 103.
-[^2]: Editor's documentation: Sūrat Āl ʿImrān, verse 102. The speaker recited it after verse 103 in the transcript.
-[^3]: Editor's documentation: Sūrat al-Rūm, verses 31–32 (some of their wording). It appears garbled in the transcript, with a reference to “al-Rūm”.
+[^2]: Editor's documentation: Sūrat Āl ʿImrān, verse 102. The speaker recited it after verse 103.
+[^3]: Editor's documentation: Sūrat al-Rūm, verses 31–32 (some of their wording).
 [^4]: Editor's documentation: Sūrat Āl ʿImrān, verses 104–105.
-[^5]: Editor's documentation: The verse in this wording is in Sūrat al-Muʾminūn, verse 52 (and in al-Anbiyāʾ 92 it has “fa-ʿbudūn”); the transcript is garbled in specifying its location.
+[^5]: Editor's documentation: The verse in this wording is in Sūrat al-Muʾminūn, verse 52 (and in al-Anbiyāʾ 92 it has “fa-ʿbudūn”).
 [^6]: Editor's documentation: Sūrat al-Ḥijr, verse 47.

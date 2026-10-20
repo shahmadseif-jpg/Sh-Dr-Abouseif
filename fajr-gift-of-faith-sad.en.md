@@ -31,4 +31,4 @@ And he concluded by asking Allah to grant us the delight of being aware of the b
 
 ---
 [^1]: Editor's documentation: Sūrat Ṣād, verse 54.
-[^2]: Editor's documentation: Sūrat Ṣād, verse 39. The transcript is garbled at the place of the verse («فمن أو امسك بغير حساب»), and the well-known text of the verse has been given as far as the speaker's words appeared.
+[^2]: Editor's documentation: Sūrat Ṣād, verse 39. The well-known text of the verse has been given as far as the speaker's words showed.

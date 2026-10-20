@@ -52,7 +52,7 @@ Then there comes after it: ﴿قُلْ هَلْ يَسْتَوِي الَّذِ�
 So I ask Allah to make us among the people of understanding, who become aware of their station to which Allah chose them and for whose task He delegated them, who see what is before them, and who listen well to the word and follow the best of it. O Allah, amen, O Lord of the worlds.
 
 ---
-[^1]: Editor's documentation: From Sūrat al-Zumar, verses 17–18. The speaker recited the verse in parts («فبشّر عباد … بشّر عبادي …») and then delivered it in full in the transcript.
+[^1]: Editor's documentation: From Sūrat al-Zumar, verses 17–18. The speaker recited the verse in parts («فبشّر عباد … بشّر عبادي …») and then delivered it in full.
 [^2]: Editor's documentation: From Sūrat Āl ʿImrān, verse 191; the speaker delivered the verse to the extent recorded.
 [^3]: Editor's documentation: From Sūrat al-Zumar, verse 19.
 [^4]: Editor's documentation: From Sūrat al-Zumar, verse 9; also from it is ﴿قُلْ هَلْ يَسْتَوِي الَّذِينَ يَعْلَمُونَ وَالَّذِينَ لَا يَعْلَمُونَ﴾ which he mentioned after it.

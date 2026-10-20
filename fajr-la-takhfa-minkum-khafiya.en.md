@@ -51,5 +51,5 @@ We ask Allah, glory be to Him, to bless us and you in what lies before us of ave
 
 ---
 [^1]: Editor's documentation: Sūrat al-Ḥāqqah, verse 18.
-[^2]: Editor's documentation: Sūrat al-Ḥāqqah, verse 19. The verse is quoted only as far as the speaker uttered it, and his recitation of it was unsteady in the transcript.
+[^2]: Editor's documentation: Sūrat al-Ḥāqqah, verse 19.
 [^3]: Editor's documentation: Sūrat al-Ḥāqqah, verse 21; and His words “indeed, I was certain that I would meet my account” are in verse 20.

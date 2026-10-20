@@ -13,7 +13,7 @@ O Allah, we ask You for the good of this day, the good of what is in it, and the
 
 ### From Glorification to Reckoning
 
-At the close of Sūrat al-Ghāshiyah, that sūrah which the Messenger of Allah ﷺ would often recite together with Sūrat al-Aʿlā, as though the two were a single whole of shared meanings and structures, inseparable[^1]: al-Aʿlā begins with glorification, ﴿سَبِّحِ اسْمَ رَبِّكَ الْأَعْلَى﴾ (“Glorify the name of your Lord, the Most High”), and al-Ghāshiyah ends with reckoning, ﴿إِنَّ إِلَيْنَا إِيَابَهُمْ ثُمَّ إِنَّ عَلَيْنَا حِسَابَهُمْ﴾ (“Indeed, to Us is their return; then indeed, upon Us is their reckoning”)[^4]. That is the beginning of the first sūrah, and this is the close of the second.
+At the close of Sūrat al-Ghāshiyah, that sūrah which the Messenger of Allah ﷺ would often recite together with Sūrat al-Aʿlā, as though the two were a single whole of shared meanings and structures, inseparable[^1]: al-Aʿlā begins with glorification, ﴿سَبِّحِ اسْمَ رَبِّكَ الْأَعْلَى﴾ (“Glorify the name of your Lord, the Most High”), and al-Ghāshiyah ends with reckoning, ﴿إِنَّ إِلَيْنَا إِيَابَهُمْ ثُمَّ إِنَّ عَلَيْنَا حِسَابَهُمْ﴾ (“Indeed, to Us is their return; then indeed, upon Us is their reckoning”)[^3]. That is the beginning of the first sūrah, and this is the close of the second.
 
 Together the two sūrahs take the servant on a cosmic journey toward the Hereafter: they take a person through the whole journey of this world and then carry him across into the Hereafter, to the Day of Decision. And "al-iyāb" is the return once more to the starting point one was in; "they will return to Us." This is a statement about the disbelievers, indeed about all human beings, and it is not an address to the Prophet ﷺ.
 
@@ -25,7 +25,7 @@ And I do not say this to speak about the realm of creed and the final destinies 
 
 ### Our Children and Our Own Experience
 
-I say this because it comes to my mind when I look at our children, whom we always see as lacking[^2]: they are still young, they do not make decisions well, they cannot act, they do not handle life well, and we do not give them as much trust as they deserve for leadership in the future. So we judge them by the judgment of our own minds and experiences, yet we do not know when Allah, exalted is He, will bring good their way.
+I say this because it comes to my mind when I look at our children, whom we always see as lacking: they are still young, they do not make decisions well, they cannot act, they do not handle life well, and we do not give them as much trust as they deserve for leadership in the future. So we judge them by the judgment of our own minds and experiences, yet we do not know when Allah, exalted is He, will bring good their way.
 
 And the simplest lesson we can take from our personal experiences: what was I before? When I was my son's age, at his age, what was I doing? How was I acting? How was my assessment of matters and my judgment of people? How were my impulses and my random behavior that drove my father and mother mad? I was many stages beyond them, and still I come today to judge others!
 
@@ -33,7 +33,7 @@ And the simplest lesson we can take from our personal experiences: what was I be
 
 And our Lord, glorified is He, addresses the greatest model and the pioneering Prophet who does not lie to his people ﷺ, saying: Remind; you are only a reminder; you are not over them a controller, neither in this world nor in the Hereafter; the outcome of all affairs is to Allah, glorified and exalted.
 
-Imagine people speaking about ʿUmar ibn al-Khaṭṭāb (may Allah be pleased with him) according to their judgment, assessment, view, and estimation: they say, "If al-Khaṭṭāb's donkey were to accept Islam, ʿUmar would not accept Islam"[^3]. That is: if the animal, which by its nature does not know how to act or deal with life, were to rise above that and understand, grasp, comprehend, and feel, and so accept Islam, ʿUmar would still be very far from this matter, as though, in their eyes, he lagged far behind even the world of the donkey itself. And then, behold, ʿUmar ibn al-Khaṭṭāb (may Allah be pleased with him) became the leader and pioneer of administration in all the sciences of life, one of the foremost heads of the administrative sciences, laying the foundations of the science of administration from its beginning to its end, and everything that came after is only branches of what ʿUmar (may Allah be pleased with him) established.
+Imagine people speaking about ʿUmar ibn al-Khaṭṭāb (may Allah be pleased with him) according to their judgment, assessment, view, and estimation: they say, "If al-Khaṭṭāb's donkey were to accept Islam, ʿUmar would not accept Islam"[^2]. That is: if the animal, which by its nature does not know how to act or deal with life, were to rise above that and understand, grasp, comprehend, and feel, and so accept Islam, ʿUmar would still be very far from this matter, as though, in their eyes, he lagged far behind even the world of the donkey itself. And then, behold, ʿUmar ibn al-Khaṭṭāb (may Allah be pleased with him) became the leader and pioneer of administration in all the sciences of life, one of the foremost heads of the administrative sciences, laying the foundations of the science of administration from its beginning to its end, and everything that came after is only branches of what ʿUmar (may Allah be pleased with him) established.
 
 And you may see one of the young men charging about in the world of immorality and corruption, and then today he is a great caller to Allah, speaking to people of guidance and benefit.
 
@@ -47,6 +47,5 @@ And this, by Allah, my brothers, we find in every one of us: each of us marks th
 
 ---
 [^1]: Editor's documentation: What is known from the Sunnah is that he ﷺ recited al-Aʿlā and al-Ghāshiyah in the Friday prayer and the two ʿEid prayers (Ṣaḥīḥ Muslim). The speaker said "he would often recite al-Aʿlā and al-Ghāshiyah" and did not specify the occasion.
-[^2]: Editor's documentation: The transcript's wording here («في الكف الناقص») is garbled; only the general meaning has been retained.
-[^3]: Editor's documentation: The saying is reported as the speaker related it, as what people said about ʿUmar before his conversion to Islam; I have not found a firmly established attribution for it.
-[^4]: Editor's documentation: [al-Aʿlā: 1], [al-Aʿlā: 2–3], [al-Ghāshiyah: 21–22], [al-Ghāshiyah: 25–26].
+[^2]: Editor's documentation: The saying is reported as the speaker related it, as what people said about ʿUmar before his conversion to Islam; I have not found a firmly established attribution for it.
+[^3]: Editor's documentation: [al-Aʿlā: 1], [al-Aʿlā: 2–3], [al-Ghāshiyah: 21–22], [al-Ghāshiyah: 25–26].
