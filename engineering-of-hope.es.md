@@ -97,7 +97,7 @@ Y el Corán —en este su orden— no se contenta con la promesa abstracta, sino
 
 > «Y ciertamente la otra vida es mejor para ti que la primera.» [al-Ḍuḥā: 4]
 
-Es el resumen de todas las leyes: que los finales de Dios son más misericordiosos que sus comienzos, que sus desenlaces son más dulces que sus aperturas, y que quien confió en Él no se arrepintió. Así que si se cierra sobre ti una envolvente, tranquilízate, pues Dios, que ordenó las suras así, te ha escrito un alba tras ella —por más que se prolongue tu noche.
+Es el resumen de todas las leyes: que los finales de los decretos de Dios son más misericordiosos que sus comienzos, que sus desenlaces son más dulces que sus aperturas, y que quien confió en Él no se arrepintió. Así que si se cierra sobre ti una envolvente, tranquilízate, pues Dios, que ordenó las suras así, te ha escrito un alba tras ella —por más que se prolongue tu noche.
 
 Y en los próximos episodios de esta serie, abordaremos —con el permiso de Dios— otros ángulos de las albricias del Corán: en los cierres de las suras, en las albricias de los profetas en la adversidad, y en el ritmo coránico entre la dificultad y la facilidad.
 

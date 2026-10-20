@@ -86,7 +86,7 @@ In another hadith, likewise related by Anas, recorded by al-Tirmidhī (no. 2499)
 
 *"Every son of Adam is prone to error, and the best of those who err are those who repent often."*
 
-This hadith connects directly with the Qurʾan's own wording, in its description of the believers' attributes: ﴿التَّائِبُونَ الْعَابِدُونَ الْحَامِدُونَ...﴾ (9:112), "Those who repent, who worship, who praise…" The Prophet ﷺ makes "the penitent," and not "the infallible," the best of the children of Adam. In this religion the measure of excellence is not freedom from error, but swiftness of return after error.
+This hadith connects directly with the Qurʾan's own wording, in its description of the believers' attributes: ﴿التَّائِبُونَ الْعَابِدُونَ الْحَامِدُونَ...﴾ (9:112), "Those who repent, who worship, who praise…" The Prophet ﷺ makes "the penitent" the best of those among the children of Adam who err. Among them the measure of excellence is not freedom from error, but swiftness of return after error.
 
 ### From the Sayings of the People of Knowledge
 

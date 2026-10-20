@@ -135,7 +135,7 @@ In a time like ours, we have a possible joy, if we parse rightly:
 - Grief over brethren who divided, until their conflict among themselves grew fierce while their enemy watched.
 - Grief over a community that forgot its station in the parsing — and now speaks a speech whose grammar it does not understand.
 
-I ask Allah to make us of those who know their station: not actors without a scale, nor objects acted upon without awareness. And to grant us the joy of believers at His help, the grief of believers at what saddens Him, and the steadfastness of believers upon what pleases Him.
+I ask Allah to make us of those who know their station: not actors without a scale, nor objects acted upon without awareness. And to grant us the joy of believers at His help, the grief of believers at what angers Him, and the steadfastness of believers upon what pleases Him.
 
 And may Allah's blessings, peace, and benedictions be upon our Prophet Muḥammad, his family, and his Companions.
 

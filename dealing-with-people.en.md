@@ -21,7 +21,7 @@ If you want to determine your standing with someone, then your Lord, glorified a
 
 ### Moses and al-Khiḍr, peace be upon them both
 
-Moses, peace and blessings be upon him, was tried by Allah the Exalted at one stage of his life with al-Khiḍr, who in effect told him that he knew nothing, and that was indeed the truth. Even though Moses, peace be upon him, had a great standing with Allah, a great standing in knowledge, a great standing among people, and a great standing in society, he was nonetheless tried by one who said to him: Stop for a while. Stop for a while to spare yourself a self-deception that takes you where your Lord does not want you to go; stop for a while to increase in knowledge with which your Lord is pleased for you.
+Moses, peace and blessings be upon him, was tried by Allah the Exalted at one stage of his life with al-Khiḍr, who in effect told him that he did not know everything, and that was indeed the truth. Even though Moses, peace be upon him, had a great standing with Allah, a great standing in knowledge, a great standing among people, and a great standing in society, he was nonetheless tried by one who said to him: Stop for a while. Stop for a while to spare yourself a self-deception that takes you where your Lord does not want you to go; stop for a while to increase in knowledge with which your Lord is pleased for you.
 
 ### Learn from Every Kind
 

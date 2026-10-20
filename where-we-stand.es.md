@@ -121,7 +121,7 @@ Y nosotros en un tiempo como este, tenemos una alegría posible, si hacemos bien
 - Una tristeza por hermanos que se dispersaron, y se volvió su rigor entre ellos severo, y su enemigo mira el espectáculo.
 - Una tristeza por una comunidad que olvidó su posición en el análisis sintáctico, y se volvió como quien habla con un habla cuya gramática no comprende.
 
-Pido a Dios que nos haga de los que conocieron su posición: ni actores sin balanza, ni objetos pasivos sin consciencia. Y que nos provea la alegría de los creyentes por Su victoria, la tristeza de los creyentes por lo que Le entristece, y la firmeza de los creyentes en lo que Le complace.
+Pido a Dios que nos haga de los que conocieron su posición: ni actores sin balanza, ni objetos pasivos sin consciencia. Y que nos provea la alegría de los creyentes por Su victoria, la tristeza de los creyentes por lo que Le disgusta, y la firmeza de los creyentes en lo que Le complace.
 
 Y que Dios bendiga y salude abundantemente a nuestro Profeta Muhammad, y a su familia y sus Compañeros.
 

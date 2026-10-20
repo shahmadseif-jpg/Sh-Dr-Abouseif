@@ -107,7 +107,7 @@ The Qur'an — in this sequence of its — is not content with the abstract prom
 
 > ﴾And the Hereafter is better for you than the first life﴿ [Al-Ḍuḥā: 4]
 
-This is the distillation of all the patterns: that God's endings are more merciful than His beginnings, that His conclusions are sweeter than His openings, and that whoever trusts in Him does not regret it. So if an Overwhelming closes upon you, be at peace — for the God who arranged the sūras this way has written for you a dawn after it, no matter how long your night.
+This is the distillation of all the patterns: that the endings of God's decrees are more merciful than their beginnings, that their conclusions are sweeter than their openings, and that whoever trusts in Him does not regret it. So if an Overwhelming closes upon you, be at peace — for the God who arranged the sūras this way has written for you a dawn after it, no matter how long your night.
 
 In the coming episodes of this series, we shall — God willing — explore other angles of the Qur'an's glad tidings: in the closings of the sūras, in the tidings given to prophets at their hardest moments, and in the Qur'anic rhythm between hardship and ease.
 

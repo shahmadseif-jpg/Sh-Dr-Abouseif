@@ -86,7 +86,7 @@ En otro hadiz, también transmitido por Anas, recogido por al-Tirmidhī (n.º 24
 
 *«Todo hijo de Adán yerra a menudo, y los mejores de los que yerran son los que más se arrepienten.»*
 
-Este hadiz enlaza directamente con la propia expresión coránica en la descripción de los atributos de los creyentes: ﴿التَّائِبُونَ الْعَابِدُونَ الْحَامِدُونَ...﴾ (9:112), «Los que se arrepienten, los que adoran, los que alaban…». El Profeta ﷺ hace de «los penitentes», y no de «los infalibles», los mejores de los hijos de Adán. En esta religión, la medida de la excelencia no es estar libre de error, sino la presteza en el regreso tras el error.
+Este hadiz enlaza directamente con la propia expresión coránica en la descripción de los atributos de los creyentes: ﴿التَّائِبُونَ الْعَابِدُونَ الْحَامِدُونَ...﴾ (9:112), «Los que se arrepienten, los que adoran, los que alaban…». El Profeta ﷺ hace de «los penitentes» los mejores de entre los hijos de Adán que yerran. Entre ellos, la medida de la excelencia no es estar libre de error, sino la presteza en el regreso tras el error.
 
 ### De los dichos de la gente del saber
 
