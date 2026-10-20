@@ -1,6 +1,6 @@
 ## When the Stranger Falls Ill Alone
 
-This feeling is familiar to many Muslims in the West: you wake to an unusual pain and think twice before calling the doctor. Not because the pain is manageable, but because you know that one night in an American emergency room can run to twenty thousand dollars. So you treat yourself with prayer and ibuprofen, delay the visit, and remain suspended in a quiet dread.
+This feeling is familiar to many Muslims in the West: you wake to an unusual pain and think twice before calling the doctor. Not because the pain is manageable, but because you know that one night in an American emergency room can run to twenty thousand dollars. So you treat yourself with prayer and paracetamol, delay the visit, and remain suspended in a quiet dread.
 
 Then comes the moment that allows no delay: a car accident, a sudden diagnosis, a bone broken on the playground. You find yourself looking at a bill with numbers you can barely read. Or you think about what becomes of your family if you disappear one day, leaving behind only memory and debt.
 
@@ -96,7 +96,7 @@ If one accepts that commercial insurance is permissible within the limits of gen
 
 **Third — limit to the measure of genuine need.** A health plan covering essentials, not the premium tier with maximum coverage unless there is a clear medical necessity. The distinction between necessity and comfort remains a useful criterion in every case.
 
-**Fourth — continue seeking the alternative.** The dispensation is conditional on the unavailability of the Sharia-compliant option. If takaful becomes available in the future on fair terms, transitioning to it at the earliest reasonable opportunity is strongly recommended.
+**Fourth — continue seeking the alternative.** The dispensation is conditional on the unavailability of the Sharia-compliant option. If takaful becomes available in the future on fair terms, transitioning to it at the earliest reasonable opportunity is recommended.
 
 ---
 

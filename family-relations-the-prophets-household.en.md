@@ -19,7 +19,7 @@ And on the opposite side, if we imagine the same scene: the brother, may Allah o
 
 ### The Prophet ﷺ and His Wives: No Violence and No Shouting
 
-The Prophet ﷺ, when he married one of his wives and stayed with her three nights and wanted to move to some of his other wives, she said to him: Stay with me a week. So he said to her: «لو سبّعتُ لكِ لسبّعتُ لبقية النساء» ("If I were to give you seven, I would give seven to the rest of the women").[^1] So what do you think? Is there violence in these words? Is there a raised voice? Is there reason? We have not yet begun a new life! This is the basic principle: that a kind of dealing happens between the man and the woman by reason, by intellect, by kindness, by wisdom, by calm.
+When the Prophet ﷺ married one of his wives and stayed with her three nights and wanted to move to some of his other wives, she said to him: Stay with me a week. So he said to her: «لو سبّعتُ لكِ لسبّعتُ لبقية النساء» ("If I were to give you seven, I would give seven to the rest of the women").[^1] So what do you think? Is there violence in these words? Is there a raised voice? Is there reason? We have not yet begun a new life! This is the basic principle: that a kind of dealing happens between the man and the woman by reason, by intellect, by kindness, by wisdom, by calm.
 
 And I asked a question yesterday: Has a single report reached you, from among those that some people transmit, sound or weak or fabricated or otherwise, that the Prophet ﷺ was harsh with his wives? And mind this, our brothers, I am speaking from the very same side that we are all on: we are men, like one another.
 

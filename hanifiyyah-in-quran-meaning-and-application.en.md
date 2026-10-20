@@ -117,7 +117,7 @@ From these readings taken together emerges a portrait of the true seeker of ḥa
 ﴿مُخْلِصِينَ لَهُ الدِّينَ حُنَفَاءَ﴾ (98:5)
 *"…sincere to Him in religion, as ḥunafāʾ."*
 
-Nor does his sincerity stop at the boundary of belief. It widens, as Abraham's own direction widened when he said "I have turned my face," to embrace every avenue of life, and no single rite alone. At the same time, he does not confuse the severity owed to the root of belief with the tolerance owed to the branches of dealing, hardening in matters of monotheism while lax with himself in his dealings, or doing the reverse and losing the balance either way. And what distinguishes him last is steadfastness before the pressure of inherited custom, as Abraham parted from his father and his people in pursuit of truth. Ḥanīfiyyah, for him, is a trial to be faced anew in every generation, and no description inherited automatically.
+Nor does his sincerity stop at the boundary of belief. It widens, as Abraham's own direction widened when he said "I have turned my face," to embrace every avenue of life, and no single rite alone. At the same time, he does not confuse the severity owed to the root of belief with the tolerance owed to the branches of dealing, hardening in matters of monotheism while being lax with himself in his dealings, or doing the reverse and losing the balance either way. And what distinguishes him last is steadfastness before the pressure of inherited custom, as Abraham parted from his father and his people in pursuit of truth. Ḥanīfiyyah, for him, is a trial to be faced anew in every generation, and no description inherited automatically.
 
 ### Conclusion
 

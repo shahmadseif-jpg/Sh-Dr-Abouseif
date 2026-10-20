@@ -144,6 +144,6 @@ Estas tres preguntas —si te acostumbras a ellas— transforman tu relación co
 
 ---
 
-*Lo escribió el imam Dr. Ahmed Muhammad Ali Abouseif — doctor en exégesis y ciencias del Corán por la Universidad de al-Azhar, exdirector de la Administración General de la Orientación Religiosa en el Ministerio de Legados Egipcio, y fundador y presidente de la Academia Americana de los Imanes en Plano-Texas.*
+*Lo escribió el imam Dr. Ahmed Muhammad Ali Abouseif — doctor en exégesis y ciencias del Corán por la Universidad de al-Azhar, exdirector de la Administración General de la Orientación Religiosa en el Ministerio de Legados Egipcio, y fundador y presidente de la Academia Americana de los Imames en Plano-Texas.*
 
 *El cuarto y último episodio de la serie «El imam en Occidente — una escuela para la fabricación del líder».*

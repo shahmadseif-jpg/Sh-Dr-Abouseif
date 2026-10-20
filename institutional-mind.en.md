@@ -121,7 +121,7 @@ Then choose one disease you all agree is the most dangerous, and work on remedyi
 
 | Episode | Title |
 |---------|-------|
-| One | From Leading the Prayer to Leading the Ummah |
+| One | From Leading the Prayer to Leading the Community |
 | Two | Crafting the Modern Imam: Knowledge, Management, and Pastoral Containment |
 | **Three (this episode)** | **Why Western Mosques Need an Institutional Mind?** |
 | Four (forthcoming) | The Imam Between Individual Fatwa and Collective Voice |

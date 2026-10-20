@@ -56,7 +56,7 @@ What changed in the West that caused this system to collapse? Four things change
 
 **The third — the attention economy**: digital platforms reward sensational content, not balanced content. The fatwa that says "permissible, but…" does not spread; the fatwa that declares "absolutely forbidden!" gathers millions. An implicit competition arises around **excessive strictness** as a form of "intellectual marketing," or around **excessive permissiveness** as a form of "mass appeal." In both cases, **the balanced, investigated fatwa disappears**, because — simply — it gathers no followers. **And the algorithm does not distinguish between the scholar and the influencer**.
 
-**The fourth — the new Muslim and the bewildered second generation**: in every mosque in America, I find new Muslims and second-generation children receiving their daily questions through TikTok, Reddit, and Discord groups. Fatwa for them is no longer a reference, but **an option in a list**. Each person picks what agrees with his inclination or quiets his conscience, and fatwa no longer occupies its place as Sharia ruling but as opinion in a marketplace of views. **The second generation lives not a crisis of information, but a crisis of authority**. This is a structural transformation that deserves pause.
+**The fourth — the new Muslim and the bewildered second generation**: in every mosque in America, I find new Muslims and second-generation children receiving their daily questions through TikTok, Reddit, and Discord groups. Fatwa for them is no longer a reference, but **an option in a list**. Each person picks what agrees with his inclination or quiets his conscience, and fatwa no longer occupies its place as a Sharia ruling but as an opinion in a marketplace of views. **The second generation lives not a crisis of information, but a crisis of authority**. This is a structural transformation that deserves pause.
 
 ---
 
@@ -91,7 +91,7 @@ It is by good fortune — and God's wondrous decree — that this episode is bei
 In Episode One we said: the imam in the West is not an individual but the leader of a community.
 In Episode Two we said: he is not made by knowledge alone, but by knowledge + management + pastoral containment.
 In Episode Three we said: his crafting is not enough; an institution must bear the burden with him.
-In this fourth episode we close with the governing principle: **The imam who knows the limits of his individual fatwa, and who enters into the voice of the scholarly collective, is the one who serves the ummah**.
+In this fourth episode we close with the governing principle: **The imam who knows the limits of his individual fatwa, and who enters into the voice of the scholarly collective, is the only one who serves the ummah**.
 
 For the self-deifying imam — who sees himself as a sole authority, who never refers a question, who never stops at a matter — this imam, however lofty his learning, **is a danger to the community** before being its leader. And the humble imam — who knows what he knows and what he does not, refers, consults, and pauses — this imam, however modest his learning, **is better for his ummah** than the former.
 

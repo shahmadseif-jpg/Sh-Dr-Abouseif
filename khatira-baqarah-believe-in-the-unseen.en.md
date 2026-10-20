@@ -27,7 +27,7 @@ Then he paused at ﴿وَيُقِيمُونَ الصَّلَاةَ﴾, "and they
 
 He noted that the opening of al-Baqarah presents three groups: the believers, the disbelievers, and the hypocrites. Of the hypocrites God says: ﴿وَإِذَا قِيلَ لَهُمْ آمِنُوا كَمَا آمَنَ النَّاسُ قَالُوا أَنُؤْمِنُ كَمَا آمَنَ السُّفَهَاءُ﴾, "and when it is said to them, 'Believe as the people have believed,' they say, 'Shall we believe as the fools have believed?'"[^2] He paused over the word *sufahā'* ("fools"): what we want to know here, he said, is how they see us, how they look at us, meaning the Muslims.
 
-That led him to the speech of Noah's people: ﴿مَا نَرَاكَ اتَّبَعَكَ إِلَّا الَّذِينَ هُمْ أَرَاذِلُنَا بَادِيَ الرَّأْيِ وَمَا نَرَىٰ لَكُمْ عَلَيْنَا مِن فَضْلٍ بَلْ نَظُنُّكُمْ كَاذِبِينَ﴾, "We see none following you except those who are the lowest among us, at first glance, and We do not see in you any superiority over us; rather, we think you are liars."[^3]
+That led him to the speech of Noah's people: ﴿مَا نَرَاكَ اتَّبَعَكَ إِلَّا الَّذِينَ هُمْ أَرَاذِلُنَا بَادِيَ الرَّأْيِ وَمَا نَرَىٰ لَكُمْ عَلَيْنَا مِن فَضْلٍ بَلْ نَظُنُّكُمْ كَاذِبِينَ﴾, "We see none following you except those who are the lowest among us, at first glance, and we do not see in you any superiority over us; rather, we think you are liars."[^3]
 
 ---
 [^1]: Sūrat al-Baqarah: 2–4. Editor's documentation: The English translation of the verses is the editor's.

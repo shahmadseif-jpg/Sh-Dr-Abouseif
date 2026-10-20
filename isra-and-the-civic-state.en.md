@@ -163,7 +163,7 @@ Note the precision of the description:
 - **"That you might invent against Us other than it"**: what is asked is a modification of the text itself.
 - **"And in that case they would have taken you as a close friend"**: the reward is "friendship" — acceptance, belonging.
 
-This is the pressure of **compromise rewarded by conditional friendship**. It is the most dangerous pressure facing the Muslim in non-home lands: "Modify a little, and we will accept you much." The Qur'an describes that this pressure nearly affected even the Prophet ﷺ — were it not for divine strengthening.
+This is the pressure of **compromise rewarded by conditional friendship**. It is the most dangerous pressure facing the Muslim in non-home lands: "Modify a little, and we will accept you much." The Qur'an describes how this pressure nearly affected even the Prophet ﷺ — were it not for divine strengthening.
 
 **The Contemporary Application**: The mosque that receives conditional funding, the imam invited to Muslim-government commissions with an implicit condition, the institution that avoids legal positions because they are "sensitive" in the public sphere — all of these experience the pressure of compromise. And the Qur'anic lesson: **it is strengthening that preserves, not methodological cleverness alone**.
 
@@ -175,7 +175,7 @@ This is the pressure of **compromise rewarded by conditional friendship**. It is
 
 The grammatical analysis of this text reveals the Qur'an's language in describing the most extreme pressure:
 
-- **"Drive you out"**: harassment is repeated harassment with a specific aim.
+- **"Drive you out"**: provocation (*istifzāz*) is repeated harassment with a specific aim.
 - **"From the land"**: the geographic position, i.e., spatial expulsion.
 - **"To expel you"**: the final goal.
 - **"They would not have remained after you except a little"**: the consequences of this act are cosmic, not deferred.

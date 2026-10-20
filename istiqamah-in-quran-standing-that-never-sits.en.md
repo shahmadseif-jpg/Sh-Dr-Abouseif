@@ -14,7 +14,7 @@ Abū Bakr (may God be pleased with him) saw white hairs in the beard of the Prop
 
 *“Hūd and its sisters have turned me grey.”*[^1]
 
-Which verse in Sūrat Hūd was so heavy that it drew grey into the face of one who does not speak from mere desire? According to more than one commentator on this hadith, the answer is a single verse:
+Which verse in Sūrat Hūd was so heavy that it drew grey into the face of one who does not speak from mere desire? According to most of those who have commented on this hadith, the answer is a single verse:
 
 ﴿فَاسْتَقِمْ كَمَا أُمِرْتَ وَمَنْ تَابَ مَعَكَ وَلَا تَطْغَوْا﴾ (11:112)
 
@@ -30,7 +30,7 @@ This circle alone is our direct verbal witness. “Establishing the prayer” (*
 
 ### From the Standing of the Body to the Standing of the Heart
 
-The root sense of q-w-m is to be erect and standing, the opposite of falling, prostrating or sitting. One says *qāma al-rajul* when a man rises upright after sitting or lying down. The pattern *istafʿala* in *istaqāma* carries the sense of seeking and striving: that a person strive to attain this uprightness for himself and to preserve it, rather than its being a state that befalls him by chance. So *istaqāma al-ṭarīq* is said of a road that does not bend, and *istaqāma al-rajul ʿalā al-amr* of a man who holds to a matter and veers from it neither to right nor to left. Hence *istiqāmah* in a human being is something like an inward standing of the heart answering to the outward standing of the body. As the body stands erect and does not stoop, so the heart stands upright upon the truth and does not incline.
+The root sense of q-w-m is to be erect and standing, the opposite of falling, lying flat or sitting. One says *qāma al-rajul* when a man rises upright after sitting or lying down. The pattern *istafʿala* in *istaqāma* carries the sense of seeking and striving: that a person strive to attain this uprightness for himself and to preserve it, rather than its being a state that befalls him by chance. So *istaqāma al-ṭarīq* is said of a road that does not bend, and *istaqāma al-rajul ʿalā al-amr* of a man who holds to a matter and veers from it neither to right nor to left. Hence *istiqāmah* in a human being is something like an inward standing of the heart answering to the outward standing of the body. As the body stands erect and does not stoop, so the heart stands upright upon the truth and does not incline.
 
 ### One Standing, Three Stages
 
