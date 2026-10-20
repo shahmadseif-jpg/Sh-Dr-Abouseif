@@ -15,7 +15,7 @@ Yusuf (peace be upon him) arrived in Egypt as a boy, taken from his land, his fa
 
 ### Character before everything
 
-From the beginning, even as a child, Yusuf gave the impression of what he had received from his family, who were the source of his morals and his ethics. When the lady of the house tried to draw him toward what was wrong, it ran against his manners and against what he had been raised on. He kept all this inside and showed the people around him what identity he carried.
+From the beginning, even as a child, Yusuf showed what he had received from his family, who were the source of his morals and his ethics. When the lady of the house tried to draw him toward what was wrong, it ran against his manners and against what he had been raised on. He kept all this inside and showed the people around him what identity he carried.
 
 That character carried him into prison. And what wrong did Yusuf do there? You will find none. You will find him trying to help every person around him; everybody who came to him with a need found benefit, advice, and the example of a great man living among them. People came to him for help, one asking one question and another asking another, and he answered immediately by interpreting their dreams.[^1] He did not say, "I've had a hard time, I am here in an unjust situation." He claimed nothing for himself. He went straight to his mission among them.
 

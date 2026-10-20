@@ -25,7 +25,7 @@ They say: *Our Lord, You did not create this without a purpose.*[^2] It means Go
 
 Their eyes look around all the time, thinking about everything. But why do they do it? What is the reason? They are worried about the Fire that comes at the end of this life. The Fire comes because of mistakes; the punishment comes because of mistakes. What kind of mistake are they worried about? You know that crime: stopping thinking. Once we stop thinking, we are committing that crime, and we deserve the Fire.
 
-Some people say: once we are praying and fasting, we are safe on the Day of Judgment. But all of these are ways and tools that make you strong enough to do something in this world.
+Some people say: as long as we are praying and fasting, we are safe on the Day of Judgment. But all of these are ways and tools that make you strong enough to do something in this world.
 
 ### The power of the night
 
