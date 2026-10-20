@@ -41,4 +41,4 @@ And many of the callers to Allah and speakers have been preoccupied by new event
 
 ---
 [^1]: Editor's documentation: Sūrat al-Ṭūr, verse 26. His words "the God-fearing are in gardens and bliss" refer to verse 17 of the same surah.
-[^2]: Editor's documentation: Sūrat al-Rūm, verse 21. At the beginning of the transcript the speaker made a slip of the tongue, saying "Sūrat Ṭāhā" and then correcting himself: "Pardon me, Sūrat al-Ṭūr."
+[^2]: Editor's documentation: Sūrat al-Rūm, verse 21.

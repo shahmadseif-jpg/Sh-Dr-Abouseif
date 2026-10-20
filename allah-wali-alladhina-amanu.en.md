@@ -57,5 +57,5 @@ I ask Allah, Blessed and Exalted, to inspire us with right guidance, to make us 
 
 ---
 [^1]: Editor's documentation: al-Baqara, verse 257. The verses that follow in the same context: 258 (the one who argued with Abraham), 259 (the one who passed by a township), 260 (Abraham's request to see the giving of life to the dead); the verse of spending is 254, and Āyat al-Kursī is 255.
-[^2]: Editor's documentation: The ḥadīth in this meaning is in the Sunan of Abū Dāwūd, al-Tirmidhī and Ibn Mājah, and the speaker conveyed it by meaning. In the transcript there is some disorder in certain wordings of the sentence.
+[^2]: Editor's documentation: The ḥadīth in this meaning is in the Sunan of Abū Dāwūd, al-Tirmidhī and Ibn Mājah, and the speaker conveyed it by meaning.
 [^3]: Editor's documentation: al-Muzzammil, verses 2, 6, 7 and 20. The completion of verse 260 of al-Baqara: ﴿قَلْبِي﴾ (“my heart”), was not uttered by the speaker.

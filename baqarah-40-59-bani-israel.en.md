@@ -73,7 +73,7 @@ They did not acknowledge, nor did they avow before Allah, blessed and exalted, t
 
 ---
 [^1]: Al-Baqarah: 40. Editor's documentation: The speaker mentioned that the stopping point yesterday was at verse 39 of al-Baqarah, and that the address to the Children of Israel begins with verse 40.
-[^2]: Al-Baqarah: 40. Editor's documentation: The remainder of the verse, ﴿وَإِيَّايَ فَارْهَبُونِ﴾ (and Me alone, fear Me), did not appear in the transcript and so is not set down in the body.
+[^2]: Al-Baqarah: 40. Editor's documentation: The remainder of the verse, ﴿وَإِيَّايَ فَارْهَبُونِ﴾ (and Me alone, fear Me).
 [^3]: Al-Aʿrāf: 172.
 [^4]: Al-Baqarah: 41. What the speaker mentioned of the verse has been set down.
 [^5]: Al-Zukhruf: 31.
@@ -92,7 +92,7 @@ They did not acknowledge, nor did they avow before Allah, blessed and exalted, t
 [^18]: Al-Baqarah: 54.
 [^19]: Al-Ṣāffāt: 102.
 [^20]: Al-Ṣāffāt: 102.
-[^21]: Al-Baqarah: 54. Editor's documentation: The remainder of the verse, ﴿إِنَّهُ هُوَ التَّوَّابُ الرَّحِيمُ﴾ (Indeed, it is He who is the Accepting of repentance, the Merciful), was not clear in the transcript.
+[^21]: Al-Baqarah: 54. Editor's documentation: The remainder of the verse, ﴿إِنَّهُ هُوَ التَّوَّابُ الرَّحِيمُ﴾ (Indeed, it is He who is the Accepting of repentance, the Merciful).
 [^22]: Al-Baqarah: 55.
 [^23]: Al-Baqarah: 55.
 [^24]: Al-Baqarah: 56.

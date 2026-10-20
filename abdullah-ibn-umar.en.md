@@ -25,9 +25,9 @@ If we stop here for a moment: did Ibn ʿUmar love to stand out among people, so 
 
 ### The Young Man Who Grew Up in Obedience to Allah
 
-He says: And I was a young lad. And let us remember here: Abdullah ibn Umar is a young man who grew up in obedience to Allah. Imagine that he entered Islam at the time his father entered, and the journey is complete. The Prophet ﷺ, at the beginning of the era of the call, had raised his hand to the sky: O Allah, strengthen Islam with one of the two ʿUmars,[^2] so our master ʿUmar ibn al-Khaṭṭāb entered Islam while his son was still small, around seven or eight years old according to estimates.[^3] And there begins the stage of growth and mental and psychological maturity and the heart's comprehension, so he grew up in the hands of the Prophet ﷺ and in the hands of his father. And we know very well the difference between ʿUmar ibn al-Khaṭṭāb who was in the Jāhiliyyah and ʿUmar ibn al-Khaṭṭāb who entered Islam and whose heart Allah the Exalted purified with this monotheism.
+He says: And I was a young lad. And let us remember here: Abdullah ibn Umar is a young man who grew up in obedience to Allah. Imagine that he entered Islam at the time his father entered, and the journey is complete. The Prophet ﷺ, at the beginning of the era of the call, had raised his hand to the sky: O Allah, strengthen Islam with one of the two ʿUmars,[^2] so our master ʿUmar ibn al-Khaṭṭāb entered Islam while his son was still small, around seven or eight years old according to estimates. And there begins the stage of growth and mental and psychological maturity and the heart's comprehension, so he grew up in the hands of the Prophet ﷺ and in the hands of his father. And we know very well the difference between ʿUmar ibn al-Khaṭṭāb who was in the Jāhiliyyah and ʿUmar ibn al-Khaṭṭāb who entered Islam and whose heart Allah the Exalted purified with this monotheism.
 
-He says: And I used to sleep in the mosque. And some say that Ibn ʿUmar used to sleep in the mosque out of his great love for obedience, so he did not even like to leave the house of Allah, blessed and exalted, as far as he could. He says: And I used to sleep in the mosque in the time of the Messenger of Allah ﷺ, and I saw in sleep as if two angels took me and went with me to the Fire, and it was folded like the folding of a well, and it had two horns, and in it were people whom I knew. So I began to say: I seek refuge in Allah from the Fire, I seek refuge in Allah from the Fire. He said: Then another angel met us and said to me: You shall not be frightened, that is, there is no fear for you, no harm for you. He says: So I related it to Ḥafṣah, and Ḥafṣah related it to the Messenger of Allah ﷺ, and the Prophet ﷺ said: «نعم الرجل عبد الله لو كان يصلّي من الليل. نعم الرجل عبد الله لو كان يصلّي من الليل» ("What an excellent man Abdullah is, if only he would pray at night. What an excellent man Abdullah is, if only he would pray at night.").[^4]
+He says: And I used to sleep in the mosque. And some say that Ibn ʿUmar used to sleep in the mosque out of his great love for obedience, so he did not even like to leave the house of Allah, blessed and exalted, as far as he could. He says: And I used to sleep in the mosque in the time of the Messenger of Allah ﷺ, and I saw in sleep as if two angels took me and went with me to the Fire, and it was folded like the folding of a well, and it had two horns, and in it were people whom I knew. So I began to say: I seek refuge in Allah from the Fire, I seek refuge in Allah from the Fire. He said: Then another angel met us and said to me: You shall not be frightened, that is, there is no fear for you, no harm for you. He says: So I related it to Ḥafṣah, and Ḥafṣah related it to the Messenger of Allah ﷺ, and the Prophet ﷺ said: «نعم الرجل عبد الله لو كان يصلّي من الليل. نعم الرجل عبد الله لو كان يصلّي من الليل» ("What an excellent man Abdullah is, if only he would pray at night. What an excellent man Abdullah is, if only he would pray at night.").[^3]
 
 ### Between the Dream and Its Interpretation
 
@@ -41,7 +41,7 @@ And for that reason we always said on the television channels: Brothers, we beg 
 
 ### Ḥafṣah's Testimony
 
-Then Ḥafṣah narrates from the Prophet ﷺ that he used to testify for Abdullah ibn Umar that he is a righteous man, so he says: Abdullah is a righteous man.[^5]
+Then Ḥafṣah narrates from the Prophet ﷺ that he used to testify for Abdullah ibn Umar that he is a righteous man, so he says: Abdullah is a righteous man.[^4]
 
 ### His Generosity and Munificence
 
@@ -53,7 +53,7 @@ And to begin, I mention a narration saying: Ibn ʿUmar never sat down to a dinne
 
 ### The Story of the Dirhams and the Fodder
 
-On the authority of Ayyūb, or Ayyūb ibn Wāʾil al-Rāsibī, who said: I came to Medina and a man, a neighbor of Ibn ʿUmar, informed me that there came to Ibn ʿUmar four thousand from Muʿāwiyah, and four thousand from another person, and two thousand from someone else, and a qaṭīfah, which is a beautiful garment.[^6] He said: So he came to the market, and the neighbor was following him, and it seems he was sitting watching him, seeing who enters and who leaves and how much he carries in his pocket, and may our Lord not make us among those with watching eyes.
+On the authority of Ayyūb, or Ayyūb ibn Wāʾil al-Rāsibī, who said: I came to Medina and a man, a neighbor of Ibn ʿUmar, informed me that there came to Ibn ʿUmar four thousand from Muʿāwiyah, and four thousand from another person, and two thousand from someone else, and a qaṭīfah, which is a beautiful garment.[^5] He said: So he came to the market, and the neighbor was following him, and it seems he was sitting watching him, seeing who enters and who leaves and how much he carries in his pocket, and may our Lord not make us among those with watching eyes.
 
 So he says to his companion that Ibn ʿUmar had four come to him from such-and-such a side, and four from such-and-such a place, and two from such-and-such a place; so if we count that: four and four and two, it is at least ten thousand. He said: So he came to the market wanting fodder for his mount for a dirham on credit, meaning he would pay it after a while. Consider: one of you does not go to buy something on credit when ten thousand has just come to him, while he wants fodder for a dirham! So it seems, and Allah knows best, that whoever hears this tale will say: He does not want to break the thousands. And we know that: the ten-pound note in the old days, if it was broken it never came back, so it is said: The pound comes and is put beside its brothers, and we remain preserving the wealth.
 
@@ -67,7 +67,7 @@ Even his slaves came to know this trait in him, so what did they do? One of them
 
 So the companions of Ibn ʿUmar come and say to him: Be careful, they are only deceiving you, these people are laughing at you. So he says: Whoever deceives us in the name of Allah, we are deceived for him. Then he recites the words of the Lord of Might, glory be to Him, the Exalted:
 
-﴿لَن تَنَالُوا الْبِرَّ حَتَّىٰ تُنفِقُوا مِمَّا تُحِبُّونَ﴾ (You will never attain righteousness until you spend from that which you love)[^7]
+﴿لَن تَنَالُوا الْبِرَّ حَتَّىٰ تُنفِقُوا مِمَّا تُحِبُّونَ﴾ (You will never attain righteousness until you spend from that which you love)[^6]
 
 as an indication that this was beloved to him, and yet he gave it in charity. Why? Because he knows that what is with Allah is better than what is with people.
 
@@ -82,10 +82,9 @@ And you have one of the simple folk who gives and gives and gives charity, and p
 And I ask Allah the Exalted for me and for you soundness of religion and worldly life, and that He keep our hearts full of faith in what He, glory be to Him, the Exalted, promised, and in what He prepared for His righteous servants of reward. May Allah be pleased with you and make you pleased, and reward you with good, and peace be upon you.
 
 ---
-[^1]: Editor's documentation: The calculation of ages in the transcript is disordered, and the numbers here are as the lecturer said them; and in the hadith books, the Prophet ﷺ did not permit Ibn ʿUmar on the day of Uḥud when he was fourteen years old, then permitted him on the day of the Trench, so it should be reviewed.
+[^1]: Editor's documentation: The numbers here are as the lecturer said them; and in the hadith books, the Prophet ﷺ did not permit Ibn ʿUmar on the day of Uḥud when he was fourteen years old, then permitted him on the day of the Trench.
 [^2]: Editor's documentation: The wording from the lecturer's tongue is «اللهم أعزّ الإسلام بأحد العمرين» ("O Allah, strengthen Islam with one of the two ʿUmars"), and the well-known one in the hadith narrated by al-Tirmidhī and Aḥmad from the hadith of Ibn ʿUmar is: «اللهم أعزّ الإسلام بأحبّ هذين الرجلين إليك: بأبي جهل بن هشام، أو بعمر بن الخطاب» ("O Allah, strengthen Islam with whichever of these two men is dearer to You: Abū Jahl ibn Hishām, or ʿUmar ibn al-Khaṭṭāb").
-[^3]: Editor's documentation: The first number is garbled in the transcript («في حدود الش سنين ولا ثمانية ولا سبعة»), so it was not recorded.
-[^4]: Narrated by al-Bukhārī and Muslim from Ibn ʿUmar, may Allah be pleased with them both. Editor's documentation: In the transcript there is some disorder in the wording of the dream, which has been set according to what is known of the hadith.
-[^5]: Editor's documentation: The lecturer did not cite the source of this testimony.
-[^6]: Editor's documentation: In the transcript, "4000 from Muʿāwiyah" and a garbled phrase after it, then "and two thousand… and a qaṭīfah"; the second "four thousand" has been recorded on the strength of the lecturer's later counting "four and four and two = ten thousand," and it needs listening to the audio. The lecturer did not mention the unit of the amount at the beginning of the story nor its source, and in the transcript it is "from Abū Ayyūb or from Ayyūb ibn Wāʾil al-Rāsibī" and "his concubine" in the form recorded.
-[^7]: Editor's documentation: [Āl ʿImrān: 92]. The lecturer did not mention the location of the verse, and he uttered of it only as much as has been recorded.
+[^3]: Narrated by al-Bukhārī and Muslim from Ibn ʿUmar, may Allah be pleased with them both.
+[^4]: Editor's documentation: The lecturer did not cite the source of this testimony.
+[^5]: Editor's documentation: The lecturer did not mention the unit of the amount at the beginning of the story nor its source.
+[^6]: Editor's documentation: [Āl ʿImrān: 92]. The lecturer did not mention the location of the verse, and he uttered of it only as much as has been recorded.

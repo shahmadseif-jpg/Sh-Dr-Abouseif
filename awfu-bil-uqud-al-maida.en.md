@@ -50,6 +50,6 @@ Then he repeated: ﴿يَا أَيُّهَا الَّذِينَ آمَنُوا �
 And the Prophet ﷺ roots a mindset that respects agreements, whether tangible or moral. And Allah, blessed and exalted, knows best.
 
 ---
-[^1]: Editor's documentation: al-Māʾida 1. In the transcript it is «وحلت لكم», and «أُحِلَّتْ» has been recorded as the form of the verse.
+[^1]: Editor's documentation: al-Māʾida 1; the wording of the verse is «أُحِلَّتْ».
 [^2]: Editor's documentation: The speaker related the first ḥadīth by meaning, and its wording in the two Ṣaḥīḥs is: «مَنْ أَحَبَّ أَنْ يُبْسَطَ لَهُ فِي رِزْقِهِ، وَيُنْسَأَ لَهُ فِي أَثَرِهِ، فَلْيَصِلْ رَحِمَهُ». And the ḥadīth «من كان يؤمن بالله واليوم الآخر فليصل رحمه» is in Ṣaḥīḥ al-Bukhārī within the ḥadīth «فليقل خيرًا أو ليصمت».
 [^3]: Editor's documentation: The speaker mentioned that Allah swears to the womb of kinship that He will give it justice, and this wording has not been verified; what is established in the two Ṣaḥīḥs is that the womb of kinship stood and sought refuge with Allah from severance, and He said to it: «نعم، أما ترضين أن أصل من وصلك وأقطع من قطعك» ("Yes; are you not pleased that I maintain whoever maintains you and sever whoever severs you?"), and it said: Yes indeed. So the text was formulated by the verified meaning.

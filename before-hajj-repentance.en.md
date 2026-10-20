@@ -59,5 +59,5 @@ O Allah, we ask You to accept our repentance, to have mercy on our weakness, to 
 [^1]: Editor's documentation: The meaning of a ḥadīth reported by al-Bukhārī and Muslim from Abū Hurayra, may Allah be pleased with him: «مَن حجَّ فلم يرفُثْ ولم يفسُقْ رجع كيوم ولدته أمُّه»; the speaker related it by meaning.
 [^2]: Editor's documentation: Reported by al-Bukhārī from the ḥadīth of Anas, may Allah be pleased with him, concerning the expedition of Tabūk, in similar wording, in which occurs "an excuse held them back," and Muslim reported something similar from the ḥadīth of Jābir, may Allah be pleased with him, in which occurs "except that they shared with you in the reward"; the speaker related it by meaning.
 [^3]: Editor's documentation: The meaning of an agreed-upon ḥadīth from Anas and Ibn Mas'ūd, may Allah be pleased with them both, on Allah's rejoicing at the repentance of His servant, related by the speaker by meaning.
-[^4]: Editor's documentation: Sūrat at-Taḥrīm, verse 8. The speaker mentioned the verse up to His words "sincere repentance" and moved on to connect it with what follows it in speech that was not clear in the transcript.
-[^5]: Editor's documentation: Sūrat at-Taḥrīm, verse 6. This verse occurred in his speech abbreviated as we have recorded it.
+[^4]: Editor's documentation: Sūrat at-Taḥrīm, verse 8. The speaker mentioned the verse up to His words "sincere repentance".
+[^5]: Editor's documentation: Sūrat at-Taḥrīm, verse 6. This verse occurred in his speech abbreviated.

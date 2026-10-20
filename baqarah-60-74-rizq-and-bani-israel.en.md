@@ -128,7 +128,7 @@ And we ask Allah, blessed and exalted, to bless us and you in our times and prov
 ---
 [^1]: Al-Baqarah: 58–59. Editor's documentation: The speaker recited the first verse up to «وقولوا حطة» (and say: Relief), and the two numbers are for documentation only.
 [^2]: Al-Baqarah: 60.
-[^3]: Al-Kāfirūn: 1–3. Editor's documentation: It has been set down to the extent the speaker recited; and his words about «ولا أنا أعبد ما أنتم عابدون» (and I do not worship what you worship) are garbled in the transcript and so have not been set down.
+[^3]: Al-Kāfirūn: 1–3. Editor's documentation: It has been set down to the extent the speaker recited.
 [^4]: Editor's documentation: The speaker related it in meaning; and what is known in the two Ṣaḥīḥs from the report of ʿAbd Allāh ibn Masʿūd (may Allah be pleased with him) is the wording «يرحم الله موسى، قد أُوذي بأكثر من هذا فصبر» (May Allah have mercy on Mūsā; he was harmed more than this and was patient).
 [^5]: Al-Baqarah: 60.
 [^6]: Fāṭir: 37, and the speaker did not mention the surah.
@@ -137,7 +137,7 @@ And we ask Allah, blessed and exalted, to bless us and you in our times and prov
 [^9]: Al-Baqarah: 61. And his saying «﴿ذَٰلِكَ بِمَا عَصَوا۟ وَّكَانُوا۟ يَعْتَدُونَ﴾» (That was because they disobeyed and were transgressing) is from the same verse.
 [^10]: Al-Baqarah: 62. Editor's documentation: What the speaker mentioned is his interpretation of the verse, that each is rewarded according to his religion in its time; and the exegetes have two well-known views on it: that it concerns those of these religions who believed before the Muḥammadan mission, and that it is abrogated by His words, the Exalted, in Āl ʿImrān: 85 (and this is related from Ibn ʿAbbās, may Allah be pleased with both of them).
 [^11]: Al-Baqarah: 63.
-[^12]: Editor's documentation: The speaker did not mention the wording of the report nor its source; and in this meaning there is related, as al-Bukhārī reported from Abū Hurayrah (may Allah be pleased with him), the ḥadīth «عجب الله من قوم يدخلون الجنة في السلاسل» ("Allah is amazed at a people who enter Paradise in chains"), and its wording has not been verified, so it should be reviewed before attribution.
+[^12]: Editor's documentation: The speaker did not mention the wording of the report nor its source; and in this meaning there is related, as al-Bukhārī reported from Abū Hurayrah (may Allah be pleased with him), the ḥadīth «عجب الله من قوم يدخلون الجنة في السلاسل» ("Allah is amazed at a people who enter Paradise in chains"), and its wording has not been verified.
 [^13]: Al-Aʿrāf: 171. Editor's documentation: The speaker did not mention the surah.
 [^14]: Al-Baqarah: 64–65. Editor's documentation: The speaker cut off verse 64 at «فلولا فضل» (and if not for the favor of), and it has been left as he said, without completion.
 [^15]: Al-Baqarah: 67.

@@ -195,7 +195,7 @@ May Allah be good to you. And I apologize once more for this lengthiness, and I 
 [^7]: Yūsuf: 42. Editor's documentation: The remainder of the verse is ﴿ذِكْرَ رَبِّهِ﴾ (the mention of his master), and the speaker explained the making forget with his words «أي أنسى الرجل».
 [^8]: Al-Ḥajj: 27. Editor's documentation: The verse has been set down to the extent the speaker pointed to.
 [^9]: Al-Baqarah: 11–13. Editor's documentation: The speaker quoted the two verses in abbreviated form; what he pointed to from the opening of each has been set down, then the text of the second verse as he said it.
-[^10]: Al-Baqarah: 125. Editor's documentation: In the Qur'anic text ﴿طَهِّرَا﴾ is in the dual form, and it came in the transcript in the singular, most likely due to mishearing.
+[^10]: Al-Baqarah: 125. Editor's documentation: In the Qur'anic text ﴿طَهِّرَا﴾ is in the dual form.
 [^11]: Al-Tawbah: 19. Editor's documentation: The verse has been set down up to where the speaker quoted it.
 [^12]: Quraysh: 1–4. Editor's documentation: And it was preceded in the speaker's words by a reference to the verse of Sūrat al-Fīl ﴿فَجَعَلَهُمْ كَعَصْفٍ مَّأْكُولٍ﴾ (al-Fīl: 5).
 [^13]: Al-Baqarah: 127.
@@ -205,6 +205,6 @@ May Allah be good to you. And I apologize once more for this lengthiness, and I 
 [^17]: Hūd: 6. Editor's documentation: The speaker pointed to the verse with «وما من دابة في الأرض إلا» and did not complete it, and its remainder is ﴿عَلَى اللَّهِ رِزْقُهَا﴾ (upon Allah is its provision).
 [^18]: Al-Baqarah: 132–133.
 [^19]: Al-Ḥashr: 14.
-[^20]: Al-Baqarah: 137. Editor's documentation: In the transcript there is a garbled passage before this verse (in which the word «صبغة» was mentioned), and it has not been set down because it is unclear.
+[^20]: Al-Baqarah: 137.
 [^21]: Al-Baqarah: 139–140.
-[^22]: Editor's documentation: This is what the speaker said in explaining the attribution of Judaism to Mūsā, peace be upon him, and the denial that Ibrāhīm and those mentioned with him were Jews. And the well-known view among many people of knowledge is that the name «اليهود» goes back to "Yahūdhā" son of Yaʿqūb or to the meaning of «هادوا», that is, they returned and repented, so this explanation should be reviewed. And the transcript was garbled in the passage that follows it (a comment on the order of the forefathers in the words of the sons of Yaʿqūb ﴿نَعْبُدُ إِلَٰهَكَ وَإِلَٰهَ آبَائِكَ﴾ (We worship your God and the God of your forefathers)), so it has not been set down.
+[^22]: Editor's documentation: This is what the speaker said in explaining the attribution of Judaism to Mūsā, peace be upon him, and the denial that Ibrāhīm and those mentioned with him were Jews. The well-known view among many people of knowledge is that the name «اليهود» goes back to "Yahūdhā" son of Yaʿqūb or to the meaning of «هادوا», that is, they returned and repented.

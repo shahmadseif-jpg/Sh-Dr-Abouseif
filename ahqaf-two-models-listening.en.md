@@ -55,4 +55,4 @@ We ask Him, mighty and majestic, to inspire us with what He commanded His Messen
 
 ---
 [^1]: Editor's documentation: Sūrat al-Aḥqāf, verse 35. The verses mentioned after it are from the same surah: ﴿وَاذْكُرْ أَخَا عَادٍ…﴾ is verse 21 and what follows (the exchange and the destruction of the people in verses 22–25), and the account of the jinn is in verses 29–31.
-[^2]: Editor's documentation: Sūrat al-Kahf, verse 6. His words "Say: It has been revealed to me that a group of the jinn listened" are from Sūrat al-Jinn, verse 1. The sentence "You came to change…" could not be made out in the transcript, so it was rendered by its sense as it occurred. The transcript is also incomplete at the end of the khatira (a truncated supplication after "with His good pleasure"), so the truncated part was removed.
+[^2]: Editor's documentation: Sūrat al-Kahf, verse 6. His words "Say: It has been revealed to me that a group of the jinn listened" are from Sūrat al-Jinn, verse 1.

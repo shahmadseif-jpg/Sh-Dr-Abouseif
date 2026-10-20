@@ -49,6 +49,6 @@ We ask Allah, glory be to Him, Exalted, to bless us and you in the good things t
 
 ---
 [^1]: Editor's documentation: Sūrat al-Tawba, verse 111. The body is limited to the portion the speaker recited.
-[^2]: Editor's documentation: Sūrat al-Tawba, verse 112. In the transcript it came as «الحاملون» and the context (his explanation: "so he became one who praises Allah") indicates «الحامدون».
+[^2]: Editor's documentation: Sūrat al-Tawba, verse 112.
 [^3]: Editor's documentation: Sūrat al-Tawba, verse 117. The body is limited to the portion the speaker mentioned.
-[^4]: Editor's documentation: Sūrat al-Taḥrīm, verse 5, which appeared garbled at its beginning in the transcript, so it was limited to the point of citation.
+[^4]: Editor's documentation: Sūrat al-Taḥrīm, verse 5, and it is limited to the point of citation.

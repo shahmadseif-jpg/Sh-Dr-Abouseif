@@ -40,7 +40,7 @@ For whether they bear witness for us or against us, they are witnesses to the tr
 I ask Allah, Blessed and Exalted, to make the angels witnesses for us before Allah on the Day of Resurrection, and to make us among those who are included in the angels' prayers for forgiveness and their supplications. O Allah, amen, O Lord of the worlds. May Allah reward you with good.
 
 ---
-[^1]: Editor's documentation: Al-Shūrā: 5. The speaker did not recite the verse verbatim in the transcript.
+[^1]: Editor's documentation: Al-Shūrā: 5.
 [^2]: Editor's documentation: Ghāfir: 7. The speaker quoted the verse in this text.
 [^3]: Editor's documentation: Al-Baqarah: 285.
 [^4]: Editor's documentation: Qāf: 18.

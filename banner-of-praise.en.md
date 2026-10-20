@@ -36,17 +36,17 @@ So if we do not feel belonging, there is no meaning in asking: do we share in pe
 
 ### Maturity of Thought Before the Branches
 
-And I ask you by Allah: do we adhere to the lawful and the unlawful in all the details of our lives with this precision, such that we stop at a food eaten today and come to a complete halt at it? Imagine a man who forbids himself to eat turkey on this day, while in his life there are matters far more deserving of stopping at.[^3] It is a crisis for some people: they narrow what the sharia made broad, and broaden what its fixed principles and foundations restricted, so they talk about the permissible and stop at particulars and leave the foundations. And maturity in thinking is a matter we must be sure of before speaking about the branch rulings.
+And I ask you by Allah: do we adhere to the lawful and the unlawful in all the details of our lives with this precision, such that we stop at a food eaten today and come to a complete halt at it? Imagine a man who forbids himself to eat turkey on this day, while in his life there are matters far more deserving of stopping at. It is a crisis for some people: they narrow what the sharia made broad, and broaden what its fixed principles and foundations restricted, so they talk about the permissible and stop at particulars and leave the foundations. And maturity in thinking is a matter we must be sure of before speaking about the branch rulings.
 
 ### Praise Is for Allah Because He Is the Lord of the Worlds
 
-And gratitude with us is broader than returning a favor for a gift. For we say: ﴿الْحَمْدُ لِلَّهِ رَبِّ الْعَالَمِينَ ۝ الرَّحْمَٰنِ الرَّحِيمِ ۝ مَالِكِ يَوْمِ الدِّينِ﴾ [الفاتحة: 2-4] (All praise is due to Allah, Lord of the worlds, the Entirely Merciful, the Especially Merciful, Master of the Day of Judgment) [Sūrat al-Fātiḥa: 2-4], that is, we praise Him because He is the Lord of the worlds, not because He gave us a child; and because He is the Entirely Merciful, the Especially Merciful, not because He had mercy on us; and because He is Master of the Day of Judgment, whether He gave us or did not give us. And this praise is a slogan that never leaves the tongue of the Muslim, who repeats it seventeen times a day,[^4] and it is an essential part of his prayer.
+And gratitude with us is broader than returning a favor for a gift. For we say: ﴿الْحَمْدُ لِلَّهِ رَبِّ الْعَالَمِينَ ۝ الرَّحْمَٰنِ الرَّحِيمِ ۝ مَالِكِ يَوْمِ الدِّينِ﴾ [الفاتحة: 2-4] (All praise is due to Allah, Lord of the worlds, the Entirely Merciful, the Especially Merciful, Master of the Day of Judgment) [Sūrat al-Fātiḥa: 2-4], that is, we praise Him because He is the Lord of the worlds, not because He gave us a child; and because He is the Entirely Merciful, the Especially Merciful, not because He had mercy on us; and because He is Master of the Day of Judgment, whether He gave us or did not give us. And this praise is a slogan that never leaves the tongue of the Muslim, who repeats it seventeen times a day,[^3] and it is an essential part of his prayer.
 
-And the Prophet ﷺ was the leader of the grateful and the bearer of the banner of praise in his hands on the Day of Resurrection.[^5]
+And the Prophet ﷺ was the leader of the grateful and the bearer of the banner of praise in his hands on the Day of Resurrection.[^4]
 
 ### Deeds Are by Intentions
 
-As for people gathering on a particular day or not gathering, the Prophet ﷺ said: «إِنَّمَا الْأَعْمَالُ بِالنِّيَّاتِ، وَإِنَّمَا لِكُلِّ امْرِئٍ مَا نَوَى» (Deeds are but by intentions, and every person will have only what he intended).[^6] Deeds may be alike, like people gathering now in the prayer hall, while intentions differ: this one came sincerely, that one came accompanying a man, a third came so that people would see him, and a fourth came to meet so-and-so for a deal between them. I cannot know; only the Lord of Might knows. So be sincere to Allah and seek His help.
+As for people gathering on a particular day or not gathering, the Prophet ﷺ said: «إِنَّمَا الْأَعْمَالُ بِالنِّيَّاتِ، وَإِنَّمَا لِكُلِّ امْرِئٍ مَا نَوَى» (Deeds are but by intentions, and every person will have only what he intended).[^5] Deeds may be alike, like people gathering now in the prayer hall, while intentions differ: this one came sincerely, that one came accompanying a man, a third came so that people would see him, and a fourth came to meet so-and-so for a deal between them. I cannot know; only the Lord of Might knows. So be sincere to Allah and seek His help.
 
 ### Where My Opinion Stands
 
@@ -63,9 +63,8 @@ And even if the servant had nothing in his hand at all, he praises Allah for His
 O Allah, we ask You for pardon and well-being in our religion, our worldly life, and our Hereafter. O Allah, prepare for us right guidance in our affair, bless us in what You have provided us, and protect us from the punishment of the Fire, and the last of our supplication is that all praise is due to Allah, Lord of the worlds.
 
 ---
-[^1]: Editor's documentation: Regarding the virtue of reading al-Kahf on Friday, there is a ḥadīth «مَنْ قَرَأَ سُورَةَ الْكَهْفِ يَوْمَ الْجُمُعَةِ أَضَاءَ لَهُ مِنَ النُّورِ مَا بَيْنَ الْجُمُعَتَيْنِ» (Whoever reads Sūrat al-Kahf on the day of Friday, a light will illuminate for him between the two Fridays), reported by al-Ḥākim and al-Bayhaqī, and its text was not given in the transcript.
+[^1]: Editor's documentation: Regarding the virtue of reading al-Kahf on Friday, there is a ḥadīth «مَنْ قَرَأَ سُورَةَ الْكَهْفِ يَوْمَ الْجُمُعَةِ أَضَاءَ لَهُ مِنَ النُّورِ مَا بَيْنَ الْجُمُعَتَيْنِ» (Whoever reads Sūrat al-Kahf on the day of Friday, a light will illuminate for him between the two Fridays), reported by al-Ḥākim and al-Bayhaqī.
 [^2]: Editor's documentation: ﴿تَشَابَهَتْ قُلُوبُهُمْ﴾ [البقرة: 118] (their hearts are alike) [Sūrat al-Baqara: 118]; the phrase occurs in the verse in the context of earlier nations, and the teacher used it here in the sense of the closeness of people's natures.
-[^3]: Editor's documentation: The speaker gave in the example other circumstances of that man whose wording came out garbled in the transcript, so only the general meaning is kept here.
-[^4]: Editor's documentation: He means the number of obligatory rakʿas in the day and night, which are seventeen rakʿas, in each of which al-Fātiḥa is recited.
-[^5]: Editor's documentation: It is reported in al-Tirmidhī and elsewhere that the banner of praise is in his hand ﷺ on the Day of Resurrection.
-[^6]: Editor's documentation: Reported by al-Bukhārī and Muslim from the ḥadīth of ʿUmar ibn al-Khaṭṭāb (may Allah be pleased with him).
+[^3]: Editor's documentation: He means the number of obligatory rakʿas in the day and night, which are seventeen rakʿas, in each of which al-Fātiḥa is recited.
+[^4]: Editor's documentation: It is reported in al-Tirmidhī and elsewhere that the banner of praise is in his hand ﷺ on the Day of Resurrection.
+[^5]: Editor's documentation: Reported by al-Bukhārī and Muslim from the ḥadīth of ʿUmar ibn al-Khaṭṭāb (may Allah be pleased with him).
