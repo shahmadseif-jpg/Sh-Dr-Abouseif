@@ -9,7 +9,7 @@ readingMinutes: 6
 > Occasion: Transcription of a Fajr khatira delivered on 11 July 2026   
 > Source: A transcription of a video khatira by Dr. Ahmed Abouseif — [Watch the original video on YouTube](https://www.youtube.com/watch?v=rsP3Cwq5u84)
 
-At the start of the khatira the Shaykh prayed: O Lord of the worlds, overlook our misdeeds and our sins, have mercy in Your presence on our weakness, pardon our slips, ease our affairs, manage what is in our hands, and fulfill our needs. O Allah, do not entrust us to ourselves or to anyone among Your creation, and bestow Your favor upon us and have mercy on our weakness.
+We begin with a prayer: O Lord of the worlds, overlook our misdeeds and our sins, have mercy in Your presence on our weakness, pardon our slips, ease our affairs, manage what is in our hands, and fulfill our needs. O Allah, do not entrust us to ourselves or to anyone among Your creation, and bestow Your favor upon us and have mercy on our weakness.
 
 ### A direct warning to those who broke the covenant
 

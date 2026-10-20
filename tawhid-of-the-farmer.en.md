@@ -9,7 +9,7 @@ readingMinutes: 7
 > Occasion: Transcription of a Fajr khatira delivered on 8 July 2026   
 > Source: A transcription of a video khatira by Dr. Ahmed Abouseif — [Watch the original video on YouTube](https://www.youtube.com/watch?v=8B3-heKTQ0k)
 
-The Shaykh opened with a prayer: …the evil of this day, the evil of what is in it, and the evil of what comes after it, and set right for us our religion, our worldly life, and our Hereafter, and prepare for us right guidance in our affair, and bless us in what You have provided us, and protect us from the punishment of the Fire, and turn away from us the causes of punishment in this world and the Hereafter. O Allah, do not entrust us to ourselves or to anyone among Your creation, and cleanse us of the sickness of hearts and the ailments of bodies, and grant us well-being, pardon us, and take us under Your care with Your mercy.
+We open with a prayer: O Allah, we ask You for the good of this day, the good of what is in it, and the good of what comes after it, and we seek refuge in You from the evil of this day, the evil of what is in it, and the evil of what comes after it; and set right for us our religion, our worldly life, and our Hereafter, and prepare for us right guidance in our affair, and bless us in what You have provided us, and protect us from the punishment of the Fire, and turn away from us the causes of punishment in this world and the Hereafter. O Allah, do not entrust us to ourselves or to anyone among Your creation, and cleanse us of the sickness of hearts and the ailments of bodies, and grant us well-being, pardon us, and take us under Your care with Your mercy.
 
 ### When the Qur'an expresses power
 

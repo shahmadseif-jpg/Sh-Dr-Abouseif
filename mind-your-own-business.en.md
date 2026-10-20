@@ -9,7 +9,7 @@ readingMinutes: 10
 > Occasion: Transcription of a Fajr khatira delivered at the American Imams Academy (AIA) on July 19, 2026  
 > Source: A transcription of a video khatira by Dr. Ahmed Abouseif — [Watch the original video on YouTube](https://www.youtube.com/watch?v=fHyNInWqLtw)
 
-After the Shaykh supplicated for the best of the day and the best of what is in it and the best of what follows it, and for the soundness of religion, this world and the Hereafter, and that Allah prepare for us right guidance in our affair, he moved on to the twelfth ḥadīth of the book "Jāmiʿ al-ʿUlūm wa-l-Ḥikam," which is the ḥadīth of Abū Hurayrah (may Allah be pleased with him), who said: The Messenger of Allah ﷺ said: «مِنْ حُسْنِ إِسْلَامِ الْمَرْءِ تَرْكُهُ مَا لَا يَعْنِيهِ» (Part of the excellence of a person's Islam is his leaving that which does not concern him).
+After asking Allah for the best of the day and the best of what is in it and the best of what follows it, and for the soundness of religion, this world and the Hereafter, and that He prepare for us right guidance in our affair, we move on to the twelfth ḥadīth of the book "Jāmiʿ al-ʿUlūm wa-l-Ḥikam," which is the ḥadīth of Abū Hurayrah (may Allah be pleased with him), who said: The Messenger of Allah ﷺ said: «مِنْ حُسْنِ إِسْلَامِ الْمَرْءِ تَرْكُهُ مَا لَا يَعْنِيهِ» (Part of the excellence of a person's Islam is his leaving that which does not concern him).
 
 And he said at its outset: This ḥadīth is among the most famous ḥadīths in the Muslim community, and among the ḥadīths that the fewest in the Muslim community follow. Then he remarked that the laughter of those present expresses a painful reality.
 

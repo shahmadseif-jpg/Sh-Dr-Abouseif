@@ -9,7 +9,7 @@ readingMinutes: 5
 > Occasion: Transcription of a Fajr khatira delivered on 9 July 2026   
 > Source: A transcription of a video khatira by Dr. Ahmed Abouseif — [Watch the original video on YouTube](https://www.youtube.com/watch?v=y4LjOC8Cs-8)
 
-The Shaykh began with a prayer: And save us, our Lord, from the evils of our souls and from our bad deeds. O Allah, do not entrust us to ourselves for the blink of an eye, nor to anyone among Your creation, nor for less than that. O Allah, we ask You for salvation in this world, salvation in the Hereafter, and salvation at the meeting with You, O Lord of the worlds.
+We begin with a prayer: And save us, our Lord, from the evils of our souls and from our bad deeds. O Allah, do not entrust us to ourselves for the blink of an eye, nor to anyone among Your creation, nor for less than that. O Allah, we ask You for salvation in this world, salvation in the Hereafter, and salvation at the meeting with You, O Lord of the worlds.
 
 ### Why is Pharaoh mentioned repeatedly?
 
