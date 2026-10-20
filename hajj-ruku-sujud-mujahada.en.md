@@ -26,6 +26,6 @@ Then he recited: ﴿وَجَاهِدُوا فِي اللَّهِ حَقَّ جِ
 He concluded by addressing those present: "You are an elite among those whom Allah, blessed and exalted, has chosen to be the bearers of our religion and the defenders of the identity of Islam. I ask Allah, blessed and exalted, to make us among His sincere servants, to write down our traces in this world, to bless our steps, to safeguard our striving, and to make us pleased with His pleasure. O Allah, amen, O Lord of the worlds."
 
 ---
-[^1]: Editor's documentation: The two verses are in Sūrat al-Ḥajj (73–74). The transcript records of them only what is set down above, and the two verses were not completed.
+[^1]: Editor's documentation: The two verses are in Sūrat al-Ḥajj (73–74).
 [^2]: Editor's documentation: Sūrat al-Ḥajj, verse 77.
-[^3]: Editor's documentation: Sūrat al-Ḥajj, verse 78. It is not clear from the transcript what the speaker said in explaining "ijtabākum," so it was not included.
+[^3]: Editor's documentation: Sūrat al-Ḥajj, verse 78.

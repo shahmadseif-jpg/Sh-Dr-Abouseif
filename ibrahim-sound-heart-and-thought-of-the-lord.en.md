@@ -33,10 +33,10 @@ At this point the speaker recited the opening of Āyat al-Kursī, then Sūrat al
 
 ### Between doing, working and making
 
-He stopped at His words ﴿وَمَا تَعْمَلُونَ﴾ ("and what you do"), and mentioned with it «الفعل» (doing) and «الصنع» (making), and explained that there is a difference between them: doing is random action, whereas working is making something with intention, you intend to do it, and you have thought about the matter before doing it and then done it, so it is not a random "whack."[^9]
+He stopped at His words ﴿وَمَا تَعْمَلُونَ﴾ ("and what you do"), and mentioned with it «الفعل» (doing) and «الصنع» (making), and explained that there is a difference between them: doing is random action, whereas working is making something with intention, you intend to do it, and you have thought about the matter before doing it and then done it, so it is not a random "whack."
 
 ---
-[^1]: Editor's documentation: The phrase "follow the religion of Abraham, inclining toward truth" came in abbreviated form in the transcript; in this wording it is close to the saying of the Exalted in Sūrat al-Naḥl (123) and in Āl ʿImrān (95), and its place in the speaker's words was not clear, so the quotation has been recorded only as far as it came.
+[^1]: Editor's documentation: The phrase "follow the religion of Abraham, inclining toward truth" in this wording is close to the saying of the Exalted in Sūrat al-Naḥl (123) and in Āl ʿImrān (95).
 [^2]: Editor's documentation: Al-Ṣāffāt: 83–84.
 [^3]: Editor's documentation: Al-Ṣāffāt: 85–86.
 [^4]: Editor's documentation: Al-Ṣāffāt: 87.
@@ -44,4 +44,3 @@ He stopped at His words ﴿وَمَا تَعْمَلُونَ﴾ ("and what you d
 [^6]: Editor's documentation: Al-Muṭaffifīn: 4.
 [^7]: Editor's documentation: Al-Ṣāffāt: 88–92.
 [^8]: Editor's documentation: Al-Ṣāffāt: 93–96. Āyat al-Kursī is in Sūrat al-Baqara (255), and al-Ikhlāṣ is surah (112).
-[^9]: Editor's documentation: The speaker's words distinguishing between doing, working and making are garbled in the transcript in two places, so only what became clear has been recorded.

@@ -15,16 +15,15 @@ O Allah, the people of Palestine are in Your protection and Your safekeeping, O 
 
 ### A Distinctive Stance Worthy of Our Islam
 
-We are thinking about a distinctive stance[^1] that suits our Islam and our identity, right? We are a religion that commands justice, excellence, mercy, solidarity, preserving the dignity of creation and safeguarding the rights of humankind, and we will not go beyond that. But this must be made clear, this must be made clear.
+We are thinking about a distinctive stance that suits our Islam and our identity, right? We are a religion that commands justice, excellence, mercy, solidarity, preserving the dignity of creation and safeguarding the rights of humankind, and we will not go beyond that. But this must be made clear, this must be made clear.
 
 I ask Allah, Glorified is He, to guide us. O Allah, keep our hearts sound, preserve for us the well-being of our minds, give us insight into what is before us, and guide us to the straight path. O Allah, we ask You to take us by our forelocks to the truth.
 
 ### You Are a Vicegerent
 
-Servants of Allah, since Adam we have been entrusted with being vicegerents of Allah on earth: ﴿إِنِّي جَاعِلٌ فِي الْأَرْضِ خَلِيفَةً﴾[^2] (Indeed, I am going to place a vicegerent on the earth). So do not belittle your standing, do not disdain your own worth, and do not make light of your capacities. You are the leader of this humanity by virtue of the humanness you share with the rest of people, and by virtue of the Qur'an you have, which is the best that Allah, Blessed and Exalted, sent down to creation to lead people to guidance. So do not give up this position; upon our necks, we Muslims, rests the safety and life of creation.
+Servants of Allah, since Adam we have been entrusted with being vicegerents of Allah on earth: ﴿إِنِّي جَاعِلٌ فِي الْأَرْضِ خَلِيفَةً﴾[^1] (Indeed, I am going to place a vicegerent on the earth). So do not belittle your standing, do not disdain your own worth, and do not make light of your capacities. You are the leader of this humanity by virtue of the humanness you share with the rest of people, and by virtue of the Qur'an you have, which is the best that Allah, Blessed and Exalted, sent down to creation to lead people to guidance. So do not give up this position; upon our necks, we Muslims, rests the safety and life of creation.
 
 O Allah, we ask You for Paradise, a good departure from this world, and a good passage to the Hereafter. O Allah, amen. Peace be upon you; we will see you at the Fajr prayer, God willing.
 
 ---
-[^1]: Editor's documentation: At this point the transcript, amid fragmentary English passages, contains a statement in the form of an oath about the role of the imams of America in the great issues of the Ummah, and it is not clear whether it is Dr. Ahmed's own speech or the narration of someone else's speech, so it has not been included in the body.
-[^2]: Al-Baqarah: 30. Editor's documentation: The transcript at this point is garbled and contains unintelligible English passages, and nothing of them has been included.
+[^1]: Al-Baqarah: 30.

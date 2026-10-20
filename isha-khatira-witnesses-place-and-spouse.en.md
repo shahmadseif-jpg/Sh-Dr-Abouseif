@@ -11,7 +11,7 @@ readingMinutes: 2
 
 I wanted to speak about the places where the Companions of the Prophet Muhammad ﷺ passed away: how many of them died in Egypt, how many in Baghdad, and so on, everywhere. SubhanAllah, we do not know where we are going to die.
 
-Take an example. A few weeks ago we announced the passing of one of our doctors. Four days before he died he had left his job and his place. He had just rented a home, moved his belongings and arrived in a new place, with a new job and a new career; everything was new for him. Yet he did not know what Allah had in store. And the day before yesterday, one of us came to visit his son in New Jersey and passed away there.[^1] We do not know where we will be laid to rest. Allah, glory be to Him, is the only One who knows that.
+Take an example. A few weeks ago we announced the passing of one of our doctors. Four days before he died he had left his job and his place. He had just rented a home, moved his belongings and arrived in a new place, with a new job and a new career; everything was new for him. Yet he did not know what Allah had in store. And the day before yesterday, one of us came to visit his son in New Jersey and passed away there. We do not know where we will be laid to rest. Allah, glory be to Him, is the only One who knows that.
 
 ### Every place is a witness
 
@@ -26,4 +26,4 @@ That is why the Companions, when they wanted to ask about the manners of the Pro
 I say these words only to remind myself. If we die anywhere, the place is not what matters. What matters is that we die in a good state. I ask Allah to guide all of us to the right path.
 
 ---
-[^1]: Editor's documentation: The automatic transcript is garbled in places. Administrative remarks and the announcement of the next meeting were omitted, along with unclear numbers and names (such as the age of the late doctor) and sentences that could not be fully made out.
+

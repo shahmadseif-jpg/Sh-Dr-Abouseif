@@ -26,7 +26,7 @@ Then he recited: ﴿وَوَيْلٌ لِلْمُشْرِكِينَ الَّذِ
 Then he recited the opening of the verses that follow ﴿قُلْ أَئِنَّكُمْ لَتَكْفُرُونَ بِالَّذِي خَلَقَ الْأَرْضَ فِي يَوْمَيْنِ وَتَجْعَلُونَ لَهُ أَنْدَادًا ذَلِكَ رَبُّ الْعَالَمِينَ﴾ (Say, "Do you indeed disbelieve in He who created the earth in two days and attribute to Him equals? That is the Lord of the worlds") and what follows it up to His saying ﴿قَالَتَا أَتَيْنَا طَائِعِينَ﴾ (they said, "We have come willingly").
 
 ---
-[^1]: Editor's documentation: Sūrat Ghāfir, verse 85. It is not clear from the transcript what the speaker said at this point beyond the reference to Pharaoh and Mūsā, peace be upon him; what has been recorded is limited to the verse as far as it was uttered.
-[^2]: Editor's documentation: Sūrat Fuṣṣilat, verses 3–5. It is not clear what the speaker said in explaining "for a people who know."
-[^3]: Editor's documentation: Sūrat Fuṣṣilat, verse 6. This paragraph is taken from a garbled English passage in the transcript; what is clear from it is what has been recorded of the meaning of the two burdens and that he is the first of those who pray and the first of those who give charity, and the passage ended with an unintelligible phrase, which was omitted.
-[^4]: Editor's documentation: Sūrat Fuṣṣilat, verses 7 and 8. The ḥadīth in this wording is in Ṣaḥīḥ Muslim, and it is a long ḥadīth. The speaker did not cite the ḥadīth with a chain of transmission in the transcript; the two phrases are recorded as they were uttered.
+[^1]: Editor's documentation: Sūrat Ghāfir, verse 85. At this point the speaker referred to Pharaoh and Mūsā, peace be upon him; what has been recorded is limited to the verse as far as it was uttered.
+[^2]: Editor's documentation: Sūrat Fuṣṣilat, verses 3–5.
+[^3]: Editor's documentation: Sūrat Fuṣṣilat, verse 6.
+[^4]: Editor's documentation: Sūrat Fuṣṣilat, verses 7 and 8. The ḥadīth in this wording is in Ṣaḥīḥ Muslim, and it is a long ḥadīth.

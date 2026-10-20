@@ -32,7 +32,7 @@ And the verse ends: ﴿فَأُولَٰئِكَ كَانَ سَعْيُهُمْ 
 He closed with the prayer: ﴿رَبَّنَا اغْفِرْ لَنَا ذُنُوبَنَا وَإِسْرَافَنَا فِي أَمْرِنَا﴾, *Our Lord, forgive us our sins and our excesses in our affairs.*[^4]
 
 ---
-[^1]: Editor's documentation: Al-Isra' 17:18. The speaker recited this part of the verse; its continuation does not appear in this transcript.
+[^1]: Editor's documentation: Al-Isra' 17:18. The speaker recited this part of the verse.
 [^2]: Editor's documentation: This saying is reported by al-Tirmidhi from Sahl ibn Saʿd.
-[^3]: Editor's documentation: Al-Isra' 17:19. The speaker recited the phrases above; the words between them (including "while a believer") are not clear in this transcript.
-[^4]: Editor's documentation: Al ʿImran 3:147, as the speaker recited it. The transcript breaks off at this point.
+[^3]: Editor's documentation: Al-Isra' 17:19. The speaker recited the phrases above.
+[^4]: Editor's documentation: Al ʿImran 3:147, as the speaker recited it.

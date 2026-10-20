@@ -26,5 +26,5 @@ And the greater matter, which goes beyond the stage of memorization, is the matt
 And whoever wants to go through this experience should begin by reading two or three lines, recite them to others, and set up a plan of review. The matter is entirely optional, so whoever wants to join, welcome, and whoever wants to try, welcome. A very simple matter, but, by the permission of Allah, Blessed and Most High, it will be the opening of good. And we ask Allah, Mighty and Majestic, that we make a resolve with which we meet Allah, Blessed and Most High, and that He grant us a good acceptance. May Allah be pleased with you and make you pleased.
 
 ---
-[^1]: Editor's documentation: The phrase has been given as it appeared in the transcript; and the calculation of "five lines a day" over about nine thousand lines comes to nearly five years, not four, and perhaps the speaker rounded the figure or the count got confused for him, so it should be reviewed.
+[^1]: Editor's documentation: The calculation of "five lines a day" over about nine thousand lines comes to nearly five years, not four.
 [^2]: Editor's documentation: Yūnus: 57, and the speaker uttered the words «شفاء لما في الصدور وهدى ورحمة» (a healing for what is in the breasts, and guidance and mercy) without the remainder of the verse.

@@ -82,12 +82,12 @@ So there is a great difference between one who acts as a show before people, so 
 I have gone on too long for you, so forgive me. And I ask Allah, Blessed and Exalted, to write our traces all together, and to make us among those who acted in confirmation of the faith that took firm hold in their hearts, and among those who believed in Allah, Blessed and Exalted, with certainty and with good expectation of what is with Him of good. I ask Allah, Blessed and Exalted, to bring our hearts to that faith with which they are at ease, and this decision in which they find rest. And I ask Him to grant us sincerity in what is in our hands, and truthfulness in what we claim, and that we not be tried in it with hypocrisy, showing off or flattery.
 
 ---
-[^1]: Editor's documentation: The speaker said that the ḥadīth was narrated by al-Bukhārī, and it is also in Ṣaḥīḥ Muslim (agreed upon); the text quoted above follows his reading, and at the place «فينفخ فيه الروح» the transcript was garbled, so the phrase has been given as the speaker repeated it a little later.
+[^1]: Editor's documentation: The speaker said that the ḥadīth was narrated by al-Bukhārī, and it is also in Ṣaḥīḥ Muslim (agreed upon); the text quoted above follows his reading.
 [^2]: Editor's documentation: Al-ʿAlaq: 1–2, then 3–5, then 6–7.
 [^3]: Editor's documentation: Al-Insān: 1–3, and the second verse contains ﴿إِنَّا خَلَقْنَا ٱلْإِنسَٰنَ مِن نُّطْفَةٍ أَمْشَاجٍ نَّبْتَلِيهِ فَجَعَلْنَٰهُ سَمِيعًا بَصِيرًا﴾; we have given as much as the speaker uttered.
 [^4]: Editor's documentation: At-Taghābun: 2.
 [^5]: Editor's documentation: Al-Mulk: 14.
 [^6]: Editor's documentation: Al-Ḥajj: 11.
 [^7]: Editor's documentation: Al-ʿAnkabūt: 10, and the completion of the verse is: ﴿لَيَقُولُنَّ إِنَّا كُنَّا مَعَكُمْ ۚ أَوَلَيْسَ ٱللَّهُ بِأَعْلَمَ بِمَا فِى صُدُورِ ٱلْعَٰلَمِينَ﴾; the speaker did not complete it, so the text has been left open.
-[^8]: Editor's documentation: The speaker related the story by its meaning and did not attribute it or name its subject; it is, in similar form, in the two Ṣaḥīḥs from the ḥadīth of Sahl ibn Saʿd, may Allah be pleased with him, as far as we know, and it should be checked before publication.
-[^9]: Editor's documentation: The speaker related the story by its meaning and did not attribute it; it is, in similar form, in Ṣaḥīḥ Muslim from the ḥadīth of Anas, may Allah be pleased with him (the Battle of Badr), as far as we know, and it should be checked before publication.
+[^8]: Editor's documentation: The speaker related the story by its meaning and did not attribute it or name its subject; it is, in similar form, in the two Ṣaḥīḥs from the ḥadīth of Sahl ibn Saʿd, may Allah be pleased with him, as far as we know.
+[^9]: Editor's documentation: The speaker related the story by its meaning and did not attribute it; it is, in similar form, in Ṣaḥīḥ Muslim from the ḥadīth of Anas, may Allah be pleased with him (the Battle of Badr), as far as we know.

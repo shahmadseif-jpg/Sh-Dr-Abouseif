@@ -93,7 +93,7 @@ But in closing, before we go on, remember that after this verse come the words o
 
 ---
 [^1]: Editor's documentation: Sūrat Āl ʿImrān, verse 130.
-[^2]: Editor's documentation: The verse referred to is ﴿أَنفِقُوا مِن طَيِّبَاتِ مَا كَسَبْتُمْ وَمِمَّا أَخْرَجْنَا لَكُم مِّنَ الْأَرْضِ﴾ (“Spend from the good things you have earned and from what We have brought forth for you from the earth”; Sūrat al-Baqarah, verse 267); the speaker uttered it in the transcript with the word “eat,” which is “spend” in the muṣḥaf.
+[^2]: Editor's documentation: The verse referred to is ﴿أَنفِقُوا مِن طَيِّبَاتِ مَا كَسَبْتُمْ وَمِمَّا أَخْرَجْنَا لَكُم مِّنَ الْأَرْضِ﴾ (“Spend from the good things you have earned and from what We have brought forth for you from the earth”; Sūrat al-Baqarah, verse 267); the speaker uttered it with the word “eat,” which is “spend” in the muṣḥaf.
 [^3]: Editor's documentation: Sūrat al-Baqarah, verse 275 and what follows, and His words “Give up what remains of ribā, if you are believers” are in verse 278.
 [^4]: Editor's documentation: Sūrat al-Baqarah, verse 279.
 [^5]: Editor's documentation: Reported by Muslim (1015) on the authority of Abū Hurayrah (may Allah be pleased with him); and the two verses are in Sūrat al-Muʾminūn, verse 51, and Sūrat al-Baqarah, verse 172.

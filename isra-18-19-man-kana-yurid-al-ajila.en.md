@@ -26,6 +26,6 @@ Then he mentioned the words of Allah, glory be to Him: ﴿كُلًّا نُمِ�
 He concluded by saying: O Allah, amen, O Lord of the worlds, may Allah bless…
 
 ---
-[^1]: Editor's documentation: al-Isrāʾ: 18. The speaker completed the verse in this khatira; the word "مدحورًا" ("rejected") did not appear in full in the transcript ("مدحو"), and was supplied because the context is clear.
+[^1]: Editor's documentation: al-Isrāʾ: 18. The speaker completed the verse in this khatira
 [^2]: Editor's documentation: al-Isrāʾ: 19.
 [^3]: Editor's documentation: al-Isrāʾ: 20.

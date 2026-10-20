@@ -34,9 +34,9 @@ And in Fuṣṣilat he pauses at the words of those who turn away: ﴿وَقَا
 Then he mentions the words of the Glorified: ﴿أَفَلَمْ يَسِيرُوا فِي الْأَرْضِ فَيَنظُرُوا كَيْفَ كَانَ عَاقِبَةُ الَّذِينَ مِن قَبْلِهِمْ كَانُوا أَكْثَرَ مِنْهُمْ وَأَشَدَّ قُوَّةً وَآثَارًا فِي الْأَرْضِ﴾ (“Have they not travelled through the earth and seen how was the end of those before them? They were more numerous than them and greater in strength and in impact on the earth”), and with it he recalls what came in Sūrat al-Qamar of the destruction of ʿĀd by the furious wind, of Thamūd by the blast ﴿فَكَانُوا كَهَشِيمِ﴾ (“and they became like the dry twigs”), and of the people of Lot by the stone-storm, except the family of Lot, whom Allah saved before dawn.[^6]
 
 ---
-[^1]: Editor's documentation: Ghāfir 51. The transcript breaks the verse off at «ويوم يقوم الأش», so it was not completed in the body (the rest of it is ﴿الْأَشْهَادُ﴾). The story of the believer from the House of Pharaoh is attributed to Ghāfir 28 and what follows.
+[^1]: Editor's documentation: Ghāfir 51; the completion of «ويوم يقوم الأش» is ﴿الْأَشْهَادُ﴾. The story of the believer from the House of Pharaoh is attributed to Ghāfir 28 and what follows.
 [^2]: Editor's documentation: Ghāfir 53–54. The explanation of “guidance” as the Torah and of “al-albāb” as the enlightened minds is the speaker's own.
-[^3]: Editor's documentation: Ghāfir 5. The verse is set down only as far as the speaker pronounced it; the transcript becomes confused at its end, so that part was not included.
+[^3]: Editor's documentation: Ghāfir 5. The verse is set down only as far as the speaker pronounced it.
 [^4]: Editor's documentation: Ghāfir 57 and 58.
 [^5]: Editor's documentation: Fuṣṣilat 5.
-[^6]: Editor's documentation: The verse is from Ghāfir 82. What is mentioned from al-Qamar is in verses 18–34; the phrase «كهشيم المحتظر» was not pronounced in full in the transcript (it has only «كهشيم»).
+[^6]: Editor's documentation: The verse is from Ghāfir 82. What is mentioned from al-Qamar is in verses 18–34.

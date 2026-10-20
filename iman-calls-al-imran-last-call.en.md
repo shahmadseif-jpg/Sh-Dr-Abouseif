@@ -95,7 +95,7 @@ I ask Allah, blessed and exalted, that there has been in what we have said some 
 [^9]: Editor's documentation: Āl ʿImrān: 56.
 [^10]: Editor's documentation: Āl ʿImrān: 64.
 [^11]: Editor's documentation: Āl ʿImrān: 65.
-[^12]: Editor's documentation: al-Naḥl: 123. The speaker did not mention where the verse is located, and the wording in the transcript is slightly disordered, though what he said agrees with the text of the verse.
+[^12]: Editor's documentation: al-Naḥl: 123. The speaker did not mention where the verse is located, though what he said agrees with the text of the verse.
 [^13]: Editor's documentation: Āl ʿImrān: 66.
 [^14]: Editor's documentation: Āl ʿImrān: 70.
 [^15]: Editor's documentation: Āl ʿImrān: 71.

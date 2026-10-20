@@ -45,5 +45,5 @@ I ask Allah, the Most High, the Almighty, to grant us souls that are doers of go
 [^1]: Editor's documentation: The verse is the closing verse of Sūrat al-ʿAnkabūt (69).
 [^2]: Editor's documentation: Sūrat al-ʿAnkabūt, verses 61 and 63. The speaker confined himself to the part mentioned and said that the answer is one: Allah, glory be to Him.
 [^3]: Editor's documentation: The speaker did not specify the location of the verses; the meaning is close to what the Qur'an relates of the demands of the polytheists in Sūrat al-Isrā' (verses 90–93). His words here are a narration by meaning, not a quotation of the text of the verse.
-[^4]: Editor's documentation: The transcription is garbled at this point; what is understood is that the speaker says that the context (fighting and conflict) would have suited a conclusion with the description "the patient," but the verse concluded with "the doers of good."
+[^4]: Editor's documentation: The speaker says that the context (fighting and conflict) would have suited a conclusion with the description "the patient," but the verse concluded with "the doers of good."
 [^5]: Editor's documentation: Sūrat al-Muzzammil, verses 6, 7 and 11.

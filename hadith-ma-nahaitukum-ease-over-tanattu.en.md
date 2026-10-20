@@ -72,9 +72,9 @@ I do not want to lengthen it for you or weigh you down, but from the greatness o
 Then you see yourself before Allah, blessed and exalted, on the ladder of ascent, so who takes you by the hand? Allah. And if Allah is the one who takes you by the hand, do you think you stop at a limit or a degree? Or does Allah, the Mighty and Majestic, raise you however far the capacity of any of us reaches, and he is unable to accomplish what he wishes? If the One taking him by the hand is Allah, then he must have an ascent that has no stopping.
 
 ---
-[^1]: Editor's documentation: This is the ninth ḥadīth of the Forty Nawawī, narrated by al-Bukhārī and Muslim. The speaker began by mentioning another narrator and then returned to the ḥadīth of Abū Hurayrah, so what his speech settled upon is adopted.
-[^2]: Editor's documentation: The narration is in Ṣaḥīḥ Muslim from the ḥadīth of Abū Hurayrah; the transcript has «ولما استطعت», and what is given is «ولَمَا استطعتم», according to the well-known narration.
-[^3]: Editor's documentation: The narration is in the two Ṣaḥīḥs from the ḥadīth of Anas. The transcript is garbled regarding the name of the questioner's father, so it has not been recorded.
+[^1]: Editor's documentation: This is the ninth ḥadīth of the Forty Nawawī, narrated by al-Bukhārī and Muslim.
+[^2]: Editor's documentation: The narration is in Ṣaḥīḥ Muslim from the ḥadīth of Abū Hurayrah, with the wording «ولَمَا استطعتم», according to the well-known narration.
+[^3]: Editor's documentation: The narration is in the two Ṣaḥīḥs from the ḥadīth of Anas.
 [^4]: Editor's documentation: Narrated by Muslim from the ḥadīth of Ibn Masʿūd, «هلك المتنطعون» ("Ruined are those who go to excess"), three times. The speaker cited it in connection with the context.
 [^5]: Editor's documentation: The ḥadīth is in the two Ṣaḥīḥs, in the narration of Anas, and in it is «ليصلِّ أحدكم نشاطه، فإذا فتر فليقعد» ("Let one of you pray while he is energetic, and when he tires, let him sit"). The speaker conveyed it by meaning.
 [^6]: Editor's documentation: al-Baqarah: 286.

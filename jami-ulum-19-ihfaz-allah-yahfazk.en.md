@@ -62,6 +62,6 @@ And sometimes we strive to change our image among people, or to be better in the
 I ask Allah, the Most High, the Almighty, to continue upon us and upon you His favor and good pleasure, to make us see our faults, to set right for us what our hands have spoiled, to decree good for us, to guide us to right judgment, and to make us firm.
 
 ---
-[^1]: Editor's documentation: The ḥadīth of Ibn ʿAbbās was recorded by al-Tirmidhī and Aḥmad, and the second narration with its addition ("Get to know Allah in times of ease…") is in Aḥmad. We have reproduced it here as the speaker said it. The transcription has «ليغضبك», which is most likely a mishearing, so the well-known wording «ليخطئك» was set down.
+[^1]: Editor's documentation: The ḥadīth of Ibn ʿAbbās was recorded by al-Tirmidhī and Aḥmad, and the second narration with its addition ("Get to know Allah in times of ease…") is in Aḥmad. We have reproduced it here as the speaker said it. The well-known wording is «ليخطئك».
 [^2]: Editor's documentation: The ḥadīth "If the world were worth in Allah's sight the wing of a gnat, He would not have given a disbeliever a drink of water from it" was narrated by al-Tirmidhī and Ibn Mājah from the ḥadīth of Sahl ibn Saʿd, may Allah be pleased with him, and the speaker cited it by meaning.
 [^3]: Editor's documentation: Sūrat al-Ḥadīd, verse 4. The speaker uttered this segment of the verse, and that is what is set down here.

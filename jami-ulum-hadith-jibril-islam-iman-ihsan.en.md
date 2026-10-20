@@ -60,6 +60,6 @@ And the difference is very great, my brothers. Sometimes you are driving on the 
 We ask Allah, blessed and exalted, to teach us and to grant us insight.
 
 ---
-[^1]: Editor's documentation: The ḥadīth of Jibrīl was reported by Muslim from the ḥadīth of ʿUmar ibn al-Khaṭṭāb (may Allah be pleased with him), and its origin is in al-Bukhārī from the ḥadīth of Abū Hurayrah (may Allah be pleased with him). The names of the two Companions were mentioned in the transcription without elaboration.
+[^1]: Editor's documentation: The ḥadīth of Jibrīl was reported by Muslim from the ḥadīth of ʿUmar ibn al-Khaṭṭāb (may Allah be pleased with him), and its origin is in al-Bukhārī from the ḥadīth of Abū Hurayrah (may Allah be pleased with him).
 [^2]: Editor's documentation: The speaker cited the ḥadīth by meaning («قلبه معلق في المسجد»), and its wording in the ḥadīth of the seven whom Allah will shade in His shade, in al-Bukhārī, is: «ورجلٌ قلبُه معلَّقٌ في المساجد», and in Muslim: «معلَّقٌ بالمسجد».
 [^3]: Editor's documentation: The speaker cited the story by meaning without attribution. Similar to it is what was reported by Aḥmad and others from the ḥadīth of Abū Hurayrah (may Allah be pleased with him) that a man said: So-and-so prays at night and when morning comes he steals, and he ﷺ said: «سينهاه ما تقول» (“What you say will restrain him”). What is set down in the body text is a transmission by meaning of what the speaker said, not a narration of a prophetic wording.

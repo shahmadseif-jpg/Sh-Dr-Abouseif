@@ -105,8 +105,8 @@ We stop here and continue, if Allah wills.
 [^1]: Editor's documentation: Ghāfir: 28. The full verse: ﴿...أَتَقْتُلُونَ رَجُلًا أَن يَقُولَ رَبِّيَ اللَّهُ وَقَدْ جَاءَكُم بِالْبَيِّنَاتِ مِن رَّبِّكُمْ ۖ وَإِن يَكُ كَاذِبًا فَعَلَيْهِ كَذِبُهُ ۖ وَإِن يَكُ صَادِقًا يُصِبْكُم بَعْضُ الَّذِي يَعِدُكُمْ ۖ إِنَّ اللَّهَ لَا يَهْدِي مَنْ هُوَ مُسْرِفٌ كَذَّابٌ﴾, and the speaker pronounced its parts one after another in the explanation.
 [^2]: Editor's documentation: al-Anʿām: 124.
 [^3]: Editor's documentation: Nūḥ: 10–12.
-[^4]: Editor's documentation: The report is transmitted as the speaker presented it, and no source was mentioned for it in the transcript.
-[^5]: Editor's documentation: The report is transmitted as the speaker heard it, and its source was not specified in the transcript.
+[^4]: Editor's documentation: The report is transmitted as the speaker presented it, and the speaker mentioned no source for it.
+[^5]: Editor's documentation: The report is transmitted as the speaker heard it, and its source was not specified.
 [^6]: Editor's documentation: Ghāfir: 29.
 [^7]: Editor's documentation: Ghāfir: 30.
 [^8]: Editor's documentation: Ghāfir: 5.

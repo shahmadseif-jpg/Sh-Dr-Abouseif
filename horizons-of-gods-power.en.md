@@ -44,5 +44,5 @@ I ask Allah, blessed and exalted, to forgive us our shortcomings in the right of
 ---
 [^1]: Editor's documentation: al-Anʿām: 95.
 [^2]: Editor's documentation: al-Anʿām: 107.
-[^3]: Editor's documentation: Yā Sīn: 40, and the transcript has «كل في فلك يسبح».
+[^3]: Editor's documentation: Yā Sīn: 40.
 [^4]: Editor's documentation: al-Rūm: 41.

@@ -77,9 +77,9 @@ Know that the one who profits in a deal preserves the capital in order to enter 
 
 ---
 [^1]: Sūrat al-Ḥujurāt, verse 6. Editor's documentation: Both readings “fa-tabayyanū” and “fa-tathabbatū” are reported, and the speaker pointed to the second.
-[^2]: Sūrat al-Ḥujurāt, verse 7. Editor's documentation: The completion of the verse is ﴿... لَوْ يُطِيعُكُمْ فِي كَثِيرٍ مِّنَ الْأَمْرِ لَعَنِتُّمْ وَلَٰكِنَّ اللَّهَ حَبَّبَ إِلَيْكُمُ الْإِيمَانَ ...﴾; in the transcript the wording is garbled (“la-ʿabadtum” is not correct), so I confined the body to what the speaker said.
+[^2]: Sūrat al-Ḥujurāt, verse 7. Editor's documentation: The completion of the verse is ﴿... لَوْ يُطِيعُكُمْ فِي كَثِيرٍ مِّنَ الْأَمْرِ لَعَنِتُّمْ وَلَٰكِنَّ اللَّهَ حَبَّبَ إِلَيْكُمُ الْإِيمَانَ ...﴾.
 [^3]: Sūrat al-Ḥujurāt, verse 9.
 [^4]: Sūrat al-Ḥujurāt, verse 7.
 [^5]: Editor's documentation: The meaning occurs in Sūrat al-Aʿrāf (43) and Sūrat al-Ḥijr (47).
-[^6]: Sūrat al-Ḥujurāt, verses 11 and 12. Editor's documentation: The speaker mentioned the verses in summary, so I retained only what he mentioned of them.
-[^7]: Editor's documentation: The ḥadīth of the driving away from the Pond is agreed upon, from the ḥadīth of Sahl ibn Saʿd, may Allah be pleased with him, and others, and in it: «إنك لا تدري ما أحدثوا بعدك» (“You do not know what they innovated after you”). Its context concerns those who altered, apostatized and introduced innovations in the religion. Taking “what they innovated” to mean the pettiness of quarrels is an effort of the speaker in the way of reflection and admonition, not an explanation of the ḥadīth. The transcript is garbled at this point, so the meaning was retained without quotation.
+[^6]: Sūrat al-Ḥujurāt, verses 11 and 12. Editor's documentation: The speaker mentioned the verses in summary.
+[^7]: Editor's documentation: The ḥadīth of the driving away from the Pond is agreed upon, from the ḥadīth of Sahl ibn Saʿd, may Allah be pleased with him, and others, and in it: «إنك لا تدري ما أحدثوا بعدك» (“You do not know what they innovated after you”). Its context concerns those who altered, apostatized and introduced innovations in the religion. Taking “what they innovated” to mean the pettiness of quarrels is an effort of the speaker in the way of reflection and admonition, not an explanation of the ḥadīth.

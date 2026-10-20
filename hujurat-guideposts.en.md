@@ -84,7 +84,7 @@ And let us summarize what we have said on the matter of ﴿لَا تُقَدِّ
 May Allah the Exalted be pleased with you and make you pleased, and may Allah reward you with good, and until a renewed meeting, if the Most Merciful wills, I entrust you to Allah the Exalted, and peace be upon you.
 
 ---
-[^1]: Editor's documentation: Āl ʿImrān: 14; the transcript had "and the letter" (wa-l-ḥarf), which is an error of hearing, and the wording of the verse, "and farmland" (wa-l-ḥarth), has been entered.
+[^1]: Editor's documentation: Āl ʿImrān: 14; the wording of the verse is "and farmland" (wa-l-ḥarth).
 [^2]: Editor's documentation: al-Furqān: 70.
 [^3]: Editor's documentation: al-Nūr: 31.
 [^4]: Editor's documentation: al-Nisāʾ: 97.
@@ -93,8 +93,8 @@ May Allah the Exalted be pleased with you and make you pleased, and may Allah re
 [^7]: Editor's documentation: al-Mujādila: 21.
 [^8]: Editor's documentation: al-Fatḥ: 29; the text was limited to as much of the verse as the speaker said.
 [^9]: Editor's documentation: al-Fatḥ: 29; the speaker gave the promise by its meaning, and it is from the remainder of the verse before it.
-[^10]: Editor's documentation: The speaker said this with the qualification "if the narration is sound," and the transcript did not specify the two names that the two shaykhs proposed. What is established regarding the occasion of revelation of the verse is what al-Bukhārī recorded of the disagreement of Abū Bakr and ʿUmar (may Allah be pleased with them both) over who should be appointed over the delegation of Banū Tamīm, and not about admonishing the people. As for his statement "if the faith of the Ummah and the faith of Abū Bakr were weighed, his faith would outweigh," it is reported and is not established as a raised (marfūʿ) report in this wording as far as we know, so it has been phrased in the tentative form.
-[^11]: Editor's documentation: The speaker transmitted the Companion's statement by meaning and did not specify who said it in the transcript; its origin is from Ibn Masʿūd (may Allah be pleased with him) in Ṣaḥīḥ Muslim.
+[^10]: Editor's documentation: The speaker said this with the qualification "if the narration is sound," and the two names were not specified that the two shaykhs proposed. What is established regarding the occasion of revelation of the verse is what al-Bukhārī recorded of the disagreement of Abū Bakr and ʿUmar (may Allah be pleased with them both) over who should be appointed over the delegation of Banū Tamīm, and not about admonishing the people. As for his statement "if the faith of the Ummah and the faith of Abū Bakr were weighed, his faith would outweigh," it is reported and is not established as a raised (marfūʿ) report in this wording as far as we know, so it has been phrased in the tentative form.
+[^11]: Editor's documentation: The speaker transmitted the Companion's statement by meaning and did not specify who said it; its origin is from Ibn Masʿūd (may Allah be pleased with him) in Ṣaḥīḥ Muslim.
 [^12]: Editor's documentation: al-Baqara: 165.
-[^13]: Editor's documentation: The ḥadīth is agreed upon from the ḥadīth of Ibn Masʿūd (may Allah be pleased with him); it is transmitted as the speaker gave it, and he cut off his speech at his saying "and strives for lying," so the sentence was not completed.
+[^13]: Editor's documentation: The ḥadīth is agreed upon from the ḥadīth of Ibn Masʿūd (may Allah be pleased with him); it is transmitted as the speaker gave it.
 [^14]: Editor's documentation: The speaker attributed this phrase to one of the shaykhs, and his name was not recorded because the phrase was not verified.

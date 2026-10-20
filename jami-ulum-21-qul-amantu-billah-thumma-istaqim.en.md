@@ -21,13 +21,13 @@ In another narration Sufyān (may Allah be pleased with him) tells us: I said, O
 
 He also mentioned a narration from ʿAbd Allāh ibn Sufyān, in which he relates that a man came to the Prophet ﷺ and asked him: O Messenger of Allah, tell me about Islam. He said that he mentioned this last narration to show that Sufyān's son narrated the hadith from him without naming his father.
 
-From there he moved to an educational reminder, and said in English, in effect: How many of us plant this value in the hearts of our children? And this is the point, especially when we are speaking about knowledge itself: How many of us sit with our children, open the book, and read it together?[^2]
+From there he moved to an educational reminder, and said in English, in effect: How many of us plant this value in the hearts of our children? And this is the point, especially when we are speaking about knowledge itself: How many of us sit with our children, open the book, and read it together?
 
 ### Who is Sufyān?
 
 Sufyān ibn ʿAbd Allāh al-Thaqafī was from the tribe of Thaqīf, who embraced Islam after Ḥunayn, around the ninth year, and said: There is no god but Allah, Muḥammad is the Messenger of Allah. The speaker said: You remember the famous phrase in Sūrat al-Zukhruf:
 
-﴿وَقَالُوا لَوْلَا نُزِّلَ هَٰذَا الْقُرْآنُ عَلَىٰ رَجُلٍ مِّنَ الْقَرْيَتَيْنِ عَظِيمٍ﴾ [al-Zukhruf: 31] ("And they said: Why was this Qur'an not sent down upon some great man from the two towns?").[^3]
+﴿وَقَالُوا لَوْلَا نُزِّلَ هَٰذَا الْقُرْآنُ عَلَىٰ رَجُلٍ مِّنَ الْقَرْيَتَيْنِ عَظِيمٍ﴾ [al-Zukhruf: 31] ("And they said: Why was this Qur'an not sent down upon some great man from the two towns?").[^2]
 
 ### He wanted protection, so he was directed to faith
 
@@ -35,13 +35,13 @@ Sufyān asked for "a statement after which he need ask no one else," and said: D
 
 Dr. Ahmed sees that this command to say it carries two possible meanings: either it is a repetition of the words to remind the mind and revive the meaning in a person's self and heart, so that he remains settled in this obedience, by Allah's leave; or it is the taking of a decision in life: Say: I believe in Allah.
 
-And what does faith do within the believer? It makes a person more certain of what is in his Lord's hand than of what is in his own. He added in English that the believer finds goodness in his hand because he has believed in Allah, and that a person may have little in his hand and yet it suffices him and covers his need without his realizing how that came about, and there are no big numbers in his hand.[^4]
+And what does faith do within the believer? It makes a person more certain of what is in his Lord's hand than of what is in his own. He added in English that the believer finds goodness in his hand because he has believed in Allah, and that a person may have little in his hand and yet it suffices him and covers his need without his realizing how that came about, and there are no big numbers in his hand.
 
 ### Then be upright
 
-The Prophet ﷺ said: «قل آمنت بالله ثم استقم» ("Say: I believe in Allah, then be upright"). And Allah, glory be to Him, has said: ﴿إِنَّ الَّذِينَ قَالُوا رَبُّنَا اللَّهُ ثُمَّ اسْتَقَامُوا تَتَنَزَّلُ عَلَيْهِمُ الْمَلَائِكَةُ﴾ [Fuṣṣilat: 30] ("Indeed, those who say, 'Our Lord is Allah,' and then remain upright, the angels descend upon them").[^5]
+The Prophet ﷺ said: «قل آمنت بالله ثم استقم» ("Say: I believe in Allah, then be upright"). And Allah, glory be to Him, has said: ﴿إِنَّ الَّذِينَ قَالُوا رَبُّنَا اللَّهُ ثُمَّ اسْتَقَامُوا تَتَنَزَّلُ عَلَيْهِمُ الْمَلَائِكَةُ﴾ [Fuṣṣilat: 30] ("Indeed, those who say, 'Our Lord is Allah,' and then remain upright, the angels descend upon them").[^3]
 
-He recounted an episode of a man who asked about what Allah had commanded him, and Ramadan was mentioned to him, and he said: By Allah, I will do neither more nor less than that.[^6]
+He recounted an episode of a man who asked about what Allah had commanded him, and Ramadan was mentioned to him, and he said: By Allah, I will do neither more nor less than that.
 
 And what does uprightness signify in people's lives? That the heart be upright in its certainty about what is with Allah; that the mind be upright within the sphere of thinking about what is lawful and not transgress it; and that the body not cease worshipping Allah, blessed and exalted, especially when one knows that this is obligatory upon him and that he will be held accountable for it in Allah's presence on the Day of Resurrection.
 
@@ -53,8 +53,5 @@ He concluded by saying: I ask Allah, the Most High, the Almighty, to spread out 
 
 ---
 [^1]: Editor's documentation: The origin of the hadith is in Ṣaḥīḥ Muslim, where its wording is «قل آمنت بالله فاستقم»; the narration «ثم استقم» appears elsewhere. The other narration («قل ربي الله ثم استقم» and «ما أخوف ما تخاف عليّ») is in al-Tirmidhī and Aḥmad.
-[^2]: Editor's documentation: This passage in English is garbled in the automatic transcript; only its general meaning has been recorded.
-[^3]: Editor's documentation: The speaker did not complete the link between the verse and Thaqīf in the transcribed passage; he mentioned it only as a recollection when naming the tribe. In the books of tafsir, "the two towns" are Mecca and al-Ṭā'if.
-[^4]: Editor's documentation: The English phrasing here is garbled in the transcript; the meaning has been recorded with caution.
-[^5]: Editor's documentation: Of the verse, only as much as the speaker mentioned has been recorded; its continuation is in Sūrat Fuṣṣilat.
-[^6]: Editor's documentation: The passage is cut off in the transcript; it may be an allusion to the hadith of the Bedouin who asked about the obligations of Islam, but the speaker did not state his name or its text.
+[^2]: Editor's documentation: The speaker did not complete the link between the verse and Thaqīf; he mentioned it only as a recollection when naming the tribe. In the books of tafsir, "the two towns" are Mecca and al-Ṭā'if.
+[^3]: Editor's documentation: Of the verse, only as much as the speaker mentioned has been recorded; its continuation is in Sūrat Fuṣṣilat.
