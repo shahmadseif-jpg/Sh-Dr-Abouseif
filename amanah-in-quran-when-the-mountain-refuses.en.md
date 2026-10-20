@@ -41,7 +41,7 @@ Before any of them states the substance of his message or calls his people to th
 
 And Gabriel, too, is so described in the Qurʾan's portrayal of revelation:
 
-﴿ثُمَّ أَمِينٌ﴾ (81:21)
+﴿ثَمَّ أَمِينٍ﴾ (81:21)
 *"…trustworthy."*
 
 ### Another Model: The Practical Definition of Amānah

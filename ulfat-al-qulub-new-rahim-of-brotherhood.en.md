@@ -57,5 +57,5 @@ And the wise one is he who sets himself in a position that many of creation cann
 
 ---
 [^1]: Editor's documentation: What the lecturer pronounced is the cited portion of the verse, which is in Sūrat al-Nisāʾ: 1, and its completion is: ﴿وَاتَّقُوا اللَّهَ الَّذِي تَسَاءَلُونَ بِهِ وَالْأَرْحَامَ﴾.
-[^2]: Editor's documentation: The editor did not find this wording or its chain, and it is retained as it came in the lecturer's speech.
+[^2]: Editor's documentation: The editor did not find this exact wording («أراك تتعثّر على الصراط») or its chain, and it is retained as it came in the lecturer's speech. The report in which the story of ʿAbd al-Raḥmān ibn ʿAwf's caravan and ʿĀʾishah (may Allah be pleased with her) is narrated is not authentic: Ibn al-Jawzī in al-Mawḍūʿāt quotes Imam Aḥmad as saying of it: «كذب منكر» (a rejected lie); al-Albānī said: «كذب» (a lie) (al-Silsila al-Ḍaʿīfa 6590); and Shuʿayb al-Arnaʾūṭ said: «منكر باطل» (rejected, false) (Takhrīj al-Musnad 24842).
 [^3]: Editor's documentation: Muslim narrated from the ḥadīth of Jābir (may Allah be pleased with him): «إِنَّ الشَّيْطَانَ قَدْ أَيِسَ أَنْ يَعْبُدَهُ الْمُصَلُّونَ فِي جَزِيرَةِ الْعَرَبِ، وَلَكِنْ فِي التَّحْرِيشِ بَيْنَهُمْ». The lecturer's wording differs from it, and it is retained as he said it.

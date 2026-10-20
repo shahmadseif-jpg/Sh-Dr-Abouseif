@@ -7,7 +7,8 @@ slug: "calls-to-faith-obedience-authority"
 readingMinutes: 4
 ---
 > Occasion: A transcription of a lecture (the ʿIshāʾ lesson) delivered at AIA on July 28, 2026   
-> Source: A transcription of a video lecture by Dr. Ahmed Abouseif — [Watch the original video on YouTube](https://www.youtube.com/watch?v=szQ3fPjTNIo)
+> Source: A transcription of a video lecture by Dr. Ahmed Abouseif — [Watch the original video on YouTube](https://www.youtube.com/watch?v=szQ3fPjTNIo)   
+> Editor's note: This text summarizes what could be established from the lecture, which consists mostly of recited verses; no explanation that was not in the lecture has been added.
 
 The Doctor began his lesson with the basmala, then Sūrat al-Nisāʾ, and recited the call around which the discussion revolves: ﴿يَا أَيُّهَا الَّذِينَ آمَنُوا أَطِيعُوا اللَّهَ وَأَطِيعُوا الرَّسُولَ وَأُولِي الْأَمْرِ مِنكُمْ ۖ فَإِن تَنَازَعْتُمْ فِي شَيْءٍ فَرُدُّوهُ إِلَى اللَّهِ وَالرَّسُولِ إِن كُنتُمْ تُؤْمِنُونَ بِاللَّهِ وَالْيَوْمِ الْآخِرِ ۚ ذَٰلِكَ خَيْرٌ وَأَحْسَنُ تَأْوِيلًا﴾ (“O you who believe, obey Allah and obey the Messenger and those in authority among you. And if you dispute over anything, refer it to Allah and the Messenger, if you believe in Allah and the Last Day. That is best and fairest in outcome.”). He counted it as a distinct call among the calls of the sūrah.[^1]
 
@@ -38,8 +39,6 @@ After the hadith he recited the story of Abraham with the king: ﴿أَلَمْ 
 ### Trusts and Justice
 
 And he recited the words of the Exalted: ﴿إِنَّ اللَّهَ يَأْمُرُكُمْ أَن تُؤَدُّوا الْأَمَانَاتِ إِلَىٰ أَهْلِهَا وَإِذَا حَكَمْتُم بَيْنَ النَّاسِ أَن تَحْكُمُوا بِالْعَدْلِ﴾ (“Indeed, Allah commands you to render trusts to their rightful owners, and when you judge between people, to judge with justice”).
-
-And at the end of the lesson came: “Greatest salutation… All right, sir, all right, Your Honor,” with no context showing what is meant, and then “Take…”.
 
 ---
 [^1]: Editor's documentation: The lecturer did not mention verse numbers; their locations according to the editor: the verse of obedience, al-Nisāʾ 4:59; the earlier calls, al-Nisāʾ 4:19, 4:29 and 4:43; “whoever obeys the Messenger,” al-Nisāʾ 4:80; ʿAbasa 80:1-3; the story of Abraham, al-Baqara 2:258; the verse of trusts, al-Nisāʾ 4:58.

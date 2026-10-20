@@ -64,7 +64,7 @@ The phrase recurs in verse 43 of the same sura. It is as though a single sura ga
 
 The verse that turned the Prophet ﷺ grey (11:112) does not bear this weight alone. In Sūrat Fuṣṣilat the command recurs in a wider form:
 
-﴿إِنَّمَا إِلَٰهُكُمْ إِلَٰهٌ وَاحِدٌ فَاسْتَقِيمُوا إِلَيْهِ وَاسْتَغْفِرُوهُ﴾ (41:6)
+﴿أَنَّمَا إِلَٰهُكُمْ إِلَٰهٌ وَاحِدٌ فَاسْتَقِيمُوا إِلَيْهِ وَاسْتَغْفِرُوهُ﴾ (41:6)
 
 *“Your God is but one God, so be upright toward Him and seek His forgiveness.”*
 

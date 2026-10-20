@@ -41,7 +41,7 @@ Antes de exponer el contenido de su mensaje o de llamar a su pueblo a adorar a D
 
 Y también a Gabriel se le describe así en la imagen coránica de la revelación:
 
-﴿ثُمَّ أَمِينٌ﴾ (81:21)
+﴿ثَمَّ أَمِينٍ﴾ (81:21)
 *«…digno de confianza».*
 
 ### Otro modelo: la definición práctica de la amāna

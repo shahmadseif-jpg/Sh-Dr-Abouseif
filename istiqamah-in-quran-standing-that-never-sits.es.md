@@ -64,7 +64,7 @@ La expresión se repite en la aleya 43 de la misma sura. Es como si una sola sur
 
 La aleya que encaneció al Profeta ﷺ (11:112) no carga sola con este peso. En la sura de Fuṣṣilat la orden se repite en una forma más amplia:
 
-﴿إِنَّمَا إِلَٰهُكُمْ إِلَٰهٌ وَاحِدٌ فَاسْتَقِيمُوا إِلَيْهِ وَاسْتَغْفِرُوهُ﴾ (41:6)
+﴿أَنَّمَا إِلَٰهُكُمْ إِلَٰهٌ وَاحِدٌ فَاسْتَقِيمُوا إِلَيْهِ وَاسْتَغْفِرُوهُ﴾ (41:6)
 
 *«Vuestro Dios es solo un Dios único; sed, pues, rectos hacia Él y pedidle perdón.»*
 
