@@ -1,5 +1,5 @@
 ---
-title: "Khatira [ Ranking Among the Messengers ] | Dr. Ahmed Abouseif | 4 November 2019"
+title: "Khatira [ Ranking Among the Messengers ]"
 subtitle: "On the Saying of Allah, Exalted Be He, ﴿تِلْكَ الرُّسُلُ فَضَّلْنَا بَعْضَهُمْ عَلَىٰ بَعْضٍ﴾: The Meaning of Ranking Among the Messengers, and What Is Connected with It of Disagreement and Spending"
 date: "2019-11-04"
 locale: "en"

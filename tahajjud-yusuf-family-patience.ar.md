@@ -1,6 +1,5 @@
 ---
 title: "سورة يوسف والصبر ومفهوم الأسرة"
-subtitle: "سورة يوسف، والصبر، ومفهوم الأسرة"
 date: "2026-03-11"
 locale: "ar"
 slug: "tahajjud-yusuf-family-patience"

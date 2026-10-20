@@ -1,6 +1,5 @@
 ---
 title: "تكامل الأسماء الحسنى في خواتيم سورة الحشر"
-subtitle: "تكامل الأسماء الحسنى في خواتيم سورة الحشر"
 date: "2026-08-04"
 locale: "ar"
 slug: "names-of-allah-surat-al-hashr"

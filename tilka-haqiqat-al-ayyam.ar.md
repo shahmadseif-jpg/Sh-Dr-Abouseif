@@ -1,6 +1,5 @@
 ---
 title: "تلك حقيقة الأيام: كل ما نعايشه سيزول"
-subtitle: "تلك حقيقة الأيام: كل ما نعايشه سيزول"
 date: "2026-06-13"
 locale: "ar"
 slug: "tilka-haqiqat-al-ayyam"

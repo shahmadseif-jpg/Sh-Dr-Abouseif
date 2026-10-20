@@ -1,6 +1,5 @@
 ---
 title: "Sūrat al-Naṣr: Not Good News That Brings Rest, but a Greater Charge"
-subtitle: "Sūrat al-Naṣr: Not Good News That Brings Rest, but a Greater Charge"
 date: "2026-06-18"
 locale: "en"
 slug: "nasr-victory-means-more-work"

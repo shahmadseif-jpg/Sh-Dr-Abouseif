@@ -1,6 +1,5 @@
 ---
 title: "أصحاب الجنة في سورة القلم: أمالكٌ أنت أم مؤتمَن؟"
-subtitle: "أصحاب الجنة في سورة القلم: أمالكٌ أنت أم مؤتمَن؟"
 date: "2026-07-27"
 locale: "ar"
 slug: "qalam-garden-owners-owner-or-trustee"

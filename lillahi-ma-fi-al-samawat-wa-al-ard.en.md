@@ -1,6 +1,5 @@
 ---
 title: "‹To Allah Belongs What Is in the Heavens and What Is on the Earth›: The Whole Matter Is Allah's"
-subtitle: "“To Allah Belongs What Is in the Heavens and What Is on the Earth”: The Whole Matter Is Allah’s"
 date: "2026-04-03"
 locale: "en"
 slug: "lillahi-ma-fi-al-samawat-wa-al-ard"

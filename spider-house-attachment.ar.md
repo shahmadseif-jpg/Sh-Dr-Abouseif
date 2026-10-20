@@ -1,6 +1,5 @@
 ---
 title: "بيت العنكبوت: كل تعلّق بغير الله خيطٌ واهٍ"
-subtitle: "بيت العنكبوت: كل تعلّق بغير الله خيطٌ واهٍ"
 date: "2026-09-24"
 locale: "ar"
 slug: "spider-house-attachment"

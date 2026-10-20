@@ -1,5 +1,5 @@
 ---
-title: "Khatira [ Victory Has a Thousand Fathers ] | Dr. Ahmed Abouseif | 26 October 2019"
+title: "Khatira [ Victory Has a Thousand Fathers ]"
 subtitle: "Victory Has a Thousand Fathers and Defeat Is an Orphan: A Father's Responsibility Does Not End with the Opening or the Photographs"
 date: "2019-10-26"
 locale: "en"

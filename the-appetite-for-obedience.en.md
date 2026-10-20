@@ -47,7 +47,7 @@ Among the most dangerous errors a person falls into is confusing a **sudden rise
 
 The Qur'an warned us against unraveling a resolve after it has been firmly spun, striking an unforgettable image:
 
-> ﴾And do not be like she who untwisted her spun thread after it was strong, into untwisted strands﴿ [Al-Naḥl: 92]
+> ﴿And do not be like she who untwisted her spun thread after it was strong, into untwisted strands﴾ [Al-Naḥl: 92]
 
 And so the Prophet's ﷺ measure was constancy, not quantity:
 
@@ -106,7 +106,7 @@ Perhaps the greatest difference between the beginner and the firmly-rooted trave
 
 And so true success on the road to God is not that you blaze for a day, but that you remain; not that you begin with force, but that you persist with sincerity; not that you love obedience when it suits your mood, but that you stay faithful to it when the pleasure departs and the duty remains. That is the steadfastness with which the Master of creation himself was commanded:
 
-> ﴾So remain on a right course as you have been commanded﴿ [Hūd: 112]
+> ﴿So remain on a right course as you have been commanded﴾ [Hūd: 112]
 
 ---
 
@@ -114,6 +114,6 @@ And so true success on the road to God is not that you blaze for a day, but that
 
 The appetite for obedience may be the gate through which one enters the road, but it must not be the whole of the road. The road itself is built upon what is deeper and more lasting: upon love, faithfulness, steadfastness, and beautiful traveling toward God — until the servant meets his Lord firm-footed upon the covenant, not severed after a surge.
 
-> ﴾And worship your Lord until there comes to you the certainty﴿ [Al-Ḥijr: 99]
+> ﴿And worship your Lord until there comes to you the certainty﴾ [Al-Ḥijr: 99]
 
 O God, as You awakened in us the yearning for You, make our feet firm, make Your love more enduring in us than the moment of fervor, and grant us an obedience by which we live and in which we do not burn out.

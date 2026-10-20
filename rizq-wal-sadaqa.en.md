@@ -1,5 +1,5 @@
 ---
-title: "Khatira [ Provision and Charity ] | Dr. Ahmed Abouseif | May 9, 2021"
+title: "Khatira [ Provision and Charity ]"
 subtitle: "Goodness Is an Open Door That Charity Alone Does Not Narrow: So Race to It, Correct Your Intention, and Perfect Your Performance"
 date: "2021-05-09"
 locale: "en"

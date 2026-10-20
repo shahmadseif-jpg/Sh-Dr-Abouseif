@@ -1,6 +1,5 @@
 ---
 title: "Surah Yusuf, Patience, and the Concept of Family"
-subtitle: "Surah Yusuf, patience, and the concept of family"
 date: "2026-03-11"
 locale: "en"
 slug: "tahajjud-yusuf-family-patience"
