@@ -66,7 +66,7 @@ And hence we see: you have supplicated Allah, the Most High, for fixed terms, nu
 I ask Allah, the Most High, for me and for you, safety, well-being and security, and that Allah, Blessed and Most High, grant us provision from what is lawful. May Allah be pleased with you, and peace be upon you.
 
 ---
-[^1]: Editor's documentation: The speaker transmitted the ḥadīth by meaning, so it has been given without quotation marks. The ḥadīth is narrated by Muslim from Ibn Masʿūd (may Allah be pleased with him) in the story of Umm Ḥabībah's supplication, and the speaker did not attribute it; the wording of the supplication for the woman asking, which comes before it in the transcript, has not been included here because its attribution is garbled.
+[^1]: Editor's documentation: The speaker transmitted the ḥadīth by meaning, so it has been given without quotation marks. The ḥadīth is narrated by Muslim from Ibn Masʿūd (may Allah be pleased with him) in the story of Umm Ḥabībah's supplication, and the speaker did not attribute it.
 [^2]: Editor's documentation: The ḥadīth is agreed upon, from the ḥadīth of ʿĀʾishah and al-Mughīrah ibn Shuʿbah (may Allah be pleased with them both) in approximately this wording; the speaker did not attribute it.
 [^3]: Editor's documentation: Āl ʿImrān: 144. The speaker recited the verse up to «فلن يضر الله شيئًا» (he will never harm Allah at all).
 [^4]: Editor's documentation: The speaker transmitted the ḥadīth by meaning and did not attribute it, so it has been given without prophetic quotation marks.

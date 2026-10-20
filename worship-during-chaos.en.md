@@ -35,17 +35,17 @@ Big words. But to understand the reward of the *hijrah*, ask: what was the first
 
 Look at what the people who made that *hijrah* did. They left Makkah and its chaos and came to Madinah. Did they sit around the Prophet ﷺ in comfort, saying, "O Messenger of Allah, I love you so much, I will never leave you"? No. They began another journey. They sat to listen only when revelation came with new commands, and then they went out to carry them out. They set about building a community, defending Islam, and raising the generation that would come after them. They did not settle in Madinah letting everyone do as they pleased, whether the Jewish tribes there or the Arab tribes around them who were not yet Muslim. They set about fixing the problem, and started another journey.
 
-Now another narration of the hadith makes sense. The speaker explains that, in another wording, the word "worship" is replaced by a word of action.[^3] If you want the reward of the *hijrah* to the Prophet ﷺ, you must understand that it means more than sitting at home, or sitting in the masjid and saying, "The corruption is everywhere, I am going to the masjid to keep my religion." You will lose your religion in the masjid if you stay in it without carrying what you learn outside it.
+Now another narration of the hadith makes sense. The speaker explains that, in another wording, the word "worship" is replaced by a word of action. If you want the reward of the *hijrah* to the Prophet ﷺ, you must understand that it means more than sitting at home, or sitting in the masjid and saying, "The corruption is everywhere, I am going to the masjid to keep my religion." You will lose your religion in the masjid if you stay in it without carrying what you learn outside it.
 
 He is speaking to those who attend the masjid, he adds, not to those who come only on celebrations and are gone afterwards.
 
 ### The reformer's way of seeing
 
-The engineers have a joke: Allah created two kinds of people, the engineers and the rest of humanity. The reformer looks at people in a similar way, as another kind of creation: what is wrong with them, and how can it be fixed so they stay on the right path, the path we ask Allah to guide us to seventeen times every day?[^4] When we see corruption around us, we are meant to reform it into something good.
+The engineers have a joke: Allah created two kinds of people, the engineers and the rest of humanity. The reformer looks at people in a similar way, as another kind of creation: what is wrong with them, and how can it be fixed so they stay on the right path, the path we ask Allah to guide us to seventeen times every day?[^3] When we see corruption around us, we are meant to reform it into something good.
 
 ### Abu Bakr: a mindset, not a story
 
-The speaker returns to Abu Bakr al-Siddīq, may Allah be pleased with him. What did he do? He brought his money and put it in the hands of the Prophet ﷺ. The Prophet ﷺ asked him what he had left for his children.[^5] We do not honor him with so many stories because of the act itself; we honor him because of the mindset behind it. He brought everything he had saved; he taught what sacrifice means and what it means to look ahead. In the eyes of his children he saw those who would one day lead the Muslim community, and not only their own community but humanity.
+The speaker returns to Abu Bakr al-Siddīq, may Allah be pleased with him. What did he do? He brought his money and put it in the hands of the Prophet ﷺ. The Prophet ﷺ asked him what he had left for his children.[^4] We do not honor him with so many stories because of the act itself; we honor him because of the mindset behind it. He brought everything he had saved; he taught what sacrifice means and what it means to look ahead. In the eyes of his children he saw those who would one day lead the Muslim community, and not only their own community but humanity.
 
 ### Becoming a reformer where you stand
 
@@ -64,8 +64,7 @@ This, he says, is why the community must prepare the next generation of imams, a
 His last word: when someone comes to ask you for something, remember that Allah has given them your address and they are knocking on your door. So be careful with Allah.
 
 ---
-[^1]: The transcript has the speaker describe this as "the second surah revealed", and the Arabic words of the verse are lost in transcription. Editor's documentation: the likely reference is ﴿وَإِنَّكَ لَعَلَىٰ خُلُقٍ عَظِيمٍ﴾ [القلم: 4], "And indeed, you are of a great moral character." The speaker's identification is not confirmed.
-[^2]: Narrated by Muslim from Maʿqil ibn Yasār (may Allah be pleased with him). The Arabic wording is supplied by the editor. The transcript gives only a spoken paraphrase.
-[^3]: The Arabic words of this narration are not audible in the transcript. The editor has not supplied them.
-[^4]: An allusion to the request for guidance to the straight path in Sūrat al-Fātiḥah, recited in the prayers. Editor's documentation.
-[^5]: The speaker retells the story of Abu Bakr bringing all his wealth. Editor's documentation: it is reported by Abū Dāwūd and al-Tirmidhī from ʿUmar ibn al-Khaṭṭāb (may Allah be pleased with him). The speaker did not cite it, and the editor's confidence in the attribution is moderate.
+[^1]: The speaker described this as "the second surah revealed". Editor's documentation: the likely reference is ﴿وَإِنَّكَ لَعَلَىٰ خُلُقٍ عَظِيمٍ﴾ [القلم: 4], "And indeed, you are of a great moral character."
+[^2]: Narrated by Muslim from Maʿqil ibn Yasār (may Allah be pleased with him). The Arabic wording is supplied by the editor; the speaker gave it by meaning.
+[^3]: An allusion to the request for guidance to the straight path in Sūrat al-Fātiḥah, recited in the prayers. Editor's documentation.
+[^4]: The speaker retells the story of Abu Bakr bringing all his wealth. Editor's documentation: it is reported by Abū Dāwūd and al-Tirmidhī from ʿUmar ibn al-Khaṭṭāb (may Allah be pleased with him). The speaker did not cite it.

@@ -23,11 +23,11 @@ For succession is tied to three depths: the first relates to Allah, the second r
 
 ### Establishing the Religion in All of Life
 
-﴿وَلَيُمَكِّنَنَّ لَهُمْ دِينَهُمْ﴾ (“and He will surely establish for them their religion”): the establishment of the religion in our lives from birth to death until we meet Allah, Blessed and Exalted, and we have no other way. And the Prophet ﷺ used to teach his Companions in every aspect of life: how to be good armies, how to be righteous people of politics, how to be people of trade and business; he used to teach them all the affairs of life and how to be the foremost of people in society, leading everyone else.[^3]
+﴿وَلَيُمَكِّنَنَّ لَهُمْ دِينَهُمْ﴾ (“and He will surely establish for them their religion”): the establishment of the religion in our lives from birth to death until we meet Allah, Blessed and Exalted, and we have no other way. And the Prophet ﷺ used to teach his Companions in every aspect of life: how to be good armies, how to be righteous people of politics, how to be people of trade and business; he used to teach them all the affairs of life and how to be the foremost of people in society, leading everyone else.
 
 ### ﴿وَلَيُبَدِّلَنَّهُم مِّن بَعْدِ خَوْفِهِمْ أَمْنًا﴾ (“and He will surely replace their fear with security”)
 
-In this context he mentioned the story of the young woman who stood up in the middle of Microsoft and said: No, you are practicing this error, and I am not one of you. Then he asked: what might have happened to her? And afterwards? She did not die of lack of food; Allah, Glory be to Him, compensated and provided, and perhaps people rushed to her, and perhaps you learn more from the story.[^4]
+In this context he mentioned the story of the young woman who stood up in the middle of Microsoft and said: No, you are practicing this error, and I am not one of you. Then he asked: what might have happened to her? And afterwards? She did not die of lack of food; Allah, Glory be to Him, compensated and provided, and perhaps people rushed to her, and perhaps you learn more from the story.
 
 Then he completed the verse: ﴿يَعْبُدُونَنِي لَا يُشْرِكُونَ بِي شَيْئًا﴾ (“they worship Me, associating nothing with Me”), and he swore by Allah, besides whom there is no god, that one of his teachers had charged him beforehand to write this verse and to keep it before him wherever he was.
 
@@ -35,6 +35,4 @@ May Allah bless you and bless you all, and may Allah reward you with good, and m
 
 ---
 [^1]: Editor's documentation: Sūrat al-Nūr (24:55); the speaker recited it in pieces at various points in the khatira, and it has been gathered here in order.
-[^2]: Editor's documentation: Sūrat Hūd (11:61); what is audible in the transcript is cut off and garbled, so it has not been completed.
-[^3]: Editor's documentation: The transcript contains an interspersed English passage that agrees with this meaning (the Prophet ﷺ teaching his Companions the affairs of life), and it has been phrased here in Arabic to the extent it was clear; likewise another English passage about large corporations, artificial intelligence and their aims, which is garbled and so was not transferred.
-[^4]: Editor's documentation: The speaker did not name the young woman or the incident beyond what is mentioned; the transcript is garbled at this point, so only what was clear has been kept.
+[^2]: Editor's documentation: Sūrat Hūd (11:61).

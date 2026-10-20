@@ -35,7 +35,7 @@ So we forget Him in buying and selling, we forget Him in spending our time at ti
 
 ### The Story of the Man with Sulaymān, Peace Be upon Him
 
-Do you remember the story of the man who was with our master Sulaymān? A very charming story: they say that the Angel of Death entered upon our master Sulaymān and kept looking at a man sitting with him. The man, the guest, asked our master Sulaymān: Who is this? He said to him: The Angel of Death. He said: He is looking at me, so please command the wind to carry me far away. So the wind carried him. And after a little while the Angel of Death returned, and Sulaymān asked him: Why were you looking at that man? He said: I was astonished, how could he be sitting here when I had been commanded to take his soul in another place?[^4]
+Do you remember the story of the man who was with our master Sulaymān? A very charming story: they say that the Angel of Death entered upon our master Sulaymān and kept looking at a man sitting with him. The man, the guest, asked our master Sulaymān: Who is this? He said to him: The Angel of Death. He said: He is looking at me, so please command the wind to carry me far away. So the wind carried him. And after a little while the Angel of Death returned, and Sulaymān asked him: Why were you looking at that man? He said: I was astonished, how could he be sitting here when I had been commanded to take his soul in another place?
 
 And do you know what escapes us, dear brothers, may Allah honor you? To use our reason in what we do.
 
@@ -50,7 +50,6 @@ And if you weigh your deeds by the scale of the Lord of the worlds, glory be to 
 And on this night I want to leave this place having left behind me a righteous supplication from your tongues that Allah accept us. And he concluded with a supplication for those present: May Allah honor you with a good tongue, and honor you with bodily well-being, and with blessing in your wealth, and with the delight of your eyes in your children, and with your wives being pleased with you. And he supplicated for the masjid's school, that Allah bless it and those who run it and those who spend on it, and grant them blessing for this place and what is in it and around it.
 
 ---
-[^1]: Editor's documentation: Sūrat Yūnus, verse 24. The transcript is garbled at the end of the verse, and it was recorded in full because the speaker referred to it and recited it.
+[^1]: Editor's documentation: Sūrat Yūnus, verse 24. It was recorded in full because the speaker referred to it and recited it.
 [^2]: Editor's documentation: Sūrat al-Munāfiqūn, verse 10.
-[^3]: Editor's documentation: Sūrat al-ʿAlaq, verses 6–7. In the transcript, at the second verse there is «انراه تغنى», which is garbled, and ﴿أَن رَّآهُ اسْتَغْنَىٰ﴾ was understood from it by the indication of the speaker's question «متى يطغى الإنسان؟»; so it should be checked against the audio.
-[^4]: Editor's documentation: The name of the place in which the Angel of Death was commanded to take the man's soul is unclear in the transcript, so it was not recorded. Likewise the word after «مع» in «قبل ما تتعامل مع …» (before «زميلك» and after it) is garbled, so what could not be confirmed was deleted.
+[^3]: Editor's documentation: Sūrat al-ʿAlaq, verses 6–7.

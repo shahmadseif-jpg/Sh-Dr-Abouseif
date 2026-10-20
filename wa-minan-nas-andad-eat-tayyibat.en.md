@@ -56,7 +56,7 @@ Hence: ﴿وَمِنَ النَّاسِ مَن يَتَّخِذُ مِن دُو�
 Reflect on the verses; the choice of every word in them deserves a very long time of reflection. Glory be to the One whose speech this is, and glory be to the One who taught us how to understand His intent, Glorified and Exalted. I ask Allah for safety, well-being and good pleasure for me and for you.
 
 ---
-[^1]: Editor's documentation: Sūrat al-Baqarah, verse 165. The speaker did not mention the sūrah clearly in the transcript.
-[^2]: Editor's documentation: The ḥadīth is in Ṣaḥīḥ al-Bukhārī with the wording «تَعِسَ عَبْدُ الدِّينَارِ وَالدِّرْهَمِ وَالْقَطِيفَةِ وَالْخَمِيصَةِ» (Wretched is the slave of the dinar, the dirham, the qaṭīfah and the khamīṣa); the speaker conveyed it by meaning and in a garbled way in the transcript, so it has been rendered in the body by meaning, without quotation.
+[^1]: Editor's documentation: Sūrat al-Baqarah, verse 165.
+[^2]: Editor's documentation: The ḥadīth is in Ṣaḥīḥ al-Bukhārī with the wording «تَعِسَ عَبْدُ الدِّينَارِ وَالدِّرْهَمِ وَالْقَطِيفَةِ وَالْخَمِيصَةِ» (Wretched is the slave of the dinar, the dirham, the qaṭīfah and the khamīṣa); the speaker conveyed it by meaning, so it has been rendered in the body by meaning, without quotation.
 [^3]: Editor's documentation: Sūrat al-Baqarah, verse 168.
 [^4]: Editor's documentation: Sūrat al-Baqarah, verse 172.

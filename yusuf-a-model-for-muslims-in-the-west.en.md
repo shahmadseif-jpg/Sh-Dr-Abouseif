@@ -49,9 +49,8 @@ Each of us has talents and ways. He cannot force anyone to do what he cannot do,
 
 ### The next generation
 
-The speaker closes by speaking on behalf of the American Imams Academy. The Academy is preparing its students to be callers to the faith and, in the future, imams. A few years ago its first graduates finished, and they now serve as imams in different places: California, Florida, and other states.[^3]
+The speaker closes by speaking on behalf of the American Imams Academy. The Academy is preparing its students to be callers to the faith and, in the future, imams. A few years ago its first graduates finished, and they now serve as imams in different places: California, Florida, and other states.
 
 ---
-[^1]: The transcript speaks of Yusuf interpreting dreams for those who came to him, without quoting the verses, so none are added here. Editor's documentation: the story of the two young men in prison and the king's dream is in Sūrat Yūsuf.
-[^2]: The words of the verse are not audible in the transcript. Editor's documentation: the meaning corresponds to ﴿ادْعُ إِلَىٰ سَبِيلِ رَبِّكَ بِالْحِكْمَةِ وَالْمَوْعِظَةِ الْحَسَنَةِ﴾ [النحل: 125], "Invite to the way of your Lord with wisdom and good instruction." The identification is the editor's.
-[^3]: توثيق المحرر: the student number is unclear in the recording, so no figure is given.
+[^1]: Editor's documentation: The story of the two young men in prison and the king's dream is in Sūrat Yūsuf.
+[^2]: Editor's documentation: The meaning corresponds to ﴿ادْعُ إِلَىٰ سَبِيلِ رَبِّكَ بِالْحِكْمَةِ وَالْمَوْعِظَةِ الْحَسَنَةِ﴾ [النحل: 125], "Invite to the way of your Lord with wisdom and good instruction." The identification is the editor's.

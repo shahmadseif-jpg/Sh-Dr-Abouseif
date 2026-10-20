@@ -64,6 +64,6 @@ I ask Allah, blessed and exalted, to bless us in this brotherhood of ours, to pr
 [^2]: Editor's documentation: al-Zukhruf: 68. The speaker pronounced it as "yā ʿibādī," and what is given here is the spelling of the muṣḥaf.
 [^3]: Editor's documentation: al-Ḥujurāt: 10. Its continuation, to which the speaker alluded afterward: "so make settlement between your brothers."
 [^4]: Editor's documentation: al-Zukhruf: 69.
-[^5]: Editor's documentation: al-Zukhruf: 70. There is a disturbance in the last word in the transcript, and "tuḥbarūn" has been given as in the muṣḥaf.
+[^5]: Editor's documentation: al-Zukhruf: 70. "tuḥbarūn" has been given as in the muṣḥaf.
 [^6]: Editor's documentation: al-Baqarah: 236 (the doers of good) and al-Baqarah: 241 (the God-fearing).
 [^7]: Editor's documentation: al-Zukhruf: 71.

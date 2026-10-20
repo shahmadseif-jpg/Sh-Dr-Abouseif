@@ -30,6 +30,6 @@ Imagine life with all that is in it: it will melt away and pass and be gone. Do 
 I ask Allah, the Most High, the Almighty, to show us the reality of this world, not to let us be deceived by anything in it, not to let us be tempted by its adornment and glitter, and to make us pass through it into the Hereafter. O Allah, amen, O Lord of the worlds. May Allah keep your steps safe and bless you.
 
 ---
-[^1]: Editor's documentation: Al-Nāziʿāt: 46. The speaker's recitation of the verse came out in a disordered sequence in the transcript, so it has been recorded as it appears in the muṣḥaf, to the extent that he mentioned it.
+[^1]: Editor's documentation: Al-Nāziʿāt: 46. The verse is recorded as it appears in the muṣḥaf, to the extent that the speaker mentioned it.
 [^2]: Editor's documentation: Al-Layl: 19–20.
-[^3]: Editor's documentation: The speaker's phrase "as much as you humiliate your body, it honors you" is as it appears in the transcript; what he most likely means is putting the body through praiseworthy effort and hardship.
+[^3]: Editor's documentation: What the speaker's phrase "as much as you humiliate your body, it honors you" most likely means is putting the body through praiseworthy effort and hardship.
