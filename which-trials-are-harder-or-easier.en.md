@@ -34,5 +34,5 @@ Then, in conclusion, we remember an important sentence that we make a motto in o
 So praise be to Allah for what is in our hands, and we ask Allah, the Most High, for good endurance of what we are tried with, and we ask Allah, the Most High, for well-being in all our affairs, and that Allah, the Most High, grant us souls that reach Paradise through their patience and are excellent in giving thanks to the Bestower, glorified, high in His majesty. May Allah bless you and bless you in what you have, and may Allah reward you well, and the peace, mercy and blessings of Allah be upon you.
 
 ---
-[^1]: Editor's documentation: The speaker transmitted the saying from 'Umar, may Allah be pleased with him, from memory and did not recall the fourth kind; the editor has not verified that this report is established, so it is transmitted as the speaker said it.
+[^1]: Editor's documentation: The speaker transmitted the saying from 'Umar, may Allah be pleased with him, from memory and did not recall the fourth kind; the authenticity of this report is not clear, so it is transmitted as the speaker said it.
 [^2]: Editor's documentation: Sūrat ash-Shūrā, verse 19.

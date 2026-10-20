@@ -45,5 +45,5 @@ I ask Allah, blessed and exalted, to bless us on this noble day, and to provide 
 
 ---
 [^1]: Editor's documentation: Sūrat al-Qalam, verse 17; the speaker recited after it «ولا يستثنون» ("and they make no exception"), which is from verse 18, and it was not recorded in the body.
-[^2]: Editor's documentation: This wording is known, as far as we know, from the sermon of ʿUtba ibn Ghazwān, may Allah be pleased with him, in Ṣaḥīḥ Muslim, and the speaker attributed it to the Prophet ﷺ, so its attribution should be checked before publication.
+[^2]: Editor's documentation: This wording is known, as far as we know, from the sermon of ʿUtba ibn Ghazwān, may Allah be pleased with him, in Ṣaḥīḥ Muslim, and the speaker attributed it to the Prophet ﷺ, so its attribution is open to question.
 [^3]: Editor's documentation: Sūrat al-Qalam, verse 19.

@@ -59,6 +59,6 @@ He closed with a supplication, asking Allah, it seems, to place the means betwee
 
 ---
 [^1]: Editor's documentation: The lecturer named only Sūrat al-Rūm; the surah names and verse numbers in the citations are the editor's (al-Rūm 21; 20 and 22–24 for the verses quoted next; al-Taḥrīm 1–3 and 4; al-Mujādilah 1).
-[^2]: Editor's documentation: The endings correspond to al-Rūm 21 (يَتَفَكَّرُونَ), 22 (لِلْعَالِمِينَ), 23 (يَسْمَعُونَ) and 24 (يَعْقِلُونَ). The phrases about the creation of the heavens and the earth and "those of understanding" recall Āl ʿImrān 190–191.
+[^2]: Editor's documentation: The endings correspond to al-Rūm 21 (﴿يَتَفَكَّرُونَ﴾), 22 (﴿لِلْعَالِمِينَ﴾), 23 (﴿يَسْمَعُونَ﴾) and 24 (﴿يَعْقِلُونَ﴾). The phrases about the creation of the heavens and the earth and "those of understanding" recall Āl ʿImrān 190–191.
 [^3]: Editor's documentation: narrated by al-Bukhārī and Muslim from Ibn ʿUmar, may Allah be pleased with them both.
 [^4]: Editor's documentation: The incident is reported in the two Ṣaḥīḥs from ʿĀʾishah, may Allah be pleased with her, as a reason for the revelation.

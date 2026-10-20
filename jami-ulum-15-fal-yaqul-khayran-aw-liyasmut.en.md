@@ -65,6 +65,6 @@ He concluded with a supplication that Allah guide our souls and hearts to the tr
 [^1]: Editor's documentation: Narrated by al-Bukhārī and Muslim from the ḥadīth of Abū Hurayrah (may Allah be pleased with him).
 [^2]: Editor's documentation: The speaker related the ḥadīth by meaning, without naming the questioner; it is in the ḥadīth of Muʿādh ibn Jabal (may Allah be pleased with him) in al-Tirmidhī, who said: ḥasan ṣaḥīḥ.
 [^3]: Editor's documentation: The speaker related it by meaning, and its origin is in Ṣaḥīḥ al-Bukhārī from the ḥadīth of Abū Hurayrah (may Allah be pleased with him).
-[^4]: Editor's documentation: The speaker did not attribute the ḥadīth; it is related from the ḥadīth of ʿUqbah ibn ʿĀmir (may Allah be pleased with him) in Aḥmad and al-Ṭabarānī, and its grade is to be reviewed before publication.
+[^4]: Editor's documentation: The speaker did not attribute the ḥadīth; it is related from the ḥadīth of ʿUqbah ibn ʿĀmir (may Allah be pleased with him) in Aḥmad and al-Ṭabarānī, and its grade requires further verification.
 [^5]: Editor's documentation: Sūrat al-Nisāʾ, verse 36.
 [^6]: Editor's documentation: The speaker said "if I have related it correctly"; the story was narrated by al-Bukhārī and Muslim from the ḥadīth of Abū Hurayrah (may Allah be pleased with him), in which Allah marveled or laughed at what the couple did for their guest; the phrase "looked upon what the two of you did" is the speaker's own rendering in relaying it.

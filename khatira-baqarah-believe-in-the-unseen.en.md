@@ -30,6 +30,6 @@ He noted that the opening of al-Baqarah presents three groups: the believers, th
 That led him to the speech of Noah's people: ﴿مَا نَرَاكَ اتَّبَعَكَ إِلَّا الَّذِينَ هُمْ أَرَاذِلُنَا بَادِيَ الرَّأْيِ وَمَا نَرَىٰ لَكُمْ عَلَيْنَا مِن فَضْلٍ بَلْ نَظُنُّكُمْ كَاذِبِينَ﴾, "We see none following you except those who are the lowest among us, at first glance, and We do not see in you any superiority over us; rather, we think you are liars."[^3]
 
 ---
-[^1]: Sūrat al-Baqarah: 2–3. Editor's documentation: The English translation of the verses is the editor's.
-[^2]: سورة البقرة: 13.
+[^1]: Sūrat al-Baqarah: 2–4. Editor's documentation: The English translation of the verses is the editor's.
+[^2]: Sūrat al-Baqarah: 13.
 [^3]: Sūrat Hūd: 27. Editor's documentation: The verse in this wording is in Sūrat Hūd.

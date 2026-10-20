@@ -58,4 +58,4 @@ And since the mind reaches this stage and cannot go beyond it, our Lord said: �
 I ask Allah, blessed and exalted, to give us insight into what is before us.
 
 ---
-[^1]: Editor's documentation: The verses are from Sūrat al-Ḥashr [22–24] and Sūrat al-Ḥashr [21] (the verse of the mountain), al-Māʾida [64] (the hand of Allah is chained), Āl ʿImrān [181] (Allah is poor), and al-Māʾida [73] (third of three). The number of names (fourteen) is from the speaker's count and his own reservation, and was not checked.
+[^1]: Editor's documentation: The verses are from Sūrat al-Ḥashr [22–24] and Sūrat al-Ḥashr [21] (the verse of the mountain), al-Māʾida [64] (the hand of Allah is chained), Āl ʿImrān [181] (Allah is poor), and al-Māʾida [73] (third of three). The number of names (fourteen) is from the speaker's count and his own reservation, and the responsibility for it rests with him.

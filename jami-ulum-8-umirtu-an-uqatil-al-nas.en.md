@@ -63,5 +63,5 @@ And we ask Allah for blessing and safety. So strive as much as you can, and do n
 
 ---
 [^1]: Editor's documentation: The speaker referred to the verse in brief and did not complete it; it is most likely His saying, the Exalted, ﴿أُذِنَ لِلَّذِينَ يُقَاتَلُونَ بِأَنَّهُمْ ظُلِمُوا وَإِنَّ اللَّهَ عَلَىٰ نَصْرِهِمْ لَقَدِيرٌ﴾ (Permission [to fight] has been given to those who are being fought, because they were wronged, and indeed Allah is competent to give them victory) [Al-Ḥajj: 39].
-[^2]: Editor's documentation: The phrase "إن أنت إلا نذير" occurs in the Qur'an in more than one place (among them Fāṭir: 23).
+[^2]: Editor's documentation: The phrase «إن أنت إلا نذير» occurs in the Qur'an in more than one place (among them Fāṭir: 23).
 [^3]: Editor's documentation: The speaker did not specify the verses or the names in this passage, but said only that the verses of Sūrat al-Ḥashr explain this stage.
