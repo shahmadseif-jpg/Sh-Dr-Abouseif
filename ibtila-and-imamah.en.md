@@ -23,13 +23,13 @@ Then he moved on to Abraham, peace be upon him: «إني جاعلك للناس �
 
 ### Milestones in the Trials of Abraham
 
-Then he went through milestones of his life. He mentioned Ishmael, peace be upon him, and he mentioned the desert and Makkah, and in his speech came an expression about "the womb of the mother" and "the womb of the desert" whose meaning was not fully clear.
+Then he went through milestones of his life. He mentioned Ishmael, peace be upon him, and he mentioned the desert and Makkah, and in his speech came an expression about "the womb of the mother" and "the womb of the desert."
 
 Then he recited: ﴿أَلَمْ تَرَ إِلَى الَّذِي حَاجَّ إِبْرَاهِيمَ فِي رَبِّهِ أَنْ آتَاهُ اللَّهُ الْمُلْكَ إِذْ قَالَ إِبْرَاهِيمُ رَبِّيَ الَّذِي يُحْيِي وَيُمِيتُ قَالَ أَنَا أُحْيِي وَأُمِيتُ ۖ قَالَ إِبْرَاهِيمُ فَإِنَّ اللَّهَ يَأْتِي بِالشَّمْسِ مِنَ الْمَشْرِقِ فَأْتِ بِهَا مِنَ الْمَغْرِبِ فَبُهِتَ الَّذِي كَفَرَ ۗ وَاللَّهُ لَا يَهْدِي الْقَوْمَ الظَّالِمِينَ﴾ [البقرة: 258] (Have you not considered the one who argued with Abraham about his Lord [merely] because Allah had given him kingship? When Abraham said, "My Lord is the one who gives life and causes death," he said, "I give life and cause death." Abraham said, "Indeed, Allah brings up the sun from the east, so bring it up from the west." So the disbeliever was overwhelmed [by astonishment]; and Allah does not guide the wrongdoing people).
 
 Then he spoke in English about one of the trials of his life, that he went to Egypt, and that someone there tried to take Sarah from him.[^2]
 
-Then he mentioned the sacrifice, and recited: ﴿يَا بُنَيَّ إِنِّي أَرَىٰ فِي الْمَنَامِ أَنِّي أَذْبَحُكَ فَانظُرْ مَاذَا تَرَىٰ﴾ [الصافات: 102] ("O my son, indeed I see in a dream that I [must] sacrifice you, so see what you think"), and at this point he spoke in English, with words cut off in the transcript. Then he recited: ﴿إِنَّهُ مِنْ عِبَادِنَا الْمُؤْمِنِينَ﴾ ﴿إِنَّا كَذَٰلِكَ نَجْزِي الْمُحْسِنِينَ﴾ [الصافات] ("Indeed, he was of Our believing servants"; "Indeed, We thus reward the doers of good"),[^5] and after that he mentioned the trial.
+Then he mentioned the sacrifice, and recited: ﴿يَا بُنَيَّ إِنِّي أَرَىٰ فِي الْمَنَامِ أَنِّي أَذْبَحُكَ فَانظُرْ مَاذَا تَرَىٰ﴾ [الصافات: 102] ("O my son, indeed I see in a dream that I [must] sacrifice you, so see what you think"). Then he recited: ﴿إِنَّهُ مِنْ عِبَادِنَا الْمُؤْمِنِينَ﴾ ﴿إِنَّا كَذَٰلِكَ نَجْزِي الْمُحْسِنِينَ﴾ [الصافات] ("Indeed, he was of Our believing servants"; "Indeed, We thus reward the doers of good"),[^5] and after that he mentioned the trial.
 
 ### Trial Is a General Divine Way
 
@@ -37,15 +37,15 @@ Then he moved to Sūrat al-ʿAnkabūt, sought refuge in Allah from Satan the acc
 
 ### What Is Inherited and What Passes Away
 
-After that he spoke in English words that the transcript rendered in fragments, apparently about brief glimpses of the life of one person here and another there, and that those people's lives have passed; they were trying to gather wealth, and through position, and through everything. Then he spoke about the inheritance we receive from our fathers: where did they themselves get it? Perhaps from their fathers, and those, where did they get it from? Perhaps from others. The land is the land, the building is the building, the money is the money, and the bank account is the bank account.
+After that he spoke in English, apparently about brief glimpses of the life of one person here and another there, and that those people's lives have passed; they were trying to gather wealth, and through position, and through everything. Then he spoke about the inheritance we receive from our fathers: where did they themselves get it? Perhaps from their fathers, and those, where did they get it from? Perhaps from others. The land is the land, the building is the building, the money is the money, and the bank account is the bank account.
 
 ### Trial in Our Lives, and the List of Prophets
 
-Then he said in English that, when facing any suffering in his life, with people, or in money, or at home and in the family, he asks himself "one question," and then he enumerated prophets: Abraham, Noah, Moses, Joseph, Muhammad, peace and blessings be upon him, Jesus, David, Solomon, Zechariah, Elias, John, Jonah, peace be upon them. After that came cut-off English words: "You can go to any country… do not think that you can get out of…".
+Then he said in English that, when facing any suffering in his life, with people, or in money, or at home and in the family, he asks himself "one question," and then he enumerated prophets: Abraham, Noah, Moses, Joseph, Muhammad, peace and blessings be upon him, Jesus, David, Solomon, Zechariah, Elias, John, Jonah, peace be upon them. After that came English words: "You can go to any country… do not think that you can get out of…".
 
 ### The Message of Allah and the Way of Replacement
 
-Then he recited: ﴿اللَّهُ أَعْلَمُ حَيْثُ يَجْعَلُ رِسَالَتَهُ﴾ (Allah is most knowing of where [i.e., with whom] He places His message), and he recited: ﴿وَإِن تَتَوَلَّوْا يَسْتَبْدِلْ قَوْمًا غَيْرَكُمْ ثُمَّ لَا يَكُونُوا أَمْثَالَكُم﴾ (And if you turn away, He will replace you with another people; then they will not be the likes of you),[^7] and after the two, the transcript mentions "the All-Powerful" and "Allah, Exalted and Majestic, alone" without context. The link between the two verses and what preceded them did not become clear.
+Then he recited: ﴿اللَّهُ أَعْلَمُ حَيْثُ يَجْعَلُ رِسَالَتَهُ﴾ (Allah is most knowing of where [i.e., with whom] He places His message), and he recited: ﴿وَإِن تَتَوَلَّوْا يَسْتَبْدِلْ قَوْمًا غَيْرَكُمْ ثُمَّ لَا يَكُونُوا أَمْثَالَكُم﴾ (And if you turn away, He will replace you with another people; then they will not be the likes of you),[^7] and after the two he mentioned "the All-Powerful" and "Allah, Exalted and Majestic, alone."
 
 ### The Human Being Between Honor and Humiliation
 
@@ -53,7 +53,7 @@ Then he mentioned the trial again, and recited: ﴿فَأَمَّا الْإِن
 
 ### Raising the House, and Vicegerency and Leadership
 
-Then he mentioned Ishmael, peace and blessings be upon him, and Abraham as he "raises from the House," as the transcript has it, and he mentioned the trial. In an English comment he mentioned that some people come to him and say such-and-such to him, and it is cut off.
+Then he mentioned Ishmael, peace and blessings be upon him, and Abraham as he "raises from the House," and he mentioned the trial. In an English comment he mentioned that some people come to him and say such-and-such to him.
 
 He concluded by returning to the central theme: vicegerent, vicegerency, and he mentioned Muhammad ibn ʿAbd Allāh ﷺ, and Adam, peace be upon him, and Abraham, peace be upon him, then: vicegerency, and leader (imām), and he repeated "praise be to Allah" and mentioned the Qur'an, and the lecture ended with "O Allah, amen, O Lord of the worlds."
 

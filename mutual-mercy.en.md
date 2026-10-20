@@ -49,7 +49,7 @@ I do not want to take a long time, as it is late and the prayer is waiting, and 
 
 ### Homework
 
-When you go home, search about the concept (its name is lost in the transcript) and study more stories of the Prophet Muhammad ﷺ. Imagine the hardship and the tough time the disbelievers gave the Prophet ﷺ during thirteen years while he was trying to invite them to Islam. Then, once he came back to Mecca, he said... We have something called (the name is lost in the transcript). Excuse one another. Give other people another chance. Feel the position of the other side. Try to show your mercy when you deal with people. It does not matter whether they are above you in position, below you, or on the same level. We need to feel that mercy ourselves, so that we receive it from Allah, subḥānahu wa taʿālā.
+When you go home, search about the concept… and study more stories of the Prophet Muhammad ﷺ. Imagine the hardship and the tough time the disbelievers gave the Prophet ﷺ during thirteen years while he was trying to invite them to Islam. Then, once he came back to Mecca, he said... We have something called… Excuse one another. Give other people another chance. Feel the position of the other side. Try to show your mercy when you deal with people. It does not matter whether they are above you in position, below you, or on the same level. We need to feel that mercy ourselves, so that we receive it from Allah, subḥānahu wa taʿālā.
 
 ---
 [^1]: Editor's documentation: The well-known wording is «مَثَلُ الْمُؤْمِنِينَ فِي تَوَادِّهِمْ وَتَرَاحُمِهِمْ وَتَعَاطُفِهِمْ مَثَلُ الْجَسَدِ الْوَاحِدِ…»; the lecturer's own emphasis is on the word for "believers" as distinct from "Muslims".

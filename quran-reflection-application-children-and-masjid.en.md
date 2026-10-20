@@ -13,9 +13,9 @@ We were supposed to talk tonight, inshāʾAllāh, about mutual compassion, mutua
 
 ### A call from another state
 
-The caller said, "I am so and so. I want to ask you about something, to help me." I said, "Okay, what is going on? I am here for you." He told me about his child, a daughter. A few years ago she began to move away from the regular ṣalāh. Then it went to another level. When she hears me praying at home, she is "zooming" (the word is unclear) and doing something else, showing me. She is showing me that she does not like to hear even the sound of the Qur'an in our home.
+The caller said, "I am so and so. I want to ask you about something, to help me." I said, "Okay, what is going on? I am here for you." He told me about his child, a daughter. A few years ago she began to move away from the regular ṣalāh. Then it went to another level. When she hears me praying at home, she is "zooming" and doing something else, showing me. She is showing me that she does not like to hear even the sound of the Qur'an in our home.
 
-He said that perhaps something was missing, in words that are garbled, and suggested going to their country, where they might find some shaykh. Once she heard that, she became nervous and insisted: "I will never move. I will not go with you anywhere."
+He said that perhaps something was missing, and suggested going to their country, where they might find some shaykh. Once she heard that, she became nervous and insisted: "I will never move. I will not go with you anywhere."
 
 So, long story short, I asked him what the closest masjid to him was, so that I could find out whether I had a friend there who could help. Where are you living? He said he was living in a different state. I asked, "How did you get my phone number?" At the beginning I thought he was one of my neighbors asking the shaykh for help; that is usual, we receive it every single day. But he was in a different state. The person he mentioned, he had got my number from him. I had met that person once in my entire life, and we had not been in contact since. Yet the man still had my number, and that told me something: he does not have the numbers of any shaykhs around him. We do not have the kind of friendship that would make us the closest one to him.
 
@@ -37,7 +37,7 @@ So why are we waiting for a calamity to come to our children before we take them
 
 A few weeks ago we started classes, special classes for the youth. So far we have four, five, six people coming in and out, and nobody else. Do you want to convince me that we have just four youth in our community? You do not have children in our homes? How many of you are here? You do not have children in our homes?
 
-Take thirteen and up. At that age we can reach a level of connection to talk to them rationally, not just teach them how to recite and repeat. That is for the "learned children" (as the transcript has it), and mashāʾAllāh, a great job. But we need to move to the next level: to discuss the relationship between boys and girls at school, what they are doing. They are trying to be smart with me; you know what I am talking about.
+Take thirteen and up. At that age we can reach a level of connection to talk to them rationally, not just teach them how to recite and repeat. That is for the "learned children", and mashāʾAllāh, a great job. But we need to move to the next level: to discuss the relationship between boys and girls at school, what they are doing. They are trying to be smart with me; you know what I am talking about.
 
 ### Half of yourself at home
 

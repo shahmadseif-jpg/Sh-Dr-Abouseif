@@ -23,7 +23,7 @@ The Prophet ﷺ, when he married one of his wives and stayed with her three nigh
 
 And I asked a question yesterday: Has a single report reached you, from among those that some people transmit, sound or weak or fabricated or otherwise, that the Prophet ﷺ was harsh with his wives? And mind this, our brothers, I am speaking from the very same side that we are all on: we are men, like one another.
 
-And it appears from the lecturer's disjointed words in another place that ʿĀʾishah (may Allah be pleased with her) was speaking about Lady Khadījah, and this is a kind of backbiting; so the Prophet ﷺ objected to what she was doing and made clear to her that it was wrong, but he did not take vengeance for his own person. And he asked: Was she wrong in his right, or in her own right before Allah?
+And it appears from the lecturer's words in another place that ʿĀʾishah (may Allah be pleased with her) was speaking about Lady Khadījah, and this is a kind of backbiting; so the Prophet ﷺ objected to what she was doing and made clear to her that it was wrong, but he did not take vengeance for his own person. And he asked: Was she wrong in his right, or in her own right before Allah?
 
 And our whole problem, our brothers, is that we take up the cause of our own persons. All the calamities that have happened in our homes are because of this: he says: This woman did not give me, this woman did not regard me; or she says: This man did not do, or did not say, or did not respect. All the problems are because of "I," or she too says: "I." So the word "I" and "I" sets the world ablaze inside the house, does it not?
 

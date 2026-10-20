@@ -21,7 +21,7 @@ and after it:
 
 He commented on the first by saying: «من كان يريد العاجلة» ("whoever desires the immediate"), that is, haste: take, move on, go. Whoever desires the immediate takes it and goes. As for those who desired the hereafter and strove for it as it deserves while believers, their striving is appreciated.
 
-Then he mentioned the words of Allah, glory be to Him: ﴿كُلًّا نُمِدُّ هَٰؤُلَاءِ وَهَٰؤُلَاءِ مِنْ عَطَاءِ رَبِّكَ﴾ (To each We extend, to these and to those, from the bounty of your Lord),[^3] and then referred to a ḥadīth of the Prophet ﷺ whose text was not clear in the transcript.
+Then he mentioned the words of Allah, glory be to Him: ﴿كُلًّا نُمِدُّ هَٰؤُلَاءِ وَهَٰؤُلَاءِ مِنْ عَطَاءِ رَبِّكَ﴾ (To each We extend, to these and to those, from the bounty of your Lord),[^3] and then referred to a ḥadīth of the Prophet ﷺ whose text was not clear.
 
 He concluded by saying: O Allah, amen, O Lord of the worlds, may Allah bless…
 

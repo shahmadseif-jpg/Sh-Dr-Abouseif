@@ -27,7 +27,7 @@ He then ran through the endings of those signs, one after another: for people wh
 
 Then the ḥadīth of the Prophet ﷺ: «كُلُّكُمْ رَاعٍ وَكُلُّكُمْ مَسْؤُولٌ عَنْ رَعِيَّتِهِ». "Every one of you is a shepherd, and every one of you is responsible for his flock." Then he spelled it out: «الرَّجُلُ فِي أَهْلِ بَيْتِهِ رَاعٍ وَهُوَ مَسْؤُولٌ عَنْ رَعِيَّتِهِ، وَالْمَرْأَةُ فِي بَيْتِ زَوْجِهَا رَاعِيَةٌ وَهِيَ مَسْؤُولَةٌ عَنْ رَعِيَّتِهَا». The man is a shepherd in his household and responsible for his flock, and the woman is a shepherd in her husband's house and responsible for her flock.[^3]
 
-The English that follows is broken, but its direction is clear. It is about responsibility. As far as can be made out, he spoke of the part of the one who must cover and protect "as much as I can" while outside, and then of what happens once they enter the home, where the words "He placed between you affection and mercy" come back into his speech. Then he named a problem: being under pressure all the time, and asking for what the other cannot do. "She knows that he cannot do that, and she is still asking him to do that. This is the problem." The sentence before it, about crying and causing trouble over nothing, is too broken to rely on.
+The English that follows is about responsibility. He seems to have spoken of the part of the one who must cover and protect "as much as I can" while outside, and then of what happens once they enter the home, where the words "He placed between you affection and mercy" come back into his speech. Then he named a problem: being under pressure all the time, and asking for what the other cannot do. "She knows that he cannot do that, and she is still asking him to do that. This is the problem."
 
 ### The Prophet's own household
 
@@ -35,7 +35,7 @@ He then turned to Sūrat al-Taḥrīm and recited:
 
 ﴿يَا أَيُّهَا النَّبِيُّ لِمَ تُحَرِّمُ مَا أَحَلَّ اللَّهُ لَكَ ۖ تَبْتَغِي مَرْضَاتَ أَزْوَاجِكَ ۚ وَاللَّهُ غَفُورٌ رَّحِيمٌ ۝ قَدْ فَرَضَ اللَّهُ لَكُمْ تَحِلَّةَ أَيْمَانِكُمْ ۚ وَاللَّهُ مَوْلَاكُمْ ۖ وَهُوَ الْعَلِيمُ الْحَكِيمُ ۝ وَإِذْ أَسَرَّ النَّبِيُّ إِلَىٰ بَعْضِ أَزْوَاجِهِ حَدِيثًا﴾ [al-Taḥrīm]
 
-He recalled the story of the honey: the Prophet ﷺ had been eating honey, his wives tried to make him (the rest of the sentence is lost), they did it, and the Prophet ﷺ said that he would never eat it again.[^4] Then he recited the rest of the third verse, ﴿عَرَّفَ بَعْضَهُ وَأَعْرَضَ عَن بَعْضٍ﴾.
+He recalled the story of the honey: the Prophet ﷺ had been eating honey, his wives tried to make him…, they did it, and the Prophet ﷺ said that he would never eat it again.[^4] Then he recited the rest of the third verse, ﴿عَرَّفَ بَعْضَهُ وَأَعْرَضَ عَن بَعْضٍ﴾.
 
 Right after it, in English, he spoke in the first person in a passage that survives only in fragments: "I don't know what you are doing, but I don't like it." She starts explaining her position and telling me why she did it, but I will not be convinced by any reason; I start defending my idea, my opinion, giving more detail.
 
@@ -47,7 +47,7 @@ Then he said: "You are causing a problem, not for this person, but you are causi
 
 ### Each looks only at his own side
 
-In another fragmentary passage, about "a good partner", he said that she is not looking at hers while he looks at his, each only at his own. "Because of that, even when we come to the time of divorce, we find each one of them coming to say: where is my right? Each one taking advantage as much as he can."
+Elsewhere, about "a good partner", he said that she is not looking at hers while he looks at his, each only at his own. "Because of that, even when we come to the time of divorce, we find each one of them coming to say: where is my right? Each one taking advantage as much as he can."
 
 ### Allah hears
 
@@ -55,7 +55,7 @@ He moved toward his conclusion with the opening of Sūrat al-Mujādilah:
 
 ﴿قَدْ سَمِعَ اللَّهُ قَوْلَ الَّتِي تُجَادِلُكَ فِي زَوْجِهَا وَتَشْتَكِي إِلَى اللَّهِ وَاللَّهُ يَسْمَعُ تَحَاوُرَكُمَا ۚ إِنَّ اللَّهَ سَمِيعٌ بَصِيرٌ﴾ [al-Mujādilah]
 
-He closed with a supplication, asking Allah, as far as it can be read, to place the means between our hands and yours... The sentence breaks off there in the transcript.
+He closed with a supplication, asking Allah, it seems, to place the means between our hands and yours...
 
 ---
 [^1]: Editor's documentation: The lecturer named only Sūrat al-Rūm; the surah names and verse numbers in the citations are the editor's (al-Rūm 21; 20 and 22–24 for the verses quoted next; al-Taḥrīm 1–3 and 4; al-Mujādilah 1).

@@ -39,7 +39,7 @@ The lecturer added a point about integrity. When you ask somebody to do somethin
 
 ### Judging our relationship with Allah by our pockets
 
-One strange thing, the lecturer said, caught his attention when he read a certain surah (the transcript does not make clear which). Allah is teaching the community, especially those who judge their relationship with Allah by the benefit that reaches them. When Allah gives a person something, the person is so happy that he says, in effect, "Allah is pleased with me." And when Allah stops that giving for a while, or for some reason, he says, "Allah is not satisfied with me, Allah hates me." So he evaluates his relationship with Allah by the numbers coming into his pocket. If Allah gives, I am happy with Allah and Allah is happy with me. If He does not, and my pocket is empty, then I do not like Allah, and Allah does not like me.
+One strange thing, the lecturer said, caught his attention when he read a certain surah. Allah is teaching the community, especially those who judge their relationship with Allah by the benefit that reaches them. When Allah gives a person something, the person is so happy that he says, in effect, "Allah is pleased with me." And when Allah stops that giving for a while, or for some reason, he says, "Allah is not satisfied with me, Allah hates me." So he evaluates his relationship with Allah by the numbers coming into his pocket. If Allah gives, I am happy with Allah and Allah is happy with me. If He does not, and my pocket is empty, then I do not like Allah, and Allah does not like me.
 
 Allah's answer is "No, indeed." Then what is the right thing? The right thing, He says, is that you are not generous to the orphan, and you do not urge one another to feed the needy.[^4]
 
@@ -49,7 +49,7 @@ If you pass on to the next surah, he said, you find Allah speaking of an obstacl
 
 He gave a present-day example. Suppose a man is in prison because of a debt he could not pay: a hundred dollars here, a thousand there, two thousand somewhere else, and someone has accused him and sent him to jail. SubḥānAllāh. If I go and release his neck from that place, when we give a modest amount, or even gather together and post a bond for him, that is a kind of freeing. Sometimes we do pay a bond to release one of our brothers from jail. Allah's words are not only about slaves, which was the case in that time. Today we have other kinds of captivity.
 
-The same passage speaks of feeding people in a time of hardship: the needy person who has nothing, with nothing between his hand and the dust. The transcript then adds, unclearly, that if a person does have something in his hand, it may be like sharing advice with one another.
+The same passage speaks of feeding people in a time of hardship: the needy person who has nothing, with nothing between his hand and the dust. The lecturer then adds, unclearly, that if a person does have something in his hand, it may be like sharing advice with one another.
 
 ### The one who denies the religion
 
@@ -67,13 +67,13 @@ Once we have this, we find one of the characters of the Muslim: they speak nicel
 
 So the verse is telling us the benefit of three main actions that we need to have in a community. The lecturer returned to the first. We usually talk, but what kind of talk do we need to give? When you see somebody who needs something, you need to share the information with the people.
 
-He ended there. He had promised he would not take long, because he had kept the people sitting after the prayer, and they were going to pray as soon as he finished. The transcript breaks off in the middle of his closing prayer: "May Allah give…"
+He ended there. He had promised he would not take long, because he had kept the people sitting after the prayer, and they were going to pray as soon as he finished. Then he began his closing prayer: "May Allah give…"
 
 ---
 [^1]: Editor's documentation: The verse is identified by the editor from the lecturer's description of the three exceptions to "no good in private counsel" and from the surrounding discussion: ﴿لَّا خَيْرَ فِي كَثِيرٍ مِّن نَّجْوَاهُمْ إِلَّا مَنْ أَمَرَ بِصَدَقَةٍ أَوْ مَعْرُوفٍ أَوْ إِصْلَاحٍ بَيْنَ النَّاسِ ۚ وَمَن يَفْعَلْ ذَٰلِكَ ابْتِغَاءَ مَرْضَاتِ اللَّهِ فَسَوْفَ نُؤْتِيهِ أَجْرًا عَظِيمًا﴾ [al-Nisāʾ: 114]. Translation: "There is no good in much of their private counsel, except for one who enjoins charity, or what is right, or reconciliation between people. And whoever does that, seeking the pleasure of Allah, We shall give him a great reward."
 [^2]: Editor's note (توثيق المحرر): the lecturer did not quote the hadith. The idea that every act of kindness is charity is narrated by al-Bukhārī and Muslim: «كُلُّ مَعْرُوفٍ صَدَقَةٌ».
 [^3]: Editor's note (توثيق المحرر): the lecturer told the incident in his own words and without naming anyone. It is the commonly cited occasion for the verses of Sūrat al-Nisāʾ around this one; the details should be checked in a book on the occasions of revelation.
 [^4]: Editor's note (توثيق المحرر): the lecturer appears to paraphrase ﴿فَأَمَّا الْإِنسَانُ إِذَا مَا ابْتَلَاهُ رَبُّهُ فَأَكْرَمَهُ وَنَعَّمَهُ فَيَقُولُ رَبِّي أَكْرَمَنِ ۝ وَأَمَّا إِذَا مَا ابْتَلَاهُ فَقَدَرَ عَلَيْهِ رِزْقَهُ فَيَقُولُ رَبِّي أَهَانَنِ ۝ كَلَّا بَل لَّا تُكْرِمُونَ الْيَتِيمَ ۝ وَلَا تَحَاضُّونَ عَلَىٰ طَعَامِ الْمِسْكِينِ﴾ [al-Fajr: 15–18] without naming the sūrah; the identification is the editor's.
-[^5]: Editor's note (توثيق المحرر): this appears to be Sūrat al-Balad, ﴿فَلَا اقْتَحَمَ الْعَقَبَةَ﴾ and what follows [al-Balad: 11–16], including ﴿فَكُّ رَقَبَةٍ﴾ and ﴿مِسْكِينًا ذَا مَتْرَبَةٍ﴾. The sūrah is not named in the transcript.
+[^5]: Editor's note (توثيق المحرر): this appears to be Sūrat al-Balad, ﴿فَلَا اقْتَحَمَ الْعَقَبَةَ﴾ and what follows [al-Balad: 11–16], including ﴿فَكُّ رَقَبَةٍ﴾ and ﴿مِسْكِينًا ذَا مَتْرَبَةٍ﴾. The speaker did not name the sūrah.
 [^6]: Editor's note (توثيق المحرر): this corresponds to Sūrat al-Māʿūn [al-Māʿūn: 1–3].
 [^7]: Editor's documentation: this corresponds to ﴿وَقُولُوا لِلنَّاسِ حُسْنًا﴾ [al-Baqarah: 83], which is joined in the same verse to the command to establish prayer. The identification is the editor's.
