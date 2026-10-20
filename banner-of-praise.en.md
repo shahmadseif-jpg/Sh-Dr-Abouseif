@@ -17,14 +17,14 @@ Matters have occupied the conversations of Muslims and taken more of their time 
 
 ### Do We Truly Belong?
 
-Do we feel that we belong to this country with a true belonging, so that we defend it and the rights of its people as we defend the countries in which we were born? If someone touches one of the rights of our countries there, in Egypt or Jordan or Palestine or Algeria or Tunisia or Morocco, it is easy for us to ransom them with our lives. Has this country reached the same standing in our souls, so that we feel we are truly citizens on its soil?
+Do we feel that we truly belong to this country, so that we defend it and the rights of its people as we defend the countries in which we were born? If someone touches one of the rights of our countries there, in Egypt or Jordan or Palestine or Algeria or Tunisia or Morocco, it is easy for us to ransom them with our lives. Has this country reached the same standing in our souls, so that we feel we are truly citizens on its soil?
 
-An individual's belonging to the homeland in which he lives is one matter, and the conditions of governments and policies is another. And look at the conversation that repeats in our homes:
+An individual's belonging to the homeland in which he lives is one matter, and the conditions of governments and policies are another. And look at the conversation that recurs in our homes:
 
 The father says: Why do you build a house in our country when we send all this money to it? So that our family may be reunited in it one day.
 The children answer: Do you really imagine that we will leave this country to live there? When we go to visit, it is not worth all this expense.
 The father says: Do not say this, for there is the homeland and the memories of childhood and companionship and the soil.
-They ask him: Which memories do you mean? Your memories or our memories? Your companions or our companions? And which soil? The soil you were raised on or the soil we were raised on? We have a homeland too; we grew up among its events and grew up among our friends in it.
+They ask him: Which memories do you mean? Your memories or our memories? Your companions or our companions? And which soil? The soil you were raised on or the soil we were raised on? We have a homeland too; we grew up among its events and came of age among our friends in it.
 
 It is a perpetual dialogue between fathers and children. We speak of memories, history, authenticity, soil, and air, and when something resembling it passes us here we recall our old moment there. As for our children, they have an entirely different mental map, and their roots in this country are like our roots in our countries. And the difference between our belonging to citizenship and their belonging is a difference in the way of thinking and of acting.
 
@@ -50,7 +50,7 @@ As for people gathering on a particular day or not gathering, the Prophet ﷺ sa
 
 ### Where My Opinion Stands
 
-I say: our festivals in Islam are ʿĪd al-Fiṭr and ʿĪd al-Aḍḥā. But sharing with people in what is not forbidden by the sharia, I have no objection to it, for a blessing that Allah made lawful does not become forbidden merely because eating it is joined to an occasion that is not objectionable in the sharia on which people gather. As for the value of gratitude in Islam, it needs more detail and understanding.
+I say: our festivals in Islam are ʿĪd al-Fiṭr and ʿĪd al-Aḍḥā. But I have no objection to sharing with people in what is not forbidden by the sharia, for a blessing that Allah made lawful does not become forbidden merely because eating it is joined to an occasion on which people gather that is not objectionable in the sharia. As for the value of gratitude in Islam, it needs more detail and understanding.
 
 ### Gratitude Is Action
 
