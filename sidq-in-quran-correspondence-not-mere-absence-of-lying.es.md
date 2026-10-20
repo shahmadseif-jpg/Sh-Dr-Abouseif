@@ -18,7 +18,7 @@ El Corán no dice que estos hombres «no mintieron» en su promesa, sino que fue
 
 ### La palabra y su recuento
 
-La raíz ṣ-d-q aparece en el Corán ciento cincuenta y cinco veces, en diecinueve formas. Estas apariciones se reparten, sin embargo, en tres campos semánticos que conviene distinguir. El primero, objeto de este artículo, es el del *ṣidq* en el sentido de conformidad de la palabra con la realidad y del corazón con la lengua. Comprende el verbo *ṣadaqa* (quince veces); el sustantivo *ṣidq* (catorce); el participio activo *ṣādiq* (cincuenta y nueve, con mucho la forma más frecuente de la raíz); *ṣādiqāt* (una vez); la forma intensiva *ṣiddīq* (cinco); *ṣiddīqa* (una); y el elativo *aṣdaq* (dos). Son noventa y seis ocurrencias en total, que constituyen el testimonio léxico directo de este estudio.
+La raíz ṣ-d-q aparece en el Corán ciento cincuenta y cinco veces, en diecinueve formas. Estas apariciones se reparten, sin embargo, en tres campos semánticos que conviene distinguir. El primero, objeto de este artículo, es el del *ṣidq* en el sentido de conformidad de la palabra con la realidad y del corazón con la lengua. Comprende el verbo *ṣadaqa* (quince veces); el sustantivo *ṣidq* (catorce); el participio activo *ṣādiq* (cincuenta y nueve, con mucho la forma más frecuente de la raíz); *ṣādiqāt* (una vez); la forma intensiva *ṣiddīq* (cinco); *ṣiddīqa* (una); y el elativo *aṣdaq* (dos). Son noventa y seis ocurrencias en total[^2], que constituyen el testimonio léxico directo de este estudio.
 
 El segundo campo es el de la *ṣadaqa*, la dádiva material (unas veinte apariciones de las formas *taṣaddaqa*, *ṣadaqa* y *ṣadaqāt*). Es un concepto jurídico ligado al ṣidq por la etimología, pues la limosna se llama *ṣadaqa* porque es prueba tangible de la sinceridad de quien la da, pero no es nuestro asunto aquí. El tercero es el *taṣdīq*, la afirmación y aceptación de la revelación (el participio *muṣaddiq* aparece diecinueve veces, sobre todo al describir el Corán como «confirmador de lo que tiene delante» de las escrituras anteriores), más próximo a la fe en su sentido doctrinal que a la veracidad moral. Este artículo se ocupa únicamente del primer campo.
 
@@ -125,3 +125,4 @@ Desde hombres cuyas obras igualaron sus pactos hasta la muerte, pasando por un p
 ---
 
 [^1]: Lo transmitió al-Bujārī en su *Ṣaḥīḥ* (6094) y Muslim en su *Ṣaḥīḥ* (2607), por vía de ʿAbd Allāh ibn Masʿūd (que Dios esté complacido con él).
+[^2]: Documentación del editor: El artículo da como total del primer campo noventa y seis; la suma de las cifras que enumera (15 + 14 + 59 + 1 + 5 + 1 + 2) es noventa y siete, y estas cifras individuales coinciden con las tablas de formas derivadas de la raíz ṣ-d-q en quran.so y quranix.org.

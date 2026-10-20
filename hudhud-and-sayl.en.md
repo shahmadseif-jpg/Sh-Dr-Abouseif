@@ -13,7 +13,7 @@ readingMinutes: 16
 
 ## Prelude: The Geographic Paradox the Qur'an Itself Engineers
 
-In the same Arabian land, and within roughly the same era, two civilizations arose in the Qur'anic narrative — and the Qur'an itself invites us to read their fates side by side:
+In the same Arabian land[^1], and within roughly the same era, two civilizations arose in the Qur'anic narrative — and the Qur'an itself invites us to read their fates side by side:
 
 The first: the civilization of Sulaymān ﷺ — expanding, exploring, calling others, transferring knowledge across nations.
 
@@ -247,3 +247,5 @@ If the answer to any of these is "no," you are closer to Sabaʾ than to Sulaymā
 ---
 
 *This is Episode Three of the 'Qur'an and Civilization' series. Episode One: Sūrat al-Kahf. Episode Two: Sūrat Yūsuf. The forthcoming Episode Four: "The Divine Laws in the Rise and Fall of Nations" — the closing of the series.*
+
+[^1]: Editor's documentation: The article states that the two civilizations arose in the same land of the Arabian Peninsula. Sabaʾ was in Yemen, whereas the kingdom of Sulaymān, peace be upon him, was in al-Shām with its seat in Jerusalem: Muḥammad Sayyid Ṭanṭāwī, in *al-Tafsīr al-Wasīṭ* (on al-Naml 27:38), says the throne was brought «من بلاد اليمن إلى بيت المقدس حيث مقر مملكته» (from the land of Yemen to Jerusalem, the seat of his kingdom), and Wikipedia (article “Solomon”) describes him as king of the Kingdom of Israel, with his temple and palace in Jerusalem. On the extent of the Arabian Peninsula, al-Durar al-Saniyya (article on the boundaries of Jazīrat al-ʿArab) cites Ibn Taymiyya in *Iqtiḍāʾ al-Ṣirāṭ al-Mustaqīm*: «جزيرة العرب: هي من بحر القُلزم إلى بحر البَصرة، ومن أقصى حِجْرِ اليمامة إلى أوائل الشام» (the Arabian Peninsula extends from the Sea of Qulzum [the Red Sea] to the Sea of Basra, and from the farthest part of Ḥijr al-Yamāma to the outskirts of al-Shām), adding «ولا تدخُل فيها الشام» (al-Shām is not included in it). The article itself later speaks of the throne moving from Maʾrib (Yemen) to Jerusalem (al-Shām).

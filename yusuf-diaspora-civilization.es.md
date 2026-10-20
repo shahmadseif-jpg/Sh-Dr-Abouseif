@@ -169,7 +169,7 @@ Pues el mensaje islámico no está encerrado en una geografía, ni supeditado a 
 
 Y contempla una paradoja coránica admirable: **entre la sepultura de José (la paz sea con él) en Egipto y el envío de Moisés (la paz sea con él) en la misma tierra hay cuatro siglos**. Cuatro siglos completos en los que los hijos de Israel crecían en Egipto portando el monoteísmo en sus corazones. **José sembró, y Moisés cosechó** —y ambos en «la tierra de la emigración». Si José hubiera rechazado la idea de permanecer en Egipto, no habría nacido Moisés (la paz sea con él) allí, ni se habría liberado una comunidad de la servidumbre.
 
-Y esto es lo que comprendieron los nobles Compañeros (Dios esté complacido con ellos) cuando se dispersaron en la tierra como predicadores y fundadores de civilización: Muʿāḏ en Yemen, Abū Mūsā en Basora, ʿAmr en Egipto, Saʿd en Irak, y Abū l-Dardāʾ en el Levante. Ninguno de ellos volvió a Medina para morir en ella, sino que murió en la tierra en la que sembró las semillas del mensaje. Y de no ser por eso, el islam no se habría difundido por los confines del mundo habitado.
+Y esto es lo que comprendieron los nobles Compañeros (Dios esté complacido con ellos) cuando se dispersaron en la tierra como predicadores y fundadores de civilización: Muʿāḏ en Yemen, Abū Mūsā en Basora, ʿAmr en Egipto, Saʿd en Irak, y Abū l-Dardāʾ en el Levante. Ninguno de ellos volvió a Medina para morir en ella, sino que murió en la tierra en la que sembró las semillas del mensaje.[^1] Y de no ser por eso, el islam no se habría difundido por los confines del mundo habitado.
 
 ## Conclusión: ¿quién será el José de esta época?
 
@@ -210,3 +210,5 @@ Escribe tus respuestas. Vuelve a ellas después de un año, pues solo el ajuste 
 - Ibn Jaldūn, *La introducción (Muqaddima)*, el capítulo sobre «que el vencido siempre está prendado de imitar al vencedor».
 - Ṣaḥīḥ Muslim (2664): «El creyente fuerte es mejor y más amado por Dios que el creyente débil».
 - Acordado, de Ŷābir ibn ʿAbd Allāh: «Fui enviado a toda la gente» — Ṣaḥīḥ al-Bujārī (438), Ṣaḥīḥ Muslim (521).
+
+[^1]: Documentación del editor: El conferenciante afirmó que ninguno de estos Compañeros volvió a Medina para morir en ella, y que cada uno murió en la tierra mencionada junto a él; las fuentes recogen que Saʿd ibn Abī Waqqāṣ (Dios esté complacido con él) murió en al-ʿAqīq, cerca de Medina, en el año 55 de la Hégira, y fue llevado a al-Baqīʿ y enterrado allí (al-Durar al-Saniyya, *al-Mawsūʿa al-Tārīḫiyya*; y Wikipedia en inglés, «Sa'd ibn Abi Waqqas»: murió en Medina hacia el 674 d. C.), y que Muʿāḏ ibn Ŷabal (Dios esté complacido con él) murió en la peste de ʿAmwās, en el Levante, en el año 18 de la Hégira (o 17), no en Yemen (Dar al-Iftaa de Egipto, artículo «Muʿāḏ ibn Ŷabal»; y Wikipedia en inglés, «Muadh ibn Jabal»: murió en el 639 d. C. por la peste de ʿAmwās).

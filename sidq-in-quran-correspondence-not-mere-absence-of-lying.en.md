@@ -18,7 +18,7 @@ The Qurʾan does not say that these men "did not lie" in their promise. It says 
 
 ### The Word and Its Occurrences
 
-The root ṣ-d-q occurs in the Qurʾan one hundred and fifty-five times, in nineteen forms. These occurrences, however, fall into three semantic fields that must be kept distinct. The first, which is the subject of this article, is that of *ṣidq* in the sense of the conformity of speech to reality and of heart to tongue. It comprises the verb *ṣadaqa* (fifteen times); the noun *ṣidq* (fourteen); the active participle *ṣādiq* (fifty-nine, by far the most frequent form of the root); *ṣādiqāt* (once); the intensive *ṣiddīq* (five); *ṣiddīqah* (once); and the elative *aṣdaq* (twice). These make ninety-six occurrences in all, and they furnish the direct lexical witness for this study.
+The root ṣ-d-q occurs in the Qurʾan one hundred and fifty-five times, in nineteen forms. These occurrences, however, fall into three semantic fields that must be kept distinct. The first, which is the subject of this article, is that of *ṣidq* in the sense of the conformity of speech to reality and of heart to tongue. It comprises the verb *ṣadaqa* (fifteen times); the noun *ṣidq* (fourteen); the active participle *ṣādiq* (fifty-nine, by far the most frequent form of the root); *ṣādiqāt* (once); the intensive *ṣiddīq* (five); *ṣiddīqah* (once); and the elative *aṣdaq* (twice). These make ninety-six occurrences in all[^2], and they furnish the direct lexical witness for this study.
 
 The second field is *ṣadaqah*, material giving (some twenty occurrences of the forms *taṣaddaqa*, *ṣadaqah* and *ṣadaqāt*). It is a juristic concept bound to ṣidq by etymology, for alms are called *ṣadaqah* because they are tangible proof of the giver's sincerity, but it is not our present concern. The third is *taṣdīq*, the affirmation and acceptance of revelation (the participle *muṣaddiq* occurs nineteen times, chiefly in describing the Qurʾan as "confirming what lies before it" of earlier scriptures), which lies closer to faith in its creedal sense than to moral truthfulness. This article attends to the first field alone.
 
@@ -125,3 +125,4 @@ From men whose deeds matched their covenants unto death, to a prophet called a "
 ---
 
 [^1]: Narrated by al-Bukhārī in his *Ṣaḥīḥ* (6094) and by Muslim in his *Ṣaḥīḥ* (2607), on the authority of ʿAbd Allāh ibn Masʿūd (may God be pleased with him).
+[^2]: Editor's documentation: The article gives the total for the first field as ninety-six; the sum of the figures it lists (15 + 14 + 59 + 1 + 5 + 1 + 2) is ninety-seven, and these individual figures agree with the tables of derived forms of the root ṣ-d-q on quran.so and quranix.org.

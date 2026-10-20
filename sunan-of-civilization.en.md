@@ -122,7 +122,7 @@ These are not for punishment but for qualification. "That He may test which of y
 
 "Such are the days; We alternate them among people — that God may know those who believe and that He may take from among you witnesses" (Āl ʿImrān 140).
 
-"We alternate them" from *dawr* (turn): the days turn. No side is dominant forever, and no side falls forever. Civilization moves from one hand to another; every age has its state, and every state has its end.
+"We alternate them" from *dawr* (turn): the days turn.[^1] No side is dominant forever, and no side falls forever. Civilization moves from one hand to another; every age has its state, and every state has its end.
 
 Reflect on the logic: **history is not a straight line but a circle**. This was articulated more than eight centuries before Ibn Khaldūn.
 
@@ -295,3 +295,5 @@ The sunan give nothing to those who do not seek.
 ---
 
 *This is Episode Four of the 'Qur'an and Civilization' series. The series remains open. The forthcoming Episode Five: Sūrat al-Isrāʾ.*
+
+[^1]: Editor's documentation: The lecturer derives «نُدَاوِلُهَا» (“We alternate them”) from *dawr* (turning, root د و ر). In the Qur'anic root dictionaries the verb belongs to the root د و ل (d-w-l), not د و ر: the Quranic Arabic Corpus (corpus.quran.com) lists «نُدَاوِلُهَا» (3:140) under د و ل together with «دُولَة» (59:7); al-Ṭabarī explains it as «نجعلها دُوَلًا بين الناس مصرَّفة» (“We make them alternating turns among people”), and al-Qurṭubī, at the same verse, defines *al-dawlah* as «الكَرّة» (“the turn of fortune”).

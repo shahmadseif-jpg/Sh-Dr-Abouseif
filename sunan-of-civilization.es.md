@@ -110,7 +110,7 @@ Estas no son para el castigo, sino para la cualificación. «Para probaros, cuá
 
 «Y esos días los alternamos entre la gente, para que Dios conozca a quienes han creído y tome de vosotros testigos» (Āl ʿImrān 140).
 
-«Los alternamos» de «el giro»: los días giran. No se hace prevalecer un bando para siempre, ni cae un bando para siempre. La civilización pasa de una mano a una mano, y cada tiempo tiene un Estado, y cada Estado tiene un final.
+«Los alternamos» de «el giro»: los días giran.[^1] No se hace prevalecer un bando para siempre, ni cae un bando para siempre. La civilización pasa de una mano a una mano, y cada tiempo tiene un Estado, y cada Estado tiene un final.
 
 Contempla la lógica: **la historia no es una línea recta, sino un círculo**. Y esto es antes de Ibn Jaldūn por más de ocho siglos.
 
@@ -263,3 +263,5 @@ Las leyes no dan a quien no pide.
 ---
 
 *Este es el cuarto episodio de la serie «El Corán y la civilización». La serie está abierta y continúa. El quinto episodio próximo: la sura del Viaje Nocturno.*
+
+[^1]: Documentación del editor: El conferenciante deriva «نُدَاوِلُهَا» («los alternamos») de *dawr* («giro», raíz د و ر). En los diccionarios de raíces coránicas el verbo pertenece a la raíz د و ل (d-w-l), no a د و ر: el Quranic Arabic Corpus (corpus.quran.com) registra «نُدَاوِلُهَا» (3:140) bajo د و ل junto con «دُولَة» (59:7); al-Ṭabarī lo explica como «نجعلها دُوَلًا بين الناس مصرَّفة» («los hacemos turnos alternos entre la gente»), y al-Qurṭubī, en el mismo versículo, define *al-dawla* como «الكَرّة» («el turno de la fortuna»).

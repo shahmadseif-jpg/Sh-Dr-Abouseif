@@ -183,7 +183,7 @@ The Islamic message is not imprisoned in geography nor mortgaged to lineage. The
 
 Consider an astonishing Qur'anic paradox: **between Yūsuf's burial in Egypt and the prophetic mission of Mūsā ﷺ in that same land are four centuries**. Four full centuries in which the Children of Israel grew in Egypt, carrying monotheism in their hearts. **Yūsuf sowed; Mūsā harvested** — both in "the land of diaspora." Had Yūsuf rejected the idea of settling in Egypt, Mūsā ﷺ would not have been born there, and no ummah would have been freed from bondage.
 
-This is what the noble Companions, may God be pleased with them, understood when they dispersed across the earth as callers and founders of civilization: Muʿādh to Yemen, Abū Mūsā to Basra, ʿAmr to Egypt, Saʿd to Iraq, Abū al-Dardāʾ to the Levant. None of them returned to Medina to die there. Each died in the land in which he had sown the seeds of the message. Without this, Islam would not have spread to the corners of the inhabited world.
+This is what the noble Companions, may God be pleased with them, understood when they dispersed across the earth as callers and founders of civilization: Muʿādh to Yemen, Abū Mūsā to Basra, ʿAmr to Egypt, Saʿd to Iraq, Abū al-Dardāʾ to the Levant. None of them returned to Medina to die there. Each died in the land in which he had sown the seeds of the message.[^1] Without this, Islam would not have spread to the corners of the inhabited world.
 
 ---
 
@@ -232,3 +232,5 @@ Write your answers. Return to them in a year. Sincere self-accounting alone is t
 - Ibn Khaldūn, *al-Muqaddima*, the chapter on "the vanquished's perpetual fascination with imitating the victor."
 - Ṣaḥīḥ Muslim (2664): "The strong believer is better and more beloved to God than the weak believer."
 - Agreed upon, on the authority of Jābir ibn ʿAbd Allāh: "I was sent to all humanity" — Ṣaḥīḥ al-Bukhārī (438), Ṣaḥīḥ Muslim (521).
+
+[^1]: Editor's documentation: The speaker stated that none of these Companions returned to Medina to die there, and that each died in the land mentioned with him; the sources record that Saʿd ibn Abī Waqqāṣ (may God be pleased with him) died at al-ʿAqīq near Medina in 55 AH and was carried to al-Baqīʿ and buried there (al-Durar al-Saniyyah, *al-Mawsūʿah al-Tārīkhiyyah*; and English Wikipedia, "Sa'd ibn Abi Waqqas": died in Medina c. 674 CE), and that Muʿādh ibn Jabal (may God be pleased with him) died in the plague of ʿAmwās in the Levant in 18 AH (or 17 AH), not in Yemen (Dar al-Iftaa al-Misriyyah, article "Muʿādh ibn Jabal"; and English Wikipedia, "Muadh ibn Jabal": died in 639 CE of the Plague of ʿAmwās).
