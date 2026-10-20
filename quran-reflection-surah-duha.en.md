@@ -9,7 +9,7 @@ readingMinutes: 3
 > Occasion: A transcription of a lecture delivered after the Isha prayer on May 13, 2026
 > Source: A transcription of a video lecture by Dr. Ahmed Abouseif — [Watch the original video on YouTube](https://www.youtube.com/watch?v=NAqFtHvV8zg)
 
-> Editor's note: The transcript of this lecture is badly garbled (with fragmentary English passages whose speaker is unclear), and only the following could be established from it; no explanation that was not stated has been added.
+> Editor's note: This text summarizes what could be established from the lecture; some English passages in it are fragmentary and their speaker is unclear. No explanation that was not in the lecture has been added.
 
 The session opens with a supplication: «اللهم سلِّم لنا قلوبنا، واحفظ علينا عافيتنا، واهدنا سبلنا، وارضَ عنا وارضنا، وتجاوز عن سيئاتنا وخطايانا، واغفر اللهم لنا تقصيرنا في حق ديننا يا أرحم الراحمين» ("O Allah, keep our hearts sound, preserve our well-being for us, guide us to our paths, be pleased with us and make us pleased, overlook our misdeeds and errors, and forgive us, O Allah, our shortcomings toward our religion, O Most Merciful of those who show mercy").
 

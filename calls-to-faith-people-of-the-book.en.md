@@ -9,7 +9,7 @@ readingMinutes: 3
 > Occasion: A transcription of a lecture delivered after the Isha prayer at AIA on June 9, 2026, as part of the series "Calls to Faith in the Qur’an" (15)
 > Source: A transcription of a video lecture by Dr. Ahmed Abouseif — [Watch the original video on YouTube](https://www.youtube.com/watch?v=7WMjxucD03A)
 
-> Editor's note: The transcript of this lecture is badly garbled, and only the verses and phrases given below could be established from it; no explanation that did not appear has been added.
+> Editor's note: This text summarizes what could be established from the lecture, which consists mostly of recited verses; no explanation that was not in the lecture has been added.
 
 The session opens with a supplication: «اللهم سلِّم لنا قلوبنا وعقولنا، واحفظ علينا عافيتنا وأمننا في أنفسنا وأهلينا وأموالنا وأولادنا، اللهم آمين يا رب العالمين» ("O Allah, keep our hearts and minds sound for us, and preserve for us our well-being and our security in ourselves, our families, our wealth and our children. O Allah, amen, Lord of the worlds.").
 
@@ -29,7 +29,7 @@ Then: ﴿وَإِنَّ مِنْهُمْ لَفَرِيقًا يَلْوُونَ
 
 ### The Opening of the Surah
 
-Then he turns to the opening of Sūrat Āl ʿImrān, and mentions the disjointed letters and the oneness of God: ﴿الم * اللَّهُ لَا إِلَٰهَ إِلَّا هُوَ الْحَيُّ الْقَيُّومُ * نَزَّلَ عَلَيْكَ الْكِتَابَ بِالْحَقِّ مُصَدِّقًا لِّمَا بَيْنَ يَدَيْهِ وَأَنزَلَ التَّوْرَاةَ وَالْإِنجِيلَ مِن قَبْلُ … الْفُرْقَانَ﴾ [Āl ʿImrān: 1-4][^2] (Alif, Lām, Mīm. Allah, there is no god but Him, the Ever-Living, the Self-Sustaining. He has sent down to you the Book in truth, confirming what was before it, and He sent down the Torah and the Gospel before … the Criterion). Then he mentions the choosing of Adam, Noah and the family of Abraham: ﴿إِنَّ اللَّهَ اصْطَفَىٰ آدَمَ وَنُوحًا وَآلَ إِبْرَاهِيمَ …﴾[^1] (Indeed, Allah chose Adam, Noah and the family of Abraham …).
+Then he turns to the opening of Sūrat Āl ʿImrān, and mentions the disjointed letters and the oneness of God: ﴿الم * اللَّهُ لَا إِلَٰهَ إِلَّا هُوَ الْحَيُّ الْقَيُّومُ * نَزَّلَ عَلَيْكَ الْكِتَابَ بِالْحَقِّ مُصَدِّقًا لِّمَا بَيْنَ يَدَيْهِ وَأَنزَلَ التَّوْرَاةَ وَالْإِنجِيلَ مِن قَبْلُ … الْفُرْقَانَ﴾ [Āl ʿImrān: 1-4][^2] (Alif, Lām, Mīm. Allah, there is no god but Him, the Ever-Living, the Self-Sustaining. He has sent down to you the Book in truth, confirming what was before it, and He sent down the Torah and the Gospel before … the Criterion). Then he mentioned the choosing of Adam, Noah and the family of Abraham: ﴿إِنَّ اللَّهَ اصْطَفَىٰ آدَمَ وَنُوحًا وَآلَ إِبْرَاهِيمَ …﴾[^1] (Indeed, Allah chose Adam, Noah and the family of Abraham …).
 
 ### "And Among You Is His Messenger"
 

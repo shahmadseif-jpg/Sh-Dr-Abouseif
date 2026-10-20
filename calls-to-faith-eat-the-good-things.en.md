@@ -9,7 +9,7 @@ readingMinutes: 3
 > Occasion: A transcription of the evening lecture "Calls to Faith in the Qur’an," delivered at AIA on March 31, 2026
 > Source: A transcription of a video lecture by Dr. Ahmed Abouseif — [Watch the original video on YouTube](https://www.youtube.com/watch?v=1auC32_LnZ8)
 
-> Note on the text: The automatic transcript of this lecture is short and garbled, consisting mostly of repeated verses, and the speaker's explanation in it is sparse and fragmentary. This text is therefore limited to what was clearly heard, and nothing has been added to it.
+> Editor's note: This text summarizes what could be established from the lecture, which consists mostly of recited verses; no explanation that was not in the lecture has been added.
 
 He began by invoking blessings and peace upon the servant of Allah, His Prophet and Messenger, our master and Prophet Muhammad ﷺ, and then made supplication: "I ask Allah, glorified and exalted, to accept from us and from you righteous deeds, to forgive us and you our slips, to bless us in the good things He has granted us, to free us from our faults, to purify our inner selves, and to preserve what is in our hands of good things. O Allah, amen, Lord of the worlds."
 

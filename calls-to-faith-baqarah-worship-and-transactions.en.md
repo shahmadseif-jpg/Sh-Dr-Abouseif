@@ -9,7 +9,7 @@ readingMinutes: 3
 > Occasion: A transcription of a lecture delivered after the ʿIshāʾ prayer at AIA on May 5, 2026, part of the series "Calls to Faith in the Qur’an" (12)
 > Source: A transcription of a video lecture by Dr. Ahmed Abouseif — [Watch the original video on YouTube](https://www.youtube.com/watch?v=QTXwx7cMj94)
 
-> Editor's note: The transcript of this lecture is badly garbled, and only what follows could be established; no explanation was added that the lecture did not contain.
+> Editor's note: This text summarizes what could be established from the lecture, which consists mostly of recited verses; no explanation that was not in the lecture has been added.
 
 The session opens with a supplication: "…our livelihood, and set right for us, O Allah, our Hereafter, to which is our return; make life for us an increase in every good, and make death a rest for us from every evil. Make us firm with the firm word in the life of this world and in the Hereafter, and on the day the witnesses rise, O Lord of the worlds. Mend our hearts, ease our affairs, guide us to our paths, strengthen our hearts, and make our feet firm. O Allah, amen."
 

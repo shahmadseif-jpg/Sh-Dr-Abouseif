@@ -9,7 +9,7 @@ readingMinutes: 3
 > Occasion: A transcription of a lecture delivered after the ʿIshāʾ prayer at AIA on June 16, 2026, as part of the series "Calls to Faith in the Qur’an" (16)
 > Source: A transcription of a video lecture by Dr. Ahmed Abouseif — [Watch the original video on YouTube](https://www.youtube.com/watch?v=K0sc6y1468w)
 
-> Editor's note: The transcript of this lecture is very unclear, and only the verses and phrases given below could be established from it; no explanation that was not in the lecture has been added.
+> Editor's note: This text summarizes what could be established from the lecture, which consists mostly of recited verses; no explanation that was not in the lecture has been added.
 
 The session begins with the call in Sūrat Āl ʿImrān: ﴿يَا أَيُّهَا الَّذِينَ آمَنُوا إِن تُطِيعُوا فَرِيقًا مِّنَ الَّذِينَ أُوتُوا الْكِتَابَ يَرُدُّوكُم بَعْدَ إِيمَانِكُمْ كَافِرِينَ﴾ [آل عمران: 100] (O you who believe, if you obey a group of those who were given the Book, they will turn you back, after your belief, into disbelievers) [Āl ʿImrān: 100], then another call: ﴿يَا أَيُّهَا الَّذِينَ آمَنُوا اتَّقُوا اللَّهَ حَقَّ تُقَاتِهِ وَلَا تَمُوتُنَّ إِلَّا وَأَنتُم مُّسْلِمُونَ﴾ [آل عمران: 102] (O you who believe, fear Allah as He should be feared, and do not die except as Muslims) [Āl ʿImrān: 102].
 
