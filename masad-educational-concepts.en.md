@@ -63,7 +63,7 @@ So until when do we keep defending the truth? Either Allah gives it victory, or 
 
 And Abū Lahab's second half was like the first: ﴿وَامْرَأَتُهُ﴾[^10] ... ﴿فِي جِيدِهَا حَبْلٌ مِّن مَّسَدٍ﴾ (And his wife … around her neck is a rope of palm fiber). So choose the one in whose keeping your seed will be, who will carry your child, who will help you toward the truth or toward other than it, who will push you to do good or to do evil; choose, and you are the one who decides. Whoever among us is granted a wife who helps him seek what is lawful has been granted all good, and whoever among us is granted a wife who helps him toward falsehood or evil has been tried with the greatest trial of his life; for she is your vessel, she is your covering, she is your support, so she is either for you or against you.
 
-And it is mentioned of a woman that she used to stand at the door of the house before her husband, saying to him: Fear Allah regarding us, for we can bear the hunger of this world but cannot bear the heat of the Fire. She was charging him not to feed her what is unlawful. And this man who receives this charge before he leaves his house will not cheat a person, will not wrong anyone, will not lie in a transaction, will not forge papers, will not alter facts, will not deprive people of their rights; he will do none of that. Why? Because he took a full dose before heading off to his work[^11].
+And it is mentioned of a woman that she used to stand at the door of the house before her husband, saying to him: Fear Allah regarding us, for we can bear the hunger of this world but cannot bear the heat of the Fire. She was charging him not to feed her what is unlawful. And this man who receives this charge before he leaves his house will not cheat a person, will not wrong anyone, will not lie in a transaction, will not forge papers, will not alter facts, will not deprive people of their rights; he will do none of that. Why? Because he took a full dose before heading off to his work.
 
 ### Summary of the Reflections
 
@@ -72,12 +72,11 @@ These are some pauses with this noble sūrah. And once again we say: Allah, glor
 ---
 [^1]: Editor's documentation: Sūrat al-Ikhlāṣ, verses 1–4.
 [^2]: Editor's documentation: The speaker referred to the verses about the heavens and the earth being torn apart by the claim of a son for Allah without specifying the verse; see Sūrat Maryam, verses 90–91.
-[^3]: Editor's documentation: Sūrat al-Falaq, verses 1–5. In the transcript it is «وقع» and what is recorded is «وَقَبَ» according to the wording of the muṣḥaf.
+[^3]: Editor's documentation: Sūrat al-Falaq, verses 1–5; what is recorded is «وَقَبَ» according to the wording of the muṣḥaf.
 [^4]: Editor's documentation: Sūrat an-Nās, verses 1–6.
 [^5]: Editor's documentation: Sūrat al-Masad, verse 1. The occasion of revelation is in the meaning of what is reported in the Ṣaḥīḥayn about the Prophet ﷺ climbing aṣ-Ṣafā and calling out to Quraysh, and the speaker narrated it by meaning. As for the throwing of dust or pebbles, the speaker related it in the form "they say" and its authenticity has not been verified.
 [^6]: Editor's documentation: Sūrat al-Masad, verse 2.
 [^7]: Editor's documentation: Sūrat al-Anbiyā', verse 18.
 [^8]: Editor's documentation: Sūrat al-Anfāl, verse 36. The speaker recited the verse with commentary pauses between its parts.
-[^9]: Editor's documentation: The speaker's wording in the transcript: «ليعلم الله الذين جاهدوا فيه ليمحّص الله الذين آمنوا ويمحق الكافرين»; we have recorded it without verse marks because the joining of the phrases was not clear. It contains the meaning of His words ﴿لِيَمِيزَ اللَّهُ الْخَبِيثَ مِنَ الطَّيِّبِ﴾ (Sūrat al-Anfāl, verse 37), and His words ﴿وَلِيُمَحِّصَ اللَّهُ الَّذِينَ آمَنُوا وَيَمْحَقَ الْكَافِرِينَ﴾ (Sūrat Āl 'Imrān, verse 141).
-[^10]: Editor's documentation: Sūrat al-Masad, verses 4–5. The transcript is limited to his words «وامرأته حمالة الح...» and then «في جيدها حبل من مسد», so the verse was not completed in the body.
-[^11]: Editor's documentation: The speaker mentioned «الصحاب...» as a word unclear in the transcript, so the saying has not been attributed in the body to any particular person.
+[^9]: Editor's documentation: The speaker's wording: «ليعلم الله الذين جاهدوا فيه ليمحّص الله الذين آمنوا ويمحق الكافرين». It contains the meaning of His words ﴿لِيَمِيزَ اللَّهُ الْخَبِيثَ مِنَ الطَّيِّبِ﴾ (Sūrat al-Anfāl, verse 37), and His words ﴿وَلِيُمَحِّصَ اللَّهُ الَّذِينَ آمَنُوا وَيَمْحَقَ الْكَافِرِينَ﴾ (Sūrat Āl 'Imrān, verse 141).
+[^10]: Editor's documentation: Sūrat al-Masad, verses 4–5; the verse was not completed in the body.

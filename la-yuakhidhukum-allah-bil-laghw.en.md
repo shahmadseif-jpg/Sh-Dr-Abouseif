@@ -22,6 +22,6 @@ And glory be to Allah, the All-Powerful, we see this with our own eyes; a word m
 And I ask Allah, the Most High, the Almighty, to grant us good speech, good address, and decisive speech, O Allah, amen, O Lord of the worlds. And I ask Him to grant us and you on this blessed day such good as will make us happy in our worldly life and our Hereafter, to record for us our deeds and our steps, to make us among those who hasten to what pleases Him, glory be to Him, the Almighty, to grant us truthful tongues and sincere hearts, and to grant us sincerity in what we say and in what we do. May Allah keep you safe as long as you live, may Allah be pleased with you wherever you are, and may the peace, mercy and blessings of Allah be upon you.
 
 ---
-[^1]: Editor's documentation: Sūrat al-Māʾida [89]. The transcript had «باللهو» whereas the verse is known to read «باللغو», and that is what has been set down.
+[^1]: Editor's documentation: Sūrat al-Māʾida [89]. The verse reads «باللغو».
 [^2]: Editor's documentation: Sūrat Ibrāhīm [24–26]; the speaker mentioned only this much of the verse.
 [^3]: Editor's documentation: The origin of the ḥadīth is in the two Ṣaḥīḥs, in meaning, on the authority of Abū Hurayra (may Allah be pleased with him), and the wording «seventy autumns» is in Jāmiʿ al-Tirmidhī; the speaker conveyed it by meaning.

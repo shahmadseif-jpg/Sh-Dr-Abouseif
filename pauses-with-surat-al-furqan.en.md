@@ -1,5 +1,5 @@
 ---
-title: "Reflections on Surat al-Furqan"
+title: "Pauses with Sūrat al-Furqān: Answering Attacks on the Message and Its Bearer"
 subtitle: "How the Qur'an answers those who attack the message and its bearer, and how we learn not to make enemies of anyone"
 date: "2024-07-09"
 locale: "en"

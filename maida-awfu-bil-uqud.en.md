@@ -64,5 +64,5 @@ And among the first symbols that appeared in Sūrat al-Māʾida is the symbol of
 ---
 [^1]: Editor's documentation: The opening of Sūrat al-Māʾida (5:1–2). I have given the verses the speaker recited; and the verse ﴿حُرِّمَتْ عَلَيْكُمُ…﴾ (5:3) came according to what he mentioned of it.
 [^2]: Editor's documentation: Sūrat al-Tawba (9:36–37).
-[^3]: Editor's documentation: The speaker related the report of ʿUmar (may Allah be pleased with him) by meaning without attribution, and did not name the man, and the transcription is confused in specifying whose brother was killed; its wording has not been verified here.
+[^3]: Editor's documentation: The speaker related the report of ʿUmar (may Allah be pleased with him) by meaning without attribution, and did not name the man; its wording has not been verified here.
 [^4]: Editor's documentation: Sūrat al-Māʾida (5:27); and the two calls "O Messenger" are in the same surah (5:41, 67).

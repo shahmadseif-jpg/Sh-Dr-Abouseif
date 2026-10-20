@@ -51,7 +51,7 @@ He said: based on his condition of course; and I am among the people who say tha
 
 ### The Story of the Sister from Ohio
 
-And on the occasion of what they had been discussing in the morning, he mentioned that a sister came to them at the mosque in Ohio wanting to become Muslim, and she said that her husband was not Muslim and that she wanted to stay with him. So she asked: What should I do? He said to her: Marital relations are forbidden to you. She said: How is that? — and in one version: You are crazy! — that she cannot do without him in any circumstance. He said to her: You have two months; either you bring him and he becomes Muslim, or there is no contact for two months, or we look for another solution for you. And after three weeks the shahādah came, praise be to Allah.[^4]
+And on the occasion of what they had been discussing in the morning, he mentioned that a sister came to them at the mosque in Ohio wanting to become Muslim, and she said that her husband was not Muslim and that she wanted to stay with him. So she asked: What should I do? He said to her: Marital relations are forbidden to you. She said: How is that? — and in one version: You are crazy! — that she cannot do without him in any circumstance. He said to her: You have two months; either you bring him and he becomes Muslim, or there is no contact for two months, or we look for another solution for you. And after three weeks the shahādah came, praise be to Allah.
 
 And he explained the secret of that: because you proceeded with the matter by a method, step after step, and did not jump upward a jump that would disturb people about the legislation itself.
 
@@ -77,6 +77,5 @@ And he concluded by asking Allah, glory be to Him, to preserve our religion for 
 
 ---
 [^1]: Editor's documentation: The verse is in Sūrat al-Nisāʾ [43]. The speaker recited the verse up to His saying "until you have washed" then moved on, and what he recited is recorded to its extent.
-[^2]: Editor's documentation: The speaker cited the hadith in this wording without attribution; its chain of transmission is subject to discussion among the scholars of ḥadīth, so it should be checked before publication.
+[^2]: Editor's documentation: The speaker cited the hadith in this wording without attribution; its chain of transmission is subject to discussion among the scholars of ḥadīth.
 [^3]: Editor's documentation: The places in order: al-Naḥl [67], al-Baqara [219], al-Nisāʾ [43], al-Māʾida [90]. And the verse of fighting is in al-Ḥujurāt [9], and the verse of perfection in al-Māʾida [3], and the first and second calls in al-Nisāʾ [19] and [29].
-[^4]: Editor's documentation: The transcript's wording here is garbled ("بيوع الشهادة هم ثلاث أسابيع"); it was understood from it that the shahādah came after three weeks, and it is not clear to whom the statement refers.

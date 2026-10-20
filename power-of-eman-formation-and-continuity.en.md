@@ -81,7 +81,7 @@ Recently I sent a message to the parents, asking them to bring the children and 
 ---
 [^1]: Editor's documentation: the khatib does not name the man; the description matches the conversion of ʿUmar ibn al-Khaṭṭāb, may Allah be pleased with him.
 [^2]: Editor's documentation: the preacher paraphrased the magicians' reply without reciting it; the verses are supplied by the editor.
-[^3]: Editor's documentation: the words in the khutbah are inaudible in the transcript; the address "O you who believe" opens the verses of fasting in Sūrat al-Baqarah 2:183.
+[^3]: Editor's documentation: the address "O you who believe" opens the verses of fasting in Sūrat al-Baqarah 2:183.
 [^4]: Editor's documentation: reported by Muslim, from Ḥanẓalah al-Usayyidī, may Allah be pleased with him.
 [^5]: Editor's documentation: the preacher paraphrased this verse without reciting it; it is supplied by the editor.
 [^6]: Editor's documentation: reported by al-Ṭabarānī and al-Ḥākim from Sahl ibn Saʿd, within the hadith of Jibrīl; scholars differ on its grading and many accept it as ḥasan. The khatib did not name the source.

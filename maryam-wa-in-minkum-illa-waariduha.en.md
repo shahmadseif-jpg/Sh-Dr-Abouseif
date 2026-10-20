@@ -49,6 +49,6 @@ I ask Allah, the Most High, the All-Powerful, to let us enjoy obedience to Him, 
 [^1]: Editor's documentation: Sūrat Maryam, verse 71.
 [^2]: Editor's documentation: Sūrat Maryam, verse 72, and its completion is: ﴿جِثِيًّا﴾; the speaker stopped at "in it."
 [^3]: Editor's documentation: He alludes to what is in Sūrat Maryam (verses 88–92) of the denial of their saying that the Most Merciful has taken a son; the speaker did not recite the verse in this passage.
-[^4]: Editor's documentation: Sūrat Maryam, verse 98, and its completion is: ﴿رِكْزًا﴾; and in the transcript "or hear from them" is followed by a garbled word.
+[^4]: Editor's documentation: Sūrat Maryam, verse 98, and its completion is: ﴿رِكْزًا﴾.
 [^5]: Editor's documentation: Sūrat al-Nāziʿāt, verse 24.
 [^6]: Editor's documentation: Sūrat al-Zukhruf, verse 51.

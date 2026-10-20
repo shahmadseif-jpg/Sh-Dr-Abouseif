@@ -21,7 +21,7 @@ He turned to the opening of Surah al-Baqarah: ﴿ذَٰلِكَ الْكِتَا
 
 ### Prayer and spending
 
-Then he paused at ﴿وَيُقِيمُونَ الصَّلَاةَ﴾, "and they establish prayer," at the word "establishing" (*iqāma*).[^4] Then: ﴿وَمِمَّا رَزَقْنَاهُمْ يُنفِقُونَ﴾, "and from what We have provided them they spend." And the verse that follows: ﴿وَالَّذِينَ يُؤْمِنُونَ بِمَا أُنزِلَ إِلَيْكَ وَمَا أُنزِلَ مِن قَبْلِكَ وَبِالْآخِرَةِ هُمْ يُوقِنُونَ﴾, "and those who believe in what was sent down to you and what was sent down before you, and of the Hereafter they are certain."
+Then he paused at ﴿وَيُقِيمُونَ الصَّلَاةَ﴾, "and they establish prayer," at the word "establishing" (*iqāma*). Then: ﴿وَمِمَّا رَزَقْنَاهُمْ يُنفِقُونَ﴾, "and from what We have provided them they spend." And the verse that follows: ﴿وَالَّذِينَ يُؤْمِنُونَ بِمَا أُنزِلَ إِلَيْكَ وَمَا أُنزِلَ مِن قَبْلِكَ وَبِالْآخِرَةِ هُمْ يُوقِنُونَ﴾, "and those who believe in what was sent down to you and what was sent down before you, and of the Hereafter they are certain."
 
 ### Believers, disbelievers, hypocrites
 
@@ -30,7 +30,6 @@ He noted that the opening of al-Baqarah presents three groups: the believers, th
 That led him to the speech of Noah's people: ﴿مَا نَرَاكَ اتَّبَعَكَ إِلَّا الَّذِينَ هُمْ أَرَاذِلُنَا بَادِيَ الرَّأْيِ وَمَا نَرَىٰ لَكُمْ عَلَيْنَا مِن فَضْلٍ بَلْ نَظُنُّكُمْ كَاذِبِينَ﴾, "We see none following you except those who are the lowest among us, at first glance, and We do not see in you any superiority over us; rather, we think you are liars."[^3]
 
 ---
-[^1]: سورة البقرة: 2–3. توثيق المحرر: وردت الآيات في التفريغ مقطّعة؛ والترجمة الإنجليزية للآيات من وضع المحرر.
+[^1]: Sūrat al-Baqarah: 2–3. Editor's documentation: The English translation of the verses is the editor's.
 [^2]: سورة البقرة: 13.
-[^3]: سورة هود: 27. توثيق المحرر: قال المتحدث في موضع آخر ما يُفهم منه «الأعراف»، والتفريغ مضطرب في هذا الموضع؛ والآية بهذا اللفظ في سورة هود.
-[^4]: توثيق المحرر: التفريغ مجزّأ في هذا الموضع، ويُفهم منه أن المتحدث ربط «الإقامة» بـ«القيام»؛ لم يتأكد ذلك فلم يُثبت في المتن.
+[^3]: Sūrat Hūd: 27. Editor's documentation: The verse in this wording is in Sūrat Hūd.

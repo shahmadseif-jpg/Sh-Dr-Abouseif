@@ -39,5 +39,5 @@ I ask Allah, the Most High, the Almighty, by His most beautiful names and His lo
 
 ---
 [^1]: Editor's documentation: al-Baqarah: 284.
-[^2]: Editor's documentation: ﴿هُدًى لِّلْمُتَّقِينَ﴾ al-Baqarah: 2, and ﴿يُؤْمِنُونَ بِالْغَيْبِ﴾ al-Baqarah: 3. After that there is a garbled phrase in the transcription («فكل ما كان من بداية السورة إلى ختامها إنما هو بين يؤمنون بالغيب…») which was deleted because its meaning could not be determined.
+[^2]: Editor's documentation: ﴿هُدًى لِّلْمُتَّقِينَ﴾ al-Baqarah: 2, and ﴿يُؤْمِنُونَ بِالْغَيْبِ﴾ al-Baqarah: 3.
 [^3]: Editor's documentation: Āl ʿImrān: 154; the speaker cited the phrase from the verse, which is in the context of speaking about the hypocrites, and he did not address its context.

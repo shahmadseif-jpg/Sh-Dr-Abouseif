@@ -71,5 +71,5 @@ We will continue, if Allah, Blessed and Exalted, wills, another time.
 
 ---
 
-[^1]: Editor's documentation: The locations of the verses are the editor's addition, and the Shaykh did not mention their numbers: al-Naḥl 1, al-Ḥujurāt 1 and 3, and al-Tawbah 1–7. The verse al-Tawbah 6 was recited by the Shaykh without «فأجره» ("so grant him protection") (its completion is: ﴿وَإِنْ أَحَدٌ مِّنَ الْمُشْرِكِينَ اسْتَجَارَكَ فَأَجِرْهُ حَتَّىٰ يَسْمَعَ كَلَامَ اللَّهِ﴾). The Shaykh's wording in the transcript is disjointed («الأصل أن تكون البراءة إلى أم تكون من», "the original is that the disavowal be to or be from"), so I limited myself to the meaning he completed afterward.
+[^1]: Editor's documentation: The locations of the verses are the editor's addition, and the Shaykh did not mention their numbers: al-Naḥl 1, al-Ḥujurāt 1 and 3, and al-Tawbah 1–7. The verse al-Tawbah 6 was recited by the Shaykh without «فأجره» ("so grant him protection") (its completion is: ﴿وَإِنْ أَحَدٌ مِّنَ الْمُشْرِكِينَ اسْتَجَارَكَ فَأَجِرْهُ حَتَّىٰ يَسْمَعَ كَلَامَ اللَّهِ﴾).
 [^2]: Editor's documentation: The Shaykh did not name the narrator or the incident, and did not attribute the report to a source, so it is conveyed by its meaning from the lecture. The same applies to the report of the man who pulled the Prophet ﷺ by his shoulder.

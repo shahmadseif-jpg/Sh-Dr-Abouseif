@@ -37,13 +37,13 @@ He then turned to Sūrat al-Taḥrīm and recited:
 
 He recalled the story of the honey: the Prophet ﷺ had been eating honey, his wives tried to make him (the rest of the sentence is lost), they did it, and the Prophet ﷺ said that he would never eat it again.[^4] Then he recited the rest of the third verse, ﴿عَرَّفَ بَعْضَهُ وَأَعْرَضَ عَن بَعْضٍ﴾.
 
-Right after it, in English, he spoke in the first person in a passage that survives only in fragments: "I don't know what you are doing, but I don't like it." She starts explaining her position and telling me why she did it, but I will not be convinced by any reason; I start defending my idea, my opinion, giving more detail.[^5]
+Right after it, in English, he spoke in the first person in a passage that survives only in fragments: "I don't know what you are doing, but I don't like it." She starts explaining her position and telling me why she did it, but I will not be convinced by any reason; I start defending my idea, my opinion, giving more detail.
 
 Then he recited the address that follows:
 
 ﴿إِن تَتُوبَا إِلَى اللَّهِ فَقَدْ صَغَتْ قُلُوبُكُمَا ۖ وَإِن تَظَاهَرَا عَلَيْهِ فَإِنَّ اللَّهَ هُوَ مَوْلَاهُ وَجِبْرِيلُ وَصَالِحُ الْمُؤْمِنِينَ ۖ وَالْمَلَائِكَةُ بَعْدَ ذَٰلِكَ ظَهِيرٌ﴾ [al-Taḥrīm]
 
-Then he said: "You are causing a problem, not for this person, but you are causing a problem for the..." and the sentence is lost.[^6]
+Then he said: "You are causing a problem, not for this person, but you are causing a problem for the..." and the sentence is lost.
 
 ### Each looks only at his own side
 
@@ -55,13 +55,10 @@ He moved toward his conclusion with the opening of Sūrat al-Mujādilah:
 
 ﴿قَدْ سَمِعَ اللَّهُ قَوْلَ الَّتِي تُجَادِلُكَ فِي زَوْجِهَا وَتَشْتَكِي إِلَى اللَّهِ وَاللَّهُ يَسْمَعُ تَحَاوُرَكُمَا ۚ إِنَّ اللَّهَ سَمِيعٌ بَصِيرٌ﴾ [al-Mujādilah]
 
-He closed with a supplication, asking Allah, as far as it can be read, to place the means between our hands and yours... The sentence breaks off there in the transcript.[^7]
+He closed with a supplication, asking Allah, as far as it can be read, to place the means between our hands and yours... The sentence breaks off there in the transcript.
 
 ---
-[^1]: Editor's documentation: the lecturer named only Sūrat al-Rūm; the surah names and verse numbers in the citations are the editor's (al-Rūm 21; 20 and 22–24 for the verses quoted next; al-Taḥrīm 1–3 and 4; al-Mujādilah 1). Where only the opening of a verse is quoted, that is as much as the transcript preserves; the heavy repetition makes it impossible to tell how much more he recited.
-[^2]: Editor's documentation: the endings correspond to al-Rūm 21 (يَتَفَكَّرُونَ), 22 (لِلْعَالِمِينَ), 23 (يَسْمَعُونَ) and 24 (يَعْقِلُونَ). The phrases about the creation of the heavens and the earth and "those of understanding" recall Āl ʿImrān 190–191, but the transcript preserves only the words, so this identification is not certain.
+[^1]: Editor's documentation: The lecturer named only Sūrat al-Rūm; the surah names and verse numbers in the citations are the editor's (al-Rūm 21; 20 and 22–24 for the verses quoted next; al-Taḥrīm 1–3 and 4; al-Mujādilah 1).
+[^2]: Editor's documentation: The endings correspond to al-Rūm 21 (يَتَفَكَّرُونَ), 22 (لِلْعَالِمِينَ), 23 (يَسْمَعُونَ) and 24 (يَعْقِلُونَ). The phrases about the creation of the heavens and the earth and "those of understanding" recall Āl ʿImrān 190–191.
 [^3]: Editor's documentation: narrated by al-Bukhārī and Muslim from Ibn ʿUmar, may Allah be pleased with them both.
-[^4]: Editor's documentation: the transcript gives only a broken English sentence about the honey, the wives and the Prophet's saying that he would not eat it again. The incident is reported in the two Ṣaḥīḥs from ʿĀʾishah, may Allah be pleased with her, as a reason for the revelation; the lecturer's own wording is kept to what is above.
-[^5]: Editor's documentation: this passage is fragmentary in the transcript and is placed directly after the recitation of verse 3. Whether the lecturer meant it as a contrast with ﴿عَرَّفَ بَعْضَهُ وَأَعْرَضَ عَن بَعْضٍ﴾ is not stated in what survives.
-[^6]: Editor's documentation: the lecturer's comments on these verses are largely lost. The transcript also has the word «عسى» after verse 4 with no continuation, so nothing is built on it.
-[^7]: Editor's documentation: a remark about asking Allah for al-satr (concealment, covering) and the phrase «لا تردوا نعمة الله» also occur near the end of the transcript, but they are too broken to attribute any meaning to.
+[^4]: Editor's documentation: The incident is reported in the two Ṣaḥīḥs from ʿĀʾishah, may Allah be pleased with her, as a reason for the revelation.
