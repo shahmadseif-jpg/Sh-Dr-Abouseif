@@ -172,15 +172,15 @@ Otherwise, as those things are listed as free of anything that would break the i
 I think we are done with the questions. If somebody else has anything, I am here to answer.
 
 ---
-[^1]: Editor's note (توثيق المحرر): the lecturer's wording is that the term on the slide, translated "accepted", comes from the Arabic root of righteousness (birr). The Arabic term is ḥajj mabrūr.
-[^2]: Editor's note (توثيق المحرر): this matches the hadith «إِنِّي لَأَسْتَغْفِرُ اللَّهَ وَأَتُوبُ إِلَيْهِ فِي الْيَوْمِ أَكْثَرَ مِنْ سَبْعِينَ مَرَّةً», narrated by al-Bukhārī. The lecturer gave only the sense.
-[^3]: Editor's note (توثيق المحرر): «غُفْرَانَكَ» was narrated by Abū Dāwūd and al-Tirmidhī, from ʿĀʾishah.
-[^4]: Editor's note (توثيق المحرر): narrated by Muslim from Thawbān: the Prophet ﷺ would say «أَسْتَغْفِرُ اللَّهَ» three times after the prayer.
-[^5]: Editor's note (توثيق المحرر): the lecturer's description (the best day, forgiveness, freeing necks from the Fire) matches the hadith of the Day of ʿArafah narrated by Muslim from ʿĀʾishah, «مَا مِنْ يَوْمٍ أَكْثَرَ مِنْ أَنْ يُعْتِقَ اللَّهُ فِيهِ عَبْدًا مِنَ النَّارِ مِنْ يَوْمِ عَرَفَةَ». This link is the editor's inference; the lecturer said only "a hadith".
-[^6]: Editor's note (توثيق المحرر): the two Arabic terms, according to the lecturer's description, are the arrival ṭawāf, ṭawāf al-qudūm, and the ṭawāf of ʿUmrah.
-[^7]: Editor's note (توثيق المحرر): "the Black Stone", according to the lecturer's description of pointing and kissing.
-[^8]: Editor's note (توثيق المحرر): the verse about which the lecturer said "we need to memorize this verse" is Sūrat al-Baqarah 2:158, ﴿إِنَّ الصَّفَا وَالْمَرْوَةَ مِن شَعَائِرِ اللَّهِ﴾; this is the editor's identification from the context of the saʿy, not the lecturer's wording.
-[^9]: Editor's note (توثيق المحرر): the day is the day of Tarwiyah, according to the lecturer's explanation (drinking and watering, or taking a rest and preparing).
-[^10]: Editor's note (توثيق المحرر): the place is Muzdalifah, according to the order of events given (leaving ʿArafah at night, staying the night, then Minā).
-[^11]: Editor's note (توثيق المحرر): the lecturer expresses a personal preference, not a ruling.
-[^12]: Editor's note (توثيق المحرر): the lecturer's remark fits the Day of Sacrifice, the tenth day.
+[^1]: Editor's documentation: the lecturer's wording is that the term on the slide, translated "accepted", comes from the Arabic root of righteousness (birr). The Arabic term is ḥajj mabrūr.
+[^2]: Editor's documentation: this matches the hadith «إِنِّي لَأَسْتَغْفِرُ اللَّهَ وَأَتُوبُ إِلَيْهِ فِي الْيَوْمِ أَكْثَرَ مِنْ سَبْعِينَ مَرَّةً», narrated by al-Bukhārī. The lecturer gave only the sense.
+[^3]: Editor's documentation: «غُفْرَانَكَ» was narrated by Abū Dāwūd and al-Tirmidhī, from ʿĀʾishah.
+[^4]: Editor's documentation: narrated by Muslim from Thawbān: the Prophet ﷺ would say «أَسْتَغْفِرُ اللَّهَ» three times after the prayer.
+[^5]: Editor's documentation: the lecturer's description (the best day, forgiveness, freeing necks from the Fire) matches the hadith of the Day of ʿArafah narrated by Muslim from ʿĀʾishah, «مَا مِنْ يَوْمٍ أَكْثَرَ مِنْ أَنْ يُعْتِقَ اللَّهُ فِيهِ عَبْدًا مِنَ النَّارِ مِنْ يَوْمِ عَرَفَةَ». This link is the editor's inference; the lecturer said only "a hadith".
+[^6]: Editor's documentation: the two Arabic terms, according to the lecturer's description, are the arrival ṭawāf, ṭawāf al-qudūm, and the ṭawāf of ʿUmrah.
+[^7]: Editor's documentation: "the Black Stone", according to the lecturer's description of pointing and kissing.
+[^8]: Editor's documentation: the verse about which the lecturer said "we need to memorize this verse" is Sūrat al-Baqarah 2:158, ﴿إِنَّ الصَّفَا وَالْمَرْوَةَ مِن شَعَائِرِ اللَّهِ﴾; this is the editor's identification from the context of the saʿy, not the lecturer's wording.
+[^9]: Editor's documentation: the day is the day of Tarwiyah, according to the lecturer's explanation (drinking and watering, or taking a rest and preparing).
+[^10]: Editor's documentation: the place is Muzdalifah, according to the order of events given (leaving ʿArafah at night, staying the night, then Minā).
+[^11]: Editor's documentation: the lecturer expresses a personal preference, not a ruling.
+[^12]: Editor's documentation: the lecturer's remark fits the Day of Sacrifice, the tenth day.

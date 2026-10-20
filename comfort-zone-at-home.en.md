@@ -44,5 +44,5 @@ But when I ask him the same question, "Why did you come late? How will you wake 
 I hope I delivered the message in a humble way tonight. I ask Allah to help us give our children, and our families, the feeling of comfort. And when your partner has that feeling, she will help you give it to the children. May Allah help us fix any problems we have, and correct our direction in this life and in the hereafter.
 
 ---
-[^1]: Editor's documentation: The speaker paraphrased and did not cite the verse; it is likely "وَعَاشِرُوهُنَّ بِالْمَعْرُوفِ" (al-Nisa' 4:19), which is unconfirmed.
-[^2]: Editor's documentation: Paraphrased by the speaker; the wording "خيركم خيركم لأهله" is reported in al-Tirmidhi and elsewhere.
+[^1]: Editor's documentation: The speaker paraphrased and did not cite the verse; it is likely «وَعَاشِرُوهُنَّ بِالْمَعْرُوفِ» (al-Nisāʾ 4:19), which is unconfirmed.
+[^2]: Editor's documentation: Paraphrased by the speaker; the wording «خيركم خيركم لأهله» is reported in al-Tirmidhī and elsewhere.

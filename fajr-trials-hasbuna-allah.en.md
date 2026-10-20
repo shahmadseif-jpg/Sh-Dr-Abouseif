@@ -31,4 +31,4 @@ He concluded by asking Allah to grant us a faith with which we meet whatever goo
 
 ---
 [^1]: Editor's documentation: Āl ʿImrān: 173–174. Limited to what the speaker uttered of the two verses.
-[^2]: Editor's documentation: This text corresponds to Sūrat al-Baqarah: 214; the speaker uttered the opening of the verse and then "مستهم البأساء والضراء" ("they were touched by poverty and hardship"), and did not complete the rest.
+[^2]: Editor's documentation: This text corresponds to Sūrat al-Baqarah: 214; the speaker uttered the opening of the verse and then «مستهم البأساء والضراء» ("they were touched by poverty and hardship"), and did not complete the rest.

@@ -70,7 +70,7 @@ I ask Allah, blessed and exalted, to make our souls and hearts submit to what He
 ---
 [^1]: Editor's documentation: al-Baqara: 104.
 [^2]: Editor's documentation: al-Baqara: 153. The speaker mentioned only this much of the verse.
-[^3]: Editor's documentation: The speaker alluded to the meaning of two ḥadīths without their wording and did not attribute them; so they were conveyed by meaning without quotation marks. What is known for the first is: «إن لكل عمل شِرّة، ولكل شِرّة فترة» ("Every deed has a period of enthusiasm, and every period of enthusiasm has a slackening") (narrated by al-Tirmidhī, Aḥmad and Ibn Ḥibbān, as far as we know), and for the second: «بادروا بالأعمال فتنًا… يصبح الرجل مؤمنًا ويمسي كافرًا» ("Hasten to deeds before trials… a man will be a believer in the morning and a disbeliever in the evening") (narrated by Muslim). The attribution is to be reviewed before publication.
+[^3]: Editor's documentation: The speaker alluded to the meaning of two ḥadīths without their wording and did not attribute them; so they were conveyed by meaning without quotation marks. What is known for the first is: «إن لكل عمل شِرّة، ولكل شِرّة فترة» ("Every deed has a period of enthusiasm, and every period of enthusiasm has a slackening") (narrated by al-Tirmidhī, Aḥmad and Ibn Ḥibbān, as far as we know), and for the second: «بادروا بالأعمال فتنًا… يصبح الرجل مؤمنًا ويمسي كافرًا» ("Hasten to deeds before trials… a man will be a believer in the morning and a disbeliever in the evening") (narrated by Muslim). The attribution requires further verification.
 [^4]: Editor's documentation: al-Baqara: 172.
 [^5]: Editor's documentation: al-Baqara: 168.
 [^6]: Editor's documentation: al-Baqara: 183. The speaker mentioned this much of the verse.
@@ -79,5 +79,5 @@ I ask Allah, blessed and exalted, to make our souls and hearts submit to what He
 [^9]: Editor's documentation: al-Baqara: 264.
 [^10]: Editor's documentation: al-Baqara: 267.
 [^11]: Editor's documentation: al-Wāqiʿa: 63–64.
-[^12]: Editor's documentation: The speaker alluded to the ḥadīth of ʿĀʾisha (may Allah be pleased with her) that charity falls into the hand of Allah before it falls into the hand of the beggar, and did not attribute it in the khatira. This wording was narrated with chains in which there is weakness, as far as we know, so its authenticity is not asserted with it; and what is in the two Ṣaḥīḥs is sound in meaning: «إلا أخذها الرحمن بيمينه» ("except that the Most Merciful took it in His right hand"), and it is to be reviewed before publication.
+[^12]: Editor's documentation: The speaker alluded to the ḥadīth of ʿĀʾisha (may Allah be pleased with her) that charity falls into the hand of Allah before it falls into the hand of the beggar, and did not attribute it in the khatira. This wording was narrated with chains in which there is weakness, as far as we know, so its authenticity is not asserted with it; and what is in the two Ṣaḥīḥs is sound in meaning: «إلا أخذها الرحمن بيمينه» ("except that the Most Merciful took it in His right hand"), and the matter requires further verification.
 [^13]: Editor's documentation: al-Ḥashr: 9.

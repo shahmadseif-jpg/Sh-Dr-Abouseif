@@ -20,5 +20,5 @@ That is the believer whom the Lord of the worlds, glory be to Him, approved as a
 O Allah, gather for us in our hearts the intentions with which You are pleased with us, and grant us of deeds what brings us near to You and conveys us to Your Paradise. And O Allah, send blessings upon our Prophet Muhammad and upon his family and Companions, and abundant peace. And peace be upon you.
 
 ---
-[^1]: Editor's documentation: The speaker related it from the narration of Abū Hurayra, may Allah be pleased with him, and it is in Ṣaḥīḥ Muslim in similar wording; the wording should be checked before publication.
+[^1]: Editor's documentation: The speaker related it from the narration of Abū Hurayra, may Allah be pleased with him, and it is in Ṣaḥīḥ Muslim in similar wording; so its exact wording cannot be asserted with certainty.
 [^2]: Editor's documentation: Sūrat al-Baqarah, verse 30.

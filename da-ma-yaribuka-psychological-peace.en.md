@@ -52,5 +52,5 @@ I ask Allah, the Most High, the Almighty, for us and for you, the purification o
 ---
 [^1]: Editor's documentation: The ḥadīth "Leave what makes you doubt for what does not make you doubt" was narrated by al-Tirmidhī and al-Nasāʾī, and it is the eleventh ḥadīth of al-Arbaʿīn al-Nawawiyyah; what appears in the other narration is reported here according to what the speaker said.
 [^2]: Editor's documentation: The verse is from Sūrat al-Aḥqāf (46:34), and the speaker limited himself to pointing to part of it, so it has not been completed in the body text.
-[^3]: Editor's documentation: The speaker gave the wording without attribution; it is narrated with similar wordings and there is discussion about its chains among the ḥadīth scholars, so its documentation should be reviewed before publication.
+[^3]: Editor's documentation: The speaker gave the wording without attribution; it is narrated with similar wordings and there is discussion about its chains among the ḥadīth scholars, and its documentation is open to question.
 [^4]: Editor's documentation: al-Fātiḥah: 4–5.

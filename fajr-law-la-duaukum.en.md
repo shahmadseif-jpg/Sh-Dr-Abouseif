@@ -30,4 +30,4 @@ And so you see that for the Messenger of Allah ﷺ there is no situation in his 
 I ask Allah not to cut our tongues off from His remembrance, and not to cut our hearts off from connection with Him. O Allah, amen.
 
 ---
-[^1]: Editor's documentation: Sūrat al-Furqān, verse 77. The remainder of the verse is: ﴿فَسَوْفَ يَكُونُ لِزَامًا﴾ [al-Furqān: 77], and the speaker did not pronounce the whole of the remainder. The phrase after it, "ومن يفعل ذلك يلق أثامًا", is from verse 68 of the same surah.
+[^1]: Editor's documentation: Sūrat al-Furqān, verse 77. The remainder of the verse is: ﴿فَسَوْفَ يَكُونُ لِزَامًا﴾ [al-Furqān: 77], and the speaker did not pronounce the whole of the remainder. The phrase after it, «ومن يفعل ذلك يلق أثامًا», is from verse 68 of the same surah.

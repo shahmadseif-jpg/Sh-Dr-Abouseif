@@ -34,5 +34,5 @@ If that is not so, nothing comes of him but the opposite of gratitude. And what 
 Then he asked Allah, Blessed and Exalted, for continued concealment, complete contentment, and good acceptance of everything the Lord of the worlds brings, and that He grant him and us richness of soul, heart, mind and wealth, and keep our homes safe for us, and our souls safe from rancor and from trial. Amen, O Lord.
 
 ---
-[^1]: Editor's documentation: The speaker did not mention where the verse is found; the joining of "كلوا مما رزقكم الله حلالًا طيبًا" ("eat of what Allah has provided you, lawful and good") and "واشكروا نعمة الله" ("and give thanks for the blessing of Allah") is in Sūrat al-Naḥl, verse 114.
+[^1]: Editor's documentation: The speaker did not mention where the verse is found; the joining of «كلوا مما رزقكم الله حلالًا طيبًا» ("eat of what Allah has provided you, lawful and good") and «واشكروا نعمة الله» ("and give thanks for the blessing of Allah") is in Sūrat al-Naḥl, verse 114.
 [^2]: Editor's documentation: Sūrat al-Qaṣaṣ, verse 76; the first phrase is in verse 78.

@@ -16,6 +16,6 @@ The speaker turns to the Christians who followed Jesus, peace be upon him, and t
 He then recites the verse describing their response: ﴿وَإِذَا سَمِعُوا مَا أُنزِلَ إِلَى الرَّسُولِ تَرَىٰ أَعْيُنَهُمْ تَفِيضُ مِنَ الدَّمْعِ مِمَّا عَرَفُوا مِنَ الْحَقِّ﴾[^2] and the words of their prayer: ﴿رَبَّنَا آمَنَّا فَاكْتُبْنَا مَعَ الشَّاهِدِينَ﴾[^3] He repeats this supplication, and closes with it as his own: “Our Lord, we have believed, so write us among the witnesses.”
 
 ---
-[^1]: Editor’s note: Sūrat al-Māʾidah 5:82. The speaker recited as far as “Naṣārā.”
-[^2]: Editor’s note: Sūrat al-Māʾidah 5:83, recited by the speaker up to this point.
-[^3]: Editor’s note: Sūrat al-Māʾidah 5:83 (the prayer), as recited by the speaker.
+[^1]: Editor's documentation: Sūrat al-Māʾidah 5:82. The speaker recited as far as “Naṣārā.”
+[^2]: Editor's documentation: Sūrat al-Māʾidah 5:83, recited by the speaker up to this point.
+[^3]: Editor's documentation: Sūrat al-Māʾidah 5:83 (the prayer), as recited by the speaker.

@@ -36,4 +36,4 @@ He concluded with a supplication: O Allah, we ask You for Paradise and for whate
 ---
 [^1]: Editor's documentation: From Sūrat al-Zumar, verse 71. The body text is limited to what the speaker uttered.
 [^2]: Editor's documentation: From Sūrat al-Zumar, verse 74.
-[^3]: Editor's documentation: The speaker relayed it by meaning, and something to the same effect is narrated in Ṣaḥīḥ Muslim (including the hadith of al-Mughīra ibn Shuʿba, may Allah be pleased with him, about Mūsā's, peace be upon him, question concerning the lowest of the people of Paradise in rank); the speaker did not mention its wording or its narrator, so it should be checked before publication.
+[^3]: Editor's documentation: The speaker relayed it by meaning, and something to the same effect is narrated in Ṣaḥīḥ Muslim (including the hadith of al-Mughīra ibn Shuʿba, may Allah be pleased with him, about Mūsā's, peace be upon him, question concerning the lowest of the people of Paradise in rank); the speaker did not mention its wording or its narrator, so the intended hadith cannot be identified with certainty.

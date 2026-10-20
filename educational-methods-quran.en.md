@@ -82,4 +82,4 @@ If we do something wrong, such as, as I mentioned, leaving your plate behind you
 I ask Allah to accept from all of us. I think it is time for the prayer, and I do not want to take a long time.
 
 ---
-[^1]: Editor's note (توثيق المحرر): The context (the first verse revealed, and the commentary on "read," "your Lord," and "the Most Generous") points to the opening of Surat al-ʿAlaq (96) as the verses the speaker cites; the identification of the surah is the editor's.
+[^1]: Editor's documentation: The context (the first verse revealed, and the commentary on "read," "your Lord," and "the Most Generous") points to the opening of Surat al-ʿAlaq (96) as the verses the speaker cites; the identification of the surah is the editor's.

@@ -13,7 +13,7 @@ He began with blessings and peace upon the servant and messenger of Allah, our m
 
 ### The Sixth Call
 
-Then he said: If Allah, blessed and exalted, wills, and he recited:
+Then he said: God willing, Allah, blessed and exalted, and he recited:
 
 ﴿يَا أَيُّهَا الَّذِينَ آمَنُوا ادْخُلُوا فِي السِّلْمِ كَافَّةً وَلَا تَتَّبِعُوا خُطُوَاتِ الشَّيْطَانِ ۚ إِنَّهُ لَكُمْ عَدُوٌّ مُّبِينٌ﴾ [البقرة] (O you who believe, enter into peace completely, and do not follow the footsteps of Satan; he is to you a clear enemy) [al-Baqarah].
 
@@ -80,4 +80,4 @@ And he concluded by saying: I ask Allah, the Most High, the Almighty, to give us
 [^2]: Editor's documentation: The verse on wealth (188) is not one of the calls; the lecturer cited it in the context of the lawful.
 [^3]: Editor's documentation: ʿUmar's exchange is established in Ṣaḥīḥ al-Bukhārī from the ḥadīth of ʿAbd Allāh ibn Hishām (may Allah be pleased with him), and its wording differs in its details from what the lecturer cited. The ḥadīth «لا يؤمن أحدكم حتى أكون أحب إليه من ولده ووالده والناس أجمعين» (None of you truly believes until I am dearer to him than his child, his father and all people) is in the two Ṣaḥīḥs, and does not contain "than himself and his wealth" in this wording.
 [^4]: Editor's documentation: Narrated by Muslim from the ḥadīth of ʿĀ'ishah (may Allah be pleased with her); the attribution is from the editor and was not mentioned by the lecturer.
-[^5]: Editor's documentation: The editor has not verified this narration that the lecturer mentioned, so it should not be attributed to the Prophet ﷺ or to ʿĀ'ishah (may Allah be pleased with her).
+[^5]: Editor's documentation: The authenticity of this narration that the lecturer mentioned is not clear, so it should not be attributed to the Prophet ﷺ or to ʿĀ'ishah (may Allah be pleased with her).

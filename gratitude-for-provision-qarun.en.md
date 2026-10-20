@@ -69,7 +69,7 @@ I ask Allah, the Exalted, to set right our hearts, to guide our souls, to make o
 [^1]: Editor's documentation: al-Qaṣaṣ: 77.
 [^2]: Editor's documentation: al-Qaṣaṣ: 76, in which the saying of the Exalted ﴿إِنَّ قَارُونَ كَانَ مِن قَوْمِ مُوسَىٰ﴾ came before the part mentioned.
 [^3]: Editor's documentation: al-Qaṣaṣ: 81.
-[^4]: Editor's documentation: al-Furqān: 77. And the interpretation of "your supplication" as the word of praise is from the speaker's own derivation in the context of his khatira, and most of the commentators hold that it means supplication and worship; so it should be consulted.
+[^4]: Editor's documentation: al-Furqān: 77. And the interpretation of "your supplication" as the word of praise is from the speaker's own derivation in the context of his khatira, and most of the commentators hold that it means supplication and worship; so it is open to question.
 [^5]: Editor's documentation: al-Qaṣaṣ: 78.
 [^6]: Editor's documentation: al-Qaṣaṣ: 79-80. The speaker related the last part in the form "they say," and I recorded the text of the verse as it is in the Mushaf.
 [^7]: Editor's documentation: al-Munāfiqūn: 9.
