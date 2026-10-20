@@ -19,7 +19,7 @@ And now: in the hadith of Abū Hurayrah, may Allah the Exalted be pleased with h
 
 Let me remind ourselves of this number, and let us try to recall it in our minds so that we reach the stage of connecting these individuals: how does the complementarity among them come about? I think many people have spoken about each one of them independently. They have mentioned the importance of justice in society, and how we can bring up our youth and our children in obedience to Allah, glory be to Him, the Exalted. They have also spoken about love for the sake of Allah, the Mighty and Majestic: meeting upon it and parting upon it. And we have spoken about chastity, purity, refraining from indecency and not yielding to desires, and we have spoken about charity and its benefits in lectures so long and so many that the count may not capture them. But I want, in a few minutes, to connect these individuals.
 
-For the Prophet ﷺ does not speak out of emptiness. And the fact that he, peace be upon him, begins with the just leader, rather than with the man whose heart is attached to the mosques or the young man who grew up in obedience to Allah: why did he choose the just leader to begin his statement with?
+For the Prophet ﷺ does not speak in a vacuum. And the fact that he, peace be upon him, begins with the just leader, rather than with the man whose heart is attached to the mosques or the young man who grew up in obedience to Allah: why did he choose the just leader to begin his statement with?
 
 ### The Just Leader: The Canopy
 

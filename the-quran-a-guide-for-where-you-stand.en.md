@@ -47,7 +47,7 @@ When we look at the Qur’an, we find that from the very beginning of the revela
 
 ### Two faces
 
-We are trying to stay in the comfort zone all the time. Even when we feel ourselves in some danger, we change even our clothes. We go with the people according to their eyes, how they want to see us, and not showing them what we want to show. Our deen is only in our masjid and our homes. Because of that, we find our children growing up with two faces: the American face and the masjid face. "Baba, I am praying, alhamdulillah." And once he gets out of the masjid, you find a completely different person. That is what we have. Look at your children in the gym, in the school, and then look at them in the masjid. So cute in the masjid. Wow. Perfect. Outside the masjid, you can see it even before leaving the parking lot. Why? Because we do not participate with the community around us. We do not have that kind of relationship with the rest of the people. We cannot encourage our children to be part of the community with the reality.
+We are trying to stay in the comfort zone all the time. Even when we feel ourselves in some danger, we change even our clothes. We go with the people according to their eyes, how they want to see us, and not showing them what we want to show. Our deen is only in our masjid and our homes. Because of that, we find our children growing up with two faces: the American face and the masjid face. "Baba, I am praying, alhamdulillah." And once he gets out of the masjid, you find a completely different person. That is what we have. Look at your children in the gym, in the school, and then look at them in the masjid. So cute in the masjid. Wow. Perfect. Outside the masjid, you can see it even before leaving the parking lot. Why? Because we do not participate with the community around us. We do not have that kind of relationship with the rest of the people. We cannot encourage our children to be part of the community in reality.
 
 SubhanAllah. I usually ask people why we are afraid. We are afraid because of our children, that maybe they will change, that they will become Christian or something. Why are we not afraid, rather, that our children will change the rest of the people around them? Why do we not think that the other children may become Muslim? Why are we not building strong people to face any kind of misunderstanding? I hope my English is helping me to spread my idea. We do not have that position in this country, subhanAllah. Guys, we need to be something.
 
@@ -65,7 +65,7 @@ When an official in this state says that Islam will never be allowed in Texas, c
 
 So I say again: open your muṣḥaf and try to read it in a different way. Read the Qur’an as guidance for life, not just as a way of relieving my soul. I am not reading the Qur’an only to feel tranquility. I need to read it to encourage me to be stronger, to be more understanding, to be aware of the circumstances around me.
 
-I do not want to take a longer time. We ask Allah, glory be to Him, to guide us to the straight path. May Allah guide all of us.
+I do not want to take too long. We ask Allah, glory be to Him, to guide us to the straight path. May Allah guide all of us.
 
 ---
 [^1]: Editor's documentation: the story is in the long ḥadīth of Ibn ʿAbbās in Ṣaḥīḥ al-Bukhārī about Hājar and Ismāʿīl, ʿalayhimā al-salām, where she says, "Has Allah commanded you with this?" He said, "Yes," and she said, "Then He will not let us be lost." The lecturer did not quote the ḥadīth or attribute it.

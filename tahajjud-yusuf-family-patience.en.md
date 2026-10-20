@@ -15,7 +15,7 @@ We ask ourselves when Surah Yusuf came to the Prophet Muhammad ﷺ. Some of the 
 
 If your relatives, your uncles and cousins, come against you, remember that here is someone whose own brothers came against him. If you feel confined, look at Yusuf: he was surrounded by disbelievers, against him and beside him in the same place at the same time.
 
-And if you feel you cannot deliver your message right now, look at Yusuf: he was in the same position, and more than you. Yet the outcome in his own time was that he became one of the elite, at the very top, the person giving the rules to the whole community.
+And if you feel you cannot deliver your message right now, look at Yusuf: he was in the same position, and worse. Yet the outcome in his own time was that he became one of the elite, at the very top, the person giving the rules to the whole community.
 
 The only thing you need to learn from the position of Yusuf, and from your own situation right now, is to be patient and to believe in the Giver of everything in this life, Allah, glory be to Him, the Most High. Otherwise you are not qualified to carry the message of Allah.
 
@@ -39,4 +39,4 @@ When we look at the parents, we find a different position between the two father
 
 This is my advice to myself, to my wife, and to all of our sisters: you are the core of the family. As long as you give full attention to the family, they will stay on track, and you will never miss them, anytime, anywhere; they will stay with you.
 
-But as much as we turn our attention elsewhere, working hard and collecting money from here and there, the mother's part is more important than mine. Allah, glory be to Him, created me to be out of the door as much as I can and in the door as much as I can. But He made her to be in the door as much as she can and out of the door only as needed, because the greatest responsibility of the mother is inside. I am not saying she is not allowed to go out, but I am talking about priorities.
+But as much as we turn our attention elsewhere, working hard and collecting money from here and there, the mother's part is more important than mine. Allah, glory be to Him, created me to be outside the door as much as I can and inside the door as much as I can. But He made her to be inside the door as much as she can and outside it only as needed, because the greatest responsibility of the mother is inside. I am not saying she is not allowed to go out, but I am talking about priorities.

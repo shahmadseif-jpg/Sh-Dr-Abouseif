@@ -31,7 +31,7 @@ And from al-Furqān: ﴿وَعِبَادُ الرَّحْمَٰنِ الَّذِ
 
 Then he mentioned His saying, the Exalted: ﴿وَالَّذِينَ يَقُولُونَ رَبَّنَا هَبْ لَنَا مِنْ أَزْوَاجِنَا وَذُرِّيَّاتِنَا قُرَّةَ أَعْيُنٍ وَاجْعَلْنَا لِلْمُتَّقِينَ إِمَامًا﴾ (“And those who say, ‘Our Lord, grant us from among our spouses and offspring comfort to our eyes and make us an example for the righteous.’”), then His saying: ﴿أُولَٰئِكَ يُجْزَوْنَ الْغُرْفَةَ بِمَا صَبَرُوا﴾ (“Those will be awarded the chamber for what they patiently endured.”)
 
-And he asked: What did they endure patiently? And he said: When reward is ordered upon an act at the close of the descriptions, that indicates that this act is the intended one in itself, and the indication of its importance is certain. So what is the last act they did? ﴿الَّذِينَ يَقُولُونَ رَبَّنَا هَبْ لَنَا مِنْ أَزْوَاجِنَا وَذُرِّيَّاتِنَا قُرَّةَ أَعْيُنٍ﴾.
+And he asked: What did they endure patiently? And he said: When reward is made consequent upon an act at the close of the descriptions, that indicates that this act is the intended one in itself, and the indication of its importance is certain. So what is the last act they did? ﴿الَّذِينَ يَقُولُونَ رَبَّنَا هَبْ لَنَا مِنْ أَزْوَاجِنَا وَذُرِّيَّاتِنَا قُرَّةَ أَعْيُنٍ﴾.
 
 So that is the goal for which all these preceding descriptions were mentioned, as though they were an introduction to producing that model fit to lead his children, so that they in turn lead the whole world, so that generations then come forth, succeeding one another upon the same mindset that takes charge of leading the whole world with faith, character, patience, and so on.
 

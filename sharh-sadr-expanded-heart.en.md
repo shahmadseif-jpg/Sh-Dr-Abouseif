@@ -33,7 +33,7 @@ So the Prophet ﷺ was facing all of these challenges, and God asked him this qu
 
 ### When nothing is hard, rethink
 
-And if the difficulties come to me at zero, that is not a good sign. If everything comes to me in harmony, soft and smooth, that is not a good sign, actually. I need to rethink my position with God. The Prophet ﷺ taught that you are tested according to the level of your faith.[^3] What is the goal? To see whether your faith is strong enough. And we would think: once it is shown that his faith is strong enough, the tests will stop. That is our normal thinking. But what did the Prophet ﷺ say? If his faith is strong, he will have more tests.
+And if no difficulties come to me at all, that is not a good sign. If everything comes to me in harmony, soft and smooth, that is not a good sign, actually. I need to rethink my position with God. The Prophet ﷺ taught that you are tested according to the level of your faith.[^3] What is the goal? To see whether your faith is strong enough. And we would think: once it is shown that his faith is strong enough, the tests will stop. That is our normal thinking. But what did the Prophet ﷺ say? If his faith is strong, he will have more tests.
 
 ### Musa's first request
 

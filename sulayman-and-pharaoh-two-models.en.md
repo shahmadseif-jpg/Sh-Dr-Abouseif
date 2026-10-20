@@ -13,7 +13,7 @@ O Allah, we seek refuge in You from the evil of this day, the evil of what is in
 
 ### When the Qur'an Takes You to Other Places
 
-In the Fajr prayer we were recited the end of Sūrat al-Naml and the beginning of Sūrat al-Qaṣaṣ[^1]. And no sooner does a person begin to reflect on the meanings of some verses than the Qur'an takes him to other places and other citations, and he tries to connect them, but the Qur'an leaves people incapable, Glory be to Allah, the All-Powerful. In Sūrat al-Naml there is a group of stories, and in Sūrat al-Qaṣaṣ there is also a group of stories.
+In the Fajr prayer, the end of Sūrat al-Naml and the beginning of Sūrat al-Qaṣaṣ were recited to us[^1]. And no sooner does a person begin to reflect on the meanings of some verses than the Qur'an takes him to other places and other citations, and he tries to connect them, but the Qur'an leaves people incapable, Glory be to Allah, the All-Powerful. In Sūrat al-Naml there is a group of stories, and in Sūrat al-Qaṣaṣ there is also a group of stories.
 
 ### The Kingdom of Solomon: A Civilization Built on Law
 
@@ -21,7 +21,7 @@ But Sūrat al-Naml dealt with a great story, which narrated to us the events of 
 
 So imagine the scene of this kingdom. It was built on law, on justice, on equality between individuals in giving before taking, on holding to account whoever fell short in his work, and on assigning the task to the one who began it. And it was built on the idea that the power possessed is a power that rules with justice over people all together, not only internally; so no one was wronged, harmed or transgressed against, but rather principles were established with it that apply to political dealings between great states, and it came with honor, respect and esteem. So much so that its affair ended with her submitting, together with Solomon, to Allah, the Lord of the worlds.
 
-And pay attention to the phrase: ﴿…وَأَسْلَمْتُ مَعَ سُلَيْمَانَ لِلَّهِ رَبِّ الْعَالَمِينَ﴾ ("…and I submit, with Solomon, to Allah, Lord of the worlds") [al-Naml: 44]. Why "with Solomon"? Because Solomon, peace be upon him, is the civilized, mature, pure and God-fearing model, whom she herself tried to win over with a gift: ﴿وَإِنِّي مُرْسِلَةٌ إِلَيْهِم بِهَدِيَّةٍ فَنَاظِرَةٌ…﴾ ("And indeed, I will send to them a gift and see…") [al-Naml: 35], meaning she was testing him and feeling out his pulse. And that was the bearing of Solomon, peace be upon him, and his civilization: his superiority over all around him through mercy, kindness, justice, logic, wisdom and calm, and through genuine civilized interaction.
+And pay attention to the phrase: ﴿…وَأَسْلَمْتُ مَعَ سُلَيْمَانَ لِلَّهِ رَبِّ الْعَالَمِينَ﴾ ("…and I submit, with Solomon, to Allah, Lord of the worlds") [al-Naml: 44]. Why "with Solomon"? Because Solomon, peace be upon him, is the civilized, mature, pure and God-fearing model, whom she herself tried to win over with a gift: ﴿وَإِنِّي مُرْسِلَةٌ إِلَيْهِم بِهَدِيَّةٍ فَنَاظِرَةٌ…﴾ ("And indeed, I will send to them a gift and see…") [al-Naml: 35], meaning she was testing him and feeling his pulse. And that was the bearing of Solomon, peace be upon him, and his civilization: his superiority over all around him through mercy, kindness, justice, logic, wisdom and calm, and through genuine civilized interaction.
 
 ### The Other Face: Pharaoh and His Arrogance
 
