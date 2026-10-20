@@ -1,6 +1,5 @@
 ---
 title: "Trials Are a Sign of Connection, Not of Severance"
-subtitle: "Trials Are a Sign of Connection, Not of Severance"
 date: "2026-08-25"
 locale: "en"
 slug: "fajr-trials-hasbuna-allah"

@@ -1,6 +1,5 @@
 ---
 title: "التحديات علامة اتصال لا علامة انقطاع"
-subtitle: "التحديات علامة اتصال لا علامة انقطاع"
 date: "2026-08-25"
 locale: "ar"
 slug: "fajr-trials-hasbuna-allah"

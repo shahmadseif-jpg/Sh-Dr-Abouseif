@@ -1,6 +1,5 @@
 ---
 title: "سورة الجاثية: اغفر لمن آذاك"
-subtitle: "سورة الجاثية: اغفر لمن آذاك"
 date: "2026-01-05"
 locale: "ar"
 slug: "jathiya-forgive-those-who-harm"

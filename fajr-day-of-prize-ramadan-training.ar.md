@@ -1,6 +1,5 @@
 ---
 title: "يوم الجائزة ورمضان تدريبًا للعام كله"
-subtitle: "يوم الجائزة، ورمضان تدريبًا للعام كله"
 date: "2026-03-20"
 locale: "ar"
 slug: "fajr-day-of-prize-ramadan-training"

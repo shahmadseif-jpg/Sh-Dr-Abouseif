@@ -1,6 +1,5 @@
 ---
 title: "أصحاب الغار: ماذا ادّخرنا للحظة الشدة؟"
-subtitle: "أصحاب الغار: ماذا ادّخرنا للحظة الشدة؟"
 date: "2026-10-14"
 locale: "ar"
 slug: "cave-three-men-sincere-deeds"

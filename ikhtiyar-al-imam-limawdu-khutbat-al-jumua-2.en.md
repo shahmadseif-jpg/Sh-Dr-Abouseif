@@ -1,5 +1,5 @@
 ---
-title: "Khatira [ The Imam's Choice of a Friday Khutbah Topic, Part 2 ] | Dr. Ahmed Abouseif | 11 September 2020"
+title: "Khatira [ The Imam's Choice of a Friday Khutbah Topic, Part 2 ]"
 subtitle: "The Imam's Choice of a Friday Khutbah Topic (2): Between Exhortation, Rational Discourse and Informative Discourse, and an Open Question for Our Followers"
 date: "2020-09-11"
 locale: "en"

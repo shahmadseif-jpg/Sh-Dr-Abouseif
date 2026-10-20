@@ -11,11 +11,11 @@ readingMinutes: 15
 
 *By Dr. Ahmed Mohamed Ali Abouseif, President of the American Imams Academy.*
 
-### An Opening: ﴾Remind Them of the Days of Allah﴿
+### An Opening: ﴿Remind Them of the Days of Allah﴾
 
 There is a decisive Qur'anic phrase, in which God commanded Mūsā (peace be upon him) to remind his people of what had passed with Pharaoh — of his tyranny, of his violence, of the stages of their oppression beneath his hand. It is said upon the tongue of the Kalīm:
 
-> ﴾And remind them of the Days of Allah﴿ [Ibrāhīm: 5]
+> ﴿And remind them of the Days of Allah﴾ [Ibrāhīm: 5]
 
 What are "the Days of Allah"? They are not the calendrical days that orbit with the celestial bodies; they are **the days in which the hand of God is unveiled** upon humanity — days of trial, days of victory, days of sifting, days of manifestation. They are the days that differ from all other days, because in them God reveals great *sunan* (recurring laws) that habit veils from us in the ordinary days.
 
@@ -29,27 +29,27 @@ So what have we learned? What lessons have we drawn? Or are minds still heedless
 
 The first law to emerge in these "Days" is a settled cosmic principle:
 
-> ﴾And God is predominant over His affair, but most of the people do not know﴿ [Yūsuf: 21]
+> ﴿And God is predominant over His affair, but most of the people do not know﴾ [Yūsuf: 21]
 
 Nothing happens in God's dominion except what He wills. Whoever believes that human industry is capable in itself has doubted the power of God. Whoever believes that God is unable to protect people from harm or evil has doubted His mercy. And from His mercy upon us is that He shows us this small glimpse of His power, when corruption appeared on land and sea by what the hands of people had earned.
 
-Notice how the virus affected some people and not others. How it entered some bodies and altered them for a time, while passing through others as though it were a breath of air, never felt. How it acted in still other bodies in such a way that they left life altogether. He is **Doer of what He wills**, predominant over His affair; nothing in the heavens or earth can render Him incapable. ﴾Indeed, He encompasses what they do﴿; ﴾and behind them is One who encompasses them﴿.
+Notice how the virus affected some people and not others. How it entered some bodies and altered them for a time, while passing through others as though it were a breath of air, never felt. How it acted in still other bodies in such a way that they left life altogether. He is **Doer of what He wills**, predominant over His affair; nothing in the heavens or earth can render Him incapable. ﴿Indeed, He encompasses what they do﴾; ﴿and behind them is One who encompasses them﴾.
 
 This is the first lesson: that we recalibrate the scale by which we see ourselves and the cosmos — that we are not deceived by what knowledge and technology have been given to us, nor despair of God's power when the earth closes in upon us.
 
 ---
 
-### The Second Lesson: ﴾And None Knows the Armies of Your Lord but He﴿
+### The Second Lesson: ﴿And None Knows the Armies of Your Lord but He﴾
 
 Among the grandest revelations of this trial is that God has armies which humans do not see:
 
-> ﴾And none knows the armies of your Lord but He﴿ [Al-Muddaththir: 31]
+> ﴿And none knows the armies of your Lord but He﴾ [Al-Muddaththir: 31]
 
 Note this: the verse was revealed in Sūrat al-Muddaththir, at **the most difficult moment in which the Prophet ﷺ needed support** — when Quraysh was at the height of its dignity, power, and dominion, its voice reverberating throughout the lands around it. And yet, the Lord of the worlds revealed this reminder to His Prophet: do not fear, for God has armies that Quraysh and others know nothing of.
 
-The Qur'an then unfolds the landmarks of the cosmos: ﴾Nay, by the moon, and by the night when it departs, and by the morning when it brightens — indeed, it is one of the greatest [warnings], a warning to humanity﴿. Why this display of the moons, the heavens, the orbits? Because the One who established the sun in its abode, the moon in its place, and the stars in their stations — is capable of establishing His call in the manner He wills.
+The Qur'an then unfolds the landmarks of the cosmos: ﴿Nay, by the moon, and by the night when it departs, and by the morning when it brightens — indeed, it is one of the greatest [warnings], a warning to humanity﴾. Why this display of the moons, the heavens, the orbits? Because the One who established the sun in its abode, the moon in its place, and the stars in their stations — is capable of establishing His call in the manner He wills.
 
-In the time of COVID, a tiny soldier — invisible to the naked eye — was unleashed upon humanity, and it stopped cities, economies, and airports. **Who knew that in God's dominion there was a soldier of this magnitude and impact?** And perhaps in the very air we breathe now, in the very breath we inhale, there are other soldiers we may discover tomorrow — or may never discover. ﴾And to God belong the armies of the heavens and the earth﴿.
+In the time of COVID, a tiny soldier — invisible to the naked eye — was unleashed upon humanity, and it stopped cities, economies, and airports. **Who knew that in God's dominion there was a soldier of this magnitude and impact?** And perhaps in the very air we breathe now, in the very breath we inhale, there are other soldiers we may discover tomorrow — or may never discover. ﴿And to God belong the armies of the heavens and the earth﴾.
 
 This lesson protects the believer from arrogance and opens before him the door of utter neediness before God — neither feeling safe from His decree, nor despairing of His mercy.
 
@@ -69,7 +69,7 @@ Among the subtlest revelations of this trial is that it stripped us bare before 
 
 **(5) Vigilance, then Hope:** After the emergence of treatments and vaccines, hope returned to the hearts, in expectation that God might bring a victory or an affair from Himself.
 
-These stages are not unique to COVID; they are **the pattern of the human soul in every great trial**. Whoever contemplates them comes to know himself before the next crisis takes him by surprise — sparing himself a road heavy with turmoil. Glory be to the One who brings the disease and brings its cure, who tries with sickness and tries with health. ﴾Glory be to the All-Wise Creator﴿.
+These stages are not unique to COVID; they are **the pattern of the human soul in every great trial**. Whoever contemplates them comes to know himself before the next crisis takes him by surprise — sparing himself a road heavy with turmoil. Glory be to the One who brings the disease and brings its cure, who tries with sickness and tries with health. ﴿Glory be to the All-Wise Creator﴾.
 
 ---
 
@@ -115,7 +115,7 @@ Among the most astonishing revelations of the lockdown was that **the police had
 
 A simple but piercing question: Why do we not learn to feel this security in **our souls, hearts, minds, and spirits**, without God confining us to our homes?
 
-Security is not an external system imposed by a lockdown; it is **an inner serenity** granted by God to whoever trusts and obeys Him. The Prophet ﷺ taught us that the believer is accompanied by security in his heart before it takes hold of his streets. ﴾Indeed, in that is a reminder for whoever has a heart, or listens while present in mind﴿.
+Security is not an external system imposed by a lockdown; it is **an inner serenity** granted by God to whoever trusts and obeys Him. The Prophet ﷺ taught us that the believer is accompanied by security in his heart before it takes hold of his streets. ﴿Indeed, in that is a reminder for whoever has a heart, or listens while present in mind﴾.
 
 ---
 

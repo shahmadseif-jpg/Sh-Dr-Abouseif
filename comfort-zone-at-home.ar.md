@@ -1,6 +1,5 @@
 ---
 title: "هل بيتنا منطقة راحة لأبنائنا؟"
-subtitle: "هل بيتنا منطقة راحة لأبنائنا؟"
 date: "2026-08-03"
 locale: "ar"
 slug: "comfort-zone-at-home"

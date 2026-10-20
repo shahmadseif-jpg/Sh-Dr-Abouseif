@@ -1,6 +1,5 @@
 ---
 title: "أبو بكر وسباق الهمم إلى الجنة"
-subtitle: "أبو بكر وسباق الهمم إلى الجنة"
 date: "2026-04-25"
 locale: "ar"
 slug: "abu-bakr-race-to-goodness"

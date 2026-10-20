@@ -1,6 +1,5 @@
 ---
 title: "أين نموت ومن يشهد لنا أو علينا"
-subtitle: "أين نموت، ومن يشهد لنا أو علينا"
 date: "2024-10-02"
 locale: "ar"
 slug: "isha-khatira-witnesses-place-and-spouse"

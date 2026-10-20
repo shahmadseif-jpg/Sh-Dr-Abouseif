@@ -1,6 +1,5 @@
 ---
 title: "النفس المطمئنة ورحلة عودتها إلى ربها"
-subtitle: "النفس المطمئنة ورحلة عودتها إلى ربها"
 date: "2026-08-24"
 locale: "ar"
 slug: "fajr-surah-soul-at-peace"

@@ -1,5 +1,5 @@
 ---
-title: "Khatira [ Allah Will Not Impose Blame upon You for What Is Unintentional in Your Oaths ] | Dr. Ahmed Abouseif | October 29, 2020"
+title: "Khatira [ Allah Will Not Impose Blame upon You for What Is Unintentional in Your Oaths ]"
 subtitle: "The Gravity of the Word That Leaves the Tongue: Reflections on the Verse of the Expiation of Oaths"
 date: "2020-10-29"
 locale: "en"

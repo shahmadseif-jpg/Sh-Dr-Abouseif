@@ -33,7 +33,7 @@ The eye sees the stones and the covering; the heart perceives the majesty and th
 
 Consider a subtlety in the wisdom of the Sacred Law: God did not make the Kaaba an end in itself; He made it a **qiblah**:
 
-> ﴾And wherever you may be, turn your faces toward it﴿ [Al-Baqarah: 150]
+> ﴿And wherever you may be, turn your faces toward it﴾ [Al-Baqarah: 150]
 
 The qiblah is turned toward by all; it gathers Muslims across the whole earth, the near and the far alike. As for the Kaaba — a spot the eye beholds — only a few reach it, and it remains in sight but a few days, then is gone. Yet **its secret and its meaning unveil only to a present, reverent heart**, whether he circled it or turned toward it from the far ends of the earth.
 
@@ -50,11 +50,11 @@ What is required, then, is not that you be at the Kaaba always, but that the qib
 
 This paradox is not particular to the Hajj; it runs through every act of worship. There is a difference between attending **to** the prayer and being present **in** the prayer. Were not the hypocrites of Madinah praying toward the very same qiblah the Companions prayed toward, standing in the very same row? And yet God said of them:
 
-> ﴾And when they stand for prayer, they stand lazily, showing off to people﴿ [Al-Nisāʾ: 142]
+> ﴿And when they stand for prayer, they stand lazily, showing off to people﴾ [Al-Nisāʾ: 142]
 
 The problem was not in their attending to the prayer, but in their presence within it. Hence the warning came with a precise particle:
 
-> ﴾So woe to those who pray — those who are heedless *of* their prayer﴿ [Al-Māʿūn: 4–5]
+> ﴿So woe to those who pray — those who are heedless *of* their prayer﴾ [Al-Māʿūn: 4–5]
 
 He did not say: woe to those who abandon prayer; He began with those whose bodies were present and whose hearts were absent. And He said "*of* their prayer," not "*in* their prayer" — for they perform the motions while absent from its spirit.
 
@@ -68,7 +68,7 @@ From here a hidden affliction comes to light: **theoretical religiosity**, which
 
 Here he kisses the stone in obedience and following, not in the belief that the stone holds any intrinsic benefit. The Qur'an settles this meaning in its plainest form when speaking of the offerings driven to the Sacred House:
 
-> ﴾Their flesh will not reach God, nor their blood, but what reaches Him is the piety from you﴿ [Al-Ḥajj: 37]
+> ﴿Their flesh will not reach God, nor their blood, but what reaches Him is the piety from you﴾ [Al-Ḥajj: 37]
 
 It is not the flesh nor the blood that ascends to God, nor mere bodily presence, but the **piety** in the heart — as in the hadith: "Indeed God does not look at your forms or your wealth, but He looks at your hearts and your deeds." [Muslim]
 
@@ -86,7 +86,7 @@ The secret is that the blessing of the place does not do its work in every heart
 
 By what does a servant become one in whose heart the House dwells, not merely his feet? The answer lies in a verse that places the entire criterion in three words:
 
-> ﴾And whoever honors the symbols of God — indeed, it is from the piety of the hearts﴿ [Al-Ḥajj: 32]
+> ﴿And whoever honors the symbols of God — indeed, it is from the piety of the hearts﴾ [Al-Ḥajj: 32]
 
 The rite is not measured by the outward motion, but by what lies behind it of the **piety of the hearts**. Whoever magnifies God's symbols in his heart before his limbs carries the qiblah with him wherever he settles; he brings it to mind in his prayer at the ends of the earth, and turns toward it with a heart that beats, not merely a face that revolves. And this is not by the merit of the place over him, but by the grace of God, who grants His mercy to one who has prepared his heart for it, and so chooses him for meanings He veils from the heedless.
 

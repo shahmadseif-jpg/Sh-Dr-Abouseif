@@ -1,6 +1,5 @@
 ---
 title: "دع ما يريبك إلى ما لا يريبك: الشرع يريد أن يريح نفسك"
-subtitle: "دع ما يريبك إلى ما لا يريبك: الشرع يريد أن يريح نفسك"
 date: "2026-07-13"
 locale: "ar"
 slug: "da-ma-yaribuka-psychological-peace"

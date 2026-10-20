@@ -1,6 +1,5 @@
 ---
 title: "الفجور: تجاوز كل الحدود دون خشية العواقب"
-subtitle: "الفجور: تجاوز كل الحدود دون خشية العواقب"
 date: "2025-09-21"
 locale: "ar"
 slug: "fajr-fujur-tajawuz-al-hudud"

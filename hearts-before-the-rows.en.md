@@ -91,13 +91,13 @@ Straightening the row in the mosque is a miniature training for straightening th
 
 Perhaps the Qur'an settles the priority when it tells of the Day on which nothing avails but the soundness of the inward:
 
-> ﴾The Day when neither wealth nor children will avail — except him who comes to God with a sound heart﴿ [Al-Shuʿarāʾ: 88–89]
+> ﴿The Day when neither wealth nor children will avail — except him who comes to God with a sound heart﴾ [Al-Shuʿarāʾ: 88–89]
 
 He did not say: except him who comes to God with a straight row, nor with an aligned body, but **with a sound heart** — sound from rancor, envy, arrogance, and estrangement. Straightening the row is a deed the servant is rewarded for, but it is a means to what is more lasting: a heart that meets God pure. And the uniting of hearts thereafter is a grace from God that we are utterly in need of and strive toward its causes:
 
-> ﴾And He brought their hearts together. Had you spent all that is on the earth, you could not have brought their hearts together; but God brought them together﴿ [Al-Anfāl: 63]
+> ﴿And He brought their hearts together. Had you spent all that is on the earth, you could not have brought their hearts together; but God brought them together﴾ [Al-Anfāl: 63]
 
-Wealth gathers bodies in a place; but as for hearts, none unites them but God — when we are sincere in asking Him for it, and remove with our own hands what we are able to of the causes of division, in compliance with the unifying command: ﴾And hold firmly to the rope of God, all together, and do not become divided﴿ [Āl ʿImrān: 103].
+Wealth gathers bodies in a place; but as for hearts, none unites them but God — when we are sincere in asking Him for it, and remove with our own hands what we are able to of the causes of division, in compliance with the unifying command: ﴿And hold firmly to the rope of God, all together, and do not become divided﴾ [Āl ʿImrān: 103].
 
 ---
 

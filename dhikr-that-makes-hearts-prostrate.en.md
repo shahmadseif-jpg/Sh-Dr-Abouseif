@@ -1,6 +1,5 @@
 ---
 title: "What Kind of Dhikr Do We Want to Practice in Our Lives?"
-subtitle: "What kind of dhikr do we want to practice in our lives?"
 date: "2026-09-11"
 locale: "en"
 slug: "dhikr-that-makes-hearts-prostrate"

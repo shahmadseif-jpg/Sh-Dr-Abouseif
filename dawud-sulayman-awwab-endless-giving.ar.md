@@ -1,6 +1,5 @@
 ---
 title: "داود وسليمان: الأوّاب الذي لا يقف عطاؤه"
-subtitle: "داود وسليمان: الأوّاب الذي لا يقف عطاؤه"
 date: "2026-07-21"
 locale: "ar"
 slug: "dawud-sulayman-awwab-endless-giving"

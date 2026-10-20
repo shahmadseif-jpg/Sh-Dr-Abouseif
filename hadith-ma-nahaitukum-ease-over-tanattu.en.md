@@ -1,6 +1,5 @@
 ---
 title: "Jāmiʿ al-ʿUlūm wa'l-Ḥikam 9: ‹What I Have Forbidden You, Avoid It› and Abandoning Excessive Rigor"
-subtitle: "Jāmiʿ al-ʿUlūm wa-l-Ḥikam (9): «What I Have Forbidden You, Avoid It» and Abandoning Excessive Rigor"
 date: "2026-06-14"
 locale: "en"
 slug: "hadith-ma-nahaitukum-ease-over-tanattu"

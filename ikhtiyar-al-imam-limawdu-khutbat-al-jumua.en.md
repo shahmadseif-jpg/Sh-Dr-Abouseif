@@ -1,5 +1,5 @@
 ---
-title: "Khatira [ The Imam's Choice of a Friday Khutbah Topic ] | Dr. Ahmed Abouseif | 4 September 2020"
+title: "Khatira [ The Imam's Choice of a Friday Khutbah Topic ]"
 subtitle: "The Imam's Choice of a Friday Khutbah Topic: The Difficulty of the Listeners, the Dangers of Generalizing the Discourse, and the Merit of Advisers"
 date: "2020-09-04"
 locale: "en"

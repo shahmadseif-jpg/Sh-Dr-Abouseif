@@ -1,6 +1,5 @@
 ---
 title: "The Lawful Is Clear and the Unlawful Is Clear: The Scale of the Mind and the Scale of the Heart in Doubtful Matters"
-subtitle: "The Lawful Is Clear and the Unlawful Is Clear: the scale of the mind and the scale of the heart in doubtful matters"
 date: "2026-05-03"
 locale: "en"
 slug: "fajr-halal-bayyin-wal-haram-bayyin"

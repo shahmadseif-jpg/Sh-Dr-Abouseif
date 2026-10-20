@@ -1,6 +1,5 @@
 ---
 title: "أي ذكر نريد أن نمارسه في حياتنا؟"
-subtitle: "أي ذكرٍ نريد أن نمارسه في حياتنا؟"
 date: "2026-09-11"
 locale: "ar"
 slug: "dhikr-that-makes-hearts-prostrate"
