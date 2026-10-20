@@ -360,6 +360,43 @@ function renderMarkdown(md: string, locale: string): ReactNode {
       continue;
     }
 
+    // Markdown table (| a | b | with a |---| separator row)
+    {
+      const tl = para.split('\n').map((l) => l.trim());
+      if (tl.length >= 2 && tl[0].startsWith('|') && /^\|[\s:|-]*-{3,}[\s:|-]*\|?$/.test(tl[1])) {
+        const cells = (l: string) => l.replace(/^\|/, '').replace(/\|$/, '').split('|').map((c) => c.trim());
+        const head = cells(tl[0]);
+        const rows = tl.slice(2).filter((l) => l.startsWith('|')).map(cells);
+        blocks.push(
+          <div key={`tbl-${i}`} className="my-6 overflow-x-auto">
+            <table className="w-full border-collapse text-base text-navy-700">
+              <thead>
+                <tr>
+                  {head.map((c, ci) => (
+                    <th key={ci} className="border border-navy-100 bg-gold-50 px-3 py-2 text-start font-semibold">
+                      {processInline(c, locale)}
+                    </th>
+                  ))}
+                </tr>
+              </thead>
+              <tbody>
+                {rows.map((r, ri) => (
+                  <tr key={ri}>
+                    {r.map((c, ci) => (
+                      <td key={ci} className="border border-navy-100 px-3 py-2 align-top">
+                        {processInline(c, locale)}
+                      </td>
+                    ))}
+                  </tr>
+                ))}
+              </tbody>
+            </table>
+          </div>
+        );
+        continue;
+      }
+    }
+
     // Blockquote — preserve line breaks within the quote (one <br> per
     // markdown line) so poetry and multi-line citations render correctly.
     if (para.startsWith('> ')) {
