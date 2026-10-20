@@ -1,5 +1,5 @@
 ---
-title: "Secrets of the Prophetic Supplication"
+title: "The Prophet's ﷺ Supplications in Travel and in Distress"
 subtitle: "A Fajr khatira"
 date: "2025-05-25"
 locale: "en"
@@ -50,7 +50,7 @@ And reflect on the words "O Ever-Living"; just imagine the words "O Ever-Living,
 And he concluded by saying: May Allah keep your religion and your worldly life sound, preserve your well-being and your safety, and may Allah, the Exalted, reward you with good.
 
 ---
-[^1]: Editor's documentation: The wording was transmitted as it appeared in the transcription; the well-known narrated wording is «الحمد لله الذي بنعمته تتمّ الصالحات», which is in Ibn Mājah from the ḥadīth of ʿĀʾishah, may Allah be pleased with her, regarding what he used to say when he saw what pleased him; I did not find it restricted to returning from travel. The speaker did not attribute the ḥadīth.
+[^1]: Editor's documentation: The wording was transmitted as the speaker gave it; the well-known narrated wording is «الحمد لله الذي بنعمته تتمّ الصالحات», which is in Ibn Mājah from the ḥadīth of ʿĀʾishah, may Allah be pleased with her, regarding what he used to say when he saw what pleased him; I did not find it restricted to returning from travel. The speaker did not attribute the ḥadīth.
 [^2]: Editor's documentation: The speaker did not attribute the report, and I was not certain of its authenticity nor of the correctness of ascribing what precedes it, the instruction to his family to say it upon return, so it was introduced in a hedged form.
 [^3]: Editor's documentation: The speaker related it with the words "in one narration" without attribution, and I was not certain of its source, and there is criticism of its chain of transmission among the people of knowledge, so it was introduced in the form of a narration.
 [^4]: Editor's documentation: The speaker did not attribute the ḥadīth. In the books of Sunnah on distress there is a close wording, «الله الله ربي لا أشرك به شيئًا»; so the speaker's wording is transmitted here as it appeared.

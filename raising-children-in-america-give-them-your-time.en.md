@@ -49,11 +49,11 @@ Not immediately, by the way. We keep a note, and after everything has settled, o
 
 ### Where I took this from
 
-Where did I get all this? From the Prophet Muhammad ﷺ, who used to set aside separate time for children. Even the children on the street: he would speak with a young boy who was playing with a bird, as the narrations tell us.[^1]
+Where did I get all this? From the Prophet Muhammad ﷺ, who used to set aside separate time for children. Even the children on the street: he would speak with a young boy who was playing with a bird, as the narrations tell us.
 
-And Allah, subhanahu wa ta'ala, taught us in the Quran how Ibrahim, peace be upon him, spoke with his son, and what level of connection lay between them, until the father put to his son the matter of his slaughter, and the son said, "Yes, father."[^2] He would never have said "yes, father" without a long time of discussion. He trusted his father, and he could never have trusted him without talking to him. When you give your child advice, he is supposed to listen. If he does not trust you, even if the words reach his ears, they will never reach his heart. He will reject them, or receive them from one side and let them out the other. This is the direction, this is the transaction, this is a different way of dealing with each other.
+And Allah, subhanahu wa ta'ala, taught us in the Quran how Ibrahim, peace be upon him, spoke with his son, and what level of connection lay between them, until the father put to his son the matter of his slaughter, and the son said, "Yes, father."[^1] He would never have said "yes, father" without a long time of discussion. He trusted his father, and he could never have trusted him without talking to him. When you give your child advice, he is supposed to listen. If he does not trust you, even if the words reach his ears, they will never reach his heart. He will reject them, or receive them from one side and let them out the other. This is the direction, this is the transaction, this is a different way of dealing with each other.
 
-Allah also tells us the story of a father counselling his son.[^3] There is a word for it that I do not know how to translate, but it means something like a lecture. A lecture, but a different kind: one that speaks to the hearts instead of the minds. A lecture in the educational sense starts at this point and ends at that point, with steps: today we are going to talk about so-and-so, the highlights will be one, two, three, four, five, let us cover the first, second, third, and then the conclusion. The counsel of a father is not like that.
+Allah also tells us the story of a father counselling his son. There is a word for it that I do not know how to translate, but it means something like a lecture. A lecture, but a different kind: one that speaks to the hearts instead of the minds. A lecture in the educational sense starts at this point and ends at that point, with steps: today we are going to talk about so-and-so, the highlights will be one, two, three, four, five, let us cover the first, second, third, and then the conclusion. The counsel of a father is not like that.
 
 ### Conclusion
 
@@ -62,6 +62,4 @@ The conclusion of my speech for you and me today: give a time for your children.
 I don't want to take long, but please give time to your children. Don't say "I have an excuse." If you lose them, you lose everything. They are more important than your work. Please do something, and do not let them drift away from you.
 
 ---
-[^1]: Editor's documentation: the transcript is garbled here ("a young man... play with the bird... Abu... asked him about the ..."). It may refer to the narration of the Prophet ﷺ speaking with a young boy about his bird; the article keeps only what is clear, and no source is asserted.
-[^2]: Editor's documentation: the speaker's words are unclear ("Iam"); the context (a son asked to be slaughtered, "yes, dad") points to Ibrahim and Isma'il, peace be upon them. The reference is to Surat As-Saffat (37:102). The speaker's wording ("the dad asking his son to slaughter him") was reversed in speech; the article states it neutrally.
-[^3]: Editor's documentation: the name is missing in the transcript, and the Arabic word the speaker could not translate is likewise lost. It likely refers to Luqman's counsel to his son and the word "maw'iza"; this is not certain.
+[^1]: Editor's documentation: The reference is to Ibrahim and Isma'il, peace be upon them, in Surat As-Saffat (37:102).

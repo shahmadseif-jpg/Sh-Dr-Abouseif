@@ -1,5 +1,5 @@
 ---
-title: "From the Secrets of the Prophetic Supplication"
+title: "The Supplication for Need and the Supplication of Istikhāra"
 subtitle: "Fajr Khatira — The Supplication for Need and the Supplication of Istikhāra"
 date: "2025-06-18"
 locale: "en"

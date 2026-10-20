@@ -26,6 +26,6 @@ And from Sūrat al-Muzzammil: ﴿يَا أَيُّهَا الْمُزَّمِّ�
 God willing, blessed and exalted, I ask Allah, the Most High, the Almighty, to guide us and you.
 
 ---
-[^1]: Editor's documentation: al-Tawba: 67. The wording in the transcript was «فنسيه»; the correct wording in the verse is «فنسيهم».
-[^2]: Editor's documentation: al-Muzzammil: 1–4 and 20. The completion of «من فضل» in the verse is ﴿مِن فَضْلِ اللَّهِ﴾, which did not appear in the transcript.
-[^3]: Editor's documentation: al-Muzzammil: 20. His saying ﴿وَاسْتَغْفِرُوا اللَّهَ﴾ appeared in the transcript merely as a bare "seeking forgiveness" (istighfār) and was not recorded as text.
+[^1]: Editor's documentation: al-Tawba: 67. The correct wording in the verse is «فنسيهم».
+[^2]: Editor's documentation: al-Muzzammil: 1–4 and 20. The completion of «من فضل» in the verse is ﴿مِن فَضْلِ اللَّهِ﴾.
+[^3]: Editor's documentation: al-Muzzammil: 20. His mention of "seeking forgiveness" (istighfār) in the body refers to ﴿وَاسْتَغْفِرُوا اللَّهَ﴾.

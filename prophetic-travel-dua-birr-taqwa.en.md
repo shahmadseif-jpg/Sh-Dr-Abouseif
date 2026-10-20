@@ -1,5 +1,5 @@
 ---
-title: "Secrets of the Prophetic Supplication"
+title: "The Travel Supplication: Righteousness and Taqwā"
 subtitle: "Secrets of the Prophetic Supplication: The Travel Supplication"
 date: "2025-05-22"
 locale: "en"

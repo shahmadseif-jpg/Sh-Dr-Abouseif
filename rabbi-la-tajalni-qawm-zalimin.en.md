@@ -28,5 +28,5 @@ So between a person's wronging of himself, the wretchedness that overpowers him,
 O Allah, take us by our forelocks to what pleases You, guide us to You, guide us to Your straight path, do not entrust us to ourselves, and do not try us with what ends badly in this world.
 
 ---
-[^1]: Editor's documentation: The verse is in Sūrat al-Muʾminūn: ﴿قُل رَّبِّ إِمَّا تُرِيَنِّي مَا يُوعَدُونَ ۝ رَبِّ فَلَا تَجْعَلْنِي فِي الْقَوْمِ الظَّالِمِينَ﴾ [al-Muʾminūn: 93–94]. The sūrah is not named in the transcript.
+[^1]: Editor's documentation: The verse is in Sūrat al-Muʾminūn: ﴿قُل رَّبِّ إِمَّا تُرِيَنِّي مَا يُوعَدُونَ ۝ رَبِّ فَلَا تَجْعَلْنِي فِي الْقَوْمِ الظَّالِمِينَ﴾ [al-Muʾminūn: 93–94].
 [^2]: Editor's documentation: The verse is from the words of the people of the Fire in Sūrat al-Muʾminūn: ﴿قَالُوا رَبَّنَا غَلَبَتْ عَلَيْنَا شِقْوَتُنَا وَكُنَّا قَوْمًا ضَالِّينَ﴾ [al-Muʾminūn: 106]; the speaker confined himself to saying: “Our Lord, our wretchedness overcame us.”

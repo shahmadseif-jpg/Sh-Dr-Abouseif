@@ -1,5 +1,5 @@
 ---
-title: "From the Secrets of the Prophetic Supplication"
+title: "Not Every Supplicant Is Answered, and Not Everyone Who Complains Is Afflicted"
 subtitle: "Fajr Khatira: Not Every Supplicant Is Answered, and Not Everyone Who Complains Is Afflicted"
 date: "2025-06-09"
 locale: "en"
@@ -61,5 +61,5 @@ I ask Allah, the Most High, the Almighty, to establish faith firmly in our heart
 
 ---
 [^1]: Editor's documentation: The ḥadīth in this wording was recorded by Aḥmad and Ibn Mājah from the ḥadīth of Jābir (may Allah be pleased with him), and scholars have discussion about its authenticity; some graded it sound and others weak, and for that reason it is introduced in the form of a report.
-[^2]: Editor's documentation: The ḥadīth is in al-Tirmidhī and Ibn Mājah from the ḥadīth of Saʿd ibn Abī Waqqāṣ (may Allah be pleased with him) in this wording: «أشد الناس بلاءً الأنبياء ثم الأمثل فالأمثل». The transcript had «ثم الأولياء» (then the saints) between the prophets and the next best, and I did not find it in the wordings of the ḥadīth, so it was removed from the body.
+[^2]: Editor's documentation: The ḥadīth is in al-Tirmidhī and Ibn Mājah from the ḥadīth of Saʿd ibn Abī Waqqāṣ (may Allah be pleased with him) in this wording: «أشد الناس بلاءً الأنبياء ثم الأمثل فالأمثل». The editor did not find «ثم الأولياء» (then the saints) in the wordings of the ḥadīth.
 [^3]: Editor's documentation: Sūrat al-Anʿām, verse 124. The speaker limited himself to this portion of it.

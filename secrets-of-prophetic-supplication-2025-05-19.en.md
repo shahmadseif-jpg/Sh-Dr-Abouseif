@@ -48,8 +48,8 @@ Note that he put the mention of the Lord of the worlds before the description of
 I ask Allah, the Exalted, to mend all our hearts, to make us worthy of His pleasure, and to preserve for us the well-being of faith, the soundness of hearts, the tranquility of souls, and the reassurance of chests. O Allah, make us firm with the firm word in the life of this world and in the Hereafter, and on the Day when the witnesses will stand.
 
 ---
-[^1]: Sūrat Yūsuf, verse 42. Editor's documentation: The commentators differed on the referent of the pronoun in "the mention of his lord," and it was not clear from the transcription which view the speaker favored.
-[^2]: Editor's documentation: The speaker stated that the verse is in Sūrat al-Anʿām, and the wording of the verse as he pronounced it (the tightening of the chest at what they say) agrees with the saying of the Exalted in Sūrat al-Ḥijr, verse 97; the transcription is unsettled here, so the verse was not recorded in its text in the body.
+[^1]: Sūrat Yūsuf, verse 42. Editor's documentation: The commentators differed on the referent of the pronoun in "the mention of his lord."
+[^2]: Editor's documentation: The speaker stated that the verse is in Sūrat al-Anʿām, and the wording of the verse as he pronounced it (the tightening of the chest at what they say) agrees with the saying of the Exalted in Sūrat al-Ḥijr, verse 97; the verse is not recorded in its text in the body.
 [^3]: Editor's documentation: The ḥadīth is in Ṣaḥīḥ al-Bukhārī; the speaker did not mention its source.
 [^4]: Editor's documentation: The speaker did not attribute the narration, and he gave its wording in abridged form; its origin is in the two Ṣaḥīḥs with the wording: «لو لبثتُ في السجن ما لبث يوسف ثم أتاني الداعي لأجبتُه».
 [^5]: Sūrat Yūsuf, verse 50.

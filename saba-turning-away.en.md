@@ -38,4 +38,4 @@ So if we have a supplication this morning after this learning, we ask Allah, exa
 ---
 [^1]: Editor's documentation: Sūrat Saba', verse 15.
 [^2]: Editor's documentation: The remainder of the verse in Sūrat Fuṣṣilat (Fuṣṣilat: 13) is ﴿صَاعِقَةً مِّثْلَ صَاعِقَةِ عَادٍ وَثَمُودَ﴾; the speaker did not utter the remainder, so it was not included in the body text.
-[^3]: Editor's documentation: The transcription here is cut off («فأرسلنا عليهم سير الع…»); the verse is in Sūrat Saba': 16, and its well-known completion is ﴿سَيْلَ الْعَرِمِ﴾; it was not included in the body text because the speaker did not complete it in the transcription.
+[^3]: Editor's documentation: The verse is in Sūrat Saba': 16, and its well-known completion is ﴿سَيْلَ الْعَرِمِ﴾; it was not included in the body text because the speaker did not complete it.

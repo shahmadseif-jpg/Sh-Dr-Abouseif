@@ -1,5 +1,5 @@
 ---
-title: "From the Secrets of the Prophetic Supplication"
+title: "The Prophet's ﷺ Supplication for the Deceased"
 subtitle: "Fajr Khatira — The Prophet's ﷺ Supplication for the Deceased"
 date: "2025-06-19"
 locale: "en"
@@ -34,4 +34,4 @@ He also mentioned another supplication for the funeral[^1], whose text is this: 
 I ask Allah, Blessed and Exalted, to bring us and you to our place of security in His presence, and to grant us a good ending and a good outcome in all our affairs.
 
 ---
-[^1]: Editor's documentation: The transcript mentions Imam al-Shāfiʿī, may Allah have mercy on him, before this supplication, but its attribution to him is not certain; the supplication is narrated in the books of Sunan and fiqh with similar wordings.
+[^1]: Editor's documentation: The attribution of this supplication to Imam al-Shāfiʿī, may Allah have mercy on him, is not certain; the supplication is narrated in the books of Sunan and fiqh with similar wordings.

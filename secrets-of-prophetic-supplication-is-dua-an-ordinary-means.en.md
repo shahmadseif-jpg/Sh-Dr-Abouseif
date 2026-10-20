@@ -1,5 +1,5 @@
 ---
-title: "From the Secrets of the Prophetic Supplication"
+title: "Is Supplication One of the Ordinary Means?"
 subtitle: "Fajr Khatira: Is Supplication One of the Ordinary Means?"
 date: "2025-06-08"
 locale: "en"
@@ -44,6 +44,6 @@ He again related the story of the Companions who stopped with a people who did n
 He concluded by saying: O Allah, we ask You for a swift and near relief for our people in Palestine. O Allah, keep them firm in what they are in, recompense them in all their affliction; O Allah, we ask You for them help, steadfastness, support and victory from You, O Most Merciful of the merciful. And may Allah send blessings and peace upon our Prophet Muhammad and upon his family and Companions, and grant them abundant peace.
 
 ---
-[^1]: Editor's documentation: Sūrat al-Qamar, verses 9–11, and the text here is limited to the portion that appeared in the transcript.
-[^2]: Editor's documentation: The ḥadīth is in Ṣaḥīḥ Muslim from the ḥadīth of ʿUthmān ibn Abī al-ʿĀṣ (may Allah be pleased with him), and in it is «ضع يدك على الذي تألم من جسدك» (place your hand on the part of your body that pains you); this addition did not appear in the transcript.
+[^1]: Editor's documentation: Sūrat al-Qamar, verses 9–11.
+[^2]: Editor's documentation: The ḥadīth is in Ṣaḥīḥ Muslim from the ḥadīth of ʿUthmān ibn Abī al-ʿĀṣ (may Allah be pleased with him), and in it is «ضع يدك على الذي تألم من جسدك» (place your hand on the part of your body that pains you).
 [^3]: Editor's documentation: Sūrat al-Falaq, verses 1–5, and the beginning of Sūrat al-Nās (verse 1); the speaker began with «أعوذ» without «قل», and the verse has been set down here in the wording of the muṣḥaf. The ḥadīth is in Ṣaḥīḥ al-Bukhārī from the ḥadīth of ʿĀʾisha (may Allah be pleased with her).

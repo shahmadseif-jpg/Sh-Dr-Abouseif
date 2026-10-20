@@ -30,4 +30,4 @@ So whoever wakes up secure in his dwelling, healthy in his body, then whoever is
 We are not talking about numbers in the thousands or the millions, but about the strength of the day that I may obtain from my brother; he gives me a plate that suffices me until the end of the day. I have no numbers, glory be to Him, the Most High, and praise be to Allah.
 
 ---
-[^1]: Editor's documentation: Reported by al-Tirmidhī and Ibn Mājah with a similar wording (in which they have «في جسده» in place of «في بدنه»), and it is ḥasan; the wording in the body text is as the speaker uttered it. The transcription ended with a truncated supplication («I ask Allah that…») which was not included, just as a truncated supplication at the beginning of the transcription was deleted.
+[^1]: Editor's documentation: Reported by al-Tirmidhī and Ibn Mājah with a similar wording (in which they have «في جسده» in place of «في بدنه»), and it is ḥasan; the wording in the body text is as the speaker uttered it.
