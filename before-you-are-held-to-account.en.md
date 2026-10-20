@@ -9,9 +9,9 @@ readingMinutes: 28
 > Occasion: A transcription of a lecture delivered at the Dix Mosque in Detroit on December 26, 2016, at the end of the year.
 > Source: A transcription of a video lecture by Dr. Ahmed Abouseif — [Watch the original video on YouTube](https://www.youtube.com/watch?v=-64m3gJBo8s)
 
-Dr. Ahmed Abouseif begins by expressing his love for the people of Detroit in general and the people of this mosque in particular, and he asks Allah that this love find its like in return, and that love for His sake be a path to His pleasure in this world and the next. Then he says that he does not want to speak at length tonight, but that he pauses at the title the brothers chose for the gathering: «قبل أن تحاسبوا» ("Before you are held to account"), which their shaykh had linked to the end of the year and to preparing for what is coming in our lives.
+I begin by expressing my love for the people of Detroit in general and the people of this mosque in particular, and I ask Allah that this love find its like in return, and that love for His sake be a path to His pleasure in this world and the next. And I do not want to speak at length tonight, but I pause at the title the brothers chose for the gathering: «قبل أن تحاسبوا» ("Before you are held to account"), which your shaykh had linked to the end of the year and to preparing for what is coming in our lives.
 
-And he says: I would have liked us to ask one another before we begin: before we are held to account for what? For speech or for deeds? Let us adjust the question: before we are held to account in this world, or before we are held to account in the Hereafter?
+I would have liked us to ask one another before we begin: before we are held to account for what? For speech or for deeds? Let us adjust the question: before we are held to account in this world, or before we are held to account in the Hereafter?
 
 ### Before the reckoning of this world
 

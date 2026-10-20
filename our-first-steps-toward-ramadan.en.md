@@ -8,6 +8,7 @@ readingMinutes: 19
 ---
 > Occasion: a transcript of a lecture delivered at MCNET on January 31, 2025.
 > Source: transcript of a recorded lecture by Dr. Ahmed Abouseif — [watch the original video on YouTube](https://www.youtube.com/watch?v=0CswNrJPNqg)
+> Editor's note: This text summarizes what could be established from the lecture and is not a verbatim transcript; no explanation that was not in the lecture has been added.
 
 How can we prepare ourselves for Ramadan? What do we need for Ramadan, and what do we need from it? The lecturer asked these questions at the outset and invited the room to refresh its minds together and talk it through. What is the first goal for you in Ramadan? What do you want to reach by the end of it, what is the result, what is the gain?
 

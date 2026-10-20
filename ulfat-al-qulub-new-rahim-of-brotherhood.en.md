@@ -8,6 +8,7 @@ readingMinutes: 7
 ---
 > Occasion: A transcription of a lecture delivered on August 8, 2017
 > Source: A transcription of a video lecture by Dr. Ahmed Abouseif — [Watch the original video on YouTube](https://www.youtube.com/watch?v=BIWS5sDEQgo)
+> Editor's note: This text summarizes what could be established from the lecture and is not a verbatim transcript; no explanation that was not in the lecture has been added.
 
 O Allah, we ask You for the good of this night, the good of what is in it and the good of what comes after it, and we seek refuge in You from the evil of this night, the evil of what is in it and the evil of what comes after it. And we ask You, our Lord, to set right our hearts for us, to soothe our thoughts, to calm our fears, to preserve for us the well-being of our hearts, and to protect us from before us and behind us, from our right and from our left. And we seek refuge in Your majesty, glory be to You, from the whisperings of the devil, from the misfortunes of time, and from the turns of the days. O Allah, we seek refuge in You from Your decreeing for us a decree that would bring us to Hell, and we ask You, our Lord, to be gentle with us in every matter, to ease for us the paths of obedience to You, to make our hearts content with Your decree and Your measure, and to keep us on the straight path that You are pleased with for us, on the guidance of the God-fearing, and in the bliss of those who love You and are humble before You, by Your mercy, O Lord of the worlds.
 

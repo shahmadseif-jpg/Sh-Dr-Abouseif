@@ -8,6 +8,7 @@ readingMinutes: 6
 ---
 > Occasion: Summary of a Jumuʿah khutbah delivered at Brighter Horizons Academy on May 23, 2025
 > Source: transcription of a recorded khutbah by Dr. Ahmed Abouseif — [watch the original video on YouTube](https://www.youtube.com/watch?v=14EkOwETURo)
+> Editor's note: This text summarizes what could be established from the lecture and is not a verbatim transcript; no explanation that was not in the lecture has been added.
 
 Everybody doing whatever he wants, whenever he wants, however he wants. No one in control, no one watching, no rule that stops anybody. Desires become the first teacher the whole world listens to. This is what the Prophet ﷺ called *al-harj*: chaos, corruption, the collapse of the manners and order that Allah established.
 

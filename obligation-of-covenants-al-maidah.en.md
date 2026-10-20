@@ -8,6 +8,7 @@ readingMinutes: 6
 ---
 > Occasion: A transcription of an evening lecture delivered at AIA on September 9, 2026
 > Source: A transcription of a video lecture by Dr. Ahmed Abouseif — [Watch the original video on YouTube](https://www.youtube.com/watch?v=XcZk5vlAEoM)
+> Editor's note: This text summarizes what could be established from the lecture and is not a verbatim transcript; no explanation that was not in the lecture has been added.
 
 We open with a supplication: «…والفوز بالجنة والنجاة من النارين. ﴿رَبَّنَا لَا تُؤَاخِذْنَا إِن نَّسِينَا أَوْ أَخْطَأْنَا﴾، ﴿لَا تَحْمِلْ عَلَيْنَا إِصْرًا كَمَا حَمَلْتَهُ عَلَى الَّذِينَ مِن قَبْلِنَا﴾، ﴿لَا تُحَمِّلْنَا مَا لَا طَاقَةَ لَنَا بِهِ﴾، ﴿وَاعْفُ عَنَّا وَاغْفِرْ لَنَا وَارْحَمْنَا﴾. ربنا تب علينا من سيئاتنا وتقبل أعمالنا… آمين يا رب العالمين» (…and the triumph of Paradise and deliverance from the two Fires. "Our Lord, do not hold us to account if we forget or make a mistake," "do not lay on us a burden as You laid on those before us," "do not burden us with more than we have the strength to bear," "and pardon us, forgive us, and have mercy on us." Our Lord, turn to us in repentance from our wrongdoings and accept our deeds… Amen, O Lord of the worlds.)
 

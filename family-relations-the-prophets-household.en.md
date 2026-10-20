@@ -9,7 +9,7 @@ readingMinutes: 19
 > Occasion: A transcription of a lecture titled "Family Relations" delivered on 8 December 2016, part of a series of successive gatherings at the mosque, and a commentary on what was said the previous night
 > Source: A transcription of a video lecture by Dr. Ahmed Abouseif — [Watch the original video on YouTube](https://www.youtube.com/watch?v=TIf_kJweASY)
 
-The lecturer began with praise of Allah and prayers upon the Prophet ﷺ, then said: Allah, glory be to Him, the Exalted, has entrusted us with life, and made its foundation the meeting of a man and a woman so that there comes out through them a generation bearing the name of its religion. And in order for a generation bearing the name of the religion to be raised, it must be raised in a suitable environment, so that it comes out psychologically complete, mentally complete and physically complete. And we are discussing the subject today as a commentary on what was said yesterday.
+We begin with praise of Allah and prayers upon the Prophet ﷺ. Allah, glory be to Him, the Exalted, has entrusted us with life, and made its foundation the meeting of a man and a woman so that there comes out through them a generation bearing the name of its religion. And in order for a generation bearing the name of the religion to be raised, it must be raised in a suitable environment, so that it comes out psychologically complete, mentally complete and physically complete. And we are discussing the subject today as a commentary on what was said yesterday.
 
 ### The Roots of Problems: Two Homes Colliding
 

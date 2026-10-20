@@ -8,6 +8,7 @@ readingMinutes: 9
 ---
 > Occasion: A transcription of a lecture delivered after the ʿIshāʾ prayer at AIA on July 7, 2026, as part of the series "Calls to Faith in the Qur’an"
 > Source: A transcription of a video lecture by Dr. Ahmed Abouseif — [Watch the original video on YouTube](https://www.youtube.com/watch?v=ZNso_rtTrTw)
+> Editor's note: This text summarizes what could be established from the lecture and is not a verbatim transcript; no explanation that was not in the lecture has been added.
 
 The lesson begins with the recitation of the call from Sūrat Āl ʿImrān: ﴿يَا أَيُّهَا الَّذِينَ آمَنُوا لَا تَكُونُوا كَالَّذِينَ كَفَرُوا وَقَالُوا لِإِخْوَانِهِمْ إِذَا ضَرَبُوا فِي الْأَرْضِ أَوْ كَانُوا غُزًّى لَّوْ كَانُوا عِندَنَا مَا مَاتُوا وَمَا قُتِلُوا لِيَجْعَلَ اللَّهُ ذَٰلِكَ حَسْرَةً فِي قُلُوبِهِمْ ۗ وَاللَّهُ يُحْيِي وَيُمِيتُ ۗ وَاللَّهُ بِمَا تَعْمَلُونَ بَصِيرٌ﴾ [آل عمران: 156] (O you who believe, do not be like those who disbelieved and said of their brothers when they traveled through the land or were off fighting: "Had they been with us, they would not have died and would not have been killed," so that Allah may make that a regret in their hearts. And Allah gives life and causes death, and Allah sees what you do). Then he says: let us begin from the beginning.
 

@@ -8,6 +8,7 @@ readingMinutes: 7
 ---
 > Occasion: an Isha lecture delivered at AIA on September 22, 2026.
 > Source: transcription of a recorded lecture by Dr. Ahmed Abouseif — [watch the original video on YouTube](https://www.youtube.com/watch?v=0TJioNyW0Fw)
+> Editor's note: This text summarizes what could be established from the lecture and is not a verbatim transcript; no explanation that was not in the lecture has been added.
 
 Tonight, the lecturer said, we are going to speak about the fifth call that Allah addresses to the believers. Five times in almost two pages of the Qur'an: when you hear a call repeated five times in two pages, it means there is a serious matter there.
 

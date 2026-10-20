@@ -8,6 +8,7 @@ readingMinutes: 20
 ---
 > Occasion: A transcription of two lectures delivered on November 26 and 27, 2016
 > Source: A transcription of a video lecture by Dr. Ahmed Abouseif — [Watch the original video on YouTube](https://www.youtube.com/watch?v=t8Il1M1hpMM)
+> Editor's note: This text summarizes what could be established from the lecture and is not a verbatim transcript; no explanation that was not in the lecture has been added.
 
 Dr. Ahmed began with a word on the prostration of forgetfulness (sujūd as-sahw). He said that the jurists relied in this matter on distinguishing between whether the mistake is by omission or by addition, and that this is among the existing opinions, and Ibn al-Qayyim cited it in full in the book «Zād al-Ma'ād», and mentioned several opinions on it. But the relied-upon view, and Allah knows best, is that if the forgetfulness is by omission, the prostration is before the closing salām, whereas if it is by addition, like one who prays four rak'ahs and comes with five, then it is after the salām. And they discussed afterward whether he recites the tashahhud again or not. Then he said: what was, was; praise be to Allah, glorified and exalted, and we ask Allah for well-being, O Lord of the worlds, and we ask Allah to forgive us our shortcomings in His right and to mend our hearts. O Allah, amen.
 

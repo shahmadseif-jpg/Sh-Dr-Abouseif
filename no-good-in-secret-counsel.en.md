@@ -8,6 +8,7 @@ readingMinutes: 12
 ---
 > Occasion: a lecture delivered at Woodbridge on September 24, 2026.
 > Source: transcription of a recorded lecture by Dr. Ahmed Abouseif — [watch the original video on YouTube](https://www.youtube.com/watch?v=MDfjO5gFXbc)
+> Editor's note: This text summarizes what could be established from the lecture and is not a verbatim transcript; no explanation that was not in the lecture has been added.
 
 The lecturer began by promising to be brief, since the people were waiting to pray, and then took up the verse that had been recited at the start of the session. When we try to translate it, he said, Allah is telling us that there is no benefit in any kind of speech unless it is one of three things.[^1]
 

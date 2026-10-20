@@ -8,6 +8,7 @@ readingMinutes: 31
 ---
 > Occasion: a transcript of a lecture delivered by Dr. Ahmed Abouseif at Bayt Al-Karim on May 2, 2026, the second in a series on the relationship between parents and children.
 > Source: transcription of a recorded lecture by Dr. Ahmed Abouseif, [watch the original video on YouTube](https://www.youtube.com/watch?v=KHyXe3l0YL4)
+> Editor's note: This text summarizes what could be established from the lecture and is not a verbatim transcript; no explanation that was not in the lecture has been added.
 
 Tonight, Dr. Ahmed said, we continue our discussion of the relationship between kids and dads. When we say "dads" we mean parents in general, in their general position, and when we say "kids" we mean both sons and daughters.
 

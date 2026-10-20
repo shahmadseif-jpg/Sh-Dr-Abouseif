@@ -8,6 +8,7 @@ readingMinutes: 26
 ---
 > Occasion: A transcription of a lecture delivered at Masjid al-Furqān in Detroit on July 25, 2025
 > Source: A transcription of a video lecture by Dr. Ahmed Abouseif — [Watch the original video on YouTube](https://www.youtube.com/watch?v=RdaVOBptve8)
+> Editor's note: This text summarizes what could be established from the lecture and is not a verbatim transcript; no explanation that was not in the lecture has been added.
 
 The speaker began by praising Allah and sending prayers and peace upon the Seal of His prophets. He asked Allah to write for those present the means of salvation in this world and the next and to make them see their own faults. Then he said that it does not befit a sensible person to speak before people without first opening his words with a special supplication for our people in Palestine: that Allah mend their hearts, ward off evils from them, protect their blood and their wealth, give them security in their persons and their homelands, keep them far from the scheming of the schemers, and not entrust them to an enemy. Then he asked Allah for fine speech for himself and fine response from the listeners.
 

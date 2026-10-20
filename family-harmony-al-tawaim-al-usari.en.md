@@ -8,6 +8,7 @@ readingMinutes: 7
 ---
 > Occasion: A summary of a Friday khutbah delivered at Masjid al-Furqan in Detroit on 25 July 2025
 > Source: A transcription of a video khutbah by Dr. Ahmed Abouseif — [Watch the original video on YouTube](https://www.youtube.com/watch?v=KEJ9lm4DcDw)
+> Editor's note: This text summarizes what could be established from the lecture and is not a verbatim transcript; no explanation that was not in the lecture has been added.
 
 A teacher asked one of her pupils the meaning of the word "sakan" (dwelling-place, tranquility), and he said: "My grandfather's house." She said: "My son, I am asking you for the definition of the word." He said: "My grandfather's house is the only place where voices are not raised and there is no commotion." And when she asked him about their own house, he said that his father shouts night and day, and his mother shouts night and day. So the boy came to dislike the walls of his own home, and the meaning of sakan in his mind became a house other than his own.
 

@@ -8,6 +8,7 @@ readingMinutes: 44
 ---
 > Occasion: A transcription of a lecture delivered to university youth on October 3, 2018  
 > Source: A transcription of a video lecture by Dr. Ahmed Abouseif — [Watch the original video on YouTube](https://www.youtube.com/watch?v=ZFTD5UXMJmA)
+> Editor's note: This text summarizes what could be established from the lecture and is not a verbatim transcript; no explanation that was not in the lecture has been added.
 
 We open with a supplication for the university youth present: that Allah make them the best leaders of this future, preserve their well-being and make them content, and make their youth a sign of sound faith and a mark of the righteous. Then Dr. Ahmed reminded them of where the previous session on the objectives of the Sharī‘ah had ended: that Islam is not a random religion, and not merely a religion that tells you: sit a little in the mosque, read something of the Qur’an, pray, and sit with yourself in seclusion, and when this time is over, do whatever you like. Islam came with great aims, aims that build up the universe and build up the human soul, that deal with the human being in himself, and connect him to the universe in which he lives, to the people around him, and to his Creator, glorified and exalted. The human being has many relationships, and the objectives of Islam organize all of them.
 
