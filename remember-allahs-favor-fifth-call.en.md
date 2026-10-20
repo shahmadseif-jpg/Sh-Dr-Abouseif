@@ -11,7 +11,7 @@ readingMinutes: 7
 
 Tonight, the lecturer said, we are going to speak about the fifth call that Allah addresses to the believers. Five times in almost two pages of the Qur'an: when you hear a call repeated five times in two pages, it means there is a serious matter there.
 
-The first call came with the command to fulfill your promises, your agreement with Allah. The second said not to break the words you gave to Allah, and not to attack what Allah has made the rules for. The third came as a kind of example of fulfilling the covenant between you and Allah. The fourth is unclear in the recording, and then comes the fifth.[^1]
+The first call came with the command to fulfill your promises, your agreement with Allah. The second said not to break the words you gave to Allah, and not to attack what Allah has made the rules for. The third came as a kind of example of fulfilling the covenant between you and Allah. As for the fourth… then comes the fifth.[^1]
 
 Then he gave the translation of the verse, which he called clear: remember the blessings of Allah upon you.[^2] And what kind of blessing did Allah do for them? He is reminding them of a blessing that most people may not be thinking about.
 
@@ -27,7 +27,7 @@ Think of the difference between the man who received half a million and then met
 
 ### The occasion of the verse
 
-The lecturer then turned to the reason for the revelation of this verse. Most of the scholars say that the Prophet ﷺ went one time to a group in Madinah to deal with them about something that had happened there. He sat with his back to a wall. Someone got up on the roof with a big rock, to drop it on the head of the Prophet ﷺ, and he was already preparing it. Then Allah informed the Prophet ﷺ, and the Prophet ﷺ suddenly stood up and left. The words "What happened? What is wrong with you?" follow in the transcript, without making clear who said them. And Allah revealed the Qur'an to tell him what was happening: what was the scenario, what was the case.[^3]
+The lecturer then turned to the reason for the revelation of this verse. Most of the scholars say that the Prophet ﷺ went one time to a group in Madinah to deal with them about something that had happened there. He sat with his back to a wall. Someone got up on the roof with a big rock, to drop it on the head of the Prophet ﷺ, and he was already preparing it. Then Allah informed the Prophet ﷺ, and the Prophet ﷺ suddenly stood up and left. Then it was said: "What happened? What is wrong with you?" And Allah revealed the Qur'an to tell him what was happening: what was the scenario, what was the case.[^3]
 
 The case was that someone would have been killed, and Allah protected him from that killing. Whatever sum the Prophet ﷺ was due to receive from those people, the lecturer said, it was not equal to his life.
 

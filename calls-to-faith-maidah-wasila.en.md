@@ -27,8 +27,6 @@ Then he mentioned:
 
 ﴿مِنْ أَجْلِ ذَٰلِكَ كَتَبْنَا عَلَىٰ بَنِي إِسْرَائِيلَ أَنَّهُ مَن قَتَلَ نَفْسًا بِغَيْرِ نَفْسٍ﴾ (Because of that, We decreed for the Children of Israel that whoever kills a soul other than for a soul)
 
-After that, the transcript has some broken English remarks about corruption, which were not clear.
-
 Then he mentioned a hadith in which someone says: «يا رسول الله، دُلَّني على أمرٍ أعتصم به» ("O Messenger of Allah, direct me to something I can hold fast to"), and the Prophet ﷺ said: «اتقِ الله ثم استقم» ("Be mindful of Allah, then stay upright").[^1]
 
 Then he recited:

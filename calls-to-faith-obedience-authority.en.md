@@ -9,7 +9,7 @@ readingMinutes: 4
 > Occasion: A transcription of a lecture (the ʿIshāʾ lesson) delivered at AIA on July 28, 2026   
 > Source: A transcription of a video lecture by Dr. Ahmed Abouseif — [Watch the original video on YouTube](https://www.youtube.com/watch?v=szQ3fPjTNIo)
 
-The Doctor began his lesson with the basmala, then Sūrat al-Nisāʾ, and recited the call around which the discussion revolves: ﴿يَا أَيُّهَا الَّذِينَ آمَنُوا أَطِيعُوا اللَّهَ وَأَطِيعُوا الرَّسُولَ وَأُولِي الْأَمْرِ مِنكُمْ ۖ فَإِن تَنَازَعْتُمْ فِي شَيْءٍ فَرُدُّوهُ إِلَى اللَّهِ وَالرَّسُولِ إِن كُنتُمْ تُؤْمِنُونَ بِاللَّهِ وَالْيَوْمِ الْآخِرِ ۚ ذَٰلِكَ خَيْرٌ وَأَحْسَنُ تَأْوِيلًا﴾ (“O you who believe, obey Allah and obey the Messenger and those in authority among you. And if you dispute over anything, refer it to Allah and the Messenger, if you believe in Allah and the Last Day. That is best and fairest in outcome.”). He counted it as a distinct call among the calls of the sūrah and stated its number, but the number is unclear in the transcript.[^1]
+The Doctor began his lesson with the basmala, then Sūrat al-Nisāʾ, and recited the call around which the discussion revolves: ﴿يَا أَيُّهَا الَّذِينَ آمَنُوا أَطِيعُوا اللَّهَ وَأَطِيعُوا الرَّسُولَ وَأُولِي الْأَمْرِ مِنكُمْ ۖ فَإِن تَنَازَعْتُمْ فِي شَيْءٍ فَرُدُّوهُ إِلَى اللَّهِ وَالرَّسُولِ إِن كُنتُمْ تُؤْمِنُونَ بِاللَّهِ وَالْيَوْمِ الْآخِرِ ۚ ذَٰلِكَ خَيْرٌ وَأَحْسَنُ تَأْوِيلًا﴾ (“O you who believe, obey Allah and obey the Messenger and those in authority among you. And if you dispute over anything, refer it to Allah and the Messenger, if you believe in Allah and the Last Day. That is best and fairest in outcome.”). He counted it as a distinct call among the calls of the sūrah.[^1]
 
 ### The Calls of the Sūrah
 
@@ -21,25 +21,25 @@ He lingered over the command to obey, repeating the words “Obey Allah,” and 
 
 ### Those in Authority and Titles
 
-At this point he mentioned official titles: “His Excellency the President,” “His Excellency the Minister,” “Your Honor…,” “Master of Excellency, Eminence and Presidency,” and in the transcript he described them as “sacred words,” then returned to the command to obey Allah, Blessed and Exalted, and to obey the Prophet ﷺ. He apparently referred to Imam Ibn ʿĀshūr when speaking about “disputing,” and mentioned “those of sovereignty and leadership” and “the ruler,” and swore by Almighty Allah in that connection; the substance is cut off in the transcript.
+At this point he mentioned official titles: “His Excellency the President,” “His Excellency the Minister,” “Your Honor…,” “Master of Excellency, Eminence and Presidency,” and he apparently described them as “sacred words,” then returned to the command to obey Allah, Blessed and Exalted, and to obey the Prophet ﷺ. He apparently referred to Imam Ibn ʿĀshūr when speaking about “disputing,” and mentioned “those of sovereignty and leadership” and “the ruler,” and swore by Almighty Allah in that connection…
 
 ### Sūrat ʿAbasa
 
-In the course of this he recited: ﴿عَبَسَ وَتَوَلَّىٰ * أَن جَاءَهُ الْأَعْمَىٰ * وَمَا يُدْرِيكَ لَعَلَّهُ يَزَّكَّىٰ﴾ (“He frowned and turned away, because the blind man came to him. And what would make you know, perhaps he might be purified”), then he mentioned hadiths and a source for them, and the meaning here is cut off in the transcript.
+In the course of this he recited: ﴿عَبَسَ وَتَوَلَّىٰ * أَن جَاءَهُ الْأَعْمَىٰ * وَمَا يُدْرِيكَ لَعَلَّهُ يَزَّكَّىٰ﴾ (“He frowned and turned away, because the blind man came to him. And what would make you know, perhaps he might be purified”), then he mentioned hadiths and a source for them.
 
 ### A Word of Truth before an Unjust Ruler
 
-Then he mentioned a hadith with the wording: “The greatest jihad is a word of truth before an unjust ruler,” and before it in the transcript he mentioned Muhammad ﷺ.[^2]
+Then he mentioned a hadith with the wording: “The greatest jihad is a word of truth before an unjust ruler,” and before it he mentioned Muhammad ﷺ.[^2]
 
 ### Abraham, Peace Be upon Him, and the King
 
-After the hadith he recited the story of Abraham with the king: ﴿أَلَمْ تَرَ إِلَى الَّذِي حَاجَّ إِبْرَاهِيمَ فِي رَبِّهِ أَنْ آتَاهُ اللَّهُ الْمُلْكَ إِذْ قَالَ إِبْرَاهِيمُ رَبِّيَ الَّذِي يُحْيِي وَيُمِيتُ قَالَ أَنَا أُحْيِي وَأُمِيتُ ۖ قَالَ إِبْرَاهِيمُ فَإِنَّ اللَّهَ يَأْتِي بِالشَّمْسِ مِنَ الْمَشْرِقِ فَأْتِ بِهَا مِنَ الْمَغْرِبِ فَبُهِتَ الَّذِي كَفَرَ ۗ وَاللَّهُ لَا يَهْدِي الْقَوْمَ الظَّالِمِينَ﴾ (“Have you not considered the one who argued with Abraham about his Lord because Allah had given him kingship? When Abraham said, ‘My Lord is the one who gives life and causes death,’ he said, ‘I give life and cause death.’ Abraham said, ‘Indeed, Allah brings the sun from the east, so bring it from the west.’ So the disbeliever was confounded; and Allah does not guide the wrongdoing people.”). The transcript repeatedly mentions Abraham, peace be upon him, and “praise be to Allah,” and “Fear Allah” appears without a clear context, then comes the conclusion of the verse of obedience: ﴿إِن كُنتُمْ تُؤْمِنُونَ بِاللَّهِ وَالْيَوْمِ الْآخِرِ﴾ (“if you believe in Allah and the Last Day”).
+After the hadith he recited the story of Abraham with the king: ﴿أَلَمْ تَرَ إِلَى الَّذِي حَاجَّ إِبْرَاهِيمَ فِي رَبِّهِ أَنْ آتَاهُ اللَّهُ الْمُلْكَ إِذْ قَالَ إِبْرَاهِيمُ رَبِّيَ الَّذِي يُحْيِي وَيُمِيتُ قَالَ أَنَا أُحْيِي وَأُمِيتُ ۖ قَالَ إِبْرَاهِيمُ فَإِنَّ اللَّهَ يَأْتِي بِالشَّمْسِ مِنَ الْمَشْرِقِ فَأْتِ بِهَا مِنَ الْمَغْرِبِ فَبُهِتَ الَّذِي كَفَرَ ۗ وَاللَّهُ لَا يَهْدِي الْقَوْمَ الظَّالِمِينَ﴾ (“Have you not considered the one who argued with Abraham about his Lord because Allah had given him kingship? When Abraham said, ‘My Lord is the one who gives life and causes death,’ he said, ‘I give life and cause death.’ Abraham said, ‘Indeed, Allah brings the sun from the east, so bring it from the west.’ So the disbeliever was confounded; and Allah does not guide the wrongdoing people.”). Abraham, peace be upon him, and “praise be to Allah” are mentioned repeatedly, and “Fear Allah” appears without a clear context, then comes the conclusion of the verse of obedience: ﴿إِن كُنتُمْ تُؤْمِنُونَ بِاللَّهِ وَالْيَوْمِ الْآخِرِ﴾ (“if you believe in Allah and the Last Day”).
 
 ### Trusts and Justice
 
 And he recited the words of the Exalted: ﴿إِنَّ اللَّهَ يَأْمُرُكُمْ أَن تُؤَدُّوا الْأَمَانَاتِ إِلَىٰ أَهْلِهَا وَإِذَا حَكَمْتُم بَيْنَ النَّاسِ أَن تَحْكُمُوا بِالْعَدْلِ﴾ (“Indeed, Allah commands you to render trusts to their rightful owners, and when you judge between people, to judge with justice”).
 
-And at the end of the transcript: “Greatest salutation… All right, sir, all right, Your Honor,” with no context showing what is meant, and then the transcript breaks off at the word “Take…”.
+And at the end of the lesson came: “Greatest salutation… All right, sir, all right, Your Honor,” with no context showing what is meant, and then “Take…”.
 
 ---
 [^1]: Editor's documentation: The lecturer did not mention verse numbers; their locations according to the editor: the verse of obedience, al-Nisāʾ 4:59; the earlier calls, al-Nisāʾ 4:19, 4:29 and 4:43; “whoever obeys the Messenger,” al-Nisāʾ 4:80; ʿAbasa 80:1-3; the story of Abraham, al-Baqara 2:258; the verse of trusts, al-Nisāʾ 4:58.

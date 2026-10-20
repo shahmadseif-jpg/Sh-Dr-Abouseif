@@ -29,9 +29,9 @@ Then he recited another call, addressed to the people, and joined the two forms 
 
 ### Lawful and Forbidden
 
-He repeated "lawful… forbidden… lawful… forbidden," and recited: «احل لهم الطيبات وحرم عليهم الخبائث» (He makes lawful for them the good things and forbids them the foul things) (as in the transcript, without vowel marks), and paused at "the good things" and at "the foul things."[^1] Then he repeated: "of the good things We have provided you," and the phrase "of what is on the earth," and repeated: ﴿كُلُوا مِمَّا فِي الْأَرْضِ حَلَالًا طَيِّبًا وَلَا تَتَّبِعُوا خُطُوَاتِ الشَّيْطَانِ﴾ (eat of what is on the earth, lawful and good, and do not follow the footsteps of Satan).
+He repeated "lawful… forbidden… lawful… forbidden," and recited: «احل لهم الطيبات وحرم عليهم الخبائث» (He makes lawful for them the good things and forbids them the foul things), and paused at "the good things" and at "the foul things."[^1] Then he repeated: "of the good things We have provided you," and the phrase "of what is on the earth," and repeated: ﴿كُلُوا مِمَّا فِي الْأَرْضِ حَلَالًا طَيِّبًا وَلَا تَتَّبِعُوا خُطُوَاتِ الشَّيْطَانِ﴾ (eat of what is on the earth, lawful and good, and do not follow the footsteps of Satan).
 
-Then he said in English, in meaning: nobody is being asked to beat people, or to lie, or to walk a wrong path; rather, everyone is asked to walk in the right direction. He likened that to traveling on the road, "you know the traffic," and the rest of the sentence is cut off.
+Then he said in English, in meaning: nobody is being asked to beat people, or to lie, or to walk a wrong path; rather, everyone is asked to walk in the right direction. He likened that to traveling on the road, "you know the traffic…"
 
 ### The Meal for Which God Is Praised
 

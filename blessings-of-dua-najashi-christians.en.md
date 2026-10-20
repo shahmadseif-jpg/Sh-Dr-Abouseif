@@ -9,11 +9,9 @@ readingMinutes: 1
 > Occasion: Transcript of a khāṭira delivered on September 23, 2026.   
 > Source: Transcript of a recorded khāṭira by Dr. Ahmed AbouSeif, [watch the original video on YouTube](https://www.youtube.com/watch?v=A2JUSCWoNvU)
 
-*Only a fragment of this talk could be recovered from the automatic transcript; the rest is too garbled to render faithfully.*
-
 The talk begins with God’s words about the Christians: ﴿لَتَجِدَنَّ أَشَدَّ النَّاسِ عَدَاوَةً لِّلَّذِينَ آمَنُوا الْيَهُودَ وَالَّذِينَ أَشْرَكُوا ۖ وَلَتَجِدَنَّ أَقْرَبَهُمْ مَوَدَّةً لِّلَّذِينَ آمَنُوا الَّذِينَ قَالُوا إِنَّا نَصَارَىٰ﴾[^1]
 
-The speaker turns to the Christians who followed Jesus, peace be upon him, and to the Negus (al-Najāshī) of Abyssinia, and to the time of the Prophet ﷺ in Makkah. He recalls, in words only partly audible, that what came down upon Jesus and what has come down upon Muhammad come out of one and the same lamp, followed by the testimony that there is no god but God and that Muhammad is the Messenger of God.
+The speaker turns to the Christians who followed Jesus, peace be upon him, and to the Negus (al-Najāshī) of Abyssinia, and to the time of the Prophet ﷺ in Makkah. He recalls, it seems, that what came down upon Jesus and what has come down upon Muhammad come out of one and the same lamp, followed by the testimony that there is no god but God and that Muhammad is the Messenger of God.
 
 He then recites the verse describing their response: ﴿وَإِذَا سَمِعُوا مَا أُنزِلَ إِلَى الرَّسُولِ تَرَىٰ أَعْيُنَهُمْ تَفِيضُ مِنَ الدَّمْعِ مِمَّا عَرَفُوا مِنَ الْحَقِّ﴾[^2] and the words of their prayer: ﴿رَبَّنَا آمَنَّا فَاكْتُبْنَا مَعَ الشَّاهِدِينَ﴾[^3] He repeats this supplication, and closes with it as his own: “Our Lord, we have believed, so write us among the witnesses.”
 
