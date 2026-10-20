@@ -127,9 +127,9 @@ Allah, *subḥānahu wa taʿālā*, said... and now our time is up and we have t
 
 ---
 [^1]: Editor's documentation: ﴿إِنَّا نَحْنُ نَزَّلْنَا الذِّكْرَ وَإِنَّا لَهُ لَحَافِظُونَ﴾ [الحجر: 9]. The Doctor said only that Allah promised to protect the Qur’an and that “We revealed it, and We will protect it”; the verse is identified by the editor.
-[^2]: Editor's documentation: ﴿هَلْ أَتَىٰ عَلَى الْإِنسَانِ حِينٌ مِّنَ الدَّهْرِ لَمْ يَكُن شَيْئًا مَّذْكُورًا﴾ [al-Insān: 1] The class read this together but the transcript does not preserve the Arabic; the surah and verse number are identified by the editor from the translation read in class and the page number (578).
+[^2]: Editor's documentation: ﴿هَلْ أَتَىٰ عَلَى الْإِنسَانِ حِينٌ مِّنَ الدَّهْرِ لَمْ يَكُن شَيْئًا مَّذْكُورًا﴾ [al-Insān: 1] The class read this together; the surah and verse number are identified by the editor from the translation read in class and the page number (578).
 [^3]: Editor's documentation: ﴿إِنَّا خَلَقْنَا الْإِنسَانَ مِن نُّطْفَةٍ أَمْشَاجٍ نَّبْتَلِيهِ فَجَعَلْنَاهُ سَمِيعًا بَصِيرًا﴾ [al-Insān: 2] Arabic and number supplied by the editor to match the translation read in class.
 [^4]: Editor's documentation: ﴿إِنَّا هَدَيْنَاهُ السَّبِيلَ إِمَّا شَاكِرًا وَإِمَّا كَفُورًا﴾ [al-Insān: 3] Arabic and number supplied by the editor to match the translation the student read.
 [^5]: Editor's documentation: ﴿وَنَفْسٍ وَمَا سَوَّاهَا ۝ فَأَلْهَمَهَا فُجُورَهَا وَتَقْوَاهَا﴾ [الشمس: 7–8]. The Doctor paraphrased the oath without naming the surah; the identification is the editor's.
 [^6]: Editor's documentation: ﴿إِنَّا أَعْتَدْنَا لِلْكَافِرِينَ سَلَاسِلَ وَأَغْلَالًا وَسَعِيرًا﴾ [al-Insān: 4] Arabic and number supplied by the editor to match the translation read in class.
-[^7]: Editor's documentation: ﴿إِنَّ الْأَبْرَارَ يَشْرَبُونَ مِن كَأْسٍ كَانَ مِزَاجُهَا كَافُورًا﴾ [al-Insān: 5] The transcript has no translation of this verse, only the lecturer's remarks on *abrār* and *kaʾs*; the Arabic and number are the editor's.
+[^7]: Editor's documentation: ﴿إِنَّ الْأَبْرَارَ يَشْرَبُونَ مِن كَأْسٍ كَانَ مِزَاجُهَا كَافُورًا﴾ [al-Insān: 5] The lecturer commented only on *abrār* and *kaʾs*; the Arabic and number are the editor's.

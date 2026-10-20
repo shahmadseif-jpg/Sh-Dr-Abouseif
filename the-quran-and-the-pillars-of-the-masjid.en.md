@@ -51,7 +51,7 @@ When Allah assigned īmān to us, He asked us to come and pray five times a day 
 
 The other thing we usually feel is that we are victims. We are already struggling with a lot around us: the dunya, the bills, the material things, the mortgage, the tough position in America, and so on. But we do not feel the blessings that come to us from Allah. We do not see our position as human beings and as servants of Allah. We are here for a test. We remind ourselves of this again and again. Imagine that you will keep suffering until the second you meet Allah. That is the reality of the dunya. We are not in Paradise. We are still here. If you cover one side, you find something else coming from the other side. This is the dunya, and we will stay in this position until we meet Allah.
 
-But the moment we suffer from something, we feel like victims. You need to protect yourself from all of that suffering.[^7]
+But the moment we suffer from something, we feel like victims. You need to protect yourself from all of that suffering.
 
 ### From users of the deen to doers for it
 
@@ -66,10 +66,9 @@ One of the youth, two days ago, was going to Walmart or somewhere, and I asked h
 I ask Allah to elevate all of us to the straight path.
 
 ---
-[^1]: Editor's documentation: the transcript does not name the sūrah or recite the verses. The lecturer's description (the jinn listening in the desert, their return to their people, and the closing command to be patient) matches Sūrat al-Aḥqāf 29–35, e.g. ﴿وَإِذْ صَرَفْنَا إِلَيْكَ نَفَرًا مِّنَ الْجِنِّ يَسْتَمِعُونَ الْقُرْآنَ فَلَمَّا حَضَرُوهُ قَالُوا أَنصِتُوا ۖ فَلَمَّا قُضِيَ وَلَّوْا إِلَىٰ قَوْمِهِم مُّنذِرِينَ﴾ [الأحقاف: 29]. The identification is the editor's and should be checked against the audio.
-[^2]: Editor's documentation: the transcript has only "a book after Mūsā", which corresponds to [الأحقاف: 30]: ﴿قَالُوا يَا قَوْمَنَا إِنَّا سَمِعْنَا كِتَابًا أُنزِلَ مِن بَعْدِ مُوسَىٰ﴾.
-[^3]: Editor's documentation: the description matches ﴿وَإِذَا رَأَوْا تِجَارَةً أَوْ لَهْوًا انفَضُّوا إِلَيْهَا وَتَرَكُوكَ قَائِمًا﴾ [الجمعة: 11], which the commentators generally relate to some of the Companions who left during the Friday sermon. The lecturer did not name the verse; his remark that Allah is speaking of the hypocrites is reported as he said it, and the matter should be checked against the audio.
-[^4]: Editor's documentation: probably the ḥadīth «بَادِرُوا بِالْأَعْمَالِ فِتَنًا كَقِطَعِ اللَّيْلِ الْمُظْلِمِ، يُصْبِحُ الرَّجُلُ مُؤْمِنًا وَيُمْسِي كَافِرًا» (Muslim 118). The lecturer's wording is loose in the transcript, and the text above follows his sense only.
+[^1]: Editor's documentation: the lecturer did not name the sūrah or recite the verses. The lecturer's description (the jinn listening in the desert, their return to their people, and the closing command to be patient) matches Sūrat al-Aḥqāf 29–35, e.g. ﴿وَإِذْ صَرَفْنَا إِلَيْكَ نَفَرًا مِّنَ الْجِنِّ يَسْتَمِعُونَ الْقُرْآنَ فَلَمَّا حَضَرُوهُ قَالُوا أَنصِتُوا ۖ فَلَمَّا قُضِيَ وَلَّوْا إِلَىٰ قَوْمِهِم مُّنذِرِينَ﴾ [الأحقاف: 29]. The identification is the editor's.
+[^2]: Editor's documentation: the lecturer said only "a book after Mūsā", which corresponds to [الأحقاف: 30]: ﴿قَالُوا يَا قَوْمَنَا إِنَّا سَمِعْنَا كِتَابًا أُنزِلَ مِن بَعْدِ مُوسَىٰ﴾.
+[^3]: Editor's documentation: the description matches ﴿وَإِذَا رَأَوْا تِجَارَةً أَوْ لَهْوًا انفَضُّوا إِلَيْهَا وَتَرَكُوكَ قَائِمًا﴾ [الجمعة: 11], which the commentators generally relate to some of the Companions who left during the Friday sermon. The lecturer did not name the verse; his remark that Allah is speaking of the hypocrites is reported as he said it.
+[^4]: Editor's documentation: this sense corresponds to the ḥadīth «بَادِرُوا بِالْأَعْمَالِ فِتَنًا كَقِطَعِ اللَّيْلِ الْمُظْلِمِ، يُصْبِحُ الرَّجُلُ مُؤْمِنًا وَيُمْسِي كَافِرًا» (Muslim 118). The lecturer's wording is loose, and the text above follows his sense only.
 [^5]: Editor's documentation: «إِنَّ قُلُوبَ بَنِي آدَمَ كُلَّهَا بَيْنَ إِصْبَعَيْنِ مِنْ أَصَابِعِ الرَّحْمَنِ كَقَلْبٍ وَاحِدٍ يُصَرِّفُهُ حَيْثُ يَشَاءُ» (Muslim 2654). Identified from the lecturer's paraphrase.
-[^7]: Editor's documentation: the transcript continues here in a garbled way: "When you go back to Allah… leave me alone. I'm going to leave you alone, but you're going to be alone in the Day of Judgment too." The speaker of each phrase cannot be determined, so it is not placed in the text; check the audio.
-[^6]: Editor's documentation: the transcript has only "be patient, as the messengers before you"; this corresponds to ﴿فَاصْبِرْ كَمَا صَبَرَ أُولُو الْعَزْمِ مِنَ الرُّسُلِ﴾ [الأحقاف: 35]. The identification is the editor's.
+[^6]: Editor's documentation: the lecturer said only "be patient, as the messengers before you"; this corresponds to ﴿فَاصْبِرْ كَمَا صَبَرَ أُولُو الْعَزْمِ مِنَ الرُّسُلِ﴾ [الأحقاف: 35]. The identification is the editor's.

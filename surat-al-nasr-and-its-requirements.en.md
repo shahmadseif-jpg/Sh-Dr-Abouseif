@@ -59,7 +59,7 @@ I ask Allah, blessed and exalted be He, to grant us good understanding of His pu
 
 ---
 [^1]: Editor's documentation: Sūrat al-Naṣr, verses 1–3.
-[^2]: Editor's documentation: The transcript is automatic and garbled in places; what was clear has been retained. The speaker's statement that the surah was revealed at Minā during the Farewell Pilgrimage is reported as he said it, without attribution. As for the Prophet ﷺ being informed of the nearness of his death in this surah, it is established from Ibn ʿAbbās (may Allah be pleased with both of them) in Ṣaḥīḥ al-Bukhārī, in his exegesis of the surah; as for the phrase «نُعيت إليّ نفسي» ("my own death has been announced to me"), the editor has not verified its wording or its authenticity, and the speaker cited it in meaning.
+[^2]: Editor's documentation: The speaker's statement that the surah was revealed at Minā during the Farewell Pilgrimage is reported as he said it, without attribution. As for the Prophet ﷺ being informed of the nearness of his death in this surah, it is established from Ibn ʿAbbās (may Allah be pleased with both of them) in Ṣaḥīḥ al-Bukhārī, in his exegesis of the surah; as for the phrase «نُعيت إليّ نفسي» ("my own death has been announced to me"), the editor has not verified its wording or its authenticity, and the speaker cited it in meaning.
 [^3]: Editor's documentation: Sūrat al-Shūrā, verse 48; and Sūrat Fāṭir, verse 23.
 [^4]: Editor's documentation: Sūrat al-Anʿām, verses 33–35. The speaker stopped at «فإن استطعت» ("then if you are able"), so the verse is not completed in the body.
 [^5]: Editor's documentation: Sūrat al-Kahf, verse 6.

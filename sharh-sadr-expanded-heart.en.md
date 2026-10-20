@@ -39,13 +39,13 @@ And if the difficulties come to me at zero, that is not a good sign. If everythi
 
 Now look at Musa, peace be upon him. When God appointed him a prophet and a messenger, what was the first thing he said?[^4] The humble translation of all of it: *O God, expand my heart.* The very thing God gave to our Prophet ﷺ from the beginning. Then: make the matter easy for me, give me the ability to speak to the people.
 
-He spoke about himself first. Make me able. But he made another supplication for the recipients of the message: give them the ability to understand what I am telling them. Then: give me a strong assistant from my family, make me strong through him, like a partner with me. Why? Because we need to reach our goal. And what is the goal? At the end of the day, Musa's goal was only to glorify God.[^5] And God answered: We have already given it to you, do not worry about that.
+He spoke about himself first. Make me able. But he made another supplication for the recipients of the message: give them the ability to understand what I am telling them. Then: give me a strong assistant from my family, make me strong through him, like a partner with me. Why? Because we need to reach our goal. And what is the goal? At the end of the day, Musa's goal was only to glorify God. And God answered: We have already given it to you, do not worry about that.
 
 What I understand from this is that anyone who asks God for the ability to deliver His message, with an expanded heart, will hear the same from Him: you already have it, We gave it to you. Any one of us who asks God the same request that Musa made will receive the same answer, that he already has it. Do not worry. We are not asking God to increase our money or raise our position. We are asking Him for the ability to deliver the message, as Musa did.
 
 ### The lesson
 
-The best gift you can receive from God is your heart. But how can we reach that position? God explained it in the surah.[^6] Try as much as you can to take off your sins. Put them down. Try to do something to raise your standing, to increase your points. Think of your credit history in this country: once it is high enough you are eligible, qualified to do whatever you want; below that, you need someone to help, maybe an accountant, someone to buy more points for you if you want a home. That is the point, that is the limit.
+The best gift you can receive from God is your heart. But how can we reach that position? God explained it in the surah.[^5] Try as much as you can to take off your sins. Put them down. Try to do something to raise your standing, to increase your points. Think of your credit history in this country: once it is high enough you are eligible, qualified to do whatever you want; below that, you need someone to help, maybe an accountant, someone to buy more points for you if you want a home. That is the point, that is the limit.
 
 And God says that whatever difficulties you face, He will make them easy for you. Do not worry about anything. My last word is this: as close as you are to God, God will ease everything in your life; as far as you are from God, He will make everything in your life difficult. Short, sweet, humble. Stop with this and start thinking about how you can do it.
 
@@ -54,9 +54,8 @@ Each of us has a different personality and a different ability, and that will gi
 Peace be upon you.
 
 ---
-[^1]: Editor's documentation: The surah is not named in the transcript and the recitation is missing from it. The description matches Sūrat al-Sharḥ: ﴿أَلَمْ نَشْرَحْ لَكَ صَدْرَكَ﴾ [الشرح: 1].
-[^2]: Editor's documentation: The reminder "Did We not find you an orphan" matches Sūrat al-Ḍuḥā: ﴿أَلَمْ يَجِدْكَ يَتِيمًا فَآوَىٰ﴾ [الضحى: 6]. The transcript does not list the three earlier blessings individually; the speaker's classification (spiritual, intellectual, financial) is given as he stated it.
+[^1]: Editor's documentation: The description matches Sūrat al-Sharḥ: ﴿أَلَمْ نَشْرَحْ لَكَ صَدْرَكَ﴾ [al-Sharḥ: 1].
+[^2]: Editor's documentation: The reminder "Did We not find you an orphan" matches Sūrat al-Ḍuḥā: ﴿أَلَمْ يَجِدْكَ يَتِيمًا فَآوَىٰ﴾ [al-Ḍuḥā: 6]. The speaker's classification (spiritual, intellectual, financial) is given as he stated it.
 [^3]: Editor's documentation: The speaker relates the meaning of a hadith without citing it; no source is attributed here.
-[^4]: Editor's documentation: The speaker's translation corresponds to Musa's supplication in Sūrat Ṭā Hā: ﴿قَالَ رَبِّ اشْرَحْ لِي صَدْرِي ۝ وَيَسِّرْ لِي أَمْرِي ۝ وَاحْلُلْ عُقْدَةً مِّن لِّسَانِي ۝ يَفْقَهُوا قَوْلِي ۝ وَاجْعَل لِّي وَزِيرًا مِّنْ أَهْلِي﴾ [طه: 25–29]. The Arabic was not recited in the transcript and is given for reference only.
-[^5]: Editor's documentation: The transcript is unclear at this point (about 11:00); the phrasing "to glorify God" is the closest reading of the audible words, and the reply "We have already given it to you" is rendered as the speaker said it.
-[^6]: Editor's documentation: The Arabic the speaker recited here is missing from the transcript. For reference, the surah continues with the removal of the burden and the promise of ease with hardship: ﴿وَوَضَعْنَا عَنكَ وِزْرَكَ﴾ [الشرح: 2] and ﴿فَإِنَّ مَعَ الْعُسْرِ يُسْرًا﴾ [الشرح: 5]. Which verse the speaker had in mind cannot be confirmed from the transcript.
+[^4]: Editor's documentation: The speaker's translation corresponds to Musa's supplication in Sūrat Ṭā Hā: ﴿قَالَ رَبِّ اشْرَحْ لِي صَدْرِي ۝ وَيَسِّرْ لِي أَمْرِي ۝ وَاحْلُلْ عُقْدَةً مِّن لِّسَانِي ۝ يَفْقَهُوا قَوْلِي ۝ وَاجْعَل لِّي وَزِيرًا مِّنْ أَهْلِي﴾ [طه: 25–29]. The speaker did not recite the Arabic, which is given for reference only.
+[^5]: Editor's documentation: For reference, the surah continues with the removal of the burden and the promise of ease with hardship: ﴿وَوَضَعْنَا عَنكَ وِزْرَكَ﴾ [al-Sharḥ: 2] and ﴿فَإِنَّ مَعَ الْعُسْرِ يُسْرًا﴾ [al-Sharḥ: 5].

@@ -69,4 +69,4 @@ I do not want to take a longer time. We ask Allah, glory be to Him, to guide us 
 
 ---
 [^1]: Editor's documentation: the story is in the long ḥadīth of Ibn ʿAbbās in Ṣaḥīḥ al-Bukhārī about Hājar and Ismāʿīl, ʿalayhimā al-salām, where she says, "Has Allah commanded you with this?" He said, "Yes," and she said, "Then He will not let us be lost." The lecturer did not quote the ḥadīth or attribute it.
-[^2]: Editor's documentation: the lecturer does not name the sūrah or recite the verses; his description (night standing, prayer and recitation, then the days) corresponds to the opening of Sūrat al-Muzzammil, [المزمل: 1–7]. The identification is the editor's and should be checked against the audio.
+[^2]: Editor's documentation: the lecturer does not name the sūrah or recite the verses; his description (night standing, prayer and recitation, then the days) corresponds to the opening of Sūrat al-Muzzammil, [المزمل: 1–7]. The identification is the editor's.

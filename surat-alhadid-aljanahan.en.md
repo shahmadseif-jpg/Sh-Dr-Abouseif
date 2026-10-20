@@ -62,7 +62,7 @@ I ask Allah, Blessed and Exalted, to give us insight into what is before us, to 
 ---
 [^1]: Editor's documentation: Al-Ḥadīd: 16.
 [^2]: Editor's documentation: Al-Baqarah: 254.
-[^3]: Editor's documentation: Al-Ḥadīd: 18. The speaker's recitation of the verse was garbled in the transcript, and it is given here in its well-known text.
+[^3]: Editor's documentation: Al-Ḥadīd: 18.
 [^4]: Editor's documentation: Al-Ḥadīd: 19. The speaker gave the verse up to "and their light."
 [^5]: Editor's documentation: Al-Ḥadīd: 7, including "And those of you who believe and spend, for them will be a great reward."
 [^6]: Editor's documentation: Al-Ḥadīd: 8.

@@ -62,4 +62,4 @@ May Allah keep these hearts of ours sound for us and you, and make these minds o
 [^2]: Editor's documentation: Sūrat al-Naml, verses 59 and 60.
 [^3]: Editor's documentation: Sūrat al-Naml, verse 60.
 [^4]: Editor's documentation: Sūrat al-Naml, verse 18.
-[^5]: Editor's documentation: Sūrat al-Naml, verse 19. The speaker confined himself to this much of the supplication (and in the transcript he pronounced "niʿmata" with a cut-off ending).
+[^5]: Editor's documentation: Sūrat al-Naml, verse 19. The speaker confined himself to this much of the supplication.

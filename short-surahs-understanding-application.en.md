@@ -15,7 +15,7 @@ The first word describes something that comes from Allah, glory be to Him, from 
 
 ### The numbers game
 
-Allah speaks of what comes from His side, and then we, as much as we can, try to multiply what we already use through our days and nights. But for most people the main goal becomes the numbers. And Allah, glory be to Him, describes in the Quran a state of mind: a few words that together show someone parading himself before others, saying "Who are you? We are here, and we have." Each side sets itself against the other; it is a competition between two camps.[^2]
+Allah speaks of what comes from His side, and then we, as much as we can, try to multiply what we already use through our days and nights. But for most people the main goal becomes the numbers. And Allah, glory be to Him, describes in the Quran a state of mind: a few words that together show someone parading himself before others, saying "Who are you? We are here, and we have." Each side sets itself against the other; it is a competition between two camps.
 
 Allah, glory be to Him, is saying to them: What are you doing? What are you looking for? What are you counting on, your existence, your blessings, what you hold? The piling up of wealth in your hands has distracted you from the one way we must travel, the one goal we must reach, the one straight path. Otherwise we are distracted by a thousand things around us.
 
@@ -40,5 +40,4 @@ The main question, and then I will end: can we have money, or will we leave ever
 Allah gave us the chance to hold this world in our hands, even to be among the richest people. Don't worry about that. The point is whether we become slaves and servants of money, or whether we keep making money a servant for us.
 
 ---
-[^1]: Editor's documentation: The two Arabic words and the verses were missing from the transcript. The context (piling up, visiting the graves, "you will know", "you will surely see the Hellfire", being asked about blessings) points to Surat al-Kawthar and Surat al-Takathur. The verses are not quoted in the body because the transcript did not preserve them.
-[^2]: Editor's documentation: The intended passage is unclear in the transcript, so only its meaning is given, without the text of the verse.
+[^1]: Editor's documentation: The context (piling up, visiting the graves, "you will know", "you will surely see the Hellfire", being asked about blessings) points to Sūrat al-Kawthar and Sūrat al-Takāthur.

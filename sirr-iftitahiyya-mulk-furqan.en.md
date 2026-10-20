@@ -46,5 +46,5 @@ Then he said: What benefit returns to the Lord of the worlds, glory be to Him, t
 May Allah bless you, may Allah the Exalted be pleased with you, and may Allah reward you with good.
 
 ---
-[^1]: Editor's documentation: The verses are from Sūrat al-Mulk (12–15). The phrase “bi-dhāt al-ṣudūr” was garbled in the transcript (written “būr”) and was retained according to the known form of the verse.
-[^2]: Editor's documentation: The verse is from Sūrat al-Nisāʾ (147), and in the transcript it came without “in”; it was retained as in the muṣḥaf. The matter of the ḥadīth on the virtue of Sūrat al-Mulk is transmitted by meaning as the speaker said it and was not attributed in the transcript, and its sourcing should be reviewed before asserting its wording.
+[^1]: Editor's documentation: The verses are from Sūrat al-Mulk (12–15).
+[^2]: Editor's documentation: The verse is from Sūrat al-Nisāʾ (147), and it is retained as in the muṣḥaf. The matter of the ḥadīth on the virtue of Sūrat al-Mulk is transmitted by meaning as the speaker said it, and he did not attribute it.

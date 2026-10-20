@@ -73,14 +73,14 @@ But the seventh call to the believers in the Noble Qur'an is one in which the Lo
 [^5]: Editor's documentation: Sūrat al-Baqarah, verse 178; the speaker confined himself to the opening of the verse.
 [^6]: Editor's documentation: Sūrat al-Baqarah, verse 183.
 [^7]: Editor's documentation: Sūrat al-Baqarah, verse 208.
-[^8]: Editor's documentation: Sūrat al-Baqarah, verses 253 and 254. The transcript has «من بعده», and what is given here follows the spelling of the verse in the muṣḥaf.
+[^8]: Editor's documentation: Sūrat al-Baqarah, verses 253 and 254. What is given here follows the spelling of the verse in the muṣḥaf.
 [^9]: Editor's documentation: Sūrat al-Baqarah, verse 255 (Āyat al-Kursī).
-[^10]: Editor's documentation: Sūrat al-Baqarah, verse 256. The transcript has «من الغيب», and what is given here is «الغيّ» following the spelling of the verse.
+[^10]: Editor's documentation: Sūrat al-Baqarah, verse 256. What is given here is «الغيّ» following the spelling of the verse.
 [^11]: Editor's documentation: Sūrat at-Tawbah, verse 103.
 [^12]: Editor's documentation: Sūrat al-Baqarah, verse 257.
 [^13]: Editor's documentation: Sūrat al-Baqarah, verse 268.
 [^14]: Editor's documentation: Sūrat al-Baqarah, verse 258.
 [^15]: Editor's documentation: Sūrat al-Baqarah, verse 259.
-[^16]: Editor's documentation: Sūrat al-Baqarah, verse 260. The transcript has «قال إبراهيم رب أرني», and «وإذ» has been supplied following the spelling of the verse.
+[^16]: Editor's documentation: Sūrat al-Baqarah, verse 260. «وإذ» has been supplied following the spelling of the verse.
 [^17]: Editor's documentation: Sūrat al-Baqarah, verse 261.
-[^18]: Editor's documentation: Sūrat al-Baqarah, verse 263; the speaker did not complete the verse in a way that can be clearly understood from the transcript («غني عليم» appears), so only its opening has been given.
+[^18]: Editor's documentation: Sūrat al-Baqarah, verse 263; only its opening has been given.

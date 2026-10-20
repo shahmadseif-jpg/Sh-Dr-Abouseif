@@ -33,11 +33,10 @@ And the other example is in the methodology, and it truly needs a long lecture: 
 
 And so Abū Ayyūb al-Anṣārī, may Allah be pleased with him, and may Allah have mercy on all the Companions of the Prophet ﷺ, was told by his wife: Have you not seen what people are saying about ʿĀʾishah? Have you not heard the news? The world is ablaze and all of Madinah is talking about the matter, so what is your view? Tell us something, add something to this auction. And so it is with us: when a person's name comes up, we set up an auction over him in our midst, each adding something of his own and putting in his “certainties.” So he said to her just one sentence: Would you have done it? That is, if you were in her place, would you do what is being said? She said: Allah forbid. He said: She is purer and more innocent in my sight. And the matter ended.
 
-Glory be to the One who legislated this legislation for us! Sūrat al-Nūr needs a special reading and unhurried sessions. And how much we need training courses in the contents of legislation in the Noble Qur'an as the Qur'anic context presents it, away from what speech is stuffed with of the sayings of jurists and scholars; for the context alone, by Allah, shows you wonders.[^3]
+Glory be to the One who legislated this legislation for us! Sūrat al-Nūr needs a special reading and unhurried sessions. And how much we need training courses in the contents of legislation in the Noble Qur'an as the Qur'anic context presents it, away from what speech is stuffed with of the sayings of jurists and scholars; for the context alone, by Allah, shows you wonders.
 
 I will not take more of your time, and I ask Allah to bless us and you.
 
 ---
 [^1]: Editor's documentation: The speaker did not name the man, and the incident is the occasion of revelation of the verses of liʿān (al-Nūr: 6–9) as in the well-known reports; the speaker's account is by meaning, and he did not recite the verses.
 [^2]: Editor's documentation: The speaker alluded to the verse without reciting it in full; it is in Sūrat al-Nūr (24:16), and only what he uttered has been recorded from it. The story of Abū Ayyūb and his wife is narrated in the books of sīrah and tafsīr, and the dialogue form here is the speaker's.
-[^3]: Editor's documentation: The speaker's final statement is unclear in the transcript, and its wording here is an effort to understand it.

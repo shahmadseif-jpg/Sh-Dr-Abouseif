@@ -59,8 +59,8 @@ What position will I have on the Day of Judgment? What position do you want to h
 
 
 ---
-[^1]: Editor's documentation: The speaker seems to allude to the verse ﴿وَاعْلَمُوا أَنَّ فِيكُمْ رَسُولَ اللَّهِ﴾ [al-Ḥujurāt: 7]. The verse is not recited in the transcript, so this is an inference from the meaning.
-[^2]: Editor's documentation: An allusion to the opening of Sūrat al-Rūm (verses 1-4); the speaker does not recite it in the transcript.
-[^3]: Editor's documentation: The verse meant is probably ﴿وَمِنَ النَّاسِ مَن يَشْرِي نَفْسَهُ ابْتِغَاءَ مَرْضَاتِ اللَّهِ﴾ [al-Baqarah: 207], which fits the speaker's description; he does not recite it in the transcript.
+[^1]: Editor's documentation: The speaker seems to allude to the verse ﴿وَاعْلَمُوا أَنَّ فِيكُمْ رَسُولَ اللَّهِ﴾ [al-Ḥujurāt: 7].
+[^2]: Editor's documentation: An allusion to the opening of Sūrat al-Rūm (verses 1-4).
+[^3]: Editor's documentation: The verse meant is probably ﴿وَمِنَ النَّاسِ مَن يَشْرِي نَفْسَهُ ابْتِغَاءَ مَرْضَاتِ اللَّهِ﴾ [al-Baqarah: 207], which fits the speaker's description.
 [^4]: Editor's documentation: The speaker conveys the hadith by meaning and names no source. It is the well-known hadith of the last person to leave the Fire and the last to enter Paradise; the wording is not given here.
 [^5]: Editor's documentation: The speaker does not name the caliph; the context points to ʿUmar ibn al-Khaṭṭāb, may God be pleased with him, who directed that Ṣuhayb lead the people in prayer.
