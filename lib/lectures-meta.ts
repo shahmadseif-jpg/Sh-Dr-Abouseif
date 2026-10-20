@@ -1439,7 +1439,7 @@ export const lectureArticlesMeta: ArticleMeta[] = [
     date: { ar: "٢٥ يوليو ٢٠٢٦", en: "July 25, 2026" },
     readingMinutes: 6,
     title: { ar: "ضوابط الإيمان الذي يُورث العلوّ", en: "The Conditions of the Faith That Brings Supremacy" },
-    subtitle: { ar: "خاطرة الفجر | د. أحمد أبو سيف | 25 يوليو 2026 — ضوابط الإيمان الذي يُورث العلوّ", en: "Fajr Khatira | Dr. Ahmed Abouseif | July 25, 2026 — The Conditions of the Faith That Brings Supremacy" },
+    subtitle: { ar: "﴿وَأَنتُمُ الْأَعْلَوْنَ إِنْ كُنتُم مُّؤْمِنِينَ﴾: شروط الإيمان من الصبر والإنفاق ودروس بدر وأحد والأحزاب", en: "“You Will Be Superior If You Are Believers”: Conditions of Faith — Patience, Spending, and the Lessons of Badr, Uhud, and the Confederates" },
     excerpt: { ar: "خاطرة عن ضوابط الإيمان المورِث للعلو في سياق آل عمران، من بدر وأحد إلى الأحزاب، وأن الإنفاق والعفو والصبر مطلوبة من كل فرد بحسب طاقته.", en: "A khatira on the conditions of faith that yields supremacy, in the context of Al Imran, from Badr and Uhud to the Confederates, and that spending, pardoning, and patience are required of every individual according to capacity." },
   },
   {
@@ -1449,7 +1449,7 @@ export const lectureArticlesMeta: ArticleMeta[] = [
     date: { ar: "٢٤ يوليو ٢٠٢٦", en: "July 24, 2026" },
     readingMinutes: 5,
     title: { ar: "﴿لِّسَعْيِهَا رَاضِيَةٌ﴾ في سورة الغاشية", en: "'Pleased with Their Striving' in Surat al-Ghashiyah" },
-    subtitle: { ar: "خاطرة الفجر | د. أحمد أبو سيف | 24 يوليو 2026 — ﴿لِّسَعْيِهَا رَاضِيَةٌ﴾ في سورة الغاشية", en: "Fajr Khatira | Dr. Ahmed Abouseif | July 24, 2026 — \"Well pleased with their striving\" in Sūrat al-Ghāshiyah" },
+    subtitle: { ar: "وجوهٌ ناعمة وجنّة عالية: وصف الغاشية لأهل الجنة ونظرٌ في الإبل وتذكير بلا سيطرة", en: "Radiant Faces and a Lofty Garden: al-Ghāshiyah’s Portrait of the People of Paradise, the Camels, and Reminding Without Compulsion" },
     excerpt: { ar: "تأمل في ﴿لسعيها راضية﴾ في الغاشية: الرضا بالجهد لا بالنتيجة، ثم نعيم الجنة وآيات الإبل والسماء والجبال، وأن شأن الداعية التذكير لا الحكم على الضمائر.", en: "A reflection on \"pleased with their striving\" in al-Ghashiya: contentment with the effort, not the result, then the bliss of Paradise and the verses of the camel, the sky, and the mountains, and that the preacher's role is to remind, not to judge consciences." },
   },
   {
@@ -1459,7 +1459,7 @@ export const lectureArticlesMeta: ArticleMeta[] = [
     date: { ar: "٢٣ يوليو ٢٠٢٦", en: "July 23, 2026" },
     readingMinutes: 5,
     title: { ar: "«غافر» وحملة العرش", en: "'Ghāfir' and the Bearers of the Throne" },
-    subtitle: { ar: "خاطرة الفجر | د. أحمد أبو سيف | 23 يوليو 2026 — «غافر» وحملة العرش", en: "Fajr Khatira | Dr. Ahmed Abouseif | July 23, 2026 — \"Ghāfir\" and the Bearers of the Throne" },
+    subtitle: { ar: "غافر الذنب وقابل التوب: رحمة الله بعباده ودعاء الملائكة لحملة الإيمان", en: "Forgiver of Sin and Accepter of Repentance: God’s Mercy and the Angels’ Supplication for the Believers" },
     excerpt: { ar: "خاطرة في اسم «غافر» وصلته برحمة الأب وتأديبه، وشروط المغفرة، وحال الكافرين المجادلين، ودعاء حملة العرش للمؤمنين.", en: "A khatira on the name \"Ghafir\" and its link to a father's mercy and discipline, the conditions of forgiveness, the state of the disputing disbelievers, and the supplication of the bearers of the Throne for the believers." },
   },
   {
@@ -2429,7 +2429,7 @@ export const lectureArticlesMeta: ArticleMeta[] = [
     date: { ar: "٢٩ أكتوبر ٢٠٢٥", en: "October 29, 2025" },
     readingMinutes: 8,
     title: { ar: "لستُ مملوكًا بل خادمٌ باختياري: السير على الصراط المستقيم", en: "Not a Slave but a Servant by Choice: Walking the Straight Path" },
-    subtitle: { ar: "خاطرة العشاء | د. أحمد أبو سيف | 29 أكتوبر 2025 (الحلقة رقم 242)", en: "Isha Khatira | Dr. Ahmed Abou Seif | October 29, 2025 (series no. 242)" },
+    subtitle: { ar: "«الرب» مصدر الحماية: الفرق بين المملوك والخادم، والصراط المستقيم طريقًا سريعًا", en: "The “Lord” as Source of Protection: Slave Versus Servant, and the Straight Path as a Highway" },
     excerpt: { ar: "خاطرة عن الفرق بين «الله» و«الرب»، وبين العبد المقهور والعبد الذي يتبع الهداية باختياره، وعن الدين بوصفه الطريق الواحد الذي يسلكه المؤمن بلا التواءات. وتُوضَّح بالـGPS والطريق السريع وأبي بكر وإبراهيم حين ترك هاجر وإسماعيل في الصحراء.", en: "A khatira on the difference between Allah and Rabb, between a slave and a servant who follows guidance by choice, and on the din as the one route a believer takes without detours. Illustrated by the GPS, the highway, Abu Bakr, and Ibrahim leaving Hajar and Ismail in the desert." },
   },
   {
@@ -2439,7 +2439,7 @@ export const lectureArticlesMeta: ArticleMeta[] = [
     date: { ar: "٢٨ أكتوبر ٢٠٢٥", en: "October 28, 2025" },
     readingMinutes: 1,
     title: { ar: "إهمال القرآن إهمال من الله للعبد", en: "Neglecting the Qur'an Is Allah's Neglect of the Servant" },
-    subtitle: { ar: "خاطرة الفجر [ القرآن أولاً ] | د. أحمد أبو سيف | 28 أكتوبر 2025 (الرقم 243)", en: "Fajr Khatira [ The Qur'an First ] | Dr. Ahmed Abouseif | 28 October 2025 (No. 243)" },
+    subtitle: { ar: "﴿نَسُوا اللَّهَ فَنَسِيَهُمْ﴾: وقفة مع عبارة عن علامات إهمال العبد للقرآن، وآيات من سورة المزّمّل", en: "“They Forgot God, So He Forgot Them”: Reflecting on a Saying About Neglecting the Qur’an, with Verses from Sūrat al-Muzzammil" },
     excerpt: { ar: "وقفة عند عبارة: إهمال العبد للقرآن من علامات إهمال الله له، وتفكّر في أن القرآن هداية ورحمة ونور وشفاء وسبيل القرب. ثم تلاوة آيات من المزمل بلا شرح ظاهر في التفريغ.", en: "A pause at the saying: a servant's neglect of the Qur'an is among the signs of Allah's neglect of him, and a reflection that the Qur'an is guidance, mercy, light, healing, and the path to nearness. Then a recitation of verses from al-Muzzammil with no apparent explanation in the transcript." },
   },
   {
@@ -2449,7 +2449,7 @@ export const lectureArticlesMeta: ArticleMeta[] = [
     date: { ar: "٢٧ أكتوبر ٢٠٢٥", en: "October 27, 2025" },
     readingMinutes: 4,
     title: { ar: "آفاق قدرة الله: ماذا يُطلب منا بعد أن نسمع الآيات؟", en: "The Horizons of Allah's Power: What Is Asked of Us After We Hear the Verses?" },
-    subtitle: { ar: "خاطرة الفجر [ آفاق قدرة الله ] | د. أحمد أبو سيف | 27 أكتوبر 2025 (الرقم 244)", en: "Fajr Khatira [ The Horizons of Allah's Power ] | Dr. Ahmed Abouseif | 27 October 2025 (No. 244)" },
+    subtitle: { ar: "﴿فَالِقُ الْحَبِّ وَالنَّوَىٰ﴾: حقيقتان في الآيات، ولماذا تُعدَّد الأدلة، وما المطلوب منا اليوم", en: "“Splitter of the Grain and the Date-Stone”: Two Truths in the Verses, Why the Signs Are Enumerated, and What Is Asked of Us Today" },
     excerpt: { ar: "تأمل في آيات الأنعام عن فلق الحب والنوى وخلق الله: حقيقتان، ولا عذر يوم القيامة. ثم ثلاثة مطلوبات: التسبيح عند رؤية الخلق، وحفظ النعمة (إطفاء الأنوار)، والاستقامة تعلّمًا من انتظام الكون.", en: "A reflection on the verses of al-An'am about the splitting of grain and date-stone and Allah's creation: two truths, and no excuse on the Day of Resurrection. Then three requirements: glorifying Allah upon seeing creation, preserving blessing (turning off the lights), and uprightness learned from the order of the universe." },
   },
   {
@@ -2939,7 +2939,7 @@ export const lectureArticlesMeta: ArticleMeta[] = [
     date: { ar: "١٣ أغسطس ٢٠٢٤", en: "August 13, 2024" },
     readingMinutes: 5,
     title: { ar: "﴿اللَّهُ وَلِيُّ الَّذِينَ آمَنُوا﴾: ولاية الله للمؤمنين", en: "‹Allah Is the Ally of Those Who Believe›: Allah's Guardianship over the Believers" },
-    subtitle: { ar: "خاطرة الفجر | د. أحمد أبو سيف | 13 أغسطس 2024", en: "Fajr Khatira | Dr. Ahmed Abouseif | August 13, 2024" },
+    subtitle: { ar: "ما معنى أن يكون لك وليٌّ؟ ثلاثة نماذج في السياق: بذل الروح، والشبهة، وطلب مزيد من اليقين", en: "What Does It Mean to Have an Ally? Three Models in the Context: Giving One’s Life, Doubt, and the Wish for Greater Certainty" },
     excerpt: { ar: "ولاية الله للمؤمنين في آية البقرة وربط النماذج الثلاثة (محاجّة إبراهيم، المار على القرية، طلب الطمأنينة) بالإنفاق وآية الكرسي.\nويخلص إلى أن المؤمن يطلب مزيد اليقين، ومنه قيام الليل.", en: "Allah's guardianship (walāyah) of the believers in the verse of al-Baqarah, and linking the three models (Ibrāhīm's disputation, the one who passed by the village, the request for reassurance) with spending and Āyat al-Kursī.\nIt concludes that the believer seeks greater certainty, including through night prayer." },
   },
   {
@@ -2949,7 +2949,7 @@ export const lectureArticlesMeta: ArticleMeta[] = [
     date: { ar: "١٤ مايو ٢٠٢١", en: "May 14, 2021" },
     readingMinutes: 1,
     title: { ar: "بعد رمضان: اتباع الفريضة بالنافلة وصيام ست من شوال", en: "After Ramadan: Following the Obligatory with the Voluntary, and Fasting Six Days of Shawwāl" },
-    subtitle: { ar: "خاطرة الفجر | د. أحمد أبو سيف | 14 مايو 2021", en: "Fajr Khatira | Dr. Ahmed Abouseif | May 14, 2021" },
+    subtitle: { ar: "متابعة الفريضة بالنافلة: علامة قبول الطاعة وفضل صيام ست من شوال", en: "Following the Obligatory with the Voluntary: A Sign of Accepted Worship and the Merit of Six Days of Shawwāl" },
     excerpt: { ar: "اتباع صيام رمضان بست من شوال علامةٌ على قبول الطاعة ومحبتها وإقبال القلب عليها.\nخاطرة فجر قصيرة بعد رمضان 1442.", en: "Following Ramadan fasting with six days of Shawwāl is a sign of the acceptance of obedience, of loving it, and of the heart's turning toward it.\nA short Fajr reflection after Ramadan 1442." },
   },
   {
@@ -2959,7 +2959,7 @@ export const lectureArticlesMeta: ArticleMeta[] = [
     date: { ar: "١٢ مايو ٢٠٢١", en: "May 12, 2021" },
     readingMinutes: 14,
     title: { ar: "وقفات مع سورة يوسف: ابتلاء يعقوب بأبنائه وصبره", en: "Reflections on Sūrat Yūsuf: Yaʿqūb's Trial with His Sons and His Patience" },
-    subtitle: { ar: "خاطرة التهجد عن [ سورة يوسف ] | د. أحمد أبو سيف | رمضان 1442", en: "Tahajjud Khatira on [ Sūrat Yūsuf ] | Dr. Ahmed Abouseif | Ramadan 1442" },
+    subtitle: { ar: "رجلٌ مبتلى بعياله: سوء ظن الإخوة وحسن ظن يوسف وتربية يعقوب عليهم السلام", en: "A Man Tried Through His Children: the Brothers’ Suspicion, Yūsuf’s Good Opinion, and Yaʿqūb’s Upbringing" },
     excerpt: { ar: "تأمل في سورة يوسف من زاوية التربية عند يعقوب عليه السلام: الحوار مع الأبناء، وتعليل الأمر والنهي، والحذر المتوازن مع الأمل، والمراقبة الذاتية، والاطمئنان إلى علم الله وحكمته.\nتنتهي الخاطرة بدعاء التهجد.", en: "A reflection on Surat Yūsuf from the angle of Yaʿqūb's upbringing, peace be upon him: dialogue with children, giving reasons for commands and prohibitions, balanced caution with hope, self-monitoring, and reassurance in Allah's knowledge and wisdom.\nThe reflection ends with a night-prayer supplication." },
   },
   {
@@ -3239,7 +3239,7 @@ export const lectureArticlesMeta: ArticleMeta[] = [
     date: { ar: "٢٢ يوليو ٢٠٢٦", en: "July 22, 2026" },
     readingMinutes: 5,
     title: { ar: "أولو الألباب: الذين يُحسنون الاستماع فيتبعون أحسنه", en: "Those of Understanding: Who Listen Well and Follow the Best of It" },
-    subtitle: { ar: "خاطرة الفجر | د. أحمد أبو سيف | 22 يوليو 2026 | AIA", en: "Fajr Khatira | Dr. Ahmed Abouseif | 22 July 2026 | AIA" },
+    subtitle: { ar: "﴿يَسْتَمِعُونَ الْقَوْلَ فَيَتَّبِعُونَ أَحْسَنَهُ﴾: الأذن الواعية، والفاعل هو الله، وكم من قول نسمعه ولا نتعظ به", en: "“Who Listen to the Word and Follow the Best of It”: the Attentive Ear, God as the Agent, and the Words We Hear Without Heeding" },
     excerpt: { ar: "من سورة الزمر: أولو الألباب الذين يستمعون القول فيتبعون أحسنه، وكيف يكون الخاطر وصفةً من الله، وأن القنوت ملازمٌ للعلم الحق.", en: "From Sūrat al-Zumar: those of understanding who listen to speech and follow the best of it, how a passing thought can be a prescription from Allah, and how humble devotion accompanies true knowledge." },
   },
   {
@@ -3249,7 +3249,7 @@ export const lectureArticlesMeta: ArticleMeta[] = [
     date: { ar: "١٤ مايو ٢٠٢٦", en: "May 14, 2026" },
     readingMinutes: 4,
     title: { ar: "لا عذر في التثبّط: قوة النفس قبل العُدّة", en: "No Excuse for Holding Back: Strength of Soul Before Equipment" },
-    subtitle: { ar: "خاطرة الفجر | د. أحمد أبو سيف | 14 مايو 2026 | AIA", en: "Fajr Khatira | Dr. Ahmed Abouseif | 14 May 2026 | AIA" },
+    subtitle: { ar: "﴿انْفِرُوا خِفَافًا وَثِقَالًا﴾: لا عذر لأحد؛ الجندي في المعركة والانبعاث مسألة نفس", en: "“March Forth, Light and Heavy”: No Excuse for Anyone — the Soldier in Battle and Setting Out as a Matter of the Soul" },
     excerpt: { ar: "من سورة التوبة: لا عذر في التخلف عن النفير يسرًا أو عسرًا، فالانبعاث مسألة نفس قبل أن يكون مسألة عُدّة، ولا يُلتفت لمن تخلّف.", en: "From Sūrat al-Tawbah: there is no excuse for holding back from the call to march, in ease or hardship; rising to it is a matter of the soul before it is a matter of equipment, and one does not look back at those who hold back." },
   },
   {
@@ -3259,7 +3259,7 @@ export const lectureArticlesMeta: ArticleMeta[] = [
     date: { ar: "٦ مايو ٢٠٢٢", en: "May 6, 2022" },
     readingMinutes: 10,
     title: { ar: "غاية الإنسان ومقامه من قصة آدم في البقرة", en: "Man's Purpose and Station from the Story of Adam in al-Baqarah" },
-    subtitle: { ar: "الخواطر القرآنية بعد الفجر | سورة البقرة 26–39 | د. أحمد أبو سيف | 6 مايو 2022", en: "Qur'anic Reflections After Fajr | Sūrat al-Baqarah 26–39 | Dr. Ahmed Abouseif | 6 May 2022" },
+    subtitle: { ar: "غاية الوجود ومقام الإنسان وأربعة دروس من قصة آدم، وخروجه من الجنة وسبب ذكر بني إسرائيل بعده", en: "The Purpose of Existence and Man’s Station: Four Lessons from Adam’s Story, His Leaving Paradise, and Why Banū Isrāʾīl Follow" },
     excerpt: { ar: "من البقرة 26–39: غاية الإنسان إصلاح الأرض وإحياء مواتها، ومقامه الأعلى بالإيمان والعلم، ومصايد الشيطان على قدر المقام، وجنة آدم تدريبًا مؤقتًا.", en: "From al-Baqarah 26–39: man's purpose is to set the earth right and revive its dead land, his highest station is through faith and knowledge, Satan's snares are set to the measure of that station, and Adam's Garden was a temporary training." },
   },
   {
@@ -3279,7 +3279,7 @@ export const lectureArticlesMeta: ArticleMeta[] = [
     date: { ar: "٦ ديسمبر ٢٠١٦", en: "December 6, 2016" },
     readingMinutes: 6,
     title: { ar: "الدنيا تُترك بغتة: ما نقدّمه قبل الخطو", en: "The World Is Left Suddenly: What We Send Ahead Before the Step" },
-    subtitle: { ar: "خاطرة | د. أحمد أبو سيف | 6 ديسمبر 2016 | مسجد أورليانز، لويزيانا", en: "Khatira | Dr. Ahmed Abouseif | 6 December 2016 | Orleans Masjid, Louisiana" },
+    subtitle: { ar: "«قدِّر لرجلك قبل الخطو موضعها»: مثل الحياة الدنيا، والموت بغتةً، وقصة الرجل عند سليمان عليه السلام", en: "“Place Your Foot Before You Step”: the Parable of Worldly Life, Death Without Warning, and the Man Before Sulaymān" },
     excerpt: { ar: "الدنيا كالنبات يزهو ثم يُحصد بغتة، والموت يأتي بلا إنذار فنتمنى مهلة لم نغتنمها، وقصة الرجل عند سليمان عليه السلام. وتختم بمثل «قدّر لرجلك قبل الخطو موضعها» ووزن الأعمال بميزان الله.", en: "This world is like vegetation that flourishes and is suddenly harvested, and death comes without warning so that we wish for a respite we did not seize; the story of the man with Sulaymān, peace be upon him; and it closes with the proverb «Measure where your foot will land before you step» and the weighing of deeds in Allah's balance." },
   },
   {
@@ -3289,7 +3289,7 @@ export const lectureArticlesMeta: ArticleMeta[] = [
     date: { ar: "٢٠ أبريل ٢٠١٥", en: "April 20, 2015" },
     readingMinutes: 1,
     title: { ar: "النية والعمل: ما ينظر الله إليه من المؤمن", en: "Intention and Deed: What Allah Looks At in the Believer" },
-    subtitle: { ar: "خاطرة [ مجالس الذكر ] | د. أحمد أبو سيف | 20 أبريل 2015", en: "Khatira [ Gatherings of Remembrance ] | Dr. Ahmed Abouseif | 20 April 2015" },
+    subtitle: { ar: "«إن الله لا ينظر إلى أجسامكم ولا إلى صوركم»: النية في القلب والعمل الذي يثمر", en: "“God Does Not Look at Your Bodies or Your Forms”: Intention in the Heart and the Deed That Bears Fruit" },
     excerpt: { ar: "حديث أبي هريرة «إن الله لا ينظر إلى أجسامكم ولا إلى صوركم…»: النية والعمل لا يستغني أحدهما عن الآخر، والمؤمن خليفة عمارة وإصلاح. يختم بدعاء بصلاح النيات والأعمال.", en: "On the hadith of Abū Hurayrah «Allah does not look at your bodies or your forms…»: intention and deed cannot do without each other, and the believer is a steward of building and setting right; it closes with a supplication for sound intentions and deeds." },
   },
 ];
