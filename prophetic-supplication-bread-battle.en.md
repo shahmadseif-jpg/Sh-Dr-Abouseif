@@ -23,7 +23,7 @@ And the Prophet ﷺ teaches us here: calm down a little. Before you move a hand 
 
 We have spoken before about this supplication, which is that the Prophet ﷺ teaches us to seek refuge in Allah from error in conduct, from error in conception, from error in assessment, and from error in reaction. So I seek refuge in Allah first from erring in my conduct, so that no evil ever issues from me. Then come the mind's conceptions about what I do and what I accomplish, then comes my own assessment of things or others' assessment of them, then the reaction that issues from it.
 
-And what the Prophet intended behind this is that the Prophet ﷺ wants nothing from the world that day except to be safe; he wants nothing more than to come out safe himself. He enters the crowd of life and the battle of the world, and competes with people for provisions, but returns unharmed. And not only he is safe, but others are safe along with him too; he is not harmed by anyone, and he harms no one among the people.
+And what the Prophet intended behind this is that the Prophet ﷺ wants nothing from the world that day except to be safe; he wants nothing more than to come out safe himself. He enters the crowd of life and the battle of the world, and competes with people for provisions, but returns unharmed. And not only is he safe, but others are safe along with him too; he is not harmed by anyone, and he harms no one among the people.
 
 ### The Angel Who Stamps Your Passport
 

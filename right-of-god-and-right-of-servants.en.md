@@ -9,9 +9,9 @@ readingMinutes: 16
 > Occasion: A transcription of a lecture delivered on October 6, 2017, in which Dr. Ahmed Abouseif returned to the discussion of the ḥadīth after some brothers asked him to explain it in detail
 > Source: A transcription of a video lecture by Dr. Ahmed Abouseif — [Watch the original video on YouTube](https://www.youtube.com/watch?v=6VqlvcaeNa0)
 
-After praising Allah and invoking blessings on His Prophet ﷺ, the lecturer prayed that Allah gather those present in His house upon obedience to Him, then gather them in Paradise, that He write their time in the scales of their good deeds, make their deeds sincerely for His sake, prepare for them right guidance in their affair, and preserve for them the soundness of their hearts, the security of their souls and the safety of their chests.
+After praising Allah and invoking blessings on His Prophet ﷺ, we open with a supplication: that Allah gather those present in His house upon obedience to Him, then gather them in Paradise, that He write their time in the scales of their good deeds, make their deeds sincerely for His sake, prepare for them right guidance in their affair, and preserve for them the soundness of their hearts, the security of their souls and the safety of their chests.
 
-Then he said: We had spoken some days ago, at a gathering of condolence, about the ḥadīth of the Prophet ﷺ on the right of Allah over the servants and the right of the servants over Allah, and some brothers asked that we return to it, so I wanted to go into some detail on it on this blessed night.
+Then the lecturer said: We had spoken some days ago, at a gathering of condolence, about the ḥadīth of the Prophet ﷺ on the right of Allah over the servants and the right of the servants over Allah, and some brothers asked that we return to it, so I wanted to go into some detail on it on this blessed night.
 
 ### The Ḥadīth in Its Narrations
 

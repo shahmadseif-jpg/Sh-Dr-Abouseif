@@ -9,7 +9,7 @@ readingMinutes: 3
 > Occasion: Transcription of a Fajr khatira delivered on 7 September 2026   
 > Source: A transcription of a video khatira by Dr. Ahmed Abouseif — [Watch the original video on YouTube](https://www.youtube.com/watch?v=hSrArgh0_Ws)
 
-The Doctor opened his khatira with blessings upon our master and Prophet Muḥammad ﷺ, and upon his family and Companions, and then supplicated: O Allah, we ask You for well-being in our first things and our last, and we ask You for concealment in all our affairs, and we ask You to preserve for us what You have entrusted to us of good. O Allah, amen, O Lord of the worlds.
+We open with blessings upon our master and Prophet Muḥammad ﷺ, and upon his family and Companions, and then with a supplication: O Allah, we ask You for well-being in our first things and our last, and we ask You for concealment in all our affairs, and we ask You to preserve for us what You have entrusted to us of good. O Allah, amen, O Lord of the worlds.
 
 Glory be to Allah! You hear in the recitation the Lord of the worlds, Glory be to Him, teaching His Prophet ﷺ to supplicate by saying: ﴿رَبِّ فَلَا تَجْعَلْنِي فِي الْقَوْمِ الظَّالِمِينَ﴾ (“My Lord, do not place me among the wrongdoing people”).[^1] And people look at this sentence and one of them imagines that a person must be joined to an army, or a banner, or a ruler in order to be among the wrongdoing people. But the prohibition is broader than that: there is individual wrongdoing and there is societal wrongdoing; a person's wronging of himself, his wronging of his household, his wronging of his neighbors, and his wronging of those around him. And the picture that comes to mind is that you seize money or something material from people, but the kinds of wrongdoing are many.
 

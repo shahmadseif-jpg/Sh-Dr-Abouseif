@@ -19,7 +19,7 @@ But the problem is that you see souls denying kindness and knowing no path to af
 
 ### The Question Is Wrong
 
-The answer is that the question is wrong. Why? Because people never are pleased, never. People will never be pleased with you. For that reason our master the Prophet, peace and blessings be upon him, used to supplicate Allah, Blessed and Exalted, to grant him a sound heart and a truthful tongue.[^2] As for human beings, that is not the subject.
+The answer is that the question is wrong. Why? Because people are never pleased, never. People will never be pleased with you. For that reason our master the Prophet, peace and blessings be upon him, used to supplicate Allah, Blessed and Exalted, to grant him a sound heart and a truthful tongue.[^2] As for human beings, that is not the subject.
 
 When we stand before Allah, glory be to Him, the Exalted, on the Day of Resurrection, will He ask me about what I did, or will He ask me about people's evaluation of what I did? What do you think? Will Allah, Blessed and Exalted, ask me about what came from me, or about how people saw me and judged me and mistreated my kindness? How will He, glory be to Him, see me? How will He judge my deed? He will judge what I myself did. Hence a person should not await praise from people. And the loser is the one who does something so that people will praise him, so that creation will commend him.
 

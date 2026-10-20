@@ -41,7 +41,7 @@ So while you say: O Lord, from where do I get such-and-such? Provide for me, ope
 
 So the point is that the Lord of the worlds, glory be to Him, warned us against feeling that we are owners of dominion, and taught us that what is in our hands is a trust: we gather it from where He wants for us, and we place it again where He wants for us, so gain insight into what lies between. I will not prolong it for you.
 
-I ask Allah, blessed and exalted, to bless us in this noble day, and to provide us in it from His bounty with lawful, good provision, blessed in it, and to let us enjoy our hearing, our sight, and our strength as long as He keeps us alive, and to bless us in what He has placed in our hands, and we seek refuge in Allah, Mighty and Majestic, from being stripped after being given, and from being cut off after being supplied, glory be to Him.
+I ask Allah, blessed and exalted, to bless us on this noble day, and to provide us in it from His bounty with lawful, good provision, blessed in it, and to let us enjoy our hearing, our sight, and our strength as long as He keeps us alive, and to bless us in what He has placed in our hands, and we seek refuge in Allah, Mighty and Majestic, from being stripped after being given, and from being cut off after being supplied, glory be to Him.
 
 ---
 [^1]: Editor's documentation: Sūrat al-Qalam, verse 17; the speaker recited after it «ولا يستثنون» ("and they make no exception"), which is from verse 18, and it was not recorded in the body.

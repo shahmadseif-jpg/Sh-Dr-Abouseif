@@ -57,7 +57,7 @@ Allah also tells us the story of a father counselling his son. There is a word f
 
 ### Conclusion
 
-The conclusion of my speech for you and me today: give a time for your children. They are the most important thing in our lives. If we lose them, we lose everything. If you have an after-school program here, don't miss it. Let your children come back to the masjid. Even if they gain only a little from the Quran, they will come back with tranquility. They will come back affected by the masjid, with the taste of sujud. The imam, or the sheikh, or the teacher, or whoever is dealing with them, will say words of Allah subhanahu wa ta'ala to them, and they will have that environment.
+The conclusion of my speech for you and me today: give time to your children. They are the most important thing in our lives. If we lose them, we lose everything. If you have an after-school program here, don't miss it. Let your children come back to the masjid. Even if they gain only a little from the Quran, they will come back with tranquility. They will come back affected by the masjid, with the taste of sujud. The imam, or the sheikh, or the teacher, or whoever is dealing with them, will say words of Allah subhanahu wa ta'ala to them, and they will have that environment.
 
 I don't want to take long, but please give time to your children. Don't say "I have an excuse." If you lose them, you lose everything. They are more important than your work. Please do something, and do not let them drift away from you.
 

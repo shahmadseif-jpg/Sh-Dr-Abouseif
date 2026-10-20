@@ -13,7 +13,7 @@ Tonight, the lecturer said, we are going to speak about the fifth call that Alla
 
 The first call came with the command to fulfill your promises, your agreement with Allah. The second said not to break the words you gave to Allah, and not to attack what Allah has made the rules for. The third came as a kind of example of fulfilling the covenant between you and Allah. As for the fourth… then comes the fifth.[^1]
 
-Then he gave the translation of the verse, which he called clear: remember the blessings of Allah upon you.[^2] And what kind of blessing did Allah do for them? He is reminding them of a blessing that most people may not be thinking about.
+Then he gave the translation of the verse, which he called clear: remember the blessings of Allah upon you.[^2] And what kind of blessing did Allah grant them? He is reminding them of a blessing that most people may not be thinking about.
 
 ### Counting what we hold, and missing what we were spared
 
@@ -21,7 +21,7 @@ Usually we look at Allah's blessing according to how much we hold in our hands a
 
 But Allah is opening our minds to something that not everyone gives attention to. What is it? How many things Allah is protecting us from, and how many things He is giving us.
 
-The lecturer reminded the audience that he had explained this many times. He gave an example, and said plainly that it was only a random example. Suppose someone sees a provision coming to him, half a million, which is a good number. When I receive that amount and it is put into my account, I will be so happy that every single second I open the account to see whether it has increased. Then, in a crash, they take me to the hospital, and the hospital decides on one procedure after another, a long list, and the bill comes. But Allah knows. If He protected me from going to work that day, and so from receiving the half million, He has also protected me from paying a million, or more, or less.
+The lecturer reminded the audience that he had explained this many times. He gave an example, and said plainly that it was only a random example. Suppose someone sees a provision coming to him, half a million, which is a good number. When I receive that amount and it is put into my account, I will be so happy that every single second I open the account to see whether it has increased. Then suddenly there is a crash, and they take me to the hospital, and the hospital decides on one procedure after another, a long list, and the bill comes. But Allah knows. If He protected me from going to work that day, and so from receiving the half million, He has also protected me from paying a million, or more, or less.
 
 Think of the difference between the man who received half a million and then met a crash or some problem and suffered from it, and the other man who is just sitting with nothing to do, weeping because he has nothing. He did not receive any amount, but he still has his body exactly as Allah created it. What is the way of thinking here? Allah is protecting us.
 
@@ -43,7 +43,7 @@ What is the main lesson? Allah knows better. You will never have the same knowle
 
 ### When someone plans against you
 
-The lecturer brought the point back to the verse. Someone came to attack the Prophet ﷺ, and Allah took their hands away. Imagine someone sitting right now, in this very moment, making a plan against you, wanting to take revenge or something of the kind. What is Allah doing there? Is Allah giving him the chance to do it, or is Allah keeping him away from your way? As long as we are closer to Allah, Allah protects us. Whatever we receive is from Him, and Allah knows better.
+The lecturer brought the point back to the verse. A people came to attack the Prophet ﷺ, and Allah held back their hands. Imagine someone sitting right now, in this very moment, making a plan against you, wanting to take revenge or something of the kind. What is Allah doing there? Is Allah giving him the chance to do it, or is Allah keeping him away from your way? As long as we are closer to Allah, Allah protects us. Whatever we receive is from Him, and Allah knows better.
 
 He ended with a prayer: I ask Allah to protect our faith.
 

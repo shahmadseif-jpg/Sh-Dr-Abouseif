@@ -9,7 +9,7 @@ readingMinutes: 14
 > Occasion: A transcription of a lecture delivered on December 7, 2016
 > Source: A transcription of a video lecture by Dr. Ahmed Abouseif — [Watch the original video on YouTube](https://www.youtube.com/watch?v=C1Tifpm_VoY)
 
-Dr. Ahmed began by asking Allah to gather those present in Paradise just as He gathered them in this world upon obedience to Him, and he repeated the supplication: O Allah, we ask You to gather us in the Gardens of Bliss. He recalled what he had said the night before: that we did not come to this blessed land, with all the people of goodness, remembrance and obedience in it, except to leave behind us good deeds that will testify for us before Allah, Blessed and Exalted, and he asked Allah to record our steps in the scale of our good deeds.
+We open with a supplication: that Allah gather those present in Paradise just as He gathered them in this world upon obedience to Him. Dr. Ahmed repeated the supplication: O Allah, we ask You to gather us in the Gardens of Bliss. He recalled what he had said the night before: that we did not come to this blessed land, with all the people of goodness, remembrance and obedience in it, except to leave behind us good deeds that will testify for us before Allah, Blessed and Exalted, and he asked Allah to record our steps in the scale of our good deeds.
 
 The title of the evening: the Prophet's ﷺ guidance in his treatment of the people of his household. And the first thing he wanted to open his talk with was a question: why do we follow the Messenger ﷺ? Why do we trace his footsteps, look at what he did, and try to imitate him?
 
@@ -133,7 +133,7 @@ Then he said: and the criteria that the Prophet ﷺ set... send blessings upon h
 
 ﴿الرِّجَالُ قَوَّامُونَ عَلَى النِّسَاءِ﴾ (Men are the caretakers of women)
 
-And he said jokingly: «Keep it to yourself, and don't say it, because it will harm you.» And he asked himself how it would harm him. Then he said: calm down a bit. You know "qawwām" is an intensive form of "qiyām" (standing), so what is the meaning of standing? It means you are standing waiting for the lady's orders! «Yes, by Almighty Allah», and unfortunately we discovered this matter after… «Oh calamity!» Then he said: didn't I tell you not to say it? I told you don't bring up this verse. Is anyone here whose wife is present? And there are those recording live.
+And he said jokingly: «Keep it to yourself, and don't say it, because it will harm you.» And he asked himself how it would harm him. Then he said: calm down a bit. You know "qawwām" is an intensive form of "qiyām" (standing), so what is the meaning of standing? It means you are standing waiting for the lady's orders! «Yes, by Almighty Allah», and unfortunately we discovered this matter after… «Oh calamity!» Then he said: didn't I tell you not to say it? I told you don't bring up this verse. Is there anyone here whose wife is present? And there are those recording live.
 
 And he returned to seriousness: so when you hear "Men are the caretakers of women" lower your voice as you say this verse, and don't let your wife hear it in the house, so she says to you: attention! By whose order? By the order of the Lord of the worlds! Then he explained the meaning: why? Because you are the one entrusted with this home, and you are the shepherd of this home, and you are the guarantor of this home…
 

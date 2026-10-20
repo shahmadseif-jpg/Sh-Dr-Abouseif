@@ -11,11 +11,11 @@ readingMinutes: 6
 
 > Note on the text: the automatic transcript of this lecture is badly damaged. Much of it is a repeated phrase and a good part of the English commentary is cut into fragments. Only what could be heard with confidence is set down here, and nothing has been added to fill the gaps.
 
-He opened with the blessings upon the Prophet ﷺ and a supplication: «اللَّهُمَّ إِنَّا نَسْأَلُكَ خَيْرَ هَذِهِ اللَّيْلَةِ وَخَيْرَ مَا فِيهَا وَخَيْرَ مَا بَعْدَهَا، وَنَعُوذُ بِكَ رَبَّنَا مِنْ شَرِّ هَذِهِ اللَّيْلَةِ وَشَرِّ مَا فِيهَا وَشَرِّ مَا بَعْدَهَا. اللَّهُمَّ أَصْلِحْ لَنَا دِينَنَا وَدُنْيَانَا وَآخِرَتَنَا، وَهَيِّئْ لَنَا مِنْ أَمْرِنَا رَشَدًا، وَبَارِكِ اللَّهُمَّ لَنَا فِيمَا رَزَقْتَنَا، وَقِنَا اللَّهُمَّ عَذَابَ النَّارِ. اللَّهُمَّ آمِينَ يَا رَبَّ الْعَالَمِينَ».
+We open with the blessings upon the Prophet ﷺ and a supplication: «اللَّهُمَّ إِنَّا نَسْأَلُكَ خَيْرَ هَذِهِ اللَّيْلَةِ وَخَيْرَ مَا فِيهَا وَخَيْرَ مَا بَعْدَهَا، وَنَعُوذُ بِكَ رَبَّنَا مِنْ شَرِّ هَذِهِ اللَّيْلَةِ وَشَرِّ مَا فِيهَا وَشَرِّ مَا بَعْدَهَا. اللَّهُمَّ أَصْلِحْ لَنَا دِينَنَا وَدُنْيَانَا وَآخِرَتَنَا، وَهَيِّئْ لَنَا مِنْ أَمْرِنَا رَشَدًا، وَبَارِكِ اللَّهُمَّ لَنَا فِيمَا رَزَقْتَنَا، وَقِنَا اللَّهُمَّ عَذَابَ النَّارِ. اللَّهُمَّ آمِينَ يَا رَبَّ الْعَالَمِينَ».
 
 ### What did Allah say about marriage?
 
-Then he put the question: what did Allah say about marriage as a matter? And he went to Sūrat al-Rūm. He recited the verse, and recited it again:
+Then the lecturer put the question: what did Allah say about marriage as a matter? And he went to Sūrat al-Rūm. He recited the verse, and recited it again:
 
 ﴿وَمِنْ آيَاتِهِ أَنْ خَلَقَ لَكُم مِّنْ أَنفُسِكُمْ أَزْوَاجًا لِّتَسْكُنُوا إِلَيْهَا وَجَعَلَ بَيْنَكُم مَّوَدَّةً وَرَحْمَةً ۚ إِنَّ فِي ذَٰلِكَ لَآيَاتٍ لِّقَوْمٍ يَتَفَكَّرُونَ﴾ [al-Rūm]
 

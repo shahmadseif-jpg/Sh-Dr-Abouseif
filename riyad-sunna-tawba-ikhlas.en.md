@@ -53,7 +53,7 @@ So the Qur'anic address ﴿وَتُوبُوا إِلَى اللَّهِ جَمِ
 
 A brother asks me and says: Yesterday I was hearing your chest making a whistling sound in the prayer, so I made dua for you in my prostration. What a feeling! Where are we from this wonderful, beautiful feeling, that you see a brother of yours say: I made dua for you in my prostration when I heard something of an imbalance in your body? Will my reaction be to say to him: You are monitoring me? What made you strain your ear toward me? No, because the monitoring here occurred with the intention of following the conditions and developments and reassurance and more help.
 
-And when someone enters upon you and you say to him: How are you? How is your wife and children? And how is your father? He senses this companionship. And society moves in this way. So when we see the collective address in the Noble Qur'an we see that we are before a system that wants to move a lateral movement, that makes the whole world move along together. And imagine a car moving on three wheels while the fourth wheel comes behind it at a second stage; that does not work, either all of it stops or all of it moves.
+And when someone enters upon you and you say to him: How are you? How are your wife and children? And how is your father? He senses this companionship. And society moves in this way. So when we see the collective address in the Noble Qur'an we see that we are before a system that wants to move a lateral movement, that makes the whole world move along together. And imagine a car moving on three wheels while the fourth wheel comes behind it at a second stage; that does not work, either all of it stops or all of it moves.
 
 ### Why Does the Prophet ﷺ Seek Forgiveness?
 

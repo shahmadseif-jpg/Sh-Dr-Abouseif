@@ -35,9 +35,9 @@ The second point: Islam asks me to protect my children by choosing a good mother
 
 ### During married life
 
-Then comes the married life itself. If there is constant fighting between me and my spouse, on both sides, who is the first to be affected? The first victim is the children. They watch a ridiculous relationship between two people who cannot live together. And when the child grows older and sees his father careless about his mother, he begins to doubt the religion itself: what kind of religion makes these two people treat each other this way?
+Then comes the married life itself. If there is constant fighting between me and my spouse, on both sides, who is the first to be affected? The first victims are the children. They watch a ridiculous relationship between two people who cannot live together. And when the child grows older and sees his father careless about his mother, he begins to doubt the religion itself: what kind of religion makes these two people treat each other this way?
 
-But if there is harmony, and the couple makes an umbrella of contentment that shades the children, they become satisfied enough to face any problem in the future. I am protecting them from within: spiritually, mentally and physically. That is the relationship between the spouses.
+But if there is harmony, and the couple makes an umbrella of contentment that shades the children, they become secure enough to face any problem in the future. I am protecting them from within: spiritually, mentally and physically. That is the relationship between the spouses.
 
 So what are the rules? What does God ask of me here? To live together in a good way, with kindness. If you dislike something in the other side, God said:
 

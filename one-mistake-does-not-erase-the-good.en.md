@@ -47,13 +47,13 @@ The man in our story did damage to the community, and whatever the Prophet ﷺ m
 
 First: whatever you do, do it for the sake of God, subhanahu wa ta'ala, and for no one else. People forget what you have done, and they will come to reproach you over nothing, unless you make them a means of drawing nearer to God.
 
-Second: once you have a good man at your side, do not let him go. When you have good material, do not let it leave your sight. Sometimes I own a garment that is good fabric but irritates me, even teases me, and still, because it is good material, I keep wearing it and show it off. I do not let it go because the fabric is good. So what about the good material in people?
+Second: once you have a good man at your side, do not let him go. When you have good material, do not let it leave your sight. Sometimes I own a garment that is good fabric but irritates me, even hurts me, and still, because it is good material, I keep wearing it and show it off. I do not let it go because the fabric is good. So what about the good material in people?
 
 Look at the good in the people around you, and weigh them with God's eyes, not your own. I am speaking to myself as well: do not be moody when you look at people. "I don't like that fellow, because of his color, so I will close the door on him." What did the man do? Be fair with people, and be good first with God, then with them.
 
 Do not forget that whoever lives around you is part of God's creation. Nobody comes to stand next to you in prayer by himself. God guided him to that place and guided you to stand beside him; He placed you close together on purpose. The reason is in the hands of God, subhanahu wa ta'ala.
 
-If you have a wife, keep her close; if she is a good woman, you have no need to let her go anywhere else. If you have good children, raise them with better ways and better character, and spend on them as much as you can: not for the people's sake, but for God's sake.
+If you have a wife, keep her close; if she is a good woman, you have no need to let her go anywhere else. If you have good children, raise them in the best ways and with the best character, and spend on them as much as you can: not for the people's sake, but for God's sake.
 
 [^1]: Editor's documentation: The statement "my Companions are like the stars" is widely repeated, but hadith scholars generally regard its chain of transmission as weak, and some judge it fabricated; it is kept only as the speaker's report and should not be cited as an authentic hadith. The meaning that the Companions are exemplary is established by other evidence.
 [^2]: Editor's documentation: The speaker did not recite the verses here; the passage he refers to appears to be Surat al-Hashr (59:8-10). The wording follows his paraphrase only.

@@ -21,7 +21,7 @@ It is narrated in the ḥadīth of ʿAbd Allāh ibn Abī Awfā (may Allah be ple
 
 (There is no god but Allah, the Forbearing, the Generous. Glory be to Allah, Lord of the Mighty Throne. All praise is due to Allah, Lord of the worlds. I ask You for what makes Your mercy certain, for the firm resolves of Your forgiveness, for protection from every sin, for the gain of every righteous deed, and for safety from every wrongdoing. Leave me no sin unless You forgive it, no anxiety unless You relieve it, and no need with which You are pleased unless You fulfil it, O Most Merciful of the merciful.)
 
-The speaker would pause at the wording of the supplication and repeat «أسألك موجبات رحمتك» and «عزائم مغفرتك» and «العصمة من كل ذنب» and «الغنيمة من كل بر» and «السلامة من كل إثم», and he supplicates Allah: O Most Merciful of the merciful, O Owner, O Omnipotent, O Magnificent One of the heavens and the earth, O Causer of causes.
+The speaker would pause at the wording of the supplication and repeat «أسألك موجبات رحمتك» and «عزائم مغفرتك» and «العصمة من كل ذنب» and «الغنيمة من كل بر» and «السلامة من كل إثم», and supplicate Allah: O Most Merciful of the merciful, O Owner, O Omnipotent, O Magnificent One of the heavens and the earth, O Causer of causes.
 
 ### The Supplication of Istikhāra
 

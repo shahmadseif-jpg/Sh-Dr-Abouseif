@@ -9,7 +9,7 @@ readingMinutes: 7
 > Occasion: Transcription of a Fajr khatira delivered on 9 June 2025   
 > Source: A transcription of a video khatira by Dr. Ahmed Abouseif — [Watch the original video on YouTube](https://www.youtube.com/watch?v=g-hNmkAqz_w)
 
-Dr. Ahmed Abouseif opened the khatira with a supplication in which he asked Allah for His good pleasure and Paradise, for steadfastness through the firm word in this worldly life and in the Hereafter, for pardon and well-being in religion, in this world and in the Hereafter, and that He turn away from us the causes of punishment through His mercy and good pleasure. Then he continued what he had begun yesterday.
+We open with a supplication in which we ask Allah for His good pleasure and Paradise, for steadfastness through the firm word in this worldly life and in the Hereafter, for pardon and well-being in religion, in this world and in the Hereafter, and that He turn away from us the causes of punishment through His mercy and good pleasure. Then we continue what we began yesterday.
 
 ### Supplication Is Seeking the Rain of the Creator's Mercy
 
@@ -19,7 +19,7 @@ Yesterday we said that the Prophet ﷺ was only seeking the rain of Allah's merc
 
 Yet here there is a question. Yesterday we mentioned an engaging story that the people of ḥadīth relate: that some of the Companions of the Prophet ﷺ were on a journey, and they stopped in a valley at the place of a people, and asked them for food, that is, asked them for something to eat, but they did not feed them. While they were so, the chief of that tribe fell ill, so they came to them and said: Do you have anything you can do for our companion? One of the Companions of the Prophet ﷺ said: I have something with which I can perform ruqyah for him, but I will not perform it unless you set a reward for us, that is, you assign us some payment. They said: We will give you so many sheep. So he went to him and recited over him Sūrat al-Fātiḥa.
 
-While they were taking what they had been promised, and the sheep had arrived, that reciter said: By Allah, none of us will draw a share until we return to the Messenger of Allah ﷺ and he tells us whether what we did is lawful or unlawful. And the matter is perfectly logical: we exercised our own judgement and performed this ruqyah for this man, and this is food we do not know whether it is lawful for us or not. Had they been fed out of sheer generosity, that would have been lawful, but now they had earned money, so is this earning from what is lawful or from what is not?
+While they were taking what they had been promised, and the sheep had arrived, that reciter said: By Allah, none of us will draw a share until we return to the Messenger of Allah ﷺ and he tells us whether what we did is lawful or unlawful. And the matter is perfectly logical: we exercised our own judgement and performed this ruqyah for this man, and this is food of which we do not know whether it is lawful for us or not. Had they been fed out of sheer generosity, that would have been lawful, but now they had earned money, so is this earning from what is lawful or from what is not?
 
 So they returned to the Messenger of Allah ﷺ, and he asked them: And how did you know that it is a ruqyah? Then he ﷺ took a share together with them in order to confirm for them the lawfulness of what they had taken from those people.
 

@@ -23,7 +23,7 @@ The answer is that Joseph, peace be upon him, was following the means; he was pr
 
 ### The Tightening of the Chest in the Prophet ﷺ
 
-The point is that the prophets are subject to what the rest of people are subject to: sometimes the soul of one of them tightens, or he turns to Allah, the Mighty and Majestic, in alarm. And our Lord, glory be to Him, the Exalted, tells the Prophet ﷺ in the Noble Qur'an that his chest tightens at what they say.[^2] So he, peace and blessings be upon him, is pained by what the disbelievers say about him and about the blessed call, and his Lord, glory be to Him, teaches him to glorify Allah and remember Him morning and evening, after every prayer and following every prostration, so that he treats by that, in his psyche, this tightness that afflicts him as a human being and as a mortal who is subject to what the rest of people are subject to.
+The point is that the prophets are subject to what the rest of people are subject to: sometimes the soul of one of them tightens, or he turns to Allah, the Mighty and Majestic, in alarm. And our Lord, glory be to Him, the Exalted, tells the Prophet ﷺ in the Noble Qur'an that his chest tightens at what they say.[^2] So he, peace and blessings be upon him, is pained by what the disbelievers say about him and about the blessed call, and his Lord, glory be to Him, teaches him to glorify Allah and remember Him morning and evening, after every prayer and following every prostration, so that he thereby treats, in his psyche, this tightness that afflicts him as a human being and as a mortal who is subject to what the rest of people are subject to.
 
 ### Why This Humanity?
 
