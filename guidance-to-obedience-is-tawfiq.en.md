@@ -11,7 +11,7 @@ readingMinutes: 3
 
 ### Our Standing Before Allah Is a Favor from Him
 
-And now, may Allah preserve your station, and be pleased with you, and keep you in goodness and bounty, O Lord of the Worlds. We always remind that the standing of servants before Allah is a favor and a bounty from Allah. Whoever's last supplication in his night was: O Allah, help me with the Fajr prayer, is guided to it and granted success in it and is brought to his place of prayer and his place of prostration. And whoever's reliance was on himself and his ability and his alarm and the like, his reliance is upon what he relied on. And the aim in this is not neglect of following the means, but reliance on the One who causes the means.
+And now, may Allah preserve your station, and be pleased with you, and keep you in goodness and bounty, O Lord of the Worlds. We always remind that the standing of servants before Allah is a favor and a bounty from Allah. The one whose last supplication in his night was: O Allah, help me with the Fajr prayer, is guided to it and granted success in it and is brought to his place of prayer and his place of prostration. And the one whose reliance was on himself and his ability and his alarm and the like, his reliance is upon what he relied on. And the aim in this is not neglect of following the means, but reliance on the One who causes the means.
 
 How many times have you set your watch for a certain time, and then seen that the battery has run out or the charge has been cut off or something else! And how many times are you unable even to lift your head, or to rise from your place, or to get up from your bed! Hence guidance to the deed is a granting of success from the One for whom we work, and help from Him, glory be to Allah, the All-Powerful.
 

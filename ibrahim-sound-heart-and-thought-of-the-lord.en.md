@@ -19,7 +19,7 @@ Our Lord, glory be to Him, the Exalted, says: ﴿وَإِنَّ مِن شِيع�
 
 ### He shows them the effect of what they do
 
-Ibrāhīm, peace be upon him, shows them the effect of what they do on their minds and hearts before telling them what is right, putting them in an awkward position between themselves and their own selves before he does anything. He wants to stand them before themselves, before the truth. And then the Lord of the worlds, glory be to Him, the Exalted, tells us: ﴿فَمَا ظَنُّكُم بِرَبِّ الْعَالَمِينَ﴾؟ ("Then what is your thought about the Lord of the worlds?")[^4]
+Ibrāhīm, peace be upon him, shows them the effect of what they do on their minds and hearts before telling them what is right, putting them in an awkward position between themselves and their own selves before he does anything. He wants to make them stand before themselves, before the truth. And then the Lord of the worlds, glory be to Him, the Exalted, tells us: ﴿فَمَا ظَنُّكُم بِرَبِّ الْعَالَمِينَ﴾؟ ("Then what is your thought about the Lord of the worlds?")[^4]
 
 So what is your own thought about the Lord of the worlds? And the Prophet ﷺ on the day of the Conquest said to the people of Mecca: What do you think I will do to you? They said: A noble brother and the son of a noble brother. He said: Go, for you are the freed.[^5] That was their thought of the Prophet Muḥammad ﷺ, so what is your thought of the Lord of the worlds?
 

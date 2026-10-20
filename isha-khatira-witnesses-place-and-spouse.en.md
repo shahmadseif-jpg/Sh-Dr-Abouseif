@@ -19,9 +19,9 @@ For this reason, we should regard any place we go to as Allah's place, and the p
 
 ### The first witness: our spouses
 
-There are also people who will stand as witnesses beside us or against us on that Day. The first I consider, all the time, is our spouses. When we stand before Allah and the question is put, the first to be asked about me may well be my wife, because she is supposed to be the closest one to her spouse, and she will tell the truth.
+There are also people who will stand as witnesses beside us or against us on that Day. The first I think of, all the time, are our spouses. When we stand before Allah and the question is put, the first to be asked about me may well be my wife, because she is supposed to be the closest one to her spouse, and she will tell the truth.
 
-That is why the Companions, when they wanted to ask about the manners of the Prophet Muhammad ﷺ, went first to his wives. Whatever a wife says about you, people will trust, because she knows you more than anyone else. She knows you in situations nobody else sees you in. She sees your mercy and she sees your harshness, your toughness. She sees the real you at home more than anyone outside that home.
+That is why the Companions, when they wanted to ask about the manners of the Prophet Muhammad ﷺ, went first to his wives. Whatever a wife says about you, people will trust, because she knows you better than anyone else. She knows you in situations nobody else sees you in. She sees your mercy and she sees your harshness, your toughness. She sees the real you at home more than anyone outside that home.
 
 I say these words only to remind myself. If we die anywhere, the place is not what matters. What matters is that we die in a good state. I ask Allah to guide all of us to the right path.
 

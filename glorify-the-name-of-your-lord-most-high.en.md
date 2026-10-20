@@ -29,7 +29,7 @@ Once everything is settled and done, and all is perfect, alhamdulillah, we still
 
 ### Two ways, and which is better
 
-God shows us two ways, and we must choose one: the way of the hereafter or the way of this world. Whichever you choose, God lets you go along it, and you will see the consequences in due time. The main problem with people is that they prefer this world; they look at it as more important and try to earn more of it than the hereafter.
+God shows us two ways, and we must choose one: the way of the hereafter or the way of this world. Whichever you choose, God lets you go along it, and you will see the consequences in due time. The main problem with people is that they prefer this world; they look at it as more important and try to earn more of it than of the hereafter.
 
 But God tells us that the hereafter is better and more lasting. This is no new information for you. It was said even before Ibrahim and Musa, and it stood as an example in what came to the prophets and messengers before the Prophet Muhammad ﷺ. It is a fact from the very beginning.
 

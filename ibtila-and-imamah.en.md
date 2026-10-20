@@ -9,9 +9,9 @@ readingMinutes: 6
 > Occasion: A transcription of a lecture delivered in Woodbridge on 23 July 2026   
 > Source: A transcription of a video lecture by Dr. Ahmed Abouseif — [Watch the original video on YouTube](https://www.youtube.com/watch?v=Nnu_9hh3NwA)
 
-The Doctor opened with prayers and peace upon our master and Prophet Muhammad, and upon his family and Companions, with abundant peace. Then he made supplication: O Allah, we ask You for all good, its immediate and its delayed; and we seek refuge in You from all evil, its immediate and its delayed. We ask You for the things that necessitate Your mercy and the firm resolves of Your forgiveness, for a share of every righteous deed, and safety from every sin, and for the winning of Paradise and deliverance from the Fire. Our Lord, we ask You for the good of this night, the good of what is in it, and the good of what comes after it; and we seek refuge in You, our Lord, from the evil of this night, the evil of what is in it, and the evil of what comes after it. O Allah, amen, O Lord of the worlds.
+We open with prayers and peace upon our master and Prophet Muhammad, and upon his family and Companions, with abundant peace, and then with a supplication: O Allah, we ask You for all good, its immediate and its delayed; and we seek refuge in You from all evil, its immediate and its delayed. We ask You for the things that necessitate Your mercy and the firm resolves of Your forgiveness, for a share of every righteous deed, and safety from every sin, and for the winning of Paradise and deliverance from the Fire. Our Lord, we ask You for the good of this night, the good of what is in it, and the good of what comes after it; and we seek refuge in You, our Lord, from the evil of this night, the evil of what is in it, and the evil of what comes after it. O Allah, amen, O Lord of the worlds.
 
-Then he entered into Sūrat al-Baqarah, and prayed for good for those present.
+Then the Doctor entered into Sūrat al-Baqarah, and prayed for good for those present.
 
 ### Vicegerency: Adam
 

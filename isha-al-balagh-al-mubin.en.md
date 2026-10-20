@@ -9,7 +9,7 @@ readingMinutes: 3
 > Occasion: Transcription of an Isha khatira delivered on 3 December 2025   
 > Source: A transcription of a video khatira by Dr. Ahmed Abouseif — [Watch the original video on YouTube](https://www.youtube.com/watch?v=3vgRdTpxbjY)
 
-The Doctor opened his khatira with a supplication that Allah bless us in what He has provided us, protect us from the punishment of the Fire, and turn away from us the causes of punishment in this world and the Hereafter, by His mercy, good pleasure, kindness and generosity. Then he made his talk about "the clear delivery of the message" (al-balāgh al-mubīn).
+We open with a supplication: that Allah bless us in what He has provided us, protect us from the punishment of the Fire, and turn away from us the causes of punishment in this world and the Hereafter, by His mercy, good pleasure, kindness and generosity. Then the Doctor devoted his talk to "the clear delivery of the message" (al-balāgh al-mubīn).
 
 ### Prayer as a Training Program
 
@@ -19,17 +19,17 @@ He moved to the Isha prayer as one of the very simple scenes, and called on us t
 
 Then he mentioned that the clear delivery of the message is manifested in his saying ﷺ: «صلّوا كما رأيتموني أُصلّي» (Pray as you have seen me pray). The imam presents the ideal and most complete model, and the follower must follow and has no choice, and the imam must respect the mentality and psychology of those behind him so that he is committed to their content and their level of performance, so that integration is achieved between imam and followers.
 
-Among the etiquette of leading prayer is that the imam looks at the faces of those behind him; if he sees a face that is not as usual and knows that the person has a need, he shortens his prayer, and if he knows that one of them needs a reminder, he chooses from his recitation what suits the situation of the listener. And he said: this is a system operating at the highest levels of human performance, because its maker is the God of the worlds and their Lord, glory be to Him, the Exalted.
+Among the etiquette of leading prayer is that the imam looks at the faces of those behind him; if he sees a face that is not as usual and knows that the person has a need, he shortens his prayer, and if he knows that one of them needs a reminder, he chooses from his recitation what suits the situation of the listener. He said: this is a system operating at the highest levels of human performance, because its maker is the God of the worlds and their Lord, glory be to Him, the Exalted.
 
 ### Callers and the Varying Levels of Reception
 
-Then he linked that to callers to Islam: when we speak, for example, about taqwā and say: «يا أيها الناس اتقوا ربكم» (O people, have taqwā of your Lord), the listener may ask for more detail. And he said: people's understandings are a different matter from what the speaker intends, and what I say may not arrive at the same level because of the differing levels of reception, even among intelligent, specialized people.
+Then he linked that to callers to Islam: when we speak, for example, about taqwā and say: «يا أيها الناس اتقوا ربكم» (O people, have taqwā of your Lord), the listener may ask for more detail. He said: people's understandings are a different matter from what the speaker intends, and what I say may not arrive at the same level because of the differing levels of reception, even among intelligent, specialized people.
 
-And he gave the example of leaving the mosque after the Friday prayer and someone saying to you: "Shaykh, how did you say that this act is permissible when others say it is prohibited?" and you review your words and find that he is telling you something completely different from what you were speaking about. So what comes out of the tongue must match the comprehension of the mind.
+He gave the example of leaving the mosque after the Friday prayer and someone saying to you: "Shaykh, how did you say that this act is permissible when others say it is prohibited?" and you review your words and find that he is telling you something completely different from what you were speaking about. So what comes out of the tongue must match the comprehension of the mind.
 
 ### Why Is the Story of Mūsā Repeated?
 
-That is why you can now understand why a story such as the story of Mūsā, peace be upon him, appears in the Noble Qur'an in all these places: because every mentality needs what is specific to it; this one needs such-and-such a picture, another needs the story of Pharaoh, and so on, and so we understand this distribution and spread in the Noble Qur'an, and likewise the story of Yūsuf, peace be upon him. For every occasion there is a fitting word, and every recipient has his level of comprehension, and that is why the variety comes.
+That is why you can now understand why a story such as the story of Mūsā, peace be upon him, appears in the Noble Qur'an in all these places: because every mentality needs what is specific to it; this one needs such-and-such a picture, another needs the story of Pharaoh, and so on, and so we understand this distribution and spread in the Noble Qur'an, and likewise the story of Yūsuf, peace be upon him. For every occasion there is a fitting word, and every recipient has his level of comprehension, and that is why there is variety.
 
 ### Delivery in Word and in Deed
 

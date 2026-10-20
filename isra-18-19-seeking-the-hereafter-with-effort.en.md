@@ -9,9 +9,9 @@ readingMinutes: 2
 > Occasion: Transcript of an Isha khatira delivered at Bayt Al-Karim on August 19, 2026   
 > Source: Transcript of a video khatira by Dr. Ahmed AbouSeif, [watch the original video on YouTube](https://www.youtube.com/watch?v=X2NKnVzjbqc)
 
-Dr. Ahmed opened with a supplication: that God grant us all good, in this life and the next; that He save us from disgrace in this world and from the punishment of the Hereafter; that He not tie our hearts to our worldly life but make us among those who intend the Hereafter; and that He keep our hearts safe from the scheming and whispers of Satan.
+We open with a supplication: that God grant us all good, in this life and the next; that He save us from disgrace in this world and from the punishment of the Hereafter; that He not tie our hearts to our worldly life but make us among those who intend the Hereafter; and that He keep our hearts safe from the scheming and whispers of Satan.
 
-Then he turned to his listeners: my dear brothers, in Surah al-Isra', God says:
+Then Dr. Ahmed turned to his listeners: my dear brothers, in Surah al-Isra', God says:
 
 ﴿مَنْ كَانَ يُرِيدُ الْعَاجِلَةَ عَجَّلْنَا لَهُ فِيهَا مَا نَشَاءُ لِمَنْ نُرِيدُ﴾
 
@@ -27,7 +27,7 @@ He explained it with an everyday picture: if I had in my hand something of real 
 
 Then he turned to the second verse and its verb of will: ﴿وَمَنْ أَرَادَ الْآخِرَةَ وَسَعَىٰ لَهَا سَعْيَهَا﴾, *and whoever wants the Hereafter and strives for it with its due striving.* Here he drew a comparison from business. Look at a man with a business mind: wherever he finds a place to put his money and invest it, he runs there, with a mentality of sacrifice, thinking of what he will earn by that route. The same mind, he said, is what the one who wants the Hereafter should bring to it.
 
-And the verse ends: ﴿فَأُولَٰئِكَ كَانَ سَعْيُهُمْ مَشْكُورًا﴾, *those, their striving is appreciated.*[^3]
+The verse ends: ﴿فَأُولَٰئِكَ كَانَ سَعْيُهُمْ مَشْكُورًا﴾, *those, their striving is appreciated.*[^3]
 
 He closed with the prayer: ﴿رَبَّنَا اغْفِرْ لَنَا ذُنُوبَنَا وَإِسْرَافَنَا فِي أَمْرِنَا﴾, *Our Lord, forgive us our sins and our excesses in our affairs.*[^4]
 

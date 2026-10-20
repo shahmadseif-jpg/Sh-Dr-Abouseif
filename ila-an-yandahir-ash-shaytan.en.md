@@ -27,7 +27,7 @@ And what is noticeable is that the Prophet ﷺ did not ask him about the details
 
 For when a servant repents to the Lord of the worlds, glory be to Him, and seeks forgiveness of Allah, Mighty and Majestic, he places a foot on the ladder of ascent. Then Satan pushes him again so that he comes down this step through disobedience, and he seeks forgiveness and goes up, then Satan pushes him and he goes down, and he goes up by seeking forgiveness and then comes down by disobedience, then goes up by seeking forgiveness. Until when, O Messenger of Allah? And the answer comes: Until Satan is driven away in defeat.
 
-And the longer the feud lasts, the more crushing the victory of one of the two sides is for the loser's back after it. But victory after a short battle, which is more like a knockout blow, in which the opponent is dazed for a little and then gets up against you again. But after a long war in which one of them is defeated, the soul has become accustomed to knowing the opponent's points of weakness. And the opponent before us is Satan.
+And the longer the feud lasts, the more crushing to the loser's back is the eventual victory of one of the two sides. But victory after a short battle is more like a knockout blow, in which the opponent is dazed for a little and then gets up against you again. But after a long war in which one of them is defeated, the soul has become accustomed to knowing the opponent's points of weakness. And the opponent before us is Satan.
 
 And among the rites of the Ḥajj is that people go and throw these pebbles to drive off Satan. So what is the meaning of driving off Satan? That Satan returns humiliated, regretful over his state and over his inability to prevail over him.
 
@@ -53,7 +53,7 @@ And the question: until Satan is driven away, how many times have you tried to d
 
 And likewise in homes: he shows you her deed other than as she meant it, and makes your tongue speak the opposite of what is in your heart, so you remain in constant quarreling and continual disputes, and he wears out your soul, your heart and your mind, and at some moment you imagine that divorce is the only and ideal solution. Rather, the opposite: drive Satan away, and make him the loser, with more patience, with seeking reward from Allah, with a kind word, with a gentle sentence, and with a gift that perfumes the atmosphere.
 
-And whoever gives himself to Allah has made himself for creation, and whoever gives himself to Allah does not ask of people the like of what he does for them, but does for people more than is asked of him.
+And whoever gives himself to Allah has devoted himself to creation, and whoever gives himself to Allah does not ask of people the like of what he does for them, but does for people more than is asked of him.
 
 Until Satan is driven away. Keep it in your head in every situation in which you feel that Satan is interfering: drive Satan away with patience, steadfastness and seeking reward from Allah. And I ask Allah, blessed and exalted, not to give Satan a way into our hearts, not to empower him over our feelings and minds, and to make us firm with the firm word in the life of this world and in the Hereafter. O Allah, amen. And peace be upon you, and the mercy of Allah and His blessings.
 

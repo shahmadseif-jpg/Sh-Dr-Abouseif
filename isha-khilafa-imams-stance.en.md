@@ -21,7 +21,7 @@ I ask Allah, Glorified is He, to guide us. O Allah, keep our hearts sound, prese
 
 ### You Are a Vicegerent
 
-Servants of Allah, since Adam we have been entrusted with being vicegerents of Allah on earth: ﴿إِنِّي جَاعِلٌ فِي الْأَرْضِ خَلِيفَةً﴾[^1] (Indeed, I am going to place a vicegerent on the earth). So do not belittle your standing, do not disdain your own worth, and do not make light of your capacities. You are the leader of this humanity by virtue of the humanness you share with the rest of people, and by virtue of the Qur'an you have, which is the best that Allah, Blessed and Exalted, sent down to creation to lead people to guidance. So do not give up this position; upon our necks, we Muslims, rests the safety and life of creation.
+Servants of Allah, since Adam we have been entrusted with being vicegerents of Allah on earth: ﴿إِنِّي جَاعِلٌ فِي الْأَرْضِ خَلِيفَةً﴾[^1] (Indeed, I am going to place a vicegerent on the earth). So do not belittle your standing, do not disdain your own worth, and do not make light of your capacities. You are the leader of this humanity by virtue of the humanness you share with the rest of people, and by virtue of the Qur'an you have, which is the best that Allah, Blessed and Exalted, sent down to creation to lead people to guidance. So do not give up this position; upon the necks of us Muslims rests the safety and life of creation.
 
 O Allah, we ask You for Paradise, a good departure from this world, and a good passage to the Hereafter. O Allah, amen. Peace be upon you; we will see you at the Fajr prayer, God willing.
 

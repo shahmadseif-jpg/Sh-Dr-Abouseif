@@ -17,7 +17,7 @@ All praise is due to Allah. We praise Him, seek His help and His forgiveness, an
 
 ### Thirteen years
 
-Picture what those years held. The disbelievers put a great rock on the chest of Bilāl and demanded that he say a few words against the Prophet ﷺ, and he refused. In another narration, a believer is held down with fire beneath his body, and the fire does not die until what runs from his body puts it out. Imagine being literally burned. Another family endured, and the Prophet ﷺ went to them again and again saying: be patient, we will meet in Jannah. A woman among the believers was killed in a shameful way, and she died for the sake of Allah.
+Picture what those years held. The disbelievers put a great rock on the chest of Bilāl and demanded that he say a few words against the Prophet ﷺ, and he refused. In another narration, a believer is held down with fire beneath his body, and the fire does not die until what runs from his body puts it out. Imagine being literally burned. Another family endured, and the Prophet ﷺ went to them again and again saying: be patient, we will meet in Jannah. A woman among the believers was killed in a horrific way, and she died for the sake of Allah.
 
 Then the hardship became a community matter. The disbelievers isolated the Muslims for three years: nobody spoke to them, nobody sold to them or bought from them, no marriage, no dealings of any kind.
 
@@ -25,7 +25,7 @@ So I ask myself: why does Allah give human beings such hard times? The same ques
 
 ### What hardship earns
 
-The answer begins with how life already works. We are giving Allah's mercy a chance to find us deserving of it. I could not move from high school to college without passing the hardship of high school. I could not have my doctorate without the hardship of the doctorate. I eat because I work, and I spend my whole day, for a whole month, to earn my salary. Without that work, there is no salary.
+The answer begins with how life already works. We are giving Allah's mercy a chance to find us deserving of it. I could not move from high school to college without passing through the hardship of high school. I could not have my doctorate without the hardship of the doctorate. I eat because I work, and I spend my whole day, for a whole month, to earn my salary. Without that work, there is no salary.
 
 One of my students once asked me why Allah rewards people in Jannah and not in this world. To make a long story short, I told him: when a great company hires you, they pay you after fifteen or thirty days, depending on their system. But do you think they are paying you for those fifteen days? You are being paid for the four years of college, and for the high school, the middle school and the elementary school behind it. You were paid after twenty years, not after thirty days. That is the system of our life. We accept it between ourselves and cannot accept it with Allah.
 
@@ -63,7 +63,7 @@ That is the position for which Allah prepared the Companions for thirteen years 
 
 Do we carry that? Some of us are shy of our names. "My name is Ahmed. Let me call myself Mike, or something easier, because of the community around me." I am afraid of being identified as a Muslim. Now imagine standing before Allah on the Day of Resurrection, and He asks: what did you do, Ahmed? And I answer: sorry, I forgot, I was Mike. I am talking about our dignity.
 
-Allah built the dignity of the Muslim community during those thirteen years. When we hear the names of the Prophet's ﷺ enemies, we remember what they did against the Muslim community. When we hear the name of Abū Bakr, we remember how he trusted the Prophet ﷺ when he told him what had been revealed to him.[^2] So what is our position? What legacy will we leave behind us? In a little while we will be under the grave, in a different world. Unless I leave something behind me, there will be nothing.
+Allah built the dignity of the Muslim community during those thirteen years. When we hear the names of the Prophet's ﷺ enemies, we remember what they did against the Muslim community. When we hear the name of Abū Bakr, we remember how he trusted the Prophet ﷺ when he told him what had been revealed to him.[^2] So what is our position? What legacy will we leave behind us? In a little while we will be under the soil, in a different world. Unless I leave something behind me, there will be nothing.
 
 That is how we should understand the Hijrah. It was not a drama. It was a real test, so that you can be proud of yourself when you say: I have my doctorate, I have my own store. I did not inherit it from my father. I cannot be proud of a beautiful car if my mother simply handed it to me. Today everybody looks at the easy lifestyle. This is our issue with our youth.
 

@@ -15,7 +15,7 @@ Today we have an appointment with the twentieth hadith from the book «Jāmiʿ a
 
 ### A modesty that seems negative
 
-This is a hadith that makes us pause for a few simple, measured moments of thought, on the meanings of the moral qualities of faith. We have words of the Messenger of Allah ﷺ that some people may take to carry a kind of passivity: the Prophet ﷺ passes by a man who is rebuking his brother, and asks him: Why are you rebuking him? It is said: He has modesty in him. And the Prophet ﷺ says: «دَعْهُ، فإنَّ الحياءَ ما كان في شيءٍ إلا زانَه» ("Leave him, for modesty is never in anything but it adorns it").[^2] So here there is one conception among people, and another conception with the Messenger of Allah ﷺ. How do we combine the two well? And how do we understand the matter as our Messenger ﷺ made us understand it?
+This is a hadith that makes us pause for a few simple, measured moments of thought and on the meanings of the moral qualities of faith. We have words of the Messenger of Allah ﷺ that some people may take to carry a kind of passivity: the Prophet ﷺ passes by a man who is rebuking his brother, and asks him: Why are you rebuking him? It is said: He has modesty in him. And the Prophet ﷺ says: «دَعْهُ، فإنَّ الحياءَ ما كان في شيءٍ إلا زانَه» ("Leave him, for modesty is never in anything but it adorns it").[^2] So here there is one conception among people, and another conception with the Messenger of Allah ﷺ. How do we combine the two well? And how do we understand the matter as our Messenger ﷺ made us understand it?
 
 What is known among people is that modesty is connected in some way with the girl in her private chamber, as is reported.[^3] What does that signify? That she is shy, so she does not appear to people, nor speak with them, nor mix with them. So it is as though, on the surface, it is a negative trait that makes a servant feel shy about his very existence. But the matter is the opposite of that.
 
@@ -25,7 +25,7 @@ If we wanted to discern the meaning of the word «الحياء» (modesty), we w
 
 And modesty is connected in some way with «life» (ḥayāh). So what does preserving life require? That you know what is yours and what is upon you, that you not transgress, not overstep and not act rashly, and that you protect your body, your mind and your faith, and protect your wealth and those around you. It is a word that requires of a person more alertness, awareness and perception.
 
-So we are before modesty, which is also shyness, but a shyness that occurs inside a person at appearing in a bad light. And look at the girl in her private chamber: Is she shy before her father, for example? Yes, she is shy, but it is a modesty with a different meaning and concept; her appearing before her father in a certain state is not like her appearing before people who have no relation to her. It is as though she did the very same act, but distinguished between what is proper and what is not, between what should be and what should not be.
+So we are dealing with modesty, which is also shyness, but a shyness that occurs inside a person at appearing in a bad light. And look at the girl in her private chamber: Is she shy before her father, for example? Yes, she is shy, but it is a modesty with a different meaning and concept; her appearing before her father in a certain state is not like her appearing before people who have no relation to her. It is as though she did the very same act, but distinguished between what is proper and what is not, between what should be and what should not be.
 
 ### When Allah hates a servant
 
@@ -41,7 +41,7 @@ Modesty is an inner feeling that stands between you and doing wrong. It is as th
 
 So if we want to apply this in reality: a man was ashamed to sleep while people were praying in the mosque; is this not praiseworthy modesty? And a man who could have answered with an ugly word and wounded the person in front of him with harsh speech, but was ashamed that such a word should come out of him, and so refrained. And a man who has a dispute with the members of his household, and could take them for everything they have before the courts and squander their dignity, but was ashamed to show his household to people in such a scene.
 
-Have you seen how Allah, blessed and exalted, when He hates a servant, removes modesty from him, and when He loves a servant, places that modesty in his heart? For what is placed in the heart and soul settles in them, and the servant's fear that error may issue from him is the perfection of modesty.
+Do you see how Allah, blessed and exalted, when He hates a servant, removes modesty from him, and when He loves a servant, places that modesty in his heart? For what is placed in the heart and soul settles in them, and the servant's fear that error may issue from him is the perfection of modesty.
 
 ### Modesty is an adornment
 
@@ -61,11 +61,11 @@ An example of that: when you enter a place at the cashier, anywhere here, you fi
 
 ### Wariness of places of suspicion
 
-And I have mentioned some examples that make me fear for my dignity and fear that people will think ill of me, and I ask the Lord of the worlds, glory be to Him, the Exalted, not to put me in a place of suspicion in people's eyes. And here we have a behavioral rule: Whoever puts himself in places of doubtful matters, let him not blame those who think ill of him.
+And I have mentioned some examples that make me fear for my dignity and fear that people will think ill of me, and I ask the Lord of the worlds, glory be to Him, the Exalted, not to put me in a place of suspicion in people's eyes. And here we have a behavioral rule: Whoever puts himself in places of doubt, let him not blame those who think ill of him.
 
 And the very explicit hadith expressing that is that the Prophet ﷺ once stood at the door of the mosque talking with one of his wives (may Allah be pleased with them) — a man standing with his wife — but out of fear of suspicion in the eyes of the people, about whose inner workings he informed by saying «إنَّ الشيطانَ يجري من ابنِ آدمَ مَجرى الدم» ("Satan runs in the son of Adam like blood"), he ﷺ said: She is Ṣafiyya (may Allah be pleased with her). So it was said to him: O Messenger of Allah, you are the Messenger of Allah! And he said: «إنَّ الشيطانَ يجري من ابنِ آدمَ مَجرى الدم» ("Satan runs in the son of Adam like blood").[^5]
 
-And accordingly, whoever keeps himself far from places of doubtful matters, in the forbidden and otherwise, saves himself from the suspicion of creation, and thus from the consequence of that with the Creator, glory be to Him, the Exalted. For although our Lord, mighty and majestic, knows the hidden things of souls and their secrets, He has commanded us to preserve our dignity before these creatures, and has made them witnesses against us.
+And accordingly, whoever keeps himself far from places of doubt, in the forbidden and otherwise, saves himself from the suspicion of creation, and thus from the consequence of that with the Creator, glory be to Him, the Exalted. For although our Lord, mighty and majestic, knows the hidden things of souls and their secrets, He has commanded us to preserve our dignity before these creatures, and has made them witnesses against us.
 
 ### Conclusion
 

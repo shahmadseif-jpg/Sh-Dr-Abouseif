@@ -33,7 +33,7 @@ Sometimes they watch me and my wife quarrel, raising our voices, sometimes using
 
 ### One second before the word
 
-The only thing I ask of myself and of everyone here is this: before saying something, stop for one minute, one second, and think about the words that are about to come out. I do not want to give words as a mere reaction to an action coming from someone else.
+The only thing I ask of myself and of everyone here is this: before saying something, stop for one minute, one second, and think about the words that are about to come out. I do not want to throw out words as a mere reaction to an action coming from someone else.
 
 ### Expectations, and duties before rights
 
