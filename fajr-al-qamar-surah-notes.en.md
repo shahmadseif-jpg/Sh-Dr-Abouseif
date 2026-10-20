@@ -13,7 +13,7 @@ Dr. Ahmed recited from Sūrat al-Qamar and made his khatira a series of pauses a
 
 ### Scenes from the surah
 
-He began with the saying of the Exalted: ﴿وَانشَقَّ الْقَمَرُ﴾ (and the moon split),[^1] then his saying: ﴿وَلَقَدْ يَسَّرْنَا الْقُرْآنَ لِلذِّكْرِ فَهَلْ مِن مُّدَّكِرٍ﴾ (And We have certainly made the Qur'an easy for remembrance, so is there any who will remember?).[^2] He mentioned the people of Pharaoh, then recited: ﴿كَذَّبَتْ عَادٌ فَكَيْفَ كَانَ عَذَابِي وَنُذُرِ﴾ (Ād denied; so how were My punishment and My warnings?),[^3] then the furious wind ﴿فِي يَوْمِ نَحْسٍ مُّسْتَمِرٍّ﴾ (on a day of continuous misfortune).[^4] He commented on "a day of misfortune" that it is a day of distress, and asked Allah for safety and well-being.
+He began with the saying of the Exalted: ﴿وَانشَقَّ الْقَمَرُ﴾ (and the moon split),[^1] then His saying: ﴿وَلَقَدْ يَسَّرْنَا الْقُرْآنَ لِلذِّكْرِ فَهَلْ مِن مُّدَّكِرٍ﴾ (And We have certainly made the Qur'an easy for remembrance, so is there any who will remember?).[^2] He mentioned the people of Pharaoh, then recited: ﴿كَذَّبَتْ عَادٌ فَكَيْفَ كَانَ عَذَابِي وَنُذُرِ﴾ (Ād denied; so how were My punishment and My warnings?),[^3] then the furious wind ﴿فِي يَوْمِ نَحْسٍ مُّسْتَمِرٍّ﴾ (on a day of continuous misfortune).[^4] He commented on "a day of misfortune" that it is a day of distress, and asked Allah for safety and well-being.
 
 Then he recited: ﴿إِنَّ الْمُجْرِمِينَ فِي ضَلَالٍ وَسُعُرٍ * يَوْمَ يُسْحَبُونَ فِي النَّارِ﴾ (Indeed, the criminals are in error and madness. The Day they are dragged into the Fire),[^5] then: ﴿إِنَّا كُلَّ شَيْءٍ خَلَقْنَاهُ بِقَدَرٍ﴾ (Indeed, We created all things according to a decree).[^6]
 

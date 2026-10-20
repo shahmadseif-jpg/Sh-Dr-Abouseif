@@ -9,7 +9,7 @@ readingMinutes: 2
 > Occasion: Transcription of a Fajr khatira delivered on 17 August 2026   
 > Source: A transcription of a video khatira by Dr. Ahmed Abouseif — [Watch the original video on YouTube](https://www.youtube.com/watch?v=9vacHScZQ7I)
 
-The Doctor opened his khatira with a supplication that Allah accept us among His righteous servants, that He not turn us away, disgrace us or expose us before His creation, in this world or the next, and that He draw His veil over us. Then he moved to what those present had heard in the recitation.
+We open with a supplication: that Allah accept us among His righteous servants, that He not turn us away, disgrace us or expose us before His creation, in this world or the next, and that He draw His veil over us. Then the Doctor moved to what those present had heard in the recitation.
 
 ### Two Joined Matters
 
@@ -27,7 +27,7 @@ So whoever senses that this wealth, or provision, or running of a business, or s
 
 ### The Opposite of Gratitude
 
-If that is not so, nothing comes of him but the opposite of gratitude. And what is the opposite of gratitude? Its contrary, disbelief, we seek refuge in Allah. Disbelief drives the servant to further greed, and greed leads a person to seek means, and the means are varied and many, some lawful and some forbidden. Greed drives the servant to enter the class of the ambiguous matters in which the realm of the lawful and the forbidden are mixed, so he may cross into the forbidden while persuading himself that it is permissible, when in fact the self has simply not ceased to be greedy. Whoever gives thanks has arrived.
+If that is not so, nothing comes of him but the opposite of gratitude. And what is the opposite of gratitude? Its contrary, disbelief, we seek refuge in Allah. Disbelief drives the servant to further greed, and greed leads a person to seek means, and the means are varied and many, some lawful and some forbidden. Greed drives the servant to enter the class of the ambiguous matters in which the realm of the lawful and the forbidden is mixed, so he may cross into the forbidden while persuading himself that it is permissible, when in fact the self has simply not ceased to be greedy. Whoever gives thanks has arrived.
 
 ### The Supplication
 

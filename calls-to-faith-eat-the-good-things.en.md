@@ -19,7 +19,7 @@ Then he mentioned the calls to faith, and recited:
 
 ﴿يَا أَيُّهَا الَّذِينَ آمَنُوا كُلُوا مِن طَيِّبَاتِ مَا رَزَقْنَاكُمْ وَاشْكُرُوا لِلَّهِ إِن كُنتُمْ إِيَّاهُ تَعْبُدُونَ﴾ [البقرة] (O you who believe, eat of the good things We have provided for you, and give thanks to Allah, if it is Him you worship) [al-Baqarah]
 
-He repeated it, and paused at "the good things" and repeated it.
+He repeated it, paused at "the good things," and repeated that phrase.
 
 ### The People and the Believers
 

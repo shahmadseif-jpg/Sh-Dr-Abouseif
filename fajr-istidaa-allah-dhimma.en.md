@@ -9,9 +9,9 @@ readingMinutes: 2
 > Occasion: Transcription of a Fajr khatira delivered on 27 March 2026   
 > Source: A transcription of a video khatira by Dr. Ahmed Abouseif — [Watch the original video on YouTube](https://www.youtube.com/watch?v=P5VAHJFen4Q)
 
-The Doctor opened his khatira with a supplication that Allah spare us the evil of this day, the evil of what is in it and the evil of what comes after it; that He set right for us our religion and our worldly life, grant us right guidance in our affairs, preserve for us the wellbeing of our hearts, secure our souls, soothe our hearts, make us pleased and be pleased with us; and that He be gentle with the Ummah of Islam in every land and at every time.
+We open with a supplication: that Allah spare us the evil of this day, the evil of what is in it and the evil of what comes after it; that He set right for us our religion and our worldly life, grant us right guidance in our affairs, preserve for us the wellbeing of our hearts, secure our souls, soothe our hearts, make us pleased and be pleased with us; and that He be gentle with the Ummah of Islam in every land and at every time.
 
-Then he said: It is well known on people's tongues that when something is entrusted to Allah, the Exalted, He keeps it safe, glory be to Him[^1]. This is known in our creed as a necessity, one of the implications of faith, and it has a witness in the Qur'an: ﴿فَاللَّهُ خَيْرٌ حَافِظًا وَهُوَ أَرْحَمُ الرَّاحِمِينَ﴾ (“But Allah is the best of guardians, and He is the Most Merciful of the merciful.”)[^2]. It is a well-known phrase on people's tongues that we repeat in various situations, but we are still left to ask together: how do we entrust something to Allah well?
+Then the Doctor said: It is well known on people's tongues that when something is entrusted to Allah, the Exalted, He keeps it safe, glory be to Him[^1]. This is known in our creed as a necessity, one of the implications of faith, and it has a witness in the Qur'an: ﴿فَاللَّهُ خَيْرٌ حَافِظًا وَهُوَ أَرْحَمُ الرَّاحِمِينَ﴾ (“But Allah is the best of guardians, and He is the Most Merciful of the merciful.”)[^2]. It is a well-known phrase on people's tongues that we repeat in various situations, but we are still left to ask together: how do we entrust something to Allah well?
 
 ### I Entrust You to Allah
 

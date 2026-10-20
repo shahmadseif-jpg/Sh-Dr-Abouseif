@@ -17,7 +17,7 @@ We stop at the word in an attempt to grasp its meaning. “Khāfiyah” differs 
 
 ### Questions About Concealment
 
-If we say “khāfiyah,” we have a set of questions. The first: why did its owner try to conceal it? The answer is that he does not want it to show; he has contraband, so he puts it in the “magic” pocket inside the bag, among the hidden corridors, and tries to stash it away. And yet “it does not remain hidden”: the scanner reveals it even if the human eye does not, and if the scanner does not reveal it, they have other means that sniff out the smell and bring the thing out. So we are before causes by which hidden things, the concealed items inside other things, are discovered.
+If we say “khāfiyah,” we have a set of questions. The first: why did its owner try to conceal it? The answer is that he does not want it to show; he has contraband, so he puts it in the “magic” pocket inside the bag, among the hidden corridors, and tries to stash it away. And yet “it does not remain hidden”: the scanner reveals it even if the human eye does not, and if the scanner does not reveal it, they have other means that sniff out the smell and bring the thing out. So we are faced with means by which hidden things, the concealed items inside other things, are discovered.
 
 So what will we want to conceal on the Day of Resurrection before Allah, glory be to Him, the Exalted, when He says: ﴿يَوْمَئِذٍ تُعْرَضُونَ﴾ (“On that Day you will be presented”)?
 
@@ -31,7 +31,7 @@ Imagine a person doing something wrong while knowing there is an ambush on the r
 
 So when you say “On that Day you will be presented”: who is waiting for you at that moment? Who will look into your hidden things? He who knows the secret and what is even more hidden, glory be to Him, exalted in His majesty. So, by Allah, what sane person carries drugs with him while passing through an ambush, knowing that those standing there are specialists in this field? You have brought them only to hand yourself in!
 
-So when the servant understands the meaning of ﴿لَا تَخْفَىٰ مِنكُمْ خَافِيَةٌ﴾ (“not a secret of yours will remain hidden”), he has known that the “khāfiyah,” which is what has reached such a degree of concealment that it does not appear in itself, “does not remain hidden” either; and if we say that it does not remain hidden, then there is an eye that sees it, all-seeing, all-aware.
+So when the servant understands the meaning of ﴿لَا تَخْفَىٰ مِنكُمْ خَافِيَةٌ﴾ (“not a secret of yours will remain hidden”), he knows that the “khāfiyah,” which is what has reached such a degree of concealment that it does not appear in itself, “does not remain hidden” either; and if we say that it does not remain hidden, then there is an eye that sees it, all-seeing, all-aware.
 
 ### The One Given His Record in His Right Hand
 

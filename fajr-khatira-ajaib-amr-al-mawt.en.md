@@ -15,7 +15,7 @@ Glory be to Allah, how wondrous is the matter of death! This morning you receive
 
 ### Questions That Create a Struggle in the Mind
 
-So you look at all of this, and you look at your own remaining in this world for another new day, and you reflect on how many blessings of Allah, Mighty and Majestic, there are upon us in that we have remained. Is this remaining a random, pointless thing, or is it a remaining for an aim, an end and a reason? Is our joining these dead near or far? Will our ending be better than the ending they were given, or worse than that?
+So you look at all of this, and you look at your own remaining in this world for a new day, and you reflect on how many blessings of Allah, Mighty and Majestic, there are upon us in that we have remained. Is this remaining a random, pointless thing, or is it a remaining for an aim, an end and a reason? Is our joining these dead near or far? Will our ending be better than the ending they were given, or worse than that?
 
 These questions create a kind of struggle within the mind: Where are we headed? With what will Allah, Mighty and Majestic, seal our lives? How much is this world worth in your own self? And where does it end? So that you see yourself with no refuge, no escape, and nowhere to look except before the Lord of Might, glorified and exalted be He.
 

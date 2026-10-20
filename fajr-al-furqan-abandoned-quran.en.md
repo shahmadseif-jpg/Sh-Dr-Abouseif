@@ -25,7 +25,7 @@ He recited the verse again, and paired with it the saying of the Exalted: ﴿و�
 
 ### The supplication
 
-He concluded with a supplication: I ask Allah, the Most High, the Almighty, by His mercy, His bounty, His self-subsisting sustaining, His justice, His gentleness and His kindness, and I ask Him by His most beautiful names and His most exalted attributes, by the fact that He is Allah, the One, the Unique, the Singular, the Eternal Refuge, who neither begets nor is begotten, that He return us to the Qur'an, and return the Qur'an to our hearts, and grant us good practice of it as He granted us good recitation and delivery of it, and extend to us the provision of understanding His intent, and make us the best of those who carry out His commands and stop at His prohibitions.
+He concluded with a supplication: I ask Allah, the Most High, the Almighty, by His mercy, His bounty, His self-subsistence, His justice, His gentleness and His kindness, and I ask Him by His most beautiful names and His most exalted attributes, by the fact that He is Allah, the One, the Unique, the Singular, the Eternal Refuge, who neither begets nor is begotten, that He return us to the Qur'an, and return the Qur'an to our hearts, and grant us good practice of it as He granted us good recitation and delivery of it, and extend to us the provision of understanding His intent, and make us the best of those who carry out His commands and stop at His prohibitions.
 
 ---
 [^1]: Editor's documentation: al-Furqān 21.

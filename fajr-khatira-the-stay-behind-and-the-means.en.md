@@ -27,7 +27,7 @@ By contrast he mentions those who had a genuine excuse: ﴿لَيْسَ عَلَ
 
 Then he brings the meaning close to our own situation and says: In this land Allah has given us a means from everything, and in our hands are all the means that help us fulfil the trust of Allah in the fullest and most complete way. And what remains is that, before Allah, Blessed and Exalted, there stands the one whose resolve was stirred, whose will was awakened, and who determined to do something, and the one who sat with those who sit. And there is a great difference between the two groups.
 
-I ask Allah, Blessed and Exalted, to bless us and you in this noble day, to extend the means of provision into our hands and yours, to grant us and you the means of well-being, to accept from us our deeds, the righteous ones, and to forgive us our shortcomings in the right of His religion and His call. O Allah, amen.
+I ask Allah, Blessed and Exalted, to bless us and you on this noble day, to extend the means of provision into our hands and yours, to grant us and you the means of well-being, to accept from us our deeds, the righteous ones, and to forgive us our shortcomings in the right of His religion and His call. O Allah, amen.
 
 ---
 [^1]: Editor's documentation: al-Tawba 81. The verses are in the context of the expedition of Tabūk.

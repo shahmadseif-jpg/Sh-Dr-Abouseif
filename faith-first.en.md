@@ -17,9 +17,9 @@ Go through most of the sūrahs of the Qurʾān, he said, and you will find that 
 
 ### Why do we need īmān at all?
 
-Then the question he kept returning to: why do we need īmān? Do we really need it in our hearts? He answered from his own situation. Without belief in something, nobody does it. If I did not believe in my abilities, I would never sit in front of you and speak. It is the belief in myself that brought me here and gave me the strength to talk to you. But before that is belief in the One who gave me that strength. Without belief in Allah, he said, a person would stop the moment the people mocked him: he would stop his prayer, leave his message and go out. Because I believe in something, I do all these things with positive energy. Anyone who believes in an idea gives it his submission and his full power.
+Then the question he kept returning to: why do we need īmān? Do we really need it in our hearts? He answered from his own situation. Without belief in something, nobody does anything. If I did not believe in my abilities, I would never sit in front of you and speak. It is the belief in myself that brought me here and gave me the strength to talk to you. But before that is belief in the One who gave me that strength. Without belief in Allah, he said, a person would stop the moment the people mocked him: he would stop his prayer, leave his message and go out. Because I believe in something, I do all these things with positive energy. Anyone who believes in an idea gives it his submission and his full power.
 
-So why do we need īmān? To stay on in this world, he said, and to have a position in the next. He recalled what Allah tells us about those who already believe and do good: their reward is a shelter, a place to stay, and they enjoy it so much they want to go nowhere else.
+So why do we need īmān? To stand firm in this world, he said, and to have a position in the next. He recalled what Allah tells us about those who already believe and do good: their reward is a shelter, a place to stay, and they enjoy it so much they want to go nowhere else.
 
 ### The pillars of a civilisation rest on it
 

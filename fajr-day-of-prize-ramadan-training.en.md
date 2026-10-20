@@ -23,7 +23,7 @@ At the end of the day, as we mentioned before, the Prophet ﷺ reminded us that 
 
 ### Ramadan as a training period
 
-If we try to sum up everything that happened in Ramadan, it was a training. When you are hired by a big company, the first thing they give you is the tag, to show your identity: from now on you belong to this company. Especially if they give you a uniform, once you wear it you become like a different person: right now I am a police officer, right now I am an imam, right now I am an engineer, because of that uniform. That is the identity at the beginning.
+If we try to sum up everything that happened in Ramadan, it was training. When you are hired by a big company, the first thing they give you is the tag, to show your identity: from now on you belong to this company. Especially if they give you a uniform, once you wear it you become like a different person: right now I am a police officer, right now I am an imam, right now I am an engineer, because of that uniform. That is the identity at the beginning.
 
 After that they give you training. Professional people do not do anything before training. During the training you are not asked about anything and you carry no responsibility; the only thing you need to do is learn what you will do in the future.
 

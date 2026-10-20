@@ -9,7 +9,7 @@ readingMinutes: 6
 > Occasion: Transcription of a Fajr khatira delivered on 5 August 2025   
 > Source: A transcription of a video khatira by Dr. Ahmed Abouseif — [Watch the original video on YouTube](https://www.youtube.com/watch?v=ICwx8d9Mb9g)
 
-The Doctor opened with a supplication: O Allah, make life an increase for us in every good, and make death a rest for us from every evil. Envelop us in Your mercy and pour out Your bounty upon us. O Allah, we ask You for safety in this world and the next, and for well-being in our bodies and our religion. We ask You, our Lord, to empty our hearts of any rancor, envy, malice or hatred toward any of the Muslims, and to fill our hearts with certainty in what You have promised, O Lord of the worlds.
+We open with a supplication: O Allah, make life an increase for us in every good, and make death a rest for us from every evil. Envelop us in Your mercy and pour out Your bounty upon us. O Allah, we ask You for safety in this world and the next, and for well-being in our bodies and our religion. We ask You, our Lord, to empty our hearts of any rancor, envy, malice or hatred toward any of the Muslims, and to fill our hearts with certainty in what You have promised, O Lord of the worlds.
 
 ### Address People According to Their Minds and Souls
 
@@ -23,7 +23,7 @@ This fluctuation inside human souls is in itself an influence on that mental res
 
 ### Patience with People: Worship or Test?
 
-Let us say: dealing with people, do you consider it a kind of worship? Patience with creation, patience with people in their condition as they are, do you consider it a kind of worship? It is a kind of the tests with which Allah, Blessed and Exalted, has tested us.
+Let us say: dealing with people, do you consider it a kind of worship? Patience with creation, patience with people in their condition as they are, do you consider it a kind of worship? It is one of the tests with which Allah, Blessed and Exalted, has tested us.
 
 He related that one of the sisters spoke to him complaining about her husband and his ways. He said to her: Sister, I see that you are from a good, well-bred family, and you are raising your children in a home. Then he asked her, by Allah: if this man, whom you say you love very much, and yet you come complaining about him, unable to be patient with him, wanting to throw him off the top of the building, if he were struck by an incurable illness, cancer or failure, we seek refuge in Allah, what would you do? Would you leave him and go on your way? She said: No, on the contrary, I would give my own neck to ransom him. He said to her: O daughter of good people! You would ransom him with your neck while he lies sick, and you cannot be patient with him for a little while when he is standing on his own two feet? Enjoy even the movement with which he goes back and forth, and be patient with him a little.
 
@@ -37,13 +37,13 @@ And is it patience only over the words of the believers, or over the words of th
 
 We have a term called "treating people gently" (mudārāt al-nās). If we speak about treating people gently, we ask: what is the meaning of mudārāt? Its meaning, in its definition, is that you deal with a thing according to its nature. Imagine that we are sitting at a table full of blessed good things, and you took a good morsel, a nice piece of meat (and the shaykhs love meat very much), and put it in your mouth and it was very hot. So what do you do? You turn it, may Allah honor you, to the right and to the left until you can stand it and swallow it. And the people who are tossing before you on the embers, you should deal well with them as you deal with this morsel, preparing their nature so that you digest them well and take in what they have.
 
-Then he asked: how many of the people who trouble you in your life do so deliberately? How many of them is evil? For the most part people are simply poor souls to begin with, but each one has enough of the ailments of time and place to occupy him, so he is not patient with others. If you were to spread the rule of patience among people, they would be in harmony with one another and happy in their lives and would not suffer in any way at all. Why? Because they would have grasped that dealing with persons is a kind of worship.
+Then he asked: how many of the people who trouble you in your life do so deliberately? How many of them are evil? For the most part people are simply poor souls to begin with, but each one has enough of the ailments of time and place to occupy him, so he is not patient with others. If you were to spread the rule of patience among people, they would be in harmony with one another and happy in their lives and would not suffer in any way at all. Why? Because they would have grasped that dealing with persons is a kind of worship.
 
 ### The Mentality of the Policeman, the Judge and the Doctor
 
 And there are some souls that are fed up with creation to begin with and are not patient with anyone, because in their belief everyone around them is either a disbeliever, or a transgressor, or an outlaw, and so on.
 
-Imagine, for example, the mentality of a police officer. We may have dealt with this mentality before. He says to you: why were you running? And you say: By Allah, my wife is in the hospital, or: I have a stomach cramp. What is his rate of believing? He stops you and says: where are you going? Why are you running? And you say: By Allah, I am in great pain, I have a pain in my stomach. Does he believe you at first glance and say: No problem, my dear, go ahead? For the mentality of a police officer, the default is accusation.
+Imagine, for example, the mentality of a police officer. We may have dealt with this mentality before. He says to you: why were you running? And you say: By Allah, my wife is in the hospital, or: I have a stomach cramp. How likely is he to believe you? He stops you and says: where are you going? Why are you running? And you say: By Allah, I am in great pain, I have a pain in my stomach. Does he believe you at first glance and say: No problem, my dear, go ahead? For the mentality of a police officer, the default is accusation.
 
 And the judge, what is his mentality? He does not accuse like the police officer, but he does not believe you; he does not accuse you but does not believe you, it is not enough for him that you take out the paper, he wants proof. The judge deals with you on the basis that you need proof to clear yourself before him, for the default with him is that, since you have arrived at this state, you must have done it.
 

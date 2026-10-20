@@ -25,13 +25,13 @@ Usually we don't notice it. I may call my son and see only what is in front of m
 
 ### Two sides of one rope
 
-What is the reason? Me first, and the other partner of me: my wife. As long as there is harmony between the two of us, we are two sides holding the rope at home, and everybody is held by it. If I cut it, they fall. If I do not hold my side strongly, the slack may pull all the way to the other side.
+What is the reason? Me first, and then the other partner with me: my wife. As long as there is harmony between the two of us, we are two sides holding the rope at home, and everybody is held by it. If I cut it, they fall. If I do not hold my side strongly, the slack may pull all the way to the other side.
 
-Think how many women speak badly about their husband in front of the children, who observe and absorb all of it until they are full. Then one day you cannot find your child at home: at eighteen he leaves. Why? You would still give him money; he would pay no rent. Yet he prefers to work at McDonald's or Walmart and earn money the hard way rather than stay home without work, because of the hardship at home. We cannot expand our chests to bear the others in the same place.
+Think how many women speak badly about their husbands in front of the children, who observe and absorb all of it until they are full. Then one day you cannot find your child at home: at eighteen he leaves. Why? You would still give him money; he would pay no rent. Yet he prefers to work at McDonald's or Walmart and earn money the hard way rather than stay home without work, because of the hardship at home. We cannot expand our chests to bear the others in the same place.
 
 ### The mentality of taking
 
-Usually my expectation from the people around me is: why didn't you do that for me? She asks me, why didn't you bring money, why didn't you do this and that. Nobody asks himself, why didn't I do that for the other? Once we have this mentality, the mentality of taking, of putting things inside, I am always trying to be full. I don't know what to call this kind of personality, but this is the situation. I don't want to take long; I have only given you, perhaps, the description, while the prescription is supposed to come from all of us together.
+Usually my expectation of the people around me is: why didn't you do that for me? She asks me, why didn't you bring money, why didn't you do this and that. Nobody asks himself, why didn't I do that for the other? Once we have this mentality, the mentality of taking, of putting things inside, I am always trying to be full. I don't know what to call this kind of personality, but this is the situation. I don't want to take long; I have only given you, perhaps, the description, while the prescription is supposed to come from all of us together.
 
 ### The prescription
 

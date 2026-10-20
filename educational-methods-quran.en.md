@@ -17,7 +17,7 @@ Human beings began with Adam. When Adam came down to this world, Allah, glorifie
 
 This was especially so in the time of jahiliyya, the time before Muhammad ﷺ came. We can call it an age of ignorance: they worshipped idols and did everything wrong, except for a few honorable qualities that stood as pillars of that community.
 
-Then the Quran came to keep people on the track. Which track? The track of stability, the track of content. All of this came together to form the character of the Muslim. You are supposed to be different from the rest of the people.
+Then the Quran came to keep people on the track. Which track? The track of stability, the track of contentment. All of this came together to form the character of the Muslim. You are supposed to be different from the rest of the people.
 
 ### A different standard
 
@@ -55,7 +55,7 @@ So the Quran begins its orders to the whole of humanity with this word, and as w
 
 ### "In the name of your Lord"
 
-Subhan Allah, when Allah ordered the Prophet ﷺ to read, He asked him to read in the name of his Lord. Why is that important? Because reading will lead me to know a great deal about this universe. But I might use it in the wrong direction. Take AI today: most people have at least a humble idea or opinion about it, and everybody is using it. Whatever comes to your mind, you ask it, even "What is the mood of my wife tonight?" One woman asked it, "Do you think my husband is cheating on me?" It told her, "Yes, your husband is cheating on you." She asked, "How did you know?" It said, "You are using your husband's phone, and he is usually asking me how to keep things hidden." It already had the information. You are laughing, and that is good; it looks like a joke. But if this is what happens when we use these tools in the right way, what about the wrong way? That is why you must keep Allah in mind, even before discovering the information, and even before taking the next step to get more.
+Subhan Allah, when Allah ordered the Prophet ﷺ to read, He asked him to read in the name of his Lord. Why is that important? Because reading will lead me to know a great deal about this universe. But I might use it in the wrong direction. Take AI today: most people have at least a humble idea or opinion about it, and everybody is using it. Whatever comes to your mind, you ask it, even "What is the mood of my wife tonight?" One woman asked it, "Do you think my husband is cheating on me?" It told her, "Yes, your husband is cheating on you." She asked, "How did you know?" It said, "You are using your husband's phone, and he usually asks me how to keep things hidden." It already had the information. You are laughing, and that is good; it looks like a joke. But if this is what happens when we use these tools in the right way, what about the wrong way? That is why you must keep Allah in mind, even before discovering the information, and even before taking the next step to get more.
 
 When Allah guided us, He guided us from the beginning to what we need to do and what direction we should take to achieve our goals. Why does He say "your Lord," and not simply "Allah"? Because I cannot return to Allah unless I affirm the One who created me, and so I must follow His direction. Nobody has more authority over me than Allah; He alone controls me, my life, my temper, everything. So I read while watching Him.
 
