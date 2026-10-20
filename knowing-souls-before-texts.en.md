@@ -40,7 +40,7 @@ If it is established that acquaintance is a divine grace, then the caller must s
 
 The first is **sound application**; for a single word may benefit in one setting and harm in another. The caller who reads the type of the one he addresses places every word in its rightful place: he is gentle where gentleness benefits, firm where nothing serves but firmness, and silent where silence is more eloquent than speech.
 
-The second is **the economy of effort**; for the energy of daʿwah is limited, and whoever squanders it upon one from whom no good is hoped has wasted it upon one who would have profited from it. The discernment of temperaments shows the caller where to place his effort, so that he does not spend his life convincing the obstinate while an open heart awaits him, having found none to take it by the hand.
+The second is **the economy of effort**; for the energy of daʿwah is limited, and whoever squanders it upon one from whom no good is hoped has deprived of it one who would have profited from it. The discernment of temperaments shows the caller where to place his effort, so that he does not spend his life convincing the obstinate while an open heart awaits him, having found none to take it by the hand.
 
 The third is **the heart's safety from temptation**; for he who is ignorant of people's natures may be beguiled by the adorned surface of the hypocrite, or despair of the inner state of the failing believer. But he who has discerned the types weighs people on a just scale that no glitter deceives and no surface misleads.
 

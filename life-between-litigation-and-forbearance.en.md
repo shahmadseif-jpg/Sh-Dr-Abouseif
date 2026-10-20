@@ -57,7 +57,7 @@ And when ʿUmar entered, the Prophet ﷺ became angry. So who was in the wrong? 
 
 And in the narration that our brother mentioned, when the Prophet ﷺ said that, he rebuked ʿUmar: How can his brother ask him to forgive him and he not forgive? How can he say to you, "Forgive me," and you do not pardon him? So the problem is not in the slip of speech, because this is expected from anyone, instead of one word that comes out, another word comes out. But the greater issue is that things remain in the souls: How can he say to you, "Forgive me," and you do not pardon him? Then ʿUmar said, in essence: He never asked me to forgive him but I had said in myself: May Allah forgive you, except that I did not let him hear it.
 
-That is, Abū Bakr is walking behind ʿUmar saying to him, "Pardon me," and his companion answers in himself, "May Allah forgive you," but does not show it to him. We may ask among ourselves: Why did he not show it to him? But this is a matter that goes back to what the situation then required, and we do not know what is in the souls of creation. But the principle between us remains, and the first requirement, reconciliation and pardon.
+That is, Abū Bakr is walking behind ʿUmar saying to him, "Pardon me," and his companion answers in himself, "May Allah forgive you," but does not show it to him. We may ask among ourselves: Why did he not show it to him? But this is a matter that goes back to what the situation then required, and we do not know what is in the souls of creation. But the principle between us, and the first requirement, remains reconciliation and pardon.
 
 ### Rabīʿa ibn Kaʿb al-Aslamī
 

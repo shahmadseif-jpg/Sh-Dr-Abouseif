@@ -11,7 +11,7 @@ readingMinutes: 6
 
 ### A Parable Repeated Twice
 
-In the words of the Lord of the Worlds, glory and exaltation be to Him: ﴿وَاضْرِبْ لَهُم مَّثَلَ الْحَيَاةِ الدُّنْيَا كَمَاءٍ أَنزَلْنَاهُ مِنَ السَّمَاءِ فَاخْتَلَطَ بِهِ نَبَاتُ الْأَرْضِ﴾ ("And present to them the parable of the life of this world: it is like water that We sent down from the sky, and the vegetation of the earth mingled with it"), this comparison is repeated twice in the Noble Qur'an: the first in Sūrat Yūnus, the second in Sūrat al-Kahf.[^1] What draws the eye is that Allah gives this example for worldly life: water He sent down from the sky, and the vegetation of the earth mingled with it, then it grows and thrives and flourishes and bears fruit, then it becomes dry rubble and dies. Glory be to the All-Powerful.
+In the words of the Lord of the Worlds, glory and exaltation be to Him: ﴿وَاضْرِبْ لَهُم مَّثَلَ الْحَيَاةِ الدُّنْيَا كَمَاءٍ أَنزَلْنَاهُ مِنَ السَّمَاءِ فَاخْتَلَطَ بِهِ نَبَاتُ الْأَرْضِ﴾ ("And present to them the parable of the life of this world: it is like water that We sent down from the sky, and the vegetation of the earth mingled with it"), this comparison is repeated twice in the Noble Qur'an: the first in Sūrat Yūnus, the second in Sūrat al-Kahf.[^1] What draws the eye is that Allah gives this example for worldly life: water He sent down from the sky, and the vegetation of the earth mingled with it, then it grows and thrives and flourishes and bears fruit, then it becomes dry stubble and dies. Glory be to the All-Powerful.
 
 ### After Ten Years
 

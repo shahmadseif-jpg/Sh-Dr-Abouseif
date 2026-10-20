@@ -25,7 +25,7 @@ What moves a person? In states of anger, a person sees himself at his best in de
 
 So between a person's wronging of himself, the wretchedness that overpowers him, and the Fire in which he ends, there is a line of travel in thought that we want to perceive clearly as we step through our lives. Whoever has grasped the Hereafter and known Paradise and tasted the flavor of its description has drawn for himself a line that reaches it. And whoever has not grasped this goal has become, in life, a random wanderer, stumbling between a self that commands, a devil that whispers, a companionship that seduces, and so on, until he sees himself in wretchedness, then sees himself crowded into the company of these wrongdoing people.
 
-O Allah, take us by our forelocks to what pleases You, guide us to You, guide us to Your straight path, do not entrust us to ourselves, and do not try us with what ends badly in this world.
+O Allah, take us by our forelocks to what pleases You, guide us to You, guide us to Your straight path, do not try us through our own selves, and do not try us with what ends badly in this world.
 
 ---
 [^1]: Editor's documentation: The verse is in Sūrat al-Muʾminūn: ﴿قُل رَّبِّ إِمَّا تُرِيَنِّي مَا يُوعَدُونَ ۝ رَبِّ فَلَا تَجْعَلْنِي فِي الْقَوْمِ الظَّالِمِينَ﴾ [al-Muʾminūn: 93–94].

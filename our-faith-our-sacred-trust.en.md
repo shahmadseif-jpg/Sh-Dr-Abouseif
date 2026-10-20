@@ -45,7 +45,7 @@ Moses stood before Pharaoh with neither his dominion nor his armies, but carryin
 
 Then came the life of the Prophet Muḥammad ﷺ, gathering within it every form of endurance and sacrifice: ridicule and accusation, siege and loss, departure from the land he loved, and the wounds of al-Ṭāʾif. When he was offered the destruction of those who had harmed him between the two mountains, he did not look only at the pain of the moment. He looked toward the human possibility that might emerge from their descendants. Hope for guidance overcame the pain of his wounds.[^7] Here the trust of daʿwah reaches its summit: that the caller remain faithful to the purpose of mercy even when suffering appears to grant him every justification for revenge.
 
-The prophets grasped the magnitude of their responsibility and fulfilled the trust, whatever the sacrifice. Daʿwah was not a road to status, but a covenant worthy of comfort and homeland—and even life itself when steadfastness upon truth demanded that price.
+The prophets grasped the magnitude of their responsibility and fulfilled the trust, whatever the sacrifice. Daʿwah was not a road to status, but a covenant worthy of the sacrifice of comfort and homeland—and even of life itself when steadfastness upon truth demanded that price.
 
 ## Third: When the Companions Turned Belief into Moral Position
 

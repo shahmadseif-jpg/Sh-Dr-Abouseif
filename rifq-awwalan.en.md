@@ -11,7 +11,7 @@ readingMinutes: 4
 
 O Allah, set right for us our religion, our worldly life, and our Hereafter; grant us right guidance in our affairs; bless us in what You have provided us; and protect us from the punishment of the Fire.
 
-When you look at the conditions of the Prophet ﷺ as he dealt with people, you see that his first slogan with creation was gentleness. The gentleness that led him to play with a boy on the road, and a young girl would take him by the hand and walk him around the whole of Madinah while he yielded in her hands ﷺ, wanting to settle her need with the Messenger of Allah beside her, and no one dared to speak.[^5]
+When you look at the conditions of the Prophet ﷺ as he dealt with people, you see that his first slogan with creation was gentleness. The gentleness that led him to play with a boy on the road, and a servant girl would take him by the hand and walk him around the whole of Madinah while he yielded in her hands ﷺ, wanting to settle her need with the Messenger of Allah beside her, and no one dared to speak.[^5]
 
 ### The Functional Logic
 
