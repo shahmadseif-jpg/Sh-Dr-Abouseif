@@ -17,7 +17,7 @@ At the center of the *muṣḥaf*, where the first half meets the second, sits a
 
 The answer opens up the method of the entire sūra: **the Qur'an names with that which human beings can imitate**.
 
-The Isrāʾ is a horizontal movement within human reach: travel, transition, learning, organizing, founding positions between lands. The Miʿrāj, by contrast, is a special honor reserved for God's friends — and every believer has his own miʿrāj in his prostration — but it is not a general law from which civilization can be built. The Truth chooses for the sūra the name of an act that the Muslim can pattern himself upon, not an act unique to His Prophet ﷺ.
+The Isrāʾ is a horizontal movement within human reach: travel, transition, learning, organizing, founding positions between lands. The Miʿrāj, by contrast, is a sign reserved for His Prophet ﷺ — and every believer has his own miʿrāj in his prostration — but it is not a general law from which civilization can be built. The Truth chooses for the sūra the name of an act that the Muslim can pattern himself upon, not an act unique to His Prophet ﷺ.
 
 This naming itself opens the door to civilization: **methodical movement upon the earth, not anticipatory waiting from the heavens**. The fifth episode of the "Qur'an and Civilization" series finds in this sūra the essence of the transition from the pillars of civilization (al-Kahf), to the ascending individual (Yūsuf), to the organized community (Sulaymān and Sabaʾ), to the unifying sunan, and then carries us into what is more refined: **the articles of the civic state — a civilizational constitution that safeguards the Muslim in lands not his own**.
 
