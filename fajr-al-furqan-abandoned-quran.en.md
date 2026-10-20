@@ -1,5 +1,5 @@
 ---
-title: "Reflections on Sūrat al-Furqān"
+title: "Abandoning the Qur'an: A Pause at Sūrat al-Furqān"
 subtitle: "Abandoning the Qur'an"
 date: "2026-03-06"
 locale: "en"

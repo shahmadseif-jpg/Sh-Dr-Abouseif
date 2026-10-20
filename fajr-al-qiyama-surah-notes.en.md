@@ -30,7 +30,7 @@ And he said: your reckoning will be measured by your ability to connect with the
 Then he concluded with the saying of the Exalted: ﴿كَلَّا بَلْ تُحِبُّونَ الْعَاجِلَةَ * وَتَذَرُونَ الْآخِرَةَ﴾ (No! Rather, you love the fleeting life, and leave the Hereafter),[^5] and that is the resurrection for which you will rise, if you are able to free yourself from your shackles. And he said: I ask Allah, glorified and exalted, to give us insight through the Qur'an; I will not add more than that.
 
 ---
-[^1]: Editor's documentation: al-Muddaththir 38–39: ﴿كُلُّ نَفْسٍ بِمَا كَسَبَتْ رَهِينَةٌ * إِلَّا أَصْحَابَ الْيَمِينِ﴾. In the transcript, in a side exchange, the verse's location was identified as al-Muddaththir and not al-Qiyāma; the speaker of that remark is not identified.
+[^1]: Editor's documentation: al-Muddaththir 38–39: ﴿كُلُّ نَفْسٍ بِمَا كَسَبَتْ رَهِينَةٌ * إِلَّا أَصْحَابَ الْيَمِينِ﴾.
 [^2]: Editor's documentation: al-Qiyāma 1–2.
 [^3]: Editor's documentation: al-Qiyāma 14–15.
 [^4]: Editor's documentation: al-Qiyāma 16–19.

@@ -30,4 +30,4 @@ Then he returned to His saying, Exalted: ﴿ثُمَّ أَتْبَعَ سَبَ
 And the Doctor concluded by saying: May Allah bless you, may Allah reward you with good, and peace.
 
 ---
-[^1]: Editor's documentation: The transcript of this khatira is garbled in many places, and only what was clear has been transferred from it. The verses are from Sūrat al-Kahf [al-Kahf: 84–88, 92–96], and have been recorded as far as the speaker recited and as far as the transcript made clear. The question “What is this addition?” is cut off in the transcript, so no answer is attributed to it.
+[^1]: Editor's documentation: The verses are from Sūrat al-Kahf [al-Kahf: 84–88, 92–96], and have been recorded as far as the speaker recited.

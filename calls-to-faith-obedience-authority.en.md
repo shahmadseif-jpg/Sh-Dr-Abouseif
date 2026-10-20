@@ -13,7 +13,7 @@ The Doctor began his lesson with the basmala, then Sūrat al-Nisāʾ, and recite
 
 ### The Calls of the Sūrah
 
-At the beginning of the lesson he went over calls from the same sūrah: ﴿يَا أَيُّهَا الَّذِينَ آمَنُوا لَا يَحِلُّ لَكُمْ أَن تَرِثُوا النِّسَاءَ كَرْهًا﴾ (“O you who believe, it is not lawful for you to inherit women against their will”), and ﴿يَا أَيُّهَا الَّذِينَ آمَنُوا لَا تَأْكُلُوا أَمْوَالَكُم بَيْنَكُم بِالْبَاطِلِ﴾ (“O you who believe, do not consume one another's wealth unjustly”), and ﴿يَا أَيُّهَا الَّذِينَ آمَنُوا لَا تَقْرَبُوا الصَّلَاةَ وَأَنتُمْ سُكَارَىٰ﴾ (“O you who believe, do not approach prayer while you are intoxicated”), then he returned to the call to obedience: ﴿يَا أَيُّهَا الَّذِينَ آمَنُوا أَطِيعُوا اللَّهَ وَأَطِيعُوا الرَّسُولَ﴾ (“O you who believe, obey Allah and obey the Messenger”).[^2]
+At the beginning of the lesson he went over calls from the same sūrah: ﴿يَا أَيُّهَا الَّذِينَ آمَنُوا لَا يَحِلُّ لَكُمْ أَن تَرِثُوا النِّسَاءَ كَرْهًا﴾ (“O you who believe, it is not lawful for you to inherit women against their will”), and ﴿يَا أَيُّهَا الَّذِينَ آمَنُوا لَا تَأْكُلُوا أَمْوَالَكُم بَيْنَكُم بِالْبَاطِلِ﴾ (“O you who believe, do not consume one another's wealth unjustly”), and ﴿يَا أَيُّهَا الَّذِينَ آمَنُوا لَا تَقْرَبُوا الصَّلَاةَ وَأَنتُمْ سُكَارَىٰ﴾ (“O you who believe, do not approach prayer while you are intoxicated”), then he returned to the call to obedience: ﴿يَا أَيُّهَا الَّذِينَ آمَنُوا أَطِيعُوا اللَّهَ وَأَطِيعُوا الرَّسُولَ﴾ (“O you who believe, obey Allah and obey the Messenger”).
 
 ### Obeying Allah and Obeying the Messenger ﷺ
 
@@ -21,15 +21,15 @@ He lingered over the command to obey, repeating the words “Obey Allah,” and 
 
 ### Those in Authority and Titles
 
-At this point he mentioned official titles: “His Excellency the President,” “His Excellency the Minister,” “Your Honor…,” “Master of Excellency, Eminence and Presidency,” and in the transcript he described them as “sacred words,” then returned to the command to obey Allah, Blessed and Exalted, and to obey the Prophet ﷺ.[^3] He apparently referred to Imam Ibn ʿĀshūr when speaking about “disputing,” and mentioned “those of sovereignty and leadership” and “the ruler,” and swore by Almighty Allah in that connection; the substance is cut off in the transcript.[^4]
+At this point he mentioned official titles: “His Excellency the President,” “His Excellency the Minister,” “Your Honor…,” “Master of Excellency, Eminence and Presidency,” and in the transcript he described them as “sacred words,” then returned to the command to obey Allah, Blessed and Exalted, and to obey the Prophet ﷺ. He apparently referred to Imam Ibn ʿĀshūr when speaking about “disputing,” and mentioned “those of sovereignty and leadership” and “the ruler,” and swore by Almighty Allah in that connection; the substance is cut off in the transcript.
 
 ### Sūrat ʿAbasa
 
-In the course of this he recited: ﴿عَبَسَ وَتَوَلَّىٰ * أَن جَاءَهُ الْأَعْمَىٰ * وَمَا يُدْرِيكَ لَعَلَّهُ يَزَّكَّىٰ﴾ (“He frowned and turned away, because the blind man came to him. And what would make you know, perhaps he might be purified”), then he mentioned hadiths and a source for them, and the meaning here is cut off in the transcript.[^5]
+In the course of this he recited: ﴿عَبَسَ وَتَوَلَّىٰ * أَن جَاءَهُ الْأَعْمَىٰ * وَمَا يُدْرِيكَ لَعَلَّهُ يَزَّكَّىٰ﴾ (“He frowned and turned away, because the blind man came to him. And what would make you know, perhaps he might be purified”), then he mentioned hadiths and a source for them, and the meaning here is cut off in the transcript.
 
 ### A Word of Truth before an Unjust Ruler
 
-Then he mentioned a hadith with the wording: “The greatest jihad is a word of truth before an unjust ruler,” and before it in the transcript he mentioned Muhammad ﷺ.[^6]
+Then he mentioned a hadith with the wording: “The greatest jihad is a word of truth before an unjust ruler,” and before it in the transcript he mentioned Muhammad ﷺ.[^2]
 
 ### Abraham, Peace Be upon Him, and the King
 
@@ -39,13 +39,8 @@ After the hadith he recited the story of Abraham with the king: ﴿أَلَمْ 
 
 And he recited the words of the Exalted: ﴿إِنَّ اللَّهَ يَأْمُرُكُمْ أَن تُؤَدُّوا الْأَمَانَاتِ إِلَىٰ أَهْلِهَا وَإِذَا حَكَمْتُم بَيْنَ النَّاسِ أَن تَحْكُمُوا بِالْعَدْلِ﴾ (“Indeed, Allah commands you to render trusts to their rightful owners, and when you judge between people, to judge with justice”).
 
-And at the end of the transcript: “Greatest salutation… All right, sir, all right, Your Honor,” with no context showing what is meant, and then the transcript breaks off at the word “Take…”.[^7]
+And at the end of the transcript: “Greatest salutation… All right, sir, all right, Your Honor,” with no context showing what is meant, and then the transcript breaks off at the word “Take…”.
 
 ---
-[^1]: Editor's documentation: The transcript has “a call number in Sūrat al-Nisāʾ,” and the intended number could not be determined, so it was not included. The lecturer did not mention verse numbers; their locations according to the editor: the verse of obedience, al-Nisāʾ 4:59; the earlier calls, al-Nisāʾ 4:19, 4:29 and 4:43; “whoever obeys the Messenger,” al-Nisāʾ 4:80; ʿAbasa 80:1-3; the story of Abraham, al-Baqara 2:258; the verse of trusts, al-Nisāʾ 4:58.
-[^2]: Editor's documentation: The transcript has a stumble and self-correction at this point (“with usury,” then “unjustly”), and the verse has been given in the correct form at which the lecturer arrived.
-[^3]: Editor's documentation: The passage on the titles is garbled in the transcript; it is not clear whether it is mockery, a warning, or a listing of the forms of those who are obeyed, and so no stance toward them has been attributed to the lecturer. The phrase “those of sovereignty” may itself be one of the titles. Likewise, the source of the statement “Imam Ibn ʿĀshūr” and what he took from him were not made clear.
-[^4]: Editor's documentation: After the mention of Ibn ʿĀshūr, the transcript has distorted names (“Abu Muhammad,” “Abu Yasin”) and a cut-off English sentence (“against the rules of Islam at that time…”) from which no meaning can be extracted, so they were not transferred.
-[^5]: Editor's documentation: The reason for citing Sūrat ʿAbasa in this context was not made clear; and what follows it in the transcript (“hadiths… the source”) is cut off.
-[^6]: Editor's documentation: The hadith is narrated with the wording “The best jihad is a word of justice before an unjust ruler” in Abū Dāwūd, al-Tirmidhī and Ibn Mājah from the hadith of Abū Saʿīd al-Khudrī (may Allah be pleased with him), and with the wording “a word of truth before an unjust ruler” in al-Nasāʾī from the hadith of Ṭāriq ibn Shihāb (may Allah be pleased with him). As for the wording “the greatest jihad,” it is what is in the transcript, and it has been given as the lecturer said it. After the hadith the transcript has the name “ʿAbd al-Ḥamīd” with no context, so it was not included.
-[^7]: Editor's documentation: This phrase may be a rendering of a greeting said to a ruler, but this cannot be asserted; it has been transferred as it appeared.
+[^1]: Editor's documentation: The lecturer did not mention verse numbers; their locations according to the editor: the verse of obedience, al-Nisāʾ 4:59; the earlier calls, al-Nisāʾ 4:19, 4:29 and 4:43; “whoever obeys the Messenger,” al-Nisāʾ 4:80; ʿAbasa 80:1-3; the story of Abraham, al-Baqara 2:258; the verse of trusts, al-Nisāʾ 4:58.
+[^2]: Editor's documentation: The hadith is narrated with the wording “The best jihad is a word of justice before an unjust ruler” in Abū Dāwūd, al-Tirmidhī and Ibn Mājah from the hadith of Abū Saʿīd al-Khudrī (may Allah be pleased with him), and with the wording “a word of truth before an unjust ruler” in al-Nasāʾī from the hadith of Ṭāriq ibn Shihāb (may Allah be pleased with him). As for the wording “the greatest jihad,” it is as the lecturer said it.

@@ -25,11 +25,11 @@ That is why we have our own methods and ethics. When we say lying, is it halal o
 
 So when people look at you, they find a different person, because this is a different character. You are a unique person in this world.
 
-When the Prophet Muhammad ﷺ explained the reality of the Muslim's position, he showed us that people see you and watch you, all of them. For that reason you must be bright all the time, and nothing should scratch you or make you dirty in the eyes of the people around you.[^1] This is why the Quran came with a system to build that character.
+When the Prophet Muhammad ﷺ explained the reality of the Muslim's position, he showed us that people see you and watch you, all of them. For that reason you must be bright all the time, and nothing should scratch you or make you dirty in the eyes of the people around you. This is why the Quran came with a system to build that character.
 
 ### Why the first word was "Read"
 
-At the very beginning of the Quran we find the first verse that came to the Prophet ﷺ.[^2] You may ask yourself why this verse came first. Because the first thing that must be awakened is the mind of the human being.
+At the very beginning of the Quran we find the first verse that came to the Prophet ﷺ.[^1] You may ask yourself why this verse came first. Because the first thing that must be awakened is the mind of the human being.
 
 Imagine I take care of your body before your mindset. What will that person become? He will become like the animals: fat, strong, full of desire, but unable to control the desire, because the part of him that should do the controlling is not working. He cannot say no, he cannot say yes, he cannot say "I want" or "I hate." He does whatever he likes without thinking about the consequences. So from the earliest beginning, the first command that came to the Prophet ﷺ was meant to wake up that mindset: to open the eyes to see, to open the ears and the mind, to start thinking and analyzing.
 
@@ -82,5 +82,4 @@ If we do something wrong, such as, as I mentioned, leaving your plate behind you
 I ask Allah to accept from all of us. I think it is time for the prayer, and I do not want to take a long time.
 
 ---
-[^1]: Editor's note (توثيق المحرر): the Prophetic wording the speaker cites is not clear in the transcript, so it is not quoted here; only the meaning he gave is kept.
-[^2]: Editor's note (توثيق المحرر): the Arabic wording of the verses the speaker cites in this khatira did not survive in the transcript. The context (the first verse revealed, and the commentary on "read," "your Lord," and "the Most Generous") points to the opening of Surat al-ʿAlaq (96); the identification of the surah is the editor's.
+[^1]: Editor's note (توثيق المحرر): The context (the first verse revealed, and the commentary on "read," "your Lord," and "the Most Generous") points to the opening of Surat al-ʿAlaq (96) as the verses the speaker cites; the identification of the surah is the editor's.

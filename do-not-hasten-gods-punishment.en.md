@@ -26,4 +26,4 @@ And in the legislation of the Lord of the worlds, glory be to Him, the Exalted, 
 Do not hasten the punishment of Allah, blessed and exalted, but hasten the mercy of Allah, mighty and majestic: look for the places of righteous deeds and set out into them, and look for the places of evil deeds and keep far from them. I ask Allah for me and for you guidance, safety, freedom from blame and His good pleasure in His presence, glory be to Him, the Exalted, in this world.
 
 ---
-[^1]: Editor's documentation: The verse with this wording is in Sūrat al-Ṣāffāt (176) and in Sūrat al-Shuʿarā' (204); the speaker did not mention the surah in the transcript, so no particular location can be determined.
+[^1]: Editor's documentation: The verse with this wording is in Sūrat al-Ṣāffāt (176) and in Sūrat al-Shuʿarā' (204); the speaker did not mention the surah, so no particular location can be determined.

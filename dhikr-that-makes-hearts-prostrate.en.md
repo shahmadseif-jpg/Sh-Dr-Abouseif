@@ -24,5 +24,5 @@ And reflect on His saying, Glory be to Him: ﴿تَتَجَافَىٰ جُنُو
 Remember Allah in your deeds, in your work, in your life, in your conduct, in your situations. Remember Allah when you feel that you are men, and remember Him when you feel that you are fathers, and remember Him when you feel that you are merchants who buy and sell, and remember Him when you feel that you are people with a mission in this life, whether a doctor or a professor or an engineer or a merchant, whatever you may be. The remembrance of Allah, Blessed and Exalted, night and day.
 
 ---
-[^1]: Editor's documentation: The speaker alludes to the meaning of the verse, which is in Sūrat al-Sajdah (15): ﴿إِنَّمَا يُؤْمِنُ بِآيَاتِنَا الَّذِينَ إِذَا ذُكِّرُوا بِهَا خَرُّوا سُجَّدًا…﴾ (“Only those believe in Our verses who, when they are reminded of them, fall down in prostration…”); he did not recite it verbatim in the transcript.
+[^1]: Editor's documentation: The speaker alludes to the meaning of the verse, which is in Sūrat al-Sajdah (15): ﴿إِنَّمَا يُؤْمِنُ بِآيَاتِنَا الَّذِينَ إِذَا ذُكِّرُوا بِهَا خَرُّوا سُجَّدًا…﴾ (“Only those believe in Our verses who, when they are reminded of them, fall down in prostration…”); he did not recite it verbatim.
 [^2]: Al-Sajdah: 16.

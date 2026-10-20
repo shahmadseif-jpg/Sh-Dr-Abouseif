@@ -62,4 +62,4 @@ So deal with people according to their minds. And when you see a report like thi
 ---
 [^1]: Editor's documentation: The speaker did not attribute the report to anyone. A statement similar in meaning is narrated from ʿAlī (may Allah be pleased with him): "Speak to people of what they know; do you want Allah and His Messenger to be denied?" in Ṣaḥīḥ al-Bukhārī as a suspended report (taʿlīqan); as for the wording the speaker mentioned, the editor has not verified its authenticity, so there is no certainty in attributing it to the Prophet ﷺ or to a Companion.
 [^2]: Editor's documentation: Sūrat al-Muzzammil, verse 10. The speaker did not specify the location.
-[^3]: Editor's documentation: It appears that the speaker is referring to the words of the Exalted in Sūrat al-Anʿām, verse 33: ﴿قَدْ نَعْلَمُ إِنَّهُ لَيَحْزُنُكَ الَّذِي يَقُولُونَ﴾ — and the transcription at this point is garbled ("lā yaḥsūnaka"), so the verse was not set in the body text.
+[^3]: Editor's documentation: It appears that the speaker is referring to the words of the Exalted in Sūrat al-Anʿām, verse 33: ﴿قَدْ نَعْلَمُ إِنَّهُ لَيَحْزُنُكَ الَّذِي يَقُولُونَ﴾.

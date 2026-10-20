@@ -49,4 +49,4 @@ I ask Allah, the Most High, the All-Powerful, to make us content with what He ha
 
 ---
 [^1]: Editor's documentation: al-Shūrā: 27.
-[^2]: Editor's documentation: al-Shūrā: 32–33. The speaker mentioned the two verses as evidence of Allah's power, and there is a disturbance in the transcript at the close of the discussion of the second verse, so only what was coherent is kept here.
+[^2]: Editor's documentation: al-Shūrā: 32–33. The speaker mentioned the two verses as evidence of Allah's power.

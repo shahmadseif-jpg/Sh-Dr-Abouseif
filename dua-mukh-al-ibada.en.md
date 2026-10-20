@@ -57,7 +57,7 @@ Our Lord, inspire us to make du'a, answer our du'a, calm our thoughts and our so
 
 ---
 [^1]: Editor's documentation: Narrated by al-Tirmidhī from the ḥadīth of Anas (may Allah be pleased with him), who declared its chain weak (in its chain is Ibn Lahīʿah), so it is not established with this wording; its meaning is authentic in the ḥadīth of al-Nuʿmān ibn Bashīr (may Allah be pleased with him): «الدعاء هو العبادة» (Du'a is worship) (Abū Dāwūd and al-Tirmidhī).
-[^2]: Editor's documentation: What is reported in the Qur'an of Pharaoh when drowning is: ﴿آمَنتُ أَنَّهُ لَا إِلَٰهَ إِلَّا الَّذِي آمَنَتْ بِهِ بَنُو إِسْرَائِيلَ وَأَنَا مِنَ الْمُسْلِمِينَ﴾ (Yūnus: 90); as for "We believe in the Lord of Hārūn and Mūsā," it is from the saying of the magicians (Ṭā Hā: 70). The speaker attributed the second phrase to Pharaoh in the transcript.
+[^2]: Editor's documentation: What is reported in the Qur'an of Pharaoh when drowning is: ﴿آمَنتُ أَنَّهُ لَا إِلَٰهَ إِلَّا الَّذِي آمَنَتْ بِهِ بَنُو إِسْرَائِيلَ وَأَنَا مِنَ الْمُسْلِمِينَ﴾ (Yūnus: 90); as for "We believe in the Lord of Hārūn and Mūsā," it is from the saying of the magicians (Ṭā Hā: 70). The speaker attributed the second phrase to Pharaoh.
 [^3]: Editor's documentation: The origin of the du'a is in the Two Ṣaḥīḥs from the ḥadīth of ʿĀʾishah (may Allah be pleased with her), and the wording here is as the speaker cited it.
 [^4]: Editor's documentation: Sūrat al-Fātiḥah, verses 5 and 6.
 [^5]: Editor's documentation: Sūrat al-Wāqiʿah, verses 17 and 18.

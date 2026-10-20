@@ -25,7 +25,7 @@ This call came after His words, glory be to Him:
 
 ﴿يَا أَيُّهَا الَّذِينَ آمَنُوا أَنفِقُوا مِن طَيِّبَاتِ مَا كَسَبْتُمْ وَمِمَّا أَخْرَجْنَا لَكُم مِّنَ الْأَرْضِ ۖ وَلَا تَيَمَّمُوا الْخَبِيثَ مِنْهُ تُنفِقُونَ﴾ (O you who believe, spend from the good things you have earned and from what We have brought forth for you from the earth, and do not aim at the bad of it to spend)
 
-He said: It is as though the Lord of Might, after teaching the human soul how to listen to His calls regarding spending, made wealth light on the soul, so that it parts with it easily, the human being having given up the selfishness that was in him before, after a system of exercises.[^2]
+He said: It is as though the Lord of Might, after teaching the human soul how to listen to His calls regarding spending, made wealth light on the soul, so that it parts with it easily, the human being having given up the selfishness that was in him before, after a system of exercises.
 
 And he explained what those exercises were. The first exercise was in the first call of faith in the sūrah:
 
@@ -47,7 +47,7 @@ Then he pointed to the conflict that takes place within the human soul, between 
 
 ### ﴿إِن كُنتُم مُّؤْمِنِينَ﴾ ("If you are believers")
 
-And when I look at this condition that the Lord of the worlds set: ﴿إِن كُنتُم مُّؤْمِنِينَ﴾ (if you are believers) — he said, and he asked the one beside him to help him recall another place where this condition occurs, and then mentioned what came to him: ﴿وَأَنتُمُ الْأَعْلَوْنَ﴾ (and you will be the superior), and then His words, the Exalted: ﴿إِن يَمْسَسْكُمْ قَرْحٌ فَقَدْ مَسَّ الْقَوْمَ قَرْحٌ مِّثْلُهُ ۚ وَتِلْكَ الْأَيَّامُ نُدَاوِلُهَا بَيْنَ النَّاسِ﴾ (If a wound touches you, a similar wound has touched the others; and these days We rotate among the people). Then he said: The verse says: ﴿وَلَا تَهِنُوا وَلَا تَحْزَنُوا وَأَنتُمُ الْأَعْلَوْنَ إِن كُنتُم مُّؤْمِنِينَ﴾ (Do not weaken and do not grieve, for you will be superior, if you are believers).[^3]
+And when I look at this condition that the Lord of the worlds set: ﴿إِن كُنتُم مُّؤْمِنِينَ﴾ (if you are believers) — he said, and he asked the one beside him to help him recall another place where this condition occurs, and then mentioned what came to him: ﴿وَأَنتُمُ الْأَعْلَوْنَ﴾ (and you will be the superior), and then His words, the Exalted: ﴿إِن يَمْسَسْكُمْ قَرْحٌ فَقَدْ مَسَّ الْقَوْمَ قَرْحٌ مِّثْلُهُ ۚ وَتِلْكَ الْأَيَّامُ نُدَاوِلُهَا بَيْنَ النَّاسِ﴾ (If a wound touches you, a similar wound has touched the others; and these days We rotate among the people). Then he said: The verse says: ﴿وَلَا تَهِنُوا وَلَا تَحْزَنُوا وَأَنتُمُ الْأَعْلَوْنَ إِن كُنتُم مُّؤْمِنِينَ﴾ (Do not weaken and do not grieve, for you will be superior, if you are believers).[^2]
 
 There, the condition of faith was the cause for the fulfillment of the promise of Allah, blessed and exalted. But in this verse our Lord says: ﴿اتَّقُوا اللَّهَ وَذَرُوا مَا بَقِيَ مِنَ الرِّبَا إِن كُنتُم مُّؤْمِنِينَ﴾ (fear Allah and give up what remains of riba, if you are believers). So at one time He makes faith a condition for an action to proceed from the Lord of Might, glory be to Him, and at another time He makes it a condition for the soul's response and its embodying the command of Allah, blessed and exalted. Faith is the regulator; indeed it almost is the dividing line between the decisions of servants: whether they will be at the lower level or at the higher.
 
@@ -65,7 +65,7 @@ Then he said: That is the faith that is sought in the psychology of that servant
 
 Then comes the warning that expresses the gravity of the act and the immensity of what is forbidden:
 
-﴿فَإِن لَّمْ تَفْعَلُوا فَأْذَنُوا بِحَرْبٍ مِّنَ اللَّهِ وَرَسُولِهِ ۖ وَإِن تُبْتُمْ فَلَكُمْ رُءُوسُ أَمْوَالِكُمْ لَا تَظْلِمُونَ وَلَا تُظْلَمُونَ﴾ (And if you do not, then be informed of a war from Allah and His Messenger; but if you repent, you shall have your principal, wronging not and being wronged not)[^4]
+﴿فَإِن لَّمْ تَفْعَلُوا فَأْذَنُوا بِحَرْبٍ مِّنَ اللَّهِ وَرَسُولِهِ ۖ وَإِن تُبْتُمْ فَلَكُمْ رُءُوسُ أَمْوَالِكُمْ لَا تَظْلِمُونَ وَلَا تُظْلَمُونَ﴾ (And if you do not, then be informed of a war from Allah and His Messenger; but if you repent, you shall have your principal, wronging not and being wronged not)[^3]
 
 Between pulling and drawing, between warning and encouragement, the Lord of the worlds, glory be to Him, warns of a war that He, mighty and majestic, Himself wages against those who fell short of the command, and also deals justly with them: We will return your principal to you, so We touch nothing of yours, and We have no need of your wealth; so be mindful of what the life in your hands stands upon.
 
@@ -77,6 +77,5 @@ And he said: And Allah, blessed and exalted, is Most High and Most Knowing. And 
 
 ---
 [^1]: Editor's documentation: The lecturer did not mention the locations of the verses recited; these are their locations in the order they appear in the article: al-Baqarah 278; al-Baqarah 275; al-Baqarah 267; al-Baqarah 104; al-Baqarah 153; Āl ʿImrān 140; Āl ʿImrān 139; al-Nisāʾ 141; al-Baqarah 279.
-[^2]: Editor's documentation: The wording in the transcript is not entirely clear («فتخرج منه بسهولة الأثرة التي كانت موجودة قبل ذلك تخلى الإنسان عنها»), and it has been rendered as closely as the words allow.
-[^3]: Editor's documentation: The lecturer mentioned that he asked one of those present to help him recall the location of the condition, and he began with «وأنتم الأعلون» and then recited the whole verse. The two verses are from Sūrat Āl ʿImrān, in the context of Uḥud. The name of the person he asked has been removed.
-[^4]: Editor's documentation: The verse's context is in Sūrat al-Baqarah after the verses on riba, and the lecturer recited it in full in the transcript.
+[^2]: Editor's documentation: The two verses are from Sūrat Āl ʿImrān, in the context of Uḥud.
+[^3]: Editor's documentation: The verse's context is in Sūrat al-Baqarah after the verses on riba, and the lecturer recited it in full.

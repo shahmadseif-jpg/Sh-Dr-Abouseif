@@ -13,13 +13,13 @@ readingMinutes: 5
 
 The speaker opened with a supplication: «اللهم إنا نسألك خير هذه الليلة وخير ما فيها وخير ما بعدها، ونعوذ بك من شر هذه الليلة وشر ما فيها وشر ما بعدها. اللهم أصلح لنا ديننا الذي هو عصمة أمرنا، وأصلح لنا دنيانا التي فيها معاشنا، وأصلح لنا آخرتنا التي إليها معادنا. اللهم اجعل الحياة زيادة لنا في كل خير، واجعل الموت راحة لنا من كل شر. لا تضلنا ولا تضل بنا، واهدنا واهد بنا، وثبّت قلوبنا على ما يرضيك، وخذ بنواصينا إلى طاعتك وأسبابها، واجعلنا ربنا ممن أخلصوا دينهم ودنياهم لك وحدك لا شريك لك. اللهم برّئنا من النفاق والرياء والشرك. اللهم إنا نعوذ بك من موالاة الظالمين والانتصار إليهم. اللهم طهّر قلوبنا وبرّئها من آيات النفاق وأسبابه. اللهم آمين يا رب» (O Allah, we ask You for the good of this night, the good of what it holds and the good of what follows it, and we seek refuge in You from the evil of this night, the evil of what it holds and the evil of what follows it. O Allah, set right for us our religion, which is the safeguard of our affairs; set right for us our worldly life, in which is our livelihood; and set right for us our hereafter, to which is our return. O Allah, make life an increase for us in every good, and make death a rest for us from every evil. Do not let us go astray and do not let anyone go astray through us; guide us and guide others through us; make our hearts firm upon what pleases You; take us by our forelocks to obedience to You and its means; and make us, our Lord, among those who devoted their religion and their worldly life to You alone, who have no partner. O Allah, free us from hypocrisy, showing off and associating partners with You. O Allah, we seek refuge in You from allying with the wrongdoers and siding with them. O Allah, purify our hearts and free them from the signs of hypocrisy and its causes. O Allah, amen, our Lord).
 
-Then he mentioned the call with which he had begun: ﴿يَا أَيُّهَا الَّذِينَ آمَنُوا لَا تُبْطِلُوا صَدَقَاتِكُم بِالْمَنِّ وَالْأَذَىٰ﴾ (O you who believe, do not nullify your charity with reproach and injury).[^1] After it, the transcript contains fragmentary English speech from which no meaning could be made out.[^2]
+Then he mentioned the call with which he had begun: ﴿يَا أَيُّهَا الَّذِينَ آمَنُوا لَا تُبْطِلُوا صَدَقَاتِكُم بِالْمَنِّ وَالْأَذَىٰ﴾ (O you who believe, do not nullify your charity with reproach and injury).[^1] After it, the transcript contains fragmentary English speech from which no meaning could be made out.
 
 ### The Calls of Sūrat al-Baqarah
 
 Then he went through the calls to faith in Sūrat al-Baqarah:
 
-﴿يَا أَيُّهَا الَّذِينَ آمَنُوا لَا تَقُولُوا رَاعِنَا …﴾ (O you who believe, do not say "Rā'inā" …), and at this point he mentioned "the point of reference."[^3]
+﴿يَا أَيُّهَا الَّذِينَ آمَنُوا لَا تَقُولُوا رَاعِنَا …﴾ (O you who believe, do not say "Rā'inā" …), and at this point he mentioned "the point of reference."
 
 ﴿يَا أَيُّهَا الَّذِينَ آمَنُوا اسْتَعِينُوا بِالصَّبْرِ وَالصَّلَاةِ﴾ (O you who believe, seek help through patience and prayer)
 
@@ -45,7 +45,7 @@ Then he returned to the call: ﴿لَا تُبْطِلُوا صَدَقَاتِ�
 
 ﴿قَوْلٌ مَّعْرُوفٌ وَمَغْفِرَةٌ خَيْرٌ مِّن صَدَقَةٍ يَتْبَعُهَا أَذًى﴾ (A kind word and forgiveness are better than charity followed by injury)
 
-And he repeated his words ﴿قَوْلٌ مَّعْرُوفٌ وَمَغْفِرَةٌ﴾ (a kind word and forgiveness).[^4]
+And he repeated his words ﴿قَوْلٌ مَّعْرُوفٌ وَمَغْفِرَةٌ﴾ (a kind word and forgiveness).
 
 ### The Parables of Spending
 
@@ -61,17 +61,17 @@ Then in his talk he passed over verses from the same passage: the words of Ibrā
 
 ﴿لَا إِكْرَاهَ فِي الدِّينِ ۖ قَد تَّبَيَّنَ الرُّشْدُ مِنَ الْغَيِّ ۚ فَمَن يَكْفُرْ بِالطَّاغُوتِ وَيُؤْمِن بِاللَّهِ فَقَدِ اسْتَمْسَكَ بِالْعُرْوَةِ الْوُثْقَىٰ لَا انفِصَامَ لَهَا ۗ وَاللَّهُ سَمِيعٌ عَلِيمٌ﴾ (There is no compulsion in religion; right guidance has become distinct from error. So whoever disbelieves in false deities and believes in Allah has grasped the most trustworthy handhold, which will never break; and Allah is All-Hearing, All-Knowing)
 
-﴿اللَّهُ لَا إِلَٰهَ إِلَّا هُوَ الْحَيُّ الْقَيُّومُ …﴾ (Allah, there is no god but He, the Ever-Living, the Self-Sustaining …)[^5]
+﴿اللَّهُ لَا إِلَٰهَ إِلَّا هُوَ الْحَيُّ الْقَيُّومُ …﴾ (Allah, there is no god but He, the Ever-Living, the Self-Sustaining …)
 
 Then he returned to the call:
 
-﴿يَا أَيُّهَا الَّذِينَ آمَنُوا أَنفِقُوا مِن طَيِّبَاتِ …﴾ (O you who believe, spend from the good things …)[^9]
+﴿يَا أَيُّهَا الَّذِينَ آمَنُوا أَنفِقُوا مِن طَيِّبَاتِ …﴾ (O you who believe, spend from the good things …)[^5]
 
 And after it, the parable of those who spend seeking Allah's pleasure:
 
 ﴿وَمَثَلُ الَّذِينَ يُنفِقُونَ أَمْوَالَهُمُ ابْتِغَاءَ مَرْضَاتِ اللَّهِ وَتَثْبِيتًا مِّنْ أَنفُسِهِمْ كَمَثَلِ جَنَّةٍ بِرَبْوَةٍ أَصَابَهَا وَابِلٌ فَآتَتْ أُكُلَهَا ضِعْفَيْنِ فَإِن لَّمْ يُصِبْهَا وَابِلٌ …﴾ (And the parable of those who spend their wealth seeking Allah's pleasure and to strengthen their souls is that of a garden on high ground: a downpour strikes it and it yields its fruit twofold; and if no downpour strikes it …)
 
-At this point the transcript contains a question about the name of what comes after the downpour (and about its English word), and an answer: "the dew" (al-nadā).[^6]
+At this point the transcript contains a question about the name of what comes after the downpour (and about its English word), and an answer: "the dew" (al-nadā).[^2]
 
 Then the other parable:
 
@@ -79,19 +79,15 @@ Then the other parable:
 
 He repeated "you may reflect" (tatafakkarūn) three times, then said: "This is a secret from the Lord of the worlds," and recited:
 
-﴿وَمِنْ آيَاتِهِ أَنْ خَلَقَ لَكُم مِّنْ أَنفُسِكُمْ أَزْوَاجًا لِّتَسْكُنُوا إِلَيْهَا وَجَعَلَ بَيْنَكُم مَّوَدَّةً وَرَحْمَةً ۚ إِنَّ فِي ذَٰلِكَ لَآيَاتٍ لِّقَوْمٍ يَتَفَكَّرُونَ﴾ (And among His signs is that He created for you from yourselves mates that you may find tranquility in them, and He placed between you affection and mercy. Indeed in that are signs for a people who reflect)[^7]
+﴿وَمِنْ آيَاتِهِ أَنْ خَلَقَ لَكُم مِّنْ أَنفُسِكُمْ أَزْوَاجًا لِّتَسْكُنُوا إِلَيْهَا وَجَعَلَ بَيْنَكُم مَّوَدَّةً وَرَحْمَةً ۚ إِنَّ فِي ذَٰلِكَ لَآيَاتٍ لِّقَوْمٍ يَتَفَكَّرُونَ﴾ (And among His signs is that He created for you from yourselves mates that you may find tranquility in them, and He placed between you affection and mercy. Indeed in that are signs for a people who reflect)[^3]
 
 ### "Shall We Feed One Whom, If Allah Willed …"
 
-And he concluded by pausing at what he called the slogans of the disbelievers, we seek refuge in Allah, when the Lord of the worlds sets for us a parable through their saying: «أنطعم من لو يشاء الله …» (Shall we feed one whom, if Allah willed …). And he commented in colloquial Arabic, the meaning of which is that this is what they say: shall we feed someone whom Allah, had He willed, would have fed? Then he followed it with what appears to be a rejection of the weight of this statement.[^8] And the transcript ended with a repetition of the call: ﴿يَا أَيُّهَا الَّذِينَ آمَنُوا أَنفِقُوا مِن طَيِّبَاتِ مَا كَسَبْتُمْ﴾ (O you who believe, spend from the good things you have earned).
+And he concluded by pausing at what he called the slogans of the disbelievers, we seek refuge in Allah, when the Lord of the worlds sets for us a parable through their saying: «أنطعم من لو يشاء الله …» (Shall we feed one whom, if Allah willed …). And he commented in colloquial Arabic, the meaning of which is that this is what they say: shall we feed someone whom Allah, had He willed, would have fed? Then he followed it with what appears to be a rejection of the weight of this statement.[^4] And the transcript ended with a repetition of the call: ﴿يَا أَيُّهَا الَّذِينَ آمَنُوا أَنفِقُوا مِن طَيِّبَاتِ مَا كَسَبْتُمْ﴾ (O you who believe, spend from the good things you have earned).
 
 ---
 [^1]: Editor's documentation: The speaker did not mention the locations of the verses he recited; these are their locations in the order in which they appear in the article: al-Baqarah: 264; al-Baqarah: 104; al-Baqarah: 153; al-Baqarah: 172; al-Baqarah: 178; al-Baqarah: 183; al-Baqarah: 208; al-Baqarah: 254; al-Baqarah: 263; al-Baqarah: 261; al-Baqarah: 260; al-Baqarah: 257; al-Baqarah: 256; al-Baqarah: 255; al-Baqarah: 267; al-Baqarah: 265; al-Baqarah: 266; al-Rūm: 21.
-[^2]: Editor's documentation: After the call, the transcript contains fragmentary English speech about "people's vision" and about a man and his vision of himself, from which no coherent meaning emerges, so it has not been kept.
-[^3]: Editor's documentation: The transcript has the expression «قديس المرجعية», which may be «تقديس المرجعية» ("sanctifying the point of reference"); it is not clear what he said about it.
-[^4]: Editor's documentation: He recited only this part of the verse. After he repeated it, a garbled English comment appears in the transcript, probably relating to how difficult that sometimes is for the soul with people one thinks are raising one's standing or speaking about one's dignity; its text is not coherent, so it has not been kept.
-[^5]: Editor's documentation: The speaker uttered verses 255-257 and the story of Ibrāhīm and the village in passing; it is not clear from the transcript why they were mentioned at that point or what he commented on them, so no connection has been attributed to him.
-[^6]: Editor's documentation: The completion of the verse is «فطل» ("then a drizzle"); the word was not spoken in the transcript, and only a question about its name in English appeared, with the answer "the dew." The exchange at this point is in colloquial Arabic and its transcription is garbled.
-[^7]: Editor's documentation: The word «مودة» ("affection") dropped out of the transcript, and the verse has been given in full according to the Mushaf. It is not clear from the transcript why the verse was cited at this point, nor what is meant by his words "this is a secret," other than that the two verses share the word "reflection."
-[^8]: Editor's documentation: The verse intended is ﴿أَنُطْعِمُ مَن لَّوْ يَشَاءُ اللَّهُ أَطْعَمَهُ﴾ [Yā Sīn: 47], whose context concerns spending; it was not recited in full, and the speaker's colloquial wording after it is garbled, so only its general meaning has been kept.
-[^9]: Editor's documentation: At this point the transcript confuses the opening of this call with the words «مما رزقناكم من قبل أن يأتي يوم لا بيع فيه…» (al-Baqarah: 254), so only «أنفقوا من طيبات» ("spend from the good things") has been kept in the body; the full verse al-Baqarah 267 continues ﴿مَا كَسَبْتُمْ وَمِمَّا أَخْرَجْنَا لَكُم مِّنَ الْأَرْضِ﴾ (what you have earned and from what We have brought forth for you from the earth). What is mentioned in the body about "the village" is al-Baqarah 259. In the opening supplication, the phrase «وخذ بنا واصينا إلى طاعتك» is garbled and was read as «وخذ بنواصينا» on the balance of probability.
+[^2]: Editor's documentation: The completion of the verse is «فطل» ("then a drizzle"), glossed in the exchange as "the dew."
+[^3]: Editor's documentation: The verse has been given in full according to the Mushaf.
+[^4]: Editor's documentation: The verse intended is ﴿أَنُطْعِمُ مَن لَّوْ يَشَاءُ اللَّهُ أَطْعَمَهُ﴾ [Yā Sīn: 47], whose context concerns spending.
+[^5]: Editor's documentation: The full verse al-Baqarah 267 continues ﴿مَا كَسَبْتُمْ وَمِمَّا أَخْرَجْنَا لَكُم مِّنَ الْأَرْضِ﴾ (what you have earned and from what We have brought forth for you from the earth). What is mentioned in the body about "the village" is al-Baqarah 259.

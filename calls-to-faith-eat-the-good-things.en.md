@@ -19,7 +19,7 @@ Then he mentioned the calls to faith, and recited:
 
 ﴿يَا أَيُّهَا الَّذِينَ آمَنُوا كُلُوا مِن طَيِّبَاتِ مَا رَزَقْنَاكُمْ وَاشْكُرُوا لِلَّهِ إِن كُنتُمْ إِيَّاهُ تَعْبُدُونَ﴾ [البقرة] (O you who believe, eat of the good things We have provided for you, and give thanks to Allah, if it is Him you worship) [al-Baqarah]
 
-He repeated it, and paused at "the good things" and repeated it.[^1]
+He repeated it, and paused at "the good things" and repeated it.
 
 ### The People and the Believers
 
@@ -29,23 +29,21 @@ Then he recited another call, addressed to the people, and joined the two forms 
 
 ### Lawful and Forbidden
 
-He repeated "lawful… forbidden… lawful… forbidden," and recited: «احل لهم الطيبات وحرم عليهم الخبائث» (He makes lawful for them the good things and forbids them the foul things) (as in the transcript, without vowel marks), and paused at "the good things" and at "the foul things."[^2] Then he repeated: "of the good things We have provided you," and the phrase "of what is on the earth," and repeated: ﴿كُلُوا مِمَّا فِي الْأَرْضِ حَلَالًا طَيِّبًا وَلَا تَتَّبِعُوا خُطُوَاتِ الشَّيْطَانِ﴾ (eat of what is on the earth, lawful and good, and do not follow the footsteps of Satan).
+He repeated "lawful… forbidden… lawful… forbidden," and recited: «احل لهم الطيبات وحرم عليهم الخبائث» (He makes lawful for them the good things and forbids them the foul things) (as in the transcript, without vowel marks), and paused at "the good things" and at "the foul things."[^1] Then he repeated: "of the good things We have provided you," and the phrase "of what is on the earth," and repeated: ﴿كُلُوا مِمَّا فِي الْأَرْضِ حَلَالًا طَيِّبًا وَلَا تَتَّبِعُوا خُطُوَاتِ الشَّيْطَانِ﴾ (eat of what is on the earth, lawful and good, and do not follow the footsteps of Satan).
 
-Then he said in English, in meaning: nobody is being asked to beat people, or to lie, or to walk a wrong path; rather, everyone is asked to walk in the right direction. He likened that to traveling on the road, "you know the traffic," and the rest of the sentence is cut off.[^3]
+Then he said in English, in meaning: nobody is being asked to beat people, or to lie, or to walk a wrong path; rather, everyone is asked to walk in the right direction. He likened that to traveling on the road, "you know the traffic," and the rest of the sentence is cut off.
 
 ### The Meal for Which God Is Praised
 
-And he mentioned the hadith of the Prophet ﷺ: «إنَّ اللهَ لَيَغْفِرُ لِلْعَبْدِ يَأْكُلُ الْأَكْلَةَ فَيَحْمَدُهُ عَلَيْهَا» (Indeed Allah forgives the servant who eats a meal and praises Him for it).[^4]
+And he mentioned the hadith of the Prophet ﷺ: «إنَّ اللهَ لَيَغْفِرُ لِلْعَبْدِ يَأْكُلُ الْأَكْلَةَ فَيَحْمَدُهُ عَلَيْهَا» (Indeed Allah forgives the servant who eats a meal and praises Him for it).[^2]
 
 Then he repeated: ﴿وَاشْكُرُوا لِلَّهِ إِن كُنتُمْ إِيَّاهُ تَعْبُدُونَ﴾ (and give thanks to Allah, if it is Him you worship).
 
 ### Two Other Calls
 
-Then he said: ﴿لَا تَقُولُوا رَاعِنَا وَقُولُوا انظُرْنَا وَاسْمَعُوا﴾ [البقرة] (Do not say "Rā‘inā," but say "Unẓurnā," and listen) [al-Baqarah], and "seek help through patience and prayer,"[^5] and he said the word "legislation," then returned at the end of his talk to: "Eat of the good things We have provided you."
+Then he said: ﴿لَا تَقُولُوا رَاعِنَا وَقُولُوا انظُرْنَا وَاسْمَعُوا﴾ [البقرة] (Do not say "Rā‘inā," but say "Unẓurnā," and listen) [al-Baqarah], and "seek help through patience and prayer,"[^3] and he said the word "legislation," then returned at the end of his talk to: "Eat of the good things We have provided you."
 
 ---
-[^1]: Editor's documentation: After the verse, the transcript contains a truncated English phrase (translation) and repeated words from which nothing could be made out.
-[^2]: Editor's documentation: The transcript has «احل لهم الطيبات وحرم عليهم الخبائث» without naming the sūrah, so it is set between quotation marks and not between the verse brackets. Its meaning is close to the words of the Exalted: ﴿وَيُحِلُّ لَهُمُ الطَّيِّبَاتِ وَيُحَرِّمُ عَلَيْهِمُ الْخَبَائِثَ﴾ [al-A‘rāf: 157] (He makes lawful for them the good things and forbids them the foul things); this identification is the editor's.
-[^3]: Editor's documentation: The English wording is garbled ("nobody being asked to beating the people… right direction… moral direction… the traffic just for the…"), and the meaning given is an understanding of it; the word "moral" is not certain.
-[^4]: Editor's documentation: This is the wording of the transcript as heard, "layaghfiru." The well-known wording in Ṣaḥīḥ Muslim is «إِنَّ اللَّهَ لَيَرْضَى عَنِ الْعَبْدِ أَنْ يَأْكُلَ الْأَكْلَةَ فَيَحْمَدَهُ عَلَيْهَا، أَوْ يَشْرَبَ الشَّرْبَةَ فَيَحْمَدَهُ عَلَيْهَا» (Indeed Allah is pleased with the servant who eats a meal and praises Him for it, or drinks a drink and praises Him for it); the passage should be checked against the audio to know what the speaker actually said.
-[^5]: Editor's documentation: ﴿يَا أَيُّهَا الَّذِينَ آمَنُوا اسْتَعِينُوا بِالصَّبْرِ وَالصَّلَاةِ﴾ [al-Baqarah: 153] (O you who believe, seek help through patience and prayer); the identification is the editor's. In Sūrat al-Baqarah these calls come in the order 104, then 153, then 172, and it is not clear from the transcript how the speaker connected them. All the verse numbers in the body text are the editor's (al-Baqarah: 104, 168, 172).
+[^1]: Editor's documentation: The meaning of the phrase is close to the words of the Exalted: ﴿وَيُحِلُّ لَهُمُ الطَّيِّبَاتِ وَيُحَرِّمُ عَلَيْهِمُ الْخَبَائِثَ﴾ [al-A‘rāf: 157] (He makes lawful for them the good things and forbids them the foul things); this identification is the editor's.
+[^2]: Editor's documentation: The well-known wording in Ṣaḥīḥ Muslim is «إِنَّ اللَّهَ لَيَرْضَى عَنِ الْعَبْدِ أَنْ يَأْكُلَ الْأَكْلَةَ فَيَحْمَدَهُ عَلَيْهَا، أَوْ يَشْرَبَ الشَّرْبَةَ فَيَحْمَدَهُ عَلَيْهَا» (Indeed Allah is pleased with the servant who eats a meal and praises Him for it, or drinks a drink and praises Him for it).
+[^3]: Editor's documentation: ﴿يَا أَيُّهَا الَّذِينَ آمَنُوا اسْتَعِينُوا بِالصَّبْرِ وَالصَّلَاةِ﴾ [al-Baqarah: 153] (O you who believe, seek help through patience and prayer); the identification is the editor's. In Sūrat al-Baqarah these calls come in the order 104, then 153, then 172. All the verse numbers in the body text are the editor's (al-Baqarah: 104, 168, 172).

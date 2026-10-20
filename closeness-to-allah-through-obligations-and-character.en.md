@@ -25,7 +25,7 @@ Once you have the things Allah asked of you, the obligations, you will be questi
 
 ### Struggling in the way of Allah
 
-Allah mentioned in this ayah that jihad is not only fighting.[^3] We have a different kind of struggle when people come together to show Islamophobia or to attack the Muslim community. What kind of struggle do we have, and how do we defend ourselves? Especially when we come to the level of spreading the word of Allah, how are we struggling with all of that? To make a long story short, you need to think deeply about your own way.
+Allah mentioned in this ayah that jihad is not only fighting. We have a different kind of struggle when people come together to show Islamophobia or to attack the Muslim community. What kind of struggle do we have, and how do we defend ourselves? Especially when we come to the level of spreading the word of Allah, how are we struggling with all of that? To make a long story short, you need to think deeply about your own way.
 
 ### What differs is character
 
@@ -34,6 +34,5 @@ There is something common to everyone in the whole community. Every single perso
 As I mentioned at the beginning, some of us will come with one thing and some with another; some of us will come with helping people and giving advice, standing next to each other. And once you begin to fast more, you need patience. Maybe you will be successful one time; may Allah make all of us among the successful, and may Allah accept from all of us.
 
 ---
-[^1]: Editor's note: The speaker does not name the ayah in this transcript; it appears to allude to the command to fear Allah as He should be feared. The wording was not completed here. The video's title mentions duʿā, but the transcript as preserved does not develop that theme.
-[^2]: Editor's note: Rendered as the speaker paraphrased it, without a source; it appears to allude to the well-known hadith qudsi on drawing near through the obligations (narrated by al-Bukhari), but the speaker's exact wording is unclear.
-[^3]: Editor's note: The speaker does not name the ayah; the transcript is unclear here.
+[^1]: Editor's documentation: The speaker does not name the ayah; it appears to allude to the command to fear Allah as He should be feared.
+[^2]: Editor's documentation: Rendered as the speaker paraphrased it, without a source; it appears to allude to the well-known hadith qudsi on drawing near through the obligations (narrated by al-Bukhari).
