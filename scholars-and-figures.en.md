@@ -32,5 +32,5 @@ The aim of this survey is not to exhaust the names, but to show that objective-b
 
 This is followed by the sixth article: "The Principles and Controls of Objective-Based Tafsīr."
 
-| A takeaway for life: It is not enough to know the figures; we must read for them. Choose this month one book from the books of these scholars that suits your level — such as a concise treatise by al-Raysūnī or the introductions of Ibn ʿĀshūr — and read from it a few pages with deliberation. Keeping company with the original book builds the objective-based faculty more than dozens of articles about it. |
+| A takeaway for life: It is not enough to know the figures; we must read their works. Choose this month one book from the books of these scholars that suits your level — such as a concise treatise by al-Raysūnī or the introductions of Ibn ʿĀshūr — and read from it a few pages with deliberation. Keeping company with the original book builds the objective-based faculty more than dozens of articles about it. |
 |---|

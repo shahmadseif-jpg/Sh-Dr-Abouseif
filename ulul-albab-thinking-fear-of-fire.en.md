@@ -37,7 +37,7 @@ Now we are speaking about people who already live by the Quran. God says they lo
 
 ### Homework
 
-Your homework is to continue, or complete, reading up to the end of this surah. It is not a big homework. Tonight, at home, open the last page of Ali 'Imran, study it, and try to taste the sweetness there. I ask God to guide all of us to the straight path and to help us understand.
+Your homework is to continue, or complete, reading up to the end of this surah. It is not much homework. Tonight, at home, open the last page of Ali 'Imran, study it, and try to taste the sweetness there. I ask God to guide all of us to the straight path and to help us understand.
 
 ---
 [^1]: Editor's documentation: The speaker appears to be commenting on Sūrat Āl ʿImrān: ﴿إِنَّ فِي خَلْقِ السَّمَاوَاتِ وَالْأَرْضِ وَاخْتِلَافِ اللَّيْلِ وَالنَّهَارِ لَآيَاتٍ لِّأُولِي الْأَلْبَابِ ۝ الَّذِينَ يَذْكُرُونَ اللَّهَ قِيَامًا وَقُعُودًا وَعَلَىٰ جُنُوبِهِمْ وَيَتَفَكَّرُونَ فِي خَلْقِ السَّمَاوَاتِ وَالْأَرْضِ﴾ [آل عمران: 190–191]. The identification rests on the speaker's reference to "the last page of Ali 'Imran"; it is given for reference only.

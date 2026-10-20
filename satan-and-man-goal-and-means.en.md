@@ -59,7 +59,7 @@ Then know that there is a greater affliction, and it is **bad company**. The Pro
 
 A few small counsels to close with:
 
-- **Do not abandon the Fajr prayer**, no matter what it costs you. There is a very simple app on the phone called "Athkar" — look it up and repeat the morning and evening remembrances. Because those who have made a habit of it have benefited greatly from it. Perhaps you cannot read while going to work in the morning, so you play the audio and hear: "We have entered upon the morning, and the dominion has entered upon the morning for Allah, and all praise is for Allah."
+- **Do not abandon the Fajr prayer**, no matter what it costs you. There is a very simple app on the phone called "Athkar" — look it up and repeat the morning and evening remembrances. Those who have made a habit of it have benefited greatly from it. Perhaps you cannot read while going to work in the morning, so you play the audio and hear: "We have entered upon the morning, and the dominion has entered upon the morning for Allah, and all praise is for Allah."
 
 - **And know** that whoever abandons the prayer, Satan — from among his enemies — is given mastery over him and changes his religion. Because you are no longer free to pray and fast; you've become preoccupied with people: how do we fight, how do we pay, where do we go, what do we do? — and so your religion is changed upon you. Glory be to the One who taught us this.
 

@@ -43,7 +43,7 @@ The word *sunna* in the Qur'an has a precise technical meaning. Consider:
 
 "You shall find no change in God's sunna, and you shall find no turning aside of God's sunna" (Fāṭir 43).
 
-- **"You shall find"**: an emphatic negation — cosmic certainty.
+- **"You shall find no"**: an emphatic negation — cosmic certainty.
 - **"of God's sunna"**: direct attribution — not a blind natural law but a deliberate ordering.
 - **"Change" and "turning"**: complete alteration and partial adjustment alike — both denied.
 

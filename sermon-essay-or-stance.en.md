@@ -4,7 +4,7 @@
 
 ---
 
-Every week, as Friday evening approaches, thousands of preachers sit at their desks — turning through books, browsing websites, asking their brothers — all consumed by one question: "What should I preach about this Friday?" A question that appears, on its surface, natural — even a sign of diligence and care. But in truth, it reveals a deep crisis in the very understanding of the pulpit's function. The gap is vast between a preacher who searches each week for a "topic" to fill the sermon's minutes, and a preacher who carries in his chest a "project" — one in which every sermon is a brick in a building he is raising. The first asks: What do I say? The second asks: What do I build? And between the two questions lies a distance like the one between an essay and a stance.
+Every week, as the eve of Friday approaches, thousands of preachers sit at their desks — turning through books, browsing websites, asking their brothers — all consumed by one question: "What should I preach about this Friday?" A question that appears, on its surface, natural — even a sign of diligence and care. But in truth, it reveals a deep crisis in the very understanding of the pulpit's function. The gap is vast between a preacher who searches each week for a "topic" to fill the sermon's minutes, and a preacher who carries in his chest a "project" — one in which every sermon is a brick in a building he is raising. The first asks: What do I say? The second asks: What do I build? And between the two questions lies a distance like the one between an essay and a stance.
 
 ---
 

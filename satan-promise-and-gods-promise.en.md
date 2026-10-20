@@ -35,7 +35,7 @@ And these tests reach the level of the testing of the prophets: ﴿أَمْ حَ
 
 ### Those Who Look to the Hereafter
 
-So here comes the first condition: ﴿ذَٰلِكَ لِمَنْ خَافَ مَقَامِي وَخَافَ وَعِيدِ﴾. Those who look to the Hereafter are guarded in their steps lest their feet rush toward what contains their destruction in the Hereafter, so they weigh every step, account for every word, picture every thought, and watch every notion that passes through their minds by night or day. These who fear Allah monitor in themselves every movement and stillness, so their tongues utter only what pleases Allah, and nothing passes through their feelings except what pleases the Lord of the worlds, glorified be He.
+So here comes the first condition: ﴿ذَٰلِكَ لِمَنْ خَافَ مَقَامِي وَخَافَ وَعِيدِ﴾. Those who look to the Hereafter are guarded in their steps lest their feet rush toward what contains their destruction in the Hereafter, so they weigh every step, account for every word, picture every thought, and watch every notion that passes through their minds by night or day. Those who fear Allah monitor in themselves every movement and stillness, so their tongues utter only what pleases Allah, and nothing passes through their feelings except what pleases the Lord of the worlds, glorified be He.
 
 Then Satan comes to say: ﴿وَوَعَدتُّكُمْ فَأَخْلَفْتُكُمْ﴾ (and I promised you, but I betrayed you). Is not one of us ashamed to yield to a notion that comes to him from Satan and be drawn along with it, knowing that it is from Satan and knowing its outcome? We ask Allah, the Most High, the Almighty, to deliver us from the notions of Satan, to establish faith firmly in our hearts, and to make us firm with the firm word.
 

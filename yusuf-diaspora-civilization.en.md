@@ -181,7 +181,7 @@ What Yūsuf ﷺ enacted is the early operational realization of what the Prophet
 
 The Islamic message is not imprisoned in geography nor mortgaged to lineage. The land that God drives toward the believer is his true land, and the people who surround him are his flock in the call.
 
-Consider an astonishing Qur'anic mathematics: **between Yūsuf's burial in Egypt and the prophetic mission of Mūsā ﷺ in that same land are four centuries**. Four full centuries in which the Children of Israel grew in Egypt, carrying monotheism in their hearts. **Yūsuf sowed; Mūsā harvested** — both in "the land of diaspora." Had Yūsuf rejected the idea of settling in Egypt, Mūsā ﷺ would not have been born there, and no ummah would have been freed from bondage.
+Consider an astonishing Qur'anic paradox: **between Yūsuf's burial in Egypt and the prophetic mission of Mūsā ﷺ in that same land are four centuries**. Four full centuries in which the Children of Israel grew in Egypt, carrying monotheism in their hearts. **Yūsuf sowed; Mūsā harvested** — both in "the land of diaspora." Had Yūsuf rejected the idea of settling in Egypt, Mūsā ﷺ would not have been born there, and no ummah would have been freed from bondage.
 
 This is what the noble Companions, may God be pleased with them, understood when they dispersed across the earth as callers and founders of civilization: Muʿādh to Yemen, Abū Mūsā to Basra, ʿAmr to Egypt, Saʿd to Iraq, Abū al-Dardāʾ to the Levant. None of them returned to Medina to die there. Each died in the land in which he had sown the seeds of the message. Without this, Islam would not have spread to the corners of the inhabited world.
 

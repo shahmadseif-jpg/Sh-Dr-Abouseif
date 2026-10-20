@@ -82,7 +82,7 @@ Not every tamkīn is an office or authority. A servant may be established in the
 
 ### Conclusion
 
-Tamkīn in Sūrat Yūsuf is the end of a journey, not the beginning of a leap. In the Qur'an it is a favour from God that He gives to whom He wills, but a favour with conditions and consequences: trustworthiness, guardianship, knowledge, gratitude and the establishing of the truth. Whoever understands this does not rush what its time has not yet come, nor grows proud of what he has been given, and knows that the One who raised Yūsuf from the well to the storehouses is able to raise whom He wills after trial. God is sufficient for us, and He is the best disposer of affairs.
+Tamkīn in Sūrat Yūsuf is the end of a journey, not the beginning of a leap. In the Qur'an it is a favour from God that He gives to whom He wills, but a favour with conditions and consequences: trustworthiness, guardianship, knowledge, gratitude and the establishing of the truth. Whoever understands this does not rush what has not yet reached its time, nor grows proud of what he has been given, and knows that the One who raised Yūsuf from the well to the storehouses is able to raise whom He wills after trial. God is sufficient for us, and He is the best disposer of affairs.
 
 ---
 
