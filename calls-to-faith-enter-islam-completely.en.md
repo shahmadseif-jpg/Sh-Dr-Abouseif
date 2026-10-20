@@ -13,7 +13,7 @@ He began with blessings and peace upon the servant and messenger of Allah, our m
 
 ### The Sixth Call
 
-Then he said: God willing, Allah, blessed and exalted, and he recited:
+Then he said: If Allah, blessed and exalted, wills, and he recited:
 
 ﴿يَا أَيُّهَا الَّذِينَ آمَنُوا ادْخُلُوا فِي السِّلْمِ كَافَّةً وَلَا تَتَّبِعُوا خُطُوَاتِ الشَّيْطَانِ ۚ إِنَّهُ لَكُمْ عَدُوٌّ مُّبِينٌ﴾ [البقرة] (O you who believe, enter into peace completely, and do not follow the footsteps of Satan; he is to you a clear enemy) [al-Baqarah].
 

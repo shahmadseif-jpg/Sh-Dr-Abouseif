@@ -29,7 +29,7 @@ Then: ﴿وَإِنَّ مِنْهُمْ لَفَرِيقًا يَلْوُونَ
 
 ### The Opening of the Surah
 
-Then he turns to the opening of Sūrat Āl ʿImrān, and mentions the disjointed letters and the oneness of God: ﴿الم * اللَّهُ لَا إِلَٰهَ إِلَّا هُوَ الْحَيُّ الْقَيُّومُ * نَزَّلَ عَلَيْكَ الْكِتَابَ بِالْحَقِّ مُصَدِّقًا لِّمَا بَيْنَ يَدَيْهِ وَأَنزَلَ التَّوْرَاةَ وَالْإِنجِيلَ مِن قَبْلُ … الْفُرْقَانَ﴾ [Āl ʿImrān: 1-4][^2] (Alif, Lām, Mīm. Allah, there is no god but Him, the Ever-Living, the Self-Sustaining. He has sent down to you the Book in truth, confirming what was before it, and He sent down the Torah and the Gospel before … the Criterion). Then he mentioned the choosing of Adam, Noah and the family of Abraham: ﴿إِنَّ اللَّهَ اصْطَفَىٰ آدَمَ وَنُوحًا وَآلَ إِبْرَاهِيمَ …﴾[^1] (Indeed, Allah chose Adam, Noah and the family of Abraham …).
+Then he turns to the opening of Sūrat Āl ʿImrān, and mentions the disjointed letters and the oneness of God: ﴿الم * اللَّهُ لَا إِلَٰهَ إِلَّا هُوَ الْحَيُّ الْقَيُّومُ * نَزَّلَ عَلَيْكَ الْكِتَابَ بِالْحَقِّ مُصَدِّقًا لِّمَا بَيْنَ يَدَيْهِ وَأَنزَلَ التَّوْرَاةَ وَالْإِنجِيلَ مِن قَبْلُ … الْفُرْقَانَ﴾ [Āl ʿImrān: 1-4][^2] (Alif, Lām, Mīm. Allah, there is no god but Him, the Ever-Living, the Self-Sustaining. He has sent down to you the Book in truth, confirming what was before it, and He sent down the Torah and the Gospel before … the Criterion). Then he mentions the choosing of Adam, Noah and the family of Abraham: ﴿إِنَّ اللَّهَ اصْطَفَىٰ آدَمَ وَنُوحًا وَآلَ إِبْرَاهِيمَ …﴾[^1] (Indeed, Allah chose Adam, Noah and the family of Abraham …).
 
 ### "And Among You Is His Messenger"
 
