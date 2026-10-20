@@ -27,7 +27,7 @@ And reflect on the gradation in the ḥadīth: the Prophet ﷺ said: «مَنْ 
 
 So whoever wakes up secure in his dwelling, healthy in his body, then whoever is healthy in his body has the ability to earn money, to travel the earth and strive in it, to make a living, to communicate with people, and other things. So it is as though the Prophet ﷺ made for us the system of priorities, and gave us the methodology of intellectual construction in the life of the Muslim person: security, health, and food.
 
-We are not talking about numbers in the thousands or the millions, but about the strength of the day that I may obtain from my brother; he gives me a plate that suffices me until the end of the day. I have no numbers, glory be to Him, the Most High, and praise be to Allah.
+We are not talking about numbers in the thousands or the millions, but about the food of the day that I may obtain from my brother; he gives me a plate that suffices me until the end of the day. I have no numbers, glory be to Him, the Most High, and praise be to Allah.
 
 ---
 [^1]: Editor's documentation: Reported by al-Tirmidhī and Ibn Mājah with a similar wording (in which they have «في جسده» in place of «في بدنه»), and it is ḥasan; the wording in the body text is as the speaker uttered it.
