@@ -11,7 +11,7 @@ readingMinutes: 2
 
 ### Holding Fast to the Rope of Allah
 
-From Sūrat Āl ʿImrān the Shaykh pauses at His saying, the Exalted: ﴿وَاعْتَصِمُوا بِحَبْلِ اللَّهِ جَمِيعًا﴾ (“And hold firmly to the rope of Allah all together”)[^1], and at His saying: ﴿وَلَا تَمُوتُنَّ إِلَّا وَأَنتُم مُّسْلِمُونَ﴾ (“and do not die except as Muslims”)[^2], and he links holding fast with Islam.
+From Sūrat Āl ʿImrān the Shaykh pauses at His saying, Exalted is He: ﴿وَاعْتَصِمُوا بِحَبْلِ اللَّهِ جَمِيعًا﴾ (“And hold firmly to the rope of Allah all together”)[^1], and at His saying: ﴿وَلَا تَمُوتُنَّ إِلَّا وَأَنتُم مُّسْلِمُونَ﴾ (“and do not die except as Muslims”)[^2], and he links holding fast with Islam.
 
 Then he recalls Allah's prohibition of division: ﴿وَلَا تَكُونُوا مِنَ الْمُشْرِكِينَ مِنَ الَّذِينَ فَرَّقُوا دِينَهُمْ وَكَانُوا شِيَعًا﴾ (“and do not be of the polytheists, of those who divided their religion and became sects”)[^3]. Then he returns to Āl ʿImrān: ﴿وَلْتَكُن مِّنكُمْ أُمَّةٌ يَدْعُونَ إِلَى الْخَيْرِ وَيَأْمُرُونَ بِالْمَعْرُوفِ وَيَنْهَوْنَ عَنِ الْمُنكَرِ﴾ (“And let there be among you a community inviting to good, enjoining what is right and forbidding what is wrong”), then: ﴿وَلَا تَكُونُوا كَالَّذِينَ تَفَرَّقُوا وَاخْتَلَفُوا مِن بَعْدِ مَا جَاءَهُمُ الْبَيِّنَاتُ وَأُولَٰئِكَ لَهُمْ عَذَابٌ عَظِيمٌ﴾ (“And do not be like those who divided and differed after the clear proofs had come to them; and those will have a great punishment.”)[^4]. A great punishment, and we seek refuge in Allah.
 
@@ -21,7 +21,7 @@ He refers to the schools of law: the Ḥanafīs, Shāfiʿīs, Mālikīs and Ḥa
 
 ### So Fear Me
 
-Then he pauses at His saying, the Exalted: ﴿وَأَنَا رَبُّكُمْ فَاتَّقُونِ﴾ (“and I am your Lord, so fear Me”)[^5], and he explains that taqwā has its place in the heart, and that worship includes the heart and the body.
+Then he pauses at His saying, Exalted is He: ﴿وَأَنَا رَبُّكُمْ فَاتَّقُونِ﴾ (“and I am your Lord, so fear Me”)[^5], and he explains that taqwā has its place in the heart, and that worship includes the heart and the body.
 
 Then he says: It is as though the Lord of the worlds, glory be to Him, wanted to keep our unity for us, hearts and forms. Our Lord wanted us to be one Ummah, hearts and forms, and although none but its Lord looks into the heart, our Lord wanted us to be united inwardly and outwardly, so no disintegration, no scattering, and no fanatical sectarianism.
 

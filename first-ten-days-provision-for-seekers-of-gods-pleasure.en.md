@@ -9,7 +9,7 @@ readingMinutes: 3
 > Occasion: Transcription of a Fajr khatira delivered on 2025-05-28   
 > Source: A transcription of a video khatira by Dr. Ahmed Abouseif — [Watch the original video on YouTube](https://www.youtube.com/watch?v=QLhw_mfpGAE)
 
-The Doctor opened the khatira by praising Allah and invoking blessings and peace upon His Messenger ﷺ, then asked Allah for the good of this day, the good of what is in it, and the good of what follows it, and sought refuge in Him from the evil of this day, the evil of what is in it, and the evil of what follows it. He said: O Allah, set right for us our religion, our worldly life, and our Hereafter; prepare for us right guidance in our affair; bless us in what You have provided for us; protect us from the punishment of the two Fires; turn away from us the causes of punishment in this world and the Hereafter; have mercy on our weakness, mend our brokenness, ease our affairs, fulfill our needs, and arrange what lies before us.
+We open by praising Allah and invoking blessings and peace upon His Messenger ﷺ, asking Allah for the good of this day, the good of what is in it, and the good of what follows it, and seeking refuge in Him from the evil of this day, the evil of what is in it, and the evil of what follows it. We pray: O Allah, set right for us our religion, our worldly life, and our Hereafter; prepare for us right guidance in our affair; bless us in what You have provided for us; protect us from the punishment of the two Fires; turn away from us the causes of punishment in this world and the Hereafter; have mercy on our weakness, mend our brokenness, ease our affairs, fulfill our needs, and arrange what lies before us.
 
 ### Seasons of Goodness and the Falling Away of Excuses
 

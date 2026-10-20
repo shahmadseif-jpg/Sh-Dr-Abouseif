@@ -25,7 +25,7 @@ You begin it with "Praise be to Allah," and praise requires that you mention All
 
 ### Lord of the Worlds: Care and Nurture
 
-Then He is ﴿رَبِّ الْعَالَمِينَ﴾ (Lord of the worlds), and we have repeated often that lordship (rubūbiyyah) comes from taʿahhud, meaning rearing and nurturing, and its concept is that He brings every benefit and repels every harm. Just as you look after your child, bringing him everything that benefits him and keeping from him everything that harms him, so you say before everything you do in life: Lord of the worlds, meaning that He looks after me, tends to my interests, is gentle with me and kind to me, gives me this security, this tranquility, this calm and protection, opens the means before me and opens for me what is locked of doors, makes every journey easy for me and makes every hard thing light for me. Glory be to the Creator.
+Then He is ﴿رَبِّ الْعَالَمِينَ﴾ (Lord of the worlds), and we have repeated often that lordship (rubūbiyyah) comes from taʿahhud, meaning rearing and nurturing, and its concept is that He brings every benefit and repels every harm. Just as you look after your child, bringing him everything that benefits him and keeping from him everything that harms him, so you say before everything you do in life: Lord of the worlds, meaning that He looks after me, tends to my interests, is gentle with me and kind to me, gives me this security, this tranquility, this calm and protection, opens the means before me and opens for me the locked doors, makes every journey easy for me and makes every hard thing light for me. Glory be to the Creator.
 
 ### The Most Compassionate and the Most Merciful
 

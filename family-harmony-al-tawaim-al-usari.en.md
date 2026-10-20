@@ -21,7 +21,7 @@ The legislative purpose of Islam as a whole is happiness. Allah created us, sent
 
 ### What Reaches the Imam's Office
 
-The speaker says that he does not speak about family matters as a psychiatrist or a family counselor, but as an imam who sits in his office at the mosque, and to whom nearly every day a case of problems between spouses comes. Some are deep and have their justification, and most are trivial, such that no time or effort should be lost over them.
+The speaker says that he does not speak about family matters as a psychiatrist or a family counselor, but as an imam who sits in his office at the mosque, and to whom a case of problems between spouses comes nearly every day. Some are deep and have their justification, and most are trivial, such that no time or effort should be lost over them.
 
 In the whirlpool of these disputes, money is lost on lawyers and on running here and there, but this is not the most serious loss. The real loss is children raised in an environment that Satan has filled with his smoke, with no stability and no tranquility in it.
 
@@ -35,7 +35,7 @@ When I get angry with my wife, I remember that the children are listening, so I 
 
 Qiwāma in Islam is standing up to fulfil one's duty. It is not gripping a stick to discipline the one in front of me as though she were a beast, as many people think. Fulfilling the duty may require firmness, and that is natural, and it may require appeasement, calming, affection, and a kind word. Here comes the role of reason, which makes me take a step back before I act.
 
-So if I am healing, I must ask: how is the psychological state of this woman with whom I have lived ten years, or twenty, or thirty? How are her reactions in situations? What is her capacity to cope? Did she grow up in a home that raised her properly? When you think before you act, you will not find at the end of the week a problem, because you treated it from the beginning.
+So if I am healing, I must ask: how is the psychological state of this woman with whom I have lived ten years, or twenty, or thirty? How are her reactions in situations? What is her capacity to cope? Did she grow up in a home that raised her properly? When you think before you act, you will not find a problem at the end of the week, because you treated it from the beginning.
 
 In a practical example: I come home from outside angry, my face full of anger, and my wife receives me with an unkind reception. Had she read the features of my face and known that I was returning angry, and prepared for me a bite of food and water for a bath, she would not have given me the chance to increase my anger. In another example, where the food had not been prepared and I became angry, I asked the children, and they said: Mama's tooth has been hurting her since morning, and the world calmed down. All these remedies cost us nothing but a little calm, tranquility, and focus.
 

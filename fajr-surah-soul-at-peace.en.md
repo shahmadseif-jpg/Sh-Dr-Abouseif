@@ -17,7 +17,7 @@ He spoke of the road as a series of steps. The soul must pass through each of th
 
 ### Entering among His servants
 
-He paused at ﴿فَادْخُلِي فِي عِبَادِي﴾, dwelling on the word servants, and linked it to being with the truthful. He then spoke, in English, of a different kind of relationship between people: one in which a person calls and is answered, and the other knows his life and what is happening in it. He ended by turning to happiness and the people who reach it.
+He paused at ﴿فَادْخُلِي فِي عِبَادِي﴾, dwelling on the word "servants," and linked it to being with the truthful. He then spoke, in English, of a different kind of relationship between people: one in which a person calls and is answered, and the other knows his life and what is happening in it. He ended by turning to happiness and the people who reach it.
 
 ---
 [^1]: Editor's documentation: Al-Fajr 89:27–30; he recited ﴿فَادْخُلِي فِي عِبَادِي وَادْخُلِي جَنَّتِي﴾ repeatedly.

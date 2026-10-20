@@ -9,7 +9,7 @@ readingMinutes: 4
 > Occasion: Transcription of a Fajr khatira delivered on 14 May 2024  
 > Source: A transcription of a video khatira by Dr. Ahmed Abouseif — [Watch the original video on YouTube](https://www.youtube.com/watch?v=UezWms8VNz0)
 
-Allah welcome you with the verses we heard in the Fajr prayer, which brought together Sulaymān and Ayyūb, peace be upon them both. What are the contrasts between them, and what are the points they share?
+May Allah welcome you with the verses we heard in the Fajr prayer, which brought together Sulaymān and Ayyūb, peace be upon them both. What are the contrasts between them, and what are the points they share?
 
 ### The contrast: who was granted the world and who was denied it
 
@@ -17,7 +17,7 @@ We are speaking of a prophet for whom Allah subjected the universe, nearly in al
 
 As for Ayyūb, upon our Prophet and upon him be prayers and peace, his trial was illness, and in illness there is incapacity. And the hardest incapacity is the incapacity of the body while the aspiration is sound and the heart is well; we ask Allah to keep people safe from it. That your heart should be energetic, strong and ambitious, wanting to set out across all horizons, and your body cannot do it. Men of manly spirit especially feel shame, the man who cannot rise from his bed to carry out what he wants. And I single out the people of da'wah, because they do not travel the earth to gain wealth, but they ache for every moment that passes them by in which they do not win more men; for their loss is the loss of people. They ache over their sitting still, unjustified in their own view, except that it is the will of Allah, blessed and exalted, and so they submit.
 
-So look at the contrast between one who was granted the whole world and one who was denied it in a moment in one aspect of life. You find the sick man in his bed, denied the whole world, and his highest ambition at times is to enter the bathroom and come out without a word. And among the important lessons in the matter of illness is the correcting of the courses of a person's inner ambition: what do you want from the world? Money, running about, status, and influence here and there? No, correct the course. The ambition of the sick person is only that the pain leave him. And when he returns to walking on his own foot, he says: Praise be to Allah, I can move my hand. And perhaps the sick man feels his skin: I can still touch my body, I am still alive! Glory be to Allah.
+So look at the contrast between one who was granted the whole world and one who was denied it in a moment in one aspect of life. You find the sick man in his bed, denied the whole world, and his highest ambition at times is to enter the bathroom and come out without a word. And among the important lessons in the matter of illness is the correcting of the courses of a person's inner ambition: what do you want from the world? Money, running about, status, and influence here and there? No, correct the course. The ambition of the sick person is only that the pain leave him. And when he returns to walking on his own feet, he says: Praise be to Allah, I can move my hand. And perhaps the sick man feels his skin: I can still touch my body, I am still alive! Glory be to Allah.
 
 ### The common thread: the one who turns back
 

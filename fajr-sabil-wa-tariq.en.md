@@ -9,11 +9,11 @@ readingMinutes: 3
 > Occasion: Transcription of a Fajr khatira delivered on 5 December 2025   
 > Source: A transcription of a video khatira by Dr. Ahmed Abouseif — [Watch the original video on YouTube](https://www.youtube.com/watch?v=ltjTjKcNgMs)
 
-The Doctor opened his khatira with a supplication that Allah set right for us our religion, our worldly life and our Hereafter, that He prepare for us right guidance in our affairs, bless us in what He has provided us, protect us from the punishment of the Fire and turn away from us the causes of punishment in this world and the Hereafter, by His mercy, kindness and generosity.
+We open with a supplication: that Allah set right for us our religion, our worldly life and our Hereafter, that He prepare for us right guidance in our affairs, bless us in what He has provided us, protect us from the punishment of the Fire and turn away from us the causes of punishment in this world and the Hereafter, by His mercy, kindness and generosity.
 
 ### A Pause at the Word "Sabīl"
 
-Then he said: I paused at the words of Allah, Blessed and Exalted: ﴿وَيَوْمَ يَعَضُّ الظَّالِمُ عَلَىٰ يَدَيْهِ يَقُولُ يَا لَيْتَنِي اتَّخَذْتُ مَعَ الرَّسُولِ سَبِيلًا﴾ (On the Day the wrongdoer will bite his hands, saying, "Oh, I wish I had taken a path with the Messenger.")[^1] The Noble Qur'an's choice of its words is not random, far be it from Him, glory be to Him, for this is the word of Allah. So what is the difference between the Qur'an's use of the word "sabīl" and its use of the word "ṭarīq"?
+Then the Doctor said: I paused at the words of Allah, Blessed and Exalted: ﴿وَيَوْمَ يَعَضُّ الظَّالِمُ عَلَىٰ يَدَيْهِ يَقُولُ يَا لَيْتَنِي اتَّخَذْتُ مَعَ الرَّسُولِ سَبِيلًا﴾ (On the Day the wrongdoer will bite his hands, saying, "Oh, I wish I had taken a path with the Messenger.")[^1] The Noble Qur'an's choice of its words is not random, far be it from Him, glory be to Him, for this is the word of Allah. So what is the difference between the Qur'an's use of the word "sabīl" and its use of the word "ṭarīq"?
 
 A ṭarīq involves going and returning; you can go and come back, and it is open, people travel along it and return from it. A sabīl, on the other hand, is a term fixed in one direction, or travel in one direction only. And he mentioned that the word "ṭarīq" came once with the people of Hell at the end of Sūrat al-Nisā'[^2], then he said that even if that were not the case, the difference remains.
 

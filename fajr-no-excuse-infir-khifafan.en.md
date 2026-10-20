@@ -9,7 +9,7 @@ readingMinutes: 4
 > Occasion: Transcription of a Fajr khatira delivered on 14 May 2026   
 > Source: A transcription of a video khatira by Dr. Ahmed Abouseif — [Watch the original video on YouTube](https://www.youtube.com/watch?v=MApeonvYgN0)
 
-The available portion of the khatira begins at the words of the Exalted: ﴿انْفِرُوا خِفَافًا وَثِقَالًا﴾ (“March forth, light and heavy”).[^1] The Doctor said: The verses opened with the words of Allah the Exalted ﴿انْفِرُوا خِفَافًا وَثِقَالًا﴾, as though the Lord of the worlds is telling us that no one has an excuse. A person is in one of two states: either in ease or in hardship, and in both he is commanded to strive, and he has no excuse to withdraw.
+The khatira begins at the words of the Exalted: ﴿انْفِرُوا خِفَافًا وَثِقَالًا﴾ (“March forth, light and heavy”).[^1] The Doctor said: The verses opened with the words of Allah the Exalted ﴿انْفِرُوا خِفَافًا وَثِقَالًا﴾, as though the Lord of the worlds is telling us that no one has an excuse. A person is in one of two states: either in ease or in hardship, and in both he is commanded to strive, and he has no excuse to withdraw.
 
 ### The Soldier in Battle
 

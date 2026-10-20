@@ -17,7 +17,7 @@ In the first of the verses we heard in the prayer: ﴿وَلَوْ أَنَّ أ
 
 Our Lord, Glorified is He, laid down divine laws that He made a law of nature for this universe, within whose framework people move and from which no one ever departs. There is no one who pleases Allah except that his Lord pleases him, no one who worships Allah except that his Lord honors him, and no one who draws near to the Lord of the worlds with more acts of obedience except that Allah, Mighty and Majestic, gives him, of the kind of every act of obedience, what he loves to meet from his Creator, Glorified is He.
 
-And in this place we want to remember the states of the bygone nations and how they were. I do not like to say "the divine reaction," for it is not fitting with the Lord of the worlds that this phrase be said, but: how was the doing of Allah, Blessed and Exalted, with them when they disobeyed, strayed, denied, persisted, transgressed and were obstinate?
+And in this place we want to remember the states of the bygone nations and how they were. I do not like to say "the divine reaction," for it is not fitting with the Lord of the worlds that this phrase be said, but: how did Allah, Blessed and Exalted, deal with them when they disobeyed, strayed, denied, persisted, transgressed and were obstinate?
 
 ### The Great Pharaoh and the Small Pharaoh
 

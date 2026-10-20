@@ -9,7 +9,7 @@ readingMinutes: 3
 > Occasion: Transcription of a Fajr khatira delivered on 13 August 2026   
 > Source: A transcription of a video khatira by Dr. Ahmed Abouseif — [Watch the original video on YouTube](https://www.youtube.com/watch?v=Khw8O41I7no)
 
-The Doctor opened his khatira with a supplication that Allah fulfill our needs through His mercy, kindness and generosity, then returned to what had been recited in the prayer, the words of the Lord of the worlds, glory be to Him: ﴿أَفَأَمِنَ الَّذِينَ مَكَرُوا السَّيِّئَاتِ أَن يَخْسِفَ اللَّهُ بِهِمُ الْأَرْضَ﴾ (Then do those who have plotted evil deeds feel secure that Allah will not cause the earth to swallow them?).[^1]
+We open with a supplication: that Allah fulfill our needs through His mercy, kindness and generosity. Then the Doctor returned to what had been recited in the prayer, the words of the Lord of the worlds, glory be to Him: ﴿أَفَأَمِنَ الَّذِينَ مَكَرُوا السَّيِّئَاتِ أَن يَخْسِفَ اللَّهُ بِهِمُ الْأَرْضَ﴾ (Then do those who have plotted evil deeds feel secure that Allah will not cause the earth to swallow them?).[^1]
 
 ### The Strength of the Human and the Strength of Allah
 
@@ -27,7 +27,7 @@ And he connected this verse with the words of Allah, Blessed and Exalted: ﴿ل�
 
 ### The Conclusion
 
-The conclusion on this matter, or on what came to mind, and we ask Allah to return our thoughts to good and keep them far from evil as long as we live: that we are in the hands of Allah's mercy. Whoever seeks salvation seeks the mercy of Allah, asks Allah for pardon, and turns to Him in every place and at all times. And whoever senses arrogance in himself and takes on sin, the outcome of his affair before his Lord is destruction; for neither the people of ʿĀd or Thamūd, nor Pharaoh and his soldiers, were more disobedient to the Lord of Might, glory be to Him, such that He would not make them taste His might and punishment. Yet the mercy of Allah Almighty is gentle with the weak, the poor, those who seek forgiveness, those who turn back, those who take refuge in Him, glory be to Him, exalted in His majesty.
+The conclusion on this matter, or on what came to mind, and we ask Allah to return our thoughts to good and keep them far from evil as long as we live: that we are in the hands of Allah's mercy. Whoever seeks salvation seeks the mercy of Allah, asks Allah for pardon, and turns to Him in every place and at all times. And whoever senses arrogance in himself and takes on sin, the outcome of his affair before his Lord is destruction; for neither the people of ʿĀd nor Thamūd, nor Pharaoh and his soldiers, were more disobedient to the Lord of Might, glory be to Him, such that He would not make them taste His might and punishment. Yet the mercy of Allah Almighty is gentle with the weak, the poor, those who seek forgiveness, those who turn back, those who take refuge in Him, glory be to Him, exalted in His majesty.
 
 He concluded with a supplication that Allah make us among them, not lift our heads from prostration before Him, and not afflict us with an arrogance that takes charge of our destruction in our world and our hereafter. Amen, O Lord.
 
