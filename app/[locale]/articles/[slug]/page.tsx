@@ -15,7 +15,14 @@ import ArticleComments from '@/components/ArticleComments';
 import ContentLanguageNotice from '@/components/ContentLanguageNotice';
 import { getApprovedComments } from '@/lib/comments';
 
-export const dynamic = 'force-dynamic';
+// Bodies are files shipped with each deployment, so pages need not be
+// rendered on every request: they are generated on first request, cached,
+// and revalidated hourly (ISR). Unknown or draft slugs still 404.
+export const revalidate = 3600;
+export const dynamicParams = true;
+export function generateStaticParams() {
+  return [];
+}
 
 export async function generateMetadata({
   params,

@@ -17,7 +17,14 @@ import { availableLocales } from '@/lib/content-availability-server';
 import { absoluteUrl, authorName, jsonLdString, languagePolicy, pageMetadata } from '@/lib/seo';
 import { parseMarkdown, prepareMarkdownBody, renderMarkdown } from '@/lib/markdown';
 
-export const dynamic = 'force-dynamic';
+// Bodies are files shipped with each deployment, so pages need not be
+// rendered on every request: they are generated on first request, cached,
+// and revalidated hourly (ISR). Unknown or draft slugs still 404.
+export const revalidate = 3600;
+export const dynamicParams = true;
+export function generateStaticParams() {
+  return [];
+}
 
 const TXT = {
   ar: { back: 'العودة إلى سؤال وجواب', question: 'السؤال', answer: 'إجابة الشيخ', more: 'أسئلةٌ ذاتُ صلة', ask: 'أرسل سؤالك' },
