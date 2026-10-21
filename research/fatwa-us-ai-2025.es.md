@@ -98,4 +98,6 @@ La investigación giró en torno a una pregunta central: ¿cómo puede la fatwa 
 
 ---
 
+*Esta es una versión de lectura en página: no incluye la lista de fuentes y referencias ni la declaración de los límites de la observación de campo (que es una observación operativa, no una muestra estadística estrictamente representativa); ambas se encuentran en el PDF adjunto del trabajo, páginas 40–42.*
+
 *Lo escribió: Dr. Ahmed Muhammad Abouseif. (La investigación se apoyó, junto al análisis teórico y las entrevistas, en un registro de campo acumulado durante más de quince años de trabajo continuo de difusión en los Estados Unidos.)*
