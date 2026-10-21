@@ -1,4 +1,5 @@
 import { setRequestLocale, getTranslations } from 'next-intl/server';
+import { pageMetadata } from '@/lib/seo';
 import GalleryGrid from '@/components/GalleryGrid';
 
 export async function generateMetadata({
@@ -8,10 +9,12 @@ export async function generateMetadata({
 }) {
   const { locale } = await params;
   const t = await getTranslations({ locale, namespace: 'gallery' });
-  return {
+  return pageMetadata({
+    locale,
+    path: '/gallery',
     title: `${t('title')} — ${locale === 'ar' ? 'د. أحمد أبو سيف' : locale === 'ur' ? 'ڈاکٹر احمد ابو سیف' : 'Dr. Ahmed Abouseif'}`,
     description: t('subtitle'),
-  };
+  });
 }
 
 export default async function GalleryPage({
