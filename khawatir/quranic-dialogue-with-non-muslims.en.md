@@ -41,7 +41,7 @@ And if you have no book, then we say that we have a book, and it is the way of A
 
 ### Oaths Binding Until the Day of Resurrection
 
-Then: ﴿أَمْ لَكُمْ أَيْمَـٰنٌ عَلَيْنَا بَـٰلِغَةٌ إِلَىٰ يَوْمِ ٱلْقِيَـٰمَةِ ۙ إِنَّ لَكُمْ لَمَا تَحْكُمُونَ﴾ (Or do you have oaths from Us, binding until the Day of Resurrection, that you shall have whatever you judge?) [al-Qalam: 39]. Imagine that our Lord, glorified and exalted be He, is asking the disbelievers and saying to them: Did we ever stand facing one another and you swore to us an oath, so that we are bound by it and will fulfill it? Or was there between us and you a written contract, or a theoretical agreement? ﴿أَمْ لَكُمْ أَيْمَـٰنٌ عَلَيْنَا بَـٰلِغَةٌ إِلَىٰ يَوْمِ ٱلْقِيَـٰمَةِ﴾, then He repeats: you would have whatever you choose, you would have whatever you judge.
+Then: ﴿أَمْ لَكُمْ أَيْمَـٰنٌ عَلَيْنَا بَـٰلِغَةٌ إِلَىٰ يَوْمِ ٱلْقِيَـٰمَةِ ۙ إِنَّ لَكُمْ لَمَا تَحْكُمُونَ﴾ (Or do you have oaths from Us, binding until the Day of Resurrection, that you shall have whatever you judge?) [al-Qalam: 39]. Imagine that our Lord, glorified and exalted be He, is asking the disbelievers and saying to them: Did we ever stand facing one another and you swore to us an oath, so that we are bound by it and will fulfill it? Or was there between us and you a written contract, or a theoretical agreement?[^2] ﴿أَمْ لَكُمْ أَيْمَـٰنٌ عَلَيْنَا بَـٰلِغَةٌ إِلَىٰ يَوْمِ ٱلْقِيَـٰمَةِ﴾, then He repeats: you would have whatever you choose, you would have whatever you judge.
 
 Sir, you are the judge and you are the opponent, and what you want I do and go along with you in it, but speak with logic, speak with what is right.
 
@@ -61,3 +61,4 @@ I ask Allah, glorified and exalted be He, to guide us to the most rightly guided
 
 ---
 [^1]: Editor's documentation: The verses are from Sūrat al-Qalam. The speaker cited «فَطَافَ عَلَيْهَا طَآئِفٌ مِّن رَّبِّكَ فَأَصْبَحَتْ كَٱلصَّرِيمِ» in abbreviated form; this has been preserved in the body with the ellipsis mark (…) because between the two parts in the muṣḥaf comes «وَهُمْ نَآئِمُونَ». And the verse of al-ʿAnkabūt appeared in his speech with the wording «ولا تجادل» and has been set down here with the text of the muṣḥaf.
+[^2]: Editor's note: The oaths in the verse are oaths binding on Allah in their favour, not oaths they swore; Ibn Kathīr says: «أي: أمعكم عهود منا ومواثيق مؤكدة» ("that is: do you have covenants from Us and firm pledges?"). The meaning is: do you have a firm covenant from Allah that you shall have whatever you judge? The body's "you swore to us an oath" reverses the direction of the oath in the speaker's portrayal.

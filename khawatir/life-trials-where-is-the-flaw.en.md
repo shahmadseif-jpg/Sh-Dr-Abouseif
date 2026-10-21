@@ -11,7 +11,7 @@ readingMinutes: 7
 
 ### Where Is the Flaw?
 
-The young man sat down and said: Show me where the flaw is. I said to him: Tell me what is behind you. He said: I went out with my wife on a good day, we had lunch at a respectable place, and we came back home and spent a good night. In the morning I found her to be someone else; she put me out of the house and changed the locks, and I suddenly found myself sleeping in the car, for a long time. Then he asked me: Where is the flaw?
+The young man sat down and said: Show me where the flaw is. I said to him: Tell me what is behind you. He said: I went out with my wife on a good day, and we came back home and spent a good night. In the morning I found her to be someone else; she put me out of the house and changed the locks. Then he asked me: Where is the flaw?[^2]
 
 When the place of the wound is not visible, you search among the symptoms. He is like the doctor: as long as he sees nothing in front of him, he puts the stethoscope on and takes the pulse; if matters remain hidden from him, he goes into the blood and orders lab tests, an ultrasound, X-rays and the like. Our work is close to this in a different way: you tell him, tell me more, tell me more, and whenever he tells you, you say: Is this the point? Is this the detail? But sometimes you do not arrive.
 
@@ -51,3 +51,4 @@ I ask Allah, the Most High, to make us and you pleased, to mend our hearts, to p
 
 ---
 [^1]: Editor's documentation: The Qur'anic wording in the story of Yūsuf is: ﴿فَلَبِثَ فِي السِّجْنِ بِضْعَ سِنِينَ﴾ (Sūrat Yūsuf, verse 42), and the speaker confined himself to saying "several years."
+[^2]: Editor's note: This is one party's account as he told it, given to illustrate the question of where the flaw lies, not as a judgement on the other party, whose account was not heard.
