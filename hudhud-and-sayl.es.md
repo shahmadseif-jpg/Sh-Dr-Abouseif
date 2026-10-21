@@ -13,7 +13,7 @@ readingMinutes: 15
 
 ## Apertura: la paradoja geográfica que el Corán mismo anuda
 
-En la misma tierra de la Península Arábiga[^1], y en el mismo tiempo aproximadamente, se irguieron dos civilizaciones en el relato coránico, y venimos a leer el destino de ambas:
+En dos tierras vecinas (Saba en Yemen, en la Península Arábiga, y el reino de Sulaymān en al-Šām)[^1], y en el mismo tiempo aproximadamente, se irguieron dos civilizaciones en el relato coránico, y venimos a leer el destino de ambas:
 
 La primera: la civilización de Salomón (la paz sea con él) —se expande, explora, llama, transporta las ciencias entre las naciones.
 
@@ -183,7 +183,7 @@ Y ambos desafíos recaen sobre el musulmán en Occidente hoy:
 
 Toda civilización elige. Dios, el Altísimo, no impone un destino, sino que expone una ley. «En verdad, Dios no cambia lo que hay en un pueblo hasta que cambian lo que hay en sí mismos» (el Trueno 11).
 
-La diferencia entre la civilización de Salomón y el pueblo de Saba no está en la ubicación geográfica. Ambas están en la Península Arábiga. No está en el tiempo ni en las posibilidades. Ambas conocieron la riqueza. **La diferencia está en la postura ante la merced**: ¿te lanzas con ella como una abubilla, o la atesoras hasta que venga la riada?
+La diferencia entre la civilización de Salomón y el pueblo de Saba no está en la ubicación geográfica. Ambas están en tierras vecinas. No está en el tiempo ni en las posibilidades. Ambas conocieron la riqueza. **La diferencia está en la postura ante la merced**: ¿te lanzas con ella como una abubilla, o la atesoras hasta que venga la riada?
 
 Y el musulmán en Occidente hoy —en cada mezquita, en cada centro, en cada familia— elige entre los dos modelos cada día. Y cada vez elige. No hay una postura neutral.
 
@@ -224,4 +224,4 @@ Si la respuesta a cualquiera de estas preguntas es «no», entonces estás más 
 
 *Este es el tercer episodio de la serie «El Corán y la civilización». El primer episodio: la sura de la Caverna. El segundo: la sura de José. El cuarto próximo: «Las leyes divinas en el ascenso de las naciones y su caída» — conclusión de la serie.*
 
-[^1]: Documentación del editor: El artículo afirma que ambas civilizaciones surgieron en la misma tierra de la Península Arábiga. Sabaʾ estaba en Yemen, mientras que el reino de Sulaymān (Salomón), la paz sea con él, estaba en al-Shām (el Levante), con sede en Jerusalén: Muḥammad Sayyid Ṭanṭāwī, en *al-Tafsīr al-Wasīṭ* (sobre al-Naml 27:38), dice que el trono fue traído «من بلاد اليمن إلى بيت المقدس حيث مقر مملكته» (de la tierra de Yemen a Jerusalén, sede de su reino), y Wikipedia (artículo “Solomon”) lo describe como rey del Reino de Israel, con su templo y su palacio en Jerusalén. Sobre los límites de la Península Arábiga, al-Durar al-Saniyya (artículo sobre los límites de Ŷazīrat al-ʿArab) cita a Ibn Taymiyya en *Iqtiḍāʾ al-Ṣirāṭ al-Mustaqīm*: «جزيرة العرب: هي من بحر القُلزم إلى بحر البَصرة، ومن أقصى حِجْرِ اليمامة إلى أوائل الشام» (la Península Arábiga va del mar de Qulzum [el mar Rojo] al mar de Basora, y del extremo de Ḥiŷr al-Yamāma a los confines de al-Shām), y añade «ولا تدخُل فيها الشام» (al-Shām no está incluido en ella). El propio artículo menciona más adelante el traslado del trono de Maʾrib (Yemen) a Jerusalén (Levante).
+[^1]: Documentación del editor: El texto afirmaba antes que ambas civilizaciones surgieron en la misma tierra de la Península Arábiga, y se ha modificado. Sabaʾ estaba en Yemen, mientras que el reino de Sulaymān (Salomón), la paz sea con él, estaba en al-Shām (el Levante), con sede en Jerusalén: Muḥammad Sayyid Ṭanṭāwī, en *al-Tafsīr al-Wasīṭ* (sobre al-Naml 27:38), dice que el trono fue traído «من بلاد اليمن إلى بيت المقدس حيث مقر مملكته» (de la tierra de Yemen a Jerusalén, sede de su reino), y Wikipedia (artículo “Solomon”) lo describe como rey del Reino de Israel, con su templo y su palacio en Jerusalén. Sobre los límites de la Península Arábiga, al-Durar al-Saniyya (artículo sobre los límites de Ŷazīrat al-ʿArab) cita a Ibn Taymiyya en *Iqtiḍāʾ al-Ṣirāṭ al-Mustaqīm*: «جزيرة العرب: هي من بحر القُلزم إلى بحر البَصرة، ومن أقصى حِجْرِ اليمامة إلى أوائل الشام» (la Península Arábiga va del mar de Qulzum [el mar Rojo] al mar de Basora, y del extremo de Ḥiŷr al-Yamāma a los confines de al-Shām), y añade «ولا تدخُل فيها الشام» (al-Shām no está incluido en ella). El propio artículo menciona más adelante el traslado del trono de Maʾrib (Yemen) a Jerusalén (Levante).
