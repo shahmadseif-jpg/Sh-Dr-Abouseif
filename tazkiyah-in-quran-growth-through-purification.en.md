@@ -8,7 +8,7 @@ slug: "tazkiyah-in-quran-growth-through-purification"
 
 By Dr. Ahmed Muhammad Ali Abouseif, President of the American Imams Academy (AIA)
 
-Sūrat al-Shams opens with a chain of oaths unmatched in the whole Qurʾan: by the sun and its brightness, by the moon when it follows it, by the day when it reveals it, by the night when it veils it, by the heaven and Him who built it, by the earth and Him who spread it out. Seven successive cosmic oaths, portraying the universe in its grandest aspects[^4]: light following light, darkness following darkness, the edifice raised over the expanse. Then, after this vast assembly of creation's majesty, the passage descends suddenly to the smallest point imaginable: the soul of a single human being.
+Sūrat al-Shams opens with a chain of oaths unmatched in the whole Qurʾan: by the sun and its brightness, by the moon when it follows it, by the day when it reveals it, by the night when it veils it, by the heaven and Him who built it, by the earth and Him who spread it out. Six successive cosmic oaths, portraying the universe in its grandest aspects[^4]: light following light, darkness following darkness, the edifice raised over the expanse. Then, after this vast assembly of creation's majesty, the passage descends suddenly to the smallest point imaginable: the soul of a single human being.
 
 ﴿وَنَفْسٍ وَمَا سَوَّاهَا، فَأَلْهَمَهَا فُجُورَهَا وَتَقْوَاهَا، قَدْ أَفْلَحَ مَنْ زَكَّاهَا، وَقَدْ خَابَ مَنْ دَسَّاهَا﴾ (91:7-10)
 
@@ -20,7 +20,7 @@ This act, *tazkiyah*, is the subject of this article in the series on Qurʾanic 
 
 ### The Root and Its Occurrences
 
-The root z-k-w occurs in the Qurʾan fifty-nine times, in seven forms: once as the triliteral verb *zakā* (24:21); twelve times as the verb of the second form, *zakkā* (among them 2:129, 2:151, 3:164, 4:49, 9:103, 91:9); eight times as the verb of the fifth form, *tazakkā* (20:76; 35:18, twice; 79:18; 80:3; 80:7; 87:14; 92:18); four times as the elative *azkā* (2:232, 18:19, 24:28, 24:30); thirty-two times as the noun *zakāh*, which alone accounts for more than half the occurrences of the whole root; once as the adjective *zakiyy* (19:19, describing Yaḥyā, peace be upon him)[^3]; and once as the noun *zakiyyah* (18:74, in the story of al-Khiḍr).[^2]
+The root z-k-w occurs in the Qurʾan fifty-nine times, in seven forms: once as the triliteral verb *zakā* (24:21); twelve times as the verb of the second form, *zakkā* (among them 2:129, 2:151, 3:164, 4:49, 9:103, 91:9); eight times as the verb of the fifth form, *tazakkā* (20:76; 35:18, twice; 79:18; 80:3; 80:7; 87:14; 92:18); four times as the elative *azkā* (2:232, 18:19, 24:28, 24:30); thirty-two times as the noun *zakāh*, which alone accounts for more than half the occurrences of the whole root; once as the adjective *zakiyy* (19:19, in the glad tidings of ʿĪsā given to Maryam, peace be upon them)[^3]; and once as the noun *zakiyyah* (18:74, in the story of al-Khiḍr).[^2]
 
 This distribution is itself significant for method. Thirty-two of the fifty-nine occurrences turn to *zakāh* in its specific juristic sense (the obligatory almsgiving, most often paired with prayer), while the remaining twenty-seven are spread over verbal forms that describe the process of *tazkiyah* as an act that concerns the soul and not property. This article treats both branches together, because the single root that joins them is the key to understanding, as will become clear.
 
@@ -50,7 +50,7 @@ Striving for tazkiyah is thus a duty laid upon the servant (*tazakkā* is an act
 
 ### Two Further Models: A Name and a Soul
 
-This root carries two other indications that deserve a pause. The first is in the story of Yaḥyā (peace be upon him), in the account of the glad tidings given to Zakariyyā of a boy whom God describes with a single attribute: ﴿إِنَّا نُبَشِّرُكَ بِغُلَامٍ اسْمُهُ يَحْيَىٰ﴾ (19:7), and then, elsewhere and on the tongue of Gabriel, ﴿لِأَهَبَ لَكِ غُلَامًا زَكِيًّا﴾ (19:19),[^3] "that I may grant you a pure boy."
+This root carries two other indications that deserve a pause. The first is in Sūrat Maryam: after the glad tidings of Yaḥyā given to Zakariyyā (peace be upon them), ﴿يَا زَكَرِيَّا إِنَّا نُبَشِّرُكَ بِغُلَامٍ اسْمُهُ يَحْيَىٰ﴾ (19:7), come the glad tidings of ʿĪsā given to Maryam (peace be upon them) on the tongue of Gabriel, in which the promised boy is described with a single attribute: ﴿لِأَهَبَ لَكِ غُلَامًا زَكِيًّا﴾ (19:19),[^3] "that I may grant you a pure boy."
 
 The attribute chosen, while he is still only a promise, before he is born or comes of age or is tried, is therefore *zakiyy*, "pure." Here tazkiyah appears to precede all human action, an initial gift from God to a servant He has chosen to bear prophethood, and not the product of accumulated effort alone. This does not contradict what we drew from tazkiyah being required of the servant (*tazakkā*); it adds a further dimension: some servants are granted the root of purity as an advance gift, so that their striving afterward is a building upon a foundation and not a founding out of nothing.
 
@@ -66,7 +66,7 @@ Here Moses calls the soul *zakiyyah* by a purely outward standard: that it had c
 
 A threefold description of the Messenger's ﷺ mission recurs in the Qurʾan in almost identical form in four places:
 
-﴿يَتْلُو عَلَيْهِمْ آيَاتِهِ وَيُزَكِّيهِمْ وَيُعَلِّمُهُمُ الْكِتَابَ وَالْحِكْمَةَ﴾ (2:129; and similarly 2:151, 3:164, 62:2)
+﴿يَتْلُو عَلَيْهِمْ آيَاتِهِ وَيُزَكِّيهِمْ وَيُعَلِّمُهُمُ الْكِتَابَ وَالْحِكْمَةَ﴾ (3:164, 62:2; and similarly 2:151). In the supplication of Ibrāhīm (peace be upon him), however (2:129), teaching precedes purification: ﴿يَتْلُو عَلَيْهِمْ آيَاتِكَ وَيُعَلِّمُهُمُ الْكِتَابَ وَالْحِكْمَةَ وَيُزَكِّيهِمْ﴾ ("reciting to them Your verses, teaching them the Book and the wisdom, and purifying them"). So in three of the four places the order is as follows.
 
 *"He recites His verses to them, purifies them, and teaches them the Book and the wisdom."*
 
@@ -98,7 +98,7 @@ The second is that a person may suppose his own testimony to his righteousness t
 
 There is a message here as well for everyone who spends money or time that he counts a loss: *zakāh*, by its very root, teaches that the giving that seems a diminishment is often the hidden condition of true growth, in wealth as in the soul.
 
-And the scene of Yaḥyā (peace be upon him) serves as a reminder to whoever raises children or has others in his charge: some readiness for purity is granted early, as a gift rather than an acquisition, and the educator's task is less to plant purity from nothing than to protect what has been given and not to bury it, which is the very meaning against which the verse ﴿وَقَدْ خَابَ مَنْ دَسَّاهَا﴾ warns. How many a sound, innate readiness has been buried, not because it did not exist, but because those around it treated it with neglect or harshness until it was entombed.
+And the scene of these glad tidings serves as a reminder to whoever raises children or has others in his charge: some readiness for purity is granted early, as a gift rather than an acquisition, and the educator's task is less to plant purity from nothing than to protect what has been given and not to bury it, which is the very meaning against which the verse ﴿وَقَدْ خَابَ مَنْ دَسَّاهَا﴾ warns. How many a sound, innate readiness has been buried, not because it did not exist, but because those around it treated it with neglect or harshness until it was entombed.
 
 ### Conclusion
 
@@ -108,5 +108,5 @@ From a cosmic oath by the sun and the moon to a quiet Prophetic supplication in 
 
 [^1]: Narrated by Muslim in his *Ṣaḥīḥ*, the Book of Remembrance and Supplication, no. 2722, on the authority of Zayd ibn Arqam (may God be pleased with him).
 [^2]: All figures for the occurrences of the root z-k-w and its seven forms are taken from the Quranic Arabic Corpus (corpus.quran.com): once *zakā* (triliteral), 12 *zakkā* (second form), 8 *tazakkā* (fifth form), 4 *azkā* (elative), 32 *zakāh*, 1 *zakiyy*, 1 *zakiyyah*.
-[^3]: Editor's documentation: The lecturer presents «لِأَهَبَ لَكِ غُلَامًا زَكِيًّا» (“that I may grant you a pure boy,” 19:19) as a description of Yaḥyā (peace be upon him) in the glad tidings given to Zakariyyā, and likewise in the root count at the start of the article. In the works of tafsīr, the verse is the angel's address to Maryam (peace be upon her), as in Ibn Kathīr («فقال لها الملك مجيبًا لها ومزيلًا ما حصل عندها من الخوف» — “the angel said to her, answering her and removing the fear that had come over her”) and al-Ṭabarī («إنما أنا رسول ربك يا مريم أرسلني إليك» — “I am only the messenger of your Lord, O Maryam, sent to you”); the boy announced is her son, whom the Qur'an names in the same passage: «ذَٰلِكَ عِيسَى ابْنُ مَرْيَمَ» (“That is ʿĪsā, son of Maryam,” 19:34). The glad tidings of Yaḥyā to Zakariyyā are in 19:7.
-[^4]: Editor's documentation: The lecturer speaks of “seven cosmic oaths”; six are named before the self (sun, moon, day, night, sky, earth), and the self is the seventh in the series of oaths (al-Shams 91:1–7), so the number seven is correct for the whole series but not for the cosmic oaths alone.
+[^3]: Editor's documentation: The main text formerly presented «لِأَهَبَ لَكِ غُلَامًا زَكِيًّا» (“that I may grant you a pure boy,” 19:19) as a description of Yaḥyā (peace be upon him) in the glad tidings given to Zakariyyā, and likewise in the root count at the start of the article; it has been corrected in all places according to the following. In the works of tafsīr, the verse is the angel's address to Maryam (peace be upon her), as in Ibn Kathīr («فقال لها الملك مجيبًا لها ومزيلًا ما حصل عندها من الخوف» — “the angel said to her, answering her and removing the fear that had come over her”) and al-Ṭabarī («إنما أنا رسول ربك يا مريم أرسلني إليك» — “I am only the messenger of your Lord, O Maryam, sent to you”); the boy announced is her son, whom the Qur'an names in the same passage: «ذَٰلِكَ عِيسَى ابْنُ مَرْيَمَ» (“That is ʿĪsā, son of Maryam,” 19:34). The glad tidings of Yaḥyā to Zakariyyā are in 19:7.
+[^4]: Editor's documentation: The main text formerly spoke of “seven cosmic oaths,” corrected to six; six are named before the self (sun, moon, day, night, sky, earth), and the self is the seventh in the series of oaths (al-Shams 91:1–7), so the number seven is correct for the whole series but not for the cosmic oaths alone.

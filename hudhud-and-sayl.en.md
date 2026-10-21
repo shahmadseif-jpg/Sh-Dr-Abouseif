@@ -13,7 +13,7 @@ readingMinutes: 16
 
 ## Prelude: The Geographic Paradox the Qur'an Itself Engineers
 
-In the same Arabian land[^1], and within roughly the same era, two civilizations arose in the Qur'anic narrative — and the Qur'an itself invites us to read their fates side by side:
+In two neighbouring lands (Sabaʾ in Yemen, in the Arabian Peninsula, and Sulaymān's kingdom in al-Shām)[^1], and within roughly the same era, two civilizations arose in the Qur'anic narrative — and the Qur'an itself invites us to read their fates side by side:
 
 The first: the civilization of Sulaymān ﷺ — expanding, exploring, calling others, transferring knowledge across nations.
 
@@ -186,7 +186,7 @@ This mosque does not explode suddenly. **It crumbles slowly**. The first generat
 
 ## VI. The Challenge the Qur'an Reveals
 
-Did you know why Sūrat al-Naml and Sūrat Sabaʾ are adjacent in the Mushaf? Only one sūra (al-Qaṣaṣ) lies between them, and both speak of the king Sulaymān. But Sūrat al-Naml presents **the civilizational summit**, while Sūrat Sabaʾ presents **the collapse of those who lived in its shadow**.
+Did you know why Sūrat al-Naml and Sūrat Sabaʾ stand close together in the Mushaf? Six sūras (al-Qaṣaṣ to al-Aḥzāb) lie between them, and both speak of the king Sulaymān. But Sūrat al-Naml presents **the civilizational summit**, while Sūrat Sabaʾ presents **the collapse of those who lived in its shadow**.
 
 Al-Naml: the challenge of the rising civilization — can you open yourself?
 Sabaʾ: the challenge of the standing civilization — can you endure?
@@ -201,7 +201,7 @@ Both challenges face the Muslim in the West today:
 
 Every civilization chooses. God Most High does not impose a fate but presents a law. "Indeed God does not change a people's condition until they change what is within themselves" (al-Raʿd 11).
 
-The difference between Sulaymān's civilization and the people of Sabaʾ is not geographic. Both are in the Arabian peninsula. It is not temporal or material. Both knew wealth. **The difference lies in the stance toward favor**: do you set out with it as a Hoopoe, or do you hoard it until the flood arrives?
+The difference between Sulaymān's civilization and the people of Sabaʾ is not geographic. Both lie in neighbouring lands. It is not temporal or material. Both knew wealth. **The difference lies in the stance toward favor**: do you set out with it as a Hoopoe, or do you hoard it until the flood arrives?
 
 The Muslim in the West today — in every mosque, every center, every family — chooses between the two models every day. And he chooses every time. There is no neutral position.
 
@@ -248,4 +248,4 @@ If the answer to any of these is "no," you are closer to Sabaʾ than to Sulaymā
 
 *This is Episode Three of the 'Qur'an and Civilization' series. Episode One: Sūrat al-Kahf. Episode Two: Sūrat Yūsuf. The forthcoming Episode Four: "The Divine Laws in the Rise and Fall of Nations" — the closing of the series.*
 
-[^1]: Editor's documentation: The article states that the two civilizations arose in the same land of the Arabian Peninsula. Sabaʾ was in Yemen, whereas the kingdom of Sulaymān, peace be upon him, was in al-Shām with its seat in Jerusalem: Muḥammad Sayyid Ṭanṭāwī, in *al-Tafsīr al-Wasīṭ* (on al-Naml 27:38), says the throne was brought «من بلاد اليمن إلى بيت المقدس حيث مقر مملكته» (from the land of Yemen to Jerusalem, the seat of his kingdom), and Wikipedia (article “Solomon”) describes him as king of the Kingdom of Israel, with his temple and palace in Jerusalem. On the extent of the Arabian Peninsula, al-Durar al-Saniyya (article on the boundaries of Jazīrat al-ʿArab) cites Ibn Taymiyya in *Iqtiḍāʾ al-Ṣirāṭ al-Mustaqīm*: «جزيرة العرب: هي من بحر القُلزم إلى بحر البَصرة، ومن أقصى حِجْرِ اليمامة إلى أوائل الشام» (the Arabian Peninsula extends from the Sea of Qulzum [the Red Sea] to the Sea of Basra, and from the farthest part of Ḥijr al-Yamāma to the outskirts of al-Shām), adding «ولا تدخُل فيها الشام» (al-Shām is not included in it). The article itself later speaks of the throne moving from Maʾrib (Yemen) to Jerusalem (al-Shām).
+[^1]: Editor's documentation: The main text formerly stated that the two civilizations arose in the same land of the Arabian Peninsula, and has been amended. Sabaʾ was in Yemen, whereas the kingdom of Sulaymān, peace be upon him, was in al-Shām with its seat in Jerusalem: Muḥammad Sayyid Ṭanṭāwī, in *al-Tafsīr al-Wasīṭ* (on al-Naml 27:38), says the throne was brought «من بلاد اليمن إلى بيت المقدس حيث مقر مملكته» (from the land of Yemen to Jerusalem, the seat of his kingdom), and Wikipedia (article “Solomon”) describes him as king of the Kingdom of Israel, with his temple and palace in Jerusalem. On the extent of the Arabian Peninsula, al-Durar al-Saniyya (article on the boundaries of Jazīrat al-ʿArab) cites Ibn Taymiyya in *Iqtiḍāʾ al-Ṣirāṭ al-Mustaqīm*: «جزيرة العرب: هي من بحر القُلزم إلى بحر البَصرة، ومن أقصى حِجْرِ اليمامة إلى أوائل الشام» (the Arabian Peninsula extends from the Sea of Qulzum [the Red Sea] to the Sea of Basra, and from the farthest part of Ḥijr al-Yamāma to the outskirts of al-Shām), adding «ولا تدخُل فيها الشام» (al-Shām is not included in it). The article itself later speaks of the throne moving from Maʾrib (Yemen) to Jerusalem (al-Shām).

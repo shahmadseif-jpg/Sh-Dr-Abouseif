@@ -111,7 +111,7 @@ What is in these minds? Why does blessing summon division, and tribulation summo
 
 ### The Sixth Lesson: The Security That the Lockdown Created
 
-Among the most astonishing revelations of the lockdown was that **the police had no work but service**. No crime in the streets, no theft, no looting, no homicides. Because God confined people to their homes.
+Among the most astonishing revelations of the lockdown was that **the police had no work but service**. No crime in the streets, no theft, no looting, no homicides.[^1] Because God confined people to their homes.
 
 A simple but piercing question: Why do we not learn to feel this security in **our souls, hearts, minds, and spirits**, without God confining us to our homes?
 
@@ -136,3 +136,5 @@ Have public health advisories produced anything more than what Muḥammad ﷺ le
 O Allah, we ask You for well-being so long as You give us life, and we ask You for a beautiful ending, and we ask You for protection in this life and the next, and for forgiveness and well-being in our religion, our worldly affairs, and our hereafter. Direct us to what is upright in our affair, bless us in what You have provided us, and shield us from the punishment of the Fire.
 
 > This article is adapted from a Friday sermon delivered by Sheikh Dr. Ahmed Abouseif one year after the onset of the COVID-19 pandemic. It reminds us of "the Days of Allah" that pass over humanity, unveiling His great laws, and extracts from them six lessons for the reflective heart.
+
+[^1]: Editor's note: This describes the apparent calm of the streets during the lockdown, not a general statistical finding; crime did not cease in that period, and the FBI's crime statistics for 2020 reported that murders in the United States rose by about 29.4% over the previous year. This does not mean that the lockdown itself caused that rise.

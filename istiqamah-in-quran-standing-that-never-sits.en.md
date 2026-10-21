@@ -104,7 +104,7 @@ He ﷺ replied:
 
 *“Say: I believe in God, and then stand firm.”*[^3]
 
-Sufyān was not asking for brevity of speech. He asked for the essence of the whole religion in a single statement that would spare him from asking anyone but the Prophet ﷺ thereafter. The reply came in two halves with no third: affirmation by the heart, and steadfast adherence in action. And when Sufyān asked, in the remainder of the hadith, “What do you fear most for me?”, the Prophet ﷺ took hold of his own tongue and said, “This.”[^3] In this way he tied the uprightness of all the limbs to the uprightness of the tongue in particular, for it is the most prone to slips and the least easily watched.
+Sufyān was not asking for brevity of speech. He asked for the essence of the whole religion in a single statement that would spare him from asking anyone but the Prophet ﷺ thereafter. The reply came in two halves with no third: affirmation by the heart, and steadfast adherence in action. And when Sufyān asked, in another narration of the hadith recorded by al-Tirmidhī, “What do you fear most for me?”, the Prophet ﷺ took hold of his own tongue and said, “This.”[^3] In this way he tied the uprightness of all the limbs to the uprightness of the tongue in particular, for it is the most prone to slips and the least easily watched.
 
 ### The Heart Is a King and the Limbs Are Its Soldiers
 
@@ -128,10 +128,10 @@ From the standing of the body in prayer, to the standing of the heart in upright
 
 ---
 
-[^1]: Narrated by al-Tirmidhī in his *Sunan*, no. 3297, on the authority of Abū Bakr al-Ṣiddīq (may God be pleased with him); he said: a good, singular (*ḥasan gharīb*) hadith; and al-Albānī authenticated it.
+[^1]: Narrated by al-Tirmidhī in his *Sunan*, no. 3297, from Ibn ʿAbbās (may God be pleased with them both), that Abū Bakr al-Ṣiddīq (may God be pleased with him) said: “O Messenger of God, you have turned grey,” and he replied: «شَيَّبَتْنِي هُودٌ، وَالْوَاقِعَةُ، وَالْمُرْسَلَاتُ، وَعَمَّ يَتَسَاءَلُونَ، وَإِذَا الشَّمْسُ كُوِّرَتْ» (“Hūd, al-Wāqiʿah, al-Mursalāt, ʿAmma yatasāʾalūn and Idhā al-shamsu kuwwirat have turned me grey”); al-Tirmidhī said: a good, singular (*ḥasan gharīb*) hadith; and al-Albānī authenticated it (*Ṣaḥīḥ al-Tirmidhī* 3297). The wording «شَيَّبَتْنِي هُودٌ وَأَخَوَاتُهَا» (“Hūd and its sisters have turned me grey”) is cited by al-Sakhāwī in *al-Maqāṣid al-Ḥasanah* (305) from ʿUqbah ibn ʿĀmir (may God be pleased with him), who said: its narrators are those of the *Ṣaḥīḥ*. (Editor's correction: this note formerly named Abū Bakr as the narrator of al-Tirmidhī's hadith; it is Ibn ʿAbbās reporting Abū Bakr's question, and the wording in the main text was attributed to it without noting the difference in wording.)
 
 [^2]: A count of the verb *istaqāma* (the *istafʿala* form of the root q-w-m) in the Qurʾan (Qurʾanic corpus, corpus.quran.com): ten times in nine places: al-Tawbah 7 (twice in the same verse), Yūnus 89, Hūd 112, Fuṣṣilat 6, Fuṣṣilat 30, al-Shūrā 15, al-Aḥqāf 13, al-Jinn 16, al-Takwīr 28.
 
-[^3]: Narrated by Muslim in his *Ṣaḥīḥ*, no. 38, on the authority of Sufyān ibn ʿAbd Allāh al-Thaqafī (may God be pleased with him).
+[^3]: Narrated by Muslim in his *Ṣaḥīḥ*, no. 38, on the authority of Sufyān ibn ʿAbd Allāh al-Thaqafī (may God be pleased with him), in the wording «قُلْ: آمَنْتُ بِاللَّهِ، ثُمَّ اسْتَقِمْ» (“Say: I believe in God, then stand firm”); it does not contain the question about what he feared most. That question is in al-Tirmidhī (2410) from Sufyān himself, beginning «قُلْ: رَبِّيَ اللَّهُ، ثُمَّ اسْتَقِمْ» (“Say: My Lord is God, then stand firm”), and in it: “I said: O Messenger of God, what do you fear most for me? He took hold of his own tongue and said: «هَذَا» (‘This’)”; al-Albānī authenticated it (*Ṣaḥīḥ al-Tirmidhī* 2410). (Editor's correction: the note formerly attributed both narrations to Muslim.)
 
 [^4]: Ibn Rajab al-Ḥanbalī, *Jāmiʿ al-ʿUlūm wa-l-Ḥikam*, commentary on the twenty-first hadith.

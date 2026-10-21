@@ -104,7 +104,7 @@ Sufyān ibn ʿAbd Allāh al-Thaqafī (que Dios esté complacido con él) pregunt
 
 *«Di: “Creo en Dios”, y luego mantente firme.»*[^3]
 
-Sufyān no pedía brevedad de palabra, sino la esencia de toda la religión en una sola frase que lo dispensara de preguntar a nadie salvo al Profeta ﷺ en lo sucesivo. La respuesta llegó en dos mitades, sin una tercera: afirmación del corazón y adhesión constante en la obra. Y cuando Sufyān preguntó, en el resto del hadiz, «¿Qué es lo que más temes por mí?», el Profeta ﷺ tomó su propia lengua y dijo: «Esto».[^3] Así vinculó la rectitud de todos los miembros con la rectitud de la lengua en particular, pues es la más propensa a los deslices y la que menos fácilmente se vigila.
+Sufyān no pedía brevedad de palabra, sino la esencia de toda la religión en una sola frase que lo dispensara de preguntar a nadie salvo al Profeta ﷺ en lo sucesivo. La respuesta llegó en dos mitades, sin una tercera: afirmación del corazón y adhesión constante en la obra. Y cuando Sufyān preguntó, en otra narración del hadiz recogida por al-Tirmidhī, «¿Qué es lo que más temes por mí?», el Profeta ﷺ tomó su propia lengua y dijo: «Esto».[^3] Así vinculó la rectitud de todos los miembros con la rectitud de la lengua en particular, pues es la más propensa a los deslices y la que menos fácilmente se vigila.
 
 ### El corazón es un rey y los miembros son sus soldados
 
@@ -128,10 +128,10 @@ Desde el estar en pie del cuerpo en la oración, pasando por el estar en pie del
 
 ---
 
-[^1]: Transmitido por al-Tirmidhī en su *Sunan*, n.º 3297, por vía de Abū Bakr al-Ṣiddīq (que Dios esté complacido con él); dijo: hadiz bueno y singular (*ḥasan gharīb*); y al-Albānī lo autenticó.
+[^1]: Transmitido por al-Tirmidhī en su *Sunan*, n.º 3297, de Ibn ʿAbbās (que Dios esté complacido con ambos), que Abū Bakr al-Ṣiddīq (que Dios esté complacido con él) dijo: «Oh Mensajero de Dios, has encanecido», y él respondió: «شَيَّبَتْنِي هُودٌ، وَالْوَاقِعَةُ، وَالْمُرْسَلَاتُ، وَعَمَّ يَتَسَاءَلُونَ، وَإِذَا الشَّمْسُ كُوِّرَتْ» («Me han encanecido Hūd, al-Wāqiʿa, al-Mursalāt, ʿAmma yatasāʾalūn e Iḏā al-šamsu kuwwirat»); al-Tirmidhī dijo: hadiz bueno y singular (*ḥasan gharīb*); y al-Albānī lo autenticó (*Ṣaḥīḥ al-Tirmidhī* 3297). La expresión «شَيَّبَتْنِي هُودٌ وَأَخَوَاتُهَا» («Me han encanecido Hūd y sus hermanas») la cita al-Sajāwī en *al-Maqāṣid al-Ḥasana* (305) de ʿUqba ibn ʿĀmir (que Dios esté complacido con él), y dijo: sus transmisores son los del *Ṣaḥīḥ*. (Corrección del editor: esta nota nombraba antes a Abū Bakr como transmisor del hadiz de al-Tirmidhī; es Ibn ʿAbbās quien refiere la pregunta de Abū Bakr, y la expresión del texto se le atribuía sin señalar la diferencia de redacción.)
 
 [^2]: Recuento del verbo *istaqāma* (la forma *istafʿala* de la raíz q-w-m) en el Corán (corpus coránico, corpus.quran.com): diez veces en nueve lugares: al-Tawba 7 (dos veces en la misma aleya), Yūnus 89, Hūd 112, Fuṣṣilat 6, Fuṣṣilat 30, al-Shūrā 15, al-Aḥqāf 13, al-Ŷinn 16, al-Takwīr 28.
 
-[^3]: Transmitido por Muslim en su *Ṣaḥīḥ*, n.º 38, por vía de Sufyān ibn ʿAbd Allāh al-Thaqafī (que Dios esté complacido con él).
+[^3]: Transmitido por Muslim en su *Ṣaḥīḥ*, n.º 38, por vía de Sufyān ibn ʿAbd Allāh al-Thaqafī (que Dios esté complacido con él), con la expresión «قُلْ: آمَنْتُ بِاللَّهِ، ثُمَّ اسْتَقِمْ» («Di: Creo en Dios, y luego mantente firme»); no contiene la pregunta sobre lo que más temía. Esa pregunta está en al-Tirmidhī (2410), del propio Sufyān, que comienza «قُلْ: رَبِّيَ اللَّهُ، ثُمَّ اسْتَقِمْ» («Di: Mi Señor es Dios, y luego mantente firme»), y en ella: «Dije: Oh Mensajero de Dios, ¿qué es lo que más temes por mí? Tomó su propia lengua y dijo: «هَذَا» (“Esto”)»; al-Albānī lo autenticó (*Ṣaḥīḥ al-Tirmidhī* 2410). (Corrección del editor: la nota atribuía antes ambas narraciones a Muslim.)
 
 [^4]: Ibn Raŷab al-Ḥanbalī, *Ŷāmiʿ al-ʿUlūm wa-l-Ḥikam*, comentario del hadiz vigésimo primero.

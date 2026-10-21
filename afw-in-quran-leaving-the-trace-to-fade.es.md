@@ -12,7 +12,7 @@ El Profeta ﷺ dio a sus Compañeros una orden sencilla en apariencia y profunda
 
 ### Delimitación del término y recuento
 
-La raíz ʿ-f-w aparece en el Corán treinta y cinco veces, en cuatro formas. El verbo ʿafā figura veintisiete veces, y en su mayoría describe el perdón de Dios a Sus siervos; el nombre intensivo ʿafuww aparece cinco veces, para designar a Dios como «Indulgente, Perdonador»; el participio activo al-ʿāfīn aparece una sola vez (3:134); y el nombre al-ʿafw aparece dos veces, pero con un sentido enteramente distinto del de clemencia:
+La raíz ʿ-f-w aparece en el Corán treinta y cinco veces, en cuatro formas. El verbo ʿafā figura veintisiete veces, y en su mayoría describe el perdón de Dios a Sus siervos; el nombre intensivo ʿafuww aparece cinco veces para designar a Dios, cuatro de ellas como «Indulgente, Perdonador» y una como «Indulgente, Todopoderoso» (4:149); el participio activo al-ʿāfīn aparece una sola vez (3:134); y el nombre al-ʿafw aparece dos veces, pero con un sentido enteramente distinto del de clemencia:
 
 ﴿يَسْأَلُونَكَ مَاذَا يُنْفِقُونَ قُلِ الْعَفْوَ﴾ [2:219]
 *«Te preguntan qué deben gastar. Di: lo que sobra (al-ʿafw)».*
@@ -48,7 +48,7 @@ no repite un mismo sentido con dos vocablos por énfasis, sino que menciona dos 
 
 ### Un modelo que revela la esencia del rasgo: perdonar pudiendo castigar
 
-Entre lo que mejor revela la naturaleza del perdón coránico está su emparejamiento reiterado con el atributo del poder, y no con el de la impotencia:
+Entre lo que mejor revela la naturaleza del perdón coránico está su emparejamiento con el atributo del poder, y no con el de la impotencia (el único lugar en que *ʿafuww* se une a *qadīr*; en los demás se une a *ghafūr*):
 
 ﴿فَإِنَّ اللَّهَ كَانَ عَفُوًّا قَدِيرًا﴾ [4:149]
 *«Ciertamente Dios es siempre Indulgente y Todopoderoso».*

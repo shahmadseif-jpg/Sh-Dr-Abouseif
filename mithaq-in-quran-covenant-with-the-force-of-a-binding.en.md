@@ -46,15 +46,15 @@ The same pairing occurs at 13:20–25. The *ʿahd* here is the commitment itself
 
 This difference also explains why one particular verb recurs with *mīthāq* more than any other: *akhadha*, “to take.” The Qurʾan says “We took your *mīthāq*,” not “We gave you a *mīthāq*” nor “We promised you,” for God is the One who takes, and the servant is the one from whom the covenant is taken and upon whom it is made fast. This verb recurs with the Children of Israel (2:63, 83, 84, 93; 5:12), with the prophets (3:81; 33:7) and with the Christians (5:14). In every case the initiative lies with God alone, and the servant is the party whose pledge is made fast, not the one who grants it.
 
-### A Striking Pattern: The Solemn Covenant in Two Distant Places
+### A Striking Pattern: The Solemn Covenant in Three Distant Places
 
-Among the strangest things that tracing the word discloses is that the description *mīthāqan ghalīẓan*, “a solemn covenant,” that is, a covenant of extreme firmness and weight, occurs in the Qurʾan in only two places, apparently as far from one another as can be. The first is the covenant God took from the prophets:
+Among the strangest things that tracing the word discloses is that the description *mīthāqan ghalīẓan*, “a solemn covenant,” that is, a covenant of extreme firmness and weight, occurs in the Qurʾan in only three places, some apparently as far from one another as can be. The first is the covenant God took from the prophets:
 
 ﴿وَأَخَذْنَا مِنْهُمْ مِيثَاقًا غَلِيظًا﴾ (33:7)
 
 *“And We took from them a solemn covenant.”*
 
-The second is the marriage bond between spouses:
+The second is the covenant taken from the Children of Israel when the Mount was raised above them: ﴿وَأَخَذْنَا مِنْهُم مِّيثَاقًا غَلِيظًا﴾ (4:154). The third is the marriage bond between spouses:
 
 ﴿وَأَخَذْنَ مِنْكُمْ مِيثَاقًا غَلِيظًا﴾ (4:21)
 

@@ -112,13 +112,13 @@ The most eloquent witness that the two words are not synonyms is that the Qurʾa
 
 Reconciling two parties needs *ʿadl*, that is, the evening of the heart and the removal of any inward leaning toward either group. It then needs *qisṭ* as well: this inner evenness must be translated into an outward, equitable act in which the right is shared out between the two parties in a way that can be seen.
 
-In another verse, after commanding the believers to be upholders of equity in their testimony, there comes the warning against being swayed by hatred of a people away from justice:
+In another verse, after commanding the believers to stand firm for God as witnesses in equity, ﴿كُونُوا قَوَّامِينَ لِلَّهِ شُهَدَاءَ بِالْقِسْطِ﴾ (whereas «قَوَّامِينَ بِالْقِسْطِ شُهَدَاءَ لِلَّهِ», “upholders of equity, witnesses for God,” is the wording of 4:135), there comes the warning against being swayed by hatred of a people away from justice:
 
 ﴿وَلَا يَجْرِمَنَّكُمْ شَنَآنُ قَوْمٍ عَلَىٰ أَلَّا تَعْدِلُوا اعْدِلُوا هُوَ أَقْرَبُ لِلتَّقْوَىٰ﴾ (5:8)
 
 *“And let not hatred of a people lead you to be unjust. Be just; that is nearer to God-consciousness.”*
 
-Upholding equity here describes a settled, institutional stance: testimony and judgment are to rest on a structurally fair foundation. The command to *be just* (*iʿdilū*) is a momentary psychological act, addressing the instant when hatred in the heart stirs to turn the witness away from the truth. *Qisṭ* is the structure that has been set up; *ʿadl* is steadfastness in it when caprice blows to bring it down.
+Witnessing in equity here describes a settled, institutional stance: testimony and judgment are to rest on a structurally fair foundation. The command to *be just* (*iʿdilū*) is a momentary psychological act, addressing the instant when hatred in the heart stirs to turn the witness away from the truth. *Qisṭ* is the structure that has been set up; *ʿadl* is steadfastness in it when caprice blows to bring it down.
 
 ### The Prophetic Witness
 

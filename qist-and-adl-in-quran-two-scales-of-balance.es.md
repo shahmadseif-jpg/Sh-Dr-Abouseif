@@ -112,13 +112,13 @@ El testimonio más elocuente de que ambas palabras no son sinónimas es que el C
 
 Reconciliar a dos partes necesita *ʿadl*, es decir, la nivelación del corazón y la eliminación de toda inclinación interior hacia uno de los dos grupos. Necesita luego también *qisṭ*: esa rectitud interior debe traducirse en un acto externo y equitativo en el que el derecho se reparta entre las dos partes de manera visible.
 
-En otra aleya, tras ordenar a los creyentes que sean defensores de la equidad en su testimonio, llega la advertencia de que el odio hacia un pueblo no los aparte de la justicia:
+En otra aleya, tras ordenar a los creyentes que se mantengan firmes por Dios como testigos con equidad, ﴿كُونُوا قَوَّامِينَ لِلَّهِ شُهَدَاءَ بِالْقِسْطِ﴾ (mientras que «قَوَّامِينَ بِالْقِسْطِ شُهَدَاءَ لِلَّهِ», «defensores de la equidad, testigos por Dios», es la redacción de 4:135), llega la advertencia de que el odio hacia un pueblo no los aparte de la justicia:
 
 ﴿وَلَا يَجْرِمَنَّكُمْ شَنَآنُ قَوْمٍ عَلَىٰ أَلَّا تَعْدِلُوا اعْدِلُوا هُوَ أَقْرَبُ لِلتَّقْوَىٰ﴾ (5:8)
 
 *«Y que el odio hacia un pueblo no os lleve a ser injustos. Sed justos; eso está más cerca de la piedad.»*
 
-Defender la equidad describe aquí una postura estable, institucional: el testimonio y el juicio han de asentarse sobre una base estructuralmente justa. El mandato de *ser justos* (*iʿdilū*) es un acto psicológico del momento, que se dirige al instante en que el odio del corazón se agita para apartar al testigo de la verdad. El *qisṭ* es la estructura levantada; el *ʿadl*, la firmeza en ella cuando sopla el capricho para derribarla.
+Atestiguar con equidad describe aquí una postura estable, institucional: el testimonio y el juicio han de asentarse sobre una base estructuralmente justa. El mandato de *ser justos* (*iʿdilū*) es un acto psicológico del momento, que se dirige al instante en que el odio del corazón se agita para apartar al testigo de la verdad. El *qisṭ* es la estructura levantada; el *ʿadl*, la firmeza en ella cuando sopla el capricho para derribarla.
 
 ### El testimonio profético
 

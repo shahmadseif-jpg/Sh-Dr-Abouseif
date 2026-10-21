@@ -106,6 +106,6 @@ And whatever peace the heart has reached in this world remains short of that fin
 
 ---
 
-[^1]: Reported by al-Bukhārī (no. 50) and Muslim (no. 9), on the authority of ʿUmar ibn al-Khaṭṭāb, may God be pleased with him, in the well-known hadith of Gabriel.
+[^1]: Reported by al-Bukhārī (no. 50) and Muslim (no. 9) on the authority of Abū Hurayrah, and by Muslim (no. 8) on the authority of ʿUmar ibn al-Khaṭṭāb, may God be pleased with them both, in the well-known hadith of Gabriel. (Editor's correction: the note formerly attributed al-Bukhārī 50 and Muslim 9 to ʿUmar.)
 [^2]: The root of this hadith, "Guard God and He will guard you," was reported by al-Tirmidhī (no. 2516) on the authority of Ibn ʿAbbās, may God be pleased with him and his father, who said: a ḥasan ṣaḥīḥ hadith. This particular addition concerning divine decree occurs in some of the longer transmissions of the hadith (see its discussion in Ibn Rajab's *Jāmiʿ al-ʿUlūm wa-l-Ḥikam*).
 [^3]: Reported by al-Tirmidhī (no. 3502) on the authority of ʿAbd Allāh ibn ʿUmar, may God be pleased with him and his father, as part of a longer supplication; al-Tirmidhī said: a ḥasan gharīb hadith.

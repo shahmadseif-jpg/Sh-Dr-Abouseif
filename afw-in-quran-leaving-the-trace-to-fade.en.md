@@ -12,7 +12,7 @@ The Prophet ﷺ gave his Companions a command that is simple on its surface and 
 
 ### Delimiting the Word and Counting Its Occurrences
 
-The root ʿ-f-w occurs thirty-five times in the Qurʾan, in four forms. The verb ʿafā occurs twenty-seven times, most of them describing God's pardon of His servants; the intensive noun ʿafuww occurs five times, describing God as "Pardoning, Forgiving"; the active participle al-ʿāfīn occurs once (3:134); and the noun al-ʿafw occurs twice, though in a sense wholly distinct from forbearance:
+The root ʿ-f-w occurs thirty-five times in the Qurʾan, in four forms. The verb ʿafā occurs twenty-seven times, most of them describing God's pardon of His servants; the intensive noun ʿafuww occurs five times as a description of God, four of them as "Pardoning, Forgiving" and once as "Pardoning, All-Powerful" (4:149); the active participle al-ʿāfīn occurs once (3:134); and the noun al-ʿafw occurs twice, though in a sense wholly distinct from forbearance:
 
 ﴿يَسْأَلُونَكَ مَاذَا يُنْفِقُونَ قُلِ الْعَفْوَ﴾ [2:219]
 *"They ask you what they should spend. Say: the surplus (al-ʿafw)."*
@@ -48,7 +48,7 @@ it does not repeat one meaning in two words for emphasis; it names two successiv
 
 ### A Model That Discloses the Essence of the Quality: Pardon Despite Power
 
-Among the most exact disclosures of the nature of Qurʾanic pardon is its repeated pairing with the attribute of power rather than of incapacity:
+Among the most exact disclosures of the nature of Qurʾanic pardon is its pairing with the attribute of power rather than of incapacity (the only place where *ʿafuww* is paired with *qadīr*; elsewhere it is paired with *ghafūr*):
 
 ﴿فَإِنَّ اللَّهَ كَانَ عَفُوًّا قَدِيرًا﴾ [4:149]
 *"Indeed, God is ever Pardoning and All-Powerful."*

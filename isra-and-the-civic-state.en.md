@@ -107,7 +107,7 @@ Examine the structure of the verse:
 
 This verse is **the first article** upon which all the prior constitutional articles are built. Why did You forbid the killing of a soul? Because it is honored. Why did You forbid eating the orphan's wealth? Because he is an honored human being. Why did You forbid arrogance? Because the one looked down upon is honored.
 
-And so the great scholar **Ibn ʿĀshūr** says: "The honoring in this verse is the root of all rights, and every obligation that follows is a branch upon it."
+And so the great scholar **Ibn ʿĀshūr** says: "The honoring in this verse is the root of all rights, and every obligation that follows is a branch upon it."[^1]
 
 **The Civilizational Effect**: Every political or social system that violates the honor of the children of Adam — Muslim or non-Muslim, white or black, male or female — is a system that has departed from this covenantal foundation. And the Muslim in the West cannot accept discrimination against his community because he relies on a reference that supersedes positive law: **the reference of divine honor**. At the same time, he cannot discriminate against others, because the honoring is for the children of Adam, not for a faction among them.
 
@@ -232,7 +232,7 @@ Analysis of the verse:
 
 **The Civilizational Effect**: This is a Qur'anic explanation of a phenomenon observed by Western economists. Behavioral economists call something similar "Loss Aversion": the human being hates loss twice as much as he loves gain. The Qur'an preceded them by fourteen centuries.
 
-**Application to the Community**: The Muslim in the West faces a double challenge: 1) Learning how to spend from his treasuries on his endowment, his mosque, his school, without "fear of spending." 2) Understanding that the accumulation of wealth in the dominant society — where 1% of people own 45% of the wealth — is a planetary manifestation of what the Qur'an warned against. And the community that falls into the same trap adds its sin to the general sin.
+**Application to the Community**: The Muslim in the West faces a double challenge: 1) Learning how to spend from his treasuries on his endowment, his mosque, his school, without "fear of spending." 2) Understanding that the accumulation of wealth in the dominant society — where 1% of people own 45% of the wealth[^2] — is a planetary manifestation of what the Qur'an warned against. And the community that falls into the same trap adds its sin to the general sin.
 
 Ask yourself first, as the Qur'an reminds you: "Am I learning my own stinginess before criticizing the stinginess of others?" In the answer is a disciplinary pause.
 
@@ -276,3 +276,6 @@ The series is a method that does not end. After al-Isrāʾ, we shall move to ano
 Until then, let something of this sūra settle in your heart: you are the honored child of Adam. You have a constitution that safeguards you. Before you are pressures whose composition you understand. In your hand is Noah's ark, in your heart is Muḥammad's Burāq, in your staff is Moses' logic. With these, your provisions are sufficient.
 
 *And praise is due to God, by whose praise good deeds are completed.*
+
+[^1]: Editor's note: This text has not been found verbatim in Ibn ʿĀshūr's commentary on al-Isrāʾ 17:70 in *al-Taḥrīr wa-l-Tanwīr*, and it may be a summary of his meaning; its exact location (volume and page) is required before it is presented as a direct quotation.
+[^2]: Editor's note: Neither the source nor the year of this figure is given. It is close to the Credit Suisse Global Wealth Reports' estimate of the share of global personal wealth held by the richest 1% of the world's population (about 46% in the 2013 report); it is thus a global estimate that varies from year to year, not a statistic for a particular society.

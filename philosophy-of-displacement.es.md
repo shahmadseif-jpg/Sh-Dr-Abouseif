@@ -186,7 +186,7 @@ La civilización humana, en sus más nobles modelos, la fabricaron los emigrante
 
 Y si miramos a la civilización americana misma, hallamos que es por esencia una civilización de emigrantes. ¿Quiénes son los americanos en el contexto político, consuetudinario y constitucional sino gente que obtuvo la nacionalidad a través de los canales legítimos? Los grandes líderes vienen de familias emigrantes, de Alemania, de Escocia, de Irlanda, de Italia, de África. Y los primeros ocupantes de las tierras americanas no eran americanos en origen, sino que eran emigrantes sobre los habitantes originales de los indios nativos.
 
-La nacionalidad aquí —y en todo país fundado sobre la base de la ley— es un derecho ganado por el merecimiento, no por la raza. Y los nombres relucientes en todos los campos —el científico, el médico, el técnico, el artístico, el jurídico— la mayoría de ellos si no todos son de los emigrantes que obtuvieron la nacionalidad, y que, si se vaciara de ellos el país, caería sobre su tierra sin un levantamiento renovado.
+La nacionalidad aquí —y en todo país fundado sobre la base de la ley— es un derecho ganado por el merecimiento, no por la raza. Y los nombres relucientes en todos los campos —el científico, el médico, el técnico, el artístico, el jurídico— la mayoría de ellos si no todos son de los emigrantes que obtuvieron la nacionalidad, y que, si se vaciara de ellos el país, caería sobre su tierra sin un levantamiento renovado.[^1]
 
 Que no se asuste, pues, el musulmán de la descripción de «emigrante». Es la descripción del Profeta (la paz sea con él), la descripción de todos los profetas de Dios, y la descripción de quien fabricó las civilizaciones. La expulsión —si viene— no es un final para el desplazado, sino que puede ser el comienzo de su gran etapa.
 
@@ -208,3 +208,5 @@ Y por último, incluso la expulsión —si ocurre— necesita una metodología y
 
 *— Dr. Ahmed Abouseif, presidente de la Academia Americana de los Imanes*
 *Mayo de 2026*
+
+[^1]: Nota del editor: La ciudadanía estadounidense se adquiere por nacimiento en suelo estadounidense o por naturalización, como en la Decimocuarta Enmienda de la Constitución de los Estados Unidos. Los nacidos fuera de los Estados Unidos son alrededor del 14 % de la población según las estimaciones de la Oficina del Censo para 2022, y más de la mitad de ellos están naturalizados. La mayoría de los estadounidenses son, pues, ciudadanos por nacimiento, aunque muchos remonten su origen a la migración; lo dicho sobre los nombres relucientes es una estimación general del autor, no una estadística documentada.

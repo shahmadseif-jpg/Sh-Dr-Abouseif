@@ -99,7 +99,7 @@ Contempla la estructura de la aleya:
 
 Esta aleya es **el primer artículo** sobre el que se edifica todo lo que precedió de los artículos de la constitución. ¿Por qué nos prohibiste matar el alma? Porque es honrada. ¿Por qué nos prohibiste comer el bien del huérfano? Porque es un ser humano honrado. ¿Por qué nos prohibiste la soberbia? Porque aquel a quien se le es soberbio es honrado.
 
-Por ello dice el erudito **Ibn ʿĀšūr**: «La dignidad en esta aleya es el fundamento de todos los derechos, y toda encomienda después de ella es una rama de ella».
+Por ello dice el erudito **Ibn ʿĀšūr**: «La dignidad en esta aleya es el fundamento de todos los derechos, y toda encomienda después de ella es una rama de ella»[^1].
 
 **El efecto civilizatorio de esta aleya**: todo sistema político o social que viola la dignidad de los hijos de Adán —su musulmán y su incrédulo, su blanco y su negro, su varón y su hembra— es un sistema fuera de este fundamento pactual. Y el musulmán en Occidente no puede aceptar la discriminación contra su comunidad porque se apoya en una referencia que supera la ley positiva: **la referencia de la dignidad divina**. Y al mismo tiempo, no puede discriminar contra otro, porque la dignidad es para los hijos de Adán, no para una facción de ellos.
 
@@ -216,7 +216,7 @@ El análisis de la aleya:
 
 **El efecto civilizatorio**: esta es una interpretación coránica de un fenómeno que observaron los economistas occidentales. Los sabios de la economía conductual llaman a algo similar «aversión a la pérdida» (Loss Aversion): el ser humano detesta la pérdida el doble de lo que ama la ganancia. El Corán se les adelantó catorce siglos.
 
-**La aplicación a la comunidad**: el musulmán en Occidente tiene ante sí un desafío doble: 1) aprender cómo gastar de sus tesoros sobre su legado, su mezquita y su escuela sin «temor de gastar». 2) comprender que la acumulación de la riqueza en la sociedad hegemónica —donde posee el 1% de la gente el 45% de la riqueza— es una manifestación planetaria de lo que advirtió el Corán. Y la comunidad que cae en la misma trampa añade su pecado al pecado general.
+**La aplicación a la comunidad**: el musulmán en Occidente tiene ante sí un desafío doble: 1) aprender cómo gastar de sus tesoros sobre su legado, su mezquita y su escuela sin «temor de gastar». 2) comprender que la acumulación de la riqueza en la sociedad hegemónica —donde posee el 1% de la gente el 45% de la riqueza[^2]— es una manifestación planetaria de lo que advirtió el Corán. Y la comunidad que cae en la misma trampa añade su pecado al pecado general.
 
 > **Una escena que descubre la aleya**: en una academia islámica en el estado de Texas, la junta planificó la construcción de un nuevo pabellón educativo con un costo de 2,5 millones de dólares. Vino la primera donación de un médico musulmán con cinco mil dólares, diciendo: «Intento que no fracasen las manos de la escuela de mis hijos». En la misma semana, donó otro médico —de la misma comunidad, con el mismo ingreso aproximadamente— cincuenta mil dólares a un club de golf privado. La diferencia no está en la capacidad, sino en el «temor de gastar» que distingue entre las dos puertas: la puerta del beneficio sostenible (un legado que permanece para las generaciones) el dinero teme ir a ella, y la puerta del disfrute efímero se abre sin cuenta. La aleya descubre el inconsciente económico hace 1400 años.
 
@@ -292,3 +292,6 @@ Escribe tus respuestas. Vuelve a ellas después de un año. Pues solo el ajuste 
 ---
 
 *Y la alabanza es de Dios, con cuya alabanza se completan las buenas obras.*
+
+[^1]: Nota del editor: Este texto no se ha hallado literalmente en el comentario de Ibn ʿĀšūr a al-Isrāʾ 17:70 en *al-Taḥrīr wa-l-Tanwīr*, y puede ser un resumen de su sentido; se requiere su ubicación exacta (tomo y página) antes de presentarlo como cita textual.
+[^2]: Nota del editor: No se indican la fuente ni el año de esta cifra. Se aproxima a la estimación de los informes de riqueza global de Credit Suisse sobre la parte de la riqueza personal mundial en manos del 1 % más rico de la población mundial (alrededor del 46 % en el informe de 2013); es, pues, una estimación mundial que varía de un año a otro, no una estadística de una sociedad concreta.

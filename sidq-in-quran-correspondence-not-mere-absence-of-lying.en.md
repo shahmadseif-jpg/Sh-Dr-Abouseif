@@ -52,7 +52,7 @@ The Qurʾan bestows a special title upon a rare few: *ṣiddīq*, an intensive f
 
 *"And mention in the Book Abraham. He was a man of utter truthfulness (ṣiddīq), a prophet."*
 
-Idrīs is described in the very same words (19:56). The title is given also to the mother of Mary (or, in another reading, to Mary herself):
+Idrīs is described in the very same words (19:56). The title is given also to Mary, the mother of the Messiah (peace be upon them):
 
 ﴿وَأُمُّهُ صِدِّيقَةٌ﴾ (5:75)
 
@@ -90,7 +90,7 @@ Abraham made a remarkable petition to his Lord:
 
 *"And grant me a tongue of truth among the later generations."*
 
-He asked, that is, for an honest legacy that would live on the lips of those who came after him, so that he would be remembered only as he truly was. The same construction recurs elsewhere: "an entrance of truth" and "an exit of truth" (17:80), and a "lofty tongue of truth" (19:50), which the Arabic text attributes to John. It adds a dimension not yet apparent: ṣidq is not confined to the conformity of speech to reality in the moment of speaking, but extends to the conformity of memory to reality after its owner has departed.
+He asked, that is, for an honest legacy that would live on the lips of those who came after him, so that he would be remembered only as he truly was. The same construction recurs elsewhere: "an entrance of truth" and "an exit of truth" (17:80), and a "lofty tongue of truth" (19:50), granted to Abraham, Isaac and Jacob (peace be upon them). It adds a dimension not yet apparent: ṣidq is not confined to the conformity of speech to reality in the moment of speaking, but extends to the conformity of memory to reality after its owner has departed.
 
 He who lived truthfully bequeaths a truthful legacy; he who contradicted his inner self by his outer leaves a betrayal whose traces come to light, if only after a time. Ṣidq in the Qurʾanic scheme is thus no momentary virtue, measured by a single stance, but a continuous fabric stretching from a man's first word to the last of it that survives in the memory of others.
 

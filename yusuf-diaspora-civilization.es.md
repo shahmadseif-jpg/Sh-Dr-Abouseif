@@ -35,7 +35,7 @@ Este episodio no es sobre «la historia de José», sino sobre la curva del asce
 >
 > 4. **Tres crisis de la comunidad en Occidente** — la falta de confianza en la permanencia, la confusión de la identidad, la parálisis de la decisión de construir.
 >
-> 5. **José sembró y Moisés cosechó** — cuatro siglos entre ambos en la misma tierra. Un mensaje para toda comunidad.
+> 5. **José sembró y Moisés cosechó** — unos cuatro siglos entre ambos en la misma tierra. Un mensaje para toda comunidad.
 
 ## Primero: el léxico civilizatorio de la sura
 
@@ -167,7 +167,7 @@ Lo que hizo José (la paz sea con él) es la realización práctica temprana de 
 
 Pues el mensaje islámico no está encerrado en una geografía, ni supeditado a un linaje. La tierra que Dios conduce al creyente es su verdadera tierra, y la gente que lo rodea es su súbdito en el llamado.
 
-Y contempla una paradoja coránica admirable: **entre la sepultura de José (la paz sea con él) en Egipto y el envío de Moisés (la paz sea con él) en la misma tierra hay cuatro siglos**. Cuatro siglos completos en los que los hijos de Israel crecían en Egipto portando el monoteísmo en sus corazones. **José sembró, y Moisés cosechó** —y ambos en «la tierra de la emigración». Si José hubiera rechazado la idea de permanecer en Egipto, no habría nacido Moisés (la paz sea con él) allí, ni se habría liberado una comunidad de la servidumbre.
+Y contempla una paradoja coránica admirable: **entre la sepultura de José (la paz sea con él) en Egipto y el envío de Moisés (la paz sea con él) en la misma tierra hay unos cuatro siglos**[^2]. Siglos en los que los hijos de Israel crecían en Egipto portando el monoteísmo en sus corazones. **José sembró, y Moisés cosechó** —y ambos en «la tierra de la emigración». Si José hubiera rechazado la idea de permanecer en Egipto, no habría nacido Moisés (la paz sea con él) allí, ni se habría liberado una comunidad de la servidumbre.
 
 Y esto es lo que comprendieron los nobles Compañeros (Dios esté complacido con ellos) cuando se dispersaron en la tierra como predicadores y fundadores de civilización: Muʿāḏ en Yemen, Abū Mūsā en Basora, ʿAmr en Egipto, Saʿd en Irak, y Abū l-Dardāʾ en el Levante. Ninguno de ellos volvió a Medina para morir en ella, sino que murió en la tierra en la que sembró las semillas del mensaje.[^1] Y de no ser por eso, el islam no se habría difundido por los confines del mundo habitado.
 
@@ -212,3 +212,4 @@ Escribe tus respuestas. Vuelve a ellas después de un año, pues solo el ajuste 
 - Acordado, de Ŷābir ibn ʿAbd Allāh: «Fui enviado a toda la gente» — Ṣaḥīḥ al-Bujārī (438), Ṣaḥīḥ Muslim (521).
 
 [^1]: Documentación del editor: El conferenciante afirmó que ninguno de estos Compañeros volvió a Medina para morir en ella, y que cada uno murió en la tierra mencionada junto a él; las fuentes recogen que Saʿd ibn Abī Waqqāṣ (Dios esté complacido con él) murió en al-ʿAqīq, cerca de Medina, en el año 55 de la Hégira, y fue llevado a al-Baqīʿ y enterrado allí (al-Durar al-Saniyya, *al-Mawsūʿa al-Tārīḫiyya*; y Wikipedia en inglés, «Sa'd ibn Abi Waqqas»: murió en Medina hacia el 674 d. C.), y que Muʿāḏ ibn Ŷabal (Dios esté complacido con él) murió en la peste de ʿAmwās, en el Levante, en el año 18 de la Hégira (o 17), no en Yemen (Dar al-Iftaa de Egipto, artículo «Muʿāḏ ibn Ŷabal»; y Wikipedia en inglés, «Muadh ibn Jabal»: murió en el 639 d. C. por la peste de ʿAmwās).
+[^2]: Nota del editor: Ni el Corán ni la Sunna auténtica precisan este periodo; la cifra es una aproximación tomada de los relatos históricos y de los relatos de la Gente del Libro. Éxodo 12:40 da para la estancia de los hijos de Israel en Egipto cuatrocientos treinta años, periodo que comienza con la entrada de Jacob y sus hijos en Egipto, no con la muerte de José (la paz sea con él), y los historiadores difieren en su cálculo.

@@ -44,13 +44,13 @@ Un artículo anterior de esta serie explicó la diferencia entre *qisṭ* y *ʿa
 
 ### Un patrón recurrente: el iḥsān inmediatamente después del derecho de Dios
 
-Una de las cosas más llamativas que revela el rastreo del término es que el mandato del iḥsān hacia los padres se repite cinco veces en el Corán con una formulación casi idéntica, y siempre en la misma posición: inmediatamente después del mandato de afirmar la unicidad de Dios, sin nada entre ambos:
+Una de las cosas más llamativas que revela el rastreo del término es que el mandato del iḥsān hacia los padres se repite cinco veces en el Corán; cuatro de ellas con una formulación casi idéntica y en la misma posición: inmediatamente después del mandato de afirmar la unicidad de Dios, sin nada entre ambos:
 
 ﴿وَاعْبُدُوا اللَّهَ وَلَا تُشْرِكُوا بِهِ شَيْئًا وَبِالْوَالِدَيْنِ إِحْسَانًا﴾ (4:36)
 
 *«Adorad a Dios, no Le asociéis nada y sed buenos (iḥsān) con los padres.»*
 
-La misma fórmula figura, casi en los mismos términos, en 2:83, 6:151, 17:23 y 46:15. El Corán no dice «luego, a los padres, iḥsān», con un intervalo de tiempo o de rango. Une el iḥsān hacia los padres al derecho de Dios mediante la conjunción directa «y», como si concediera a este derecho humano el segundo lugar inmediatamente después del derecho del Creador, sin intermediario. Esta repetición casi literal en cinco suras distintas no es un azar estilístico. Es un énfasis deliberado: el iḥsān hacia los padres no es una estancia menor entre las muchas estancias de la rectitud, sino la prolongación directa de la unicidad de Dios en el ámbito de las relaciones humanas.
+La misma fórmula figura, casi en los mismos términos, en 2:83, 6:151 y 17:23; la quinta, ﴿وَوَصَّيْنَا الْإِنسَانَ بِوَالِدَيْهِ إِحْسَانًا﴾ («Hemos encomendado al ser humano el iḥsān hacia sus padres», 46:15), aparece en un contexto cercano a la mención de la unicidad de Dios (46:13), no inmediatamente después de ella. El Corán no dice «luego, a los padres, iḥsān», con un intervalo de tiempo o de rango. Une el iḥsān hacia los padres al derecho de Dios mediante la conjunción directa «y», como si concediera a este derecho humano el segundo lugar inmediatamente después del derecho del Creador, sin intermediario. Esta repetición en cinco suras distintas no es un azar estilístico. Es un énfasis deliberado: el iḥsān hacia los padres no es una estancia menor entre las muchas estancias de la rectitud, sino la prolongación directa de la unicidad de Dios en el ámbito de las relaciones humanas.
 
 ### Otro patrón: la condición de la sumisión sana
 
@@ -66,11 +66,11 @@ El mismo sentido figura en 4:125 y 31:22. La aleya no se contenta con la condici
 
 En la sura de al-Ṣāffāt, el Corán cierra una serie de narraciones proféticas con un mismo estribillo:
 
-﴿إِنَّا كَذَٰلِكَ نَجْزِي الْمُحْسِنِينَ﴾ (37:80, 105, 110, 121, 131)
+﴿إِنَّا كَذَٰلِكَ نَجْزِي الْمُحْسِنِينَ﴾ (37:80, 105, 121, 131; y en 37:110 como ﴿كَذَٰلِكَ نَجْزِي الْمُحْسِنِينَ﴾, sin «إِنَّا»)
 
 *«En verdad, así recompensamos a los hacedores del bien.»*
 
-Estas narraciones (Noé, Abraham, Moisés, Aarón y Elías) difieren por completo en sus detalles: un diluvio, un sacrificio, la separación de un mar. Sin embargo, quedan reunidas bajo un solo sello inmutable. La recompensa del iḥsān es una vía divina establecida que recorre a todos los profetas, no un trato peculiar de alguno de ellos. Hay en esto una insinuación de que el iḥsān no es una estación reservada a la élite de la élite, sino una medida fija con la que se recompensa a todo el que la alcanza, desde un profeta hasta el más humilde de los hombres en rango.
+Estas cuatro narraciones (Noé; Abraham, cuya historia lleva el estribillo dos veces; Moisés y Aarón; y Elías) difieren por completo en sus detalles: un diluvio, un sacrificio, la separación de un mar. Sin embargo, quedan reunidas bajo un solo sello inmutable. La recompensa del iḥsān es una vía divina establecida que recorre a todos los profetas, no un trato peculiar de alguno de ellos. Hay en esto una insinuación de que el iḥsān no es una estación reservada a la élite de la élite, sino una medida fija con la que se recompensa a todo el que la alcanza, desde un profeta hasta el más humilde de los hombres en rango.
 
 ### Un cuarto patrón: ¿es la recompensa del bien algo distinto del bien?
 
@@ -94,7 +94,7 @@ Según este orden, el iḥsān es una puerta intermedia entre lo exigido a todo 
 
 ### La aplicación contemporánea
 
-Muchos confunden hoy «cumplir la obligación» con «la excelencia en ella». Suponen que cubrir el mínimo de sus deberes hacia los padres, el trabajo o las personas a su cargo basta para dejar saldadas sus cuentas. Las cinco aleyas que sitúan el iḥsān hacia los padres inmediatamente después de la afirmación de la unicidad de Dios nos recuerdan que hay una diferencia real entre quien visita a sus padres por deber social y quien les hace el bien más allá de lo que se le pide. El primero es justo dentro de los límites de la obligación; el segundo es un hacedor del bien en un horizonte sin techo.
+Muchos confunden hoy «cumplir la obligación» con «la excelencia en ella». Suponen que cubrir el mínimo de sus deberes hacia los padres, el trabajo o las personas a su cargo basta para dejar saldadas sus cuentas. Las aleyas que unen el iḥsān hacia los padres a la afirmación de la unicidad de Dios nos recuerdan que hay una diferencia real entre quien visita a sus padres por deber social y quien les hace el bien más allá de lo que se le pide. El primero es justo dentro de los límites de la obligación; el segundo es un hacedor del bien en un horizonte sin techo.
 
 En el ámbito laboral, la definición del iḥsān como «más allá de lo debido» ofrece una medida práctica para distinguir al empleado que cumple exactamente lo que se le exige del que realiza su tarea muy por encima de la letra de su descripción de puesto. El hadiz de Gabriel añade una dimensión que el desempeño exterior por sí solo no puede dar: en todo acto, sea obligatorio o espontáneo, se mantiene presente la conciencia de que Dios lo ve. Ese es el espíritu que hace del iḥsān lo que es, y no un mero pulido técnico sin presencia del corazón.
 
@@ -102,7 +102,7 @@ En las relaciones humanas cotidianas, la aleya «¿Acaso la recompensa del iḥs
 
 ### Conclusión
 
-Desde la pregunta de Gabriel sobre el más alto de los tres grados, pasando por un mandato repetido cinco veces que une a los padres directamente al derecho de Dios, hasta un único estribillo que sella una serie de narraciones proféticas, el Corán traza para el iḥsān un único sentido inmutable: un desempeño que va más allá del límite obligatorio, ofrecido por un corazón consciente de que Aquel para quien se hace lo ve antes que nadie. Y Dios, el Altísimo, es quien mejor sabe; Él es el Protector de todo éxito.
+Desde la pregunta de Gabriel sobre el más alto de los tres grados, pasando por un mandato repetido cinco veces que une a los padres al derecho de Dios, hasta un único estribillo que sella una serie de narraciones proféticas, el Corán traza para el iḥsān un único sentido inmutable: un desempeño que va más allá del límite obligatorio, ofrecido por un corazón consciente de que Aquel para quien se hace lo ve antes que nadie. Y Dios, el Altísimo, es quien mejor sabe; Él es el Protector de todo éxito.
 
 ---
 

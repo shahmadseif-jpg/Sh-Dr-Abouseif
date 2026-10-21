@@ -20,7 +20,7 @@ Milk comes forth from between *farth* (the residue of digested food) and blood, 
 
 The root kh-l-ṣ occurs in the Qurʾan thirty-one times, in seven forms. Two usages lie far from the axis of this article. The first is the verb *khalaṣū*, “they withdrew and set themselves apart,” which occurs once (12:80), in the story of Joseph's brothers when they withdrew to confer in private. The second is the verb *astakhliṣhu*, “I shall choose him for my own service,” which occurs once (12:54), on the lips of the king of Egypt concerning Joseph. Both share with the root's origin the sense of “setting apart and drawing out,” yet both are remote from the context of sincerity in worship.
 
-The field that concerns us comprises three forms. First, the adjective *khāliṣ/khāliṣah*, which occurs seven times in the sense of purity and exclusiveness, as in the pure milk of 16:66 and the pure religion of 39:3. Second, the active participle of Form IV, *mukhliṣ/mukhliṣīn*, which occurs eleven times and is the direct verbal witness to one who makes his deed sincere for God by his own will. Third, the passive participle *mukhlaṣ/mukhlaṣīn*, which occurs nine times and describes those whom God has chosen and purified, not those who made themselves sincere. The first is an act the servant performs; the second is an act God performs in His servant, though both share root and word.
+The field that concerns us comprises three forms. First, the adjective *khāliṣ/khāliṣah*, which occurs seven times in the sense of purity and exclusiveness, as in the pure milk of 16:66 and the pure religion of 39:3. Second, the active participle of Form IV, *mukhliṣ/mukhliṣīn*, which occurs eleven times and is the direct verbal witness to one who makes his deed sincere for God by his own will. Third, the passive participle *mukhlaṣ/mukhlaṣīn*, which occurs nine times and describes those whom God has chosen and purified, not those who made themselves sincere. The first is an act the servant performs; the second is an act God performs in His servant, though both share root and word. The Form IV verb *akhlaṣa* also occurs twice: «وَأَخْلَصُوا دِينَهُمْ لِلَّهِ» (“and make their religion sincere for God,” 4:146) and «إِنَّا أَخْلَصْنَاهُم بِخَالِصَةٍ» (“We purified them with an exclusive quality,” 38:46), which completes the root's thirty-one occurrences.
 
 ### The Linguistic Root: From the Purity of Milk to the Purity of Intention
 
@@ -62,7 +62,7 @@ Over against this sincerity that a servant exerts by his own will, the Qurʾan d
 
 *“Except the chosen servants of God.”*
 
-This phrase recurs verbatim five times in Sūrat al-Ṣāffāt alone (37:40, 74, 128, 160, 169), and elsewhere as well (12:24, 15:40, 38:83). In the story of Joseph in particular, when he inclined toward the woman who sought to seduce him, the Qurʾan accounts for his deliverance from indecency in these words:
+This phrase recurs verbatim four times in Sūrat al-Ṣāffāt alone (37:40, 74, 128, 160), and the same description comes a fifth time there in the words attributed to the idolaters: «لَكُنَّا عِبَادَ اللَّهِ الْمُخْلَصِينَ» (“we would have been God's chosen servants,” 37:169); and elsewhere as well (12:24, 15:40, 38:83). In the story of Joseph in particular, when he inclined toward the woman who sought to seduce him, the Qurʾan accounts for his deliverance from indecency in these words:
 
 ﴿كَذَٰلِكَ لِنَصْرِفَ عَنْهُ السُّوءَ وَالْفَحْشَاءَ إِنَّهُ مِنْ عِبَادِنَا الْمُخْلَصِينَ﴾ (12:24)
 

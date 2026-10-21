@@ -44,13 +44,13 @@ An earlier article in this series explained the difference between *qisṭ* and 
 
 ### A Recurrent Pattern: Iḥsān Directly after the Right of God
 
-One of the most striking things that tracing the word reveals is that the command of iḥsān toward parents recurs five times in the Qurʾan in nearly identical wording, and always in the same position: directly after the command to affirm God's oneness, with nothing between:
+One of the most striking things that tracing the word reveals is that the command of iḥsān toward parents recurs five times in the Qurʾan; four of them in nearly identical wording and in the same position: directly after the command to affirm God's oneness, with nothing between:
 
 ﴿وَاعْبُدُوا اللَّهَ وَلَا تُشْرِكُوا بِهِ شَيْئًا وَبِالْوَالِدَيْنِ إِحْسَانًا﴾ (4:36)
 
 *“Worship God and associate nothing with Him, and be good (iḥsān) to parents.”*
 
-The same formula appears, in almost the same form, at 2:83, 6:151, 17:23 and 46:15. The Qurʾan does not say “then to parents, iḥsān,” with a gap of time or rank. It joins iḥsān toward parents to the right of God by the direct conjunction “and,” as though granting this human right second place immediately after the right of the Creator, with nothing between. This near-verbatim repetition in five different suras is no stylistic accident. It is a deliberate emphasis: iḥsān toward parents is not a minor chamber among the many chambers of righteousness, but the direct extension of God's oneness into the realm of human relationships.
+The same formula appears, in almost the same form, at 2:83, 6:151 and 17:23; the fifth, ﴿وَوَصَّيْنَا الْإِنسَانَ بِوَالِدَيْهِ إِحْسَانًا﴾ (“We have enjoined upon man iḥsān toward his parents,” 46:15), comes in a context close to the mention of God's oneness (46:13), not directly after it. The Qurʾan does not say “then to parents, iḥsān,” with a gap of time or rank. It joins iḥsān toward parents to the right of God by the direct conjunction “and,” as though granting this human right second place immediately after the right of the Creator, with nothing between. This repetition in five different suras is no stylistic accident. It is a deliberate emphasis: iḥsān toward parents is not a minor chamber among the many chambers of righteousness, but the direct extension of God's oneness into the realm of human relationships.
 
 ### Another Pattern: The Condition of Sound Submission
 
@@ -66,11 +66,11 @@ The same sense occurs at 4:125 and 31:22. The verse is not content with the cond
 
 In Sūrat al-Ṣāffāt the Qurʾan closes a series of prophetic narratives with one and the same refrain:
 
-﴿إِنَّا كَذَٰلِكَ نَجْزِي الْمُحْسِنِينَ﴾ (37:80, 105, 110, 121, 131)
+﴿إِنَّا كَذَٰلِكَ نَجْزِي الْمُحْسِنِينَ﴾ (37:80, 105, 121, 131; and at 37:110 as ﴿كَذَٰلِكَ نَجْزِي الْمُحْسِنِينَ﴾, without «إِنَّا»)
 
 *“Indeed, thus do We reward the doers of good.”*
 
-These narratives (Noah, Abraham, Moses, Aaron and Elias) differ entirely in their details: a flood, a sacrifice, the parting of a sea. Yet they are gathered under a single unchanging seal. The reward of iḥsān is a settled divine way running through all the prophets, not a favor peculiar to any one of them. There is a hint in this that iḥsān is not a station reserved for the elect of the elect, but a fixed measure by which everyone who attains it is rewarded, from a prophet to the humblest of people in rank.
+These four narratives (Noah; Abraham, whose story carries the refrain twice; Moses and Aaron; and Elias) differ entirely in their details: a flood, a sacrifice, the parting of a sea. Yet they are gathered under a single unchanging seal. The reward of iḥsān is a settled divine way running through all the prophets, not a favor peculiar to any one of them. There is a hint in this that iḥsān is not a station reserved for the elect of the elect, but a fixed measure by which everyone who attains it is rewarded, from a prophet to the humblest of people in rank.
 
 ### A Fourth Pattern: Is the Reward for Good Anything but Good?
 
@@ -94,7 +94,7 @@ On this ordering, iḥsān is a middle gate between what is required of every ac
 
 ### The Contemporary Application
 
-Many people today confuse “fulfilling the obligation” with “excellence in it.” They suppose that meeting the minimum of their duties toward their parents, their work, or those in their care is enough to clear their account. The five verses that set iḥsān toward parents directly after the affirmation of God's oneness remind us that there is a real difference between one who visits his parents out of social duty and one who does them good beyond what is asked. The first is just within the limits of obligation; the second is a doer of good on a horizon with no ceiling.
+Many people today confuse “fulfilling the obligation” with “excellence in it.” They suppose that meeting the minimum of their duties toward their parents, their work, or those in their care is enough to clear their account. The verses that join iḥsān toward parents to the affirmation of God's oneness remind us that there is a real difference between one who visits his parents out of social duty and one who does them good beyond what is asked. The first is just within the limits of obligation; the second is a doer of good on a horizon with no ceiling.
 
 In the workplace, the definition of iḥsān as “beyond what is due” offers a practical measure for telling apart the employee who performs exactly what is required of him and the one who does his work well beyond the letter of the job description. The hadith of Gabriel adds a dimension that outward performance alone cannot supply: in every act, whether obligatory or freely given, one keeps present the awareness that God sees it. That is the spirit that makes iḥsān what it is, and not mere technical polish without the presence of the heart.
 
@@ -102,7 +102,7 @@ In everyday human relations, the verse “Is the reward for iḥsān anything bu
 
 ### Conclusion
 
-From Gabriel's question about the highest of the three ranks, to a command repeated five times that joins parents directly to the right of God, to a single refrain that seals a series of prophetic narratives, the Qurʾan draws one unchanging meaning for iḥsān: a performance that goes beyond the obligatory limit, offered by a heart aware that the One for whom it is done sees it before anyone else does. And God, the Exalted, knows best; He is the Guardian of all success.
+From Gabriel's question about the highest of the three ranks, to a command repeated five times that joins parents to the right of God, to a single refrain that seals a series of prophetic narratives, the Qurʾan draws one unchanging meaning for iḥsān: a performance that goes beyond the obligatory limit, offered by a heart aware that the One for whom it is done sees it before anyone else does. And God, the Exalted, knows best; He is the Guardian of all success.
 
 ---
 

@@ -53,7 +53,7 @@ La cuarta es la fitna de la división: una escisión y una contienda entre los p
 
 y aún más:
 
-﴿أَكْبَرُ مِنَ الْقَتْلِ﴾ (2:217)
+﴿أَكْبَرُ مِنَ الْقَتْلِ﴾ (2:217)[^6]
 *«…mayor que matar».*
 
 La quinta, que cierra el círculo, es la fitna del castigo mismo. Cuando las cuatro primeras llegan a su desenlace en la Otra Vida, la palabra vuelve a su origen primero, el fuego real. Se dirá a la gente del Fuego el Día de la Resurrección:
@@ -139,3 +139,4 @@ Del fuego del orfebre que distingue el oro puro del aleado, al fuego de la Trinc
 [^4]: Ibn Qayyim al-Ŷawziyya, en su comentario a las palabras «¿Piensan los hombres que serán dejados…?» (al-ʿAnkabūt 1–3), entre lo transmitido de sus palabras en los libros de exégesis por transmisión.
 
 [^5]: Narrado por al-Tirmidhī en su *Sunan*, n.º 2398, e Ibn Māŷa, n.º 4023, por vía de Muṣʿab ibn Saʿd, de su padre Saʿd ibn Abī Waqqāṣ (que Dios esté complacido con él); al-Tirmidhī dijo: hadiz bueno y sano.
+[^6]: Nota del editor: En el contexto de las dos aleyas de al-Baqara (2:191, 217), Ibn Kaṯīr explica la *fitna* como el politeísmo, la incredulidad y el impedir a los creyentes el camino de Dios, y dice: «الشرك أشد من القتل» («el politeísmo es más grave que matar»); al-Ṭabarī la explica como el ser apartado el creyente de su religión hasta volver al politeísmo. Situar estas dos aleyas bajo la «fitna de la división» entre musulmanes es, por tanto, una extensión aplicada del autor, no una exégesis de su contexto histórico.
