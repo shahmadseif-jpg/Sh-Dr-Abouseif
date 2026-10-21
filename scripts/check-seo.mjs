@@ -171,8 +171,8 @@ for (const [name, mod, get, list] of [['khawatir', khawatir, 'getKhatraMeta', 'k
     }
   };
   walk(path.join(ROOT, 'app', '[locale]'));
-  // events: owned by another track; cv: permanent redirect; [...rest]: 404 only
-  const EXEMPT = ['events', 'cv', '[...rest]'];
+  // cv: permanent redirect; [...rest]: 404 only
+  const EXEMPT = ['cv', '[...rest]'];
   const missing = pages.filter((p) => {
     const rel = path.relative(path.join(ROOT, 'app', '[locale]'), p);
     if (EXEMPT.some((e) => rel.startsWith(e + path.sep))) return false;
