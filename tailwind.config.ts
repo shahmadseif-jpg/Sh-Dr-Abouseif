@@ -33,10 +33,21 @@ const config: Config = {
           900: '#1C1707',
         },
       },
+      // Text-only overrides of the gold scale: the brand gold #B0902B reached
+      // just 2.9–3.1:1 as small text on white/navy-50 (ROOT-A11Y-CONTRAST-01).
+      // Backgrounds, borders and decorative lines keep the brand values; only
+      // `text-gold-500/600` are darkened to pass 4.5:1 on white, navy-50 and
+      // gold-50 surfaces (5.5:1 and 6.7:1 on white).
+      textColor: {
+        gold: {
+          500: '#7D6620',
+          600: '#6F5A1C',
+        },
+      },
       fontFamily: {
         arabic: ['var(--font-cairo)', 'Tahoma', 'sans-serif'],
         latin: ['var(--font-inter)', 'system-ui', 'sans-serif'],
-        serif: ['var(--font-cormorant)', 'Georgia', 'serif'],
+        serif: ['Georgia', 'serif'],
       },
       maxWidth: {
         'container': '1200px',
