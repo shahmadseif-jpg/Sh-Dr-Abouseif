@@ -1,7 +1,7 @@
 import type { Metadata } from 'next';
 import Script from 'next/script';
 import { NextIntlClientProvider } from 'next-intl';
-import { getMessages, getTranslations } from 'next-intl/server';
+import { getMessages, getTranslations, setRequestLocale } from 'next-intl/server';
 import { notFound } from 'next/navigation';
 import { routing } from '@/i18n/routing';
 import Header from '@/components/Header';
@@ -89,7 +89,12 @@ export default async function LocaleLayout({
     notFound();
   }
 
-  const messages = await getMessages();
+  // Set the locale for this request before anything reads it, and pass it
+  // explicitly: otherwise next-intl falls back to reading request headers,
+  // which Next 15 rejects (DYNAMIC_SERVER_USAGE) while rendering the ISR
+  // detail pages on demand.
+  setRequestLocale(locale);
+  const messages = await getMessages({ locale });
   const dir = (locale === 'ar' || locale === 'ur') ? 'rtl' : 'ltr';
 
   return (
