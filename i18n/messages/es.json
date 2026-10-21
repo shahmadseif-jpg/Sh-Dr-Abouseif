@@ -86,7 +86,7 @@
   },
   "lectures": {
     "title": "Videoteca",
-    "subtitle": "Archivo completo de conferencias, sermones (khutbas) y reflexiones (khatiras) en árabe e inglés",
+    "subtitle": "Conferencias, sermones (khutbas) y reflexiones (khatiras) en árabe e inglés",
     "filter_all": "Todo",
     "filter_arabic": "Árabe",
     "filter_english": "Inglés",
@@ -96,7 +96,9 @@
     "type_khatira": "Reflexiones",
     "label_type": "Tipo",
     "label_language": "Idioma",
-    "search_placeholder": "Buscar en la videoteca..."
+    "search_placeholder": "Buscar en los vídeos recientes...",
+    "window_note": "Esta página muestra solo los vídeos más recientes del canal (hasta 15, del feed público de YouTube); la búsqueda y los filtros se aplican solo a esos vídeos.",
+    "archive_link": "Ver el archivo completo en YouTube"
   },
   "articles": {
     "title": "Artículos y Blog",

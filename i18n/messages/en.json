@@ -86,7 +86,7 @@
   },
   "lectures": {
     "title": "Video Library",
-    "subtitle": "Comprehensive archive of lectures, khutbahs, and khatiras in Arabic and English",
+    "subtitle": "Lectures, khutbahs, and khatiras in Arabic and English",
     "filter_all": "All",
     "filter_arabic": "Arabic",
     "filter_english": "English",
@@ -96,7 +96,9 @@
     "type_khatira": "Khatiras",
     "label_type": "Type",
     "label_language": "Language",
-    "search_placeholder": "Search the library..."
+    "search_placeholder": "Search recent videos...",
+    "window_note": "This page shows only the channel's most recent videos (up to 15, from YouTube's public feed); search and filters apply to those videos only.",
+    "archive_link": "Browse the full archive on YouTube"
   },
   "articles": {
     "title": "Articles & Blog",
