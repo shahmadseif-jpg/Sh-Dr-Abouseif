@@ -1,7 +1,6 @@
 import { setRequestLocale, getTranslations } from 'next-intl/server';
 import { useTranslations } from 'next-intl';
 import { siteConfig } from '@/lib/site-config';
-import Newsletter from '@/components/Newsletter';
 
 export async function generateMetadata({ params }: { params: Promise<{ locale: string }> }) {
   const { locale } = await params;
@@ -84,10 +83,8 @@ function ContactContent() {
           </div>
         </div>
 
-        {/* Newsletter */}
-        <div className="bg-white border border-navy-100 rounded-lg p-8">
-          <Newsletter />
-        </div>
+        {/* The newsletter request form lives in the site footer (one instance
+            per page; it used to appear twice here — PUB-02). */}
       </div>
     </div>
   );
