@@ -1,5 +1,5 @@
 ---
-title: "Khatira | Dr. Ahmed Abou Seif | September 19, 2024 | Masjid Abu Bakr - Tampa, Florida"
+title: "Death Comes Without Warning"
 subtitle: "Death comes without warning: prepare to meet Allah and leave something behind"
 date: "2024-09-19"
 locale: "en"
@@ -9,19 +9,19 @@ readingMinutes: 3
 > Occasion: Transcription of a khatira delivered on 19 September 2024  
 > Source: A transcription of a video khatira by Dr. Ahmed Abouseif — [Watch the original video on YouTube](https://www.youtube.com/watch?v=aeKJu3dDpCA)
 
-A friend of mine, a few months ago, received news from the doctor that he has cancer. All the family members were worried about him, especially his wife. From the moment she heard the news she was devoted to him, supporting him and serving him.
+A friend of mine received news from the doctor that he has cancer. All the family members were worried about him, especially his wife. From the moment she heard the news she was devoted to him, supporting him and serving him.
 
-Then, two days ago, SubhanAllah, this happened. They were sitting with the children, and she gave him some medicine for his immune system, to make him strong enough to face all of this. She gave him the food and the medicine and everything, and they went to sleep. Alhamdulillah, everything was going well with this man. And in the morning, SubhanAllah, what do you expect? He did not find her. She had passed away.
+Then, SubhanAllah, this happened. They were sitting with the children, and she gave him some medicine for his immune system, to make him strong enough to face all of this. She gave him the food and the medicine and everything, and they went to sleep. Alhamdulillah, everything was going well with this man. And in the morning, SubhanAllah, what do you expect? He did not find her. She had passed away.
 
 She had been so worried about this man, who already has cancer. But death comes to every single person, no matter what happens, no matter the health condition, no matter the age.
 
 ### Not stories from the past
 
-A few days ago, a doctor who had just arrived in a new city, alone, without his family, was staying with friends: several people in one home, working in shifts at the hospital and coming back to rest, going back and forth like that. They left him at home and went to the hospital, and when they came back, they found him gone.
+A doctor was staying with colleagues. They left him at home and went to the hospital, and when they came back, they found him gone.
 
-Before that, SubhanAllah, there were two different car accidents, one involving a young man of nineteen and the other of twenty-one. All of these stories happened in one single week. We are not talking about what the Prophet ﷺ did, or what happened with the Companions. We are talking about accidents happening in our lives right now.
+Before that, SubhanAllah, there were two different car accidents involving two young men. All of these stories happened in one single week. We are not talking about what the Prophet ﷺ did, or what happened with the Companions. We are talking about accidents happening in our lives right now.
 
-Yesterday the man who already has cancer was sitting at the grave, seeing to his wife, worried about the body of the woman who, only the day before, had been taking care of him. All of us are making du'a for this sister who has passed.
+Then the man who already has cancer was sitting at the grave, seeing to his wife, worried about the body of the woman who, only the day before, had been taking care of him. All of us are making du'a for this sister who has passed.
 
 ### What do we take from this world?
 
@@ -33,11 +33,11 @@ Death comes that easily. And this is the order that comes to put me under the gr
 
 This sister was in a really good state of health, alhamdulillah. She just slept. Nothing happened, nothing wrong, SubhanAllah. She was just sleeping, as every night.
 
-And look at what her husband said. He said: this is the first day since I married this woman that I missed Fajr. The first day in his life, since the day he married her, that he did not pray on time, because she did not wake him up; she had passed away. He said he was waking her: "It is eight o'clock, you are lazy today, what is wrong with you?" And he did not find her.
+And look at what her husband said. He said: this is the first day since I married this woman that I missed Fajr. The first day in his life, since the day he married her, that he did not pray on time, because she did not wake him up; she had passed away.
 
 I try to imagine myself in that situation. My wife comes to wake me: go, the people are waiting for you over there, they are waiting for the imam. And she will not find me. I will be in a different world.
 
-And I try to imagine that doctor, who passed away a few days ago. SubhanAllah, how many plans he had in his mind when he went to sleep. How many patients were waiting for him in the hospital the next day. How many surgeries he was going to perform. Imagine the numbers; we cannot. But death comes like that. This is the order from Allah.
+And I try to imagine that doctor who passed away. SubhanAllah, how many plans he had in his mind when he went to sleep. How many patients were waiting for him in the hospital the next day. How many surgeries he was going to perform. Imagine the numbers; we cannot. But death comes like that. This is the order from Allah.
 
 ### Leave something behind
 
