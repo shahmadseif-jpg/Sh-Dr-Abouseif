@@ -9,7 +9,7 @@
  *   modules (lib/articles, lib/khawatir, lib/lectures-meta) — type-only
  *   imports are fine. lib/qa must not import lib/articles.
  * Build (needs `next build`): the JS chunks referenced by the prerendered
- *   /ar, /ar/articles, /ar/khawatir, /ar/qa and /ar/research pages contain no
+ *   /ar, /ar/khawatir, /ar/qa and /ar/research pages contain no
  *   article/lecture metadata (marker: a known article slug) and no khawatir
  *   metadata (marker: a khawatir slug), and the hero renditions exist.
  * Browser (with --base): khawatir list renders 24 cards with a live count;
@@ -34,6 +34,8 @@ const ok = (m) => console.log('ok  ', m);
 
 // ------------------------------------------------------------------ static
 const HEAVY = ['@/lib/articles', '@/lib/khawatir', '@/lib/lectures-meta'];
+// ArticlesList keeps its client bundle on purpose (see the file header).
+const ALLOWED = new Set(['components/ArticlesList.tsx']);
 const walk = (d) =>
   fs.readdirSync(d, { withFileTypes: true }).flatMap((e) =>
     e.isDirectory() ? walk(path.join(d, e.name)) : /\.tsx?$/.test(e.name) ? [path.join(d, e.name)] : []
@@ -45,7 +47,7 @@ for (const f of [...walk(path.join(root, 'components')), ...walk(path.join(root,
   clientFiles++;
   for (const m of src.matchAll(/^import\s+(type\s+)?([^;]*?)\s+from\s+'([^']+)'/gm)) {
     const [, typeOnly, what, from] = m;
-    if (!HEAVY.includes(from)) continue;
+    if (!HEAVY.includes(from) || ALLOWED.has(path.relative(root, f))) continue;
     const allTypes = typeOnly || /^\{\s*(type\s+\w+\s*,?\s*)+\}$/.test(what.trim());
     if (!allTypes) fail(`${path.relative(root, f)} (client) imports values from ${from}: ${what}`);
   }
@@ -65,7 +67,7 @@ if (!fs.existsSync(appDir)) {
 } else {
   const ARTICLE_MARKER = 'calls-to-faith-maidah-wasila';
   const KHAWATIR_MARKER = 'go-forth-light-or-heavy';
-  const pages = { '/ar': '../ar.html', '/ar/articles': 'articles.html', '/ar/khawatir': 'khawatir.html', '/ar/qa': 'qa.html', '/ar/research': 'research.html' };
+  const pages = { '/ar': '../ar.html', '/ar/khawatir': 'khawatir.html', '/ar/qa': 'qa.html', '/ar/research': 'research.html' };
   for (const [route, file] of Object.entries(pages)) {
     const htmlPath = path.join(appDir, file);
     let html;

@@ -1,5 +1,10 @@
-// Server component: renders static article metadata, so the metadata
-// (lib/articles.ts + lib/lectures-meta.ts) is not shipped to the browser.
+'use client';
+
+// Deliberately a client component (measured, PERF-02): rendered as a server
+// component the 461 cards are serialized twice (HTML + inline RSC payload,
+// 0.67 -> 1.49 MB HTML) and Lighthouse mobile TBT rose 231 -> 391 ms, more
+// than the 208 kB metadata chunk it would save.
+
 import { useLocale, useTranslations } from 'next-intl';
 import Link from 'next/link';
 import { articlesMeta, categoryLabels, localize, type ArticleCategory, type Loc, type LocalizedText } from '@/lib/articles';
