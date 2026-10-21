@@ -62,7 +62,7 @@ Many classical and modern commentators came close to describing what follows:
 
 - **Imām al-Rāzī** in *Mafātīḥ al-Ghayb* calls verses (22–39) "the foundations of legal rulings" (*uṣūl al-sharāʾiʿ*).
 - **Ibn ʿĀshūr** in *al-Taḥrīr wa-l-Tanwīr* names them "the mothers of virtues" (*ummahāt al-faḍāʾil*).
-- And **Rashīd Riḍā** refers to them as the "Qur'anic Ten Commandments" (because they are close in spirit to the Mosaic commandments, with an Islamic deepening of their ethics).
+- And **Rashīd Riḍā** refers to them as the "Qur'anic Ten Commandments" (because they are close in spirit to the Mosaic commandments, while going beyond their ethics).
 
 These designations converge on one thing: the verses of al-Isrāʾ are not jurisprudential details but **founding, all-encompassing articles**. We propose a more precise term for the context of contemporary civilization:
 
@@ -107,7 +107,7 @@ Examine the structure of the verse:
 
 This verse is **the first article** upon which all the prior constitutional articles are built. Why did You forbid the killing of a soul? Because it is honored. Why did You forbid eating the orphan's wealth? Because he is an honored human being. Why did You forbid arrogance? Because the one looked down upon is honored.
 
-And so the great scholar **Ibn ʿĀshūr** says: "The honoring in this verse is the root of all rights, and every obligation that follows is a branch upon it."
+And so the great scholar **Ibn ʿĀshūr** says: "The honoring in this verse is the root of all rights, and every obligation that follows is a branch upon it."[^1]
 
 **The Civilizational Effect**: Every political or social system that violates the honor of the children of Adam — Muslim or non-Muslim, white or black, male or female — is a system that has departed from this covenantal foundation. And the Muslim in the West cannot accept discrimination against his community because he relies on a reference that supersedes positive law: **the reference of divine honor**. At the same time, he cannot discriminate against others, because the honoring is for the children of Adam, not for a faction among them.
 
@@ -167,7 +167,7 @@ This is the pressure of **compromise rewarded by conditional friendship**. It is
 
 **The Contemporary Application**: The mosque that receives conditional funding, the imam invited to Muslim-government commissions with an implicit condition, the institution that avoids legal positions because they are "sensitive" in the public sphere — all of these experience the pressure of compromise. And the Qur'anic lesson: **it is strengthening that preserves, not methodological cleverness alone**.
 
-> **A Scene from Community Reality**: In one major American city, an imam was offered generous funding by a government institution for "interfaith dialogue" programs — with an implicit condition that he would avoid mentioning "sensitive regional issues" in his sermons. The imam politely declined the funding, telling his brother: "When they ask me for silence on the truth in exchange for money, the money is in reality the price of my tongue, not funding for my program." Three years later, the mosque grew through its own community's donations and became a reference point for the community rather than an annex to another agenda. This is "Had We not strengthened you" in its contemporary form.
+> **A Scene from Community Reality**: In one of the major cities, an imam was offered generous funding by a government institution for "interfaith dialogue" programs — with an implicit condition that he would avoid mentioning "sensitive regional issues" in his sermons. The imam politely declined the funding, telling his brother: "When they ask me for silence on the truth in exchange for money, the money is in reality the price of my tongue, not funding for my program." Three years later, the mosque grew through its own community's donations and became a reference point for the community rather than an annex to another agenda. This is "Had We not strengthened you" in its contemporary form.
 
 ### Scenario Two: The Pressure of Expulsion — Attempting to Uproot the Community from Outside
 
@@ -232,7 +232,9 @@ Analysis of the verse:
 
 **The Civilizational Effect**: This is a Qur'anic explanation of a phenomenon observed by Western economists. Behavioral economists call something similar "Loss Aversion": the human being hates loss twice as much as he loves gain. The Qur'an preceded them by fourteen centuries.
 
-**Application to the Community**: The Muslim in the West faces a double challenge: 1) Learning how to spend from his treasuries on his endowment, his mosque, his school, without "fear of spending." 2) Understanding that the accumulation of wealth in the dominant society — where 1% of people own 45% of the wealth — is a planetary manifestation of what the Qur'an warned against. And the community that falls into the same trap adds its sin to the general sin.
+**Application to the Community**: The Muslim in the West faces a double challenge: 1) Learning how to spend from his treasuries on his endowment, his mosque, his school, without "fear of spending." 2) Understanding that the accumulation of wealth in the dominant society — where 1% of people own 45% of the wealth[^2] — is a planetary manifestation of what the Qur'an warned against. And the community that falls into the same trap adds its sin to the general sin.
+
+> **A Scene That Reveals the Verse**: At an Islamic academy in the state of Texas, the board planned to build a new educational wing at a cost of 2.5 million dollars. The first donation came from a Muslim physician — five thousand dollars — with the words: "I am trying not to let the hands of my children's school come back empty." In the same week, another physician — from the same community, with roughly the same income — donated fifty thousand dollars to a private golf club. The difference is not in ability, but in the "fear of spending" that separates the two doors: the door of lasting benefit (an endowment, *waqf*, that remains for generations) is the one money fears to go through, while the door of fleeting pleasure opens without reckoning. The verse uncovered this economic unconscious 1,400 years ago.
 
 Ask yourself first, as the Qur'an reminds you: "Am I learning my own stinginess before criticizing the stinginess of others?" In the answer is a disciplinary pause.
 
@@ -275,4 +277,49 @@ The series is a method that does not end. After al-Isrāʾ, we shall move to ano
 
 Until then, let something of this sūra settle in your heart: you are the honored child of Adam. You have a constitution that safeguards you. Before you are pressures whose composition you understand. In your hand is Noah's ark, in your heart is Muḥammad's Burāq, in your staff is Moses' logic. With these, your provisions are sufficient.
 
+---
+
+## A Practical Step After Reading This Episode
+
+Sit with yourself — or with the people of your household — and ask three questions:
+
+1. **The question of dignity**: How do I preserve my daily dignity as one of the children of Adam in my society? Do I yield to every concession asked of me, or do I uphold the Qur'anic constitutional articles in my dealings with institutions and individuals?
+
+2. **The question of the two pressures**: Which pressure am I suffering from now — the pressure of compromise (*mudāhana*: that I adjust my way so that society will accept me) or the pressure of expulsion (that I be squeezed out of my space)? And how do I respond: with the firmness that faith gives, or with surrender?
+
+3. **The question of spending**: Am I "stingy" with my treasuries toward Islamic endowments (*waqf*), while I spend generously on fleeting pleasure? What is the amount which, if I spent it this month on an endowment that lasts, would make me feel I had begun to overcome the "fear of spending"?
+
+Write down your answers. Return to them after a year. For honest self-reckoning alone is the path of the founding community.
+
+---
+
+## This Episode's Place in the Series
+
+| Episode | Title | Status |
+|---------|----------|---------|
+| First | The Qur'an and Civilizational Grounding — The Pillars of Civilization in Sūrat al-Kahf | Published |
+| Second | Sūrat Yūsuf and the Curve of Civilizational Ascent | Published |
+| Third | The Hoopoe's Wing and the Flood of al-ʿArim — The Law of Rise and Fall | Published |
+| Fourth | The Sunan of Civilization in the Qur'an — A Comprehensive Pause | Published |
+| **Fifth (this one)** | **The Isrāʾ Before the Miʿrāj — The Constitutional Sūra and the Civic State Model** | **Published** |
+| Sixth | Sūrat al-Ḥajj or al-Nūr (forthcoming) | Forthcoming |
+
+---
+
+## Pointers and References
+
+- Ibn Kathīr, *Tafsīr al-Qurʾān al-ʿAẓīm*, on the tafsir of Sūrat al-Isrāʾ.
+- Ibn ʿĀshūr, *al-Taḥrīr wa-l-Tanwīr*, volume fifteen — with extensive discussions of "the mothers of the virtues" (verses 22–39).
+- Al-Rāzī, *Mafātīḥ al-Ghayb*, tafsir of Sūrat al-Isrāʾ — he calls the verses mentioned "the foundations of the laws."
+- Rashīd Riḍā, *Tafsīr al-Manār*, on the tafsir of "the Qur'anic Ten Commandments."
+- Sayyid Quṭb, *Fī Ẓilāl al-Qurʾān*, tafsir of Sūrat al-Isrāʾ.
+- Mālik Bennabi, *Shurūṭ al-Nahḍa* (The Conditions of Renaissance), the chapters on the relationship between religion and the constitution.
+- Ibn Khaldūn, *al-Muqaddima*, the chapters on cooperation for livelihood and on the state.
+- Agreed upon: "I have been sent to all people" — *Ṣaḥīḥ al-Bukhārī* (438), *Ṣaḥīḥ Muslim* (521).
+
+---
+
 *And praise is due to God, by whose praise good deeds are completed.*
+
+[^1]: Editor's note: This text has not been found verbatim in Ibn ʿĀshūr's commentary on al-Isrāʾ 17:70 in *al-Taḥrīr wa-l-Tanwīr*, and it may be a summary of his meaning; its exact location (volume and page) is required before it is presented as a direct quotation.
+[^2]: Editor's note: Neither the source nor the year of this figure is given. It is close to the Credit Suisse Global Wealth Reports' estimate of the share of global personal wealth held by the richest 1% of the world's population (about 46% in the 2013 report); it is thus a global estimate that varies from year to year, not a statistic for a particular society.

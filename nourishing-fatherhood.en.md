@@ -36,7 +36,7 @@ Consider this divinely guided scene: he rises for his daughter, takes her hand, 
 
 In another narration, he ﷺ said: "Fātimah is a part of me; what hurts her hurts me, and what disturbs her disturbs me."[^2] This is an open declaration that she is a piece of his heart — that her feelings are an extension of his own, and that her pain is his pain. What tenderness is gentler than for a father to say to his daughter: "You are part of me, and I am part of you"?
 
-His ﷺ teaching was not limited to actions alone. He would speak beautiful words to her, pray for her in front of others, and praise her for her intelligence, faith, and patience. He gave her the affectionate title *Umm Abīhā* — "the Mother of Her Father" — a name that combines tenderness with acknowledgment of her emotional role in his life after the loss of her mother Khadījah, may Allah be pleased with her, wife of the Prophet ﷺ.
+His ﷺ teaching was not limited to actions alone. He would speak beautiful words to her, pray for her in front of others, and praise her for her intelligence, faith, and patience. She was known by the affectionate *kunya* *Umm Abīhā*, "the Mother of Her Father," though it is not established by a sound chain that he ﷺ was the one who gave it to her[^8], a name that combines tenderness with acknowledgment of her emotional role in his life after the loss of her mother Khadījah, may Allah be pleased with her, wife of the Prophet ﷺ.
 
 ### III. In the Words of Muslim and Contemporary Psychologists
 
@@ -62,7 +62,7 @@ If it is established that this "flirtation" is sought after both by religion and
 
 - **Kissing and embracing:** a kiss on the forehead, the hand, or the head; a fatherly embrace at decisive moments. Such tender contact releases in her brain the hormone of safety that guards her from the hunger that would drive her to a stranger's arms.
 
-- **A word that belongs only to her:** an endearing title shared only between the two of you, or a call that no one else uses — just as the Prophet ﷺ called Fātimah *Umm Abīhā*, "the Mother of Her Father."[^8]
+- **A word that belongs only to her:** an endearing title shared only between the two of you, or a call that no one else uses — as with Fātimah's well-known *kunya* *Umm Abīhā*, "the Mother of Her Father," though it is not established that the Prophet ﷺ chose it for her.[^8]
 
 - **The private sitting:** half an hour each week in which he devotes himself to her alone, asking about her studies, her friends, and her dreams, and giving her words of pride.
 
@@ -96,7 +96,7 @@ If a father observes these seven guidelines, he has opened to his daughter's hea
 
 **Second Reminder:** Many fathers imagine that harshness is "manliness," and that the open expression of love is a weakness suited only to women. This is an inverted understanding. The Prophet ﷺ — the master of all men — was the gentlest of people with his family, and this in no way diminished his standing; rather, it elevated it.
 
-**Third Reminder:** This paternal affection is a religious responsibility, not a favour the father bestows upon his daughter. The Prophet ﷺ said: "No father has given his child a gift better than good manners,"[^7] and among the best of manners is the fortification of the heart with love before disciplining it with words.
+**Third Reminder:** This paternal affection is a religious responsibility, not a favour the father bestows upon his daughter. It is reported from the Prophet ﷺ, with a weak chain: "No father has given his child a gift better than good manners,"[^7] and among the best of manners is the fortification of the heart with love before disciplining it with words.
 
 **Fourth Reminder:** If the relationship has been cold for many years, the father must not despair of starting afresh. Begin with one word, then two, then embrace her one day and say: "I love you, my daughter." It will not cost you much, but it will open in her heart a door she once believed to be sealed forever.
 

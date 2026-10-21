@@ -60,7 +60,7 @@ Healthcare in America is among the most complex equations: a single hospital nig
 
 There are important distinctions every Muslim in America should understand:
 
-**Medicare** (for those sixty-five and older): Part A covers hospitals; Part B covers clinics and physicians; Part C is the expanded program (Medicare Advantage), administered by private companies under government contract. Scholars who have examined this type have generally concluded that it more closely resembles a system of taxation and civic entitlement than a commercial insurance contract.
+**Medicare** (for those sixty-five and older, and certain younger people with disabilities or permanent kidney failure): Part A covers hospitals; Part B covers clinics and physicians; Part C is the expanded program (Medicare Advantage), administered by private companies under government contract. Scholars who have examined this type have generally concluded that it more closely resembles a system of taxation and civic entitlement than a commercial insurance contract.
 
 **Medicaid** for lower-income families: A fully government program that functions more like a public civil service than insurance in the jurisprudential sense.
 

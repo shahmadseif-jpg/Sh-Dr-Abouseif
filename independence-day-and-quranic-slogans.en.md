@@ -19,7 +19,7 @@ This instinct is what moved the people of the colonies, which Britain considered
 
 This independence is celebrated every year, and the celebration this year was more lavish than others, but we are speaking about the concept. Does it have a meaning? Does it have a significance? Does it have a price?
 
-Its meaning is that you be a decision-maker and not a slave, and that you do what you wish under rules that govern everyone without exception, so no rule stands above a citizen and no citizen stands above an official. Its significance is that you feel ownership of what is yours, plan for the future as you wish in your country, determine the fate of your children yourself, and feel sovereignty and not servitude. As for its price, it is what keeps your children on the face of the earth with their heads held high, what ransoms your offspring from the captivity of humiliation and detention, and what protects the land and honor.
+Its meaning is that you be a decision-maker and not a slave, and that you do what you wish under rules that govern everyone without exception, so no officer stands above a citizen and no citizen stands above an official. Its significance is that you feel ownership of what is yours, plan for the future as you wish in your country, determine the fate of your children yourself, and feel sovereignty and not servitude. As for its price, it is what keeps your children on the face of the earth with their heads held high, what ransoms your offspring from the captivity of humiliation and detention, and what protects the land and honor.
 
 So do these concepts have a basis in Islam? Did the Qur'an not point to something of them?
 

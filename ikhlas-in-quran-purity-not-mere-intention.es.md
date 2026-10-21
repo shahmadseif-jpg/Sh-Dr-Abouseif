@@ -20,7 +20,7 @@ La leche brota de entre el *farth* (el residuo del alimento digerido) y la sangr
 
 La raíz kh-l-ṣ aparece en el Corán treinta y una veces, en siete formas. Dos usos quedan lejos del eje de este artículo. El primero es el verbo *khalaṣū*, «se retiraron y se apartaron», que aparece una vez (12:80), en la historia de los hermanos de José cuando se retiraron a deliberar en privado. El segundo es el verbo *astakhliṣhu*, «lo escogeré para mi servicio personal», que aparece una vez (12:54), en boca del rey de Egipto a propósito de José. Ambos comparten con el origen de la raíz el sentido de «apartar y extraer», pero distan del contexto de la sinceridad en la adoración.
 
-El campo que nos ocupa comprende tres formas. Primero, el adjetivo *khāliṣ/khāliṣa*, que aparece siete veces con el sentido de pureza y exclusividad, como la leche pura de 16:66 y la religión pura de 39:3. Segundo, el participio activo de la forma IV, *mukhliṣ/mukhliṣīn*, que aparece once veces y es el testimonio verbal directo de quien hace sincera su obra para Dios por su propia voluntad. Tercero, el participio pasivo *mukhlaṣ/mukhlaṣīn*, que aparece nueve veces y describe a aquellos a quienes Dios ha escogido y purificado, no a quienes se hicieron sinceros a sí mismos. El primero es un acto que el siervo realiza; el segundo es un acto que Dios realiza en Su siervo, aunque ambos compartan raíz y vocablo.
+El campo que nos ocupa comprende tres formas. Primero, el adjetivo *khāliṣ/khāliṣa*, que aparece siete veces con el sentido de pureza y exclusividad, como la leche pura de 16:66 y la religión pura de 39:3. Segundo, el participio activo de la forma IV, *mukhliṣ/mukhliṣīn*, que aparece once veces y es el testimonio verbal directo de quien hace sincera su obra para Dios por su propia voluntad. Tercero, el participio pasivo *mukhlaṣ/mukhlaṣīn*, que aparece nueve veces y describe a aquellos a quienes Dios ha escogido y purificado, no a quienes se hicieron sinceros a sí mismos. El primero es un acto que el siervo realiza; el segundo es un acto que Dios realiza en Su siervo, aunque ambos compartan raíz y vocablo. Aparece además dos veces el verbo de la forma IV *akhlaṣa*: «وَأَخْلَصُوا دِينَهُمْ لِلَّهِ» («y hacen sincera su religión para Dios», 4:146) y «إِنَّا أَخْلَصْنَاهُم بِخَالِصَةٍ» («Los purificamos con una cualidad exclusiva», 38:46), con lo que se completan las treinta y una apariciones de la raíz.
 
 ### La raíz lingüística: de la pureza de la leche a la pureza de la intención
 
@@ -62,7 +62,7 @@ Frente a esta sinceridad que el siervo ejerce por su propia voluntad, el Corán 
 
 *«Salvo los siervos escogidos de Dios.»*
 
-Esta expresión se repite literalmente cinco veces solo en la sura de al-Ṣāffāt (37:40, 74, 128, 160, 169) y figura también en otros pasajes (12:24, 15:40, 38:83). En la historia de José en particular, cuando se inclinó hacia la mujer que quiso seducirlo, el Corán explica su salvación de la indecencia con estas palabras:
+Esta expresión se repite literalmente cuatro veces solo en la sura de al-Ṣāffāt (37:40, 74, 128, 160), y la misma descripción aparece allí una quinta vez en las palabras atribuidas a los idólatras: «لَكُنَّا عِبَادَ اللَّهِ الْمُخْلَصِينَ» («habríamos sido siervos escogidos de Dios», 37:169); figura también en otros pasajes (12:24, 15:40, 38:83). En la historia de José en particular, cuando se inclinó hacia la mujer que quiso seducirlo, el Corán explica su salvación de la indecencia con estas palabras:
 
 ﴿كَذَٰلِكَ لِنَصْرِفَ عَنْهُ السُّوءَ وَالْفَحْشَاءَ إِنَّهُ مِنْ عِبَادِنَا الْمُخْلَصِينَ﴾ (12:24)
 

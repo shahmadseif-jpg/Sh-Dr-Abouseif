@@ -76,7 +76,7 @@ One verse in Sūrat Yūsuf gathered affirmation, exception and justification tog
 
 ---
 
-[^1]: Al-Ṭabarī mentioned the disagreement over the speaker of the verse and inclined to the view that it is the speech of the wife of the Aziz; Ibn Taymiyyah, Ibn Kathīr and a group of scholars held this view, while others held that it is the speech of Joseph, peace be upon him. See the commentaries of al-Ṭabarī and Ibn Kathīr on verses (12:52-53).
+[^1]: Ibn Taymiyyah, Ibn Kathīr and a group of scholars held that it is the speech of the wife of the Aziz, while others held that it is the speech of Joseph, peace be upon him, among them al-Ṭabarī, who opens his commentary on the verse with «يقول يوسف صلوات الله عليه» ("Joseph, God's blessings be upon him, says") and cites reports to that effect from Ibn ʿAbbās, Saʿīd ibn Jubayr, al-Ḥasan, Qatādah and al-Suddī. (Editor's correction: this note formerly stated that al-Ṭabarī inclined to the view that the speaker is the wife of the Aziz.) See the commentaries of al-Ṭabarī and Ibn Kathīr on verses (12:52-53).
 [^2]: Narrated by al-Ḥākim, al-Bazzār and others from the ḥadīth of Anas, may God be pleased with him, and some scholars graded it ḥasan.
 [^3]: Narrated by al-Tirmidhī, Aḥmad and Ibn Ḥibbān from the ḥadīth of Faḍālah ibn ʿUbayd, may God be pleased with him; al-Tirmidhī said: a ḥasan ṣaḥīḥ ḥadīth.
 [^4]: The Sermon of Need was narrated by Abū Dāwūd, al-Tirmidhī, Ibn Mājah, al-Nasāʾī and Aḥmad from the ḥadīth of Ibn Masʿūd, may God be pleased with him, and it is well known in its various wordings.

@@ -46,15 +46,15 @@ El mismo emparejamiento figura en 13:20-25. El *ʿahd* es aquí el compromiso mi
 
 Esta diferencia explica también por qué un verbo en particular se repite con *mīthāq* más que ningún otro: *akhadha*, «tomar». El Corán dice «tomamos vuestro *mīthāq*», no «os dimos un *mīthāq*» ni «os prometimos», porque Dios es quien toma, y el siervo es aquel a quien se toma el pacto y sobre quien se asegura. Este verbo se repite con los hijos de Israel (2:63, 83, 84, 93; 5:12), con los profetas (3:81; 33:7) y con los cristianos (5:14). En todos los casos la iniciativa es solo de Dios, y el siervo es la parte cuyo compromiso se asegura, no quien lo otorga.
 
-### Un patrón llamativo: el pacto solemne en dos lugares distantes
+### Un patrón llamativo: el pacto solemne en tres lugares distantes
 
-Entre lo más extraño que revela el rastreo de la palabra está que la expresión *mīthāqan ghalīẓan*, «un pacto solemne», es decir, un pacto de extrema firmeza y peso, aparece en el Corán en solo dos lugares, aparentemente tan alejados entre sí como es posible. El primero es el pacto que Dios tomó de los profetas:
+Entre lo más extraño que revela el rastreo de la palabra está que la expresión *mīthāqan ghalīẓan*, «un pacto solemne», es decir, un pacto de extrema firmeza y peso, aparece en el Corán en solo tres lugares, algunos aparentemente tan alejados entre sí como es posible. El primero es el pacto que Dios tomó de los profetas:
 
 ﴿وَأَخَذْنَا مِنْهُمْ مِيثَاقًا غَلِيظًا﴾ (33:7)
 
 *«Y tomamos de ellos un pacto solemne.»*
 
-El segundo es el vínculo matrimonial entre los cónyuges:
+El segundo es el pacto tomado de los Hijos de Israel cuando se alzó el Monte sobre ellos: ﴿وَأَخَذْنَا مِنْهُم مِّيثَاقًا غَلِيظًا﴾ (4:154). El tercero es el vínculo matrimonial entre los cónyuges:
 
 ﴿وَأَخَذْنَ مِنْكُمْ مِيثَاقًا غَلِيظًا﴾ (4:21)
 

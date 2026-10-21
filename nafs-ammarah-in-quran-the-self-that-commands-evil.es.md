@@ -76,7 +76,7 @@ Un solo versículo de la sura Yūsuf reunió la afirmación, la excepción y la 
 
 ---
 
-[^1]: Al-Ṭabarī mencionó la discrepancia sobre quién pronuncia el versículo y se inclinó por que son palabras de la esposa del Aziz; así lo sostuvieron Ibn Taymiyyah, Ibn Kaṯīr y un grupo de sabios, mientras que otros sostuvieron que son palabras de José, la paz sea con él. Véanse los comentarios coránicos de al-Ṭabarī e Ibn Kaṯīr a los versículos (12:52-53).
+[^1]: Ibn Taymiyyah, Ibn Kaṯīr y un grupo de sabios sostuvieron que son palabras de la esposa del Aziz, mientras que otros sostuvieron que son palabras de José, la paz sea con él, entre ellos al-Ṭabarī, que abre su comentario del versículo con «يقول يوسف صلوات الله عليه» («dice José, las bendiciones de Dios sean con él») y cita en ese sentido relatos de Ibn ʿAbbās, Saʿīd ibn Ŷubayr, al-Ḥasan, Qatāda y al-Suddī. (Corrección del editor: esta nota afirmaba antes que al-Ṭabarī se inclinó por que el hablante es la esposa del Aziz.) Véanse los comentarios coránicos de al-Ṭabarī e Ibn Kaṯīr a los versículos (12:52-53).
 [^2]: Lo transmitieron al-Ḥākim, al-Bazzār y otros, de un ḥadīth de Anas, que Dios esté complacido con él, y algunos sabios lo consideraron ḥasan.
 [^3]: Lo transmitieron al-Tirmiḏī, Aḥmad e Ibn Ḥibbān, de un ḥadīth de Faḍālah ibn ʿUbayd, que Dios esté complacido con él; al-Tirmiḏī dijo: ḥadīth ḥasan ṣaḥīḥ.
 [^4]: El sermón de la necesidad lo transmitieron Abū Dāwūd, al-Tirmiḏī, Ibn Mājah, al-Nasāʾī y Aḥmad, de un ḥadīth de Ibn Masʿūd, que Dios esté complacido con él, y es conocido en sus diversas formulaciones.
