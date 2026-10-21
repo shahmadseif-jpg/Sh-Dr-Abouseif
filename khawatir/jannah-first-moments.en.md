@@ -17,7 +17,7 @@ Among the things for which I praise Allah, the Most High, is that He kept me ali
 
 ### A Message About Paradise
 
-Yesterday I received a message about Paradise, and in truth I found enjoyment in it as I read it, as though I were soaring in the sky and living the moments he recounts. He says: The first moments in Paradise will be dazzling. And before we continue, let each of us close his eyes and imagine: when he enters Paradise, God willing, what will be the first thing he sees?
+Yesterday I received a message about Paradise, from what Shaykh an-Nābulusī, may Allah preserve him, had written, and in truth I found enjoyment in it as I read it, as though I were soaring in the sky and living the moments he recounts. He says: The first moments in Paradise will be dazzling. And before we continue, let each of us close his eyes and imagine: when he enters Paradise, God willing, what will be the first thing he sees?
 
 So what do you live for? This is the question that, if it were put to each one of us and he found his answer to it, he would be at rest and give rest. If you know why you live, you are at ease, and you receive all the hardships of life with an open heart and a wide mind, and you will never find a problem before you.
 

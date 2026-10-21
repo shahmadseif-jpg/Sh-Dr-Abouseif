@@ -41,4 +41,4 @@ I do not want to take long. This is the issue of Zakat al-Fitr. If you have any 
 
 ---
 [^1]: Editor's documentation: The speaker did not name the Companion. The hadith is narrated by al-Bukhārī (1503) from ʿAbdullāh ibn ʿUmar, may Allah be pleased with them both, and begins: «فَرَضَ رَسُولُ اللَّهِ ﷺ زَكَاةَ الْفِطْرِ صَاعًا مِنْ تَمْرٍ، أَوْ صَاعًا مِنْ شَعِيرٍ» ("The Messenger of Allah ﷺ made Zakat al-Fitr obligatory: a ṣāʿ of dates or a ṣāʿ of barley"); Muslim also recorded it (984).
-[^2]: Editor's documentation: The amount stated in the hadith is a ṣāʿ of the types mentioned for each person (see note 1); varying the amount according to income is the speaker's own juristic view.
+[^2]: Editor's documentation: The obligatory amount stated in the hadith is a ṣāʿ of the types mentioned for each person (see note 1), which in principle is the same for the wealthy and for those of limited income; anything beyond it in proportion to one's means is voluntary charity. Making the amount vary with income is the speaker's own juristic view, and questions of giving the value in money and of timing are for qualified jurists.

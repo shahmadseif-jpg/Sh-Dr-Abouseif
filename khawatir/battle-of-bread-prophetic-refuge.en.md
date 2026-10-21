@@ -37,7 +37,7 @@ Going astray is an act of the mind. So there is an error of execution, which cam
 
 When does wrongdoing come? It is a question answered by your assessment of the circumstances. I did a simple job, I finished it, I did it correctly, and its value in people's assessment is ten, but I sensed that I had put into it effort worth twenty. If I ask for ten, that is normal, but some people think they deserve more than that and take the excess, so they have wronged the one in front of them, especially if the one in front of me knows nothing about my craft. That is in "that I wrong."
 
-Take it the other way, "or am wronged": your job is worth ten and you have done it in the most complete way, and you said to the customer: "Ten." He says: "No, you are very expensive, my brother; we had no agreement, we did not write a contract, I won't give you less than five," and then "Do not wrong me; do me a kindness." Like that.
+Take it the other way, "or am wronged": your job is worth ten and you have done it in the most complete way, and you said to the customer: "Ten." He says: "No, you are very expensive, my brother; we had no agreement, we did not write a contract, I won't give you more than five," and then "Do not wrong me; do me a kindness." Like that.
 
 So the point is that the Prophet ﷺ wanted to spare each one of us the error of his hand, then the error of his mind, then the error of his assessment in judging matters and in people's judging of his work. Did you see the equation?
 

@@ -40,5 +40,5 @@ So I ask Allah, blessed and exalted, to prepare for us tranquil homes, to grant 
 O Allah, we ask You for every oppressed person on earth wide mercy from You, abundant generosity and complete gentleness. O Allah, we ask You for Your pleasure and Paradise, and we seek refuge in You from Your wrath and the Fire.
 
 ---
-[^1]: Editor's documentation: Sūrat al-Ṭūr, verse 26. His words "the God-fearing are in gardens and bliss" refer to verse 17 of the same surah.
+[^1]: Editor's documentation: Sūrat al-Ṭūr, verse 26. His words "the God-fearing are in gardens and bliss" refer to verse 17 of the same surah. The exegetes explain ﴿مُشْفِقِينَ﴾ as "fearful"; Ibn Kathīr says: «أي: قد كنا في الدار الدنيا ونحن بين أهلنا خائفين من ربنا مشفقين من عذابه وعقابه» ("that is: we were, in the worldly abode and among our families, fearful of our Lord, apprehensive of His punishment"). Reading ishfāq in this khatira as compassion and tender care for one's family is the speaker's applied reflection.
 [^2]: Editor's documentation: Sūrat al-Rūm, verse 21.

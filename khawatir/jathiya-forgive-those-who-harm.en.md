@@ -29,8 +29,9 @@ But it is the matter of forgiving the one who has harmed you. So why do they not
 
 ### Our Character Today
 
-But let this be among our characters that we learn today in the Fajr prayer: ﴿يَغْفِرُوا لِلَّذِينَ لَا يَرْجُونَ أَيَّامَ اللَّهِ﴾. Whoever you sense is harming you, know that he does not hope for any good from Allah the Exalted, and this is, to begin with, very far from being something to occupy yourself with, because he is not on the path of the faith that you are on. So seek pardon from Allah, ask Allah, blessed and exalted, for forgiveness, and hope from Allah, mighty and majestic, for a bounty that will suffice you, satisfy you, mend your heart, and draw His veil over you in this life and the next, and what is with Allah, mighty and majestic, is more lasting and more precious.
+But let this be among our characters that we learn today in the Fajr prayer: ﴿يَغْفِرُوا لِلَّذِينَ لَا يَرْجُونَ أَيَّامَ اللَّهِ﴾. Whoever you sense is harming you, know that he does not hope for any good from Allah the Exalted, and this is, to begin with, very far from being something to occupy yourself with, because he is not on the path of the faith that you are on. So seek pardon from Allah, ask Allah, blessed and exalted, for forgiveness, and hope from Allah, mighty and majestic, for a bounty that will suffice you, satisfy you, mend your heart, and draw His veil over you in this life and the next, and what is with Allah, mighty and majestic, is more lasting and more precious.[^3]
 
 ---
 [^1]: Editor's documentation: Sūrat al-Jāthiyah, verse 14.
 [^2]: Editor's documentation: The sense is from the words of the Exalted: ﴿إِنَّمَا يَفْتَرِي الْكَذِبَ الَّذِينَ لَا يُؤْمِنُونَ بِآيَاتِ اللَّهِ﴾ ("Only those who do not believe in the signs of Allah fabricate falsehood") [al-Naḥl: 105].
+[^3]: Editor's note: This is not a judgement on the faith of everyone who causes harm; a believer may cause harm in a moment of weakness, as the speaker himself said earlier: "he is following Satan at one of those moments when he is weak before himself."

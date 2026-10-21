@@ -43,7 +43,7 @@ The stronger a person's beliefs about his Lord become, the higher his standing r
 
 ### A painful scene
 
-Imagine — and I deeply apologize for the comparison — a person who claims to be a man, and someone entered his home and assaulted the people of his household while he stood watching in fear. Then, after that assailant left, he wants to raise his head once more before the people of his household. Is it conceivable that he could? Could he raise his head again and say: "I am the man of the house"? After he was afraid, he can never raise his head again. So if we fear in this world and deal with this negative logic with which we always deal, we will never be able to raise our heads before Allah, glorified and exalted be He, on the Day of Resurrection, nor even sense the mere feeling that we are worthy of this faith.
+Imagine — and I deeply apologize for the comparison — a person who claims to be a man, and someone entered his home and assaulted the people of his household while he stood watching in fear. Then, after that assailant left, he wants to raise his head once more before the people of his household. Is it conceivable that he could? Could he raise his head again and say: "I am the man of the house"? After he was afraid, he can never raise his head again. So if we fear in this world and deal with this negative logic with which we always deal, we will never be able to raise our heads before Allah, glorified and exalted be He, on the Day of Resurrection, nor even sense the mere feeling that we are worthy of this faith.[^4]
 
 ### The other side of the equation
 
@@ -55,3 +55,4 @@ I will not go on longer than that. I ask Allah, glorified and exalted be He, to 
 [^1]: Editor's documentation: Āl ʿImrān: 175.
 [^2]: Editor's documentation: al-Shuʿarāʾ: 78 and 81. After them the speaker mentioned «والذي يطعمني ويسقين» and «إذا مرضت فهو» in a garbled passage, so they were not included in the body.
 [^3]: Editor's documentation: A story along these lines is reported by Sulaymān al-ʿAwda in his book *Kayfa Dakhala al-Tatar Bilād al-Muslimīn* (How the Tatars Entered the Lands of the Muslims), citing Ibn al-Athīr in *al-Kāmil* (12/501); in it the Tatar said to the man: "Put your head on the ground and do not move," until he came with a sword and killed him with it.
+[^4]: Editor's note: The illustration warns against cowardice in the face of what is right when one is able; it does not blame someone who could not repel an assailant or who chose his family's safety under threat: ﴿لَا يُكَلِّفُ اللَّهُ نَفْسًا إِلَّا وُسْعَهَا﴾ ("Allah does not burden a soul beyond its capacity") [al-Baqarah: 286], and a victim is not to blame for what was done to them.
