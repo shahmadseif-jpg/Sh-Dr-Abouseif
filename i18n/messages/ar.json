@@ -116,7 +116,11 @@
     "subtitle": "تَفريغُ الخَواطِر الدَّعَويَّة عَقِبَ الصَّلَوات وفي اللِّقاءات العامَّة",
     "filter_all": "الكل",
     "no_khawatir": "لم تُنشَر خواطر بعد. ترقّب قريباً.",
-    "no_khawatir_in_filter": "لا توجد خواطر في هذه الفئة."
+    "no_khawatir_in_filter": "لا توجد خواطر في هذه الفئة.",
+    "showing": "تُعرض {shown} من أصل {total}",
+    "show_more": "عرض المزيد",
+    "show_all": "عرض الكل",
+    "index_heading": "فهرس جميع الخواطر"
   },
   "khawatir_page": {
     "back_to_khawatir": "العودة إلى الخواطر",

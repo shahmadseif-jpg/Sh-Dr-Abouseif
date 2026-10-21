@@ -4,7 +4,7 @@
  * Answer bodies live in markdown files under `qa/<slug>.{ar,en,es}.md`.
  */
 
-import { type Loc, type LocalizedText, localize } from './articles';
+import { type Loc, type LocalizedText, localize } from './localize';
 import { findPublished, published } from './publish';
 
 export type { Loc, LocalizedText };

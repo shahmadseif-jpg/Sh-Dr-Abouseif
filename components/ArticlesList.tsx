@@ -1,5 +1,5 @@
-'use client';
-
+// Server component: renders static article metadata, so the metadata
+// (lib/articles.ts + lib/lectures-meta.ts) is not shipped to the browser.
 import { useLocale, useTranslations } from 'next-intl';
 import Link from 'next/link';
 import { articlesMeta, categoryLabels, localize, type ArticleCategory, type Loc, type LocalizedText } from '@/lib/articles';

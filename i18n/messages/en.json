@@ -116,7 +116,11 @@
     "subtitle": "Transcripts of brief reflections delivered after the prayers and at general gatherings",
     "filter_all": "All",
     "no_khawatir": "No reflections published yet. Stay tuned.",
-    "no_khawatir_in_filter": "No reflections in this category."
+    "no_khawatir_in_filter": "No reflections in this category.",
+    "showing": "Showing {shown} of {total}",
+    "show_more": "Show more",
+    "show_all": "Show all",
+    "index_heading": "Index of all reflections"
   },
   "khawatir_page": {
     "back_to_khawatir": "Back to reflections",
