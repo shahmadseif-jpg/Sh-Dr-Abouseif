@@ -102,6 +102,6 @@ El imamato es una fidelidad de transmisión antes de ser un honor de precedencia
 [^12]: Lo transmitieron al-Bujārī (2339, 2347) y Muslim (1547), de Rāfiʿ ibn Jadīǧ —Dios esté complacido con él—; y la narración del arrendamiento a cambio de lo que hay en los canales y en las márgenes de las acequias está en Muslim (1547), por la vía de Ḥanẓala ibn Qays.
 [^13]: Lo transmitieron Abū Dāwūd (3390) e Ibn Māǧa (2461), de Zayd ibn Thābit —Dios esté complacido con él—; y más de uno de los sabios lo calificó de ḥasan (ḥassanahu).
 [^14]: Lo transmitió Muslim (2664), de Abū Hurayra —Dios esté complacido con él—.
-[^15]: Lo transmitieron al-Bujārī (7229) y Muslim (1218), de Ǧābir ibn ʿAbd Allāh —Dios esté complacido con ambos—; acordado (muttafaq ʿalayh).
+[^15]: Lo transmitió al-Bujārī (7229) de ʿĀʾiša —Dios esté complacido con ella—, y Muslim (1218) de Ǧābir ibn ʿAbd Allāh —Dios esté complacido con ambos— en el relato de la peregrinación del Profeta ﷺ, con redacciones muy próximas. (Corrección del editor: la nota atribuía antes ambos relatos a Ǧābir y los calificaba de acordados.)
 [^16]: Lo transmitieron al-Bujārī (110) y Muslim (3), de Abū Hurayra —Dios esté complacido con él—; acordado (muttafaq ʿalayh), y es un hadiz mutawātir.
 [^17]: Lo transmitieron al-Tirmidhī (2657), quien dijo: «ḥasan ṣaḥīḥ», e Ibn Māǧa (230), de Ibn Masʿūd —Dios esté complacido con él—.

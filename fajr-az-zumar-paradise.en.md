@@ -23,7 +23,7 @@ And Allah, glory be to Him, describes the scene to us as though He wants to plac
 
 ﴿وَقَالُوا الْحَمْدُ لِلَّهِ الَّذِي صَدَقَنَا وَعْدَهُ وَأَوْرَثَنَا الْأَرْضَ﴾ ("And they will say: Praise be to Allah, who has fulfilled His promise to us and made us inherit the land")[^2] and he asks: Were the believers doubting the truthfulness of Allah, blessed and exalted? Far be it from them, and far be it from Allah, glory be to Him. Rather, they are matching what they used to hope for within themselves, while Satan strives against them to tear this feeling away from them.
 
-And in the hadith of the Prophet ﷺ, the one with the least share in Paradise will have the like of the kingdom of a king of this world, and the servant will say: My Lord, are You mocking me? Glory be to Allah. And it will be said to him that he has that, and that, and that, and that, and the Prophet ﷺ counts five.[^3] So what keeps people from more obedience?
+And in the hadith of the Prophet ﷺ, the one with the least share in Paradise will have the like of the kingdom of a king of this world, and the servant will say: My Lord, are You mocking me? Glory be to Allah. And it will be said to him that he has that, and that, and that, and that, and the Prophet ﷺ counts five.[^3] [Editor's note: the speaker combined two hadiths here: the hadith of the lowest-ranking person in Paradise, and the hadith of the last person to come out of the Fire, in which the words "Are You mocking me?" occur; see the note.] So what keeps people from more obedience?
 
 ### Temporary distinction
 

@@ -20,7 +20,7 @@ Una aplicación a nuestra realidad de hoy: cada uno de nosotros se ha convertido
 
 > «En verdad, Dios os ordena restituir los depósitos confiados a sus dueños.» [al-Nisāʾ: 58]
 
-La fidelidad (amāna) en el versículo es más amplia que devolver un depósito financiero; la palabra «depósitos» vino como un plural indefinido para incluir todo aquello que se le ha confiado al ser humano: su trabajo que cumple, su palabra que dice, el secreto que guarda, la responsabilidad que carga, e incluso sus miembros y facultades que le fueron confiados. Quien mantiene presente este fin amplio domina su trabajo aunque no haya observador, guarda el secreto de su compañero, y rinde lo que le corresponde del modo más completo; pues sabe que la fidelidad es un fin que construye la confianza sobre la que se sostiene toda la sociedad, y que traicionarla —por pequeña que sea— es una brecha en este edificio.
+La fidelidad (amāna) en el versículo es más amplia que devolver un depósito financiero; la palabra «depósitos» (*al-amānāt*) vino como un plural determinado por el artículo *al-* para incluir todo aquello que se le ha confiado al ser humano: su trabajo que cumple, su palabra que dice, el secreto que guarda, la responsabilidad que carga, e incluso sus miembros y facultades que le fueron confiados. Quien mantiene presente este fin amplio domina su trabajo aunque no haya observador, guarda el secreto de su compañero, y rinde lo que le corresponde del modo más completo; pues sabe que la fidelidad es un fin que construye la confianza sobre la que se sostiene toda la sociedad, y que traicionarla —por pequeña que sea— es una brecha en este edificio.
 
 ## El fin del autodominio: el perdón y la contención de la ira
 

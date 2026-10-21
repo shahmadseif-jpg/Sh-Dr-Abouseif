@@ -53,7 +53,7 @@ The fourth is the fitnah of division: a rift and strife among the Muslims themse
 
 and indeed
 
-﴿أَكْبَرُ مِنَ الْقَتْلِ﴾ (2:217)
+﴿أَكْبَرُ مِنَ الْقَتْلِ﴾ (2:217)[^6]
 *"…greater than killing."*
 
 The fifth, which closes the circle, is the fitnah of the punishment itself. When the first four come to their outcome in the Hereafter, the word returns to its first origin, the real fire. It will be said to the people of the Fire on the Day of Resurrection:
@@ -139,3 +139,4 @@ From the goldsmith's fire that tells pure gold from alloyed, to the fire of the 
 [^4]: Ibn Qayyim al-Jawziyyah, in his commentary on the words "Do the people think that they will be left…" (al-ʿAnkabūt 1–3), among what has been transmitted of his words in the books of exegesis by transmission.
 
 [^5]: Narrated by al-Tirmidhī in his *Sunan*, no. 2398, and Ibn Mājah, no. 4023, through Muṣʿab ibn Saʿd from his father Saʿd ibn Abī Waqqāṣ (may God be pleased with him); al-Tirmidhī said: a good and sound hadith.
+[^6]: Editor's note: In the context of the two verses of al-Baqarah (2:191, 217), Ibn Kathīr explains *fitnah* as polytheism, disbelief and barring the believers from God's path, saying «الشرك أشد من القتل» (“polytheism is graver than killing”); al-Ṭabarī explains it as the believer being tried away from his religion until he returns to polytheism. Placing these two verses under the “fitnah of division” among Muslims is therefore an applied extension by the author, not an exegesis of their historical context.

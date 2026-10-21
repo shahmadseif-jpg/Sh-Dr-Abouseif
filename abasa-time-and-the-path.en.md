@@ -6,7 +6,7 @@ locale: "en"
 slug: "abasa-time-and-the-path"
 readingMinutes: 9
 ---
-> Occasion: A transcription of a dinner lecture delivered at AIA on 29 September 2026
+> Occasion: A transcription of an Isha lecture delivered at AIA on 29 September 2026
 > Source: A transcription of a video lecture by Dr. Ahmed Abouseif — [Watch the original video on YouTube](https://www.youtube.com/watch?v=KFvDF5aUnE4)
 
 The gathering began with a comprehensive supplication: «O Allah, we ask You for the good of this night, the good of what is in it and the good of what comes after it, and we seek refuge in You from the evil of this night, the evil of what is in it and the evil of what comes after it. Set right for us our religion, our worldly life and our Hereafter, grant us right guidance in our affairs, bless us, O Allah, in what You have provided us, and protect us, O Allah, from the punishment of the Fire and the causes of punishment in this world and the next, by a mercy, a good pleasure and a generosity from You, O Lord of the worlds.»
@@ -47,7 +47,7 @@ He gave an example: imagine a patient who keeps visiting a physician who is trul
 
 ### Resolve and the body
 
-Then he said: By Allah, besides whom there is no god, we have never seen weakness in our bodies except that it was a sign of slackness of resolve. When resolve begins to collapse you find your body aching, but as long as your resolve is strong and intense, your body goes along with it and moves. These are signs: whoever sees sluggishness in himself should know that a review is due with faith. He says to himself: I want to go over my accounts; I have this much of prayers, this much of expenditures, this much of fasting; I have a reckoning. When the reckoning is set right, you find the body itself recovering, moving and rising up again. As for the state of sitting back and defeat, it means that there is a problem inside, and that there is a shortcoming.
+Then he said: By Allah, besides whom there is no god, we have never seen weakness in our bodies except that it was a sign of slackness of resolve. When resolve begins to collapse you find your body aching, but as long as your resolve is strong and intense, your body goes along with it and moves. These are signs: whoever sees sluggishness in himself should know that a review is due with faith. He says to himself: I want to go over my accounts; I have this much of prayers, this much of expenditures, this much of fasting; I have a reckoning. When the reckoning is set right, you find the body itself recovering, moving and rising up again. As for the state of sitting back and defeat, it means that there is a problem inside, and that there is a shortcoming. [Editor's note: this speaks of slackness in resolve and worship; bodily weakness and persistent fatigue have many medical causes, such as anaemia or thyroid disorders, so they are not evidence of weak faith in the person concerned, and putting one's worship in order does not replace consulting a physician.]
 
 ### A lifetime in two words
 

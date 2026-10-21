@@ -102,6 +102,6 @@ O God, grant us understanding of Your Book and the Sunna of Your Prophet, trustw
 [^12]: Reported by al-Bukhārī (2339, 2347) and Muslim (1547) from Rāfiʿ ibn Khadīj (may God be pleased with him); and the narration of renting in exchange for what grows along the water channels and the banks of the streams: in Muslim (1547) by way of Ḥanẓala ibn Qays.
 [^13]: Reported by Abū Dāwūd (3390) and Ibn Māja (2461) from Zayd ibn Thābit (may God be pleased with him); more than one of the people of knowledge graded it ḥasan.
 [^14]: Reported by Muslim (2664) from Abū Hurayra (may God be pleased with him).
-[^15]: Reported by al-Bukhārī (7229) and Muslim (1218) from Jābir ibn ʿAbd Allāh (may God be pleased with them both) — agreed upon.
+[^15]: Reported by al-Bukhārī (7229) from ʿĀʾishah (may God be pleased with her), and by Muslim (1218) from Jābir ibn ʿAbd Allāh (may God be pleased with them both) in the account of the Prophet's ﷺ pilgrimage, in closely similar wordings. (Editor's correction: the note formerly attributed both reports to Jābir and described them as agreed upon.)
 [^16]: Reported by al-Bukhārī (110) and Muslim (3) from Abū Hurayra (may God be pleased with him) — agreed upon, and it is a mass-transmitted (mutawātir) hadith.
 [^17]: Reported by al-Tirmidhī (2657), who said: "ḥasan ṣaḥīḥ," and Ibn Māja (230), from Ibn Masʿūd (may God be pleased with him).

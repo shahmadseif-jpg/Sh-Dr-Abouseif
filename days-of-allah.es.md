@@ -70,7 +70,7 @@ Estas etapas no son propias del coronavirus, sino que son **el patrón del alma 
 Y de lo más hondo que descubrió el confinamiento sobre nosotros mismos, dos estados opuestos en la reunión humana:
 
 **El primer estado: el aislamiento.**
-Vimos a la gente apartarse del mundo. Se detuvieron las calles del movimiento. Los periodistas filmaron las mayores ciudades del mundo vacías sobre sus tronos, como si un solo mes pudiera devolver las ciudades del siglo XXI a la escena de las aldeas abandonadas. Cada uno en su casa, recibiendo materiales que compró por internet, sin abrir la puerta al exterior sino para recoger un paquete que el conductor deja y huye.
+Vimos a la gente apartarse del mundo. Se detuvieron las calles del movimiento. Los periodistas filmaron las mayores ciudades del mundo desiertas y desoladas, como si un solo mes pudiera devolver las ciudades del siglo XXI a la escena de las aldeas abandonadas. Cada uno en su casa, recibiendo materiales que compró por internet, sin abrir la puerta al exterior sino para recoger un paquete que el conductor deja y huye.
 
 Y en esto hay un aviso a los altos edificios de los que se enorgullecen sus dueños: pueden vaciarse de sus habitantes en **menos de un segundo** por un poder del Poderoso. Para que vean los siervos su verdadero tamaño en el universo, aun cuando se engañen con lo que tienen de ciencia, técnica y medios.
 
@@ -99,7 +99,7 @@ Y esto no es en las casas solas, sino a nivel de **la labor islámica** misma. E
 
 ### La sexta lección: la seguridad que fabricó el confinamiento
 
-Y de lo más asombroso que descubrió el confinamiento es que **los policías no tenían trabajo sino el servicio**. No hubo crimen en las calles, ni robos, ni saqueos, ni sucesos de homicidio. Porque Dios encerró a la gente dentro de sus casas.
+Y de lo más asombroso que descubrió el confinamiento es que **los policías no tenían trabajo sino el servicio**. No hubo crimen en las calles, ni robos, ni saqueos, ni sucesos de homicidio.[^1] Porque Dios encerró a la gente dentro de sus casas.
 
 Una pregunta sencilla pero penetrante: ¿por qué no aprendemos a sentir esta seguridad en **nuestras almas, nuestros corazones, nuestras mentes y nuestros espíritus**, sin que Dios nos encierre en nuestras casas?
 
@@ -122,3 +122,5 @@ Y el cierre de estas lecciones es que la pandemia no vino sino para recordarnos 
 ¡Oh, Dios! Te pedimos la salud mientras nos hagas vivir, Te pedimos el buen final, Te pedimos el velo en el mundo y la otra vida, y el perdón y la salud en nuestra religión, nuestro mundo y nuestra otra vida. Dispón para nosotros, de nuestro asunto, una buena dirección, bendícenos lo que nos has provisto, y presérvanos del castigo del Fuego.
 
 > Este artículo está adaptado de un sermón del viernes que pronunció el shayj Dr. Ahmed Abouseif un año después del comienzo de la pandemia de coronavirus, que recuerda los «Días de Dios» que pasan sobre la humanidad y descubren Sus leyes magnas, y extrae de ella seis lecciones para el corazón reflexivo.
+
+[^1]: Nota del editor: Esto describe la calma aparente de las calles durante el confinamiento, no un dato estadístico general; la delincuencia no cesó en ese periodo, y las estadísticas de criminalidad del FBI de 2020 informaron de que los homicidios en los Estados Unidos aumentaron en torno a un 29,4 % respecto del año anterior. Ello no significa que el confinamiento mismo causara ese aumento.

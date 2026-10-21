@@ -28,7 +28,7 @@ En su origen lingüístico, pues, la sabiduría no es mero conocimiento o inform
 
 ### La sabiduría es dar en la verdad, no solo conocerla
 
-En *al-Mufradāt fī Gharīb al-Qurʾan*, al-Rāghib al-Aṣfahānī formuló una definición completa de la sabiduría, coherente con la raíz lingüística que acabamos de ver. Es, dice, «dar en la verdad mediante el conocimiento y la razón». Y precisa que la sabiduría, atribuida a Dios, es «conocimiento de las cosas y su existencia en la más alta perfección», y atribuida al hombre, «conocimiento de lo existente y obrar el bien».[^2]
+En *al-Mufradāt fī Gharīb al-Qurʾan*, al-Rāghib al-Aṣfahānī formuló una definición completa de la sabiduría, coherente con la raíz lingüística que acabamos de ver. Es, dice, «dar en la verdad mediante el conocimiento y la razón». Y precisa que la sabiduría, atribuida a Dios, es «conocimiento de las cosas y su creación en la más alta perfección», y atribuida al hombre, «conocimiento de lo existente y obrar el bien».[^2]
 
 El término «dar» (*iṣāba*, literalmente «acertar») es deliberado, no superfluo. Acertar supone una diana que se alcanza, un lugar correcto que se busca, y no la mera posesión teórica de la información correcta. Una persona puede conocer la verdad y, sin embargo, no dar con ella en el lugar que le conviene: la dice a destiempo o la ejecuta de manera inadecuada, y así yerra el blanco aunque haya dado con el conocimiento. Todo esto concuerda con la imagen del freno. El freno no impide al caballo moverse, sino que orienta su movimiento hacia donde debe ir. Del mismo modo, la sabiduría no veda a su poseedor el saber, sino que dirige su saber hacia donde acierta y no hacia donde se extravía.
 
@@ -50,13 +50,13 @@ Así también, según se dice, con Salomón, joven en el caso del sembrado y las
 
 ### Un patrón recurrente: la sabiduría junto al Libro
 
-Uno de los patrones más claros en la distribución del término es que en diez de sus veinte apariciones, exactamente la mitad, la «sabiduría» aparece unida al «Libro» en una fórmula casi fija:
+Uno de los patrones más claros en la distribución del término es que en nueve de sus veinte apariciones la «sabiduría» aparece unida a la palabra «Libro» en una fórmula casi fija:
 
 ﴿يُعَلِّمُهُمُ الْكِتَابَ وَالْحِكْمَةَ﴾ (2:129)
 
 *«…les enseña el Libro y la sabiduría.»*
 
-El mismo sentido se repite en 2:151, 2:231, 3:48, 3:81, 4:54, 4:113, 5:110, 33:34 y 62:2. En este patrón recurrente la sabiduría nunca se menciona sola, sino siempre junto a la revelación descendida. Es como si el Corán estableciera que la verdadera sabiduría no se separa del conocimiento del Libro, aunque no se identifique con él. El Libro es un texto que se recita; la sabiduría es una comprensión que se concede para aplicar ese texto a la realidad cambiante de la vida.
+El mismo sentido se repite en 2:151, 2:231, 3:48, 3:81, 4:54, 4:113, 5:110 y 62:2; una décima aparición une la sabiduría a «las aleyas de Dios» y no a la palabra «Libro»: ﴿وَاذْكُرْنَ مَا يُتْلَىٰ فِي بُيُوتِكُنَّ مِنْ آيَاتِ اللَّهِ وَالْحِكْمَةِ﴾ («Y recordad lo que se recita en vuestras casas de las aleyas de Dios y de la sabiduría», 33:34), de modo que la mitad de las apariciones van unidas a la revelación descendida. En este patrón recurrente la sabiduría nunca se menciona sola, sino siempre junto a la revelación descendida. Es como si el Corán estableciera que la verdadera sabiduría no se separa del conocimiento del Libro, aunque no se identifique con él. El Libro es un texto que se recita; la sabiduría es una comprensión que se concede para aplicar ese texto a la realidad cambiante de la vida.
 
 ### Otro patrón: la sabiduría como modo de llamar, no solo como contenido
 

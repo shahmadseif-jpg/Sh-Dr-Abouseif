@@ -20,7 +20,7 @@ An application to our reality today: each of us has become a "publisher" on soci
 
 > "Indeed, God commands you to render trusts to their owners." [al-Nisāʾ: 58]
 
-Trustworthiness in the verse is broader than returning a financial deposit; the word "trusts" came as an indefinite plural to include everything with which the human being is entrusted: his work that he performs, his word that he speaks, the secret he keeps, the responsibility he carries — indeed, his very limbs and faculties with which he was entrusted. Whoever keeps present this broad objective masters his work even when no observer is present, keeps his companion's secret, and renders what is due in the most complete manner; for he knows that trustworthiness is an objective that builds the trust upon which the whole of society rests, and that betraying it — however small — is a breach in this edifice.
+Trustworthiness in the verse is broader than returning a financial deposit; the word "trusts" (*al-amānāt*) came as a plural made definite by the article *al-* to include everything with which the human being is entrusted: his work that he performs, his word that he speaks, the secret he keeps, the responsibility he carries — indeed, his very limbs and faculties with which he was entrusted. Whoever keeps present this broad objective masters his work even when no observer is present, keeps his companion's secret, and renders what is due in the most complete manner; for he knows that trustworthiness is an objective that builds the trust upon which the whole of society rests, and that betraying it — however small — is a breach in this edifice.
 
 ## The Objective of Self-Restraint: Pardon and Restraining Rage
 
