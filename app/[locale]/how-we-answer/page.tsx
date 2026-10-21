@@ -1,4 +1,5 @@
 import { setRequestLocale } from 'next-intl/server';
+import { pageMetadata } from '@/lib/seo';
 import { Link } from '@/i18n/routing';
 import { getResearchItem } from '@/lib/research';
 
@@ -199,7 +200,7 @@ export async function generateMetadata({
 }) {
   const { locale } = await params;
   const t = pick(locale);
-  return { title: `${t.title} — ${t.siteName}`, description: t.intro };
+  return pageMetadata({ locale, path: '/how-we-answer', title: `${t.title} — ${t.siteName}`, description: t.intro });
 }
 
 export default async function HowWeAnswerPage({
