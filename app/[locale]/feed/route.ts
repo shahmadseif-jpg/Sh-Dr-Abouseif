@@ -1,17 +1,31 @@
 /**
- * Dormant RSS 2.0 feed — one per locale at /{locale}/feed
- * Aggregates articles + research + khawatir. Not linked anywhere yet;
- * ready to power auto-syndication (social / email) when activated.
+ * RSS 2.0 feed — one per locale at /{locale}/feed, advertised with
+ * <link rel="alternate" type="application/rss+xml"> in the locale layout.
+ * Aggregates articles + research + khawatir (Q&A is intentionally not part
+ * of the feed).
+ *
+ * Language policy: a locale's feed lists only items whose text exists in
+ * that language (lib/content-availability-server.ts); Arabic-fallback pages
+ * are not syndicated as if they were translations.
+ *
+ * Dates: metadata records publication DAYS only, so pubDate is that day at
+ * 00:00 GMT by convention (RFC 822 requires a time); no clock time is
+ * invented, and an item without a date gets no pubDate rather than the
+ * build time.
  */
 import { getAllArticles, localize } from '@/lib/articles';
 import { getAllKhawatir } from '@/lib/khawatir';
 import { getAllResearch } from '@/lib/research';
 import { SITE_URL } from '@/lib/site';
+import { SITE_LOCALES, isSiteLocale, rssDate } from '@/lib/seo';
+import { availableLocales } from '@/lib/content-availability-server';
 
 export const dynamic = 'force-static';
+// Only the four site locales exist; any other /{x}/feed is a 404.
+export const dynamicParams = false;
 
 export function generateStaticParams() {
-  return [{ locale: 'ar' }, { locale: 'en' }, { locale: 'es' }, { locale: 'ur' }];
+  return SITE_LOCALES.map((locale) => ({ locale }));
 }
 
 const FEED_TITLE: Record<string, string> = {
@@ -48,10 +62,16 @@ export async function GET(
   { params }: { params: Promise<{ locale: string }> }
 ) {
   const { locale } = await params;
+  if (!isSiteLocale(locale)) {
+    return new Response('Not Found', { status: 404, headers: { 'Content-Type': 'text/plain; charset=utf-8' } });
+  }
   const base = `${SITE_URL}/${locale}`;
   const items: FeedItem[] = [];
+  const has = (kind: Parameters<typeof availableLocales>[0], slug: string, meta?: Parameters<typeof availableLocales>[2]) =>
+    (availableLocales(kind, slug, meta) as string[]).includes(locale);
 
   for (const a of getAllArticles()) {
+    if (!has('articles', a.slug)) continue;
     items.push({
       title: localize(a.title, locale),
       desc: localize(a.excerpt, locale),
@@ -60,6 +80,7 @@ export async function GET(
     });
   }
   for (const r of getAllResearch()) {
+    if (!has('research', r.slug, r)) continue;
     items.push({
       title: localize(r.title, locale),
       desc: localize(r.abstract, locale),
@@ -68,6 +89,7 @@ export async function GET(
     });
   }
   for (const k of getAllKhawatir()) {
+    if (!has('khawatir', k.slug)) continue;
     items.push({
       title: localize(k.title, locale),
       desc: localize(k.excerpt, locale),
@@ -81,13 +103,12 @@ export async function GET(
   const lastBuild = new Date().toUTCString();
   const xmlItems = items
     .map((it) => {
-      const pub = it.date ? new Date(it.date + 'T08:00:00Z').toUTCString() : lastBuild;
+      const pub = rssDate(it.date);
       return `    <item>
       <title>${esc(it.title)}</title>
       <link>${esc(it.url)}</link>
       <guid isPermaLink="true">${esc(it.url)}</guid>
-      <pubDate>${pub}</pubDate>
-      <description>${esc(it.desc)}</description>
+${pub ? `      <pubDate>${pub}</pubDate>\n` : ''}      <description>${esc(it.desc)}</description>
     </item>`;
     })
     .join('\n');
