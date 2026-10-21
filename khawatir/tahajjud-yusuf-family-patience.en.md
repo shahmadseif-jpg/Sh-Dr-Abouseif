@@ -37,10 +37,11 @@ But look at the results. Today you are really proud of the son of Ibrahim. And t
 
 When we look at the parents, we find a different position between the two fathers, and a different position between the two mothers. One of them took care of her child, staying around him and covering him with her care and feeling. The other did not believe in the concept of family. So you find the mother here taking care of the child and the result is what it is.
 
-This is my advice to myself, to my wife, and to all of our sisters: you are the core of the family. As long as you give full attention to the family, they will stay on track, and you will never miss them, anytime, anywhere; they will stay with you.
+This is my advice to myself, to my wife, and to all of our sisters: you are the core of the family. As long as you give full attention to the family, they will stay on track, and you will never miss them, anytime, anywhere; they will stay with you.[^3]
 
 But as much as we turn our attention elsewhere, working hard and collecting money from here and there, the mother's part is more important than mine. Allah, glory be to Him, created me to be out of the door as much as I can and in the door as much as I can. But He made her to be in the door as much as she can and out of the door only as needed, because the greatest responsibility of the mother is inside. I am not saying she is not allowed to go out, but I am talking about priorities.
 
 ---
 [^1]: Editor's documentation: Among those who said so is Sayyid Quṭb in *Fī Ẓilāl al-Qurʾān*, who states that it “was revealed after Sūrat Hūd, in that critical period,” placing it “between the Year of Sorrow, with the death of Abū Ṭālib and Khadīja,” and the pledges of al-ʿAqaba.
 [^2]: Editor's documentation: In Ṣaḥīḥ al-Bukhārī (no. 3364), from the hadith of ʿAbd Allāh ibn ʿAbbās, may Allah be pleased with them both: «فجاءَ إبراهيمُ بعدما تزوَّجَ إسماعيلُ يُطالِعُ تَرِكَتَه، فلم يجدْ إسماعيلَ، فسألَ امرأتَه عنه» (“Ibrahim came, after Ismāʿīl had married, to check on those he had left behind; he did not find Ismāʿīl, so he asked his wife about him”).
+[^3]: Editor's note: This is a hope and an urging to care for the family, not a guarantee that children's uprightness or straying rests on the mother alone; guidance is in Allah's hand. What was said earlier about the mothers of the sons of Ibrāhīm and Nūḥ is the speaker's reflection, not attributed to a text.

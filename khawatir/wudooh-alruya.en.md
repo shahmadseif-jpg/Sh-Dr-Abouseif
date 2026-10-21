@@ -15,7 +15,7 @@ I ask Allah, glory be to Him, the Exalted, not to deprive us of seeing these fac
 
 It is as though the verses recited to us in the Fajr prayer from Sūrat Fuṣṣilat are training us in a particular principle, the principle of **clarity of vision**: ﴿وَلَا تَسْتَوِي الْحَسَنَةُ وَلَا السَّيِّئَةُ ادْفَعْ بِالَّتِي هِيَ أَحْسَنُ فَإِذَا الَّذِي بَيْنَكَ وَبَيْنَهُ عَدَاوَةٌ كَأَنَّهُ وَلِيٌّ حَمِيمٌ﴾ (The good deed and the evil deed are not equal. Repel evil with what is better, and behold, the one between whom and you there was enmity will be as though he were a close friend.)[^1] It is as though the Lord of the worlds, glory be to Him, is pointing to a course of action that brings particular results. So I find myself before a straight line that I walk along without deviating from it; the scenes and the concepts do not become confused for me.
 
-This is very important; for the people who cause the most collisions and accidents on the road are not those who drive fast, but the confused ones, to whom things become muddled, so they pay attention to more than one thing at the same time, and it is in the moments of heedlessness that accidents happen. You may find a person moving at great speed, swerving right and left and making all sorts of maneuvers, yet he is perfectly focused, and he reaches his destination on time.
+This is very important; for the people who cause the most collisions and accidents on the road are not those who drive fast, but the confused ones, to whom things become muddled, so they pay attention to more than one thing at the same time, and it is in the moments of heedlessness that accidents happen. You may find a person moving at great speed, swerving right and left and making all sorts of maneuvers, yet he is perfectly focused, and he reaches his destination on time.[^2]
 
 ### Intention: The First Clarity
 
@@ -43,3 +43,4 @@ I ask Allah, Blessed and Exalted, to show us what is before us, and to give us i
 
 ---
 [^1]: Sūrat Fuṣṣilat, verse 34. Editor's documentation: the verse is given here as the speaker stated it, with the words "as though he were a close friend."
+[^2]: Editor's note: This is the speaker's illustration of the effect of distraction, not a statistical claim and not a downplaying of speed; excessive speed itself increases the risk of losing control of the vehicle, lengthens stopping distance and makes injuries more severe, according to the U.S. National Highway Traffic Safety Administration (NHTSA).
