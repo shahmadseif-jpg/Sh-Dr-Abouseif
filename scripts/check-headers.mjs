@@ -242,6 +242,9 @@ if (!chromium) {
     const row = { page: p, status: res.status(), violations: v, consoleCsp: [...consoleCsp], fontsStylesheetApplied: fontsLoaded, ...extra };
     results.browser.push(row);
     if (v.length) fail('csp', `${p}: ${v.length} violation(s): ${v.map((x) => `${x.directive} ${x.blocked}`).join(' | ')}`);
+    // Policy syntax problems (e.g. a directive ignored in Report-Only) only
+    // show up as console messages.
+    if (consoleCsp.length) fail('csp', `${p}: CSP console message(s): ${consoleCsp.join(' | ')}`);
     if (!fontsLoaded) fail('csp', `${p}: Google Fonts stylesheet not applied`);
   }
   results.thirdPartyRequested = [...new Set(thirdParty)].map((u) => new URL(u).origin).filter((v, i, a) => a.indexOf(v) === i);

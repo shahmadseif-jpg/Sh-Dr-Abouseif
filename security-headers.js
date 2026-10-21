@@ -42,7 +42,9 @@ const reportOnlyPolicy = [
   "frame-src https://www.youtube.com https://www.youtube-nocookie.com https://www.facebook.com",
   "form-action 'self' https://formsubmit.co",
   "frame-ancestors 'self'",
-  'upgrade-insecure-requests',
+  // upgrade-insecure-requests is not listed: browsers ignore it in a
+  // Report-Only policy and log a console error for it. Add it when the
+  // policy is enforced.
 ].join('; ');
 
 // Only powerful features the site never uses are denied. Features delegated to
