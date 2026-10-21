@@ -23,9 +23,9 @@ After a few months, alhamdulillah, I saw good results. I no longer found a singl
 
 ### "It is not your home"
 
-I heard a story. A mother came and told me that her son had invited his friends home. He told them, "My mom is a good cook, she will make you a meal, will you come?" They said, "Why not?" and they came. The father arrived that day angry about something at work, we do not know what. When he saw the boys with his son, high school students, his anger grew. "Why did you bring these people here?" The son said, "Dad, I just invited them to my home." The father answered: "It is not your home. It is my home."
+I heard a story: a boy invited his friends home. He told them, "My mom is a good cook, she will make you a meal, will you come?" They said, "Why not?" and they came. The father arrived that day angry about something at work, we do not know what. When he saw the boys with his son, his anger grew. "Why did you bring these people here?" The son said, "Dad, I just invited them to my home." The father answered: "It is not your home. It is my home."
 
-The son forgot everything else, but he kept that sentence. He could not get it out of his mind. When he reached eighteen he was still carrying it, and he began to say: I need a home of my own, I am leaving. After that, my dear brother, no convincing works. It is done, and it was one word.
+The son forgot everything else, but he kept that sentence. He could not get it out of his mind. When he grew older he was still carrying it, and he began to say: I need a home of my own, I am leaving. After that, my dear brother, no convincing works. It is done, and it was one word.
 
 Sometimes a father calls his child ugly, or dumb, or says, "what a bad person I have here." Why would you wish for such a son or daughter, if what they hear is that? And when they compare themselves with others and see others as better than themselves in your eyes, they begin to cut the relationship between you and them. On paper I stay the father, but the relationship between hearts is broken. And who broke it? I did. Out of one moment of anger, one moment of lost awareness, I lost my relationship with my children.
 

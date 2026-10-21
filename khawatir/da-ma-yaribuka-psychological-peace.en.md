@@ -17,7 +17,7 @@ The plan was to take up another ḥadīth yesterday, and this guest caught up wi
 
 ### A Ḥadīth Usually Approached from the Side of What Is in Hand
 
-People mostly approach this ḥadīth from the side of the facts in hand: you have a doubt about this money, so leave it and turn to something else, and you have an issue in dealing with some matter, so there is no harm. One of the brothers asked me two days ago: I have a "plaza" that I rent to someone, then I was surprised that he sells alcohol after we had agreed on a restaurant, so what is the solution? And you find many such questions, and the mixing of truth with falsehood and good with evil is widespread. So the question is about what is in a person's hands and what he does with it, and the answer likewise. I put my money in the bank, do I take its profits or not? These are matters in which a fatwa is issued.
+People mostly approach this ḥadīth from the side of the facts in hand: you have a doubt about this money, so leave it and turn to something else, and you have an issue in dealing with some matter, so there is no harm. One of the brothers asked me: I have a commercial property that I rent to someone, then I was surprised that he sells alcohol after we had agreed on a restaurant, so what is the solution? And you find many such questions, and the mixing of truth with falsehood and good with evil is widespread. So the question is about what is in a person's hands and what he does with it, and the answer likewise. I put my money in the bank, do I take its profits or not? These are matters in which a fatwa is issued.
 
 ### Another Aspect: The Prophet's ﷺ Concern for the Psyche of the One Dealing with Life
 
