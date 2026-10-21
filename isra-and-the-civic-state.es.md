@@ -29,7 +29,7 @@ Esta denominación en sí misma abre la puerta de la civilización: **el movimie
 >
 > 3. **Tres modelos de movimiento** en la sura: el Burāq con Muhammad (la paz sea con él), el arca con Noé, el bastón y el cruce con Moisés. Cada modelo descubre un método en la fundación de la comunidad.
 >
-> 4. **Dos escenarios que asedian al musulmán en otra que su morada**: la presión del halago y la presión de la expulsión. Y la sura define cómo resiste el fundador ante ambos.
+> 4. **Dos escenarios que asedian al musulmán en otra que su morada**: la presión de la contemporización (mudāhana) y la presión de la expulsión. Y la sura define cómo resiste el fundador ante ambos.
 >
 > 5. **La lógica de la imposibilidad** en el negador: condiciones imposibles que se plantean para aplazar el reconocimiento civilizatorio — y la respuesta coránica constitucional.
 >
@@ -139,7 +139,7 @@ El bastón y el cruce son el movimiento de **la liberación colectiva de un sist
 
 Luego viene la sura al punto de la inquietud central: ¿qué ocurre cuando el fundador musulmán enfrenta una sociedad no musulmana? El Viaje Nocturno presenta dos escenarios precisos:
 
-### El primer escenario: la presión del halago — un intento de corromper el método desde dentro
+### El primer escenario: la presión de la contemporización — un intento de corromper el método desde dentro
 
 «Y por poco te seducen de aquello que te hemos revelado, para que inventaras contra Nosotros otra cosa; y entonces te habrían tomado como amigo íntimo. Y de no ser porque te afirmamos, por poco te inclinas hacia ellos algo poco» (73–74).
 
@@ -151,9 +151,9 @@ Contempla la precisión de la descripción:
 - **«Para que inventaras contra Nosotros otra cosa»**: lo pedido es una modificación en el texto mismo.
 - **«Y entonces te habrían tomado como amigo íntimo»**: el premio es la «amistad íntima» —la amistad, la aceptación, la pertenencia.
 
-Esta es la presión del **halago al que corresponde una amistad condicionada**. Y es la más peligrosa presión que enfrenta el musulmán en otra que su morada: «modifica un poco, te aceptamos mucho». Y el Corán describe que esta presión casi influía hasta en el Profeta (la paz sea con él) —de no ser por la afirmación divina.
+Esta es la presión del **contemporización a la que corresponde una amistad condicionada**. Y es la más peligrosa presión que enfrenta el musulmán en otra que su morada: «modifica un poco, te aceptamos mucho». Y el Corán describe que esta presión casi influía hasta en el Profeta (la paz sea con él) —de no ser por la afirmación divina.
 
-**La aplicación contemporánea**: la mezquita que recibe una financiación condicionada, el imam que es invitado a comités musulmán-gubernamentales con una condición implícita, la institución que evita temas legislativos porque son «sensibles» en el espacio público —todos estos experimentan la presión del halago. Y la lección coránica: **la afirmación es la que preserva, no la inteligencia metódica sola**.
+**La aplicación contemporánea**: la mezquita que recibe una financiación condicionada, el imam que es invitado a comités musulmán-gubernamentales con una condición implícita, la institución que evita temas legislativos porque son «sensibles» en el espacio público —todos estos experimentan la presión de la contemporización. Y la lección coránica: **la afirmación es la que preserva, no la inteligencia metódica sola**.
 
 > **Una escena de la realidad de la comunidad**: en una de las grandes ciudades se le ofreció al imam de una mezquita una financiación generosa de una institución gubernamental para programas de «diálogo interreligioso» —con una condición implícita de que evitara en sus sermones la mención de «las causas regionales sensibles». El imam rechazó la financiación con cortesía, y le dijo a su hermano: «Cuando me piden el silencio sobre la verdad a cambio del dinero, el dinero es en realidad el precio de mi lengua, no una financiación para mi programa». Después de tres años, la mezquita creció con las donaciones de sus hijos, y se volvió una referencia para la comunidad, no un apéndice de otra agenda. Esta es la aplicación de «Y de no ser porque te afirmamos» en su forma contemporánea.
 
@@ -169,7 +169,7 @@ El análisis gramatical de este texto descubre la lengua del Corán en la descri
 - **«No permanecerían tras de ti sino poco»**: las consecuencias de este acto son cósmicas, no aplazadas.
 - **«Es la ley de aquellos que enviamos»**: una afirmación de que este es un patrón repetido, una ley divina.
 
-La presión de la expulsión difiere de la presión del halago: la primera apunta a la presencia geográfica y la posición, la segunda apunta al método y la esencia. Y ambas las enfrenta el fundador.
+La presión de la expulsión difiere de la presión de la contemporización: la primera apunta a la presencia geográfica y la posición, la segunda apunta al método y la esencia. Y ambas las enfrenta el fundador.
 
 **La aplicación contemporánea**: leyes que apuntan a las escuelas islámicas, campañas mediáticas contra la vestimenta, estrechamiento sobre los púlpitos, campañas contra la imamía islámica en las prisiones o los hospitales. Todas son intentos de una «expulsión moral» del espacio público. Y la lección coránica: **es ley de Dios que quien hace esto no permanece mucho**.
 
@@ -216,9 +216,9 @@ El análisis de la aleya:
 
 **El efecto civilizatorio**: esta es una interpretación coránica de un fenómeno que observaron los economistas occidentales. Los sabios de la economía conductual llaman a algo similar «aversión a la pérdida» (Loss Aversion): el ser humano detesta la pérdida el doble de lo que ama la ganancia. El Corán se les adelantó catorce siglos.
 
-**La aplicación a la comunidad**: el musulmán en Occidente tiene ante sí un desafío doble: 1) aprender cómo gastar de sus tesoros sobre su legado, su mezquita y su escuela sin «temor de gastar». 2) comprender que la acumulación de la riqueza en la sociedad hegemónica —donde posee el 1% de la gente el 45% de la riqueza— es una manifestación planetaria de lo que advirtió el Corán. Y la comunidad que cae en la misma trampa añade su pecado al pecado general.
+**La aplicación a la comunidad**: el musulmán en Occidente tiene ante sí un desafío doble: 1) aprender cómo gastar de sus tesoros sobre su waqf (dotación perpetua), su mezquita y su escuela sin «temor de gastar». 2) comprender que la acumulación de la riqueza en la sociedad hegemónica —donde posee el 1% de la gente el 45% de la riqueza— es una manifestación planetaria de lo que advirtió el Corán. Y la comunidad que cae en la misma trampa añade su pecado al pecado general.
 
-> **Una escena que descubre la aleya**: en una academia islámica en el estado de Texas, la junta planificó la construcción de un nuevo pabellón educativo con un costo de 2,5 millones de dólares. Vino la primera donación de un médico musulmán con cinco mil dólares, diciendo: «Intento que no fracasen las manos de la escuela de mis hijos». En la misma semana, donó otro médico —de la misma comunidad, con el mismo ingreso aproximadamente— cincuenta mil dólares a un club de golf privado. La diferencia no está en la capacidad, sino en el «temor de gastar» que distingue entre las dos puertas: la puerta del beneficio sostenible (un legado que permanece para las generaciones) el dinero teme ir a ella, y la puerta del disfrute efímero se abre sin cuenta. La aleya descubre el inconsciente económico hace 1400 años.
+> **Una escena que descubre la aleya**: en una academia islámica en el estado de Texas, la junta planificó la construcción de un nuevo pabellón educativo con un costo de 2,5 millones de dólares. Vino la primera donación de un médico musulmán con cinco mil dólares, diciendo: «Intento que no fracasen las manos de la escuela de mis hijos». En la misma semana, donó otro médico —de la misma comunidad, con el mismo ingreso aproximadamente— cincuenta mil dólares a un club de golf privado. La diferencia no está en la capacidad, sino en el «temor de gastar» que distingue entre las dos puertas: la puerta del beneficio sostenible (un waqf que permanece para las generaciones) el dinero teme ir a ella, y la puerta del disfrute efímero se abre sin cuenta. La aleya descubre el inconsciente económico hace 1400 años.
 
 Pregúntate primero, como te recuerda el Corán: «¿Estoy aprendiendo mi propia avaricia antes de criticar la avaricia de otro?» Y en la respuesta hay una pausa disciplinaria.
 
@@ -235,7 +235,7 @@ Estos no son meros ritos. Son **una descripción de la inmunidad de la comunidad
 - **El reconocimiento de la promesa divina**: «ciertamente la promesa de nuestro Señor se cumplirá» —una certeza de lo oculto.
 - **El aumento en la humildad**: «les aumenta humildad» —la interacción es creciente.
 
-Esto es lo que preserva la sociedad civil musulmana en Occidente: **la capacidad de producir una espiritualidad colectiva, científica, creciente**. No subestimes el efecto de las sesiones de lectura del Corán, los círculos de su reflexión, las noches de vigilia compartidas, los programas de purificación colectiva. Estos no son un lujo, sino herramientas de **una inmunidad civilizatoria** ante las dos presiones del halago y la expulsión.
+Esto es lo que preserva la sociedad civil musulmana en Occidente: **la capacidad de producir una espiritualidad colectiva, científica, creciente**. No subestimes el efecto de las sesiones de lectura del Corán, los círculos de su reflexión, las noches de vigilia compartidas, los programas de purificación colectiva. Estos no son un lujo, sino herramientas de **una inmunidad civilizatoria** ante las dos presiones de la contemporización y la expulsión.
 
 ## Conclusión: la estructura global de la sura — del individuo en movimiento al universo integrador
 
@@ -261,9 +261,9 @@ Siéntate contigo mismo —o con la gente de tu casa— y pregunta tres pregunta
 
 1. **La pregunta de la dignidad**: ¿cómo preservo mi dignidad diaria como un hijo de los hijos de Adán en mi sociedad? ¿Me someto a toda concesión que se me pide, o preservo los artículos constitucionales coránicos en mi trato con las instituciones y los individuos?
 
-2. **La pregunta de las dos presiones**: ¿de qué presión sufro ahora —la presión del halago (que modifique mi método para que me acepte la sociedad) o la presión de la expulsión (que se me estreche en mi espacio)? ¿Y cómo respondo: con la afirmación de fe, o con la rendición?
+2. **La pregunta de las dos presiones**: ¿de qué presión sufro ahora —la presión de la contemporización (que modifique mi método para que me acepte la sociedad) o la presión de la expulsión (que se me estreche en mi espacio)? ¿Y cómo respondo: con la afirmación de fe, o con la rendición?
 
-3. **La pregunta del gasto**: ¿soy «avaro» en mis tesoros respecto del legado islámico, mientras gasto con generosidad en el disfrute efímero? ¿Cuál es la cantidad que, si la gasto este mes en un legado que perdura, sentiría que comencé a rebasar el «temor de gastar»?
+3. **La pregunta del gasto**: ¿soy «avaro» en mis tesoros respecto del waqf islámico, mientras gasto con generosidad en el disfrute efímero? ¿Cuál es la cantidad que, si la gasto este mes en un waqf que perdura, sentiría que comencé a rebasar el «temor de gastar»?
 
 Escribe tus respuestas. Vuelve a ellas después de un año. Pues solo el ajuste de cuentas sincero es el camino de la sociedad fundadora.
 
