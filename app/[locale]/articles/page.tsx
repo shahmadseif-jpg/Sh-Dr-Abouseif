@@ -1,4 +1,5 @@
 import { setRequestLocale, getTranslations } from 'next-intl/server';
+import { pageMetadata } from '@/lib/seo';
 import { useTranslations } from 'next-intl';
 import ArticlesList from '@/components/ArticlesList';
 
@@ -9,7 +10,8 @@ export async function generateMetadata({
 }) {
   const { locale } = await params;
   const t = await getTranslations({ locale, namespace: 'articles' });
-  return { title: `${t('title')} — ${locale === 'ar' ? 'د. أحمد أبو سيف' : locale === 'ur' ? 'ڈاکٹر احمد ابو سیف' : 'Dr. Ahmed Abouseif'}` };
+  const site = await getTranslations({ locale, namespace: 'site' });
+  return pageMetadata({ locale, path: '/articles', title: `${t('title')} — ${locale === 'ar' ? 'د. أحمد أبو سيف' : locale === 'ur' ? 'ڈاکٹر احمد ابو سیف' : 'Dr. Ahmed Abouseif'}`, description: site('description') });
 }
 
 export default async function ArticlesPage({
