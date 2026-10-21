@@ -15,7 +15,7 @@ Tonight, God willing, we conclude the calls to the believers in Sūrat al-Baqara
 
 ### The Qur'an Is One Fabric
 
-When we go through a verse, we must follow the context in which it was revealed. With God's permission we will try to proceed in steps, among them what we have become accustomed to: connecting the verse to those before it, so that we understand that the Noble Qur'an is one fabric, aiming at an agreed purpose, intended by the Lord of Might, glory be to Him, drawn out for us so that we move within its framework and cannot step outside it in any way. When our Lord draws out this path for us, He places us on the straight path, which, if we walk it, we reach what we seek, and if we turn away from it, we are lost and we lose what is in our hands.
+When we go through a verse, we must follow the context in which it is set. With God's permission we will try to proceed in steps, among them what we have become accustomed to: connecting the verse to those before it, so that we understand that the Noble Qur'an is one fabric, aiming at an agreed purpose, intended by the Lord of Might, glory be to Him, drawn out for us so that we move within its framework and cannot step outside it in any way. When our Lord draws out this path for us, He places us on the straight path, which, if we walk it, we reach what we seek, and if we turn away from it, we are lost and we lose what is in our hands.
 
 ### From the First Call to the Last
 

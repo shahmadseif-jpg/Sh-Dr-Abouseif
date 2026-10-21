@@ -63,7 +63,7 @@ Recently, after prayer, I told myself first, and the others praying beside me, n
 
 My dear brothers and sisters: there is an umbrella over all of us, and all of us sit under its shade. That is Islam. We have a religion, and nobody else has anything of the same value. Do not lose it yourself. Do not choose to remove yourself from īmān.
 
-How do we keep our īmān alive? Allah made it easy. We have the five prayers each day. Five times a day I scan my heart and stand in the hands of Allah to show my loyalty to the religion. *Allāhu akbar*, greater than anything, comes as training, to keep me connected to Allah all day.
+How do we keep our īmān alive? Allah made it easy. We have the five prayers each day. Five times a day I scan my heart and stand before Allah to show my loyalty to the religion. *Allāhu akbar*, greater than anything, comes as training, to keep me connected to Allah all day.
 
 And He asks us to read the Qurʾān. Someone will say that is hard, and I answer that Allah has already answered it:
 

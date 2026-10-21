@@ -669,7 +669,7 @@ export const lectureArticlesMeta: ArticleMeta[] = [
     date: { ar: '١٧ أبريل ٢٠٢٦', en: 'April 17, 2026' },
     readingMinutes: 6,
     title: { ar: 'بيوتنا من الداخل: الزواج في القرآن', en: 'Our Homes from Within: Marriage in the Qur\'an' },
-    subtitle: { ar: 'الزواج في القرآن: السكن والمودة والرحمة، ومسؤولية كل من الزوجين', en: 'Marriage in the Qur\'an: tranquility, mercy, and the responsibility of each spouse' },
+    subtitle: { ar: 'الزواج في القرآن: السكن والمودة والرحمة، ومسؤولية كل من الزوجين', en: 'Marriage in the Qur\'an: tranquility, affection and mercy, and the responsibility of each spouse' },
     excerpt: { ar: 'محاضرة بعد العشاء تسأل ماذا قال الله عن الزواج، ثم تنتقل إلى المسؤولية في البيت، وإلى بيت النبي ﷺ، وإلى نظر كل من الزوجين إلى جانبه وحده.', en: 'An Isha lecture asking what Allah said about marriage, then turning to responsibility in the home, the Prophet\'s own household, and the habit of each spouse looking only at his or her own side.' },
   },
   {

@@ -32,4 +32,4 @@ Then he moves to Sūrat al-Baqarah and recites: ﴿وَلَنَبْلُوَنَ�
 Then he returns to ad-Duha: ﴿فَأَمَّا الْيَتِيمَ فَلَا تَقْهَرْ * وَأَمَّا السَّائِلَ فَلَا تَنْهَرْ * وَأَمَّا بِنِعْمَةِ رَبِّكَ فَحَدِّثْ﴾ [ad-Duḥā: 9-11] ("So as for the orphan, do not oppress; and as for the one who asks, do not repel; and as for the blessing of your Lord, speak of it"). After it comes an English passage whose speaker is unclear, containing a question: what blessing is it? Then: «The blessing is talking to you». The lecture ends with «بارك الله فيكم» ("May Allah bless you").
 
 ---
-[^1]: Editor's documentation: The speaker did not name these surahs; the attribution is from the editor: al-Fajr: 1-3, al-Layl: 1-4, ash-Shams: 1-4. The completion of the ad-Duha verse is ﴿وَلَلْآخِرَةُ خَيْرٌ لَّكَ مِنَ الْأُولَىٰ﴾ [ad-Duḥā: 4].
+[^1]: Editor's documentation: The speaker did not name these surahs; the attribution is from the editor: al-Fajr: 1-3, al-Layl: 1-4, ash-Shams: 1-4. The completion of the ad-Duha verse is ﴿وَلَلْآخِرَةُ خَيْرٌ لَّكَ مِنَ الْأُولَىٰ﴾ ("and the Hereafter is better for you than the first [life]") [ad-Duḥā: 4].

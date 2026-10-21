@@ -105,7 +105,7 @@ The choice between these two determines whether the coming Muslim generation in 
 
 [^5]: Agreed upon; reported by al-Bukhārī (893, 7138) and Muslim (1829), on the authority of Ibn ʿUmar (RA).
 
-[^6]: Ibn Khaldūn, ʿAbd al-Raḥmān b. Muḥammad, *al-Muqaddima*, the chapter he devoted to the craft of administration and writing and their relationship to the state and civilization (Book Five of the First Book).
+[^6]: Ibn Khaldūn, ʿAbd al-Raḥmān b. Muḥammad, *al-Muqaddima*, the chapter he devoted to the craft of administration and writing and their relationship to the state and civilization (Chapter Five of the First Book).
 
 ---
 
