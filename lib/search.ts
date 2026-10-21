@@ -1,13 +1,20 @@
 /**
- * Client-safe unified search index over articles, research, and khawatir.
- * Builds from existing metadata (lib/*.ts) — no fs, no external deps.
- * Arabic-aware normalization tolerates diacritics, tatweel, and letter variants.
+ * Client-safe unified search index over articles, research, khawatir and
+ * Q&A. Builds from existing metadata (lib/*.ts) — titles, subtitles,
+ * excerpts/abstracts/summaries and keywords; NOT the full Markdown text and
+ * NOT the video library (the search page states this scope).
+ * No fs, no external deps. Arabic-aware normalization tolerates diacritics,
+ * tatweel, and letter variants.
+ *
+ * This module pulls in all content metadata, so components/SearchBox.tsx
+ * imports it dynamically on the first search interaction only.
  */
 import { getAllArticles, localize } from './articles';
 import { getAllResearch } from './research';
 import { getAllKhawatir } from './khawatir';
+import { getAllQA } from './qa';
 
-export type SearchType = 'article' | 'research' | 'khatra';
+export type SearchType = 'article' | 'research' | 'khatra' | 'qa';
 
 export interface Hit {
   type: SearchType;
@@ -91,10 +98,28 @@ export function buildIndex(locale: string): Hit[] {
     };
   });
 
-  return [...articles, ...research, ...khawatir];
+  const qa: Hit[] = getAllQA().map((q) => {
+    const title = localize(q.question, locale);
+    const summary = localize(q.summary, locale);
+    return {
+      type: 'qa',
+      slug: q.slug,
+      url: `/qa/${q.slug}`,
+      title,
+      subtitle: '',
+      snippet: clip(summary),
+      blob: normalize([title, summary, (q.tags ?? []).join(' ')].join(' ')),
+    };
+  });
+
+  return [...articles, ...research, ...khawatir, ...qa];
 }
 
-/** Search the index: every term must appear; title matches rank higher. */
+/**
+ * Search the index: every term must appear; title matches rank higher.
+ * Returns ALL matches (ranked); the caller decides how many to display and
+ * shows the total, so results are never silently truncated.
+ */
 export function searchIndex(index: Hit[], q: string): Hit[] {
   const terms = normalize(q).split(' ').filter(Boolean);
   if (!terms.length) return [];
@@ -112,5 +137,5 @@ export function searchIndex(index: Hit[], q: string): Hit[] {
     }
     if (ok) scored.push({ h, score });
   }
-  return scored.sort((a, b) => b.score - a.score).map((x) => x.h).slice(0, 40);
+  return scored.sort((a, b) => b.score - a.score).map((x) => x.h);
 }

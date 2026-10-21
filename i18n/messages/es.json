@@ -224,7 +224,11 @@
     "results": "{count} resultados",
     "type_article": "Artículo",
     "type_research": "Investigación",
-    "type_khatra": "Reflexión"
+    "type_khatra": "Reflexión",
+    "scope": "Busca en los títulos y resúmenes de artículos, investigaciones, reflexiones y preguntas y respuestas; no en su texto completo ni en la videoteca.",
+    "showing": "Se muestran los primeros {shown} de {total} resultados; añade otra palabra para afinar la búsqueda.",
+    "more": "Mostrar más",
+    "type_qa": "Pregunta y respuesta"
   },
   "comments": {
     "title": "Comentarios",

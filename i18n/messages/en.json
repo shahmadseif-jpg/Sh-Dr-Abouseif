@@ -224,7 +224,11 @@
     "results": "{count} results",
     "type_article": "Article",
     "type_research": "Research",
-    "type_khatra": "Reflection"
+    "type_khatra": "Reflection",
+    "scope": "Searches the titles and summaries of articles, research, reflections and Q&A — not their full text, and not the video library.",
+    "showing": "Showing the first {shown} of {total} results — add another word to narrow the search.",
+    "more": "Show more",
+    "type_qa": "Q&A"
   },
   "comments": {
     "title": "Comments",
