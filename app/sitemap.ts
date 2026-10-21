@@ -4,10 +4,11 @@ import { getAllKhawatir } from '@/lib/khawatir';
 import { getAllResearch } from '@/lib/research';
 import { getAllQA } from '@/lib/qa';
 import { SITE_URL } from '@/lib/site';
+import { SITE_LOCALES, languagePolicy } from '@/lib/seo';
+import { availableLocales, type ContentKind } from '@/lib/content-availability-server';
 
-const LOCALES = ['ar', 'en', 'es', 'ur'] as const;
-
-// Static, indexable pages (relative to /{locale})
+// Static, indexable pages (relative to /{locale}). /search is deliberately
+// absent (noindex); /cv is a redirect to /about.
 const STATIC_PATHS = [
   '',
   '/about',
@@ -24,59 +25,56 @@ const STATIC_PATHS = [
   '/contact',
 ];
 
+/**
+ * Sitemap policy (see lib/seo.ts):
+ * - only published items (get* helpers apply the draft gate);
+ * - a content URL is listed only for languages that really have the text;
+ *   Arabic-fallback URLs are omitted (they canonicalize to the Arabic page);
+ * - each entry carries the same hreflang set as the page itself;
+ * - no lastModified: the metadata records publication dates only, and the
+ *   build time is not an editorial modification date.
+ */
 export default function sitemap(): MetadataRoute.Sitemap {
   const entries: MetadataRoute.Sitemap = [];
-  const now = new Date();
+  const abs = (p: string) => `${SITE_URL}${p}`;
+  const withAbsolute = (languages: Record<string, string>) =>
+    Object.fromEntries(Object.entries(languages).map(([k, v]) => [k, abs(v)]));
 
-  for (const locale of LOCALES) {
-    // Static pages
-    for (const path of STATIC_PATHS) {
+  for (const path of STATIC_PATHS) {
+    for (const locale of SITE_LOCALES) {
+      const policy = languagePolicy({ locale, path });
       entries.push({
-        url: `${SITE_URL}/${locale}${path}`,
-        lastModified: now,
+        url: abs(policy.canonical),
         changeFrequency: 'weekly',
         priority: path === '' ? 1 : 0.7,
+        alternates: { languages: withAbsolute(policy.languages) },
       });
     }
+  }
 
-    // Articles
-    for (const a of getAllArticles()) {
-      entries.push({
-        url: `${SITE_URL}/${locale}/articles/${a.slug}`,
-        lastModified: a.isoDate ? new Date(a.isoDate) : now,
-        changeFrequency: 'monthly',
-        priority: 0.8,
-      });
-    }
+  const groups: { kind: ContentKind; base: string; priority: number; items: { slug: string; title?: unknown; abstract?: unknown }[] }[] = [
+    { kind: 'articles', base: '/articles', priority: 0.8, items: getAllArticles() },
+    { kind: 'khawatir', base: '/khawatir', priority: 0.6, items: getAllKhawatir() },
+    { kind: 'research', base: '/research', priority: 0.6, items: getAllResearch() },
+    { kind: 'qa', base: '/qa', priority: 0.6, items: getAllQA() },
+  ];
 
-    // Khawatir
-    for (const k of getAllKhawatir()) {
-      entries.push({
-        url: `${SITE_URL}/${locale}/khawatir/${k.slug}`,
-        lastModified: k.isoDate ? new Date(k.isoDate) : now,
-        changeFrequency: 'monthly',
-        priority: 0.6,
-      });
-    }
-
-    // Research
-    for (const r of getAllResearch()) {
-      entries.push({
-        url: `${SITE_URL}/${locale}/research/${r.slug}`,
-        lastModified: r.isoDate ? new Date(r.isoDate) : now,
-        changeFrequency: 'monthly',
-        priority: 0.6,
-      });
-    }
-
-    // Questions and answers
-    for (const q of getAllQA()) {
-      entries.push({
-        url: `${SITE_URL}/${locale}/qa/${q.slug}`,
-        lastModified: q.isoDate ? new Date(q.isoDate) : now,
-        changeFrequency: 'monthly',
-        priority: 0.6,
-      });
+  for (const group of groups) {
+    for (const item of group.items) {
+      const available = availableLocales(
+        group.kind,
+        item.slug,
+        item as Parameters<typeof availableLocales>[2]
+      );
+      for (const locale of available) {
+        const policy = languagePolicy({ locale, path: `${group.base}/${item.slug}`, available });
+        entries.push({
+          url: abs(policy.canonical),
+          changeFrequency: 'monthly',
+          priority: group.priority,
+          alternates: { languages: withAbsolute(policy.languages) },
+        });
+      }
     }
   }
 
