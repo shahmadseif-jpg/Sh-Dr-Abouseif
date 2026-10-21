@@ -86,7 +86,7 @@
   },
   "lectures": {
     "title": "Video Library",
-    "subtitle": "Comprehensive archive of lectures, khutbahs, and khatiras in Arabic and English",
+    "subtitle": "Lectures, khutbahs, and khatiras in Arabic and English",
     "filter_all": "All",
     "filter_arabic": "Arabic",
     "filter_english": "English",
@@ -96,7 +96,9 @@
     "type_khatira": "Khatiras",
     "label_type": "Type",
     "label_language": "Language",
-    "search_placeholder": "Search the library..."
+    "search_placeholder": "Search recent videos...",
+    "window_note": "This page shows only the channel's most recent videos (up to 15, from YouTube's public feed); search and filters apply to those videos only.",
+    "archive_link": "Browse the full archive on YouTube"
   },
   "articles": {
     "title": "Articles & Blog",
@@ -242,7 +244,11 @@
     "results": "{count} results",
     "type_article": "Article",
     "type_research": "Research",
-    "type_khatra": "Reflection"
+    "type_khatra": "Reflection",
+    "scope": "Searches the titles and summaries of articles, research, reflections and Q&A — not their full text, and not the video library.",
+    "showing": "Showing the first {shown} of {total} results — add another word to narrow the search.",
+    "more": "Show more",
+    "type_qa": "Q&A"
   },
   "comments": {
     "title": "Comments",
@@ -265,6 +271,12 @@
     "errTooLong": "The text is longer than allowed.",
     "activation": "Your comment has not been delivered yet because the receiving form is not activated with the sending service. Your text is kept; please try again later.",
     "timeout": "The sending service did not respond in time. Your text is kept; please try again."
+  },
+  "not_found": {
+    "title": "Page not found",
+    "body": "We couldn't find the page you requested. It may have moved or its address may have changed.",
+    "home": "Back to the home page",
+    "search": "Search the site"
   },
   "ui": {
     "siteOwner": "Dr. Ahmed Abouseif",

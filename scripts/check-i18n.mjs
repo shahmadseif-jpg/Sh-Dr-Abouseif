@@ -44,7 +44,7 @@ for (const l of LOCALES.slice(1)) {
 }
 
 // 2. every string compiles/formats
-const SAMPLE = { count: 3, n: '3', email: 'x@example.com', date: '1 Jan 2026', network: 'X', year: 2026 };
+const SAMPLE = { count: 3, n: '3', email: 'x@example.com', date: '1 Jan 2026', network: 'X', year: 2026, shown: 40, total: 374 };
 let formatted = 0;
 for (const l of LOCALES) {
   const t = createTranslator({ locale: l, messages: msgs[l], onError: (e) => failures.push(`${l}: ${e.message}`) });
