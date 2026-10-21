@@ -1,5 +1,6 @@
 import { setRequestLocale, getTranslations } from 'next-intl/server';
 import { useTranslations, useLocale } from 'next-intl';
+import { authorName, pageMetadata } from '@/lib/seo';
 import { recurringEvents, EVENTS_LAST_CONFIRMED, type Loc } from '@/lib/events';
 
 export async function generateMetadata({
@@ -9,7 +10,11 @@ export async function generateMetadata({
 }) {
   const { locale } = await params;
   const t = await getTranslations({ locale, namespace: 'events' });
-  return { title: `${t('title')} — ${locale === 'ar' ? 'د. أحمد أبو سيف' : locale === 'ur' ? 'ڈاکٹر احمد ابو سیف' : 'Dr. Ahmed Abouseif'}` };
+  return pageMetadata({
+    locale,
+    path: '/events',
+    title: `${t('title')} — ${authorName(locale)}`,
+  });
 }
 
 export default async function EventsPage({
