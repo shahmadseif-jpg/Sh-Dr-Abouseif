@@ -186,7 +186,7 @@ Human civilization, in its noblest exemplars, was crafted by migrants. Nearly al
 
 If we look at American civilization itself, we find that it is fundamentally a civilization of migrants. Who are Americans, in the political, customary, and constitutional sense, except people who obtained citizenship through lawful channels? Great leaders descend from migrant families — from Germany, Scotland, Ireland, Italy, Africa. And the first colonizers of American lands were not Americans by origin but migrants upon the indigenous Native American peoples.
 
-Citizenship — here and in every country founded on the rule of law — is a right earned through legal entitlement, not by ethnicity. And the luminous names in every field — scientific, medical, technological, artistic, jurisprudential — most of them, if not all, are migrants who obtained citizenship. If the land were emptied of them, it would collapse upon its soil without renewal.
+Citizenship — here and in every country founded on the rule of law — is a right earned through legal entitlement, not by ethnicity. And the luminous names in every field — scientific, medical, technological, artistic, jurisprudential — most of them, if not all, are migrants who obtained citizenship. If the land were emptied of them, it would collapse upon its soil without renewal.[^1]
 
 Let no Muslim shrink, then, from the description "migrant." It is the description of the Prophet ﷺ; it is the description of every prophet of God; it is the description of those who built civilizations. Expulsion — if it comes — is not the end of the displaced. It may be the beginning of his greatest phase.
 
@@ -208,3 +208,5 @@ A final point: even expulsion — were it to occur — requires methodology, not
 
 *— Dr. Ahmed Abou Seif, President of the American Imams Academy*
 *May 2026*
+
+[^1]: Editor's note: U.S. citizenship is acquired by birth on U.S. soil or by naturalization, as in the Fourteenth Amendment to the U.S. Constitution. People born outside the United States are about 14% of the population according to Census Bureau estimates for 2022, and more than half of them are naturalized. Most Americans are therefore citizens by birth, even though many trace their origins to migration; what is said about the luminous names is the author's general estimate, not a documented statistic.
