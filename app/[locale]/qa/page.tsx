@@ -1,4 +1,5 @@
 import { setRequestLocale } from 'next-intl/server';
+import { pageMetadata } from '@/lib/seo';
 import QAList from '@/components/QAList';
 import FatwaContent from '@/components/FatwaContent';
 import { Link } from '@/i18n/routing';
@@ -41,10 +42,12 @@ export async function generateMetadata({
 }) {
   const { locale } = await params;
   const t = TXT[(locale as keyof typeof TXT)] ?? TXT.ar;
-  return {
+  return pageMetadata({
+    locale,
+    path: '/qa',
     title: `${t.title} — ${locale === 'ar' ? 'د. أحمد أبو سيف' : locale === 'ur' ? 'ڈاکٹر احمد ابو سیف' : 'Dr. Ahmed Abouseif'}`,
     description: t.subtitle,
-  };
+  });
 }
 
 export default async function QAPage({

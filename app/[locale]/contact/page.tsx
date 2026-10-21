@@ -1,4 +1,5 @@
 import { setRequestLocale, getTranslations } from 'next-intl/server';
+import { pageMetadata } from '@/lib/seo';
 import { useTranslations } from 'next-intl';
 import { siteConfig } from '@/lib/site-config';
 import Newsletter from '@/components/Newsletter';
@@ -6,10 +7,7 @@ import Newsletter from '@/components/Newsletter';
 export async function generateMetadata({ params }: { params: Promise<{ locale: string }> }) {
   const { locale } = await params;
   const t = await getTranslations({ locale, namespace: 'contact' });
-  return {
-    title: t('title'),
-    description: t('subtitle'),
-  };
+  return pageMetadata({ locale, path: '/contact', title: t('title'), description: t('subtitle') });
 }
 
 function ContactContent() {

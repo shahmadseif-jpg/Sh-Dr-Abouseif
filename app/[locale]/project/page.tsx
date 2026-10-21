@@ -1,4 +1,5 @@
 import { setRequestLocale, getTranslations } from 'next-intl/server';
+import { pageMetadata } from '@/lib/seo';
 import { Link } from '@/i18n/routing';
 import { getResearchItem } from '@/lib/research';
 import { articlesMeta, localize } from '@/lib/articles';
@@ -127,7 +128,7 @@ export async function generateMetadata({ params }: { params: Promise<{ locale: s
   const { locale } = await params;
   const loc = locOf(locale);
   const m = await getTranslations({ locale: loc, namespace: 'mission' });
-  return { title: `${m('eyebrow')} — ${TXT[loc].siteName}`, description: m('body') };
+  return pageMetadata({ locale, path: '/project', title: `${m('eyebrow')} — ${TXT[loc].siteName}`, description: m('body') });
 }
 
 export default async function ProjectPage({ params }: { params: Promise<{ locale: string }> }) {

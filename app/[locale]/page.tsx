@@ -6,11 +6,23 @@ import Stats from '@/components/Stats';
 import LatestVideos from '@/components/LatestVideos';
 import FacebookEmbed from '@/components/FacebookEmbed';
 import CTASection from '@/components/CTASection';
-import { setRequestLocale } from 'next-intl/server';
+import type { Metadata } from 'next';
+import { getTranslations, setRequestLocale } from 'next-intl/server';
 import { Suspense } from 'react';
+import { pageMetadata } from '@/lib/seo';
 
 export const dynamic = 'force-dynamic';
 export const revalidate = 3600;
+
+export async function generateMetadata({
+  params,
+}: {
+  params: Promise<{ locale: string }>;
+}): Promise<Metadata> {
+  const { locale } = await params;
+  const t = await getTranslations({ locale, namespace: 'site' });
+  return pageMetadata({ locale, path: '', title: t('title'), description: t('description') });
+}
 
 export default async function Home({
   params,
