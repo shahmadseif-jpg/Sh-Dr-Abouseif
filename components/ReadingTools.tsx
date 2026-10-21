@@ -1,18 +1,39 @@
 'use client';
 
 import { useEffect, useState, useCallback } from 'react';
-import { useLocale } from 'next-intl';
+import { useTranslations } from 'next-intl';
+
+const STEPS = [0.92, 1, 1.14, 1.28];
+const MIN = -1;
+const MAX = 2;
+const STORAGE_KEY = 'reading-font-step';
+
+function readStoredStep(): number {
+  try {
+    const v = localStorage.getItem(STORAGE_KEY);
+    if (v === null) return 0;
+    const n = parseInt(v, 10);
+    return Number.isFinite(n) ? Math.max(MIN, Math.min(MAX, n)) : 0;
+  } catch {
+    return 0;
+  }
+}
 
 /**
  * Reading aids for long-form pages (articles, research):
  *  - a slim top reading-progress bar
- *  - font-size controls (A- / A / A+) applied to `.article-prose`, persisted.
- * Purely client-side, additive; no layout changes to the page itself.
+ *  - text-size controls (A− / reset / A+).
+ *
+ * The size is applied through the CSS variable `--reading-scale` on <html>;
+ * globals.css scales every `.article-prose` text utility (text-base,
+ * sm:text-lg, …) by it, so paragraphs that carry fixed Tailwind sizes
+ * actually change (ROOT-UI-02). The choice is kept in localStorage when
+ * available and is removed again when the tools unmount.
  */
 export default function ReadingTools() {
-  const locale = useLocale();
+  const t = useTranslations('ui');
   const [progress, setProgress] = useState(0);
-  const [step, setStep] = useState(0); // -1, 0, 1, 2
+  const [step, setStep] = useState(0);
 
   // Reading progress
   useEffect(() => {
@@ -30,73 +51,87 @@ export default function ReadingTools() {
     };
   }, []);
 
-  const apply = useCallback((s: number) => {
-    const scale = [0.92, 1, 1.14, 1.28][s + 1] ?? 1;
-    document.querySelectorAll<HTMLElement>('.article-prose').forEach((el) => {
-      el.style.fontSize = `${scale}em`;
-    });
+  const apply = useCallback((s: number, persist: boolean) => {
+    const scale = STEPS[s - MIN] ?? 1;
+    document.documentElement.style.setProperty('--reading-scale', String(scale));
+    if (!persist) return;
     try {
-      localStorage.setItem('reading-font-step', String(s));
+      if (s === 0) localStorage.removeItem(STORAGE_KEY);
+      else localStorage.setItem(STORAGE_KEY, String(s));
     } catch {
-      /* ignore */
+      /* storage unavailable: the choice simply lasts for this page view */
     }
   }, []);
 
   useEffect(() => {
-    let s = 0;
-    try {
-      const v = localStorage.getItem('reading-font-step');
-      if (v !== null) s = Math.max(-1, Math.min(2, parseInt(v, 10)));
-    } catch {
-      /* ignore */
-    }
+    const s = readStoredStep();
     setStep(s);
-    apply(s);
+    apply(s, false);
+    return () => {
+      document.documentElement.style.removeProperty('--reading-scale');
+    };
   }, [apply]);
 
-  const change = (delta: number) => {
-    const s = Math.max(-1, Math.min(2, step + delta));
-    setStep(s);
-    apply(s);
+  const set = (s: number) => {
+    const clamped = Math.max(MIN, Math.min(MAX, s));
+    setStep(clamped);
+    apply(clamped, true);
   };
 
-  const isAr = locale === 'ar';
-  const sideClass = isAr ? 'left-4' : 'right-4';
-  const label =
-    locale === 'ar' ? 'حجم الخط' : locale === 'es' ? 'Tamaño' : 'Text size';
+  const pct = Math.round((STEPS[step - MIN] ?? 1) * 100);
+  const btn =
+    'flex h-11 w-11 items-center justify-center rounded-full text-navy-700 hover:bg-navy-50 disabled:opacity-40 disabled:cursor-not-allowed';
 
   return (
     <>
-      {/* Top progress bar */}
-      <div className="fixed top-0 inset-x-0 z-50 h-1 bg-transparent pointer-events-none">
+      {/* Top progress bar (decorative) */}
+      <div className="fixed top-0 inset-x-0 z-50 h-1 bg-transparent pointer-events-none print:hidden" aria-hidden="true">
         <div
           className="h-full bg-gold-500 transition-[width] duration-150 ease-out"
           style={{ width: `${progress}%` }}
         />
       </div>
 
-      {/* Font-size control */}
+      {/* Text-size control: inline-start side, lifted above the floating
+          Ask button on narrow screens so the two never overlap. */}
       <div
-        className={`fixed bottom-5 ${sideClass} z-40 flex items-center gap-1 rounded-full border border-navy-200 bg-white/95 backdrop-blur px-2 py-1 shadow-md`}
-        aria-label={label}
+        data-reading-tools=""
+        role="group"
+        aria-label={t('textSize')}
+        className="fixed bottom-24 sm:bottom-5 start-4 z-40 flex items-center gap-0.5 rounded-full border border-navy-200 bg-white/95 backdrop-blur px-1 py-0.5 shadow-md print:hidden"
       >
         <button
-          onClick={() => change(-1)}
-          disabled={step <= -1}
-          className="h-8 w-8 rounded-full text-navy-600 hover:bg-navy-50 disabled:opacity-30 text-sm"
-          aria-label="A-"
+          type="button"
+          onClick={() => set(step - 1)}
+          disabled={step <= MIN}
+          className={`${btn} text-sm`}
+          aria-label={t('textSmaller')}
+          data-font-dec=""
         >
-          A−
+          <span aria-hidden="true">A−</span>
         </button>
-        <span className="text-[10px] text-navy-400 select-none">{label}</span>
         <button
-          onClick={() => change(1)}
-          disabled={step >= 2}
-          className="h-8 w-8 rounded-full text-navy-700 hover:bg-navy-50 disabled:opacity-30 text-base font-medium"
-          aria-label="A+"
+          type="button"
+          onClick={() => set(0)}
+          className={`${btn} w-auto min-w-[44px] px-2 text-xs`}
+          aria-label={`${t('textReset')} (${pct}%)`}
+          data-font-reset=""
         >
-          A+
+          <span aria-hidden="true">{pct}%</span>
         </button>
+        <button
+          type="button"
+          onClick={() => set(step + 1)}
+          disabled={step >= MAX}
+          className={`${btn} text-base font-medium`}
+          aria-label={t('textLarger')}
+          data-font-inc=""
+        >
+          <span aria-hidden="true">A+</span>
+        </button>
+        <span className="sr-only" aria-live="polite">
+          {t('textSize')}: {pct}%
+        </span>
       </div>
     </>
   );

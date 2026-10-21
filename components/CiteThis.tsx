@@ -3,6 +3,8 @@
 import { useState } from 'react';
 
 interface Props {
+  /** Stable, unique BibTeX key for this work (e.g. "abouseif2018-farewell-tawaf"). */
+  citeKey?: string;
   title: string;
   author?: string;
   year: number | string;
@@ -16,6 +18,7 @@ interface Props {
 
 /** "Cite this" panel for research pages: APA / Chicago / BibTeX + copy + Scholar. */
 export default function CiteThis({
+  citeKey,
   title,
   author = 'Abouseif, Ahmed',
   year,
@@ -34,6 +37,8 @@ export default function CiteThis({
       ? { cite: 'استشهد بهذا البحث', apa: 'APA', chicago: 'شيكاغو', bib: 'BibTeX', copy: 'نسخ', done: 'تم النسخ', scholar: 'بحث في Google Scholar' }
       : locale === 'es'
       ? { cite: 'Citar esta investigación', apa: 'APA', chicago: 'Chicago', bib: 'BibTeX', copy: 'Copiar', done: 'Copiado', scholar: 'Buscar en Google Scholar' }
+      : locale === 'ur'
+      ? { cite: 'اس تحقیق کا حوالہ دیں', apa: 'APA', chicago: 'شکاگو', bib: 'BibTeX', copy: 'نقل کریں', done: 'نقل ہو گیا', scholar: 'گوگل اسکالر میں تلاش کریں' }
       : { cite: 'Cite this research', apa: 'APA', chicago: 'Chicago', bib: 'BibTeX', copy: 'Copy', done: 'Copied', scholar: 'Search Google Scholar' };
 
   const src = [venue, publisher].filter(Boolean).join(', ');
@@ -41,7 +46,10 @@ export default function CiteThis({
 
   const apa = `${author} (${year}). ${title}.${src ? ` ${src}.` : ''} ${tail}`;
   const chicago = `${author}. "${title}." ${src ? `${src}, ` : ''}${year}. ${tail}.`;
-  const key = `abouseif${year}`;
+  // One key per work: the year alone collided for several papers from the
+  // same year when exported together. The slug (last URL segment) is stable.
+  const slugFromUrl = url.split('/').filter(Boolean).pop() ?? '';
+  const key = (citeKey ?? `abouseif${year}-${slugFromUrl}`).replace(/[^A-Za-z0-9:_-]/g, '');
   const bibtex =
     `@misc{${key},\n` +
     `  author = {Ahmed Abouseif},\n` +

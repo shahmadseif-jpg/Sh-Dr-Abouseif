@@ -10,15 +10,10 @@ export default function FacebookEmbed() {
     locale === 'ar' ? 'ar_AR' : locale === 'es' ? 'es_ES' : locale === 'ur' ? 'ur_PK' : 'en_US'
   }`;
 
-  const title = locale === 'ar' ? 'تابعنا على فيسبوك' : locale === 'es' ? 'Síguenos en Facebook' : locale === 'ur' ? 'فیس بک پر ہمیں فالو کریں' : 'Follow us on Facebook';
-  const subtitle =
-    locale === 'ar'
-      ? 'أكثر من 86 ألف متابع — انضم إلى مجتمعنا'
-      : locale === 'es'
-      ? 'Más de 86 mil seguidores — únete a nuestra comunidad'
-      : locale === 'ur'
-      ? '86 ہزار سے زائد فالوورز — ہماری کمیونٹی میں شامل ہوں'
-      : 'Over 86K followers — join our community';
+  const t = useTranslations('ui');
+  const title = t('fbTitle');
+  const subtitle = t('fbSubtitle');
+  const points = [t('fbPoint1'), t('fbPoint2'), t('fbPoint3')];
 
   return (
     <section className="py-16 sm:py-20 bg-white border-b border-navy-100">
@@ -33,36 +28,12 @@ export default function FacebookEmbed() {
               {subtitle}
             </p>
             <ul className="space-y-3 text-navy-600 mb-8">
-              <li className="flex gap-3 items-start">
-                <span className="mt-2 h-1.5 w-1.5 rounded-full bg-gold-400 flex-shrink-0" />
-                <span>
-                  {locale === 'ar'
-                    ? 'محاضرات يومية ومنشورات تأصيلية'
-                    : locale === 'ur'
-                    ? 'روزانہ کے لیکچرز اور تعلیمی پوسٹیں'
-                    : 'Daily lectures and educational posts'}
-                </span>
-              </li>
-              <li className="flex gap-3 items-start">
-                <span className="mt-2 h-1.5 w-1.5 rounded-full bg-gold-400 flex-shrink-0" />
-                <span>
-                  {locale === 'ar'
-                    ? 'بث مباشر للدروس والخطب'
-                    : locale === 'ur'
-                    ? 'دروس اور خطبات کی لائیو اسٹریمنگ'
-                    : 'Live streaming of lessons and khutbahs'}
-                </span>
-              </li>
-              <li className="flex gap-3 items-start">
-                <span className="mt-2 h-1.5 w-1.5 rounded-full bg-gold-400 flex-shrink-0" />
-                <span>
-                  {locale === 'ar'
-                    ? 'تواصل مع جالية إسلامية نشطة'
-                    : locale === 'ur'
-                    ? 'ایک فعال مسلم کمیونٹی سے جڑیں'
-                    : 'Engage with an active Muslim community'}
-                </span>
-              </li>
+              {points.map((p) => (
+                <li key={p} className="flex gap-3 items-start">
+                  <span className="mt-2 h-1.5 w-1.5 rounded-full bg-gold-400 flex-shrink-0" aria-hidden="true" />
+                  <span>{p}</span>
+                </li>
+              ))}
             </ul>
             <a
               href={siteConfig.social.facebook}
@@ -73,7 +44,7 @@ export default function FacebookEmbed() {
               <svg width="16" height="16" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true">
                 <path d="M24 12.073c0-6.627-5.373-12-12-12s-12 5.373-12 12c0 5.99 4.388 10.954 10.125 11.854v-8.385H7.078v-3.47h3.047V9.43c0-3.007 1.792-4.669 4.533-4.669 1.312 0 2.686.235 2.686.235v2.953H15.83c-1.491 0-1.956.925-1.956 1.874v2.25h3.328l-.532 3.47h-2.796v8.385C19.612 23.027 24 18.062 24 12.073z" />
               </svg>
-              {locale === 'ar' ? 'فيسبوك' : locale === 'es' ? 'Visitar en Facebook' : locale === 'ur' ? 'فیس بک وزٹ کریں' : 'Visit on Facebook'}
+              {t('fbVisit')}
             </a>
           </div>
 
@@ -87,7 +58,7 @@ export default function FacebookEmbed() {
               frameBorder="0"
               allowFullScreen={true}
               allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"
-              title="Facebook Page Plugin"
+              title={t('fbFrameTitle')}
               loading="lazy"
             />
           </div>

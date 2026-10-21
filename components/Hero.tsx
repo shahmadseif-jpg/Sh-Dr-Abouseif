@@ -6,6 +6,7 @@ import { siteConfig } from '@/lib/site-config';
 
 export default function Hero() {
   const t = useTranslations('hero');
+  const ui = useTranslations('ui');
   const locale = useLocale();
 
   return (
@@ -28,7 +29,7 @@ export default function Hero() {
                 className="inline-flex items-center gap-2 px-6 py-3 bg-navy-600 text-white text-sm font-medium rounded-md hover:bg-navy-700 transition-colors no-underline"
               >
                 {t('cta_primary')}
-                <svg width="16" height="16" viewBox="0 0 16 16" fill="none" stroke="currentColor" strokeWidth="2">
+                <svg width="16" height="16" viewBox="0 0 16 16" fill="none" stroke="currentColor" strokeWidth="2" aria-hidden="true">
                   {locale === 'ar' || locale === 'ur' ? (
                     <path d="M10 4L6 8l4 4" />
                   ) : (
@@ -50,12 +51,27 @@ export default function Hero() {
           <div className="lg:col-span-2">
             <div className="relative">
               <div className="aspect-[4/5] rounded-lg overflow-hidden bg-navy-100 border border-navy-200">
-                <img
-                  src="/dr-ahmed.jpg"
-                  alt={locale === 'ar' ? 'د. أحمد أبو سيف' : locale === 'ur' ? 'ڈاکٹر احمد ابو سیف' : 'Dr. Ahmed Abouseif'}
-                  className="w-full h-full object-cover"
-                  loading="eager"
-                />
+                {/* LCP element (mobile and desktop). WebP renditions generated
+                    from public/dr-ahmed.jpg (kept as the fallback and as the
+                    og:image) let the browser pick a width for the slot instead
+                    of always downloading the 1127px JPEG (PERF-03). */}
+                <picture className="block w-full h-full">
+                  <source
+                    type="image/webp"
+                    srcSet="/hero/dr-ahmed-480.webp 480w, /hero/dr-ahmed-720.webp 720w, /hero/dr-ahmed-960.webp 960w, /hero/dr-ahmed-1127.webp 1127w"
+                    sizes="(min-width: 1024px) 440px, (min-width: 640px) calc(100vw - 48px), calc(100vw - 32px)"
+                  />
+                  <img
+                    src="/dr-ahmed.jpg"
+                    alt={ui('siteOwner')}
+                    width={1127}
+                    height={1396}
+                    className="w-full h-full object-cover"
+                    loading="eager"
+                    decoding="async"
+                    {...{ fetchpriority: 'high' }}
+                  />
+                </picture>
               </div>
               <div className="absolute -bottom-3 -end-3 w-24 h-1 bg-gold-400" />
             </div>
