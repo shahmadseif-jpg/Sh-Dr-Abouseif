@@ -10,6 +10,13 @@ import QAFloatingButton from '@/components/QAFloatingButton';
 import { SITE_URL, SITE_NAME } from '@/lib/site';
 import '../globals.css';
 
+const FEED_LINK_TITLE: Record<string, string> = {
+  ar: 'د. أحمد أبو سيف — أحدث المحتوى (RSS)',
+  en: 'Dr. Ahmed Abouseif — Latest (RSS)',
+  es: 'Dr. Ahmed Abouseif — Lo más reciente (RSS)',
+  ur: 'ڈاکٹر احمد ابو سیف — تازہ ترین مواد (RSS)',
+};
+
 export async function generateMetadata({
   params,
 }: {
@@ -20,6 +27,10 @@ export async function generateMetadata({
   const lang = locale as 'ar' | 'en' | 'es' | 'ur';
   const ogLocale = locale === 'ar' ? 'ar_EG' : locale === 'es' ? 'es_ES' : locale === 'ur' ? 'ur_PK' : 'en_US';
 
+  // Site-wide defaults only. Canonical, hreflang and og:url are page
+  // specific and set by each page through lib/seo.ts — the layout must not
+  // declare locale-root alternates or a root og:url that every interior
+  // page would otherwise inherit.
   return {
     metadataBase: new URL(SITE_URL),
     title: t('title'),
@@ -29,7 +40,6 @@ export async function generateMetadata({
       description: t('description'),
       type: 'website',
       siteName: (SITE_NAME as Record<string, string>)[lang] ?? SITE_NAME.ar,
-      url: `/${locale}`,
       locale: ogLocale,
       images: ['/dr-ahmed.jpg'],
     },
@@ -39,15 +49,27 @@ export async function generateMetadata({
       description: t('description'),
       images: ['/dr-ahmed.jpg'],
     },
-    alternates: {
-      languages: {
-        ar: '/ar',
-        en: '/en',
-        es: '/es',
-        ur: '/ur',
-      },
-    },
   };
+}
+
+/**
+ * Google Fonts per locale (PERF-05). Only families a locale can actually
+ * compute are requested:
+ *  - Cairo: body font of RTL pages, and the Arabic fallback inside LTR pages
+ *    (Qur'anic quotations in English/Spanish text);
+ *  - Inter: body font of LTR pages only (html[dir=ltr]);
+ *  - Noto Nastaliq Urdu: body font of /ur only;
+ *  - Cormorant Garamond was requested everywhere but no element uses
+ *    `font-serif`, so it is dropped.
+ * Weights are unchanged: the browser downloads only faces that are used.
+ */
+const CAIRO = 'family=Cairo:wght@300;400;500;600;700';
+const INTER = 'family=Inter:wght@300;400;500;600;700';
+const NASTALIQ = 'family=Noto+Nastaliq+Urdu:wght@400;500;600;700';
+function fontsHref(locale: string): string {
+  const families =
+    locale === 'ar' ? [CAIRO] : locale === 'ur' ? [NASTALIQ, CAIRO] : [INTER, CAIRO];
+  return `https://fonts.googleapis.com/css2?${families.join('&')}&display=swap`;
 }
 
 export function generateStaticParams() {
@@ -79,9 +101,13 @@ export default async function LocaleLayout({
           href="https://fonts.gstatic.com"
           crossOrigin="anonymous"
         />
+        <link href={fontsHref(locale)} rel="stylesheet" />
+        {/* RSS autodiscovery for this locale's feed (app/[locale]/feed). */}
         <link
-          href="https://fonts.googleapis.com/css2?family=Cairo:wght@300;400;500;600;700&family=Cormorant+Garamond:wght@400;500;600&family=Inter:wght@300;400;500;600;700&family=Noto+Nastaliq+Urdu:wght@400;500;600;700&display=swap"
-          rel="stylesheet"
+          rel="alternate"
+          type="application/rss+xml"
+          href={`/${locale}/feed`}
+          title={FEED_LINK_TITLE[locale] ?? FEED_LINK_TITLE.ar}
         />
       </head>
       <body className="min-h-screen flex flex-col bg-white text-navy-900 antialiased" style={locale === 'ur' ? { fontFamily: "'Noto Nastaliq Urdu', 'Cairo', serif" } : undefined}>
