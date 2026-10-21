@@ -11,7 +11,6 @@
   --gold-500: #B0902B;
   --font-cairo: 'Cairo';
   --font-inter: 'Inter';
-  --font-cormorant: 'Cormorant Garamond';
 }
 
 * {
@@ -37,14 +36,20 @@ html[dir="rtl"] body {
 }
 
 html[dir="ltr"] body {
-  font-family: var(--font-inter), system-ui, sans-serif;
+  /* Cairo after Inter: Arabic quotations inside English/Spanish pages use
+     the site's Arabic face instead of an arbitrary system font. */
+  font-family: var(--font-inter), var(--font-cairo), system-ui, sans-serif;
 }
 
-/* Smooth focus rings for accessibility */
+/* Focus rings: navy on light surfaces (gold-400 on white was ~2.1:1, below
+   the 3:1 needed for a focus indicator); gold on dark surfaces. */
 *:focus-visible {
-  outline: 2px solid var(--gold-400);
+  outline: 3px solid var(--navy-700);
   outline-offset: 2px;
   border-radius: 2px;
+}
+.dark-surface :focus-visible {
+  outline-color: var(--gold-400);
 }
 
 /* Headings */
@@ -84,4 +89,67 @@ html[dir="rtl"] .gold-line::before {
 /* Smooth language transition */
 .locale-transition {
   transition: opacity 0.2s ease;
+}
+
+/* ------------------------------------------------------------------
+   Reader text size. ReadingTools sets --reading-scale on <html>; every
+   Tailwind text-size utility inside .article-prose is re-expressed in em
+   so fixed sizes such as `text-base sm:text-lg` follow the chosen scale
+   (previously only the container grew while paragraphs stayed 16px).
+   ------------------------------------------------------------------ */
+.article-prose {
+  font-size: calc(1rem * var(--reading-scale, 1));
+  overflow-wrap: break-word;
+}
+.article-prose .text-xs { font-size: 0.75em; }
+.article-prose .text-sm { font-size: 0.875em; }
+.article-prose .text-base { font-size: 1em; }
+.article-prose .text-lg { font-size: 1.125em; }
+.article-prose .text-xl { font-size: 1.25em; }
+.article-prose .text-2xl { font-size: 1.5em; }
+.article-prose .text-3xl { font-size: 1.875em; }
+.article-prose .text-base:not([class*="leading-"]) { line-height: 1.5em; }
+.article-prose .text-lg:not([class*="leading-"]) { line-height: 1.556em; }
+.article-prose .text-xl:not([class*="leading-"]) { line-height: 1.4em; }
+.article-prose .text-2xl:not([class*="leading-"]) { line-height: 1.333em; }
+@media (min-width: 640px) {
+  .article-prose .sm\:text-sm { font-size: 0.875em; }
+  .article-prose .sm\:text-base { font-size: 1em; }
+  .article-prose .sm\:text-lg { font-size: 1.125em; }
+  .article-prose .sm\:text-xl { font-size: 1.25em; }
+  .article-prose .sm\:text-2xl { font-size: 1.5em; }
+  .article-prose .sm\:text-3xl { font-size: 1.875em; }
+}
+@media (min-width: 768px) {
+  .article-prose .md\:text-lg { font-size: 1.125em; }
+  .article-prose .md\:text-xl { font-size: 1.25em; }
+  .article-prose .md\:text-2xl { font-size: 1.5em; }
+}
+
+/* ------------------------------------------------------------------
+   Print: readable body, footnotes and tables kept intact, interactive
+   chrome hidden (header/footer/floating tools already use print:hidden).
+   ------------------------------------------------------------------ */
+@media print {
+  html { --reading-scale: 1; }
+  body { background: #fff; color: #000; }
+  .article-prose { font-size: 12pt; }
+  .article-prose a { color: inherit; text-decoration: underline; }
+  .article-prose a[href^="http"]::after {
+    content: " <" attr(href) ">";
+    font-size: 0.8em;
+    word-break: break-all;
+  }
+  .article-prose table { width: 100%; border-collapse: collapse; }
+  .article-prose thead { display: table-header-group; }
+  .article-prose tr,
+  .article-prose li,
+  .article-prose blockquote,
+  .article-prose figure { break-inside: avoid; page-break-inside: avoid; }
+  .article-prose h2,
+  .article-prose h3 { break-after: avoid; page-break-after: avoid; }
+  .article-prose ol li,
+  .article-prose [id^="fn"] { orphans: 2; widows: 2; }
+  .article-prose .overflow-x-auto { overflow: visible !important; }
+  form, [data-reading-tools], [data-qa-fab] { display: none !important; }
 }

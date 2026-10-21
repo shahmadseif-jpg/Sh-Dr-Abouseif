@@ -2909,25 +2909,25 @@ export const prayerLabels = {
     fajr: 'الفَجر',
     isha: 'العِشاء',
     dhuhr: 'الظُّهر',
-    other: 'خاطرة',
+    other: 'لقاءات عامة',
   },
   en: {
     fajr: 'Fajr',
     isha: 'Isha',
     dhuhr: 'Dhuhr',
-    other: 'Reflection',
+    other: 'General gatherings',
   },
   es: {
     fajr: 'Fajr',
     isha: 'Isha',
     dhuhr: 'Dhuhr',
-    other: 'Reflexión',
+    other: 'Encuentros generales',
   },
   ur: {
     fajr: 'فجر',
     isha: 'عشاء',
     dhuhr: 'ظہر',
-    other: 'خاطرہ',
+    other: 'عمومی نشستیں',
   },
 } as const;
 

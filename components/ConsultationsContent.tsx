@@ -1,316 +1,246 @@
 'use client';
 
 import { useState } from 'react';
-import { useLocale } from 'next-intl';
+import { useTranslations } from 'next-intl';
 import { siteConfig } from '@/lib/site-config';
+import { FIELD_LIMITS, validateFields, type FieldError } from '@/lib/forms';
 
 type Location = 'aia' | 'bayt_al_karim';
+type Status = 'idle' | 'draft_opened';
 
-const content = {
-  ar: {
-    title: 'خدمة الاستشارات الأسرية',
-    subtitle: 'برعاية د. أحمد أبو سيف',
-    intro:
-      'خدمة استشارات أسرية شرعية ومتخصصة لخدمة الجالية المسلمة. نستقبل الإخوة والأخوات في موعدين أسبوعيين بأحد المسجدين أدناه، بسرية تامة وبدون رسوم.',
-    select_location: 'اختر مكان الاستشارة',
-    aia_name: 'مسجد أكاديمية الأئمة',
-    aia_address: 'American Imams Academy, USA',
-    aia_hours: 'الجمعة بعد العصر · السبت بعد المغرب',
-    bayt_name: 'مسجد بيت الكريم',
-    bayt_address: 'Bayt Al-Karim Islamic Center, Fort Worth, TX',
-    bayt_hours: 'الخميس بعد المغرب · الأحد بعد الظهر',
-    form_title: 'نموذج التسجيل',
-    name_label: 'الاسم الكامل',
-    email_label: 'البريد الإلكتروني',
-    phone_label: 'رقم الهاتف',
-    type_label: 'نوع الاستشارة',
-    type_premarital: 'استشارة ما قبل الزواج',
-    type_marital: 'مشكلة زوجية',
-    type_parenting: 'تربية الأبناء',
-    type_other: 'أخرى',
-    message_label: 'وصف موجز للاستشارة (سيُتعامل معه بسرية تامة)',
-    message_placeholder: 'اكتب وصفاً موجزاً... (اختياري)',
-    submit: 'إرسال طلب الاستشارة',
-    note_title: 'ملاحظات مهمة',
-    notes: [
-      'الخدمة مجانية بالكامل',
-      'يحفظ كل ما يدور في الاستشارة بسرية تامة',
-      'الإخوة يستقبلهم الشيخ، والأخوات تستقبلهن من تنوب عنه',
-      'قد يتم تأجيل الموعد لظروف طارئة',
-      'يفضل الحجز قبل الموعد بـ 24 ساعة على الأقل',
-    ],
-    success: 'تم تجهيز رسالتك. سيفتح برنامج البريد الإلكتروني لإرسالها.',
-  },
-  en: {
-    title: 'Family Consultation Service',
-    subtitle: 'Sponsored by Dr. Ahmed Abouseif',
-    intro:
-      "A confidential, specialized Islamic family-counseling service for our Muslim community. Brothers and sisters are welcome at two weekly slots at either masjid below — no fees, complete privacy.",
-    select_location: 'Choose your consultation location',
-    aia_name: 'American Imams Academy Masjid',
-    aia_address: 'American Imams Academy, USA',
-    aia_hours: 'Friday after Asr · Saturday after Maghrib',
-    bayt_name: 'Bayt Al-Karim Islamic Center',
-    bayt_address: 'Bayt Al-Karim Islamic Center, Fort Worth, TX',
-    bayt_hours: 'Thursday after Maghrib · Sunday afternoon',
-    form_title: 'Registration form',
-    name_label: 'Full name',
-    email_label: 'Email',
-    phone_label: 'Phone number',
-    type_label: 'Consultation type',
-    type_premarital: 'Pre-marriage counseling',
-    type_marital: 'Marital issue',
-    type_parenting: 'Parenting',
-    type_other: 'Other',
-    message_label: 'Brief description (kept fully confidential)',
-    message_placeholder: 'Write a brief note... (optional)',
-    submit: 'Submit consultation request',
-    note_title: 'Important notes',
-    notes: [
-      'The service is completely free',
-      'All consultations are kept strictly confidential',
-      'Brothers meet the Sheikh; sisters are received by a female counselor',
-      'Sessions may be rescheduled in case of emergencies',
-      'Please book at least 24 hours in advance',
-    ],
-    success: 'Your request is ready. Your email app will open to send it.',
-  },
-  es: {
-    title: 'Servicio de Asesoramiento Familiar',
-    subtitle: 'Patrocinado por el Dr. Ahmed Abouseif',
-    intro:
-      'Un servicio de asesoramiento familiar islámico, confidencial y especializado, al servicio de nuestra comunidad musulmana. Hermanos y hermanas son bienvenidos en dos franjas semanales en cualquiera de las dos mezquitas de abajo —sin honorarios y con plena privacidad.',
-    select_location: 'Elige el lugar de tu consulta',
-    aia_name: 'Mezquita de la Academia Americana de Imames',
-    aia_address: 'American Imams Academy, USA',
-    aia_hours: 'Viernes después del Asr · Sábado después del Maghrib',
-    bayt_name: 'Centro Islámico Bayt Al-Karim',
-    bayt_address: 'Bayt Al-Karim Islamic Center, Fort Worth, TX',
-    bayt_hours: 'Jueves después del Maghrib · Domingo por la tarde',
-    form_title: 'Formulario de registro',
-    name_label: 'Nombre completo',
-    email_label: 'Correo electrónico',
-    phone_label: 'Número de teléfono',
-    type_label: 'Tipo de consulta',
-    type_premarital: 'Asesoramiento prematrimonial',
-    type_marital: 'Problema conyugal',
-    type_parenting: 'Crianza de los hijos',
-    type_other: 'Otro',
-    message_label: 'Descripción breve (se mantiene totalmente confidencial)',
-    message_placeholder: 'Escribe una nota breve... (opcional)',
-    submit: 'Enviar solicitud de consulta',
-    note_title: 'Notas importantes',
-    notes: [
-      'El servicio es completamente gratuito',
-      'Todas las consultas se mantienen estrictamente confidenciales',
-      'A los hermanos los recibe el Shaij; a las hermanas las recibe una asesora',
-      'Las sesiones pueden reprogramarse en caso de emergencia',
-      'Por favor, reserva con al menos 24 horas de antelación',
-    ],
-    success: 'Tu solicitud está lista. Se abrirá tu aplicación de correo para enviarla.',
-  },
-  ur: {
-    title: 'خاندانی مشاورتی خدمت',
-    subtitle: 'ڈاکٹر احمد ابو سیف کی نگرانی میں',
-    intro:
-      'مسلم کمیونٹی کی خدمت کے لیے خصوصی اسلامی خاندانی مشاورتی خدمت۔ بھائیوں اور بہنوں کا استقبال ہفتے میں دو بار دونوں میں سے کسی ایک مسجد میں کیا جاتا ہے — مکمل رازداری، بغیر کسی فیس کے۔',
-    select_location: 'مشاورت کی جگہ منتخب کریں',
-    aia_name: 'امریکن امامز اکیڈمی مسجد',
-    aia_address: 'American Imams Academy, USA',
-    aia_hours: 'جمعہ عصر کے بعد · ہفتہ مغرب کے بعد',
-    bayt_name: 'بیت الکریم اسلامک سنٹر',
-    bayt_address: 'Bayt Al-Karim Islamic Center, Fort Worth, TX',
-    bayt_hours: 'جمعرات مغرب کے بعد · اتوار بعد دوپہر',
-    form_title: 'رجسٹریشن فارم',
-    name_label: 'پورا نام',
-    email_label: 'ای میل',
-    phone_label: 'فون نمبر',
-    type_label: 'مشاورت کی قسم',
-    type_premarital: 'نکاح سے قبل مشاورت',
-    type_marital: 'ازدواجی مسئلہ',
-    type_parenting: 'بچوں کی تربیت',
-    type_other: 'دیگر',
-    message_label: 'مختصر تفصیل (مکمل رازداری کے ساتھ)',
-    message_placeholder: 'مختصر نوٹ لکھیں... (اختیاری)',
-    submit: 'مشاورت کی درخواست بھیجیں',
-    note_title: 'اہم نوٹس',
-    notes: [
-      'یہ خدمت مکمل طور پر مفت ہے',
-      'تمام مشاورتیں سختی سے رازداری میں رکھی جاتی ہیں',
-      'بھائیوں سے شیخ ملتے ہیں؛ بہنوں کو خاتون مشیر استقبال کرتی ہیں',
-      'ہنگامی حالات میں سیشن دوبارہ شیڈول ہو سکتا ہے',
-      'براہ کرم کم از کم 24 گھنٹے پہلے بکنگ کروائیں',
-    ],
-    success: 'آپ کی درخواست تیار ہے۔ بھیجنے کے لیے آپ کی ای میل ایپ کھلے گی۔',
-  },
-};
-
+/**
+ * Family-consultation request.
+ *
+ * Honest flow (FORM-03 / REL-02): this page does NOT book or deliver
+ * anything. It prepares an e-mail draft in the visitor's own mail app
+ * (mailto:), and nothing leaves the device until the visitor presses Send
+ * there. An appointment exists only after the Academy replies. The copy
+ * says so before and after the button in all four languages.
+ */
 export default function ConsultationsContent() {
-  const locale = useLocale();
-  const c = content[locale as 'ar' | 'en' | 'es' | 'ur'] ?? content.en;
+  const t = useTranslations('consultationsPage');
+  const notes = t.raw('notes') as string[];
+  const types = [t('type_premarital'), t('type_marital'), t('type_parenting'), t('type_other')];
+  const receiver = siteConfig.contact.email;
 
   const [location, setLocation] = useState<Location>('aia');
   const [name, setName] = useState('');
   const [email, setEmail] = useState('');
   const [phone, setPhone] = useState('');
-  const [type, setType] = useState(c.type_marital);
+  const [type, setType] = useState(types[1]);
   const [message, setMessage] = useState('');
-  const [submitted, setSubmitted] = useState(false);
+  const [status, setStatus] = useState<Status>('idle');
+  const [errors, setErrors] = useState<Record<string, FieldError>>({});
 
-  const handleSubmit = (e: React.FormEvent) => {
+  const handleSubmit = (e: React.FormEvent<HTMLFormElement>) => {
     e.preventDefault();
-    const locName = location === 'aia' ? c.aia_name : c.bayt_name;
+    const found = validateFields(
+      { name, email, phone },
+      {
+        name: { required: true, maxLength: FIELD_LIMITS.name },
+        email: { required: true, email: true },
+        phone: { required: true, maxLength: 40 },
+      }
+    );
+    setErrors(found);
+    if (Object.keys(found).length) {
+      const first = (['name', 'email', 'phone'] as const).find((f) => found[f]);
+      if (first) e.currentTarget.querySelector<HTMLElement>(`#consult-${first}`)?.focus();
+      return;
+    }
+    const locName = location === 'aia' ? t('aia_name') : t('bayt_name');
     const subject = `Family Consultation Request — ${locName}`;
-    const body = `${c.name_label}: ${name}
-${c.email_label}: ${email}
-${c.phone_label}: ${phone}
-${c.select_location}: ${locName}
-${c.type_label}: ${type}
+    const body = `${t('name_label')}: ${name}
+${t('email_label')}: ${email}
+${t('phone_label')}: ${phone}
+${t('select_location')}: ${locName}
+${t('type_label')}: ${type}
 
-${c.message_label}:
+${t('message_label')}:
 ${message}`;
 
-    const mailto = `mailto:${siteConfig.contact.email}?subject=${encodeURIComponent(
+    const mailto = `mailto:${receiver}?subject=${encodeURIComponent(
       subject
     )}&body=${encodeURIComponent(body)}`;
     window.location.href = mailto;
-    setSubmitted(true);
+    // We cannot know whether a mail app opened or whether the e-mail was
+    // sent; the status text below says exactly that.
+    setStatus('draft_opened');
   };
 
+  const errText = (e: FieldError) => (e === 'email' ? t('err_email') : t('err_required'));
+  const fieldA11y = (f: string) => ({
+    id: `consult-${f}`,
+    'aria-invalid': errors[f] ? (true as const) : undefined,
+    'aria-describedby': [errors[f] ? `consult-${f}-err` : '', f === 'name' ? 'consult-howto' : '']
+      .filter(Boolean)
+      .join(' ') || undefined,
+  });
+  const fieldErr = (f: string) =>
+    errors[f] ? (
+      <p id={`consult-${f}-err`} className="mt-1 text-sm text-red-700">
+        {errText(errors[f])}
+      </p>
+    ) : null;
+
   const inputCls =
-    'w-full px-4 py-2 text-sm border border-navy-200 rounded-md focus:outline-none focus:border-navy-400 bg-white';
+    'w-full min-h-[44px] px-4 py-2 text-sm border border-navy-200 rounded-md focus:outline-none focus:border-navy-500 bg-white aria-[invalid=true]:border-red-600';
+  const labelCls = 'block text-sm text-navy-600 mb-1.5';
+
+  const locationButton = (id: Location, nameKey: string, addrKey: string, hoursKey: string) => (
+    <button
+      type="button"
+      onClick={() => setLocation(id)}
+      aria-pressed={location === id}
+      className={`text-start p-5 rounded-lg border-2 transition-colors ${
+        location === id ? 'border-navy-600 bg-navy-50/50' : 'border-navy-100 bg-white hover:border-navy-300'
+      }`}
+    >
+      <div className="font-medium text-navy-700 mb-1">{t(nameKey)}</div>
+      <div className="text-xs text-navy-500 mb-2" dir="ltr" lang="en">
+        {t(addrKey)}
+      </div>
+      <div className="text-xs text-gold-700">{t(hoursKey)}</div>
+    </button>
+  );
 
   return (
     <div className="py-16 sm:py-20">
       <div className="mx-auto max-w-4xl px-4 sm:px-6 lg:px-8">
         <div className="text-center mb-12">
-          <div className="text-xs uppercase tracking-[0.2em] text-gold-500 mb-3">
-            {c.subtitle}
-          </div>
-          <h1 className="text-4xl sm:text-5xl font-medium text-navy-700 mb-4">
-            {c.title}
-          </h1>
-          <p className="text-lg text-navy-600 max-w-2xl mx-auto leading-relaxed">
-            {c.intro}
-          </p>
+          <div className="text-xs uppercase tracking-[0.2em] text-gold-700 mb-3">{t('subtitle')}</div>
+          <h1 className="text-4xl sm:text-5xl font-medium text-navy-700 mb-4">{t('title')}</h1>
+          <p className="text-lg text-navy-600 max-w-2xl mx-auto leading-relaxed">{t('intro')}</p>
         </div>
 
         <div className="mb-10">
-          <h2 className="text-xl font-medium text-navy-700 mb-4 gold-line">
-            {c.select_location}
-          </h2>
+          <h2 className="text-xl font-medium text-navy-700 mb-4 gold-line">{t('select_location')}</h2>
           <div className="grid sm:grid-cols-2 gap-4">
-            <button
-              type="button"
-              onClick={() => setLocation('aia')}
-              className={`text-start p-5 rounded-lg border-2 transition-colors ${
-                location === 'aia'
-                  ? 'border-navy-600 bg-navy-50/50'
-                  : 'border-navy-100 bg-white hover:border-navy-300'
-              }`}
-            >
-              <div className="font-medium text-navy-700 mb-1">{c.aia_name}</div>
-              <div className="text-xs text-navy-500 mb-2">{c.aia_address}</div>
-              <div className="text-xs text-gold-500">{c.aia_hours}</div>
-            </button>
-            <button
-              type="button"
-              onClick={() => setLocation('bayt_al_karim')}
-              className={`text-start p-5 rounded-lg border-2 transition-colors ${
-                location === 'bayt_al_karim'
-                  ? 'border-navy-600 bg-navy-50/50'
-                  : 'border-navy-100 bg-white hover:border-navy-300'
-              }`}
-            >
-              <div className="font-medium text-navy-700 mb-1">{c.bayt_name}</div>
-              <div className="text-xs text-navy-500 mb-2">{c.bayt_address}</div>
-              <div className="text-xs text-gold-500">{c.bayt_hours}</div>
-            </button>
+            {locationButton('aia', 'aia_name', 'aia_address', 'aia_hours')}
+            {locationButton('bayt_al_karim', 'bayt_name', 'bayt_address', 'bayt_hours')}
           </div>
         </div>
 
-        <form onSubmit={handleSubmit} className="bg-white border border-navy-100 rounded-lg p-6 sm:p-8 space-y-5">
-          <h2 className="text-xl font-medium text-navy-700">{c.form_title}</h2>
+        <form
+          onSubmit={handleSubmit}
+          noValidate
+          className="bg-white border border-navy-100 rounded-lg p-6 sm:p-8 space-y-5"
+        >
+          <h2 className="text-xl font-medium text-navy-700">{t('form_title')}</h2>
+
+          <p
+            id="consult-howto"
+            className="rounded-md border border-gold-200 bg-gold-50 px-4 py-3 text-sm text-navy-700 leading-relaxed"
+          >
+            {t('mailto_note', { email: receiver })}
+          </p>
 
           <div>
-            <label className="block text-sm text-navy-600 mb-1.5">{c.name_label}</label>
+            <label htmlFor="consult-name" className={labelCls}>
+              {t('name_label')} <span aria-hidden="true">*</span>
+            </label>
             <input
               type="text"
+              {...fieldA11y('name')}
               required
+              aria-required="true"
+              autoComplete="name"
+              maxLength={FIELD_LIMITS.name}
               value={name}
               onChange={(e) => setName(e.target.value)}
               className={inputCls}
             />
+            {fieldErr('name')}
           </div>
 
           <div className="grid sm:grid-cols-2 gap-4">
             <div>
-              <label className="block text-sm text-navy-600 mb-1.5">{c.email_label}</label>
+              <label htmlFor="consult-email" className={labelCls}>
+                {t('email_label')} <span aria-hidden="true">*</span>
+              </label>
               <input
                 type="email"
+                dir="ltr"
+                {...fieldA11y('email')}
                 required
+                aria-required="true"
+                autoComplete="email"
                 value={email}
                 onChange={(e) => setEmail(e.target.value)}
                 className={inputCls}
               />
+              {fieldErr('email')}
             </div>
             <div>
-              <label className="block text-sm text-navy-600 mb-1.5">{c.phone_label}</label>
+              <label htmlFor="consult-phone" className={labelCls}>
+                {t('phone_label')} <span aria-hidden="true">*</span>
+              </label>
               <input
                 type="tel"
+                dir="ltr"
+                {...fieldA11y('phone')}
                 required
+                aria-required="true"
+                autoComplete="tel"
+                maxLength={40}
                 value={phone}
                 onChange={(e) => setPhone(e.target.value)}
                 className={inputCls}
               />
+              {fieldErr('phone')}
             </div>
           </div>
 
           <div>
-            <label className="block text-sm text-navy-600 mb-1.5">{c.type_label}</label>
-            <select
-              value={type}
-              onChange={(e) => setType(e.target.value)}
-              className={inputCls}
-            >
-              <option>{c.type_premarital}</option>
-              <option>{c.type_marital}</option>
-              <option>{c.type_parenting}</option>
-              <option>{c.type_other}</option>
+            <label htmlFor="consult-type" className={labelCls}>
+              {t('type_label')}
+            </label>
+            <select id="consult-type" value={type} onChange={(e) => setType(e.target.value)} className={inputCls}>
+              {types.map((o) => (
+                <option key={o}>{o}</option>
+              ))}
             </select>
           </div>
 
           <div>
-            <label className="block text-sm text-navy-600 mb-1.5">{c.message_label}</label>
+            <label htmlFor="consult-message" className={labelCls}>
+              {t('message_label')}
+            </label>
             <textarea
+              id="consult-message"
               rows={4}
               value={message}
               onChange={(e) => setMessage(e.target.value)}
-              placeholder={c.message_placeholder}
+              placeholder={t('message_placeholder')}
               className={inputCls + ' resize-none'}
             />
           </div>
 
           <button
             type="submit"
-            className="w-full sm:w-auto px-6 py-3 bg-navy-600 text-white text-sm font-medium rounded-md hover:bg-navy-700 transition-colors"
+            className="w-full sm:w-auto min-h-[44px] px-6 py-3 bg-navy-600 text-white text-sm font-medium rounded-md hover:bg-navy-700 transition-colors"
           >
-            {c.submit}
+            {t('submit')}
           </button>
 
-          {submitted && (
-            <div className="text-sm text-green-700 bg-green-50 border border-green-200 rounded-md p-3">
-              {c.success}
-            </div>
-          )}
+          <div role="status" aria-live="polite">
+            {status === 'draft_opened' && (
+              <div className="text-sm text-navy-800 bg-gold-50 border border-gold-200 rounded-md p-3 leading-relaxed">
+                {t('success')}{' '}
+                <a href={`mailto:${receiver}`} className="font-medium underline" dir="ltr">
+                  {receiver}
+                </a>
+              </div>
+            )}
+          </div>
         </form>
 
         <div className="mt-10 bg-navy-50/40 border border-navy-100 rounded-lg p-6">
-          <h3 className="text-base font-medium text-navy-700 mb-3">{c.note_title}</h3>
+          <h2 className="text-base font-medium text-navy-700 mb-3">{t('note_title')}</h2>
           <ul className="space-y-2 text-sm text-navy-600">
-            {c.notes.map((note, idx) => (
+            {notes.map((note, idx) => (
               <li key={idx} className="flex gap-2 items-start">
-                <span className="mt-1.5 h-1.5 w-1.5 rounded-full bg-gold-400 flex-shrink-0" />
+                <span className="mt-1.5 h-1.5 w-1.5 rounded-full bg-gold-400 flex-shrink-0" aria-hidden="true" />
                 <span>{note}</span>
               </li>
             ))}

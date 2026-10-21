@@ -82,7 +82,7 @@ export default async function QAPage({
             </Link>
           </p>
         </div>
-        <FatwaContent />
+        <FatwaContent headingLevel="h2" />
       </div>
     </div>
   );

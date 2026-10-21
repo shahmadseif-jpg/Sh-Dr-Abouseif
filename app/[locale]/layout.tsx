@@ -52,6 +52,26 @@ export async function generateMetadata({
   };
 }
 
+/**
+ * Google Fonts per locale (PERF-05). Only families a locale can actually
+ * compute are requested:
+ *  - Cairo: body font of RTL pages, and the Arabic fallback inside LTR pages
+ *    (Qur'anic quotations in English/Spanish text);
+ *  - Inter: body font of LTR pages only (html[dir=ltr]);
+ *  - Noto Nastaliq Urdu: body font of /ur only;
+ *  - Cormorant Garamond was requested everywhere but no element uses
+ *    `font-serif`, so it is dropped.
+ * Weights are unchanged: the browser downloads only faces that are used.
+ */
+const CAIRO = 'family=Cairo:wght@300;400;500;600;700';
+const INTER = 'family=Inter:wght@300;400;500;600;700';
+const NASTALIQ = 'family=Noto+Nastaliq+Urdu:wght@400;500;600;700';
+function fontsHref(locale: string): string {
+  const families =
+    locale === 'ar' ? [CAIRO] : locale === 'ur' ? [NASTALIQ, CAIRO] : [INTER, CAIRO];
+  return `https://fonts.googleapis.com/css2?${families.join('&')}&display=swap`;
+}
+
 export function generateStaticParams() {
   return routing.locales.map((locale) => ({ locale }));
 }
@@ -81,10 +101,7 @@ export default async function LocaleLayout({
           href="https://fonts.gstatic.com"
           crossOrigin="anonymous"
         />
-        <link
-          href="https://fonts.googleapis.com/css2?family=Cairo:wght@300;400;500;600;700&family=Cormorant+Garamond:wght@400;500;600&family=Inter:wght@300;400;500;600;700&family=Noto+Nastaliq+Urdu:wght@400;500;600;700&display=swap"
-          rel="stylesheet"
-        />
+        <link href={fontsHref(locale)} rel="stylesheet" />
         {/* RSS autodiscovery for this locale's feed (app/[locale]/feed). */}
         <link
           rel="alternate"

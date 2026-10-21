@@ -204,7 +204,7 @@ export default async function ResearchItemPage({
                     rel="noopener noreferrer"
                     className="inline-flex items-center px-5 py-3 bg-white text-navy-700 text-sm rounded-md border border-navy-200 hover:bg-navy-50 transition-colors no-underline"
                   >
-                    📄 {locale === 'ar' ? 'English PDF' : locale === 'es' ? 'PDF en árabe' : 'النّسخة العربيّة'}
+                    📄 {t('secondary_pdf')}
                   </a>
                 )}
               </>

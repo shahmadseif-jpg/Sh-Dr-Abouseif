@@ -13,9 +13,12 @@ export default function KhawatirList() {
   const locale = useLocale();
   const pl = prayerLabels[locale as 'ar' | 'en' | 'es' | 'ur'] ?? prayerLabels.en;
   const t = useTranslations('khawatir');
+  const ui = useTranslations('ui');
   const [filter, setFilter] = useState<Filter>('all');
 
-  const readMore = locale === 'ar' ? 'اقرأ الخاطرة' : locale === 'es' ? 'Leer la reflexión' : locale === 'ur' ? 'خاطرہ پڑھیں' : 'Read reflection';
+  const readMore = ui('readReflection');
+  const containsVideo = ui('containsVideo');
+  const minutesLabel = (n: number) => ui('readingMinutes', { count: n, n: String(n) });
 
   // Sort by date descending
   const sorted = useMemo(
@@ -34,7 +37,9 @@ export default function KhawatirList() {
     { value: 'all', label: t('filter_all') },
     { value: 'fajr', label: pl.fajr },
     { value: 'isha', label: pl.isha },
-  ];
+    { value: 'dhuhr', label: pl.dhuhr },
+    { value: 'other', label: pl.other },
+  ].filter((b) => b.value === 'all' || sorted.some((k) => k.prayer === b.value));
 
   if (sorted.length === 0) {
     return (
@@ -50,9 +55,11 @@ export default function KhawatirList() {
       <div className="flex flex-wrap items-center justify-center gap-2 mb-10">
         {filterButtons.map((btn) => (
           <button
+            type="button"
             key={btn.value}
             onClick={() => setFilter(btn.value)}
-            className={`px-4 py-2 text-sm rounded-md transition-colors border ${
+            aria-pressed={filter === btn.value}
+            className={`min-h-[44px] px-4 py-2 text-sm rounded-md transition-colors border ${
               filter === btn.value
                 ? 'bg-navy-600 text-white border-navy-600'
                 : 'bg-white text-navy-600 border-navy-200 hover:bg-navy-50'
@@ -82,15 +89,15 @@ export default function KhawatirList() {
                       : 'bg-navy-50 text-navy-700 border border-navy-200'
                   }`}
                 >
-                  <span className="h-1.5 w-1.5 rounded-full bg-current opacity-60" />
+                  <span className="h-1.5 w-1.5 rounded-full bg-current opacity-60" aria-hidden="true" />
                   {pl[k.prayer]}
                 </span>
                 {k.videoUrl && (
                   <span
-                    className="text-navy-400 group-hover:text-gold-500 transition-colors"
-                    aria-label={locale === 'ar' ? 'يحوي فيديو' : locale === 'es' ? 'Contiene vídeo' : locale === 'ur' ? 'ویڈیو موجود ہے' : 'Contains video'}
-                    title={locale === 'ar' ? 'يحوي فيديو' : locale === 'es' ? 'Contiene vídeo' : locale === 'ur' ? 'ویڈیو موجود ہے' : 'Contains video'}
+                    className="text-navy-500 group-hover:text-gold-500 transition-colors"
+                    title={containsVideo}
                   >
+                    <span className="sr-only">{containsVideo}</span>
                     <svg width="18" height="18" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true">
                       <path d="M8 5v14l11-7z" />
                     </svg>
@@ -112,8 +119,8 @@ export default function KhawatirList() {
               <div className="flex items-center justify-between pt-4 border-t border-navy-100">
                 <div className="text-xs text-navy-500 flex items-center gap-2">
                   <span>{localize(k.date, locale)}</span>
-                  <span className="text-gold-300">•</span>
-                  <span>{k.readingMinutes} {locale === 'ar' ? 'دقائق' : locale === 'ur' ? 'منٹ' : 'min'}</span>
+                  <span className="text-gold-300" aria-hidden="true">•</span>
+                  <span>{minutesLabel(k.readingMinutes)}</span>
                 </div>
                 <span className="inline-flex items-center gap-1 text-sm font-medium text-navy-600 group-hover:text-gold-500 transition-colors">
                   {readMore}

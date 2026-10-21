@@ -1,5 +1,42 @@
 import { NextRequest, NextResponse } from 'next/server';
 import { siteConfig } from '@/lib/site-config';
+import { FIELD_LIMITS, isValidEmail } from '@/lib/forms';
+
+/*
+ * NOTE (audit FORM-02): no page calls this handler. The live forms post
+ * from the browser straight to FormSubmit through lib/forms.ts because
+ * FormSubmit rejects server-side POSTs. This route is kept for a future
+ * Resend-based path and is hardened so it is safe if it is ever wired up:
+ * JSON-only, 16 KB body cap, per-field length limits, honeypot, e-mail
+ * format check and generic error bodies (no exception text to clients).
+ * Rate limiting needs the hosting layer (Vercel WAF / middleware with a
+ * shared store); an in-memory counter is not reliable on serverless.
+ */
+const MAX_BODY_BYTES = 16 * 1024;
+
+async function readJsonBody(req: NextRequest): Promise<Record<string, unknown> | Response> {
+  const ct = req.headers.get('content-type') || '';
+  if (!ct.toLowerCase().includes('application/json')) {
+    return NextResponse.json({ ok: false, error: 'unsupported media type' }, { status: 415 });
+  }
+  const declared = Number(req.headers.get('content-length') || '0');
+  if (declared > MAX_BODY_BYTES) {
+    return NextResponse.json({ ok: false, error: 'payload too large' }, { status: 413 });
+  }
+  const raw = await req.text();
+  if (new TextEncoder().encode(raw).length > MAX_BODY_BYTES) {
+    return NextResponse.json({ ok: false, error: 'payload too large' }, { status: 413 });
+  }
+  try {
+    const parsed = JSON.parse(raw);
+    if (!parsed || typeof parsed !== 'object' || Array.isArray(parsed)) throw new Error('shape');
+    return parsed as Record<string, unknown>;
+  } catch {
+    return NextResponse.json({ ok: false, error: 'invalid json' }, { status: 400 });
+  }
+}
+
+const str = (v: unknown, max: number) => (v == null ? '' : String(v)).trim().slice(0, max + 1);
 
 /**
  * استقبال تعليقات القرّاء على المقالات وإرسالها إلى بريد الشيخ للمراجعة.
@@ -25,20 +62,31 @@ function escapeHtml(s = ''): string {
 
 export async function POST(req: NextRequest) {
   try {
-    const body = await req.json();
+    const parsedBody = await readJsonBody(req);
+    if (parsedBody instanceof Response) return parsedBody;
+    const body = parsedBody;
 
     // مكافحة السبام (الحقل المخفي)
     if (body._honey) return NextResponse.json({ ok: true });
 
-    const name = (body.name || '').toString().trim();
-    const email = (body.email || '').toString().trim();
-    const comment = (body.comment || '').toString().trim();
-    const slug = (body.slug || '').toString().trim();
-    const articleTitle = (body.articleTitle || '').toString().trim();
-    const uiLang = (body.uiLang || '').toString().trim();
+    const name = str(body.name, FIELD_LIMITS.name);
+    const email = str(body.email, FIELD_LIMITS.email);
+    const comment = str(body.comment, FIELD_LIMITS.comment);
+    const slug = str(body.slug, 200);
+    const articleTitle = str(body.articleTitle, 300);
+    const uiLang = str(body.uiLang, 5);
 
     if (!name || !comment || !slug) {
       return NextResponse.json({ ok: false, error: 'missing fields' }, { status: 400 });
+    }
+    if (name.length > FIELD_LIMITS.name || comment.length > FIELD_LIMITS.comment || slug.length > 200) {
+      return NextResponse.json({ ok: false, error: 'field too long' }, { status: 400 });
+    }
+    if (!/^[a-z0-9-]+$/i.test(slug)) {
+      return NextResponse.json({ ok: false, error: 'invalid slug' }, { status: 400 });
+    }
+    if (email && !isValidEmail(email)) {
+      return NextResponse.json({ ok: false, error: 'invalid email' }, { status: 400 });
     }
 
     // نموذج JSON جاهز للصق في content/comments/<slug>.json عند الإقرار
@@ -127,6 +175,7 @@ export async function POST(req: NextRequest) {
     if (!r.ok) throw new Error('formsubmit failed ' + r.status);
     return NextResponse.json({ ok: true, via: 'formsubmit' });
   } catch (err) {
-    return NextResponse.json({ ok: false, error: String(err) }, { status: 500 });
+    console.error(`[api/${'comment'}] delivery failed:`, err instanceof Error ? err.message : 'unknown');
+    return NextResponse.json({ ok: false, error: 'delivery failed' }, { status: 502 });
   }
 }

@@ -1,33 +1,33 @@
 'use client';
 
-import { usePathname } from '@/i18n/routing';
-import { useLocale } from 'next-intl';
-import Link from 'next/link';
+import { useTranslations } from 'next-intl';
+import { Link, usePathname } from '@/i18n/routing';
 
+/**
+ * Floating "Ask the Sheikh" shortcut.
+ * - Uses the locale-aware Link so /es and /ur keep their prefix (NAV-01).
+ * - Sits on the inline-end side; ReadingTools sits on the inline-start side
+ *   and is lifted above this button on narrow screens, so the two never
+ *   overlap (ROOT-UI-01).
+ */
 export default function QAFloatingButton() {
   const pathname = usePathname();
-  const locale = useLocale();
-  const isRtl = locale === 'ar' || locale === 'ur';
+  const t = useTranslations('ui');
 
-  // Hide on the Q&A page itself
+  // Hide on the Q&A pages themselves
   if (pathname === '/qa' || pathname.startsWith('/qa/')) return null;
 
-  const label =
-    locale === 'ar' ? 'اسأل الشيخ' :
-    locale === 'ur' ? 'شیخ سے پوچھیں' :
-    locale === 'es' ? 'Pregunta al Jeque' :
-    'Ask the Sheikh';
+  const label = t('askSheikh');
 
   return (
     <Link
       href="/qa"
+      data-qa-fab=""
       className={
-        'fixed bottom-6 z-50 flex items-center gap-2 rounded-full shadow-lg no-underline print:hidden ' +
+        'fixed bottom-6 end-4 sm:end-6 z-50 flex min-h-[44px] items-center gap-2 rounded-full shadow-lg no-underline print:hidden ' +
         'bg-gold-400 hover:bg-gold-300 text-navy-900 font-semibold text-sm px-5 py-3 ' +
-        'transition-all duration-200 hover:scale-105 hover:shadow-xl ' +
-        (isRtl ? 'left-6' : 'right-6')
+        'transition-all duration-200 hover:scale-105 hover:shadow-xl'
       }
-      aria-label={label}
     >
       {/* Question mark icon */}
       <svg
