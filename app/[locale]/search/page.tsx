@@ -1,6 +1,7 @@
 import { setRequestLocale, getTranslations } from 'next-intl/server';
 import { useTranslations } from 'next-intl';
 import SearchBox from '@/components/SearchBox';
+import { pageMetadata } from '@/lib/seo';
 
 export async function generateMetadata({
   params,
@@ -9,9 +10,15 @@ export async function generateMetadata({
 }) {
   const { locale } = await params;
   const t = await getTranslations({ locale, namespace: 'search' });
-  return {
+  // Internal search results (any ?q= variant) are not indexable; links on
+  // the page are still followed. Canonical is the bare /search URL.
+  return pageMetadata({
+    locale,
+    path: '/search',
     title: `${t('title')} — ${locale === 'ar' ? 'د. أحمد أبو سيف' : locale === 'ur' ? 'ڈاکٹر احمد ابو سیف' : 'Dr. Ahmed Abouseif'}`,
-  };
+    description: t('subtitle'),
+    noindex: true,
+  });
 }
 
 export default async function SearchPage({
