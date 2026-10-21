@@ -10,7 +10,7 @@ import {
   researchCategoryLabels,
   type ResearchType,
 } from '@/lib/research';
-import { localize, type Loc } from '@/lib/articles';
+import { localize, type Loc } from '@/lib/localize';
 
 export default function ResearchList() {
   const t = useTranslations('research');

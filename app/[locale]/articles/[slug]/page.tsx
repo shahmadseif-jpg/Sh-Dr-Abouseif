@@ -176,6 +176,9 @@ export default async function ArticlePage({
                 alt={localize(meta.title, lang)}
                 width={1600}
                 height={1000}
+                // Column is max-w-3xl (768px) minus padding; without `sizes`
+                // the 2x candidate of width=1600 (w=3840) was fetched (PERF-04).
+                sizes="(min-width: 768px) 720px, calc(100vw - 32px)"
                 className="w-full h-auto object-cover"
                 priority
               />

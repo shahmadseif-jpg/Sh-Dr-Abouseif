@@ -51,19 +51,27 @@ export default function Hero() {
           <div className="lg:col-span-2">
             <div className="relative">
               <div className="aspect-[4/5] rounded-lg overflow-hidden bg-navy-100 border border-navy-200">
-                {/* LCP candidate on desktop. Only one rendition exists in
-                    /public, so no srcset; width/height + fetchPriority let the
-                    browser reserve space and fetch it early (PERF-03). */}
-                <img
-                  src="/dr-ahmed.jpg"
-                  alt={ui('siteOwner')}
-                  width={1127}
-                  height={1396}
-                  className="w-full h-full object-cover"
-                  loading="eager"
-                  decoding="async"
-                  {...{ fetchpriority: 'high' }}
-                />
+                {/* LCP element (mobile and desktop). WebP renditions generated
+                    from public/dr-ahmed.jpg (kept as the fallback and as the
+                    og:image) let the browser pick a width for the slot instead
+                    of always downloading the 1127px JPEG (PERF-03). */}
+                <picture className="block w-full h-full">
+                  <source
+                    type="image/webp"
+                    srcSet="/hero/dr-ahmed-480.webp 480w, /hero/dr-ahmed-720.webp 720w, /hero/dr-ahmed-960.webp 960w, /hero/dr-ahmed-1127.webp 1127w"
+                    sizes="(min-width: 1024px) 440px, (min-width: 640px) calc(100vw - 48px), calc(100vw - 32px)"
+                  />
+                  <img
+                    src="/dr-ahmed.jpg"
+                    alt={ui('siteOwner')}
+                    width={1127}
+                    height={1396}
+                    className="w-full h-full object-cover"
+                    loading="eager"
+                    decoding="async"
+                    {...{ fetchpriority: 'high' }}
+                  />
+                </picture>
               </div>
               <div className="absolute -bottom-3 -end-3 w-24 h-1 bg-gold-400" />
             </div>

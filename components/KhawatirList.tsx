@@ -1,48 +1,22 @@
-'use client';
-
+// Server component. Sorts and localizes the khawatir metadata on the server
+// and hands the client grid only what the current locale displays, so the
+// full four-language metadata (lib/khawatir.ts, ~540 kB of source) is no
+// longer shipped to the browser (PERF-02).
 import { useLocale, useTranslations } from 'next-intl';
 import Link from 'next/link';
-import { useState, useMemo } from 'react';
-import { khawatirMeta, prayerLabels, type Prayer } from '@/lib/khawatir';
-import { localize } from '@/lib/articles';
+import { khawatirMeta, prayerLabels } from '@/lib/khawatir';
+import { localize } from '@/lib/localize';
 import { published } from '@/lib/publish';
-
-type Filter = 'all' | Prayer;
+import KhawatirGrid, { type KhawatirCard } from './KhawatirGrid';
 
 export default function KhawatirList() {
   const locale = useLocale();
-  const pl = prayerLabels[locale as 'ar' | 'en' | 'es' | 'ur'] ?? prayerLabels.en;
   const t = useTranslations('khawatir');
   const ui = useTranslations('ui');
-  const [filter, setFilter] = useState<Filter>('all');
-
-  const readMore = ui('readReflection');
-  const containsVideo = ui('containsVideo');
-  const minutesLabel = (n: number) => ui('readingMinutes', { count: n, n: String(n) });
+  const pl = prayerLabels[locale as 'ar' | 'en' | 'es' | 'ur'] ?? prayerLabels.en;
 
   // Sort by date descending
-  const sorted = useMemo(
-    () =>
-      published(khawatirMeta)
-        .sort((a, b) => (a.isoDate < b.isoDate ? 1 : -1)),
-    []
-  );
-
-  const filtered = useMemo(
-    () => (filter === 'all' ? sorted : sorted.filter((k) => k.prayer === filter)),
-    [filter, sorted]
-  );
-
-  const allButtons: { value: Filter; label: string }[] = [
-    { value: 'all', label: t('filter_all') },
-    { value: 'fajr', label: pl.fajr },
-    { value: 'isha', label: pl.isha },
-    { value: 'dhuhr', label: pl.dhuhr },
-    { value: 'other', label: pl.other },
-  ];
-  const filterButtons = allButtons.filter(
-    (b) => b.value === 'all' || sorted.some((k) => k.prayer === b.value)
-  );
+  const sorted = published(khawatirMeta).sort((a, b) => (a.isoDate < b.isoDate ? 1 : -1));
 
   if (sorted.length === 0) {
     return (
@@ -52,96 +26,36 @@ export default function KhawatirList() {
     );
   }
 
+  const items: KhawatirCard[] = sorted.map((k) => ({
+    slug: k.slug,
+    prayer: k.prayer,
+    title: localize(k.title, locale),
+    excerpt: localize(k.excerpt, locale),
+    date: localize(k.date, locale),
+    minutes: ui('readingMinutes', { count: k.readingMinutes, n: String(k.readingMinutes) }),
+    hasVideo: !!k.videoUrl,
+  }));
+
   return (
     <>
-      {/* Filter tabs */}
-      <div className="flex flex-wrap items-center justify-center gap-2 mb-10">
-        {filterButtons.map((btn) => (
-          <button
-            type="button"
-            key={btn.value}
-            onClick={() => setFilter(btn.value)}
-            aria-pressed={filter === btn.value}
-            className={`min-h-[44px] px-4 py-2 text-sm rounded-md transition-colors border ${
-              filter === btn.value
-                ? 'bg-navy-600 text-white border-navy-600'
-                : 'bg-white text-navy-600 border-navy-200 hover:bg-navy-50'
-            }`}
-          >
-            {btn.label}
-          </button>
-        ))}
-      </div>
-
-      {/* Grid */}
-      <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
-        {filtered.map((k) => {
-          const isFajr = k.prayer === 'fajr';
-          return (
-            <Link
-              href={`/${locale}/khawatir/${k.slug}`}
-              key={k.slug}
-              className="bg-white border border-navy-100 rounded-lg p-6 card-hover flex flex-col group"
-            >
-              {/* Prayer badge */}
-              <div className="flex items-center justify-between mb-3">
-                <span
-                  className={`inline-flex items-center gap-1.5 px-2.5 py-1 text-xs font-medium rounded-full ${
-                    isFajr
-                      ? 'bg-gold-50 text-gold-700 border border-gold-200'
-                      : 'bg-navy-50 text-navy-700 border border-navy-200'
-                  }`}
-                >
-                  <span className="h-1.5 w-1.5 rounded-full bg-current opacity-60" aria-hidden="true" />
-                  {pl[k.prayer]}
-                </span>
-                {k.videoUrl && (
-                  <span
-                    className="text-navy-500 group-hover:text-gold-500 transition-colors"
-                    title={containsVideo}
-                  >
-                    <span className="sr-only">{containsVideo}</span>
-                    <svg width="18" height="18" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true">
-                      <path d="M8 5v14l11-7z" />
-                    </svg>
-                  </span>
-                )}
-              </div>
-
-              {/* Title */}
-              <h3 className="text-lg font-medium text-navy-700 leading-snug mb-3 group-hover:text-gold-600 transition-colors">
-                {localize(k.title, locale)}
-              </h3>
-
-              {/* Excerpt */}
-              <p className="text-sm text-navy-600 leading-relaxed mb-4 line-clamp-4 flex-1">
-                {localize(k.excerpt, locale)}
-              </p>
-
-              {/* Footer */}
-              <div className="flex items-center justify-between pt-4 border-t border-navy-100">
-                <div className="text-xs text-navy-500 flex items-center gap-2">
-                  <span>{localize(k.date, locale)}</span>
-                  <span className="text-gold-300" aria-hidden="true">•</span>
-                  <span>{minutesLabel(k.readingMinutes)}</span>
-                </div>
-                <span className="inline-flex items-center gap-1 text-sm font-medium text-navy-600 group-hover:text-gold-500 transition-colors">
-                  {readMore}
-                  <svg width="14" height="14" viewBox="0 0 14 14" fill="none" stroke="currentColor" strokeWidth="2" aria-hidden="true">
-                    {locale === 'ar' || locale === 'ur' ? <path d="M9 3L5 7l4 4" /> : <path d="M5 3l4 4-4 4" />}
-                  </svg>
-                </span>
-              </div>
-            </Link>
-          );
-        })}
-      </div>
-
-      {filtered.length === 0 && (
-        <div className="text-center py-12">
-          <p className="text-navy-500">{t('no_khawatir_in_filter')}</p>
-        </div>
-      )}
+      <KhawatirGrid items={items} prayerLabels={{ ...pl }} />
+      {/* Without JavaScript only the first page of cards is visible, so a
+          plain index of every reflection is kept in the HTML for no-JS
+          readers and crawlers. With scripting on, <noscript> content is not
+          parsed into DOM nodes and costs nothing at runtime. */}
+      <noscript>
+        <section className="mt-12">
+          <h2 className="text-xl font-medium text-navy-700 mb-4">{t('index_heading')}</h2>
+          <ul className="space-y-2">
+            {items.map((k) => (
+              <li key={k.slug}>
+                <Link href={`/${locale}/khawatir/${k.slug}`}>{k.title}</Link>
+                <span className="text-xs text-navy-500"> — {k.date}</span>
+              </li>
+            ))}
+          </ul>
+        </section>
+      </noscript>
     </>
   );
 }

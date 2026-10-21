@@ -116,7 +116,11 @@
     "subtitle": "Transcripciones de breves reflexiones pronunciadas tras las oraciones y en encuentros generales",
     "filter_all": "Todo",
     "no_khawatir": "Aún no se han publicado reflexiones. Vuelve pronto.",
-    "no_khawatir_in_filter": "No hay reflexiones en esta categoría."
+    "no_khawatir_in_filter": "No hay reflexiones en esta categoría.",
+    "showing": "Se muestran {shown} de {total}",
+    "show_more": "Mostrar más",
+    "show_all": "Mostrar todas",
+    "index_heading": "Índice de todas las reflexiones"
   },
   "khawatir_page": {
     "back_to_khawatir": "Volver a las reflexiones",
