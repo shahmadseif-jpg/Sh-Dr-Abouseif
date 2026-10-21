@@ -28,7 +28,7 @@ En su origen lingüístico, pues, la sabiduría no es mero conocimiento o inform
 
 ### La sabiduría es dar en la verdad, no solo conocerla
 
-En *al-Mufradāt fī Gharīb al-Qurʾan*, al-Rāghib al-Aṣfahānī formuló una definición completa de la sabiduría, coherente con la raíz lingüística que acabamos de ver. Es, dice, «dar en la verdad mediante el conocimiento y la razón». Y precisa que la sabiduría, atribuida a Dios, es «conocimiento de las cosas y su existencia en la más alta perfección», y atribuida al hombre, «conocimiento de lo existente y obrar el bien».[^2]
+En *al-Mufradāt fī Gharīb al-Qurʾan*, al-Rāghib al-Aṣfahānī formuló una definición completa de la sabiduría, coherente con la raíz lingüística que acabamos de ver. Es, dice, «dar en la verdad mediante el conocimiento y la razón». Y precisa que la sabiduría, atribuida a Dios, es «conocimiento de las cosas y su creación en la más alta perfección», y atribuida al hombre, «conocimiento de lo existente y obrar el bien».[^2]
 
 El término «dar» (*iṣāba*, literalmente «acertar») es deliberado, no superfluo. Acertar supone una diana que se alcanza, un lugar correcto que se busca, y no la mera posesión teórica de la información correcta. Una persona puede conocer la verdad y, sin embargo, no dar con ella en el lugar que le conviene: la dice a destiempo o la ejecuta de manera inadecuada, y así yerra el blanco aunque haya dado con el conocimiento. Todo esto concuerda con la imagen del freno. El freno no impide al caballo moverse, sino que orienta su movimiento hacia donde debe ir. Del mismo modo, la sabiduría no veda a su poseedor el saber, sino que dirige su saber hacia donde acierta y no hacia donde se extravía.
 

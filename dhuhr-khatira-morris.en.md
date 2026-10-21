@@ -6,8 +6,8 @@ locale: "en"
 slug: "dhuhr-khatira-morris"
 readingMinutes: 3
 ---
-> المناسبة: تفريغ خاطرة بعد صلاة الظهر أُلقيت في المركز الإسلامي بمدينة موريس بتاريخ 4 سبتمبر 2022م   
-> المصدر: تفريغ خاطرة مرئية للدكتور أحمد أبو سيف، [مشاهدة الفيديو الأصلي على يوتيوب](https://www.youtube.com/watch?v=MW3HbvcDbnE)
+> Occasion: Transcription of a khatira delivered after the Dhuhr prayer at the Islamic Center in the city of Morris on 4 September 2022   
+> Source: A transcription of a video khatira by Dr. Ahmed Abouseif — [Watch the original video on YouTube](https://www.youtube.com/watch?v=MW3HbvcDbnE)
 
 Dear brothers, we are really pleased and honored to be with you today. Did anyone pray with us earlier today? A different audience, different people, perhaps. The prayer we have just said is a blessing from Allah. Allah chose us to start the day with the morning prayer, with obedience to Him. So do we not need to continue and complete our day at the same level of obedience? Alhamdulillah, we started the day with prayer, and now we are praying again.
 

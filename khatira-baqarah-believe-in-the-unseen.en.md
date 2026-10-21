@@ -6,8 +6,8 @@ locale: "en"
 slug: "khatira-baqarah-believe-in-the-unseen"
 readingMinutes: 3
 ---
-> المناسبة: تفريغ خاطرة فجر أُلقيت بتاريخ 23 مارس 2026م   
-> المصدر: تفريغ خاطرة مرئية للدكتور أحمد أبو سيف، [مشاهدة الفيديو الأصلي على يوتيوب](https://www.youtube.com/watch?v=7ur9ovfovDA)
+> Occasion: Transcription of a Fajr khatira delivered on 23 March 2026   
+> Source: A transcription of a video khatira by Dr. Ahmed Abouseif — [Watch the original video on YouTube](https://www.youtube.com/watch?v=7ur9ovfovDA)
 
 We open with a supplication: that God set right our religion, our worldly life and our hereafter; prepare for us right guidance in our affairs; bless us in what He has provided; protect us from the punishment of the Fire; and turn away from us the causes of punishment in this world and the next, out of His mercy, pleasure, generosity and kindness.
 

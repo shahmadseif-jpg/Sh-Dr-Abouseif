@@ -25,7 +25,7 @@ La gente comparte la visión del edificio, pero difieren en la recepción del se
 
 No todo el que vio la Kaaba la contempló. Y no todo el que dio vueltas en torno a la Casa hizo girar su corazón con Dios. Y no todo el que rezó hacia la alquibla hizo que su corazón se orientara hacia ella.
 
-El ojo ve las piedras y el manto, pero el corazón contempla la majestad y el sentido. ¡Y cuánta diferencia hay entre aquel sobre quien cayó la mirada en la Casa y aquel en cuyo corazón cayó la Casa! Es la diferencia entre la visión y la clarividencia, y entre que tu pie llegue al lugar y que el lugar llegue a tu alma.
+El ojo ve las piedras y el manto, pero el corazón contempla la majestad y el sentido. ¡Y cuánta diferencia hay entre aquel cuya mirada cayó sobre la Casa y aquel en cuyo corazón cayó la Casa! Es la diferencia entre la visión y la clarividencia, y entre que tu pie llegue al lugar y que el lugar llegue a tu alma.
 
 ---
 

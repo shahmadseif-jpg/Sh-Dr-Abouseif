@@ -14,7 +14,7 @@ Abū Bakr (que Dios esté complacido con él) vio unas canas en la barba del Pro
 
 *«Me han encanecido Hūd y sus hermanas.»*[^1]
 
-¿Qué aleya de la sura de Hūd tuvo un peso tal que dibujó las canas en el rostro de quien no habla por simple deseo? Según más de uno de los comentaristas de este hadiz, la respuesta es una sola aleya:
+¿Qué aleya de la sura de Hūd tuvo un peso tal que dibujó las canas en el rostro de quien no habla por simple deseo? Según la mayoría de quienes han comentado este hadiz, la respuesta es una sola aleya:
 
 ﴿فَاسْتَقِمْ كَمَا أُمِرْتَ وَمَنْ تَابَ مَعَكَ وَلَا تَطْغَوْا﴾ (11:112)
 
