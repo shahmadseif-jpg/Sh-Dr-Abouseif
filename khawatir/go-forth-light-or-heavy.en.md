@@ -14,7 +14,7 @@ The verses opened today with the saying of the Lord of the worlds, exalted is He
 
 > ﴿Go forth, light or heavy, and strive with your wealth and yourselves in the path of Allah — that is better for you﴾.
 
-It is as though the Lord of the worlds is telling us: there is no excuse for anyone. The human being is between two states: either he is in ease, or he is in hardship. In both cases he is commanded to strive, with no excuse to lag behind.
+It is as though the Lord of the worlds is telling us: there is no excuse for anyone. The human being is between two states: either he is in ease, or he is in hardship. In both cases he is commanded to strive, with no excuse to lag behind.[^1]
 
 Imagine — may Allah be good to you — a soldier on the battlefield. Could he come and say, "By Allah, conditions are hard, I cannot continue the fight"? Move forward, dear one — wherever you are, however you are. There is no excuse for you to lag behind your first mission in this life: that you are on the field of battle, and you must engage the goals laid before you.
 
@@ -37,3 +37,6 @@ The outcome rests with Allah; the results are in His hands, exalted is He; and t
 I ask Allah the Most High, the All-Powerful, to bless for us a resolve we ask Him to place in our souls — that He not hold it back in any state — and to grant us a sincerity with which we may meet Him on the Day of meeting. O Allah, accept this prayer.
 
 May Allah reward you with good, bless you, and be pleased with you. And peace be upon you, and the mercy of Allah and His blessings.
+
+---
+[^1]: Editor's note: Denying any excuse here is an urging to overcome inner discouragement; as for those with genuine excuses, Allah lifted blame from them in the same surah: ﴿لَّيْسَ عَلَى الضُّعَفَاءِ وَلَا عَلَى الْمَرْضَىٰ وَلَا عَلَى الَّذِينَ لَا يَجِدُونَ مَا يُنفِقُونَ حَرَجٌ إِذَا نَصَحُوا لِلَّهِ وَرَسُولِهِ﴾ ("There is no blame upon the weak, nor upon the sick, nor upon those who find nothing to spend, if they are sincere to Allah and His Messenger") [al-Tawbah: 91].

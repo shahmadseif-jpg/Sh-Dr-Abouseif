@@ -14,7 +14,7 @@ Las aleyas se abrieron hoy con nosotros con el dicho del Señor de los mundos, g
 
 > ﴾Partid, ligeros o pesados, y esforzaos con vuestros bienes y vuestras personas en la senda de Dios —eso es mejor para vosotros﴿.
 
-Es como si el Señor de los mundos, glorificado sea, nos dijera que no hay excusa para nadie. Pues el ser humano está entre dos estados: o está en la holgura, o está en la dificultad, y en ambos casos se le ordena el esfuerzo, sin que tenga excusa para rezagarse.
+Es como si el Señor de los mundos, glorificado sea, nos dijera que no hay excusa para nadie. Pues el ser humano está entre dos estados: o está en la holgura, o está en la dificultad, y en ambos casos se le ordena el esfuerzo, sin que tenga excusa para rezagarse.[^1]
 
 Imaginad —que Dios os agracie— cuando hay un soldado en una batalla: ¿acaso puede venir y decir: «por Dios, las condiciones son duras y no puedo completar el combate»? Avanza, querido mío, dondequiera que estés, allá donde estés, comoquiera que estés; no hay excusa para que te rezagues de tu primera misión en esta vida, que es que estás en el campo de batalla y has de acometer las metas que tienes ante ti.
 
@@ -37,3 +37,6 @@ Pues el desenlace está en Dios, y los resultados están en Su mano, glorificado
 Pido a Dios, el Altísimo, el Poderoso, que bendiga para nosotros unos anhelos que Le pedimos deposite en nuestras almas, que no los desanime en ningún estado, y que nos provea una sinceridad con la que Lo encontremos el Día de Su encuentro. ¡Oh, Dios! Amén.
 
 Que Dios os recompense con el bien, que Dios os bendiga, y que Dios esté complacido con vosotros. Y la paz sea con vosotros, y la misericordia de Dios y Sus bendiciones.
+
+---
+[^1]: Nota del editor: Negar toda excusa es aquí una exhortación a vencer el desánimo interior; a quienes tienen excusas reales Dios los eximió de culpa en la misma sura: ﴿لَّيْسَ عَلَى الضُّعَفَاءِ وَلَا عَلَى الْمَرْضَىٰ وَلَا عَلَى الَّذِينَ لَا يَجِدُونَ مَا يُنفِقُونَ حَرَجٌ إِذَا نَصَحُوا لِلَّهِ وَرَسُولِهِ﴾ («No hay culpa sobre los débiles, ni sobre los enfermos, ni sobre quienes no encuentran qué gastar, si son sinceros con Dios y Su Mensajero») [al-Tawba: 91].
