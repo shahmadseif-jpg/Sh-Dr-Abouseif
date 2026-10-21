@@ -8,7 +8,7 @@ slug: "tazkiyah-in-quran-growth-through-purification"
 
 Por el Dr. Ahmed Muhammad Ali Abouseif, presidente de la American Imams Academy (AIA)
 
-La sura al-Shams se abre con una cadena de juramentos sin igual en todo el Corán: por el sol y su resplandor, por la luna cuando lo sigue, por el día cuando lo descubre, por la noche cuando lo cubre, por el cielo y Quien lo edificó, por la tierra y Quien la extendió. Siete juramentos cósmicos sucesivos, que retratan el universo en sus aspectos más grandiosos[^4]: la luz tras la luz, la tiniebla tras la tiniebla, el edificio alzado sobre la llanura. Luego, tras esta vasta asamblea de la majestad de la creación, el pasaje desciende de pronto al punto más pequeño imaginable: el alma de un solo ser humano.
+La sura al-Shams se abre con una cadena de juramentos sin igual en todo el Corán: por el sol y su resplandor, por la luna cuando lo sigue, por el día cuando lo descubre, por la noche cuando lo cubre, por el cielo y Quien lo edificó, por la tierra y Quien la extendió. Seis juramentos cósmicos sucesivos, que retratan el universo en sus aspectos más grandiosos[^4]: la luz tras la luz, la tiniebla tras la tiniebla, el edificio alzado sobre la llanura. Luego, tras esta vasta asamblea de la majestad de la creación, el pasaje desciende de pronto al punto más pequeño imaginable: el alma de un solo ser humano.
 
 ﴿وَنَفْسٍ وَمَا سَوَّاهَا، فَأَلْهَمَهَا فُجُورَهَا وَتَقْوَاهَا، قَدْ أَفْلَحَ مَنْ زَكَّاهَا، وَقَدْ خَابَ مَنْ دَسَّاهَا﴾ (91:7-10)
 
@@ -20,7 +20,7 @@ Este acto, la *tazkiya*, es el tema de este artículo en la serie de conceptos c
 
 ### La raíz y su recuento
 
-La raíz z-k-w aparece en el Corán cincuenta y nueve veces, en siete formas: una vez como el verbo triliteral *zakā* (24:21); doce veces como el verbo de la segunda forma, *zakkā* (entre ellas 2:129, 2:151, 3:164, 4:49, 9:103, 91:9); ocho veces como el verbo de la quinta forma, *tazakkā* (20:76; 35:18, dos veces; 79:18; 80:3; 80:7; 87:14; 92:18); cuatro veces como el elativo *azkā* (2:232, 18:19, 24:28, 24:30); treinta y dos veces como el nombre *zakāh*, que por sí solo supone más de la mitad de las apariciones de toda la raíz; una vez como el adjetivo *zakiyy* (19:19, que describe a Yaḥyā, la paz sea con él)[^3]; y una vez como el nombre *zakiyya* (18:74, en la historia de al-Jiḍr).[^2]
+La raíz z-k-w aparece en el Corán cincuenta y nueve veces, en siete formas: una vez como el verbo triliteral *zakā* (24:21); doce veces como el verbo de la segunda forma, *zakkā* (entre ellas 2:129, 2:151, 3:164, 4:49, 9:103, 91:9); ocho veces como el verbo de la quinta forma, *tazakkā* (20:76; 35:18, dos veces; 79:18; 80:3; 80:7; 87:14; 92:18); cuatro veces como el elativo *azkā* (2:232, 18:19, 24:28, 24:30); treinta y dos veces como el nombre *zakāh*, que por sí solo supone más de la mitad de las apariciones de toda la raíz; una vez como el adjetivo *zakiyy* (19:19, en la buena nueva de ʿĪsā dada a Maryam, la paz sea con ellos)[^3]; y una vez como el nombre *zakiyya* (18:74, en la historia de al-Jiḍr).[^2]
 
 Esta distribución es significativa por sí misma para el método. Treinta y dos de las cincuenta y nueve apariciones se orientan a la *zakāh* en su sentido jurídico concreto (la limosna obligatoria, la mayoría de las veces emparejada con la oración), mientras que las veintisiete restantes se reparten en formas verbales que describen el proceso de la *tazkiya* como un acto que atañe al alma y no a los bienes. Este artículo trata ambas ramas juntas, porque la raíz única que las une es la clave de la comprensión, como se verá.
 
@@ -50,7 +50,7 @@ El esfuerzo por la tazkiya es, pues, un deber del siervo (*tazakkā* es un acto 
 
 ### Dos modelos adicionales: un nombre y un alma
 
-Esta raíz encierra otras dos señales que merecen una pausa. La primera está en la historia de Yaḥyā (la paz sea con él), en el relato de la buena nueva dada a Zakariyyā de un niño al que Dios describe con un solo atributo: ﴿إِنَّا نُبَشِّرُكَ بِغُلَامٍ اسْمُهُ يَحْيَىٰ﴾ (19:7), y luego, en otro lugar y en boca de Gabriel, ﴿لِأَهَبَ لَكِ غُلَامًا زَكِيًّا﴾ (19:19),[^3] «para concederte un niño puro».
+Esta raíz encierra otras dos señales que merecen una pausa. La primera está en la sura Maryam: tras la buena nueva de Yaḥyā dada a Zakariyyā (la paz sea con ellos), ﴿يَا زَكَرِيَّا إِنَّا نُبَشِّرُكَ بِغُلَامٍ اسْمُهُ يَحْيَىٰ﴾ (19:7), viene la buena nueva de ʿĪsā dada a Maryam (la paz sea con ellos) en boca de Gabriel, en la que el niño prometido es descrito con un solo atributo: ﴿لِأَهَبَ لَكِ غُلَامًا زَكِيًّا﴾ (19:19),[^3] «para concederte un niño puro».
 
 El atributo elegido, cuando aún es solo una promesa, antes de nacer, de alcanzar la edad adulta o de ser probado, es *zakiyy*, «puro». Aquí la tazkiya parece anterior a toda acción humana, un don inicial de Dios a un siervo que Él ha elegido para portar la profecía, y no el producto de un esfuerzo acumulado solamente. Esto no contradice lo que se dedujo de que la tazkiya se exige al siervo (*tazakkā*); añade otra dimensión: a algunos siervos se les concede la raíz de la pureza como don anticipado, de modo que su esfuerzo posterior es un edificar sobre un cimiento y no un fundar de la nada.
 
@@ -66,7 +66,7 @@ Aquí Moisés llama al alma *zakiyya* según un criterio puramente exterior: que
 
 Una descripción triple de la misión del Mensajero ﷺ se repite en el Corán, en forma casi idéntica, en cuatro lugares:
 
-﴿يَتْلُو عَلَيْهِمْ آيَاتِهِ وَيُزَكِّيهِمْ وَيُعَلِّمُهُمُ الْكِتَابَ وَالْحِكْمَةَ﴾ (2:129; y de modo semejante 2:151, 3:164, 62:2)
+﴿يَتْلُو عَلَيْهِمْ آيَاتِهِ وَيُزَكِّيهِمْ وَيُعَلِّمُهُمُ الْكِتَابَ وَالْحِكْمَةَ﴾ (3:164, 62:2; y de modo semejante 2:151). En cambio, en la súplica de Ibrāhīm (la paz sea con él) (2:129) la enseñanza precede a la purificación: ﴿يَتْلُو عَلَيْهِمْ آيَاتِكَ وَيُعَلِّمُهُمُ الْكِتَابَ وَالْحِكْمَةَ وَيُزَكِّيهِمْ﴾ («que les recite Tus aleyas, les enseñe el Libro y la sabiduría y los purifique»). Así, en tres de los cuatro lugares el orden es el siguiente.
 
 *«Les recita Sus aleyas, los purifica y les enseña el Libro y la sabiduría.»*
 
@@ -98,7 +98,7 @@ El segundo es que una persona suponga suficiente su propio testimonio de rectitu
 
 Hay también aquí un mensaje para quien gasta dinero o tiempo que considera perdidos: la *zakāh*, por su propia raíz, enseña que el dar que parece merma es a menudo la condición oculta del verdadero crecimiento, en la riqueza como en el alma.
 
-Y la escena de Yaḥyā (la paz sea con él) sirve de recordatorio a quien educa hijos o tiene a otros a su cargo: cierta disposición para la pureza se concede pronto, como don y no como adquisición, y la tarea del educador es menos plantar la pureza de la nada que proteger lo ya dado y no sepultarlo, que es el sentido mismo contra el que advierte la aleya ﴿وَقَدْ خَابَ مَنْ دَسَّاهَا﴾. Cuánta sana disposición innata ha sido sepultada, no porque no existiera, sino porque quienes la rodeaban la trataron con descuido o dureza hasta enterrarla.
+Y la escena de esta buena nueva sirve de recordatorio a quien educa hijos o tiene a otros a su cargo: cierta disposición para la pureza se concede pronto, como don y no como adquisición, y la tarea del educador es menos plantar la pureza de la nada que proteger lo ya dado y no sepultarlo, que es el sentido mismo contra el que advierte la aleya ﴿وَقَدْ خَابَ مَنْ دَسَّاهَا﴾. Cuánta sana disposición innata ha sido sepultada, no porque no existiera, sino porque quienes la rodeaban la trataron con descuido o dureza hasta enterrarla.
 
 ### Conclusión
 
@@ -108,5 +108,5 @@ Desde un juramento cósmico por el sol y la luna hasta una callada súplica prof
 
 [^1]: Lo transmitió Muslim en su *Ṣaḥīḥ*, Libro del Recuerdo y la Súplica, n.º 2722, por vía de Zayd ibn Arqam (que Dios esté complacido con él).
 [^2]: Todas las cifras de las apariciones de la raíz z-k-w y sus siete formas están tomadas del Corpus Coránico Árabe (corpus.quran.com): una vez *zakā* (triliteral), 12 *zakkā* (segunda forma), 8 *tazakkā* (quinta forma), 4 *azkā* (elativo), 32 *zakāh*, 1 *zakiyy*, 1 *zakiyya*.
-[^3]: Documentación del editor: El conferenciante presenta «لِأَهَبَ لَكِ غُلَامًا زَكِيًّا» («para concederte un niño puro», 19:19) como descripción de Yaḥyā (la paz sea con él) en la buena nueva dada a Zakariyyā, y lo mismo en el recuento de la raíz al inicio del artículo. En las obras de tafsīr, el versículo es la palabra del ángel dirigida a Maryam (la paz sea con ella), como en Ibn Kaṯīr («فقال لها الملك مجيبًا لها ومزيلًا ما حصل عندها من الخوف» — «le dijo el ángel, respondiéndole y disipando el temor que la había invadido») y en al-Ṭabarī («إنما أنا رسول ربك يا مريم أرسلني إليك» — «solo soy el mensajero de tu Señor, oh Maryam, enviado a ti»); el niño anunciado es su hijo, al que el Corán nombra en el mismo pasaje: «ذَٰلِكَ عِيسَى ابْنُ مَرْيَمَ» («Ese es ʿĪsā, hijo de Maryam», 19:34). La buena nueva de Yaḥyā a Zakariyyā está en 19:7.
-[^4]: Documentación del editor: El conferenciante habla de «siete juramentos cósmicos»; antes del alma se nombran seis (sol, luna, día, noche, cielo, tierra) y el alma es el séptimo de la serie de juramentos (al-Shams 91:1–7), de modo que el número siete vale para toda la serie, no solo para los juramentos cósmicos.
+[^3]: Documentación del editor: El texto presentaba antes «لِأَهَبَ لَكِ غُلَامًا زَكِيًّا» («para concederte un niño puro», 19:19) como descripción de Yaḥyā (la paz sea con él) en la buena nueva dada a Zakariyyā, y lo mismo en el recuento de la raíz al inicio del artículo; se ha corregido en todos los lugares según lo siguiente. En las obras de tafsīr, el versículo es la palabra del ángel dirigida a Maryam (la paz sea con ella), como en Ibn Kaṯīr («فقال لها الملك مجيبًا لها ومزيلًا ما حصل عندها من الخوف» — «le dijo el ángel, respondiéndole y disipando el temor que la había invadido») y en al-Ṭabarī («إنما أنا رسول ربك يا مريم أرسلني إليك» — «solo soy el mensajero de tu Señor, oh Maryam, enviado a ti»); el niño anunciado es su hijo, al que el Corán nombra en el mismo pasaje: «ذَٰلِكَ عِيسَى ابْنُ مَرْيَمَ» («Ese es ʿĪsā, hijo de Maryam», 19:34). La buena nueva de Yaḥyā a Zakariyyā está en 19:7.
+[^4]: Documentación del editor: El texto hablaba antes de «siete juramentos cósmicos», corregido a seis; antes del alma se nombran seis (sol, luna, día, noche, cielo, tierra) y el alma es el séptimo de la serie de juramentos (al-Shams 91:1–7), de modo que el número siete vale para toda la serie, no solo para los juramentos cósmicos.

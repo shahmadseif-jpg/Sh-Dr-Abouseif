@@ -148,7 +148,7 @@ And may Allah's blessings, peace, and benedictions be upon our Prophet Muḥamma
 
 [^3]: A well-known report in the works recording the biography of ʿUmar (may Allah be pleased with him), including *al-Zuhd* by Imam Aḥmad and *Ḥilyat al-Awliyāʾ* by Abū Nuʿaym. Transmitted with various close wordings.
 
-[^4]: A renowned report in the works of biography and *rijāl*, transmitted by more than one chain from Sufyān al-Thawrī describing Wakīʿ ibn al-Jarrāḥ.
+[^4]: A renowned report in the works of biography and *rijāl*, transmitted by more than one narrator from Sufyān al-Thawrī describing Wakīʿ ibn al-Jarrāḥ.
 
 [^5]: Reported by al-Bayhaqī in *Shuʿab al-Īmān* (519) from Mālik ibn Dīnār. It has several close paths.
 

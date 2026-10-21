@@ -20,7 +20,7 @@ El remordimiento es, en la tawba coránica, una de sus condiciones (como dice el
 
 ### El recuento: una estructura única que no se ramifica
 
-La raíz t-w-b aparece en el Corán ochenta y siete veces, en siete formas: el verbo *tāba* y sus conjugaciones, sesenta y tres veces, con mucho la mayor parte; el participio activo femenino *tāʾibāt*, una vez (66:5); el nombre verbal *tawb*, una vez (40:3); el nombre *tawba*, siete veces; *matāb*, dos; el participio plural *tāʾibūn*, una vez (9:112); y la forma intensiva *tawwāb*, doce veces, siempre como atributo de Dios.
+La raíz t-w-b aparece en el Corán ochenta y siete veces, en siete formas: el verbo *tāba* y sus conjugaciones, sesenta y tres veces, con mucho la mayor parte; el participio activo femenino *tāʾibāt*, una vez (66:5); el nombre verbal *tawb*, una vez (40:3); el nombre *tawba*, siete veces; *matāb*, dos; el participio plural *tāʾibūn*, una vez (9:112); y la forma intensiva *tawwāb*, doce veces, once de ellas como atributo de Dios y una en plural describiendo a los siervos arrepentidos: ﴿إِنَّ اللَّهَ يُحِبُّ التَّوَّابِينَ﴾ («Dios ama a los que se arrepienten sin cesar», 2:222).
 
 A diferencia de otras raíces de esta serie, como la *amāna*, que se entrelazó con una raíz mucho más amplia, la raíz t-w-b queda aquí nítidamente acotada: cada aparición es testimonio léxico directo del concepto de tawba, sin necesidad de separarla de un sentido vecino.
 
@@ -36,7 +36,7 @@ Adán, el primero de quien procedió la desobediencia y el primero de quien proc
 
 Nótese que la aleya no dice «y Adán se arrepintió», sino «y Él se volvió hacia él»: el que se volvió, en la forma aparente del verbo, es Dios. En el Corán, por tanto, la tawba no es un solo movimiento en una dirección, sino dos retornos que se encuentran: el del siervo y el de Dios hacia Su siervo.
 
-Por eso «al-Tawwāb» es uno de los nombres de Dios que con más frecuencia aparecen en relación con esta raíz, doce veces. Es una forma intensiva que indica repetición: Dios no se vuelve hacia Su siervo una vez y luego se aparta; cada vez que el siervo regresa, Dios regresa hacia él, por muchas veces que se repitan los pecados.
+Por eso «al-Tawwāb» es uno de los nombres de Dios que con más frecuencia aparecen en relación con esta raíz, once veces. Es una forma intensiva que indica repetición: Dios no se vuelve hacia Su siervo una vez y luego se aparta; cada vez que el siervo regresa, Dios regresa hacia él, por muchas veces que se repitan los pecados.
 
 ### La precedencia de la gracia: cuando Dios se mueve primero
 

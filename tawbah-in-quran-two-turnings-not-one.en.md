@@ -20,7 +20,7 @@ Remorse is, in Qurʾanic tawbah, one of its conditions (as the hadith has it: «
 
 ### The Occurrences: A Single Structure That Does Not Branch
 
-The root t-w-b occurs in the Qurʾan eighty-seven times, in seven forms: the verb *tāba* and its conjugations sixty-three times, by far the greater part; the feminine active participle *tāʾibāt* once (66:5); the verbal noun *tawb* once (40:3); the noun *tawbah* seven times; *matāb* twice; the plural participle *tāʾibūn* once (9:112); and the intensive form *tawwāb* twelve times, always as an attribute of God.
+The root t-w-b occurs in the Qurʾan eighty-seven times, in seven forms: the verb *tāba* and its conjugations sixty-three times, by far the greater part; the feminine active participle *tāʾibāt* once (66:5); the verbal noun *tawb* once (40:3); the noun *tawbah* seven times; *matāb* twice; the plural participle *tāʾibūn* once (9:112); and the intensive form *tawwāb* twelve times, eleven of them as an attribute of God and once in the plural describing repentant servants: ﴿إِنَّ اللَّهَ يُحِبُّ التَّوَّابِينَ﴾ ("Indeed, God loves those who constantly repent," 2:222).
 
 Unlike other roots in this series, such as *amānah*, which became entangled with a far wider root, the root t-w-b is clearly bounded here: every occurrence is a direct lexical witness to the concept of tawbah, with no need to separate it from a neighboring sense.
 
@@ -36,7 +36,7 @@ Adam, the first from whom disobedience came and the first from whom repentance c
 
 Notice that the verse does not say "and Adam repented," but "and He turned toward him": the one who turned, in the apparent form of the verb here, is God. In the Qurʾan, then, tawbah is not a single movement in one direction, but two turnings that meet: the servant's turning, and God's turning toward His servant.
 
-For this reason "al-Tawwāb" is among the names of God that most often occur in connection with this root, twelve times. It is an intensive form that signifies repetition: God does not turn toward His servant once and then withdraw; each time the servant returns, God returns toward him, however often the sins are repeated.
+For this reason "al-Tawwāb" is among the names of God that most often occur in connection with this root, eleven times. It is an intensive form that signifies repetition: God does not turn toward His servant once and then withdraw; each time the servant returns, God returns toward him, however often the sins are repeated.
 
 ### The Priority of Grace: When God Moves First
 

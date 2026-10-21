@@ -33,7 +33,7 @@ Como si el Mensajero de Dios (la paz sea con él) no quisiera que el concepto de
 
 #### 1. **El ser humano virtuoso** — los jóvenes de la Caverna
 
-En la historia de los jóvenes vemos **el recurso humano** sobre el que se sostienen las naciones: jóvenes que portan la fe, el valor y la disposición al sacrificio, aquellos sobre cuyos hombros no puede sostenerse una civilización verdadera sino. Dijo el Altísimo: «**En verdad, eran unos jóvenes que creyeron en su Señor, y les aumentamos en guía**»[^2]. Y la presentación del Corán de su historia al comienzo de la sura es una indicación elocuente de que toda construcción civilizatoria que no parta del ser humano creyente armado con una guía aumentada es una construcción sin fundamento.
+En la historia de los jóvenes vemos **el recurso humano** sobre el que se sostienen las naciones: jóvenes que portan la fe, el valor y la disposición al sacrificio, aquellos sin cuyos hombros no puede sostenerse ninguna civilización verdadera. Dijo el Altísimo: «**En verdad, eran unos jóvenes que creyeron en su Señor, y les aumentamos en guía**»[^2]. Y la presentación del Corán de su historia al comienzo de la sura es una indicación elocuente de que toda construcción civilizatoria que no parta del ser humano creyente armado con una guía aumentada es una construcción sin fundamento.
 
 #### 2. **El dinero recto** — el dueño de los dos jardines
 

@@ -52,7 +52,7 @@ El Corán concede un título especial a muy pocos: *ṣiddīq*, forma intensiva 
 
 *«Y recuerda en el Libro a Abraham. Era un hombre de absoluta veracidad (ṣiddīq), un profeta.»*
 
-Idrīs recibe, literalmente, la misma descripción (19:56). El título se da también a la madre de María (o, según otra lectura, a la propia María):
+Idrīs recibe, literalmente, la misma descripción (19:56). El título se da también a María, la madre del Mesías (la paz sea con ellos):
 
 ﴿وَأُمُّهُ صِدِّيقَةٌ﴾ (5:75)
 
@@ -90,7 +90,7 @@ Abraham elevó a su Señor una súplica admirable:
 
 *«Y concédeme una lengua de verdad entre las generaciones venideras.»*
 
-Pedía, es decir, un legado veraz que perdurara en labios de quienes vinieran después, para ser recordado solo tal como realmente fue. La misma construcción reaparece en otros lugares: «una entrada de verdad» y «una salida de verdad» (17:80), y «una lengua de verdad sublime» (19:50), que el texto árabe atribuye a Juan. Añade una dimensión hasta ahora no advertida: el ṣidq no se limita a la conformidad de la palabra con la realidad en el momento de pronunciarla, sino que se extiende a la conformidad del recuerdo con la realidad después de la partida de su dueño.
+Pedía, es decir, un legado veraz que perdurara en labios de quienes vinieran después, para ser recordado solo tal como realmente fue. La misma construcción reaparece en otros lugares: «una entrada de verdad» y «una salida de verdad» (17:80), y «una lengua de verdad sublime» (19:50), concedida a Abraham, Isaac y Jacob (la paz sea con ellos). Añade una dimensión hasta ahora no advertida: el ṣidq no se limita a la conformidad de la palabra con la realidad en el momento de pronunciarla, sino que se extiende a la conformidad del recuerdo con la realidad después de la partida de su dueño.
 
 Quien vivió con veracidad lega una memoria veraz; quien contradijo su interior con su exterior deja una traición cuyas huellas salen a la luz, aunque sea con el tiempo. El ṣidq, en el orden coránico, no es una virtud momentánea que se mide por una sola postura, sino un tejido continuo que se extiende desde la primera palabra de un hombre hasta la última que pervive en la memoria de los demás.
 

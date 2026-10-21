@@ -45,7 +45,7 @@ The verse ends by saying that he is not among the *mushrikin*, those who associa
 
 So to understand this position we must understand Ibrahim, peace be upon him. He left everything for his Lord, even his son and his wife, in a desert. When Allah asked him to take them there, he said yes, without any discussion, hesitation, or doubt. He did only what Allah asked. And she asked him: how can you leave us here with nobody around? Is it Allah who ordered you to do this? He said yes. She said: no problem. Then no problem. She had nothing but her heart, and it was connected with the Lord; they were worshipping Him, glory be to Him.
 
-I am only trying to grasp the position of Ibrahim, walking away and leaving his little boy and his wife in the middle of nowhere. He keeps walking, looking behind him at the road, and once in a while looking back at them. What is going to happen to them? But his belief in Allah was stronger than any fear. He had nothing except the order, and he had to carry it out without a question.
+I am only trying to grasp the position of Ibrahim, walking away and leaving his little boy and his wife in the middle of nowhere. He keeps walking, looking at the road ahead of him, and once in a while looking back at them. What is going to happen to them? But his belief in Allah was stronger than any fear. He had nothing except the order, and he had to carry it out without a question.
 
 I ask Allah to guide us to that level of faith and to keep that faith in our hearts. Peace be upon you.
 

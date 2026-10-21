@@ -76,7 +76,7 @@ We see **Dāwūd, peace be upon him**, the model of the ruler who preserves the 
 
 ### The Opposite: Tyrants Who Shatter the Backs of Civilizations
 
-In counterpoint, the Qur'an narrates to us the accounts of the tyrants who demolished civilizations through their oppression, arrogance, and fabrications: **Pharaoh**, who transgressed and claimed divinity; **Qārūn**, who exalted himself with his wealth until Allah caused the earth to swallow him and his dwelling; and **Hāmān**, who placed his intelligence in the service of injustice. All of these embody **the antithesis of civilization's pillars**: oppressive leadership, corrupting wealth, and knowledge in the hand of the arrogant. The Qur'an thus affirms that the fall of nations does not begin with weakness of wealth or scarcity of weapons — **it begins when the human being is corrupted from within**.
+In counterpoint, the Qur'an narrates to us the accounts of the tyrants who demolished civilizations through their oppression, arrogance, and fabrications: **Pharaoh**, who transgressed and claimed divinity; **Qārūn**, who put his knowledge and his wealth in the service of his arrogance, saying: ﴿إِنَّمَا أُوتِيتُهُ عَلَىٰ عِلْمٍ عِندِي﴾ ("I was given it only because of knowledge I have"), so Allah caused the earth to swallow him and his dwelling; and **Hāmān**, who harnessed his engineering to reinforce the tyrant's throne. All of these embody **the antithesis of civilization's pillars**: oppressive leadership, corrupting wealth, and knowledge in the hand of the arrogant. The Qur'an thus affirms that the fall of nations does not begin with weakness of wealth or scarcity of weapons — **it begins when the human being is corrupted from within**.
 
 ---
 
@@ -84,7 +84,7 @@ In counterpoint, the Qur'an narrates to us the accounts of the tyrants who demol
 
 Civilization in the Qur'anic perspective is not merely material progress, nor abundance in production, nor height of buildings — it is, rather, **the proper making of the human**: the human who knows his Lord, treats his family with excellence, masters his craft, preserves justice, and inhabits the earth with the spirit of ethics and meaning. When this human is absent, the towers remain standing, but civilization has already fallen.
 
-Perhaps the greatest distinction of the Qur'an is that it never separated worship from life. Rather, it made **prayer a light for movement**, **remembrance a fuel for work**, **the family a nucleus for society**, **knowledge a path to construction**, and **values a soul that protects all of this from collapse**.
+Perhaps the greatest distinction of the Qur'an is that it never separated worship from life. Rather, it made **prayer a light for movement**, **knowledge a path to construction**, and **values a soul that protects all of this from collapse**.
 
 From here begins the foundation of civilization in the Qur'an: not from political chambers alone, nor from abstract economic theories, but from that human who stood at dawn before his Lord, **then descended thereafter to inhabit the earth with the light of revelation**.
 

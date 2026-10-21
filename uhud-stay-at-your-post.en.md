@@ -6,7 +6,7 @@ locale: "en"
 slug: "uhud-stay-at-your-post"
 readingMinutes: 22
 ---
-> المناسبة: تفريغ محاضرة أُلقيت في Woodbridge بتاريخ 27 أغسطس 2026م ضمن سلسلة «الأهداف التربوية في القصص القرآني»   
+> Occasion: Transcription of a lecture delivered in Woodbridge on 27 August 2026, part of the series "Educational Aims in the Qur'anic Stories"   
 > Source: transcription of a recorded lecture by Dr. Ahmed Abouseif — [watch the original video on YouTube](https://www.youtube.com/watch?v=EbOuV-pzQJw)
 
 Alhamdulillah. We ask Allah to give us the blessing of tranquility and to guide our hearts to the straight path.
@@ -89,7 +89,7 @@ I am going to ask again. Does everyone here consider himself a messenger of the 
 
 The question that follows is this. If you do, you need to have the same amount he had. How many times did he take time off to stay home, or to go on a field trip, climbing somewhere, hunting here and there? How many weekends did he take? How many days off? You are still there? How many days? Nobody answered me. Zero. A big zero, nothing. He was working during the days and the nights. Twenty-four seven. Best answer. Are we doing that? Anybody here, including myself? Anybody who considers himself a messenger of the Messenger ﷺ?
 
-Once in a while Allah asks the Prophet ﷺ a very clear question. Listen to that question.[^5] Are you killing yourself because they are not Muslims yet? Imagine somebody who is burning because he wants every single person around him to come to Islam, and who cannot see anyone going toward the hellfire. One time he ﷺ was crying because a funeral passed by him, and the people asked, “O Messenger of Allah, why are you crying? He is not a Muslim.” He said, “I am crying because he is not a Muslim. I missed one of the people, and he is going to the fire because of my shortcoming.”[^6] Do you think the Prophet Muḥammad ﷺ had any kind of shortcoming? Even so, he blamed himself for any minute in which he missed giving the message to the other people around him. This is the feeling of responsibility.
+Once in a while Allah asks the Prophet ﷺ a very clear question. Listen to that question.[^5] Are you killing yourself because they are not Muslims yet? Imagine somebody who is burning because he wants every single person around him to come to Islam, and who cannot see anyone going toward the hellfire. One time he ﷺ was crying because a funeral passed by him, and the people asked, “O Messenger of Allah, why are you crying? He is not a Muslim.” He said, “I am crying because he is not a Muslim. I missed one of the people, and he is going to the fire because of my shortcoming.”[^6] [Editor's note: this report has not been found in any source, and its attribution to the Prophet ﷺ is not established; see the note.] Do you think the Prophet Muḥammad ﷺ had any kind of shortcoming? Even so, he blamed himself for any minute in which he missed giving the message to the other people around him. This is the feeling of responsibility.
 
 ### The two groups that almost failed
 

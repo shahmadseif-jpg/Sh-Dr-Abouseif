@@ -28,4 +28,4 @@ God willing, blessed and exalted, I ask Allah, the Most High, the Almighty, to g
 ---
 [^1]: Editor's documentation: al-Tawba: 67. The correct wording in the verse is «فنسيهم».
 [^2]: Editor's documentation: al-Muzzammil: 1–4 and 20. The completion of «من فضل» in the verse is ﴿مِن فَضْلِ اللَّهِ﴾.
-[^3]: Editor's documentation: al-Muzzammil: 20. His mention of "seeking forgiveness" (istighfār) in the body refers to ﴿وَاسْتَغْفِرُوا اللَّهَ﴾.
+[^3]: Editor's documentation: al-Muzzammil: 20.
