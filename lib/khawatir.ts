@@ -3,6 +3,8 @@
  * For file content loading (uses fs), see lib/khawatir-server.ts
  */
 
+import { findPublished, published } from './publish';
+
 export type Prayer = 'fajr' | 'isha' | 'dhuhr' | 'other';
 
 export interface KhatraMeta {
@@ -38,7 +40,7 @@ export const khawatirMeta: KhatraMeta[] = [
       ar: 'خاطرة فجر — لا عُذرَ لأَحَدٍ في التَّخَلُّف عن السَّعي',
       en: 'A Fajr reflection — No excuse for anyone to lag behind in striving',
       es: 'Una reflexión del Fajr — Ninguna excusa para nadie de rezagarse en el esfuerzo',
-      ur: 'فجر کی خاطر — سعی میں پیچھے رہنے کا کوئی عذر نہیں',
+      ur: 'فجر کا ایک مختصر تأمل — سعی میں پیچھے رہنے کا کوئی عذر نہیں',
     },
     excerpt: {
       ar: 'تأمُّلٌ في قول الله تعالى ﴿انفِروا خِفافاً وثِقالاً﴾: لا عُذرَ لأَحَدٍ في يُسرٍ أو عُسر، وأن قضيَّة الانبعاث قضيَّةٌ نفسيَّةٌ قبل أن تكون مادِّيَّة. فإذا كَرِهَ الله انبعاثَ أقوامٍ ثبَّطهم؛ والمؤمنُ يَمضي حيثُما كان، فالعاقبةُ عند الله والمُجازي ربُّ العزَّة.',
@@ -64,7 +66,7 @@ export const khawatirMeta: KhatraMeta[] = [
       ar: 'خاطرة فجر — تأمُّل في حديث «لا يَنظُرُ إلى أَجسامِكُم ولكن إلى قُلوبِكُم وأَعمالِكُم»',
       en: "A Fajr reflection on the hadith 'Allah does not look at your bodies, but at your hearts and your deeds'",
       es: 'Una reflexión del Fajr sobre el hadiz «Dios no mira vuestros cuerpos, sino vuestros corazones y vuestras obras»',
-      ur: 'فجر کی خاطر — حدیث «وَلَكِنْ يَنظُرُ إلى قُلُوبِكُمْ وَأَعمَالِكُمْ» پر تأمل',
+      ur: 'فجر کا ایک مختصر تأمل — حدیث «وَلَكِنْ يَنظُرُ إلى قُلُوبِكُمْ وَأَعمَالِكُمْ» پر',
     },
     excerpt: {
       ar: 'في حديث أبي هريرة رضي الله عنه: «إنَّ اللهَ لا يَنظُرُ إلى أَجسامِكُم ولا إلى صُوَرِكُم، ولكِنْ يَنظُرُ إلى قُلوبِكُم وأَعمالِكُم». تأمُّلٌ في الرُّكنَين اللَّذَين لا يَستَغني المُؤمِنُ عن أَحَدِهِما: النِّيَّةِ في القَلب، والعَمَلِ الَّذي يُثمِر في الحياة. فما المُؤمِنُ إلَّا أَداةٌ لفِعلِ الطَّيِّباتِ وإِنجازِ الصَّالِحات.',
@@ -2892,13 +2894,13 @@ export const khawatirMeta: KhatraMeta[] = [
   },
 ];
 
+/** Published khatra by slug (drafts resolve to undefined — see lib/publish.ts). */
 export function getKhatraMeta(slug: string): KhatraMeta | undefined {
-  return khawatirMeta.find((k) => k.slug === slug);
+  return findPublished(khawatirMeta, slug);
 }
 
 export function getAllKhawatir(): KhatraMeta[] {
-  return [...khawatirMeta]
-    .filter((k) => !k.draft)
+  return published(khawatirMeta)
     .sort((a, b) => (a.isoDate < b.isoDate ? 1 : -1));
 }
 
@@ -2907,25 +2909,25 @@ export const prayerLabels = {
     fajr: 'الفَجر',
     isha: 'العِشاء',
     dhuhr: 'الظُّهر',
-    other: 'خاطرة',
+    other: 'لقاءات عامة',
   },
   en: {
     fajr: 'Fajr',
     isha: 'Isha',
     dhuhr: 'Dhuhr',
-    other: 'Reflection',
+    other: 'General gatherings',
   },
   es: {
     fajr: 'Fajr',
     isha: 'Isha',
     dhuhr: 'Dhuhr',
-    other: 'Reflexión',
+    other: 'Encuentros generales',
   },
   ur: {
     fajr: 'فجر',
     isha: 'عشاء',
     dhuhr: 'ظہر',
-    other: 'خاطرہ',
+    other: 'عمومی نشستیں',
   },
 } as const;
 

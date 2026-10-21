@@ -4,21 +4,13 @@
  */
 
 import { lectureArticlesMeta } from './lectures-meta';
+import { findPublished, published } from './publish';
 
 export type ArticleCategory = 'imamship' | 'civilization' | 'family' | 'fiqh' | 'wisdom-insights' | 'maqasid-tafsir' | 'prophetic-light' | 'quranic-concepts';
 
-/** Supported site locales. */
-export type Loc = 'ar' | 'en' | 'es' | 'ur';
-
-/** A localized string. `es` and `ur` are optional; Arabic is the canonical fallback. */
-export type LocalizedText = { ar: string; en: string; es?: string; ur?: string };
-
-/** Pick the value for a locale, gracefully falling back to Arabic then English. */
-export function localize(text: LocalizedText | undefined, locale: string): string {
-  if (!text) return '';
-  const v = (text as Record<string, string | undefined>)[locale];
-  return v ?? text.ar ?? text.en;
-}
+import type { Loc, LocalizedText } from './localize';
+export { localize } from './localize';
+export type { Loc, LocalizedText } from './localize';
 
 export interface ArticleMeta {
   slug: string;
@@ -496,11 +488,13 @@ export const articlesMeta: ArticleMeta[] = [
       ar: 'حين يُذكَرُ الفضلُ في مقامِ الزلّة، فيتحوّلُ الرجلُ من موطنِ احتقارٍ إلى موطنِ نَفير',
       en: 'When merit is recalled at the moment of the slip, and a man is turned from an object of contempt into a rallying point',
       es: 'Cuando se recuerda el mérito en el momento del tropiezo, y un hombre pasa de ser objeto de desprecio a punto de reunión',
+      ur: "جب لغزش کے موقع پر فضیلت یاد دلائی جائے، تو آدمی حقارت کے مقام سے نصرت کے مقام پر آ جاتا ہے",
     },
     excerpt: {
       ar: 'في النفسِ خَصلةٌ عجيبة: تُبصِرُ النقطةَ السوداءَ في الثوبِ الأبيض، ولا تكادُ تُبصِرُ الثوب. مقالٌ في أدبِ الأمّة مع زلّاتِ أهلِ الفضل — من مشهدِ حاطبِ بن أبي بَلْتعة، حيث لم يَقِهِ النبيُّ ﷺ السيفَ فحسب بل وقاه الاغتيالَ المعنويّ فذكَر بدراً حيث أُريد أن يُذكَر الخِزي، إلى قاعدةِ الذهبيِّ في أنّ كثيرَ الصوابِ يُغفَرُ زللُه ولا تُطّرَحُ محاسنُه — مع موازينَ تَحفظُ البابَ من أن يَنفتِحَ على كلِّ ريح: فلا إقالةَ في الحدود، ولا في حقوقِ الخلق، ولا مع الإصرار، ولا إسقاطَ للنصيحة.',
       en: 'The soul has a strange habit: it sees the black speck on the white robe, and scarcely sees the robe. An essay on how a community should meet the lapses of those of merit — from the scene of Ḥāṭib ibn Abī Baltaʿa, where the Prophet ﷺ shielded him not only from the sword but from character assassination, invoking Badr where disgrace was meant to be invoked, to al-Dhahabī\'s rule that one whose correctness is abundant is forgiven his slips and whose merits are not discarded — with balances that keep the door from swinging open to every wind: no overlooking of prescribed punishments, nor of the rights of others, nor with persistence in error, nor at the cost of sincere counsel.',
       es: 'El alma tiene una costumbre extraña: ve la mancha negra en el manto blanco y apenas ve el manto. Un ensayo sobre cómo la comunidad debe recibir los tropiezos de los hombres de mérito — desde la escena de Ḥāṭib ibn Abī Baltaʿa, donde el Profeta ﷺ no solo lo protegió de la espada sino del asesinato moral, hasta la regla de al-Dhahabī: a quien abunda en aciertos se le perdonan sus tropiezos y no se descartan sus méritos — con balanzas que impiden que la puerta se abra a todo viento.',
+      ur: "نفس میں ایک عجیب خصلت ہے: وہ سفید کپڑے پر سیاہ دھبہ دیکھ لیتا ہے مگر کپڑے کو مشکل ہی سے دیکھتا ہے۔ اہلِ فضل کی لغزشوں کے ساتھ امت کے ادب پر ایک مقالہ — حاطب بن ابی بلتعہ کے واقعے سے، جہاں نبی ﷺ نے انہیں صرف تلوار سے نہیں بچایا بلکہ معنوی قتل سے بھی بچایا اور جہاں رسوائی کا ذکر مقصود تھا وہاں بدر کا ذکر کیا، امام ذہبی کے اس قاعدے تک کہ جس کی درستیاں زیادہ ہوں اس کی لغزش معاف کی جاتی ہے اور اس کی خوبیاں رد نہیں کی جاتیں — ان میزانوں کے ساتھ جو اس دروازے کو ہر ہوا کے لیے کھل جانے سے بچاتی ہیں: نہ حدود میں درگزر ہے، نہ مخلوق کے حقوق میں، نہ اصرار کے ساتھ، اور نہ اس سے نصیحت ساقط ہوتی ہے۔",
     },
   },
   // ===== مقال مفرد: مفهوم الرسالة من خلال سورة البقرة (سُجِّل 2026-07-12) =====
@@ -1441,7 +1435,7 @@ export const articlesMeta: ArticleMeta[] = [
     slug: 'sermon-essay-or-stance',
     category: 'imamship',
     isoDate: '2026-07-06',
-    date: { ar: '٦ يوليو ٢٠٢٦', en: 'July 6, 2026', ur: '۶ جولائی ۲۰۲۶ء' },
+    date: { ar: '٦ يوليو ٢٠٢٦', en: 'July 6, 2026', ur: '۶ جولائی ۲۰۲۶ء', es: "6 de julio de 2026" },
     readingMinutes: 17,
     series: {
       ar: 'قَضايا الإمام',
@@ -1451,16 +1445,19 @@ export const articlesMeta: ArticleMeta[] = [
     title: {
       ar: 'خطبتك: مقالٌ أم مقام؟',
       en: 'Your Sermon: An Essay or a Stance?',
+      es: "Oh, venerable imán… tu sermón: ¿un ensayo o una postura?",
       ur: 'اے محترم امام… آپ کا خطبہ: ایک مضمون ہے یا ایک موقف؟',
     },
     subtitle: {
       ar: 'بين مَن يبحث عن عنوانٍ لجمعته، ومَن يحمل مشروعًا لصناعة إنسان',
       en: 'Between the One Who Searches for a Friday Topic and the One Who Carries a Project for Building the Human',
+      es: "Entre quien busca un tema para el viernes y quien lleva un proyecto para construir al ser humano",
       ur: 'جمعے کا موضوع ڈھونڈنے والے اور انسان کی تعمیر کا منصوبہ رکھنے والے کے درمیان',
     },
     excerpt: {
       ar: 'الفرق شاسع بين خطيبٍ يبحث كل أسبوع عن «عنوان» يملأ به دقائق الخطبة، وخطيبٍ يحمل «مشروعًا» تكون كل خطبةٍ لبنةً في بنائه. الأول يسأل: ماذا أقول؟ والثاني يسأل: ماذا أصنع؟ هذه الحلقة الثالثة من «قَضايا الإمام» تكشف أزمة المنبر في فهم وظيفته، وترسم ثلاث درجات لمشروع صناعة الإنسان (الجزئية، الهوية، السلوك)، وتستأنس بالنموذج النبوي، ثم تقدِّم خمس خطوات عملية لتحويل المنبر من منصة إلقاءٍ إلى ورشة بناء.',
       en: 'The gap is vast between a preacher who searches each week for a "topic" to fill the sermon\'s minutes, and a preacher who carries a "project" — one in which every sermon is a brick in a building. The first asks: What do I say? The second asks: What do I build? This third episode of "Issues of the Imam" exposes the pulpit\'s crisis of purpose, maps three degrees of the project for building the human (the trait, the identity, the conduct), draws on the Prophetic model, and offers five practical steps for turning the pulpit from a platform of delivery into a workshop of building.',
+      es: "La distancia es enorme entre el predicador que busca cada semana un «tema» con el que llenar los minutos del sermón y el predicador que lleva consigo un «proyecto» en el que cada sermón es un ladrillo de su construcción. El primero pregunta: ¿qué digo? El segundo pregunta: ¿qué construyo? Esta tercera entrega de «Cuestiones del imam» expone la crisis del púlpito en la comprensión de su función, traza tres grados del proyecto de formación del ser humano (el rasgo concreto, la identidad, la conducta), se apoya en el modelo profético y ofrece cinco pasos prácticos para convertir el púlpito de una tribuna de discursos en un taller de construcción.",
       ur: 'ہر ہفتے خطبے کے منٹ بھرنے کو "موضوع" تلاش کرنے والے اور "منصوبہ" رکھنے والے خطیب کے درمیان زمین آسمان کا فرق ہے۔ پہلا پوچھتا ہے: کیا کہوں؟ دوسرا پوچھتا ہے: کیا بنائوں؟ «قضایا الإمام» کی تیسری قسط منبر کے بحران کا تجزیہ کرتی، انسان سازی کے منصوبے کی تین درجات بیان کرتی، نبوی نمونے سے رہنمائی لیتی، اور منبر کو پلیٹ فارم سے تعمیر کی ورکشاپ میں بدلنے کے پانچ عملی قدم پیش کرتی ہے۔',
     },
   },
@@ -1482,6 +1479,7 @@ export const articlesMeta: ArticleMeta[] = [
       ar: 'جمعُ النصوصِ والربطُ بينها: فنُّ درايةٍ يصونُ بيانَ الإمامِ من بَتْرِ المعاني',
       en: "Gathering the texts and connecting them: an art of understanding that guards the imam's exposition from the severing of meanings",
       es: 'Reunir los textos y conectarlos: un arte de comprensión que protege la exposición del imam de la mutilación de los significados',
+      ur: "نصوص کو جمع کرنا اور ان کے درمیان ربط قائم کرنا: درایت کا ایک فن جو امام کے بیان کو معانی کی قطع و برید سے بچاتا ہے",
     },
     excerpt: {
       ar: 'من أخطر ما يعتري الخطاب المنبري اليوم آفةُ الاجتزاء: روايةٌ واحدةٌ من حديثٍ له روايات، أو آيةٌ مقطوعةٌ عن سياقها ونظائرها، فيخرج المعنى مبتورًا وربما فُهم منه خلافُ مراد الشارع. تحريرٌ لفنِّ «جمع النصوص والربط بينها»، وتأصيلُه من الوحي وأقوالِ الأئمة، وستةُ أمثلةٍ تطبيقية، وثلاثةُ نماذجَ من واقعنا في الغرب، وخمسُ خطواتٍ عمليةٍ قبل صعود المنبر.',
@@ -1509,6 +1507,7 @@ export const articlesMeta: ArticleMeta[] = [
       ar: 'من بناءِ البقرة إلى صيانةِ آل عمران',
       en: 'From the Building of al-Baqara to the Guarding of Āl ʿImrān',
       es: 'De la edificación de al-Baqara a la custodia de Āl ʿImrān',
+      ur: "البقرہ کی تعمیر سے آلِ عمران کی حفاظت تک",
     },
     excerpt: {
       ar: 'سورتان تُقبِلان على العبد يوم القيامة كغمامتين تُظلّانه: البقرةُ وآلُ عمران، «الزهراوان». الحلقةُ الافتتاحيّةُ لسلسلة «النداءات الإيمانية» تكشف نَسَبَهما في المعنى — البقرةُ بناءٌ («افعلوا»)، وآلُ عمران حراسةٌ («لا تفعلوا») — عبر قراءةِ نداءات «يا أيها الذين آمنوا» الثمانيةَ عشرَ في ضوء علم المناسبات.',
@@ -1534,6 +1533,7 @@ export const articlesMeta: ArticleMeta[] = [
       ar: 'في الصبر على أذى الأقران، وأنّ كلامَ الأقران يُطوى ولا يُروى',
       en: 'On patient endurance of the harm of peers, and that the talk of peers is folded, not retold',
       es: 'Sobre la paciencia ante el agravio de los pares, y que la crítica entre pares se pliega y no se transmite',
+      ur: "ہم عصروں کی ایذا پر صبر، اور یہ کہ ہم عصروں کی ایک دوسرے کے بارے میں باتیں لپیٹ دی جاتی ہیں، روایت نہیں کی جاتیں",
     },
     excerpt: {
       ar: 'ما جُرحٌ كجُرحِ الكلمةِ تخرج من فمِ قريب. تأمّلٌ تربويٌّ في الصبر على أذى الأقران، يرتكز على آية ﴿قُلْ كُلٌّ يَعْمَلُ عَلَى شَاكِلَتِهِ﴾ وقاعدةِ النُّقّاد «كلامُ الأقران يُطوى ولا يُروى»، ويسوق من سِيَر البخاريِّ وأحمدَ والطبريِّ وابنِ حبّان شواهدَ أنّ الزَّبَد يذهب جُفاءً وأنّ العلمَ الخالصَ يَبقى — مع ميزانٍ يحفظ بابَ النصيحة الصادقة.',
@@ -1559,6 +1559,7 @@ export const articlesMeta: ArticleMeta[] = [
       ar: 'كيف تدور أطولُ سُوَر القرآن على آيةٍ واحدة: ﴿ادْخُلُوا فِي السِّلْمِ كَافَّةً﴾',
       en: 'How the longest sūra of the Qurʾan turns upon a single verse: ﴿Enter into peace wholly﴾',
       es: 'Cómo la sura más larga del Corán gira en torno a una sola aleya: ﴿Entrad en la paz por completo﴾',
+      ur: "قرآن کی سب سے طویل سورت کیسے ایک ہی آیت کے گرد گھومتی ہے: ﴿ادْخُلُوا فِي السِّلْمِ كَافَّةً﴾",
     },
     excerpt: {
       ar: 'في أطولِ سُوَر القرآن يقف نداءٌ جامع: ﴿ادْخُلُوا فِي السِّلْمِ كَافَّةً﴾؛ فما قبله تأسيسٌ وبناءُ أركان، وما بعده توجيهٌ وتربيةٌ وصيانة. قراءةٌ مقاصديّةٌ بنيويّةٌ تكشف سورةَ البقرة بناءً واحداً مُحكَماً يدور على «الدخول في الدِّين كلِّه» لا في أبعاضه.',
@@ -1578,7 +1579,7 @@ export const articlesMeta: ArticleMeta[] = [
     episode: 1,
     title: { ar: 'المصلحون لا يكفّون عن المحاولة', en: 'Reformers Never Cease to Try', es: 'Los reformadores no cesan de intentarlo',
       ur: 'مصلحون کبھی کوشش نہیں چھوڑتے', },
-    subtitle: { ar: 'فقه الثبات وطول النفس في مسيرة الإصلاح', en: 'The Jurisprudence of Steadfastness and Perseverance on the Path of Reform', es: 'La jurisprudencia de la constancia y la perseverancia en el camino de la reforma' },
+    subtitle: { ar: 'فقه الثبات وطول النفس في مسيرة الإصلاح', en: 'The Jurisprudence of Steadfastness and Perseverance on the Path of Reform', es: 'La jurisprudencia de la constancia y la perseverancia en el camino de la reforma', ur: "اصلاح کے سفر میں ثابت قدمی اور طویل صبر کی فقہ" },
     excerpt: { ar: 'ليس الإصلاح صرخةً عابرة، ولا خطبةً مؤثرة، بل هو غرسٌ طويل، ومحاولةٌ تتبعها محاولة، حتى يأذن الله. فالمصلح كُلِّف بالبلاغ لا بصناعة الهداية؛ يزرع ولا يملك الحصاد، ويبقى على الثغر لا لأنّ الناس أنصفوه، بل لأنّ الله أقامه فيه — قبسٌ من نور النبوّة في فقه الثبات.', en: "Reform is no passing cry, no stirring sermon, but a long planting — an attempt followed by an attempt until God permits the fruit. The reformer is charged with conveyance, not with manufacturing guidance; he sows without owning the harvest, and holds his post not because people were fair to him, but because God stationed him there.", es: 'La reforma no es un grito pasajero ni un sermón conmovedor, sino una siembra prolongada: un intento al que sigue otro hasta que Dios permite el fruto. Al reformador le incumbe la transmisión, no fabricar la guía; siembra sin poseer la cosecha y permanece en su puesto no porque la gente fuera justa con él, sino porque Dios lo estableció allí.', ur: 'اصلاح نہ کوئی گزرتی پکار ہے، نہ کوئی اثر کرنے والا خطبہ — بلکہ یہ ایک طویل بیج بونا ہے، ایک کوشش کے بعد دوسری کوشش، یہاں تک کہ اللہ اجازت دے۔ مصلح کو تبلیغ کا فریضہ سونپا گیا ہے، ہدایت بنانے کا نہیں؛ وہ بوتا ہے مگر فصل کا مالک نہیں؛ اور اپنی جگہ پر ڈٹا رہتا ہے نہ اس لیے کہ لوگوں نے اس کے ساتھ انصاف کیا، بلکہ اس لیے کہ اللہ نے اسے وہاں کھڑا کیا — ثبات کی فقہ میں نبوی نور کی ایک جھلک۔' },
     coverImage: '/articles/reformers-never-cease/cover.jpg',
   },
@@ -1599,6 +1600,7 @@ export const articlesMeta: ArticleMeta[] = [
       ar: "خريطةٌ للنفوس قبل المعترك: كيف عرّف الوحيُ النبيَّ ﷺ بأنماط الناس ليُحسِن تبليغَهم",
       en: "How revelation gave the Prophet ﷺ a map of human souls before the encounter, making the discernment of temperaments the foundation of every caller's success",
       es: "Cómo la Revelación enseñó al Profeta ﷺ a leer los corazones antes de transmitirles los textos de la fe",
+      ur: "معرکے سے پہلے نفوس کا نقشہ: وحی نے نبی ﷺ کو لوگوں کے مزاجوں سے کیسے آگاہ کیا تاکہ آپ ان تک بہترین انداز میں پیغام پہنچائیں",
     },
     excerpt: {
       ar: "في مستهلّ العهد المدنيّ، عرّف اللهُ نبيَّه ﷺ بأصناف الناس الذين سيخالطهم — مؤمنين وكافرين ومنافقين — فكان أوّلَ ما تلقّاه خريطةٌ للنفوس لا للأرض. مقالٌ مقاصديٌّ يقرّر أنّ فقه الطبائع ليس فضيلةً بل واجبٌ يتوقّف عليه نجاحُ التبليغ، مؤصِّلًا له بآية ﴿وما أرسلنا من رسول إلا بلسان قومه﴾ وشواهدِ السيرة، وكاشفًا أنّ للقرآن في تصنيف النفوس أصلًا سابقًا وأعمقَ ممّا انتهى إليه علمُ النفس الحديث: تصنيفٌ يستهدف الشفاء لا حبسَ الناس في أنماطهم.",
@@ -1625,6 +1627,7 @@ export const articlesMeta: ArticleMeta[] = [
       ar: "دراسةٌ قرآنيّةٌ في ماهيّة التقوى ومواطنِها ووظائفِها وميزانِها",
       en: "A Qurʾanic study of taqwā — its true nature, its proper places, its functions, and its scale as the measure of human worth",
       es: "De la mera repetición de una palabra a la posesión de su verdad: esencia, ámbitos, funciones y balanza de la piedad consciente",
+      ur: "تقویٰ کی حقیقت، اس کے مواقع، اس کے وظائف اور اس کی میزان پر ایک قرآنی مطالعہ",
     },
     excerpt: {
       ar: "ما من كلمةٍ أكثرُ دورانًا على الألسنة من «التقوى»، ولا أقلُّ منها تحديدًا في الأذهان. دراسةٌ قرآنيّةٌ تُحرّرها من الضبابيّة، فتقرّر أنّ لها ماهيّةً مضبوطة (طاعةٌ وذِكرٌ وشكر)، ومواطنَ تخصُّصٍ تنطق عندها — كلُّ نقطة انفلاتٍ يغيب فيها الرقيب: المال، والطلاق، والشهادة، والقوّة — ووظائفَ في نظم الآي، ومعيارًا تُوزَن به الكرامة. فالتقوى أخلاقُ القادر وطاقةُ البناء، لا خشوعَ العاجز ولا رعبًا يُقعِد الهِمم.",
@@ -1643,7 +1646,7 @@ export const articlesMeta: ArticleMeta[] = [
     readingMinutes: 6,
     title: { ar: "الصحابة وصناعة الوعي العلمي", en: "The Companions and the Making of Scholarly Awareness", es: "Los Compañeros y la formación de la conciencia científica",
       ur: 'صحابہ کرام اور علمی شعور کی تشکیل', },
-    subtitle: { ar: "كيف حمل الجيلُ الأول ميراثَ النبوّة؟", en: "How the first generation bore the inheritance of prophethood", es: "¿Cómo portó la primera generación la herencia de la profecía?" },
+    subtitle: { ar: "كيف حمل الجيلُ الأول ميراثَ النبوّة؟", en: "How the first generation bore the inheritance of prophethood", es: "¿Cómo portó la primera generación la herencia de la profecía?", ur: "پہلی نسل نے نبوت کی میراث کیسے اٹھائی؟" },
     excerpt: { ar: "لم يكن العلمُ عند الصحابة ترفًا عقليًّا، بل أصلَ الدين وروحَ الرسالة. قراءةٌ في منهجٍ جمع بين شرف التلقّي وصدق الفهم وأمانة النقل وعلوّ الهمّة — من أثر ابن مسعود في العلم والعمل، إلى رحلة جابرٍ شهرًا في حديثٍ واحد، وتواضع ابن عباس — حتى صار العلمُ مشروعًا حضاريًّا لصناعة الإنسان.", en: "For the Companions, knowledge was no intellectual luxury but the very root of the religion and the spirit of the message. A reading of a method that joined honorable reception, sincere understanding, faithful transmission, and lofty resolve — from Ibn Masʿūd on knowledge-and-action, to Jābir's month-long journey for a single hadith, to Ibn ʿAbbās's humility — until knowledge became a civilizational project for shaping the human being.", es: "Para los Compañeros, el saber no era un lujo intelectual, sino la raíz misma de la religión y el espíritu del Mensaje. Una lectura de un método que unió la recepción honorable, la comprensión sincera, la transmisión fiel y la alta determinación —desde Ibn Masʿūd sobre el saber y la obra, hasta el viaje de un mes de Ŷābir por un solo hadiz y la humildad de Ibn ʿAbbās— hasta que el saber se convirtió en un proyecto civilizador para formar al ser humano.",
       ur: 'پہلی نسل کے علمی منہج کی ایک تعلیمی قرأت، اور اس نے وراثتِ نبوت کو کیسے اٹھایا۔', },
   },
@@ -1656,7 +1659,7 @@ export const articlesMeta: ArticleMeta[] = [
     readingMinutes: 7,
     title: { ar: "تأمُّلٌ في الإخلاصِ الخالص", en: "A Reflection on Pure Sincerity", es: "Una reflexión sobre la sinceridad pura",
       ur: 'خالص اخلاص پر ایک تأمّل', },
-    subtitle: { ar: "العطاءُ لوجه الله وحده والتحرُّرُ من رِقِّ المِنَّة", en: "Giving for God's countenance alone, and freedom from the bondage of obligation", es: "Dar solo por el rostro de Dios, y la liberación de la servidumbre del favor" },
+    subtitle: { ar: "العطاءُ لوجه الله وحده والتحرُّرُ من رِقِّ المِنَّة", en: "Giving for God's countenance alone, and freedom from the bondage of obligation", es: "Dar solo por el rostro de Dios, y la liberación de la servidumbre del favor", ur: "صرف اللہ کی رضا کے لیے عطا، اور احسان کی غلامی سے آزادی" },
     excerpt: { ar: "في خواتيم سورة الليل، يرسم القرآنُ صورةً للنفس وقد بلغت أنقى ما تبلغه في بذلها: تُعطي ولا تنتظر، وتُحسِن ولا تَمُنّ. ثلاثُ آياتٍ تختزل فلسفةَ العطاء كلَّها — نفيُ المعاوضة، فإخلاصُ القصد، فالبشارةُ بالرضا — قراءةٌ تربويّةٌ تُحرّر القلبَ من رِقِّ المِنّة وذُلِّ انتظار العِوض.", en: "In the closing verses of Sūrat al-Layl, the Qurʾan paints the soul at its purest in giving: it gives and expects nothing, does good and never reminds of it. Three brief verses distill the whole philosophy of giving — the negation of exchange, the purity of intent, then the glad tidings of satisfaction — an educative reading that frees the heart from the bondage of obligation.", es: "En los versículos finales de la sura al-Layl, el Corán retrata al alma en lo más puro de su entrega: da y no espera nada, hace el bien y nunca lo recuerda. Tres breves aleyas destilan toda la filosofía del dar —la negación del intercambio, la pureza de la intención y, luego, la albricia de la satisfacción—: una lectura educativa que libera el corazón de la servidumbre del favor.",
       ur: 'سورۃ اللیل کی آخری آیات میں قرآن کریم نفس کو اس کے خالص ترین بذل میں دکھاتا ہے: دیتا ہے اور انتظار نہیں کرتا، احسان کرتا ہے اور یاد نہیں دلاتا۔ تین مختصر آیات پوری فلسفۂ عطا کا خلاصہ: معاوضے کی نفی، پھر قصد کا خلوص، پھر رضا کی بشارت — ایک تربیتی قراءت جو دل کو احسان کی غلامی سے آزاد کرتی ہے۔', },
   },
@@ -1669,7 +1672,7 @@ export const articlesMeta: ArticleMeta[] = [
     readingMinutes: 8,
     title: { ar: "الاستجابة حياة", en: "Response Is Life", es: "La respuesta es vida",
       ur: 'اجابت زندگی ہے', },
-    subtitle: { ar: "قراءةٌ تأصيليّةٌ تربويّةٌ في نداء ﴿اسْتَجِيبُوا لِلَّهِ وَلِلرَّسُولِ إِذَا دَعَاكُمْ لِمَا يُحْيِيكُمْ﴾", en: "A foundational, educative reading of the call: 'Respond to God and to the Messenger when He calls you to that which gives you life'", es: "Una lectura fundacional y educativa del llamado: «Responded a Dios y al Mensajero cuando os llama a aquello que os da vida»" },
+    subtitle: { ar: "قراءةٌ تأصيليّةٌ تربويّةٌ في نداء ﴿اسْتَجِيبُوا لِلَّهِ وَلِلرَّسُولِ إِذَا دَعَاكُمْ لِمَا يُحْيِيكُمْ﴾", en: "A foundational, educative reading of the call: 'Respond to God and to the Messenger when He calls you to that which gives you life'", es: "Una lectura fundacional y educativa del llamado: «Responded a Dios y al Mensajero cuando os llama a aquello que os da vida»", ur: "﴿اسْتَجِيبُوا لِلَّهِ وَلِلرَّسُولِ إِذَا دَعَاكُمْ لِمَا يُحْيِيكُمْ﴾ کی ندا کا ایک تأصیلی و تربیتی مطالعہ" },
     excerpt: { ar: "ما من نداءٍ في كتاب الله بـ«يا أيها الذين آمنوا» إلا وهو بابُ شرفٍ ومنزلةُ تكليف. وفي ﴿استجيبوا لله وللرسول إذا دعاكم لما يحييكم﴾ يجتمع الأمرُ بالاستجابة، وبيانُ غايتها العظمى — الحياة — والتحذيرُ من التسويف ﴿واعلموا أن الله يحول بين المرء وقلبه﴾؛ مسارعةٌ كمسارعة الجيل الأول، تَحيا بها أركانُ الإنسان الثلاثة.", en: "Every call in God's Book opening with 'O you who have believed' is a door of honor and a station of duty. In 'Respond to God and to the Messenger when He calls you to that which gives you life' the command to respond meets its greatest aim — life — and a warning against delay: 'And know that God comes between a person and his heart.' A swiftness like the first generation's, by which heart, mind, and body all come alive.", es: "Todo llamado en el Libro de Dios que comienza con «¡Oh, vosotros que habéis creído!» es una puerta de honor y una estación de deber. En «Responded a Dios y al Mensajero cuando os llama a aquello que os da vida» se reúnen el mandato de responder, su fin supremo —la vida— y la advertencia contra el aplazamiento: «Y sabed que Dios se interpone entre la persona y su corazón»; una prontitud como la de la primera generación, por la que cobran vida el corazón, la mente y el cuerpo.",
       ur: 'دعوت کی ایک بنیادی تشکیلی قراءت: ﴾يَا أَيُّهَا الَّذِينَ آمَنُوا اسْتَجِيبُوا لِلَّهِ وَلِلرَّسُولِ إِذَا دَعَاكُمْ لِمَا يُحْيِيكُمْ﴿ الأنفال: 24۔', },
   },
@@ -1684,7 +1687,7 @@ export const articlesMeta: ArticleMeta[] = [
     episode: 11,
     title: { ar: "التفسير المقاصدي في سورة الفاتحة", en: "Objective-Based Tafsīr of Sūrat al-Fātiḥah", es: "El tafsīr orientado a los fines en la sura al-Fātiḥah",
       ur: 'سورۃ الفاتحہ کی مقاصدی تفسیر', },
-    subtitle: { ar: "شعارُ السورة التي تُتلى سبعَ عشرةَ مرّةً كلَّ يوم", en: "The Slogan of the Sūrah Recited Seventeen Times Every Day", es: "El lema de la sura que se recita diecisiete veces cada día" },
+    subtitle: { ar: "شعارُ السورة التي تُتلى سبعَ عشرةَ مرّةً كلَّ يوم", en: "The Slogan of the Sūrah Recited Seventeen Times Every Day", es: "El lema de la sura que se recita diecisiete veces cada día", ur: "اس سورت کا شعار جو ہر روز سترہ مرتبہ تلاوت کی جاتی ہے" },
     excerpt: { ar: "في كلّ يومٍ يَقف المسلمُ بين يدَي ربّه سبعَ عشرةَ مرّةً، فلا تنعقد له ركعةٌ إلّا بالفاتحة. فما الحكمةُ في أن تكون هذه السورةُ بعينها هي اللازمةَ التي لا تَسقط؟ قراءةٌ مقاصديّةٌ تَستجلي ما تُريد «أمُّ القرآن» أن تَصنعه في الإنسان كلَّ يوم — آيةً آية.", en: "Every day the Muslim stands before his Lord seventeen times, and no prayer-unit is valid without the Fātiḥah. Why is this very sūrah the indispensable one that never falls away? An objective-based reading draws out what 'the Mother of the Qur'an' seeks to make of the human being each day — verse by verse.", es: "Cada día el musulmán se yergue ante su Señor diecisiete veces, y ninguna unidad de oración es válida sin la Fātiḥah. ¿Por qué es precisamente esta sura la indispensable que nunca se omite? Una lectura orientada a los fines esclarece lo que «la Madre del Corán» busca hacer del ser humano cada día —aleya por aleya.", ur: 'ہر روز مسلمان اپنے رب کے سامنے سترہ بار کھڑا ہوتا ہے، اور کوئی رکعت فاتحہ کے بغیر مکمل نہیں ہوتی۔ کیوں یہی سورت وہ ناگزیر ہے جو کبھی ساقط نہیں ہوتی؟ ایک مقصدی قراءت جو «امّ القرآن» کا وہ مقصد بیان کرتی ہے جو وہ ہر روز آیت بہ آیت انسان میں حاصل کرنا چاہتی ہے۔' },
   },
   {
@@ -1830,7 +1833,7 @@ export const articlesMeta: ArticleMeta[] = [
       ar: 'عند البيت... أم في البيت؟ — لماذا تَجمَعُ القِبلةُ كلَّ الوُجوه، ولا يَنكشِفُ سِرُّ الكعبةِ إلا لقلبٍ حاضر',
       en: 'At the House... or Within It? — Why the Qiblah Gathers Every Face, While the Secret of the Kaaba Unveils Only to a Present Heart',
       es: 'Junto a la Casa... ¿o dentro de la Casa? — Por qué la alquibla reúne todos los rostros, mientras el secreto de la Kaaba solo se revela a un corazón presente',
-      ur: 'بیت اللہ میں... یا بیت اللہ کے اندر؟ — کیوں قبلہ ہر چہرے کو جمع کرتا ہے جبکہ کعبے کا راز صرف حاضر دل پر آشکار ہوتا ہے',
+      ur: 'بیت اللہ کے پاس... یا بیت اللہ کے اندر؟ — کیوں قبلہ ہر چہرے کو جمع کرتا ہے جبکہ کعبے کا راز صرف حاضر دل پر آشکار ہوتا ہے',
     },
     excerpt: {
       ar: 'مَلايينُ يَصِلونَ إلى الكعبة، فكم منهم تَصِلُ الكعبةُ إلى قلبِه؟ هذه الحلقةُ الحاديةَ عشرةَ من «حِكَمٌ وبصائر» تُفرِّقُ بين أن تكونَ عند البيتِ وأن يكونَ البيتُ فيك: فالقِبلةُ يَتوجَّهُ إليها الجميعُ وتَبقى في القلبِ حتّى الموت، أمّا سِرُّ الكعبةِ فلا يَنكشِفُ إلا لقلبٍ حاضرٍ مُعَظِّم. ومن المنافقينَ ﴿قَامُوا كُسَالَىٰ﴾ إلى أثرِ عمرَ عند الحجرِ «إنّك حجرٌ لا تَضُرُّ ولا تَنفَع»، تَستقرُّ على ميزانٍ واحد: ﴿وَلَٰكِن يَنَالُهُ التَّقْوَىٰ مِنكُمْ﴾. فليس كلُّ مَن وَصَلَ قد وَصَل؛ وإنّما يَصِلُ مَن عادَت به الكعبةُ إلى الله.',
@@ -3439,13 +3442,13 @@ export const articlesMeta: ArticleMeta[] = [
   },
 ];
 
+/** Published article by slug (drafts resolve to undefined — see lib/publish.ts). */
 export function getArticleMeta(slug: string): ArticleMeta | undefined {
-  return articlesMeta.find((a) => a.slug === slug);
+  return findPublished(articlesMeta, slug);
 }
 
 export function getAllArticles(): ArticleMeta[] {
-  return [...articlesMeta]
-    .filter((a) => !a.draft)
+  return published(articlesMeta)
     .sort((a, b) => (a.isoDate < b.isoDate ? 1 : -1));
 }
 

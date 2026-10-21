@@ -3,6 +3,8 @@
  * For full content loading (server-side), see lib/research-server.ts
  */
 
+import { findPublished, published } from './publish';
+
 export type ResearchType =
   | 'book'
   | 'conference-paper'
@@ -499,13 +501,13 @@ export const researchMeta: ResearchMeta[] = [
   },
 ];
 
+/** Published research item by slug (drafts resolve to undefined — see lib/publish.ts). */
 export function getResearchItem(slug: string): ResearchMeta | undefined {
-  return researchMeta.find((r) => r.slug === slug);
+  return findPublished(researchMeta, slug);
 }
 
 export function getAllResearch(): ResearchMeta[] {
-  return [...researchMeta]
-    .filter((r) => !r.draft)
+  return published(researchMeta)
     .sort((a, b) => (a.isoDate < b.isoDate ? 1 : -1));
 }
 
