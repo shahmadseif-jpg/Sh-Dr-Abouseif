@@ -13,7 +13,7 @@ This is the sixth session in our series on the objectives of Islamic law, and th
 
 ### Wealth is part of life
 
-When imams speak about money, they usually speak about responsibility: how much attention we give to it, and what we will bring before Allah on the Day we meet Him. Often this leaves people keeping their distance from money altogether. But Allah, glory be to Him, made wealth a part of life that we cannot ignore, because it is a means by which I reach my place in His hands. Think about it: without money, how would I even feed myself?
+When imams speak about money, they usually speak about responsibility: how much attention we give to it, and what we will bring before Allah on the Day we meet Him. Often this leaves people keeping their distance from money altogether. But Allah, glory be to Him, made wealth a part of life that we cannot ignore, because it is a means by which I reach the place that Allah has ordained for me. Think about it: without money, how would I even feed myself?
 
 ### Who is "in the way of Allah"?
 

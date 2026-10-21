@@ -29,7 +29,7 @@ One of the main hadiths here is where the Prophet ﷺ said:
 
 "Purification is half of faith."[^3]
 
-What does that mean, and what is the other half of faith? The other half comes when I submit myself into the hands of Allah and say *al-ḥamdu lillāh*; all those words come together with the actions, and I move between them. It is not only submitting myself in the hands of Allah. By the time I come out of the prayer I have already taken my training, during that short time.
+What does that mean, and what is the other half of faith? The other half comes when I submit myself into the hands of Allah and say *al-ḥamdu lillāh*; all those words come together with the actions, and I move between them. It is not only submitting myself before Allah. By the time I come out of the prayer I have already taken my training, during that short time.
 
 ### The order of the washing
 
