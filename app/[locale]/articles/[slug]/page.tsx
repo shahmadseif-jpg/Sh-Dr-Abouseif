@@ -6,14 +6,23 @@ import Image from 'next/image';
 import { getArticleMeta, getAllArticles, categoryLabels, localize, type Loc } from '@/lib/articles';
 import { getArticleContent } from '@/lib/articles-server';
 import { SITE_URL, SITE_NAME, SITE_ORG } from '@/lib/site';
+import { availableLocales } from '@/lib/content-availability-server';
+import { absoluteUrl, authorName, jsonLdString, languagePolicy, pageMetadata } from '@/lib/seo';
+import { parseMarkdown, prepareMarkdownBody, renderMarkdown } from '@/lib/markdown';
 import ShareButtons from '@/components/ShareButtons';
 import ReadingTools from '@/components/ReadingTools';
 import ArticleComments from '@/components/ArticleComments';
 import ContentLanguageNotice from '@/components/ContentLanguageNotice';
 import { getApprovedComments } from '@/lib/comments';
-import { ReactNode } from 'react';
 
-export const dynamic = 'force-dynamic';
+// Bodies are files shipped with each deployment, so pages need not be
+// rendered on every request: they are generated on first request, cached,
+// and revalidated hourly (ISR). Unknown or draft slugs still 404.
+export const revalidate = 3600;
+export const dynamicParams = true;
+export function generateStaticParams() {
+  return [];
+}
 
 export async function generateMetadata({
   params,
@@ -22,40 +31,19 @@ export async function generateMetadata({
 }): Promise<Metadata> {
   const { locale, slug } = await params;
   const meta = getArticleMeta(slug);
-  if (!meta) return { title: locale === 'ar' ? 'مقال غير موجود' : locale === 'es' ? 'Artículo no encontrado' : 'Article not found' };
-  const lang = locale as Loc;
-  const author = (SITE_NAME as Record<string, string>)[lang] ?? SITE_NAME.ar;
-  const title = `${localize(meta.title, lang)} — ${author}`;
-  const description = localize(meta.excerpt, lang);
-  const path = `/articles/${slug}`;
-  const image = meta.coverImage || '/dr-ahmed.jpg';
-  const ogLocale = locale === 'ar' ? 'ar_EG' : locale === 'es' ? 'es_ES' : locale === 'ur' ? 'ur_PK' : 'en_US';
-
-  return {
-    title,
-    description,
-    alternates: {
-      canonical: `/${locale}${path}`,
-      languages: { ar: `/ar${path}`, en: `/en${path}`, es: `/es${path}`, ur: `/ur${path}` },
-    },
-    openGraph: {
-      type: 'article',
-      title,
-      description,
-      url: `/${locale}${path}`,
-      siteName: author,
-      locale: ogLocale,
-      publishedTime: meta.isoDate,
-      authors: [author],
-      images: [{ url: image }],
-    },
-    twitter: {
-      card: 'summary_large_image',
-      title,
-      description,
-      images: [image],
-    },
-  };
+  if (!meta) return { title: locale === 'ar' ? 'مقال غير موجود' : locale === 'es' ? 'Artículo no encontrado' : locale === 'ur' ? 'مضمون نہیں ملا' : 'Article not found' };
+  const content = getArticleContent(slug, locale);
+  return pageMetadata({
+    locale,
+    path: `/articles/${slug}`,
+    title: `${localize(meta.title, locale)} — ${authorName(locale)}`,
+    description: localize(meta.excerpt, locale),
+    available: availableLocales('articles', slug),
+    resolvedLocale: content?.resolvedLocale,
+    ogType: 'article',
+    image: meta.coverImage,
+    publishedTime: meta.isoDate,
+  });
 }
 
 export default async function ArticlePage({
@@ -77,10 +65,9 @@ export default async function ArticlePage({
   const bodyIsRtl =
     content.resolvedLocale === 'ar' || content.resolvedLocale === 'ur';
 
-  // Strip the YAML-like top metadata (lines we already store in articlesMeta)
-  // The .md file currently has its own title/subtitle in the first 3 lines (# / ## / ###)
-  // We render those from `meta` for consistent styling, so trim them from body.
-  const trimmedBody = stripDuplicateHeaderFromMarkdown(body);
+  // Front matter / duplicated title lines are rendered from `meta`, so the
+  // shared renderer strips them from the body (lib/markdown.tsx).
+  const doc = parseMarkdown(prepareMarkdownBody(body, 'articles'));
 
   const t = await getTranslations({ locale, namespace: 'articles_page' });
 
@@ -102,18 +89,28 @@ export default async function ArticlePage({
 
   // Sharing + structured data
   const shareUrl = `${SITE_URL}/${locale}/articles/${slug}`;
-  const ogImage = meta.coverImage ? `${SITE_URL}${meta.coverImage}` : `${SITE_URL}/dr-ahmed.jpg`;
+  const ogImage = absoluteUrl(meta.coverImage || '/dr-ahmed.jpg');
+  // Structured data describes the text actually shown: its language is the
+  // resolved body language, and its URL is the canonical one. No
+  // dateModified: there is no recorded modification date distinct from
+  // publication.
+  const bodyLang = content.resolvedLocale;
+  const canonical = languagePolicy({
+    locale,
+    path: `/articles/${slug}`,
+    available: availableLocales('articles', slug),
+    resolvedLocale: bodyLang,
+  }).canonical;
   const jsonLd = {
     '@context': 'https://schema.org',
     '@type': 'Article',
-    headline: localize(meta.title, lang),
-    description: localize(meta.excerpt, lang),
-    inLanguage: lang,
+    headline: localize(meta.title, bodyLang),
+    description: localize(meta.excerpt, bodyLang),
+    inLanguage: bodyLang,
     datePublished: meta.isoDate,
-    dateModified: meta.isoDate,
-    author: { '@type': 'Person', name: (SITE_NAME as Record<string, string>)[lang] ?? SITE_NAME.ar, url: SITE_URL },
-    publisher: { '@type': 'Organization', name: (SITE_ORG as Record<string, string>)[lang] ?? SITE_ORG.ar },
-    mainEntityOfPage: shareUrl,
+    author: { '@type': 'Person', name: (SITE_NAME as Record<string, string>)[bodyLang] ?? SITE_NAME.ar, url: SITE_URL },
+    publisher: { '@type': 'Organization', name: (SITE_ORG as Record<string, string>)[bodyLang] ?? SITE_ORG.ar },
+    mainEntityOfPage: absoluteUrl(canonical),
     image: ogImage,
   };
 
@@ -122,7 +119,7 @@ export default async function ArticlePage({
       <ReadingTools />
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
+        dangerouslySetInnerHTML={{ __html: jsonLdString(jsonLd) }}
       />
       <div className="mx-auto max-w-3xl px-4 sm:px-6 lg:px-8">
         {/* Back link */}
@@ -179,6 +176,9 @@ export default async function ArticlePage({
                 alt={localize(meta.title, lang)}
                 width={1600}
                 height={1000}
+                // Column is max-w-3xl (768px) minus padding; without `sizes`
+                // the 2x candidate of width=1600 (w=3840) was fetched (PERF-04).
+                sizes="(min-width: 768px) 720px, calc(100vw - 32px)"
                 className="w-full h-auto object-cover"
                 priority
               />
@@ -197,7 +197,7 @@ export default async function ArticlePage({
           resolvedLocale={content.resolvedLocale}
         />
         <div className={`article-prose ${bodyIsRtl ? 'article-rtl' : 'article-ltr'}`}>
-          {renderMarkdown(trimmedBody, content.resolvedLocale)}
+          {renderMarkdown(doc, { locale: content.resolvedLocale })}
         </div>
 
         {/* Share bar */}
@@ -240,316 +240,4 @@ export default async function ArticlePage({
       </div>
     </article>
   );
-}
-
-/* ============================================================
-   Markdown rendering — minimal custom parser
-   Handles: ## h2, ### h3, **bold**, > quote, - list, 1. list,
-   [^N] footnote refs, --- hr, *italic*, _italic_
-   ============================================================ */
-
-function stripDuplicateHeaderFromMarkdown(md: string): string {
-  const lines = md.split('\n');
-  let i = 0;
-
-  // 1) Strip YAML frontmatter at the top: everything between an opening
-  //    `---` line and the matching closing `---` line. We render the
-  //    metadata (title, date, series, …) from articlesMeta, so the
-  //    frontmatter must never appear in the body.
-  if (lines[0]?.trim() === '---') {
-    i = 1;
-    while (i < lines.length && lines[i].trim() !== '---') i++;
-    if (i < lines.length) i++; // skip the closing ---
-    while (i < lines.length && lines[i].trim() === '') i++; // skip blank lines after
-    return lines.slice(i).join('\n').trim();
-  }
-
-  // 2) Legacy fallback (no frontmatter): strip the first H1/H2/H3 lines
-  //    that appear before the first horizontal rule (---), where the
-  //    title used to be duplicated at the top of the markdown body.
-  const out: string[] = [];
-  let strippedHeader = false;
-  let seenHr = false;
-  for (; i < lines.length; i++) {
-    const line = lines[i];
-    if (!seenHr && !strippedHeader) {
-      if (/^#{1,3}\s/.test(line) || line.trim() === '') {
-        continue;
-      }
-      if (line.trim() === '---') {
-        seenHr = true;
-        strippedHeader = true;
-        continue;
-      }
-      strippedHeader = true;
-    }
-    out.push(line);
-  }
-  return out.join('\n').trim();
-}
-
-function renderMarkdown(md: string, locale: string): ReactNode {
-  const blocks: ReactNode[] = [];
-  const paragraphs = md.split(/\n\n+/);
-  let footnoteIndex = 0;
-
-  // Find footnote definitions ([^N]: content)
-  const footnoteDefs: { ref: string; content: string }[] = [];
-  const filteredParagraphs: string[] = [];
-  for (const p of paragraphs) {
-    const trimmed = p.trim();
-    const fnMatch = trimmed.match(/^\[\^(\w+)\]:\s*([\s\S]+)$/);
-    if (fnMatch) {
-      footnoteDefs.push({ ref: fnMatch[1], content: fnMatch[2].trim() });
-    } else {
-      filteredParagraphs.push(p);
-    }
-  }
-
-  for (let i = 0; i < filteredParagraphs.length; i++) {
-    const para = filteredParagraphs[i].trim();
-    if (!para) continue;
-
-    // Horizontal rule
-    if (para === '---') {
-      blocks.push(<hr key={`hr-${i}`} className="border-t border-gold-200 my-10" />);
-      continue;
-    }
-
-    // H2 (## Heading on its own line) — section headings
-    if (para.startsWith('## ') && !para.startsWith('### ')) {
-      const text = para.slice(3).trim();
-      blocks.push(
-        <h2 key={`h2-${i}`} className="text-2xl sm:text-3xl font-semibold text-navy-700 mt-14 mb-5 gold-line">
-          {processInline(text, locale)}
-        </h2>
-      );
-      continue;
-    }
-
-    // H3 (### Heading on its own line)
-    if (para.startsWith('### ')) {
-      const text = para.slice(4).trim();
-      blocks.push(
-        <h3 key={`h3-${i}`} className="text-xl sm:text-2xl font-medium text-navy-700 mt-12 mb-4 gold-line">
-          {processInline(text, locale)}
-        </h3>
-      );
-      continue;
-    }
-
-    // H4 (#### Heading)
-    if (para.startsWith('#### ')) {
-      const text = para.slice(5).trim();
-      blocks.push(
-        <h4 key={`h4-${i}`} className="text-lg font-medium text-navy-700 mt-8 mb-3">
-          {processInline(text, locale)}
-        </h4>
-      );
-      continue;
-    }
-
-    // Author italic signature (lines starting with single *)
-    if (para.startsWith('*') && para.endsWith('*') && !para.startsWith('**')) {
-      const text = para.replace(/^\*+|\*+$/g, '').trim();
-      blocks.push(
-        <p key={`sig-${i}`} className="text-sm text-navy-500 italic leading-relaxed mt-6">
-          {processInline(text, locale)}
-        </p>
-      );
-      continue;
-    }
-
-    // Markdown table (| a | b | with a |---| separator row)
-    {
-      const tl = para.split('\n').map((l) => l.trim());
-      if (tl.length >= 2 && tl[0].startsWith('|') && /^\|[\s:|-]*-{3,}[\s:|-]*\|?$/.test(tl[1])) {
-        const cells = (l: string) => l.replace(/^\|/, '').replace(/\|$/, '').split('|').map((c) => c.trim());
-        const head = cells(tl[0]);
-        const rows = tl.slice(2).filter((l) => l.startsWith('|')).map(cells);
-        blocks.push(
-          <div key={`tbl-${i}`} className="my-6 overflow-x-auto">
-            <table className="w-full border-collapse text-base text-navy-700">
-              <thead>
-                <tr>
-                  {head.map((c, ci) => (
-                    <th key={ci} className="border border-navy-100 bg-gold-50 px-3 py-2 text-start font-semibold">
-                      {processInline(c, locale)}
-                    </th>
-                  ))}
-                </tr>
-              </thead>
-              <tbody>
-                {rows.map((r, ri) => (
-                  <tr key={ri}>
-                    {r.map((c, ci) => (
-                      <td key={ci} className="border border-navy-100 px-3 py-2 align-top">
-                        {processInline(c, locale)}
-                      </td>
-                    ))}
-                  </tr>
-                ))}
-              </tbody>
-            </table>
-          </div>
-        );
-        continue;
-      }
-    }
-
-    // Blockquote — preserve line breaks within the quote (one <br> per
-    // markdown line) so poetry and multi-line citations render correctly.
-    if (para.startsWith('> ')) {
-      const quoteLines = para
-        .split('\n')
-        .map((l) => l.replace(/^>\s?/, ''));
-      blocks.push(
-        <blockquote key={`q-${i}`} className="border-r-4 border-gold-400 ps-5 pe-5 py-3 my-6 bg-gold-50 text-navy-700 text-lg leading-loose italic">
-          {quoteLines.map((line, idx) => (
-            <span key={idx} className="block">
-              {processInline(line, locale)}
-            </span>
-          ))}
-        </blockquote>
-      );
-      continue;
-    }
-
-    // List (unordered with - or *)
-    if (/^[\-*]\s/.test(para)) {
-      const items = para.split('\n').filter((l) => /^[\-*]\s/.test(l)).map((l) => l.replace(/^[\-*]\s+/, ''));
-      blocks.push(
-        <ul key={`ul-${i}`} className="my-5 space-y-2 ps-5">
-          {items.map((item, idx) => (
-            <li key={idx} className="text-navy-600 leading-relaxed flex gap-3 items-start">
-              <span className="mt-2 h-1.5 w-1.5 rounded-full bg-gold-400 flex-shrink-0" />
-              <span>{processInline(item, locale)}</span>
-            </li>
-          ))}
-        </ul>
-      );
-      continue;
-    }
-
-    // Numbered list
-    if (/^\d+\.\s/.test(para)) {
-      const items = para.split('\n').filter((l) => /^\d+\.\s/.test(l)).map((l) => l.replace(/^\d+\.\s+/, ''));
-      blocks.push(
-        <ol key={`ol-${i}`} className="my-5 space-y-2 ps-5 list-decimal list-inside">
-          {items.map((item, idx) => (
-            <li key={idx} className="text-navy-600 leading-relaxed">
-              {processInline(item, locale)}
-            </li>
-          ))}
-        </ol>
-      );
-      continue;
-    }
-
-    // Regular paragraph
-    blocks.push(
-      <p key={`p-${i}`} className="text-base sm:text-lg text-navy-700 leading-loose my-5">
-        {processInline(para, locale)}
-      </p>
-    );
-  }
-
-  // Footnotes section
-  if (footnoteDefs.length > 0) {
-    blocks.push(
-      <div key="footnotes" className="mt-16 pt-8 border-t border-navy-100">
-        <h3 className="text-base font-medium text-navy-700 mb-4 uppercase tracking-wider">
-          {locale === 'ar' ? 'الهوامش' : locale === 'es' ? 'Notas' : locale === 'ur' ? 'حواشی' : 'Notes'}
-        </h3>
-        <ol className="space-y-3 text-sm text-navy-600 leading-relaxed list-decimal list-inside">
-          {footnoteDefs.map((fn, idx) => (
-            <li key={fn.ref} id={`fn-${fn.ref}`} className="ps-2">
-              <span>{processInline(fn.content, locale)}</span>
-              <a href={`#fnref-${fn.ref}`} className="text-gold-500 hover:text-gold-700 ms-2 text-xs no-underline">
-                ↩
-              </a>
-            </li>
-          ))}
-        </ol>
-      </div>
-    );
-  }
-
-  return blocks;
-}
-
-function processInline(text: string, locale: string): ReactNode {
-  // Process inline: **bold**, *italic*, [^N] footnote refs, line breaks within paragraphs
-  // 1) Decode common HTML entities that authors may use for fine-grained
-  //    spacing in poetry/quotations.
-  // 2) Replace inline newlines with spaces.
-  // 3) Collapse runs of regular whitespace ONLY — never touch non-breaking
-  //    spaces ( ), which are intentional spacing marks.
-  let working = text
-    .replace(/&nbsp;/g, ' ')
-    .replace(/&amp;/g, '&')
-    .replace(/\n/g, ' ')
-    .replace(/[ \t]+/g, ' ');
-
-  const out: ReactNode[] = [];
-  let keyCounter = 0;
-  let remaining = working;
-
-  // Regex to match: **bold**, [^N] footnote ref, parenthesized Arabic year,
-  // *italic* (single asterisks hugging the text, not part of ** or a word).
-  const tokenRegex = /(\*\*(?:[^*]|\*(?!\*))+?\*\*)|(\[\^(\w+)\])|(\([^)]*?٢٠[0-9]+م?\))|((?<![*\p{L}\p{N}])\*(?![\s*])[^*\n]+?(?<![\s*])\*(?![*\p{L}\p{N}]))|(\[([^\]\n]+)\]\((https?:\/\/[^\s)]+)\))/gu;
-
-  let lastIndex = 0;
-  let match: RegExpExecArray | null;
-  while ((match = tokenRegex.exec(working)) !== null) {
-    // Push text before the match
-    if (match.index > lastIndex) {
-      out.push(working.slice(lastIndex, match.index));
-    }
-
-    if (match[1]) {
-      // **bold**
-      const inner = match[1].slice(2, -2);
-      out.push(
-        <strong key={`b-${keyCounter++}`} className="font-semibold text-navy-800">
-          {inner.includes('*') ? processInline(inner, locale) : inner}
-        </strong>
-      );
-    } else if (match[2]) {
-      // [^N] footnote ref
-      const ref = match[3];
-      out.push(
-        <sup key={`fn-${keyCounter++}`} id={`fnref-${ref}`} className="mx-0.5">
-          <a
-            href={`#fn-${ref}`}
-            className="text-gold-600 hover:text-gold-700 font-medium no-underline text-xs"
-          >
-            [{ref}]
-          </a>
-        </sup>
-      );
-    } else if (match[4]) {
-      // parenthesized year - just keep as text
-      out.push(match[4]);
-    } else if (match[5]) {
-      // *italic*
-      out.push(<em key={`i-${keyCounter++}`}>{match[5].slice(1, -1)}</em>);
-    } else if (match[6]) {
-      // [label](https://url) link
-      out.push(
-        <a key={`l-${keyCounter++}`} href={match[8]} target="_blank" rel="noopener noreferrer" className="text-gold-600 hover:text-gold-700 underline">
-          {match[7]}
-        </a>
-      );
-    }
-
-    lastIndex = match.index + match[0].length;
-  }
-
-  // Push remaining text after last match
-  if (lastIndex < working.length) {
-    out.push(working.slice(lastIndex));
-  }
-
-  return out;
 }
