@@ -3,6 +3,7 @@
 import { useLocale } from 'next-intl';
 import Link from 'next/link';
 import { articlesMeta, categoryLabels, localize, type ArticleCategory, type Loc, type LocalizedText } from '@/lib/articles';
+import { published } from '@/lib/publish';
 
 type Article = (typeof articlesMeta)[number];
 
@@ -124,7 +125,7 @@ export default function ArticlesList() {
   const countLabel = locale === 'ar' ? 'مقالة' : locale === 'es' ? 'artículos' : locale === 'ur' ? 'مضامین' : 'articles';
   const epLabel = locale === 'ar' ? 'الحلقة' : locale === 'es' ? 'Ep.' : locale === 'ur' ? 'قسط' : 'Ep.';
 
-  const live = articlesMeta.filter((a) => !a.draft);
+  const live = published(articlesMeta);
 
   const groups = ORDER.map((cat) => {
     const items = live.filter((a) => a.category === cat);

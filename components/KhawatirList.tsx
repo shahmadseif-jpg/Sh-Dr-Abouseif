@@ -5,6 +5,7 @@ import Link from 'next/link';
 import { useState, useMemo } from 'react';
 import { khawatirMeta, prayerLabels, type Prayer } from '@/lib/khawatir';
 import { localize } from '@/lib/articles';
+import { published } from '@/lib/publish';
 
 type Filter = 'all' | Prayer;
 
@@ -19,8 +20,7 @@ export default function KhawatirList() {
   // Sort by date descending
   const sorted = useMemo(
     () =>
-      [...khawatirMeta]
-        .filter((k) => !k.draft)
+      published(khawatirMeta)
         .sort((a, b) => (a.isoDate < b.isoDate ? 1 : -1)),
     []
   );

@@ -3,6 +3,7 @@
 import { useTranslations, useLocale } from 'next-intl';
 import Link from 'next/link';
 import { articlesMeta, categoryLabels, type ArticleCategory, type Loc } from '@/lib/articles';
+import { published } from '@/lib/publish';
 
 // Display order of the reading paths (only those that have articles are shown)
 const ORDER: ArticleCategory[] = [
@@ -18,8 +19,7 @@ export default function IntellectualProjects() {
   const t = useTranslations('projects');
   const locale = useLocale() as Loc;
 
-  const counts = articlesMeta
-    .filter((a) => !a.draft)
+  const counts = published(articlesMeta)
     .reduce<Record<string, number>>((acc, a) => {
       acc[a.category] = (acc[a.category] || 0) + 1;
       return acc;

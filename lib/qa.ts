@@ -5,6 +5,7 @@
  */
 
 import { type Loc, type LocalizedText, localize } from './articles';
+import { findPublished, published } from './publish';
 
 export type { Loc, LocalizedText };
 export { localize };
@@ -121,11 +122,12 @@ export const qaMeta: QAMeta[] = [
 ];
 
 export function getAllQA(): QAMeta[] {
-  return qaMeta.filter((q) => !q.draft);
+  return published(qaMeta);
 }
 
+/** Published Q&A by slug (drafts resolve to undefined — see lib/publish.ts). */
 export function getQAMeta(slug: string): QAMeta | undefined {
-  return qaMeta.find((q) => q.slug === slug);
+  return findPublished(qaMeta, slug);
 }
 
 export const qaCategoryLabels: Record<Loc, Record<QACategory, string>> = {

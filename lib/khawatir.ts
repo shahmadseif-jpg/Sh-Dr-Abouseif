@@ -3,6 +3,8 @@
  * For file content loading (uses fs), see lib/khawatir-server.ts
  */
 
+import { findPublished, published } from './publish';
+
 export type Prayer = 'fajr' | 'isha' | 'dhuhr' | 'other';
 
 export interface KhatraMeta {
@@ -2892,13 +2894,13 @@ export const khawatirMeta: KhatraMeta[] = [
   },
 ];
 
+/** Published khatra by slug (drafts resolve to undefined — see lib/publish.ts). */
 export function getKhatraMeta(slug: string): KhatraMeta | undefined {
-  return khawatirMeta.find((k) => k.slug === slug);
+  return findPublished(khawatirMeta, slug);
 }
 
 export function getAllKhawatir(): KhatraMeta[] {
-  return [...khawatirMeta]
-    .filter((k) => !k.draft)
+  return published(khawatirMeta)
     .sort((a, b) => (a.isoDate < b.isoDate ? 1 : -1));
 }
 

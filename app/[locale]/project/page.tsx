@@ -2,6 +2,7 @@ import { setRequestLocale, getTranslations } from 'next-intl/server';
 import { Link } from '@/i18n/routing';
 import { getResearchItem } from '@/lib/research';
 import { articlesMeta, localize } from '@/lib/articles';
+import { published } from '@/lib/publish';
 
 type Locale = 'ar' | 'en' | 'es' | 'ur';
 
@@ -144,7 +145,7 @@ export default async function ProjectPage({ params }: { params: Promise<{ locale
   }));
 
   const series = SERIES_AR.map((ar) => {
-    const items = articlesMeta.filter((a) => a.series?.ar === ar);
+    const items = published(articlesMeta).filter((a) => a.series?.ar === ar);
     if (!items.length) return null;
     return { key: ar, title: localize(items[0].series, loc), count: items.length, cat: items[0].category };
   }).filter((s): s is NonNullable<typeof s> => Boolean(s));

@@ -4,6 +4,7 @@
  */
 
 import { lectureArticlesMeta } from './lectures-meta';
+import { findPublished, published } from './publish';
 
 export type ArticleCategory = 'imamship' | 'civilization' | 'family' | 'fiqh' | 'wisdom-insights' | 'maqasid-tafsir' | 'prophetic-light' | 'quranic-concepts';
 
@@ -3439,13 +3440,13 @@ export const articlesMeta: ArticleMeta[] = [
   },
 ];
 
+/** Published article by slug (drafts resolve to undefined — see lib/publish.ts). */
 export function getArticleMeta(slug: string): ArticleMeta | undefined {
-  return articlesMeta.find((a) => a.slug === slug);
+  return findPublished(articlesMeta, slug);
 }
 
 export function getAllArticles(): ArticleMeta[] {
-  return [...articlesMeta]
-    .filter((a) => !a.draft)
+  return published(articlesMeta)
     .sort((a, b) => (a.isoDate < b.isoDate ? 1 : -1));
 }
 
