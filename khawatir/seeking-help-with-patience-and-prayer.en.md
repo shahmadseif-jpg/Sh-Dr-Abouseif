@@ -31,7 +31,7 @@ And the greater calamity is that in our lives there are real problems and imagin
 
 ### A Real Problem and an Imagined Problem
 
-Imagine two women who sat together, each complaining about her husband. The first said: He does such-and-such. So the second said: How fortunate you are! The first says: How can you say I am fortunate when I am complaining? So she answers her that he is patient, and that he is such-and-such, and she reveals to her aspects of this person’s character that she had not been aware of. Was the first one’s tragedy real or imagined? Imagined. Then the second begins to talk about other aspects of her husband that this one does not see, and the first says to her: You are fortunate. Allahu akbar, how does this happen!
+Imagine two women who sat together, each complaining about her husband. The first said: He does such-and-such. So the second said: How fortunate you are! The first says: How can you say I am fortunate when I am complaining? So she answers her that he is patient, and that he is such-and-such, and she reveals to her aspects of this person’s character that she had not been aware of. Was the first one’s tragedy real or imagined? Imagined. Then the second begins to talk about other aspects of her husband that this one does not see, and the first says to her: You are fortunate. Allahu akbar, how does this happen![^7]
 
 And when a man comes to me complaining about his son, saying such-and-such, I say to him: My brother, can you thank Allah that you have a son at all? From the beginning of life thank Allah that you have a son; the good that is in you passes to him someday, even if he goes out and moves away, Allah, blessed and exalted, will bring him back one day. Can you thank Allah that He taught you how to pray to Him to return your son to you if he has been absent from you?
 
@@ -58,3 +58,4 @@ We ask Allah, blessed and exalted, to reward us and you, to teach us how to be p
 [^4]: Editor's documentation: al-Baqarah: 142. The speaker mentioned that it is the beginning of the quarter.
 [^5]: Editor's documentation: al-Baqarah: 156, and its completion is: ﴿قَالُوا إِنَّا لِلَّهِ وَإِنَّا إِلَيْهِ رَاجِعُونَ﴾ (“they say, ‘Indeed we belong to Allah, and indeed to Him we will return’”). I have set down of the verse as much as the speaker uttered.
 [^6]: Editor's documentation: The transcription broke off at «وإنا إليه» and so was not completed in the body text.
+[^7]: Editor's note: The example concerns complaints about temperament and ordinary disagreements; genuine harm such as violence or abuse is not an "imagined problem," and anyone subjected to it may seek protection and help from family and the competent authorities.
