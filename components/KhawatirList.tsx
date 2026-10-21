@@ -33,13 +33,16 @@ export default function KhawatirList() {
     [filter, sorted]
   );
 
-  const filterButtons: { value: Filter; label: string }[] = [
+  const allButtons: { value: Filter; label: string }[] = [
     { value: 'all', label: t('filter_all') },
     { value: 'fajr', label: pl.fajr },
     { value: 'isha', label: pl.isha },
     { value: 'dhuhr', label: pl.dhuhr },
     { value: 'other', label: pl.other },
-  ].filter((b) => b.value === 'all' || sorted.some((k) => k.prayer === b.value));
+  ];
+  const filterButtons = allButtons.filter(
+    (b) => b.value === 'all' || sorted.some((k) => k.prayer === b.value)
+  );
 
   if (sorted.length === 0) {
     return (
