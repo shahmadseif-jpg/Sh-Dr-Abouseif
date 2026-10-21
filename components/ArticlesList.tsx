@@ -1,6 +1,6 @@
 'use client';
 
-import { useLocale } from 'next-intl';
+import { useLocale, useTranslations } from 'next-intl';
 import Link from 'next/link';
 import { articlesMeta, categoryLabels, localize, type ArticleCategory, type Loc, type LocalizedText } from '@/lib/articles';
 
@@ -75,12 +75,14 @@ function ArticleCard({
   readMore,
   epLabel,
   inSeries,
+  minutesLabel,
 }: {
   article: Article;
   locale: Loc;
   readMore: string;
   epLabel: string;
   inSeries: boolean;
+  minutesLabel: (n: number) => string;
 }) {
   return (
     <Link
@@ -88,7 +90,7 @@ function ArticleCard({
       className="bg-white border border-navy-100 rounded-lg p-6 card-hover flex flex-col group"
     >
       {inSeries && article.episode != null && (
-        <div className="text-xs font-medium text-gold-600 mb-2">
+        <div className="text-xs font-medium text-gold-700 mb-2">
           {epLabel} {article.episode}
         </div>
       )}
@@ -104,8 +106,8 @@ function ArticleCard({
       <div className="flex items-center justify-between pt-4 border-t border-navy-100">
         <div className="text-xs text-navy-500 flex items-center gap-2">
           <span>{localize(article.date, locale)}</span>
-          <span className="text-gold-300">•</span>
-          <span>{article.readingMinutes} {locale === 'ar' ? 'دقائق' : locale === 'ur' ? 'منٹ' : 'min'}</span>
+          <span className="text-gold-300" aria-hidden="true">•</span>
+          <span>{minutesLabel(article.readingMinutes)}</span>
         </div>
         <span className="inline-flex items-center gap-1 text-sm font-medium text-navy-600 group-hover:text-gold-500 transition-colors">
           {readMore}
@@ -120,9 +122,12 @@ function ArticleCard({
 
 export default function ArticlesList() {
   const locale = useLocale() as Loc;
-  const readMore = locale === 'ar' ? 'اقرأ المقال' : locale === 'es' ? 'Leer el artículo' : locale === 'ur' ? 'مضمون پڑھیں' : 'Read article';
-  const countLabel = locale === 'ar' ? 'مقالة' : locale === 'es' ? 'artículos' : locale === 'ur' ? 'مضامین' : 'articles';
-  const epLabel = locale === 'ar' ? 'الحلقة' : locale === 'es' ? 'Ep.' : locale === 'ur' ? 'قسط' : 'Ep.';
+  const ui = useTranslations('ui');
+  const readMore = ui('readArticle');
+  // Plural-aware labels (Arabic: 1 / 2 / 3–10 / 11+ forms; EN/ES singular) — LANG-110/111.
+  const countLabel = (n: number) => ui('articleCount', { count: n, n: String(n) });
+  const minutesLabel = (n: number) => ui('readingMinutes', { count: n, n: String(n) });
+  const epLabel = ui('episode');
 
   const live = articlesMeta.filter((a) => !a.draft);
 
@@ -167,11 +172,11 @@ export default function ArticlesList() {
                     {categoryLabels[locale][cat]}
                   </h2>
                   <span className="text-xs font-semibold bg-gold-400 text-navy-900 px-3 py-1 rounded-full whitespace-nowrap">
-                    {locale === 'ar' ? 'مسلمو الغرب' : locale === 'es' ? 'Islam en Occidente' : locale === 'ur' ? 'مغرب میں اسلام' : 'Muslims in the West'}
+                    {ui('muslimsWest')}
                   </span>
                 </div>
-                <span className="text-xs text-navy-400 whitespace-nowrap">
-                  {total} {countLabel}
+                <span className="text-xs text-navy-500 whitespace-nowrap">
+                  {countLabel(total)}
                 </span>
               </div>
               <p className="mt-2 text-sm text-navy-600 leading-relaxed">
@@ -184,8 +189,8 @@ export default function ArticlesList() {
                 <h2 className="text-2xl font-medium text-navy-700">
                   {categoryLabels[locale][cat]}
                 </h2>
-                <span className="text-xs text-navy-400 whitespace-nowrap">
-                  {total} {countLabel}
+                <span className="text-xs text-navy-500 whitespace-nowrap">
+                  {countLabel(total)}
                 </span>
               </div>
               <p className="mt-1 text-sm text-navy-500 leading-relaxed">
@@ -211,6 +216,7 @@ export default function ArticlesList() {
                       readMore={readMore}
                       epLabel={epLabel}
                       inSeries={true}
+                      minutesLabel={minutesLabel}
                     />
                   ))}
                 </div>
@@ -228,6 +234,7 @@ export default function ArticlesList() {
                     readMore={readMore}
                     epLabel={epLabel}
                     inSeries={false}
+                    minutesLabel={minutesLabel}
                   />
                 ))}
               </div>

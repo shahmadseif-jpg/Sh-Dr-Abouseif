@@ -1,7 +1,7 @@
 'use client';
 
 import { useState, useMemo } from 'react';
-import { useLocale } from 'next-intl';
+import { useLocale, useTranslations } from 'next-intl';
 import Link from 'next/link';
 import {
   getAllQA,
@@ -20,52 +20,18 @@ const CATEGORY_ORDER: QACategory[] = [
   'general',
 ];
 
-const UI = {
-  ar: {
-    search: 'ابحث في الأسئلة…',
-    all: 'كلّ الأبواب',
-    none: 'لا توجد أسئلة مطابقة لبحثك.',
-    read: 'اقرأ الجواب',
-    count: 'سؤالًا',
-    ask_title: 'لم تجد سؤالك؟',
-    ask_body: 'أرسل سؤالك الشرعيّ وسيصل مباشرةً إلى الشيخ، ويُنشَر جوابه هنا إن شاء الله.',
-    ask_cta: 'أرسل سؤالك',
-  },
-  en: {
-    search: 'Search questions…',
-    all: 'All categories',
-    none: 'No questions match your search.',
-    read: 'Read the answer',
-    count: 'questions',
-    ask_title: 'Didn’t find your question?',
-    ask_body: 'Send your question; it reaches the Shaykh directly, and the answer may be published here.',
-    ask_cta: 'Ask your question',
-  },
-  es: {
-    search: 'Buscar preguntas…',
-    all: 'Todas las categorías',
-    none: 'Ninguna pregunta coincide con tu búsqueda.',
-    read: 'Leer la respuesta',
-    count: 'preguntas',
-    ask_title: '¿No encontraste tu pregunta?',
-    ask_body: 'Envía tu pregunta; llega directamente al Shaykh, y la respuesta puede publicarse aquí.',
-    ask_cta: 'Envía tu pregunta',
-  },
-  ur: {
-    search: 'سوالات میں تلاش کریں…',
-    all: 'تمام ابواب',
-    none: 'آپ کی تلاش سے کوئی سوال مطابقت نہیں رکھتا۔',
-    read: 'جواب پڑھیے',
-    count: 'سوالات',
-    ask_title: 'اپنا سوال نہیں ملا؟',
-    ask_body: 'اپنا سوال بھیجیے؛ وہ براہِ راست شیخ تک پہنچتا ہے، اور جواب یہاں شائع ہو سکتا ہے۔',
-    ask_cta: 'اپنا سوال بھیجیے',
-  },
-};
-
 export default function QAList() {
   const locale = useLocale() as Loc;
-  const t = UI[locale] ?? UI.ar;
+  const tr = useTranslations('qaList');
+  const t = {
+    search: tr('search'),
+    all: tr('all'),
+    none: tr('none'),
+    read: tr('read'),
+    ask_title: tr('ask_title'),
+    ask_body: tr('ask_body'),
+    ask_cta: tr('ask_cta'),
+  };
   const all = getAllQA();
 
   const [query, setQuery] = useState('');
@@ -97,7 +63,11 @@ export default function QAList() {
     <div className="space-y-8">
       {/* Search */}
       <div className="relative max-w-xl mx-auto">
+        <label htmlFor="qa-search" className="sr-only">
+          {t.search}
+        </label>
         <input
+          id="qa-search"
           type="search"
           value={query}
           onChange={(e) => setQuery(e.target.value)}
@@ -109,8 +79,10 @@ export default function QAList() {
       {/* Category filters */}
       <div className="flex flex-wrap justify-center gap-2">
         <button
+          type="button"
           onClick={() => setActive('all')}
-          className={`rounded-full px-4 py-1.5 text-sm transition-colors ${
+          aria-pressed={active === 'all'}
+          className={`min-h-[44px] rounded-full px-4 py-1.5 text-sm transition-colors ${
             active === 'all'
               ? 'bg-navy-700 text-white'
               : 'bg-white text-navy-600 border border-navy-100 hover:border-gold-300'
@@ -120,9 +92,11 @@ export default function QAList() {
         </button>
         {categoriesWithItems.map((c) => (
           <button
+            type="button"
             key={c}
             onClick={() => setActive(c)}
-            className={`rounded-full px-4 py-1.5 text-sm transition-colors ${
+            aria-pressed={active === c}
+            className={`min-h-[44px] rounded-full px-4 py-1.5 text-sm transition-colors ${
               active === c
                 ? 'bg-navy-700 text-white'
                 : 'bg-white text-navy-600 border border-navy-100 hover:border-gold-300'
@@ -134,8 +108,8 @@ export default function QAList() {
       </div>
 
       {/* Count */}
-      <div className="text-center text-xs text-navy-400">
-        {filtered.length} {t.count}
+      <div className="text-center text-xs text-navy-500" role="status" aria-live="polite">
+        {tr('count', { count: filtered.length, n: String(filtered.length) })}
       </div>
 
       {/* Results */}
@@ -152,9 +126,9 @@ export default function QAList() {
               <div className="text-xs uppercase tracking-wider text-gold-500 mb-3">
                 {qaCategoryLabels[locale][item.category]}
               </div>
-              <h3 className="text-lg font-medium text-navy-700 leading-snug mb-3 group-hover:text-gold-600 transition-colors">
+              <h2 className="text-lg font-medium text-navy-700 leading-snug mb-3 group-hover:text-gold-600 transition-colors">
                 {localize(item.question, locale)}
-              </h3>
+              </h2>
               <p className="text-sm text-navy-600 leading-relaxed mb-4 line-clamp-3 flex-1">
                 {localize(item.summary, locale)}
               </p>
@@ -174,7 +148,7 @@ export default function QAList() {
 
       {/* Ask CTA */}
       <div className="mt-12 rounded-xl border border-gold-200 bg-gold-50 p-8 text-center">
-        <h3 className="text-xl font-medium text-navy-700 mb-2">{t.ask_title}</h3>
+        <h2 className="text-xl font-medium text-navy-700 mb-2">{t.ask_title}</h2>
         <p className="text-navy-600 leading-relaxed mb-5 max-w-xl mx-auto">{t.ask_body}</p>
         <a
           href="#ask"

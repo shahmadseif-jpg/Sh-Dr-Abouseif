@@ -9,10 +9,9 @@ export default function Stats() {
   const locale = useLocale();
 
   const formatNumber = (n: number) => {
-    if (locale === 'ar') {
-      return new Intl.NumberFormat('ar-EG').format(n);
-    }
-    return n.toLocaleString('en-US');
+    // Locale-appropriate grouping (LANG-115): 24,250 / 24.250 / ٢٤٬٢٥٠.
+    const tag = locale === 'ar' ? 'ar-EG' : locale === 'es' ? 'es-ES' : locale === 'ur' ? 'ur-PK' : 'en-US';
+    return new Intl.NumberFormat(tag, { useGrouping: true }).format(n);
   };
 
   const lectureCount = getEstimatedLectureCount();
