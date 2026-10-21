@@ -9,7 +9,7 @@
  *   modules (lib/articles, lib/khawatir, lib/lectures-meta) — type-only
  *   imports are fine. lib/qa must not import lib/articles.
  * Build (needs `next build`): the JS chunks referenced by the prerendered
- *   /ar, /ar/khawatir, /ar/qa and /ar/research pages contain no
+ *   /ar, /ar/articles, an article, /ar/khawatir, /ar/qa and /ar/research pages contain no
  *   article/lecture metadata (marker: a known article slug) and no khawatir
  *   metadata (marker: a khawatir slug), and the hero renditions exist.
  * Browser (with --base): khawatir list renders 24 cards with a live count;
@@ -34,8 +34,7 @@ const ok = (m) => console.log('ok  ', m);
 
 // ------------------------------------------------------------------ static
 const HEAVY = ['@/lib/articles', '@/lib/khawatir', '@/lib/lectures-meta'];
-// ArticlesList keeps its client bundle on purpose (see the file header).
-const ALLOWED = new Set(['components/ArticlesList.tsx']);
+const ALLOWED = new Set();
 const walk = (d) =>
   fs.readdirSync(d, { withFileTypes: true }).flatMap((e) =>
     e.isDirectory() ? walk(path.join(d, e.name)) : /\.tsx?$/.test(e.name) ? [path.join(d, e.name)] : []
@@ -67,7 +66,7 @@ if (!fs.existsSync(appDir)) {
 } else {
   const ARTICLE_MARKER = 'calls-to-faith-maidah-wasila';
   const KHAWATIR_MARKER = 'go-forth-light-or-heavy';
-  const pages = { '/ar': '../ar.html', '/ar/khawatir': 'khawatir.html', '/ar/qa': 'qa.html', '/ar/research': 'research.html' };
+  const pages = { '/ar': '../ar.html', '/ar/articles': 'articles.html', '/ar/articles/wisdom-lost-property': 'articles/wisdom-lost-property.html', '/ar/khawatir': 'khawatir.html', '/ar/qa': 'qa.html', '/ar/research': 'research.html' };
   for (const [route, file] of Object.entries(pages)) {
     const htmlPath = path.join(appDir, file);
     let html;
