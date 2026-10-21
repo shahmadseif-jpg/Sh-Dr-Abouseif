@@ -37,7 +37,7 @@ This essay is not about "the story of Yūsuf." It is about the curve of ascent t
 >
 > 4. **The community's three crises in the West** — absence of confidence in remaining, identity disorientation, paralysis of the will to build.
 >
-> 5. **Yūsuf sowed and Mūsā harvested** — four centuries between them in the same land. A message to every Muslim community.
+> 5. **Yūsuf sowed and Mūsā harvested** — some four centuries between them in the same land. A message to every Muslim community.
 
 ---
 
@@ -161,7 +161,7 @@ When the father lives the psychology of a traveler, his son grows up in a state 
 
 The Yūsufian model breaks this triad because it says: "I am in this land a bearer of a message; my children are of its people by birth and of the message's people by lineage." Look at the final verses of the sūra — how he raised his father onto his throne in Egypt and did not descend to his father's land. **The center of civilizational gravity moves to the land that hosts the message; it does not remain suspended in the land of memories**.
 
-It is as if the sūra is speaking to the children of the Muslim community in the West: "You are not guests. You are native inhabitants of the message's domain, and your land is the one your presence is sanctifying."
+It is as if the sūra is speaking to the children of the Muslim community in the West: "You are not guests. You are native inhabitants of the message's domain, and your land is the one your presence carries."
 
 ### Crisis Three: The Paralysis of the Will to Build
 
@@ -181,7 +181,7 @@ What Yūsuf ﷺ enacted is the early operational realization of what the Prophet
 
 The Islamic message is not imprisoned in geography nor mortgaged to lineage. The land that God drives toward the believer is his true land, and the people who surround him are his flock in the call.
 
-Consider an astonishing Qur'anic paradox: **between Yūsuf's burial in Egypt and the prophetic mission of Mūsā ﷺ in that same land are four centuries**. Four full centuries in which the Children of Israel grew in Egypt, carrying monotheism in their hearts. **Yūsuf sowed; Mūsā harvested** — both in "the land of diaspora." Had Yūsuf rejected the idea of settling in Egypt, Mūsā ﷺ would not have been born there, and no ummah would have been freed from bondage.
+Consider an astonishing Qur'anic paradox: **between Yūsuf's burial in Egypt and the prophetic mission of Mūsā ﷺ in that same land are some four centuries**[^2]. Centuries in which the Children of Israel grew in Egypt, carrying monotheism in their hearts. **Yūsuf sowed; Mūsā harvested** — both in "the land of diaspora." Had Yūsuf rejected the idea of settling in Egypt, Mūsā ﷺ would not have been born there, and no ummah would have been freed from bondage.
 
 This is what the noble Companions, may God be pleased with them, understood when they dispersed across the earth as callers and founders of civilization: Muʿādh to Yemen, Abū Mūsā to Basra, ʿAmr to Egypt, Saʿd to Iraq, Abū al-Dardāʾ to the Levant. None of them returned to Medina to die there. Each died in the land in which he had sown the seeds of the message.[^1] Without this, Islam would not have spread to the corners of the inhabited world.
 
@@ -234,3 +234,4 @@ Write your answers. Return to them in a year. Sincere self-accounting alone is t
 - Agreed upon, on the authority of Jābir ibn ʿAbd Allāh: "I was sent to all humanity" — Ṣaḥīḥ al-Bukhārī (438), Ṣaḥīḥ Muslim (521).
 
 [^1]: Editor's documentation: The speaker stated that none of these Companions returned to Medina to die there, and that each died in the land mentioned with him; the sources record that Saʿd ibn Abī Waqqāṣ (may God be pleased with him) died at al-ʿAqīq near Medina in 55 AH and was carried to al-Baqīʿ and buried there (al-Durar al-Saniyyah, *al-Mawsūʿah al-Tārīkhiyyah*; and English Wikipedia, "Sa'd ibn Abi Waqqas": died in Medina c. 674 CE), and that Muʿādh ibn Jabal (may God be pleased with him) died in the plague of ʿAmwās in the Levant in 18 AH (or 17 AH), not in Yemen (Dar al-Iftaa al-Misriyyah, article "Muʿādh ibn Jabal"; and English Wikipedia, "Muadh ibn Jabal": died in 639 CE of the Plague of ʿAmwās).
+[^2]: Editor's note: Neither the Qurʾan nor the authentic Sunnah specifies this period; the figure is an approximation drawn from historical reports and the reports of the People of the Book. Exodus 12:40 gives the sojourn of the Children of Israel in Egypt as four hundred and thirty years, a period that begins with the entry of Jacob and his sons into Egypt, not with the death of Joseph (peace be upon him), and historians differ in estimating it.
