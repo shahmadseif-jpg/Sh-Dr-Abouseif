@@ -3428,7 +3428,7 @@ export const lectureArticlesMeta: ArticleMeta[] = [
     isoDate: '2025-12-19',
     date: { ar: '١٩ ديسمبر ٢٠٢٥', en: 'December 19, 2025' },
     readingMinutes: 6,
-    title: { ar: 'على خريطة التفكير الجمعي', en: 'On the Map of Collective Thinking' },
+    title: { ar: 'التفكير الجمعي وبناء الجيل', en: 'Collective Thinking and Building the Next Generation' },
     subtitle: { ar: 'من الانفعال اللحظي إلى التفكير الجمعي: أين موقعنا من همّ الأمة ومستقبل أجيالنا؟', en: 'From momentary emotion to collective thinking: where do we stand on the concerns of the Ummah and the future of our generations?' },
     excerpt: { ar: 'من خطاب القرآن الفردي للنبي ﷺ إلى سؤال الموقع على خريطة التفكير الجمعي، وبين الانفعال اللحظي والبذل المستمر، وإنفاقٍ يحفظ هوية الأجيال القادمة.', en: 'From the Qur\'an\'s individual addresses to the Prophet ﷺ to the question of where we stand on the map of collective thinking, between momentary emotion and sustained giving, and spending that preserves the identity of the coming generations.' },
   },
