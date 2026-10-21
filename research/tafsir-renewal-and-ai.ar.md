@@ -250,7 +250,7 @@ slug: "tafsir-renewal-and-ai"
 - Grzankowski, Alex, et al. “LLMs are Not Just Next Token Predictors.” arXiv:2408.04666, 2024. https://arxiv.org/abs/2408.04666
 - McGann, Jerome. Radiant Textuality: Literary Studies after the World Wide Web. New York: Palgrave Macmillan, 2001.
 - Drucker, Johanna. “Humanistic Theory and Digital Scholarship.” In Debates in the Digital Humanities. Minneapolis: Univ. of Minnesota Press, 2012.
-- Ihde, Don. “Hermeneutics of technological culture.” AI & Society, 2019. https://link.springer.com/article/10.1007/s00146-017-0717-4
+- Tripathi, Arun Kumar. “Hermeneutics of technological culture.” AI & Society 32, no. 2 (2017): 137–148. https://link.springer.com/article/10.1007/s00146-017-0717-4
 - “Does Faithfulness Conflict with Plausibility? An Empirical Study in Explainable AI across NLP Tasks.” arXiv:2404.00140, 2024. https://arxiv.org/abs/2404.00140
 - Mushtaq, Abdullah, et al. “Can LLMs Write Faithfully? An Agent-Based Evaluation of LLM-generated Islamic Content.” arXiv:2510.24438, 2025 (NeurIPS 2025, MusIML Workshop). https://arxiv.org/abs/2510.24438
 - Shahzad, Khurram, and Adnan Ashraf. “Artificial Intelligence (AI) and Natural Language Processing (NLP) for Religious Texts: A Systematic Mapping Study.” Journal of Integrated Sciences 5, no. 4 (2025). ISSN 2806-4801. https://journal.iou.edu.gm/jis/article/view/247
