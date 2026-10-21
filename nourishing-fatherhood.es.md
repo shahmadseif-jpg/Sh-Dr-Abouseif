@@ -36,7 +36,7 @@ Contempla esta escena divina: un levantamiento por la hija, un tomar de la mano,
 
 Y en otra transmisión, él (la paz sea con él) decía: «Fátima es una parte de mí; me daña lo que la daña, y me inquieta lo que la inquieta».[^2] Y esto es una declaración pública de que ella es una porción de su corazón, que hace de sus sentimientos una extensión de los suyos, y de su daño un daño a él. ¿Qué ternura es más delicada que el padre diga a su hija: tú eres de mí, y yo soy de ti?
 
-Y no se limitó su enseñanza (la paz sea con él) al mero acto, sino que le hacía oír la palabra hermosa, suplicaba por ella a la vista de la gente, y la elogiaba por la razón, la religión y la paciencia. Y la llamó «la madre de su padre» como honra y mimo, y es un apelativo que reúne entre la ternura y el reconocimiento de su papel emotivo en la vida de él (la paz sea con él) tras la pérdida de su madre Jadiŷa (Dios esté complacido con ella), la esposa del Profeta (la paz sea con él).
+Y no se limitó su enseñanza (la paz sea con él) al mero acto, sino que le hacía oír la palabra hermosa, suplicaba por ella a la vista de la gente, y la elogiaba por la razón, la religión y la paciencia. Y se la conocía por la kunya «la madre de su padre», aunque no consta con una cadena correcta que fuera él (la paz sea con él) quien se la diera[^8], y es un apelativo que reúne entre la ternura y el reconocimiento de su papel emotivo en la vida de él (la paz sea con él) tras la pérdida de su madre Jadiŷa (Dios esté complacido con ella), la esposa del Profeta (la paz sea con él).
 
 ### Tercero: en los dichos de los psicólogos musulmanes y contemporáneos
 
@@ -62,7 +62,7 @@ Si se establece que esta «ternura» es requerida en la legislación y la razón
 
 - **El beso y el abrazo:** el beso de la frente, la mano y la cabeza, y el abrazo paterno en las situaciones decisivas; pues este toque cariñoso segrega en su cerebro la hormona de la seguridad que la protege de un hambre que la empuja a brazos extraños.
 
-- **La palabra propia de ella sola:** un apelativo cariñoso del que se distingue de sus hermanas, o un llamado que no usa nadie sino él; como dijo (la paz sea con él) a Fátima: «la madre de su padre»[^8].
+- **La palabra propia de ella sola:** un apelativo cariñoso del que se distingue de sus hermanas, o un llamado que no usa nadie sino él; como en la conocida kunya de Fátima (Dios esté complacido con ella): «la madre de su padre», aunque no consta que fuera él (la paz sea con él) quien la eligiera para ella[^8].
 
 - **La sesión especial:** media hora semanal en la que se aísla con ella, le pregunta por su estudio, sus amigas y sus sueños, y le hace oír las palabras del orgullo por ella.
 
@@ -96,7 +96,7 @@ Pues si el padre observa estas siete normas, ha abierto al corazón de su hija u
 
 **La segunda advertencia:** muchos padres creen que la dureza es «la hombría», y que la manifestación del amor es una debilidad que conviene a las mujeres. Y esta es una comprensión invertida; pues el Profeta (la paz sea con él) —que es el señor de los hombres— era el más delicado de la gente con su familia, y eso no mermó de su solemnidad nada, sino que la aumentó.
 
-**La tercera advertencia:** esta ternura paterna es una responsabilidad legislada, no una gracia que el padre concede como favor a su hija. Pues él (la paz sea con él) dijo: «No otorgó un padre a su hijo algo mejor que una buena educación»,[^7] y de la mejor educación es fortalecer el corazón con el amor antes de seguir su disciplina con la palabra.
+**La tercera advertencia:** esta ternura paterna es una responsabilidad legislada, no una gracia que el padre concede como favor a su hija. Y se transmite de él (la paz sea con él), con una cadena débil: «No otorgó un padre a su hijo algo mejor que una buena educación»,[^7] y de la mejor educación es fortalecer el corazón con el amor antes de seguir su disciplina con la palabra.
 
 **La cuarta advertencia:** si la relación se enfrió largos años, que no desespere el padre de comenzar de nuevo. Comienza con una palabra, luego dos, luego abrázala un día y dile: «Yo te amo, hija mía». No te costará mucho, pero abrirá en su corazón una puerta que creyó cerrada para siempre.
 
