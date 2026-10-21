@@ -161,7 +161,7 @@ When the father lives the psychology of a traveler, his son grows up in a state 
 
 The Yūsufian model breaks this triad because it says: "I am in this land a bearer of a message; my children are of its people by birth and of the message's people by lineage." Look at the final verses of the sūra — how he raised his father onto his throne in Egypt and did not descend to his father's land. **The center of civilizational gravity moves to the land that hosts the message; it does not remain suspended in the land of memories**.
 
-It is as if the sūra is speaking to the children of the Muslim community in the West: "You are not guests. You are native inhabitants of the message's domain, and your land is the one your presence is sanctifying."
+It is as if the sūra is speaking to the children of the Muslim community in the West: "You are not guests. You are native inhabitants of the message's domain, and your land is the one your presence carries."
 
 ### Crisis Three: The Paralysis of the Will to Build
 

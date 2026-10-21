@@ -53,7 +53,7 @@ Como hizo con la paciencia, el Corán no deja la amāna como un concepto abstrac
 
 Cuando dos hombres tratan entre sí sobre la base de la confianza mutua, sin escrito ni testigos, situación común en la vida diaria, el Corán no deja el asunto a la sola buena intención. Une el cumplimiento efectivo («que cumpla») al temor de Dios en el corazón («y que tema a Dios, su Señor»), y afirma así que la amāna, como la paciencia y la gratitud antes de ella en esta serie, es un acto exterior que se pone a prueba y no un sentimiento interior al que baste con pretender.
 
-La historia de José ofrece un modelo más del atributo amīn, en el marco de una prueba práctica. Cuando el rey pidió que José fuera sacado de la prisión, este no salió de inmediato, sino que pidió primero que se investigara la acusación de calumnia que pesaba sobre él. Una vez establecida su inocencia, el ʿAzīz lo describió con plena confianza:
+La historia de José ofrece un modelo más del atributo amīn, en el marco de una prueba práctica. Cuando el rey pidió que José fuera sacado de la prisión, este no salió de inmediato, sino que pidió primero que se investigara la acusación calumniosa lanzada contra él. Una vez establecida su inocencia, el ʿAzīz lo describió con plena confianza:
 
 ﴿إِنَّكَ الْيَوْمَ لَدَيْنَا مَكِينٌ أَمِينٌ﴾ (12:54)
 *«Ciertamente, hoy gozas ante nosotros de posición firme y de confianza».*

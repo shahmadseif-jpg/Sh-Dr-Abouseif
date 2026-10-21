@@ -43,7 +43,7 @@ The core argument rests on three pillars:
 
 **Second pillar -- the principle of need.** Leading jurists, including al-Juwayni, al-Ghazali, and al-Shatibi, established that sustained general need descends to the level of necessity in removing hardship when that need is widespread and not limited to a single individual. Al-Shatibi writes in al-Muwafaqat: "The 'need-based' (hajiyyat) category consists of what is required in the interest of ease and the removal of hardship that leads, generally, to constraint and difficulty when the needed thing is absent, though it does not reach the level of the pervasive corruption that attaches to general necessities."
 
-Housing for a Muslim in the West -- in a society governed by the laws of private property and driven by real estate markets that have risen steeply for decades -- constitutes a sustained general need of the first order.
+Housing for a Muslim in the West -- in a society driven by the laws of private property and governed by high-priced real estate markets -- is a general and recurring need, whose extent you grasp when you know that in many Western cities rent paid over about fifteen years adds up to more than the actual price of the home.
 
 **Third pillar -- consequences and objectives.** When the consequences of lifelong renting are examined, one finds that the Muslim expends wealth equivalent to the full price of a home without generating any lasting family or communal asset. Ownership, by contrast, fulfills several major maqasid: preserving lineage through family stability, preserving wealth through genuine investment, and strengthening the Muslim community's civic rootedness in the West.
 
@@ -81,9 +81,9 @@ If one accepts the position that the conventional mortgage is permissible in the
 
 **Third -- limit to genuine need.** One home for living, sized appropriately for the family's actual requirements, not expanded to status or luxury.
 
-**Fourth -- continue seeking the alternative.** If Islamic financing later becomes available, it is strongly recommended to transition to it if that can be done without serious harm. The dispensation is proportional to the duration of the need.
+**Fourth -- continue seeking the alternative.** If Islamic financing later becomes available, it is commendable to transition to it if that can be done without severe harm. The dispensation is temporary, limited to the extent of the need.
 
-**Fifth -- intention of correction and continued seeking.** The Muslim who proceeds should hold the intention of transitioning to a Sharia-compliant structure when the opportunity arises, and should not treat the conventional mortgage as simply permissible, but rather as a hardship he hopes God will lift from him.
+**Fifth -- the intention to exit and to repent.** The Muslim should intend to move to Sharia-compliant financing at the first opportunity, and should not treat the conventional mortgage as something lawful in origin, but rather as a necessity from which he hopes God will relieve him.
 
 ---
 
@@ -91,7 +91,7 @@ If one accepts the position that the conventional mortgage is permissible in the
 
 If you find yourself suspended between the two positions and cannot settle your conscience with either, there is a sound practical course:
 
-**Consult a credible scholar in minority fiqh** who has genuine connection to the lived reality of Muslims in the West -- not a scholar based in Muslim-majority lands who does not know the economic structure of Western housing markets or understand what it means to rent for thirty years in a city like New York or London or Toronto.
+**Consult a credible scholar in minority fiqh** who has genuine connection to the lived reality of Muslims in the West -- not a scholar based in Muslim-majority lands who does not know the economic structure of Western housing markets or understand what renting forever means in societies where prices double every decade.
 
 There is a meaningful difference between a scholar who discusses riba from a context where Islamic banks are on every block and housing prices are within reach of ordinary people -- and a scholar who understands that a Muslim family in New Jersey has paid $3,000 a month in rent for ten years, and at the end of that decade will have nothing to show for it but a returned key.
 

@@ -99,7 +99,7 @@ Vuelvo contigo —oh, hermano lector— a la pregunta con la que abrimos: **¿cu
 
 **Segundo: la balanza.** Haz de tu balanza el Corán, no el sesgo tribal ni la emoción confesional. Juzga con justicia, pues *«el odio de un pueblo»* no debe llevarte a abandonar la justicia. Aprende la alegría en su lugar, la tristeza en su lugar, y el silencio en su lugar. *«¡Oh, los que habéis creído! Sed firmes en favor de Dios, testigos con equidad, y que no os lleve el odio de un pueblo a no ser justos. Sed justos; eso es más cercano a la piedad»* (al-Māʾida: 8).
 
-**Tercero: el llamado (daʿwa).** Haz de tu casa, tu mezquita y tu trabajo arenas para el llamado con el estado antes que con el dicho. La gente junto a la que te sientas en el tren, a quien atiende su médico, y a cuyos hijos enseña su maestro —estos leen el islam en ti antes de leerlo en un libro. **Haz que la lectura en ti honre la religión.**
+**Tercero: el llamado (daʿwa).** Haz de tu casa, tu mezquita y tu trabajo arenas para el llamado con el estado antes que con el dicho. La gente junto a la que te sientas en el tren, aquellos cuyo médico te atiende y cuyo maestro enseña a tus hijos —estos leen el islam en ti antes de leerlo en un libro. **Haz que la lectura en ti honre la religión.**
 
 **Cuarto: la comunidad.** No estés solo. Intégrate en una labor compartida: una mezquita que sirves, una escuela en la que enseñas, una asociación benéfica en la que trabajas. El individuo es débil, y la comunidad es fuerza. Y el musulmán en Occidente hoy tiene una necesidad apremiante de ser parte de una estructura, no de ser un átomo disperso.
 

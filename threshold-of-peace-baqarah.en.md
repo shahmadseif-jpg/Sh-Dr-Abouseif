@@ -26,7 +26,7 @@ And there is a subtle touch that ought not to be missed: when He forbade followi
 
 At verse 208, the carpet of foundation is rolled up, and the carpet of nurture is spread out. It is no longer required that you merely know the ruling, but that you yield to it with your whole being—so that no corner of the heart remains outside al-silm, and no domain of life remains unentered by the obedience of God. And of the Qurʾan's gentleness is that it paired the call with a warning against the "footsteps" of Satan—not his leaps—because deviation from wholeness begins only with a hidden step that lures its taker little by little.
 
-## The Second Half: Guidance, Not Compulsion Alone
+## The Second Half: Guidance, Not Binding Obligation Alone
 
 After the pivot, the style changes more than the subject matter does. The rulings now come wrapped in dialogue, narrative, and admonition; they address the will and the conscience, not content merely to knock at the door of obligation.
 

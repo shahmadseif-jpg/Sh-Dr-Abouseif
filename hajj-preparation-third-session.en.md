@@ -35,7 +35,7 @@ We have two situations here that may seem to stand opposite each other. The firs
 
 And even the prayer. Imagine: we are in the prayer, and the moment we finish we start immediately to repeat the words of forgiveness. The Prophet ﷺ used to say it three times after the prayer.[^4] What did he do? He obeyed Allah. He performed the prayer. He did nothing wrong. Why is he asking Allah for forgiveness after performing the prayer? Because maybe there was some shortcoming during the prayer, and for that reason we ask Allah to forgive us. Seeking forgiveness is the main goal in our life: we ask Allah to forgive the sins we committed before and the ones we did.
 
-The second point, as we speak about the virtue of that day: Allah mentioned in a hadith, a different one, that this is the best day, the day on which Allah forgives people and frees their necks from the Fire.[^5] It is the merciful day, the day of mercy, as Allah, glory be to Him, mentioned through the hadith of the Prophet Muḥammad ﷺ. As we said before about the importance of Hajj in our lives, through it we know the meaning of servitude to Allah, we renew our faith, and we have the unity of the community.
+The second point, as we speak about the virtue of that day: it is mentioned in a hadith, a different one, that this is the best day, the day on which Allah forgives people and frees their necks from the Fire.[^5] It is the merciful day, the day of mercy, as has come in the hadith of the Prophet Muḥammad ﷺ. As we said before about the importance of Hajj in our lives, through it we know the meaning of servitude to Allah, we renew our faith, and we have the unity of the community.
 
 ### Who is obliged to go
 

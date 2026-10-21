@@ -1,6 +1,6 @@
 ---
 title: "Our Homes from Within: Marriage in the Qur'an"
-subtitle: "Marriage in the Qur'an: tranquility, mercy, and the responsibility of each spouse"
+subtitle: "Marriage in the Qur'an: tranquility, affection and mercy, and the responsibility of each spouse"
 date: "2026-04-17"
 locale: "en"
 slug: "our-homes-from-within"

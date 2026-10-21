@@ -63,7 +63,7 @@ Y cuando el Profeta (la paz sea con él) entró en la mezquita y vio una cuerda 
 
 > «Desatadla; que rece cada uno de vosotros con su vigor, y si flaquea, que se eche a dormir.» [acordado por al-Bujārī y Muslim]
 
-La adoración que necesita de una cuerda que te lleve a ella no es aún una adoración estable, y la fe que no se mueve sino con un tirón de entusiasmo necesita de una construcción más honda. Dios no nos encomendó ser ángeles que no flaquean, sino que nos encomendó ser humanos virtuosos que conectan su vigor, y si se cansan, dan descanso a sus almas para volver.
+La adoración que necesita de una cuerda que te lleve a ella no es aún una adoración estable, y la fe que no se mueve sino con un tirón de entusiasmo necesita de una construcción más honda. Dios no nos encomendó ser ángeles que no flaquean, sino que nos encomendó ser humanos virtuosos que rezan mientras dura su vigor, y si se cansan, dan descanso a sus almas para volver.
 
 ### La regla global: no trata la adoración, sino a su poseedor
 

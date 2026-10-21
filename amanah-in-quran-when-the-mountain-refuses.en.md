@@ -97,4 +97,4 @@ From a cosmic scene in which the deep-rooted mountains refused to bear the Trust
 
 ---
 
-[^1]: Narrated by Imām Aḥmad in his *Musnad*, no. 12567, on the authority of Anas ibn Mālik (may God be pleased with him); authenticated by al-Albānī in *Ṣaḥīḥ al-Targhīb*, and graded good (ḥasan) by Shuʿayb al-Arnāʾūṭ in *al-Shawāhid*.
+[^1]: Narrated by Imām Aḥmad in his *Musnad*, no. 12567, on the authority of Anas ibn Mālik (may God be pleased with him); authenticated by al-Albānī in *Ṣaḥīḥ al-Targhīb*, and graded good (ḥasan) by Shuʿayb al-Arnāʾūṭ "fī al-shawāhid".

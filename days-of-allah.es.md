@@ -70,7 +70,7 @@ Estas etapas no son propias del coronavirus, sino que son **el patrón del alma 
 Y de lo más hondo que descubrió el confinamiento sobre nosotros mismos, dos estados opuestos en la reunión humana:
 
 **El primer estado: el aislamiento.**
-Vimos a la gente apartarse del mundo. Se detuvieron las calles del movimiento. Los periodistas filmaron las mayores ciudades del mundo vacías sobre sus tronos, como si un solo mes pudiera devolver las ciudades del siglo XXI a la escena de las aldeas abandonadas. Cada uno en su casa, recibiendo materiales que compró por internet, sin abrir la puerta al exterior sino para recoger un paquete que el conductor deja y huye.
+Vimos a la gente apartarse del mundo. Se detuvieron las calles del movimiento. Los periodistas filmaron las mayores ciudades del mundo desiertas y desoladas, como si un solo mes pudiera devolver las ciudades del siglo XXI a la escena de las aldeas abandonadas. Cada uno en su casa, recibiendo materiales que compró por internet, sin abrir la puerta al exterior sino para recoger un paquete que el conductor deja y huye.
 
 Y en esto hay un aviso a los altos edificios de los que se enorgullecen sus dueños: pueden vaciarse de sus habitantes en **menos de un segundo** por un poder del Poderoso. Para que vean los siervos su verdadero tamaño en el universo, aun cuando se engañen con lo que tienen de ciencia, técnica y medios.
 

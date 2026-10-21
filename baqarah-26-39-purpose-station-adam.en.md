@@ -11,7 +11,7 @@ readingMinutes: 10
 
 Dr. Ahmed opened his khatira with blessings and peace upon the Prophet ﷺ, then with a supplication: O Allah, we ask You for pardon, mercy, forgiveness and good pleasure. O Allah, grant us refuge from disgrace in this world and from the punishment of the Hereafter, and do not set over us, because of our sins, those who do not fear You regarding us and do not have mercy on us. Draw Your veil over us, envelop us in Your pardon, and be gentle with us through Your generosity. O Allah, we seek refuge in You from worry and grief, we seek refuge in You from incapacity and laziness, we seek refuge in You from cowardice and stinginess, and we seek refuge in You from being overcome by debt and from the domination of men, through Your mercy, O Lord of the worlds.
 
-Then he said: This is our second meeting in a Qur'anic journey through which we try to pause at the verses recited in the prayer. We agreed that we would have a daily pause with a quarter of the Noble Qur'an, so that we pass through the whole Qur'an, by Allah's permission, within two hundred and forty days.
+Then he said: This is our second meeting in a Qur'anic journey through which we try to pause at the verses recited in the prayer. We agreed that we would have a daily pause with a quarter-ḥizb (one rubʿ) of the Noble Qur'an, so that we pass through the whole Qur'an, by Allah's permission, within two hundred and forty days.
 
 ### What We Established Yesterday
 

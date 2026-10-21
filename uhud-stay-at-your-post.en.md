@@ -6,7 +6,7 @@ locale: "en"
 slug: "uhud-stay-at-your-post"
 readingMinutes: 22
 ---
-> المناسبة: تفريغ محاضرة أُلقيت في Woodbridge بتاريخ 27 أغسطس 2026م ضمن سلسلة «الأهداف التربوية في القصص القرآني»   
+> Occasion: Transcription of a lecture delivered in Woodbridge on 27 August 2026, part of the series "Educational Aims in the Qur'anic Stories"   
 > Source: transcription of a recorded lecture by Dr. Ahmed Abouseif — [watch the original video on YouTube](https://www.youtube.com/watch?v=EbOuV-pzQJw)
 
 Alhamdulillah. We ask Allah to give us the blessing of tranquility and to guide our hearts to the straight path.

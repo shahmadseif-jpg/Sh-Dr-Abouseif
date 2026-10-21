@@ -9,7 +9,7 @@ readingMinutes: 1
 > Occasion: Transcript of a khatira delivered on August 24, 2026.   
 > Source: Transcript of a video khatira by Dr. Ahmed AbouSeif, [watch the original video on YouTube](https://www.youtube.com/watch?v=jsNVJQwM430)
 
-Dr. AbouSeif reflected on Surah al-Fajr and the address to the soul: ﴿يَا أَيَّتُهَا النَّفْسُ الْمُطْمَئِنَّةُ ارْجِعِي إِلَىٰ رَبِّكِ رَاضِيَةً مَّرْضِيَّةً ۝ فَادْخُلِي فِي عِبَادِي ۝ وَادْخُلِي جَنَّتِي﴾.[^1]
+Dr. AbouSeif reflected on Surah al-Fajr and the address to the soul: ﴿يَا أَيَّتُهَا النَّفْسُ الْمُطْمَئِنَّةُ ارْجِعِي إِلَىٰ رَبِّكِ رَاضِيَةً مَّرْضِيَّةً ۝ فَادْخُلِي فِي عِبَادِي ۝ وَادْخُلِي جَنَّتِي﴾ ("O soul at peace, return to your Lord, well-pleased and well-pleasing; enter among My servants, and enter My Paradise").[^1]
 
 ### The journey and its last destination
 

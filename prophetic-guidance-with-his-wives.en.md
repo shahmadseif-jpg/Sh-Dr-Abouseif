@@ -109,7 +109,7 @@ And he said: the speech is of course for both. And the mother says that she has 
 
 Then the mother turns to the daughter's mate, and says: and to your mate as I send my greeting, I send a plea with no ambiguity in it, he is in the position of your brother (Ashraf), my daughter. And the doctor asked: what did we say the girl's name was? Ahlām, "O knight of dreams":
 
-> O knight of dreams, the dreams of my daughter and my beloved, O bold one
+> O knight of dreams — Ahlām, my daughter and my beloved — O bold one
 > Be her husband and her friend and her brother and a tender father, all honor
 > Be the shepherd of the home, setting its affairs right with gentleness, no harshness or compulsion
 > Trust in her faithfulness, value her opinion, and if she complains, listen, being magnanimous

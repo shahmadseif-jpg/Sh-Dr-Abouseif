@@ -62,7 +62,7 @@ Many classical and modern commentators came close to describing what follows:
 
 - **Imām al-Rāzī** in *Mafātīḥ al-Ghayb* calls verses (22–39) "the foundations of legal rulings" (*uṣūl al-sharāʾiʿ*).
 - **Ibn ʿĀshūr** in *al-Taḥrīr wa-l-Tanwīr* names them "the mothers of virtues" (*ummahāt al-faḍāʾil*).
-- And **Rashīd Riḍā** refers to them as the "Qur'anic Ten Commandments" (because they are close in spirit to the Mosaic commandments, with an Islamic deepening of their ethics).
+- And **Rashīd Riḍā** refers to them as the "Qur'anic Ten Commandments" (because they are close in spirit to the Mosaic commandments, while going beyond their ethics).
 
 These designations converge on one thing: the verses of al-Isrāʾ are not jurisprudential details but **founding, all-encompassing articles**. We propose a more precise term for the context of contemporary civilization:
 
@@ -167,7 +167,7 @@ This is the pressure of **compromise rewarded by conditional friendship**. It is
 
 **The Contemporary Application**: The mosque that receives conditional funding, the imam invited to Muslim-government commissions with an implicit condition, the institution that avoids legal positions because they are "sensitive" in the public sphere — all of these experience the pressure of compromise. And the Qur'anic lesson: **it is strengthening that preserves, not methodological cleverness alone**.
 
-> **A Scene from Community Reality**: In one major American city, an imam was offered generous funding by a government institution for "interfaith dialogue" programs — with an implicit condition that he would avoid mentioning "sensitive regional issues" in his sermons. The imam politely declined the funding, telling his brother: "When they ask me for silence on the truth in exchange for money, the money is in reality the price of my tongue, not funding for my program." Three years later, the mosque grew through its own community's donations and became a reference point for the community rather than an annex to another agenda. This is "Had We not strengthened you" in its contemporary form.
+> **A Scene from Community Reality**: In one of the major cities, an imam was offered generous funding by a government institution for "interfaith dialogue" programs — with an implicit condition that he would avoid mentioning "sensitive regional issues" in his sermons. The imam politely declined the funding, telling his brother: "When they ask me for silence on the truth in exchange for money, the money is in reality the price of my tongue, not funding for my program." Three years later, the mosque grew through its own community's donations and became a reference point for the community rather than an annex to another agenda. This is "Had We not strengthened you" in its contemporary form.
 
 ### Scenario Two: The Pressure of Expulsion — Attempting to Uproot the Community from Outside
 
@@ -234,6 +234,8 @@ Analysis of the verse:
 
 **Application to the Community**: The Muslim in the West faces a double challenge: 1) Learning how to spend from his treasuries on his endowment, his mosque, his school, without "fear of spending." 2) Understanding that the accumulation of wealth in the dominant society — where 1% of people own 45% of the wealth[^2] — is a planetary manifestation of what the Qur'an warned against. And the community that falls into the same trap adds its sin to the general sin.
 
+> **A Scene That Reveals the Verse**: At an Islamic academy in the state of Texas, the board planned to build a new educational wing at a cost of 2.5 million dollars. The first donation came from a Muslim physician — five thousand dollars — with the words: "I am trying not to let the hands of my children's school come back empty." In the same week, another physician — from the same community, with roughly the same income — donated fifty thousand dollars to a private golf club. The difference is not in ability, but in the "fear of spending" that separates the two doors: the door of lasting benefit (an endowment, *waqf*, that remains for generations) is the one money fears to go through, while the door of fleeting pleasure opens without reckoning. The verse uncovered this economic unconscious 1,400 years ago.
+
 Ask yourself first, as the Qur'an reminds you: "Am I learning my own stinginess before criticizing the stinginess of others?" In the answer is a disciplinary pause.
 
 ---
@@ -274,6 +276,48 @@ And in the very position of the sūra in the *muṣḥaf* there is a significanc
 The series is a method that does not end. After al-Isrāʾ, we shall move to another sūra that reveals a different facet of Islamic civilization — perhaps **Sūrat al-Ḥajj** as a model of the diverse global community, or **Sūrat al-Nūr** as a model of the purified civic society. God knows best.
 
 Until then, let something of this sūra settle in your heart: you are the honored child of Adam. You have a constitution that safeguards you. Before you are pressures whose composition you understand. In your hand is Noah's ark, in your heart is Muḥammad's Burāq, in your staff is Moses' logic. With these, your provisions are sufficient.
+
+---
+
+## A Practical Step After Reading This Episode
+
+Sit with yourself — or with the people of your household — and ask three questions:
+
+1. **The question of dignity**: How do I preserve my daily dignity as one of the children of Adam in my society? Do I yield to every concession asked of me, or do I uphold the Qur'anic constitutional articles in my dealings with institutions and individuals?
+
+2. **The question of the two pressures**: Which pressure am I suffering from now — the pressure of compromise (*mudāhana*: that I adjust my way so that society will accept me) or the pressure of expulsion (that I be squeezed out of my space)? And how do I respond: with the firmness that faith gives, or with surrender?
+
+3. **The question of spending**: Am I "stingy" with my treasuries toward Islamic endowments (*waqf*), while I spend generously on fleeting pleasure? What is the amount which, if I spent it this month on an endowment that lasts, would make me feel I had begun to overcome the "fear of spending"?
+
+Write down your answers. Return to them after a year. For honest self-reckoning alone is the path of the founding community.
+
+---
+
+## This Episode's Place in the Series
+
+| Episode | Title | Status |
+|---------|----------|---------|
+| First | The Qur'an and Civilizational Grounding — The Pillars of Civilization in Sūrat al-Kahf | Published |
+| Second | Sūrat Yūsuf and the Curve of Civilizational Ascent | Published |
+| Third | The Hoopoe's Wing and the Flood of al-ʿArim — The Law of Rise and Fall | Published |
+| Fourth | The Sunan of Civilization in the Qur'an — A Comprehensive Pause | Published |
+| **Fifth (this one)** | **The Isrāʾ Before the Miʿrāj — The Constitutional Sūra and the Civic State Model** | **Published** |
+| Sixth | Sūrat al-Ḥajj or al-Nūr (forthcoming) | Forthcoming |
+
+---
+
+## Pointers and References
+
+- Ibn Kathīr, *Tafsīr al-Qurʾān al-ʿAẓīm*, on the tafsir of Sūrat al-Isrāʾ.
+- Ibn ʿĀshūr, *al-Taḥrīr wa-l-Tanwīr*, volume fifteen — with extensive discussions of "the mothers of the virtues" (verses 22–39).
+- Al-Rāzī, *Mafātīḥ al-Ghayb*, tafsir of Sūrat al-Isrāʾ — he calls the verses mentioned "the foundations of the laws."
+- Rashīd Riḍā, *Tafsīr al-Manār*, on the tafsir of "the Qur'anic Ten Commandments."
+- Sayyid Quṭb, *Fī Ẓilāl al-Qurʾān*, tafsir of Sūrat al-Isrāʾ.
+- Mālik Bennabi, *Shurūṭ al-Nahḍa* (The Conditions of Renaissance), the chapters on the relationship between religion and the constitution.
+- Ibn Khaldūn, *al-Muqaddima*, the chapters on cooperation for livelihood and on the state.
+- Agreed upon: "I have been sent to all people" — *Ṣaḥīḥ al-Bukhārī* (438), *Ṣaḥīḥ Muslim* (521).
+
+---
 
 *And praise is due to God, by whose praise good deeds are completed.*
 

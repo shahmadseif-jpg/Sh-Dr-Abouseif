@@ -67,7 +67,7 @@ Surveying these five objectives together, the Muslim who does not participate do
 
 Among the most widespread fallacies in this conversation is the idea that abstaining from voting is a politically neutral act with no real consequences. This is a serious misconception.
 
-When Muslims abstain from voting, they are in fact shaping outcomes — through absence rather than presence. The ballot box does not record absence: it simply reflects who came. Mathematically, every abstention is a half-vote for whoever the other side cast.
+When Muslims abstain from voting, they are in fact shaping outcomes — through absence rather than presence. The ballot box does not record absence: it reflects, arithmetically, who came and what they chose.
 
 American history is full of communities that learned too late that their silence handed decision-making authority to others. Muslims in several American swing states represent a voting bloc that, in some past elections, exceeded the margin of victory. This is not an abstract statistic — it is real influence that can be used or squandered.
 

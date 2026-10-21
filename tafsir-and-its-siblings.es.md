@@ -8,7 +8,7 @@ slug: "tafsir-and-its-siblings"
 
 ## Primero: el tafsīr orientado a los fines y «los fines del Corán»
 
-«Los fines del Corán» son un tema y un contenido: son las grandes metas por las que se reveló el Corán —como la guía, la rectificación de la creencia y la purificación del alma—. El tafsīr orientado a los fines, en cambio, es un método y un acto de inquisición que invierte esos fines en la comprensión de los versículos particulares y en su aplicación a la realidad. Entre ambos hay generalidad y particularidad: los fines del Corán son el gran «mapa» de las metas, y el tafsīr orientado a los fines es el «viaje» que recorres con este mapa en cada versículo.
+«Los fines del Corán» son un tema y un contenido: son las grandes metas por las que se reveló el Corán —como la guía, la rectificación de la creencia y la purificación del alma—. El tafsīr orientado a los fines, en cambio, es un método y un ejercicio de indagación que invierte esos fines en la comprensión de los versículos particulares y en su aplicación a la realidad. Entre ambos hay generalidad y particularidad: los fines del Corán son el gran «mapa» de las metas, y el tafsīr orientado a los fines es el «viaje» que recorres con este mapa en cada versículo.
 
 Dicho de otro modo: los fines del Corán son una conclusión que los sabios extraen del estudio de todo el Corán, y el tafsīr orientado a los fines es un proceso que emplea esta conclusión en la interpretación de los pasajes individuales. Toda interpretación orientada a los fines invoca los fines del Corán, pero no todo discurso sobre los fines del Corán es una interpretación orientada a los fines de los versículos; pues un sabio puede presentar los fines generales como un estudio teórico sin interpretar con ellos un versículo concreto.
 

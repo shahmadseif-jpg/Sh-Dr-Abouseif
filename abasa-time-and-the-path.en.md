@@ -6,7 +6,7 @@ locale: "en"
 slug: "abasa-time-and-the-path"
 readingMinutes: 9
 ---
-> Occasion: A transcription of a dinner lecture delivered at AIA on 29 September 2026
+> Occasion: A transcription of an Isha lecture delivered at AIA on 29 September 2026
 > Source: A transcription of a video lecture by Dr. Ahmed Abouseif — [Watch the original video on YouTube](https://www.youtube.com/watch?v=KFvDF5aUnE4)
 
 The gathering began with a comprehensive supplication: «O Allah, we ask You for the good of this night, the good of what is in it and the good of what comes after it, and we seek refuge in You from the evil of this night, the evil of what is in it and the evil of what comes after it. Set right for us our religion, our worldly life and our Hereafter, grant us right guidance in our affairs, bless us, O Allah, in what You have provided us, and protect us, O Allah, from the punishment of the Fire and the causes of punishment in this world and the next, by a mercy, a good pleasure and a generosity from You, O Lord of the worlds.»
