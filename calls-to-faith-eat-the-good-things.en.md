@@ -35,7 +35,7 @@ Then he said in English, in meaning: nobody is being asked to beat people, or to
 
 ### The Meal for Which God Is Praised
 
-And he mentioned the hadith of the Prophet ﷺ: «إنَّ اللهَ لَيَغْفِرُ لِلْعَبْدِ يَأْكُلُ الْأَكْلَةَ فَيَحْمَدُهُ عَلَيْهَا» (Indeed Allah forgives the servant who eats a meal and praises Him for it).[^2]
+And he mentioned the hadith of the Prophet ﷺ: «إنَّ اللهَ لَيَغْفِرُ لِلْعَبْدِ يَأْكُلُ الْأَكْلَةَ فَيَحْمَدُهُ عَلَيْهَا» (Indeed Allah forgives the servant who eats a meal and praises Him for it).[^2] [Editor's note: the established wording in *Ṣaḥīḥ Muslim* (2734), from Anas (may God be pleased with him), is «إِنَّ اللَّهَ لَيَرْضَى عَنِ الْعَبْدِ أَنْ يَأْكُلَ الْأَكْلَةَ فَيَحْمَدَهُ عَلَيْهَا» ("God is pleased with the servant who eats a meal and praises Him for it"), not «لَيَغْفِرُ» ("forgives").]
 
 Then he repeated: ﴿وَاشْكُرُوا لِلَّهِ إِن كُنتُمْ إِيَّاهُ تَعْبُدُونَ﴾ (and give thanks to Allah, if it is Him you worship).
 

@@ -25,13 +25,13 @@ Then ﴿يَا أَيُّهَا الَّذِينَ آمَنُوا أَنفِقُ
 
 ### Zakat and Charity
 
-Then ﴿إِنَّمَا الصَّدَقَاتُ لِلْفُقَرَاءِ وَالْمَسَاكِينِ وَالْعَامِلِينَ عَلَيْهَا وَالْمُؤَلَّفَةِ قُلُوبُهُمْ وَفِي الرِّقَابِ …﴾ (charities are only for the poor, the needy, those who work to collect them, those whose hearts are to be reconciled, and for freeing slaves …),[^2] then ﴿خُذْ مِنْ أَمْوَالِهِمْ صَدَقَةً تُطَهِّرُهُمْ وَتُزَكِّيهِم بِهَا﴾ (take from their wealth a charity by which you purify them and cause them to grow), then ﴿وَفِي أَمْوَالِهِمْ حَقٌّ مَّعْلُومٌ﴾ (and in their wealth is a known right), and he follows it with the words "a right for the beggar and the deprived."[^1] And he mentions zakat, charity, and mutual indebtedness.
+Then ﴿إِنَّمَا الصَّدَقَاتُ لِلْفُقَرَاءِ وَالْمَسَاكِينِ وَالْعَامِلِينَ عَلَيْهَا وَالْمُؤَلَّفَةِ قُلُوبُهُمْ وَفِي الرِّقَابِ …﴾ (charities are only for the poor, the needy, those who work to collect them, those whose hearts are to be reconciled, and for freeing slaves …),[^2] then ﴿خُذْ مِنْ أَمْوَالِهِمْ صَدَقَةً تُطَهِّرُهُمْ وَتُزَكِّيهِم بِهَا﴾ (take from their wealth a charity by which you purify them and cause them to grow), then his words "wa-fī amwālihim ḥaqqun maʿlūm" (and in their wealth is a known right), and he follows it with the words "a right for the beggar and the deprived."[^1] And he mentions zakat, charity, and mutual indebtedness.
 
 ### How Do We Derive Rulings?
 
 Then he poses a question: how do we derive rulings? He pauses at the particle "idhā" in the Qur'an, and mentions: ﴿إِذَا وَقَعَتِ الْوَاقِعَةُ﴾ (when the Event occurs), and ﴿إِذَا جَاءَ نَصْرُ اللَّهِ وَالْفَتْحُ﴾ (when the help of Allah and the victory come),[^3] and ﴿إِذَا تَدَايَنتُم﴾ (when you contract a debt), and he links that to the Arabic language. He explains "idhā tadāyantum" roughly as: if you agree to give, if you consent to grant. Then he mentions ﴿أَحَلَّ اللَّهُ الْبَيْعَ وَحَرَّمَ الرِّبَا﴾, and the ambiguous verses (mutashābihāt), and the Qur'an, and the Sunnah of Muhammad ﷺ, and he concludes with "jazākum Allāhu khayran, bārak Allāh" (may Allah reward you with good; may Allah bless you).
 
 ---
-[^1]: Editor's documentation: The phrase «وفي أموالهم حق معلوم» ("and in their wealth is a known right") has a parallel in al-Maʿārij: 24-25 and al-Dhāriyāt: 19.
+[^1]: Editor's documentation: In this phrase the speaker combined the wording of two verses, so it has been taken out of the Qurʾanic brackets: ﴿وَالَّذِينَ فِي أَمْوَالِهِمْ حَقٌّ مَّعْلُومٌ ۝ لِّلسَّائِلِ وَالْمَحْرُومِ﴾ ("and those in whose wealth is a known right, for the beggar and the deprived," al-Maʿārij: 24-25), and ﴿وَفِي أَمْوَالِهِمْ حَقٌّ لِّلسَّائِلِ وَالْمَحْرُومِ﴾ ("and in their wealth is a right for the beggar and the deprived," al-Dhāriyāt: 19).
 [^2]: Editor's documentation: al-Tawbah: 60 for the first, and al-Tawbah: 103 for the second; the lecturer did not name the sūrah, and the attribution is the editor's.
 [^3]: Editor's documentation: al-Wāqiʿah: 1, al-Naṣr: 1; the lecturer did not name the two sūrahs, and the attribution is the editor's.
