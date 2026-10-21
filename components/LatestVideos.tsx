@@ -48,6 +48,7 @@ export default async function LatestVideos() {
                 <img
                   src={video.thumbnail}
                   alt={video.title}
+                  lang={video.language}
                   loading="lazy"
                   className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-300"
                 />
@@ -70,7 +71,7 @@ export default async function LatestVideos() {
                 </div>
               </div>
               <div className="p-5">
-                <h3 className="text-base font-medium text-navy-700 line-clamp-2 mb-2 leading-snug">
+                <h3 className="text-base font-medium text-navy-700 line-clamp-2 mb-2 leading-snug" lang={video.language} dir="auto">
                   {video.title}
                 </h3>
                 <div className="text-xs text-navy-500">

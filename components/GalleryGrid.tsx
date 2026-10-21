@@ -126,7 +126,6 @@ export default function GalleryGrid() {
                   lang={metaLang}
                   loading="lazy"
                   decoding="async"
-                  sizes="(min-width: 1024px) 25vw, (min-width: 640px) 33vw, 50vw"
                   className="h-full w-full object-cover transition-transform duration-300 group-hover:scale-105"
                 />
                 {item.caption && (
