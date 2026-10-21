@@ -79,6 +79,8 @@ async function section(area, fn) {
 async function gotoStable(page, path) {
   const res = await page.goto(BASE + path, { waitUntil: 'domcontentloaded', timeout: 60000 });
   await page.waitForLoadState('load').catch(() => {});
+  await page.waitForLoadState('networkidle', { timeout: 10000 }).catch(() => {});
+  await page.evaluate(() => document.fonts && document.fonts.ready).catch(() => {});
   await page.waitForTimeout(150);
   return res;
 }
@@ -96,6 +98,7 @@ await section('overflow', async () => {
           continue;
         }
         const m = await page.evaluate(() => {
+          if (!document.querySelector('header') || !document.querySelector('main')) return { blank: true };
           const vw = document.documentElement.clientWidth;
           const sw = Math.max(document.documentElement.scrollWidth, document.body.scrollWidth);
           const off = [];
@@ -107,6 +110,11 @@ await section('overflow', async () => {
           });
           return { vw, sw, off };
         });
+        if (m.blank) {
+          // A page without header/main would make every width check vacuous.
+          fail('overflow', `/${loc}${p} @${w}: page rendered without header/main`);
+          continue;
+        }
         const row = { locale: loc, page: p || '/', width: w, scrollWidth: m.sw, viewport: m.vw, offscreen: m.off.length };
         results.overflow.push(row);
         if (m.sw > m.vw + 1) fail('overflow', `/${loc}${p} @${w}: scrollWidth ${m.sw} > ${m.vw}`);
