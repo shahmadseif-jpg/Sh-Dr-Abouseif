@@ -98,4 +98,6 @@ The research revolved around a central question: how can fatwa fulfill its Shari
 
 ---
 
+*This is an on-page reading version: it does not carry the list of sources and references or the statement of the limits of the field observation (that it is operational observation, not a strictly representative statistical sample); both are in the attached PDF of the paper, pages 40–42.*
+
 *Written by: Dr. Ahmed Muhammad Abouseif. (The research relied, alongside theoretical analysis and interviews, on a cumulative field record over more than fifteen years of continuous outreach work in the United States.)*
