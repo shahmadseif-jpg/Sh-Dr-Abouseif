@@ -1,5 +1,5 @@
 ---
-title: "En el mapa del pensamiento colectivo"
+title: "El pensamiento colectivo y la formación de la próxima generación"
 subtitle: "De la emoción momentánea al pensamiento colectivo: ¿dónde estamos respecto de las preocupaciones de la Umma y del futuro de nuestras generaciones?"
 date: "2025-12-19"
 locale: "es"

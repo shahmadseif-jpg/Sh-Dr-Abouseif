@@ -1,5 +1,5 @@
 ---
-title: "On the Map of Collective Thinking"
+title: "Collective Thinking and Building the Next Generation"
 subtitle: "From momentary emotion to collective thinking: where do we stand on the concerns of the Ummah and the future of our generations?"
 date: "2025-12-19"
 locale: "en"
