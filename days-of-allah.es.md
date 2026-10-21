@@ -99,7 +99,7 @@ Y esto no es en las casas solas, sino a nivel de **la labor islámica** misma. E
 
 ### La sexta lección: la seguridad que fabricó el confinamiento
 
-Y de lo más asombroso que descubrió el confinamiento es que **los policías no tenían trabajo sino el servicio**. No hubo crimen en las calles, ni robos, ni saqueos, ni sucesos de homicidio. Porque Dios encerró a la gente dentro de sus casas.
+Y de lo más asombroso que descubrió el confinamiento es que **los policías no tenían trabajo sino el servicio**. No hubo crimen en las calles, ni robos, ni saqueos, ni sucesos de homicidio.[^1] Porque Dios encerró a la gente dentro de sus casas.
 
 Una pregunta sencilla pero penetrante: ¿por qué no aprendemos a sentir esta seguridad en **nuestras almas, nuestros corazones, nuestras mentes y nuestros espíritus**, sin que Dios nos encierre en nuestras casas?
 
@@ -122,3 +122,5 @@ Y el cierre de estas lecciones es que la pandemia no vino sino para recordarnos 
 ¡Oh, Dios! Te pedimos la salud mientras nos hagas vivir, Te pedimos el buen final, Te pedimos el velo en el mundo y la otra vida, y el perdón y la salud en nuestra religión, nuestro mundo y nuestra otra vida. Dispón para nosotros, de nuestro asunto, una buena dirección, bendícenos lo que nos has provisto, y presérvanos del castigo del Fuego.
 
 > Este artículo está adaptado de un sermón del viernes que pronunció el shayj Dr. Ahmed Abouseif un año después del comienzo de la pandemia de coronavirus, que recuerda los «Días de Dios» que pasan sobre la humanidad y descubren Sus leyes magnas, y extrae de ella seis lecciones para el corazón reflexivo.
+
+[^1]: Nota del editor: Esto describe la calma aparente de las calles durante el confinamiento, no un dato estadístico general; la delincuencia no cesó en ese periodo, y las estadísticas de criminalidad del FBI de 2020 informaron de que los homicidios en los Estados Unidos aumentaron en torno a un 29,4 % respecto del año anterior. Ello no significa que el confinamiento mismo causara ese aumento.
