@@ -242,5 +242,11 @@
     "empty": "Aún no hay comentarios publicados. Sé el primero en comentar.",
     "moderationNote": "Esperamos que el artículo te haya sido de provecho, y agradecemos tu comentario y tu consejo.",
     "replyLabel": "Respuesta del jeque"
+  },
+  "not_found": {
+    "title": "Página no encontrada",
+    "body": "No encontramos la página solicitada. Es posible que se haya movido o que su dirección haya cambiado.",
+    "home": "Volver a la página de inicio",
+    "search": "Buscar en el sitio"
   }
 }
