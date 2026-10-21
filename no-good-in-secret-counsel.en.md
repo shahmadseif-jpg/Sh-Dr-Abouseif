@@ -10,7 +10,7 @@ readingMinutes: 12
 > Source: transcription of a recorded lecture by Dr. Ahmed Abouseif — [watch the original video on YouTube](https://www.youtube.com/watch?v=MDfjO5gFXbc)
 > Editor's note: This text summarizes what could be established from the lecture and is not a verbatim transcript; no explanation that was not in the lecture has been added.
 
-The lecturer began by promising to be brief, since the people were waiting to pray, and then took up the verse that had been recited at the start of the session. When we try to translate it, he said, Allah is telling us that there is no benefit in any kind of speech unless it is one of three things.[^1]
+The lecturer began by promising to be brief, since the people were waiting to pray, and then took up the verse that had been recited at the start of the session. When we try to translate it, he said, Allah is telling us that there is no benefit in any kind of speech unless it is one of three things.[^1] [Editor's note: the verse reads ﴿لَّا خَيْرَ فِي كَثِيرٍ مِّن نَّجْوَاهُمْ﴾ ("There is no good in much of their private conversation," al-Nisāʾ: 114); it concerns much of private counsel, not all speech, and extending it to every kind of speech is the lecturer's homiletic application.]
 
 ### Three kinds of speech worth having
 
