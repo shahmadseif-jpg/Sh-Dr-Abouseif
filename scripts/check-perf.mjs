@@ -91,6 +91,18 @@ if (!fs.existsSync(appDir)) {
   }
 }
 
+// Article cover (next/image) must carry `sizes`, otherwise the 2x candidate of
+// width=1600 (w=3840) is what phones download (PERF-04).
+{
+  const art = path.join(root, '.next/server/app/ar/articles/wisdom-lost-property.html');
+  const html = fs.existsSync(art) ? fs.readFileSync(art, 'utf8') : BASE ? await (await fetch(BASE + '/ar/articles/wisdom-lost-property')).text() : null;
+  if (html) {
+    const img = (html.match(/<img[^>]*tmc-flyer[^>]*>/) || [''])[0];
+    if (!/sizes="\(min-width: 768px\) 720px/.test(img)) fail('article cover image has no sizes attribute');
+    else ok('article cover image declares sizes');
+  }
+}
+
 // ----------------------------------------------------------------- browser
 if (BASE) {
   const require = createRequire(import.meta.url);
