@@ -1,4 +1,5 @@
 import { useTranslations, useLocale } from 'next-intl';
+import { pageMetadata } from '@/lib/seo';
 import { setRequestLocale, getTranslations } from 'next-intl/server';
 import { Link } from '@/i18n/routing';
 import { researchMeta, researchTypeLabels } from '@/lib/research';
@@ -10,6 +11,7 @@ import { getEstimatedLectureCount } from '@/lib/lecture-counter';
 export const revalidate = 3600;
 import PrintButton from '@/components/PrintButton';
 import MediaBio from '@/components/MediaBio';
+import { findPublished, published } from '@/lib/publish';
 
 type Loc = 'ar' | 'en' | 'es' | 'ur';
 
@@ -123,7 +125,8 @@ export async function generateMetadata({
 }) {
   const { locale } = await params;
   const t = await getTranslations({ locale, namespace: 'about' });
-  return { title: `${t('title')} — ${locale === 'ar' ? 'د. أحمد أبو سيف' : locale === 'ur' ? 'ڈاکٹر احمد ابو سیف' : 'Dr. Ahmed Abouseif'}` };
+  const site = await getTranslations({ locale, namespace: 'site' });
+  return pageMetadata({ locale, path: '/about', title: `${t('title')} — ${locale === 'ar' ? 'د. أحمد أبو سيف' : locale === 'ur' ? 'ڈاکٹر احمد ابو سیف' : 'Dr. Ahmed Abouseif'}`, description: site('description') });
 }
 
 export default async function AboutPage({
@@ -313,8 +316,7 @@ function AboutContent() {
       : 'en';
   const data = content[loc];
   const labels = ui[loc];
-  const pubs = researchMeta
-    .filter((item) => !item.draft)
+  const pubs = published(researchMeta)
     .sort((a, b) => b.year - a.year);
   const orderedCats: ArticleCategory[] = [
     'maqasid-tafsir',
@@ -329,8 +331,8 @@ function AboutContent() {
   const articlesByCat = orderedCats
     .map((cat) => ({
       cat,
-      items: articlesMeta
-        .filter((item) => !item.draft && item.category === cat)
+      items: published(articlesMeta)
+        .filter((item) => item.category === cat)
         .sort((a, b) => b.isoDate.localeCompare(a.isoDate)),
     }))
     .filter((group) => group.items.length > 0);
@@ -414,7 +416,7 @@ function AboutContent() {
         <Section title={labels.eduH}>
           <div className="space-y-6">
             {educationDegrees.map(({ slug, degree }) => {
-              const item = researchMeta.find((entry) => entry.slug === slug);
+              const item = findPublished(researchMeta, slug);
               if (!item) return null;
               return (
                 <div key={slug} className="border-s-2 border-gold-300 ps-4">
