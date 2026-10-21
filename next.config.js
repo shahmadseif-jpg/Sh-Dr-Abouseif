@@ -1,9 +1,13 @@
 const createNextIntlPlugin = require('next-intl/plugin');
 
 const withNextIntl = createNextIntlPlugin('./i18n/request.ts');
+const { securityHeaders } = require('./security-headers');
 
 /** @type {import('next').NextConfig} */
 const nextConfig = {
+  async headers() {
+    return [{ source: '/:path*', headers: securityHeaders }];
+  },
   images: {
     remotePatterns: [
       {
