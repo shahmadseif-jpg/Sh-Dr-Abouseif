@@ -1,11 +1,11 @@
-import type { ReactNode } from 'react';
+import type { Metadata } from 'next';
 import { setRequestLocale, getTranslations } from 'next-intl/server';
 import { notFound } from 'next/navigation';
 import { Link } from '@/i18n/routing';
 import {
   getResearchItem,
+  getAllResearch,
   getPdfUrl,
-  researchMeta,
   researchTypeLabels,
   researchCategoryLabels,
 } from '@/lib/research';
@@ -15,54 +15,33 @@ import { SITE_URL } from '@/lib/site';
 import ReadingTools from '@/components/ReadingTools';
 import CiteThis from '@/components/CiteThis';
 import ContentLanguageNotice from '@/components/ContentLanguageNotice';
+import { availableLocales } from '@/lib/content-availability-server';
+import { authorName, pageMetadata } from '@/lib/seo';
+import { extractToc, parseMarkdown, prepareMarkdownBody, renderMarkdown } from '@/lib/markdown';
 
 export async function generateStaticParams() {
-  return researchMeta
-    .filter((r) => !r.draft)
-    .map((r) => ({ slug: r.slug }));
+  return getAllResearch().map((r) => ({ slug: r.slug }));
 }
 
 export async function generateMetadata({
   params,
 }: {
   params: Promise<{ locale: string; slug: string }>;
-}) {
+}): Promise<Metadata> {
   const { locale, slug } = await params;
   const item = getResearchItem(slug);
   if (!item) return {};
-
-  const author = locale === 'ar' ? 'د. أحمد أبو سيف' : locale === 'ur' ? 'ڈاکٹر احمد ابو سیف' : 'Dr. Ahmed Abouseif';
-  const title = `${localize(item.title, locale)} — ${author}`;
-  const description = localize(item.abstract, locale).substring(0, 200);
-  const path = `/research/${slug}`;
-  const ogLocale = locale === 'ar' ? 'ar_EG' : locale === 'es' ? 'es_ES' : locale === 'ur' ? 'ur_PK' : 'en_US';
-  const image = '/dr-ahmed.jpg';
-
-  return {
-    title,
-    description,
-    alternates: {
-      canonical: `/${locale}${path}`,
-      languages: { ar: `/ar${path}`, en: `/en${path}`, es: `/es${path}`, ur: `/ur${path}` },
-    },
-    openGraph: {
-      type: 'article',
-      title,
-      description,
-      url: `/${locale}${path}`,
-      siteName: author,
-      locale: ogLocale,
-      publishedTime: item.isoDate,
-      authors: [author],
-      images: [{ url: image }],
-    },
-    twitter: {
-      card: 'summary_large_image',
-      title,
-      description,
-      images: [image],
-    },
-  };
+  const content = getResearchContent(slug, locale);
+  return pageMetadata({
+    locale,
+    path: `/research/${slug}`,
+    title: `${localize(item.title, locale)} — ${authorName(locale)}`,
+    description: localize(item.abstract, locale).substring(0, 200),
+    available: availableLocales('research', slug, item),
+    resolvedLocale: content?.resolvedLocale,
+    ogType: 'article',
+    publishedTime: item.isoDate,
+  });
 }
 
 export default async function ResearchItemPage({
@@ -74,9 +53,7 @@ export default async function ResearchItemPage({
   setRequestLocale(locale);
 
   const item = getResearchItem(slug);
-  if (!item || item.draft) {
-    notFound();
-  }
+  if (!item) notFound();
 
   const loc = locale as Loc;
   const t = await getTranslations({ locale, namespace: 'research' });
@@ -87,8 +64,8 @@ export default async function ResearchItemPage({
     content?.resolvedLocale === 'ar' || content?.resolvedLocale === 'ur';
   const fullTextLabel = loc === 'ar' ? 'النص الكامل' : loc === 'es' ? 'Texto completo' : loc === 'ur' ? 'مکمل متن' : 'Full Text';
 
-  const related = researchMeta
-    .filter((r) => !r.draft && r.slug !== slug && r.category === item.category)
+  const related = getAllResearch()
+    .filter((r) => r.slug !== slug && r.category === item.category)
     .slice(0, 3);
   const relatedLabel = loc === 'ar' ? 'أبحاثٌ ذات صلة' : loc === 'es' ? 'Investigaciones relacionadas' : loc === 'ur' ? 'متعلقہ تحقیقات' : 'Related research';
 
@@ -253,8 +230,11 @@ export default async function ResearchItemPage({
 
         {/* Full text */}
         {body && content && (() => {
-          const cleanBody = stripFrontmatter(body);
-          const toc = extractToc(cleanBody);
+          const cleanBody = prepareMarkdownBody(body, 'research');
+          // Heading ids (sec-N) are assigned once by the parser, so the
+          // table of contents and the rendered headings always agree.
+          const doc = parseMarkdown(cleanBody, { headingIds: true });
+          const toc = extractToc(doc);
           const mins = readingMinutes(cleanBody);
           const minsLabel = loc === 'ar' ? `${mins} دقيقة قراءة` : loc === 'es' ? `${mins} min de lectura` : loc === 'ur' ? `${mins} منٹ مطالعہ` : `${mins} min read`;
           const tocLabel = loc === 'ar' ? 'محتويات' : loc === 'es' ? 'Contenido' : loc === 'ur' ? 'فہرست' : 'Contents';
@@ -293,7 +273,7 @@ export default async function ResearchItemPage({
               )}
 
               <div className={`article-prose ${bodyIsRtl ? 'article-rtl' : 'article-ltr'}`}>
-                {renderResearchMarkdown(cleanBody, content.resolvedLocale)}
+                {renderMarkdown(doc, { variant: 'research', locale: content.resolvedLocale })}
               </div>
             </div>
           );
@@ -318,6 +298,7 @@ export default async function ResearchItemPage({
 
         {/* Citation block — APA / Chicago / BibTeX + Google Scholar */}
         <CiteThis
+          citeKey={`abouseif${item.year}-${slug}`}
           title={localize(item.title, locale)}
           year={item.year}
           venue={localize(item.venue, locale)}
@@ -355,226 +336,8 @@ export default async function ResearchItemPage({
   );
 }
 
-/* ============================================================
-   Full-text markdown rendering for research papers.
-   Handles: ## h2, ### h3, #### h4, **bold**, *italic*,
-   > blockquote, GFM pipe tables, - / * lists, 1. lists,
-   --- hr, and paragraphs.
-   ============================================================ */
-
-function stripFrontmatter(md: string): string {
-  const lines = md.split('\n');
-  if (lines[0]?.trim() === '---') {
-    let i = 1;
-    while (i < lines.length && lines[i].trim() !== '---') i++;
-    if (i < lines.length) i++; // skip closing ---
-    while (i < lines.length && lines[i].trim() === '') i++;
-    return lines.slice(i).join('\n').trim();
-  }
-  return md.trim();
-}
-
-/** Extract an ordered heading list (levels 1–3) with anchor IDs that match
- *  the IDs assigned by renderResearchMarkdown (both walk the blocks in the
- *  same order and increment a heading counter on every #/##/###/#### block). */
-function extractToc(md: string): { level: number; text: string; id: string }[] {
-  const out: { level: number; text: string; id: string }[] = [];
-  const paragraphs = md.split(/\n\n+/);
-  let h = 0;
-  for (const p of paragraphs) {
-    const para = p.trim();
-    if (!para) continue;
-    let level = 0;
-    if (para.startsWith('#### ')) level = 4;
-    else if (para.startsWith('### ')) level = 3;
-    else if (para.startsWith('## ')) level = 2;
-    else if (para.startsWith('# ')) level = 1;
-    if (!level) continue;
-    const id = `sec-${h++}`;
-    if (level > 3) continue; // counted (to stay in sync) but not listed
-    const text = para.split('\n')[0].replace(/^#+\s+/, '').replace(/\*\*/g, '').replace(/★\s*/g, '').trim();
-    out.push({ level, text, id });
-  }
-  return out;
-}
-
 /** Estimated reading time in minutes from the body word count. */
 function readingMinutes(md: string): number {
-  const words = stripFrontmatter(md).replace(/[#>*`|—-]/g, ' ').split(/\s+/).filter(Boolean).length;
+  const words = md.replace(/[#>*`|—-]/g, ' ').split(/\s+/).filter(Boolean).length;
   return Math.max(1, Math.round(words / 200));
-}
-
-function renderResearchMarkdown(md: string, locale: string): ReactNode {
-  const blocks: ReactNode[] = [];
-  const paragraphs = md.split(/\n\n+/);
-  let h = 0; // heading counter — kept in sync with extractToc for anchor IDs
-
-  for (let i = 0; i < paragraphs.length; i++) {
-    const para = paragraphs[i].trim();
-    if (!para) continue;
-
-    if (para === '---') {
-      blocks.push(<hr key={`hr-${i}`} className="border-t border-gold-200 my-10" />);
-      continue;
-    }
-
-    // Pipe table
-    if (para.startsWith('|') && para.includes('\n')) {
-      const rows = para.split('\n').filter((l) => l.trim().startsWith('|'));
-      const parseRow = (l: string) =>
-        l.trim().replace(/^\|/, '').replace(/\|$/, '').split('|').map((c) => c.trim());
-      const isSep = (l: string) => /^\|?[\s:|-]+\|?$/.test(l.trim()) && l.includes('-');
-      const header = parseRow(rows[0]);
-      const dataRows = rows.slice(1).filter((l) => !isSep(l)).map(parseRow);
-      blocks.push(
-        <div key={`tbl-${i}`} className="my-8 overflow-x-auto">
-          <table className="w-full text-sm border-collapse">
-            <thead>
-              <tr className="bg-navy-50">
-                {header.map((h, hi) => (
-                  <th key={hi} className="border border-navy-200 px-3 py-2 font-medium text-navy-800 text-start">
-                    {processResearchInline(h, locale)}
-                  </th>
-                ))}
-              </tr>
-            </thead>
-            <tbody>
-              {dataRows.map((r, ri) => (
-                <tr key={ri} className={ri % 2 ? 'bg-white' : 'bg-navy-50/30'}>
-                  {r.map((c, ci) => (
-                    <td key={ci} className="border border-navy-200 px-3 py-2 text-navy-700 align-top leading-relaxed">
-                      {processResearchInline(c, locale)}
-                    </td>
-                  ))}
-                </tr>
-              ))}
-            </tbody>
-          </table>
-        </div>
-      );
-      continue;
-    }
-
-    if (para.startsWith('#### ')) {
-      blocks.push(
-        <h4 key={`h4-${i}`} id={`sec-${h++}`} className="scroll-mt-24 text-lg font-medium text-navy-700 mt-8 mb-3">
-          {processResearchInline(para.slice(5).trim(), locale)}
-        </h4>
-      );
-      continue;
-    }
-
-    if (para.startsWith('### ')) {
-      blocks.push(
-        <h3 key={`h3-${i}`} id={`sec-${h++}`} className="scroll-mt-24 text-xl sm:text-2xl font-medium text-navy-700 mt-10 mb-3">
-          {processResearchInline(para.slice(4).trim(), locale)}
-        </h3>
-      );
-      continue;
-    }
-
-    if (para.startsWith('## ')) {
-      blocks.push(
-        <h2 key={`h2-${i}`} id={`sec-${h++}`} className="scroll-mt-24 text-2xl sm:text-3xl font-medium text-navy-800 mt-12 mb-4 gold-line">
-          {processResearchInline(para.slice(3).trim(), locale)}
-        </h2>
-      );
-      continue;
-    }
-
-    if (para.startsWith('# ')) {
-      blocks.push(
-        <h2 key={`h1-${i}`} id={`sec-${h++}`} className="scroll-mt-24 text-2xl sm:text-3xl font-semibold text-navy-900 mt-14 mb-5 pb-2 border-b-2 border-gold-300">
-          {processResearchInline(para.slice(2).trim(), locale)}
-        </h2>
-      );
-      continue;
-    }
-
-    // Whole-paragraph italic (acknowledgments / signature)
-    if (para.startsWith('*') && para.endsWith('*') && !para.startsWith('**')) {
-      blocks.push(
-        <p key={`it-${i}`} className="text-sm text-navy-500 italic leading-relaxed my-6">
-          {processResearchInline(para.replace(/^\*+|\*+$/g, '').trim(), locale)}
-        </p>
-      );
-      continue;
-    }
-
-    if (para.startsWith('> ')) {
-      const quoteLines = para.split('\n').map((l) => l.replace(/^>\s?/, ''));
-      blocks.push(
-        <blockquote key={`q-${i}`} className="border-s-4 border-gold-400 ps-5 pe-5 py-3 my-6 bg-gold-50 text-navy-700 text-lg leading-loose">
-          {quoteLines.map((line, idx) => (
-            <span key={idx} className="block">{processResearchInline(line, locale)}</span>
-          ))}
-        </blockquote>
-      );
-      continue;
-    }
-
-    if (/^[\-*]\s/.test(para)) {
-      const items = para.split('\n').filter((l) => /^[\-*]\s/.test(l)).map((l) => l.replace(/^[\-*]\s+/, ''));
-      blocks.push(
-        <ul key={`ul-${i}`} className="my-5 space-y-2 ps-5">
-          {items.map((item, idx) => (
-            <li key={idx} className="text-navy-700 leading-relaxed flex gap-3 items-start">
-              <span className="mt-2 h-1.5 w-1.5 rounded-full bg-gold-400 flex-shrink-0" />
-              <span>{processResearchInline(item, locale)}</span>
-            </li>
-          ))}
-        </ul>
-      );
-      continue;
-    }
-
-    if (/^\d+\.\s/.test(para)) {
-      const items = para.split('\n').filter((l) => /^\d+\.\s/.test(l)).map((l) => l.replace(/^\d+\.\s+/, ''));
-      blocks.push(
-        <ol key={`ol-${i}`} className="my-5 space-y-2 ps-5 list-decimal list-inside">
-          {items.map((item, idx) => (
-            <li key={idx} className="text-navy-700 leading-relaxed">{processResearchInline(item, locale)}</li>
-          ))}
-        </ol>
-      );
-      continue;
-    }
-
-    blocks.push(
-      <p key={`p-${i}`} className="text-base sm:text-lg text-navy-700 leading-loose my-5">
-        {processResearchInline(para, locale)}
-      </p>
-    );
-  }
-
-  return blocks;
-}
-
-function processResearchInline(text: string, _locale: string): ReactNode {
-  const working = text.replace(/&nbsp;/g, ' ').replace(/\n/g, ' ').replace(/[ \t]+/g, ' ');
-  const out: ReactNode[] = [];
-  let key = 0;
-  // Match **bold** or *italic* (italic not preceded/followed by *)
-  const tokenRegex = /(\*\*[^*]+\*\*)|(\*[^*]+\*)/g;
-  let lastIndex = 0;
-  let match: RegExpExecArray | null;
-  while ((match = tokenRegex.exec(working)) !== null) {
-    if (match.index > lastIndex) out.push(working.slice(lastIndex, match.index));
-    if (match[1]) {
-      out.push(
-        <strong key={`b-${key++}`} className="font-semibold text-navy-800">
-          {match[1].slice(2, -2)}
-        </strong>
-      );
-    } else if (match[2]) {
-      out.push(
-        <em key={`i-${key++}`} className="italic">
-          {match[2].slice(1, -1)}
-        </em>
-      );
-    }
-    lastIndex = match.index + match[0].length;
-  }
-  if (lastIndex < working.length) out.push(working.slice(lastIndex));
-  return out;
 }

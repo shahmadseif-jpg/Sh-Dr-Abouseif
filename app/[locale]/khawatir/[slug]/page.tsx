@@ -1,3 +1,4 @@
+import type { Metadata } from 'next';
 import { setRequestLocale, getTranslations } from 'next-intl/server';
 import { notFound } from 'next/navigation';
 import Link from 'next/link';
@@ -9,7 +10,9 @@ import {
 } from '@/lib/khawatir';
 import { getKhatraContent } from '@/lib/khawatir-server';
 import { localize } from '@/lib/articles';
-import { ReactNode } from 'react';
+import { availableLocales } from '@/lib/content-availability-server';
+import { authorName, pageMetadata } from '@/lib/seo';
+import { parseMarkdown, prepareMarkdownBody, renderMarkdown } from '@/lib/markdown';
 import ContentLanguageNotice from '@/components/ContentLanguageNotice';
 
 export const dynamic = 'force-dynamic';
@@ -18,43 +21,21 @@ export async function generateMetadata({
   params,
 }: {
   params: Promise<{ locale: string; slug: string }>;
-}) {
+}): Promise<Metadata> {
   const { locale, slug } = await params;
   const meta = getKhatraMeta(slug);
-  if (!meta) return { title: locale === 'ar' ? 'خاطرة غير موجودة' : locale === 'es' ? 'Reflexión no encontrada' : 'Reflection not found' };
-
-  const author = locale === 'ar' ? 'د. أحمد أبو سيف' : locale === 'ur' ? 'ڈاکٹر احمد ابو سیف' : 'Dr. Ahmed Abouseif';
-  const title = `${localize(meta.title, locale)} — ${author}`;
-  const description = localize(meta.excerpt, locale);
-  const path = `/khawatir/${slug}`;
-  const ogLocale = locale === 'ar' ? 'ar_EG' : locale === 'es' ? 'es_ES' : locale === 'ur' ? 'ur_PK' : 'en_US';
-  const image = '/dr-ahmed.jpg';
-
-  return {
-    title,
-    description,
-    alternates: {
-      canonical: `/${locale}${path}`,
-      languages: { ar: `/ar${path}`, en: `/en${path}`, es: `/es${path}`, ur: `/ur${path}` },
-    },
-    openGraph: {
-      type: 'article',
-      title,
-      description,
-      url: `/${locale}${path}`,
-      siteName: author,
-      locale: ogLocale,
-      publishedTime: meta.isoDate,
-      authors: [author],
-      images: [{ url: image }],
-    },
-    twitter: {
-      card: 'summary_large_image',
-      title,
-      description,
-      images: [image],
-    },
-  };
+  if (!meta) return { title: locale === 'ar' ? 'خاطرة غير موجودة' : locale === 'es' ? 'Reflexión no encontrada' : locale === 'ur' ? 'خاطرہ نہیں ملا' : 'Reflection not found' };
+  const content = getKhatraContent(slug, locale);
+  return pageMetadata({
+    locale,
+    path: `/khawatir/${slug}`,
+    title: `${localize(meta.title, locale)} — ${authorName(locale)}`,
+    description: localize(meta.excerpt, locale),
+    available: availableLocales('khawatir', slug),
+    resolvedLocale: content?.resolvedLocale,
+    ogType: 'article',
+    publishedTime: meta.isoDate,
+  });
 }
 
 export default async function KhatraPage({
@@ -75,7 +56,7 @@ export default async function KhatraPage({
   const bodyIsRtl =
     content.resolvedLocale === 'ar' || content.resolvedLocale === 'ur';
 
-  const trimmedBody = stripDuplicateHeaderFromMarkdown(body);
+  const doc = parseMarkdown(prepareMarkdownBody(body, 'khawatir'));
   const pl = prayerLabels[locale as keyof typeof prayerLabels] ?? prayerLabels.ar;
 
   const t = await getTranslations({ locale, namespace: 'khawatir_page' });
@@ -156,7 +137,7 @@ export default async function KhatraPage({
           resolvedLocale={content.resolvedLocale}
         />
         <div className={`article-prose ${bodyIsRtl ? 'article-rtl' : 'article-ltr'}`}>
-          {renderMarkdown(trimmedBody, content.resolvedLocale)}
+          {renderMarkdown(doc, { locale: content.resolvedLocale })}
         </div>
 
         {/* More khawatir */}
@@ -186,206 +167,4 @@ export default async function KhatraPage({
       </div>
     </article>
   );
-}
-
-/* ============================================================
-   Markdown rendering — same minimal parser used for articles.
-   Handles: ### h3, **bold**, > quote, - list, 1. list, [^N], ---
-   ============================================================ */
-
-function stripDuplicateHeaderFromMarkdown(md: string): string {
-  const lines = md.split('\n');
-  let i = 0;
-  if (lines[0]?.trim() === '---') {
-    i = 1;
-    while (i < lines.length && lines[i].trim() !== '---') i++;
-    if (i < lines.length) i++;
-    while (i < lines.length && lines[i].trim() === '') i++;
-    return lines.slice(i).join('\n').trim();
-  }
-  const out: string[] = [];
-  let strippedHeader = false;
-  let seenHr = false;
-  for (; i < lines.length; i++) {
-    const line = lines[i];
-    if (!seenHr && !strippedHeader) {
-      if (/^#{1,3}\s/.test(line) || line.trim() === '') continue;
-      if (line.trim() === '---') {
-        seenHr = true;
-        strippedHeader = true;
-        continue;
-      }
-      strippedHeader = true;
-    }
-    out.push(line);
-  }
-  return out.join('\n').trim();
-}
-
-function renderMarkdown(md: string, locale: 'ar' | 'en' | 'es' | 'ur'): ReactNode {
-  const blocks: ReactNode[] = [];
-  const paragraphs = md.split(/\n\n+/);
-
-  const footnoteDefs: { ref: string; content: string }[] = [];
-  const filteredParagraphs: string[] = [];
-  for (const p of paragraphs) {
-    const trimmed = p.trim();
-    const fnMatch = trimmed.match(/^\[\^(\w+)\]:\s*([\s\S]+)$/);
-    if (fnMatch) {
-      footnoteDefs.push({ ref: fnMatch[1], content: fnMatch[2].trim() });
-    } else {
-      filteredParagraphs.push(p);
-    }
-  }
-
-  for (let i = 0; i < filteredParagraphs.length; i++) {
-    const para = filteredParagraphs[i].trim();
-    if (!para) continue;
-
-    if (para === '---') {
-      blocks.push(<hr key={`hr-${i}`} className="border-t border-gold-200 my-10" />);
-      continue;
-    }
-
-    if (para.startsWith('### ')) {
-      const text = para.slice(4).trim();
-      blocks.push(
-        <h3 key={`h3-${i}`} className="text-xl sm:text-2xl font-medium text-navy-700 mt-12 mb-4 gold-line">
-          {processInline(text, locale)}
-        </h3>
-      );
-      continue;
-    }
-
-    if (para.startsWith('#### ')) {
-      const text = para.slice(5).trim();
-      blocks.push(
-        <h4 key={`h4-${i}`} className="text-lg font-medium text-navy-700 mt-8 mb-3">
-          {processInline(text, locale)}
-        </h4>
-      );
-      continue;
-    }
-
-    if (para.startsWith('*') && para.endsWith('*') && !para.startsWith('**')) {
-      const text = para.replace(/^\*+|\*+$/g, '').trim();
-      blocks.push(
-        <p key={`sig-${i}`} className="text-sm text-navy-500 italic leading-relaxed mt-6">
-          {processInline(text, locale)}
-        </p>
-      );
-      continue;
-    }
-
-    if (para.startsWith('> ')) {
-      const quoteLines = para.split('\n').map((l) => l.replace(/^>\s?/, ''));
-      blocks.push(
-        <blockquote key={`q-${i}`} className="border-r-4 border-gold-400 ps-5 pe-5 py-3 my-6 bg-gold-50 text-navy-700 text-lg leading-loose italic">
-          {quoteLines.map((line, idx) => (
-            <span key={idx} className="block">
-              {processInline(line, locale)}
-            </span>
-          ))}
-        </blockquote>
-      );
-      continue;
-    }
-
-    if (/^[\-*]\s/.test(para)) {
-      const items = para.split('\n').filter((l) => /^[\-*]\s/.test(l)).map((l) => l.replace(/^[\-*]\s+/, ''));
-      blocks.push(
-        <ul key={`ul-${i}`} className="my-5 space-y-2 ps-5">
-          {items.map((item, idx) => (
-            <li key={idx} className="text-navy-600 leading-relaxed flex gap-3 items-start">
-              <span className="mt-2 h-1.5 w-1.5 rounded-full bg-gold-400 flex-shrink-0" />
-              <span>{processInline(item, locale)}</span>
-            </li>
-          ))}
-        </ul>
-      );
-      continue;
-    }
-
-    if (/^\d+\.\s/.test(para)) {
-      const items = para.split('\n').filter((l) => /^\d+\.\s/.test(l)).map((l) => l.replace(/^\d+\.\s+/, ''));
-      blocks.push(
-        <ol key={`ol-${i}`} className="my-5 space-y-2 ps-5 list-decimal list-inside">
-          {items.map((item, idx) => (
-            <li key={idx} className="text-navy-600 leading-relaxed">
-              {processInline(item, locale)}
-            </li>
-          ))}
-        </ol>
-      );
-      continue;
-    }
-
-    blocks.push(
-      <p key={`p-${i}`} className="text-base sm:text-lg text-navy-700 leading-loose my-5">
-        {processInline(para, locale)}
-      </p>
-    );
-  }
-
-  if (footnoteDefs.length > 0) {
-    blocks.push(
-      <div key="footnotes" className="mt-16 pt-8 border-t border-navy-100">
-        <h3 className="text-base font-medium text-navy-700 mb-4 uppercase tracking-wider">
-          {locale === 'ar' ? 'الهوامش' : locale === 'es' ? 'Notas' : 'Notes'}
-        </h3>
-        <ol className="space-y-3 text-sm text-navy-600 leading-relaxed list-decimal list-inside">
-          {footnoteDefs.map((fn) => (
-            <li key={fn.ref} id={`fn-${fn.ref}`} className="ps-2">
-              <span>{processInline(fn.content, locale)}</span>
-              <a href={`#fnref-${fn.ref}`} className="text-gold-500 hover:text-gold-700 ms-2 text-xs no-underline">↩</a>
-            </li>
-          ))}
-        </ol>
-      </div>
-    );
-  }
-
-  return blocks;
-}
-
-function processInline(text: string, _locale: 'ar' | 'en' | 'es' | 'ur'): ReactNode {
-  let working = text
-    .replace(/&nbsp;/g, ' ')
-    .replace(/&amp;/g, '&')
-    .replace(/\n/g, ' ')
-    .replace(/[ \t]+/g, ' ');
-
-  const out: ReactNode[] = [];
-  let keyCounter = 0;
-
-  const tokenRegex = /(\*\*[^*]+\*\*)|(\[\^(\w+)\])/g;
-  let lastIndex = 0;
-  let match: RegExpExecArray | null;
-  while ((match = tokenRegex.exec(working)) !== null) {
-    if (match.index > lastIndex) {
-      out.push(working.slice(lastIndex, match.index));
-    }
-    if (match[1]) {
-      const inner = match[1].slice(2, -2);
-      out.push(
-        <strong key={`b-${keyCounter++}`} className="font-semibold text-navy-800">
-          {inner}
-        </strong>
-      );
-    } else if (match[2]) {
-      const ref = match[3];
-      out.push(
-        <sup key={`fn-${keyCounter++}`} id={`fnref-${ref}`} className="mx-0.5">
-          <a href={`#fn-${ref}`} className="text-gold-600 hover:text-gold-700 font-medium no-underline text-xs">
-            [{ref}]
-          </a>
-        </sup>
-      );
-    }
-    lastIndex = match.index + match[0].length;
-  }
-  if (lastIndex < working.length) {
-    out.push(working.slice(lastIndex));
-  }
-  return out;
 }
