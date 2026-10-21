@@ -106,6 +106,6 @@ Y la paz que el corazón haya alcanzado en este mundo queda por debajo de esa ce
 
 ---
 
-[^1]: Lo recogieron al-Bujārī (n.º 50) y Muslim (n.º 9), de ʿUmar ibn al-Khaṭṭāb, que Dios esté complacido con él, en el conocido hadiz de Gabriel.
+[^1]: Lo recogieron al-Bujārī (n.º 50) y Muslim (n.º 9), de Abū Hurayra, y Muslim (n.º 8), de ʿUmar ibn al-Khaṭṭāb, que Dios esté complacido con ambos, en el conocido hadiz de Gabriel. (Corrección del editor: la nota atribuía antes al-Bujārī 50 y Muslim 9 a ʿUmar.)
 [^2]: El origen de este hadiz, «Guarda a Dios y Él te guardará», lo recogió al-Tirmidhī (n.º 2516) de Ibn ʿAbbās, que Dios esté complacido con él y con su padre, quien dijo: hadiz ḥasan ṣaḥīḥ. Este añadido concreto sobre el decreto divino aparece en algunas transmisiones más extensas del hadiz (véase su comentario en el *Jāmiʿ al-ʿUlūm wa-l-Ḥikam* de Ibn Rajab).
 [^3]: Lo recogió al-Tirmidhī (n.º 3502) de ʿAbd Allāh ibn ʿUmar, que Dios esté complacido con él y con su padre, dentro de una súplica más extensa; al-Tirmidhī dijo: hadiz ḥasan gharīb.

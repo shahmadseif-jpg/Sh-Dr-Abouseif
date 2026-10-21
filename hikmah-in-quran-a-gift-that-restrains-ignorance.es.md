@@ -50,13 +50,13 @@ Así también, según se dice, con Salomón, joven en el caso del sembrado y las
 
 ### Un patrón recurrente: la sabiduría junto al Libro
 
-Uno de los patrones más claros en la distribución del término es que en diez de sus veinte apariciones, exactamente la mitad, la «sabiduría» aparece unida al «Libro» en una fórmula casi fija:
+Uno de los patrones más claros en la distribución del término es que en nueve de sus veinte apariciones la «sabiduría» aparece unida a la palabra «Libro» en una fórmula casi fija:
 
 ﴿يُعَلِّمُهُمُ الْكِتَابَ وَالْحِكْمَةَ﴾ (2:129)
 
 *«…les enseña el Libro y la sabiduría.»*
 
-El mismo sentido se repite en 2:151, 2:231, 3:48, 3:81, 4:54, 4:113, 5:110, 33:34 y 62:2. En este patrón recurrente la sabiduría nunca se menciona sola, sino siempre junto a la revelación descendida. Es como si el Corán estableciera que la verdadera sabiduría no se separa del conocimiento del Libro, aunque no se identifique con él. El Libro es un texto que se recita; la sabiduría es una comprensión que se concede para aplicar ese texto a la realidad cambiante de la vida.
+El mismo sentido se repite en 2:151, 2:231, 3:48, 3:81, 4:54, 4:113, 5:110 y 62:2; una décima aparición une la sabiduría a «las aleyas de Dios» y no a la palabra «Libro»: ﴿وَاذْكُرْنَ مَا يُتْلَىٰ فِي بُيُوتِكُنَّ مِنْ آيَاتِ اللَّهِ وَالْحِكْمَةِ﴾ («Y recordad lo que se recita en vuestras casas de las aleyas de Dios y de la sabiduría», 33:34), de modo que la mitad de las apariciones van unidas a la revelación descendida. En este patrón recurrente la sabiduría nunca se menciona sola, sino siempre junto a la revelación descendida. Es como si el Corán estableciera que la verdadera sabiduría no se separa del conocimiento del Libro, aunque no se identifique con él. El Libro es un texto que se recita; la sabiduría es una comprensión que se concede para aplicar ese texto a la realidad cambiante de la vida.
 
 ### Otro patrón: la sabiduría como modo de llamar, no solo como contenido
 

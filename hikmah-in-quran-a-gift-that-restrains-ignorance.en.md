@@ -50,13 +50,13 @@ So too, it is said, with Solomon, who was young at the time of the case of the c
 
 ### A Recurrent Pattern: Wisdom Beside the Book
 
-One of the clearest patterns in the distribution of the word is that in ten of its twenty occurrences, exactly half, “wisdom” is joined to “the Book” in a near-fixed phrase:
+One of the clearest patterns in the distribution of the word is that in nine of its twenty occurrences “wisdom” is joined to the word “the Book” in a near-fixed phrase:
 
 ﴿يُعَلِّمُهُمُ الْكِتَابَ وَالْحِكْمَةَ﴾ (2:129)
 
 *“…teaching them the Book and wisdom.”*
 
-The same sense recurs at 2:151, 2:231, 3:48, 3:81, 4:54, 4:113, 5:110, 33:34 and 62:2. In this recurring pattern wisdom is never mentioned alone, but always alongside the revelation that was sent down. It is as though the Qurʾan establishes that true wisdom cannot be separated from knowledge of the Book, even though it is not identical with it. The Book is a text that is recited; wisdom is an understanding granted so that the text may be applied to the changing realities of life.
+The same sense recurs at 2:151, 2:231, 3:48, 3:81, 4:54, 4:113, 5:110 and 62:2; a tenth occurrence pairs wisdom with “God's verses” rather than with the word “Book”: ﴿وَاذْكُرْنَ مَا يُتْلَىٰ فِي بُيُوتِكُنَّ مِنْ آيَاتِ اللَّهِ وَالْحِكْمَةِ﴾ (“And remember what is recited in your houses of God's verses and wisdom,” 33:34), so that half of the occurrences are joined to the revelation sent down. In this recurring pattern wisdom is never mentioned alone, but always alongside the revelation that was sent down. It is as though the Qurʾan establishes that true wisdom cannot be separated from knowledge of the Book, even though it is not identical with it. The Book is a text that is recited; wisdom is an understanding granted so that the text may be applied to the changing realities of life.
 
 ### Another Pattern: Wisdom as a Manner of Calling, Not Merely Content
 
