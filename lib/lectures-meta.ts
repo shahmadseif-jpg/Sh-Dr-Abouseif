@@ -90,7 +90,7 @@ export const lectureArticlesMeta: ArticleMeta[] = [
     readingMinutes: 3,
     title: { ar: 'التقوى في نداءات الإيمان', en: 'Taqwa in the Calls to Faith' },
     subtitle: { ar: 'التقوى في نداءات الإيمان: آيات التقوى من العبادة إلى الآخرة', en: 'Taqwa in the calls to faith: the verses of taqwa from worship to the Hereafter' },
-    excerpt: { ar: 'سرد لمواضع التقوى في القرآن من العبادة والمعاملات والأسرة والعدل إلى الآخرة؛ ولم يثبت من التفريغ المشوّش غير الآيات.', en: 'A survey of where taqwa appears in the Qur\'an, from worship, transactions, family and justice to the Hereafter; only the verses could be established from the unclear transcript.' },
+    excerpt: { ar: 'سرد لمواضع التقوى في القرآن من العبادة والمعاملات والأسرة والعدل إلى الآخرة.', en: 'A survey of where taqwa appears in the Qur\'an, from worship, transactions, family and justice to the Hereafter.' },
   },
   {
     slug: 'calls-to-faith-people-of-the-book',
@@ -100,7 +100,7 @@ export const lectureArticlesMeta: ArticleMeta[] = [
     readingMinutes: 3,
     title: { ar: 'نداء آل عمران وأهل الكتاب', en: 'The Call in Al Imran and the People of the Book' },
     subtitle: { ar: '﴿إِن تُطِيعُوا فَرِيقًا مِّنَ الَّذِينَ أُوتُوا الْكِتَابَ﴾: آيات أهل الكتاب في آل عمران', en: 'Passages on the People of the Book in Al Imran around the call concerning obeying a party of them' },
-    excerpt: { ar: 'آيات أهل الكتاب في آل عمران حول النداء في طاعة فريق منهم وما يليه، مع بيان أحوالهم قبله ومقدمة السورة؛ والتفريغ مشوّش فلم يثبت منه غير هذه المواضع.', en: 'Passages on the People of the Book in Al Imran around the call about obeying a party of them, with their circumstances before it and the surah\'s opening; the transcript is garbled, so only these parts are preserved.' },
+    excerpt: { ar: 'آيات أهل الكتاب في آل عمران حول النداء في طاعة فريق منهم وما يليه، مع بيان أحوالهم قبله ومقدمة السورة.', en: 'Passages on the People of the Book in Al Imran around the call about obeying a party of them, with their circumstances before it and the surah\'s opening.' },
   },
   {
     slug: 'quran-reflection-surah-duha',
@@ -110,7 +110,7 @@ export const lectureArticlesMeta: ArticleMeta[] = [
     readingMinutes: 3,
     title: { ar: 'في سورة الضحى: ما ودّعك ربك', en: 'On Surah ad-Duha: Your Lord Has Not Forsaken You' },
     subtitle: { ar: 'في سورة الضحى: ما ودّعك ربك وما قلى', en: 'On Surah ad-Duha: your Lord has not forsaken you nor detested you' },
-    excerpt: { ar: 'تتناول المحاضرة سورة الضحى بين السور المفتتحة بالقسم، ثم آيات البلاء والصبر من سورة البقرة، ثم الوقوف عند اليتيم. والتفريغ مشوّش.', en: 'The lecture treats Surah ad-Duha among the surahs that open with an oath, then verses on trial and patience from Surah al-Baqarah, then pauses at the orphan. The transcript is garbled.' },
+    excerpt: { ar: 'تتناول المحاضرة سورة الضحى بين السور المفتتحة بالقسم، ثم آيات البلاء والصبر من سورة البقرة، ثم الوقوف عند اليتيم.', en: 'The lecture treats Surah ad-Duha among the surahs that open with an oath, then verses on trial and patience from Surah al-Baqarah, then pauses at the orphan.' },
   },
   {
     slug: 'calls-to-faith-baqarah-worship-and-transactions',
@@ -120,7 +120,7 @@ export const lectureArticlesMeta: ArticleMeta[] = [
     readingMinutes: 3,
     title: { ar: 'نداءات البقرة: من العبادة إلى الربا', en: 'Calls to Faith in al-Baqarah: From Worship to Usury and Debt' },
     subtitle: { ar: 'نداءات الإيمان في سورة البقرة: من العبادة والشعائر إلى الدَّين والربا', en: 'The calls to faith in Surat al-Baqarah: from worship and rites to debt and usury' },
-    excerpt: { ar: 'نداءات سورة البقرة في العبادة والإنفاق والربا والدَّين، ثم الزكاة والصدقة، وسؤال استنباط الأحكام؛ والتفريغ مشوّش فلم يثبت منه إلا ما ذُكر.', en: 'The calls of al-Baqarah on worship, spending, usury and debt, then zakat and charity, and how rulings are derived; the transcript is garbled, so only these parts are preserved.' },
+    excerpt: { ar: 'نداءات سورة البقرة في العبادة والإنفاق والربا والدَّين، ثم الزكاة والصدقة، وسؤال استنباط الأحكام.', en: 'The calls of al-Baqarah on worship, spending, usury and debt, then zakat and charity, and how rulings are derived.' },
   },
   {
     slug: 'calls-to-faith-riba-baqiya',
@@ -160,7 +160,7 @@ export const lectureArticlesMeta: ArticleMeta[] = [
     readingMinutes: 3,
     title: { ar: 'نداء الأكل من الطيبات', en: 'The Call to Eat of the Good Things' },
     subtitle: { ar: 'كلوا من طيبات ما رزقناكم واشكروا لله: الحلال والطيب', en: 'Eat of the good things We have provided and give thanks to God: the lawful and the wholesome' },
-    excerpt: { ar: 'نداء الأكل من الطيبات والشكر لله في سورة البقرة، والحلال والحرام وخطوات الشيطان، وحديث الحمد على الأكلة؛ والتفريغ قصير مشوّش.', en: 'The call in al-Baqarah to eat of the good things and give thanks to God, the lawful and the forbidden, the footsteps of Satan, and the hadith on praising God after a meal; the transcript is short and garbled.' },
+    excerpt: { ar: 'نداء الأكل من الطيبات والشكر لله في سورة البقرة، والحلال والحرام وخطوات الشيطان، وحديث الحمد على الأكلة.', en: 'The call in al-Baqarah to eat of the good things and give thanks to God, the lawful and the forbidden, the footsteps of Satan, and the hadith on praising God after a meal.' },
   },
   {
     slug: 'servitude-between-station-and-claim',
@@ -1050,7 +1050,7 @@ export const lectureArticlesMeta: ArticleMeta[] = [
     readingMinutes: 1,
     title: { ar: "النصارى الذين بكَوا عند سماع القرآن", en: "The Christians Who Wept on Hearing the Qur'an" },
     subtitle: { ar: "مقطع مستعاد عن الآيتين ٨٢–٨٣ من سورة المائدة، ٢٣ سبتمبر ٢٠٢٦", en: "A recovered fragment on Qur’an 5:82–83, September 23, 2026" },
-    excerpt: { ar: "A short recoverable fragment: Qur'an 5:82-83 on the Christians who wept, the Negus, and the prayer \"write us among the witnesses.\" Most of the transcript is garbled.", en: "A short recoverable fragment: Qur’an 5:82-83 on the Christians who wept, the Negus, and the prayer “write us among the witnesses.”\nMost of the transcript is garbled." },
+    excerpt: { ar: "مقطع قصير: سورة المائدة ٨٢–٨٣ في النصارى الذين بكوا، والنجاشي، ودعاء «فاكتبنا مع الشاهدين».", en: "A short clip: Qur’an 5:82–83 on the Christians who wept, the Negus, and the prayer “write us among the witnesses.”" },
   },
   {
     slug: "abu-hurayra-himma-precedes-deed",
@@ -1300,7 +1300,7 @@ export const lectureArticlesMeta: ArticleMeta[] = [
     readingMinutes: 2,
     title: { ar: "ما يصنعه القرآن في الإنسان: ﴿مَنْ كَانَ يُرِيدُ الْعَاجِلَةَ﴾ و﴿مَنْ أَرَادَ الْآخِرَةَ﴾", en: "‹Whoever Desires the Immediate› and ‹Whoever Desires the Hereafter›: What the Qur'an Makes of a Person" },
     subtitle: { ar: "﴿مَنْ كَانَ يُرِيدُ الْعَاجِلَةَ﴾ و﴿مَنْ أَرَادَ الْآخِرَةَ وَسَعَىٰ لَهَا سَعْيَهَا﴾: ما يصنعه القرآن في الإنسان", en: "\"Whoever Desires the Immediate\" and \"Whoever Desires the Hereafter and Strives for It as It Deserves\": What the Qur'an Makes of a Person" },
-    excerpt: { ar: "وقفة مع آيتي الإسراء: من أراد العاجلة عُجّل له ثم جهنم، ومن أراد الآخرة وسعى لها سعيها وهو مؤمن فسعيه مشكور. والتفريغ مفكك، ولم يبقَ منه إلا الآيات وتعليق وجيز.", en: "A pause at the two verses of al-Isra': whoever desires the fleeting world is hastened what We will, then Hell; and whoever desires the Hereafter and strives for it as it deserves, while a believer, their striving is appreciated. The transcript is fragmentary, and only the verses and a brief comment remain." },
+    excerpt: { ar: "وقفة مع آيتي الإسراء: من أراد العاجلة عُجّل له ثم جهنم، ومن أراد الآخرة وسعى لها سعيها وهو مؤمن فسعيه مشكور.", en: "A pause at the two verses of al-Isra': whoever desires the fleeting world is hastened what We will, then Hell; and whoever desires the Hereafter and strives for it as it deserves, while a believer, their striving is appreciated." },
   },
   {
     slug: "fajr-halal-provision-gratitude",
@@ -2440,7 +2440,7 @@ export const lectureArticlesMeta: ArticleMeta[] = [
     readingMinutes: 1,
     title: { ar: "إهمال القرآن إهمال من الله للعبد", en: "Neglecting the Qur'an Is Allah's Neglect of the Servant" },
     subtitle: { ar: "﴿نَسُوا اللَّهَ فَنَسِيَهُمْ﴾: وقفة مع عبارة عن علامات إهمال العبد للقرآن، وآيات من سورة المزّمّل", en: "“They Forgot God, So He Forgot Them”: Reflecting on a Saying About Neglecting the Qur’an, with Verses from Sūrat al-Muzzammil" },
-    excerpt: { ar: "وقفة عند عبارة: إهمال العبد للقرآن من علامات إهمال الله له، وتفكّر في أن القرآن هداية ورحمة ونور وشفاء وسبيل القرب. ثم تلاوة آيات من المزمل بلا شرح ظاهر في التفريغ.", en: "A pause at the saying: a servant's neglect of the Qur'an is among the signs of Allah's neglect of him, and a reflection that the Qur'an is guidance, mercy, light, healing, and the path to nearness. Then a recitation of verses from al-Muzzammil with no apparent explanation in the transcript." },
+    excerpt: { ar: "وقفة عند عبارة: إهمال العبد للقرآن من علامات إهمال الله له، وتفكّر في أن القرآن هداية ورحمة ونور وشفاء وسبيل القرب. ثم تلاوة آيات من المزمل.", en: "A pause at the saying: a servant's neglect of the Qur'an is among the signs of Allah's neglect of him, and a reflection that the Qur'an is guidance, mercy, light, healing, and the path to nearness. Then a recitation of verses from al-Muzzammil." },
   },
   {
     slug: "horizons-of-gods-power",
@@ -2700,7 +2700,7 @@ export const lectureArticlesMeta: ArticleMeta[] = [
     readingMinutes: 2,
     title: { ar: "أنت خليفة في الأرض", en: "You Are a Vicegerent on Earth" },
     subtitle: { ar: "خاطرة عشاء: مكانة الإنسان خليفةً في الأرض، وموقفٌ متميّز يليق بإسلامنا", en: "Isha Khatira: The Standing of the Human Being as Vicegerent on Earth, and a Distinctive Stance Worthy of Our Islam" },
-    excerpt: { ar: "دعاء العشاء ثم تذكير الأئمة والمسلمين بمكانة الخلافة في الأرض وبوجوب موقف متميّز يناسب هوية الإسلام.\nالتفريغ في معظمه تلاوة صلاة ومقاطع إنجليزية غير مفهومة.", en: "The Isha supplication, then a reminder to imams and Muslims of the station of vicegerency on earth and of the duty of a distinctive stance befitting the identity of Islam.\nThe transcript is mostly prayer recitation and unintelligible English passages." },
+    excerpt: { ar: "دعاء العشاء ثم تذكير الأئمة والمسلمين بمكانة الخلافة في الأرض وبوجوب موقف متميّز يناسب هوية الإسلام.", en: "The Isha supplication, then a reminder to imams and Muslims of the station of vicegerency on earth and of the duty of a distinctive stance befitting the identity of Islam." },
   },
   {
     slug: "prophetic-supplication-not-every-caller-answered",
