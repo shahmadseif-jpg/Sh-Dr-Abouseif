@@ -1,0 +1,65 @@
+---
+title: "Reflexión [ La educación moral a través de la Sīra profética - La primera jutba del Profeta ﷺ en Medina ] | Dr. Ahmed Abouseif"
+subtitle: "De las lecciones semanales de la Sīra profética: tres saltos en la primera jutba pronunciada en Medina"
+date: "2024-09-18"
+locale: "es"
+slug: "first-khutba-madinah-moral-education"
+readingMinutes: 6
+author: "Dr. Ahmed Abouseif"
+---
+> Ocasión: Transcripción de una reflexión pronunciada en el encuentro semanal de lecciones de la Sīra profética; la fecha no consta en la fuente   
+> Fuente: Transcripción de una reflexión en vídeo del Dr. Ahmed Abouseif — [Ver el vídeo original en YouTube](https://www.youtube.com/watch?v=c_PVRp84tVk)
+
+Este es nuestro encuentro semanal con las lecciones de la biografía del Profeta ﷺ y las lecciones morales que aprendemos de ella. Habíamos pasado por algunos acontecimientos de la Hégira, y quiero abreviar hasta la entrada del Profeta ﷺ en Medina. Después del viernes, el Profeta ﷺ entró en Medina, y desde ese día la ciudad de Yazrib fue llamada «la ciudad del Mensajero ﷺ».
+
+### La primera jutba en Medina
+
+Pero antes del viernes, o durante él, se relata que la primera jutba que pronunció el Mensajero de Dios ﷺ en Medina fue que se puso en pie en ella, alabó a Dios, Altísimo, y Lo glorificó como Él merece, y luego dijo:
+
+> أَمَّا بَعْدُ، أَيُّهَا النَّاسُ، قَدِّمُوا لِأَنْفُسِكُمْ. تَعْلَمُنَّ وَاللَّهِ لَيُصْعَقَنَّ أَحَدُكُمْ ثُمَّ لَيَدَعَنَّ غَنَمَهُ لَيْسَ لَهَا رَاعٍ، ثُمَّ لَيَقُولَنَّ لَهُ رَبُّهُ، لَيْسَ لَهُ تَرْجُمَانٌ وَلَا حَاجِبٌ يَحْجُبُهُ دُونَهُ: أَلَمْ يَأْتِكَ رَسُولِي فَبَلَّغَكَ، وَآتَيْتُكَ مَالًا وَأَفْضَلْتُ عَلَيْكَ، فَمَا قَدَّمْتَ لِنَفْسِكَ؟ فَيَنْظُرُ الْعَبْدُ يَمِينًا وَشِمَالًا فَلَا يَرَى شَيْئًا، ثُمَّ يَنْظُرُ قُدَّامَهُ فَلَا يَرَى غَيْرَ جَهَنَّمَ. فَمَنِ اسْتَطَاعَ أَنْ يَقِيَ وَجْهَهُ مِنَ النَّارِ وَلَوْ بِشِقِّ تَمْرَةٍ فَلْيَفْعَلْ، وَمَنْ لَمْ يَجِدْ فَبِكَلِمَةٍ طَيِّبَةٍ، فَإِنَّ الْحَسَنَةَ تُجْزَى بِأَمْثَالِهَا إِلَى سَبْعِمِائَةِ ضِعْفٍ، وَالسَّلَامُ. (Y a continuación: ¡Oh, gente! Enviad por delante algo para vosotros mismos. Sabed, por Dios, que a cada uno de vosotros le sobrevendrá el desfallecimiento mortal y dejará su rebaño sin pastor; luego su Señor le dirá, sin que haya intérprete ni portero que se interponga entre ambos: «¿No te llegó Mi mensajero y te transmitió? ¿Y no te di riqueza y te colmé de favores? ¿Qué enviaste por delante para ti mismo?». Entonces el siervo mirará a derecha e izquierda y no verá nada; luego mirará ante sí y no verá sino Jahannam. Quien pueda proteger su rostro del Fuego, aunque sea con la mitad de un dátil, que lo haga; y quien no lo encuentre, que sea con una palabra buena, pues la buena acción se recompensa con su equivalente hasta setecientas veces más. Y la paz.)[^1]
+
+Esta es una jutba de viernes que, si la leyéramos otra vez, nos ocuparía tres o cuatro minutos a lo sumo; y sin embargo encerraba las causas de la salvación ante Dios, Altísimo, el Día de la Resurrección, y por ella conocimos un plan de acción completo bajo cuya sombra el siervo puede caminar hacia el encuentro con el Señor de los mundos, glorificado sea.
+
+### Primero: planificar el mañana
+
+Dice el Profeta ﷺ: «قَدِّمُوا لِأَنْفُسِكُمْ» (Enviad por delante algo para vosotros mismos). Esto es hablar de trabajar para el futuro: cómo nos preparamos para el mañana y cómo seguimos los medios de la mejor manera y en el mejor estado. Luego el Mensajero de Dios ﷺ nos traslada por completo de este mundo a la Otra Vida, al momento decisivo, en que todo se deja atrás.
+
+### Segundo: la atención de cada instante
+
+Dice: «تَعْلَمُنَّ وَاللَّهِ لَيُصْعَقَنَّ أَحَدُكُمْ ثُمَّ لَيَدَعَنَّ غَنَمَهُ لَيْسَ لَهَا رَاعٍ» (Sabed, por Dios, que a cada uno de vosotros le sobrevendrá el desfallecimiento mortal y dejará su rebaño sin pastor). Imagina que a una persona se la llevan en un instante cualquiera y deja todo detrás. Y esta imagen, si no tuviéramos otra en el sistema de la llamada a Dios, me bastaría para temer a Dios en cada instante; pues ninguno de nosotros sabe si volverá a su casa o no llegará a ella, ni sabe si se levantará de su cama tras dormir o dormirá un sueño largo, ni sabe cuándo, cómo ni dónde se sellará su vida. De ahí que esta advertencia del Profeta ﷺ, de tono severo, fuera dirigida a estas gentes: «تَعْلَمُنَّ وَاللَّهِ» (Sabed, por Dios), pues él ﷺ jura para despertar la atención de los oyentes.
+
+El Profeta ﷺ nos enseña así este concepto, el concepto de la atención de cada instante, que es una aproximación entre dos términos: «قَدِّمُوا لِأَنْفُسِكُمْ» (Enviad por delante algo para vosotros mismos), que significa planificar, y «تَعْلَمُنَّ وَاللَّهِ» (Sabed, por Dios), que significa cautela en cada instante. Es decir, que el hadiz reúne el sistema de la planificación futura integral, que prepara planes y estrategias a lo largo del tiempo, y la cautela de no caer en el error de un momento a otro. Y esto es lo más completo del diseño; y los ingenieros entienden mejor que nosotros esta cuestión: construir una máquina que funcione contigo una larga distancia, mientras estás en el máximo cuidado de que no ocurra un error en un momento determinado, de modo que reúnes las dos cosas.
+
+Así nos enseña el Profeta ﷺ cuán barata es la vida mundanal a los ojos del creyente, de modo que la deja en un instante o ella lo deja a él en un instante, y el siervo no puede prolongar ese instante a otro, porque el plazo ha llegado y la promesa del Señor de los mundos se ha cumplido.
+
+### Tercero: considerar las consecuencias de los actos
+
+Luego dice: «ثُمَّ لَيَقُولَنَّ لَهُ رَبُّهُ…» (luego su Señor le dirá…). Este es un tercer salto, hacia considerar las consecuencias de los actos. Podemos trabajar en esta jutba profética toda la planificación estratégica: hablamos de la fase de planificar el futuro, luego de la fase del seguimiento y la cautela extrema, luego de perseguir las consecuencias que pueden producirse algún día. Dice ﷺ: «لَيْسَ بَيْنَهُ وَبَيْنَهُ تَرْجُمَانٌ: أَلَمْ يَأْتِكَ رَسُولِي فَبَلَّغَكَ، أَلَمْ أُؤْتِكَ مَالًا وَأَتَفَضَّلْ عَلَيْكَ…» («No hay entre él y Él intérprete: ¿No te llegó Mi mensajero y te transmitió? ¿No te di riqueza y te colmé de favores…?») y así sucesivamente. Y en esto hay un sentir de la existencia de las capacidades disponibles para hacer el futuro.
+
+Y si trasladas esta representación de la Otra Vida a una comparación terrenal, que es construir una máquina para la planificación futura, lo primero que se requiere son las herramientas que voy a usar: ¿tengo estas capacidades o no? Me falta un tornillo, no sé cómo hallar tiempo para él en la producción. Es como si el Señor de la Majestad, glorificado sea, por boca del Profeta ﷺ en este hadiz, me hiciera sentir la cantidad de capacidades que se me han puesto a disposición en este universo, que permiten que el proceso de producción continúe siendo útil hasta el Día de la Resurrección. Luego me enseña a ser cauteloso en este oficio, para que no se me caiga en ningún instante. Luego me informa de los desenlaces de los asuntos: imagina, que Dios te honre, que fuiste a quien te ajusta la rueda o el neumático, y te apretó mal un tornillo. ¿Cuáles son las consecuencias de eso? Que la rueda se suelta o el neumático se sale de su sitio. Es como si yo mirara las capacidades disponibles, y si las máquinas que me ayudarán existen o no. Y si monto, estoy en el máximo cuidado del error, y tengo presentes en mi mente las consecuencias que pueden derivarse de él. Así, cuando el obrero tiene presentes y reúne estas cosas, su obra avanza hacia lo que Dios le decretó.
+
+### El logro verdadero
+
+El Profeta ﷺ nos recuerda que el siervo ante Dios el Día de la Resurrección no verá sino su obra, la que envió por delante y con la que se preparó para el encuentro con Dios, bendito y exaltado sea. En cuanto a las filosofías que hay en la vida, son mera palabrería que se repite y luego se va en el aire. ¿Qué es lo que logramos? ¿Qué sale de nuestras manos al final del día como producto?
+
+Imagina a un hombre que abrió un restaurante enorme, suntuoso, con capacidades formidables, y se pasa todo el día con el cepillo en la mano limpiando. Entra el cliente y dice: ¿tiene algo de falafel? ¿Tiene habas? Y le responde: estoy limpiando. Luego entran clientes y salen, entran y salen, y al final del día le dice a su compañero: ¡mira, hermano, la belleza que hemos hecho durante todo el día! Y se le dice: queremos dinero, queremos un logro. ¿Qué se llevó a su casa?
+
+Y hay una diferencia entre un hombre que habla mucho con el cliente y no le resuelve su necesidad, y no cobra de él nada, y otro que no se ocupa de estas cortesías verbales sino que perfecciona su trabajo, y la gente acude a él de todas partes. Y le dices a uno de ellos: ¿qué te lleva a ese hombre? ¡No sonríe! Y dice: pero su comida es buena, y su oficio es sólido, y la calidad del producto que tiene él no la tienen otros.
+
+Es como si el Mensajero de Dios ﷺ me dijera que debo atender al producto real con el que salgo, es decir, a los logros reales en la realidad de este mundo. ¿Qué he logrado al final del día para esta mezquita, para la casa de Dios, bendito y exaltado sea? ¿En los últimos seis meses? ¿En el último año? ¿Qué has hecho?
+
+### La mitad de un dátil
+
+Luego dice ﷺ: «ثُمَّ يَنْظُرُ قُدَّامَهُ فَلَا يَرَى غَيْرَ جَهَنَّمَ، فَمَنِ اسْتَطَاعَ أَنْ يَقِيَ وَجْهَهُ مِنَ النَّارِ وَلَوْ بِشِقِّ تَمْرَةٍ فَلْيَفْعَلْ» (luego mirará ante sí y no verá sino Jahannam. Quien pueda proteger su rostro del Fuego, aunque sea con la mitad de un dátil, que lo haga). Y cada vez que menciono este texto pregunto: ¿dónde está la primera mitad? ¿Dónde está la otra mitad? Es imposible encontrar la mitad de un dátil en la mano de nadie salvo que se haya comido la primera mitad y la haya mordido. No encontrarás en la mano de nadie la mitad de un dátil sin tener otra cosa, siendo que no posee de los despojos del mundo más que eso. ¿Y qué decir de quien posee más? Y quien posee más que eso es mucho más rico que el dueño de la mitad de un dátil. Así que, si uno de los dos da caridad con algo y el otro no, no le decimos al rico: ¡qué bien, ha hecho un logro!; sino que el logro del dueño de la mitad del dátil es mayor. ¿Y qué decir si posee mucho y luego es tacaño con la casa de Dios, y tacaño consigo mismo y con su situación? Gloria al Creador, el Omnisciente.
+
+### Con una palabra buena
+
+Dice ﷺ: «وَمَنْ لَمْ يَجِدْ فَبِكَلِمَةٍ طَيِّبَةٍ» (y quien no lo encuentre, que sea con una palabra buena). Gloria a Dios, y es como una indicación de que el creyente no lleva la cuenta de lo que gasta; si no hay dinero, una palabra, o una sonrisa, o un consejo, o una delicada cortesía, o sentimientos de afecto y confianza que te hacen sentir seguro cuando te encuentras con tu compañero. No contaremos lo que gastamos en la causa de Dios, bendito y exaltado sea. Y por eso dijo Dios, Altísimo: ﴿وَمَن يُوقَ شُحَّ نَفْسِهِ﴾ (quien sea preservado de la avaricia de su propia alma).[^2] La cuestión no está ligada a las cifras, sino a un ánimo que da o a un ánimo que niega. El ánimo que da prodiga lo que sea: o mete la mano en el bolsillo y saca, o se encuentra siempre la sonrisa en su rostro, y una broma con los demás, y una palabra buena. En cambio, la personalidad que niega frunce el ceño y es avara incluso con los sentimientos, y no expresa lo que lleva dentro.
+
+Quizá nos basten estas palabras, que representan para nosotros, como mencioné, una constitución con la que avanzamos en nuestra vida, y continuaremos la semana próxima, si Dios, bendito y exaltado sea, quiere. Que Dios os recompense con el bien, esté complacido con vosotros, os trate con bondad y os guarde a todos; y la paz de Dios, Su misericordia y Sus bendiciones sean con vosotros.
+
+*Traducción al español realizada con asistencia de inteligencia artificial a partir del texto árabe, que es el original y la referencia autorizada. Las aleyas y los hadices se citan en árabe con su traducción al español.*
+
+---
+[^1]: Documentación del editor: El texto de la jutba se transcribe tal como lo relató el orador según la transcripción automática, y el editor no halló una cadena de transmisión firme para su texto con esta formulación, por lo que se atribuye al orador en su relato y no se afirma con certeza su autenticidad; en la transcripción figuraba «ليصعب» y se consignó «لَيُصْعَقَنَّ» según la pronunciación que el orador hizo de ella más adelante («يصعق»). Además, figuraba una expresión poco clara en la transcripción antes de «أَمْثَالِهَا إِلَى سَبْعِمِائَةِ ضِعْفٍ», y se consignó la expresión sin la primera cantidad de la multiplicación. El orador no mencionó la fuente del relato; y en cuanto a lo que mencionó sobre su transmisor y una cita de «Ar-Raḥīq al-Majtūm», no lo hallamos en ninguna fuente abierta, de modo que se suprimió la atribución y la noticia quedó en forma de relato.
+[^2]: Documentación del editor: El orador se limitó a «ومن يوقَ شحَّ نفسه» (quien sea preservado de la avaricia de su propia alma); la aleya está en la Sūra de Al-Ḥašr (9) y en la Sūra de At-Taġābun (16), y no pronunció su continuación.
