@@ -154,7 +154,7 @@ export const articlesMeta: ArticleMeta[] = [
       es: '7 de octubre de 2026',
       ur: '7 اکتوبر 2026',
     },
-    readingMinutes: 11,
+    readingMinutes: 13,
     series: {
       ar: 'المفاهيم الإيمانية',
       en: 'Concepts of Faith',
@@ -228,7 +228,7 @@ export const articlesMeta: ArticleMeta[] = [
       es: '7 de octubre de 2026',
       ur: '7 اکتوبر 2026',
     },
-    readingMinutes: 10,
+    readingMinutes: 15,
     series: {
       ar: 'المفاهيم الإيمانية',
       en: 'Concepts of Faith',
@@ -2799,14 +2799,20 @@ export const articlesMeta: ArticleMeta[] = [
     title: {
       ar: 'الشرك في القرآن',
       en: 'Shirk in the Qurʾan: Making a Partner in What Belongs to God Alone',
+      es: 'El shirk en el Corán: la asociación en lo que pertenece solo a Dios',
+      ur: 'قرآن میں شرک: اللہ کے خالص حق میں شراکت',
     },
     subtitle: {
       ar: 'أن تجعل لله شريكًا فيما هو له وحده',
-      en: 'Making a Partner in What Belongs to God Alone',
+      en: 'A study of the root sh-r-k as the Qur\'an uses it: a partnership between people may be valid, but the like of it with God never is',
+      es: 'Estudio de la raíz sh-r-k tal como la emplea el Corán: la sociedad entre los hombres puede ser válida, mientras que su equivalente con Dios jamás lo es',
+      ur: 'مادۂ «ش ر ک» کے قرآنی استعمال کا مطالعہ: انسانوں کے درمیان شراکت درست ہو سکتی ہے، مگر اللہ کے ساتھ اس کی مثل شراکت کبھی درست نہیں',
     },
     excerpt: {
       ar: 'جذر «ش ر ك» يتكرر في القرآن مئةً وثمانيًا وستين مرة، وللشرك فيه معنى مفرد: أن يُجعل لله شريكٌ فيما هو له وحده. قراءة في دلالة اللفظ القرآنية، وفيما يُجعل فيه الشريك، وكيف يقف التوحيد في مقابله.',
       en: 'The root sh-r-k occurs 168 times in the Qurʾan, and shirk has a distinct meaning there: setting up a partner in what belongs to God alone. A reading of the Qurʾanic usage, of what the partner is given a share in, and of where tawḥīd stands against it.',
+      es: 'La raíz sh-r-k aparece 168 veces en el Corán en ocho formas, y el Corán la emplea para la sociedad lícita entre los hombres antes de reprobarla cuando se trata de Dios. El artículo sigue el shirk en la adoración, el gobierno y la legislación, desde el consejo de Luqmán hasta el shirk oculto que puede entrar en el corazón de quien reza.',
+      ur: 'جذر «ش ر ک» قرآن میں آٹھ صیغوں میں 168 مرتبہ آیا ہے، اور قرآن اسے انسانوں کی جائز شراکت کے لیے بھی استعمال کرتا ہے، پھر اللہ کے معاملے میں اس کی مذمت کرتا ہے۔ مضمون لقمان کی وصیت سے لے کر اس پوشیدہ شرک تک، جو نمازی کے دل میں بھی داخل ہو سکتا ہے، عبادت، حکم اور تشریع میں شرک کا تعاقب کرتا ہے۔',
     },
   },
   {
@@ -2830,14 +2836,20 @@ export const articlesMeta: ArticleMeta[] = [
     title: {
       ar: 'الإيمان في القرآن',
       en: 'Imān in the Qurʾan: A Trust in Which the Heart Finds Rest',
+      es: 'El īmān en el Corán: la confianza en la que el corazón halla sosiego',
+      ur: 'قرآن میں ایمان: وہ اعتماد جس سے دل کو سکون ملتا ہے',
     },
     subtitle: {
       ar: 'تصديقٌ تسكن إليه النفس ويدخل القلب',
-      en: 'A Trust in Which the Heart Finds Rest',
+      en: 'A study of a word Joseph\'s brothers spoke to their father, which the Qur\'an then turned back upon the Bedouin: what is faith when it is ascribed to the heart, increases, and gives its name to deeds?',
+      es: 'Estudio de una palabra que los hermanos de José dijeron a su padre y que el Corán devolvió después a los beduinos: ¿qué es la fe cuando se atribuye al corazón, aumenta y da su nombre a las obras?',
+      ur: 'اس لفظ کا مطالعہ جو یوسف کے بھائیوں نے اپنے باپ سے کہا اور جسے قرآن نے پھر اعرابیوں پر لوٹا دیا: ایمان کیا ہے جب وہ دل کی طرف منسوب ہو، بڑھے، اور عمل کو اپنا نام دے؟',
     },
     excerpt: {
       ar: 'الإيمان في القرآن مأخوذ من الأمن: تصديقٌ تسكن به النفس ويزول معه الخوف، لا مجرد إقرارٍ على اللسان. دراسة في أصل اللفظ وأقوال أهل اللغة وما يدخل القلب قبل أن يظهر في القول والعمل.',
       en: 'Imān in the Qurʾan is drawn from amn, security: a trust in which the soul finds rest and fear departs, not a mere statement on the tongue. A study of the root, the words of the lexicographers, and what enters the heart before it appears in speech and deed.',
+      es: 'La raíz ʾ-m-n aparece 879 veces en el Corán, y 812 de ellas pertenecen a la fe, que el Corán presenta como una confianza que entra en el corazón, se hace amada y aumenta. El artículo sigue la palabra desde la negativa de Jacob a dar crédito a sus hijos hasta los beduinos de al-Ḥujurāt, la oración hacia Jerusalén y el creyente de la casa del Faraón.',
+      ur: 'مادّہ «أ م ن» قرآن میں 879 مرتبہ آیا ہے، جن میں سے 812 ایمان کے باب میں ہیں، اور قرآن ایمان کو ایسے اعتماد کے طور پر پیش کرتا ہے جو دل میں داخل ہوتا ہے، محبوب بنایا جاتا ہے اور بڑھتا ہے۔ مضمون اس لفظ کو یعقوب کے بیٹوں پر اعتماد نہ کرنے سے لے کر سورۂ حجرات کے اعرابیوں، بیت المقدس کی طرف نماز اور فرعون کے گھرانے کے مومن تک لے کر چلتا ہے۔',
     },
   },
   {
@@ -2861,14 +2873,20 @@ export const articlesMeta: ArticleMeta[] = [
     title: {
       ar: 'الهداية في القرآن',
       en: 'Hidāya in the Qurʾan: Guidance by Gentleness, and Divine Success Reserved to God',
+      es: 'La guía en el Corán: orientación y asistencia que Dios se reserva',
+      ur: 'قرآن میں ہدایت: راہ نمائی اور وہ توفیق جو اللہ کے ساتھ خاص ہے',
     },
     subtitle: {
       ar: 'دلالةٌ بلطف، وتوفيقٌ يختصّ به الله',
-      en: 'Guidance by Gentleness, and Divine Success Reserved to God',
+      en: 'A reading of the verb hadā and its constructions, and of the difference between the guidance of showing the way and the guidance of enabling (tawfīq) between 28:56 and 42:52',
+      es: 'Lectura del verbo hadā y de sus construcciones, y de la diferencia entre la guía que indica el camino y la guía que asiste (tawfīq) entre 28:56 y 42:52',
+      ur: 'فعل «هدى» اور اس کے تعدیہ کی صورتوں کا مطالعہ، اور 28:56 اور 42:52 کے درمیان ہدایتِ دلالت اور ہدایتِ توفیق کے فرق کی وضاحت',
     },
     excerpt: {
       ar: 'بين ﴿إِنَّكَ لَا تَهْدِي مَنْ أَحْبَبْتَ﴾ و﴿وَإِنَّكَ لَتَهْدِي إِلَىٰ صِرَاطٍ مُّسْتَقِيمٍ﴾: كيف يميّز القرآن بين هداية الدلالة التي يملكها الرسل والدعاة وهداية التوفيق التي يختص بها الله، وما يترتب على ذلك في الدعوة والتربية.',
       en: 'Between ﴿You do not guide whom you love﴾ and ﴿You surely guide to a straight path﴾: how the Qurʾan distinguishes the guidance of direction that messengers and callers possess from the guidance of divine success that God alone grants, and what follows for da‘wa and upbringing.',
+      es: 'La raíz h-d-y aparece 316 veces en el Corán en doce formas, y la partícula que sigue al verbo inclina su sentido entre la orientación delicada y la asistencia divina. El artículo concilia 28:56 y 42:52, y sigue la guía desde la primera súplica de al-Fātiḥa hasta la alabanza de la gente del Paraíso.',
+      ur: 'جذر «ہ د ی» قرآن میں بارہ صیغوں میں 316 مرتبہ آیا ہے، اور فعل کے بعد کا حرف اس کے معنی کو نرم راہ نمائی اور توفیقِ الٰہی کے درمیان مائل کرتا ہے۔ مضمون 28:56 اور 42:52 میں تطبیق دیتا ہے اور ہدایت کو سورۂ فاتحہ کی پہلی دعا سے اہلِ جنت کی حمد تک لے جاتا ہے۔',
     },
   },
   {
@@ -2892,14 +2910,20 @@ export const articlesMeta: ArticleMeta[] = [
     title: {
       ar: 'الإنابة في القرآن',
       en: 'Ināba in the Qurʾan: A Return with No Direction but God',
+      es: 'La ināba en el Corán',
+      ur: 'قرآن میں انابت',
     },
     subtitle: {
       ar: 'رجوعٌ لا وجهة له إلا الله',
-      en: 'A Return with No Direction but God',
+      en: 'A study of a root that appears in the Qur\'an only in the causative form, of its single direction, and of its relation to repentance',
+      es: 'Estudio de una raíz que aparece en el Corán solo en forma causativa, de su único rumbo y de su relación con el arrepentimiento',
+      ur: 'ایک ایسے مادّے کا مطالعہ جو قرآن میں صرف باب افعال کی صورت میں آیا ہے، اس کی واحد سمت کا، اور توبہ سے اس کے تعلق کا',
     },
     excerpt: {
       ar: 'ورد جذر «ن و ب» في القرآن ثماني عشرة مرة كلها على صيغة الإفعال: إحدى عشرة مرة «أناب» وسبع مرات «منيب». قراءة في معنى الرجوع إلى الله بوجهةٍ واحدة، وفي اقتران الإنابة بالإسلام والتوكل.',
       en: 'The root n-w-b occurs eighteen times in the Qurʾan, always in the fourth form: eleven times as anāba and seven as munīb. A reading of what it means to return to God with a single direction, and of how ināba is paired with islām and tawakkul.',
+      es: 'La raíz n-w-b aparece dieciocho veces en el Corán, siempre en forma causativa y siempre dirigida únicamente a Dios. El artículo sigue la ināba desde la prueba de David y Salomón hasta el corazón tierno de Abraham y la súplica nocturna del Profeta ﷺ, y muestra cómo se acerca a la tawba añadiéndole sinceridad, orientación hacia Dios y obediencia.',
+      ur: 'مادّہ «ن و ب» قرآن میں اٹھارہ بار آیا ہے، ہمیشہ باب افعال میں اور ہمیشہ صرف اللہ کی طرف متوجہ۔ مضمون داؤد و سلیمان علیہما السلام کی آزمائش سے لے کر ابراہیمؑ کے نرم دل اور نبی ﷺ کی رات کی دعا تک انابت کا تعاقب کرتا ہے، اور دکھاتا ہے کہ وہ توبہ کے قریب ہوتے ہوئے اس پر اخلاص، اللہ کی طرف اقبال اور اطاعت کا اضافہ کیسے کرتی ہے۔',
     },
   },
   {
@@ -2923,14 +2947,20 @@ export const articlesMeta: ArticleMeta[] = [
     title: {
       ar: 'الدعاء في القرآن',
       en: 'Duʿāʾ in the Qurʾan: The Servant Calls and the Lord Answers',
+      es: 'La súplica en el Corán: llamar y responder',
+      ur: 'قرآن میں دعا: پکار اور جواب',
     },
     subtitle: {
       ar: 'نداء العبد وجواب الرب',
-      en: 'The Servant Calls and the Lord Answers',
+      en: 'A study of a word that joins worship and petition, and of the Qur\'an\'s pausing at "he called out" (nādā) where we expect "he supplicated" (daʿā)',
+      es: 'Estudio de una palabra que reúne la adoración y la petición, y de cómo el Corán se detiene en «nādā» («llamó») allí donde esperamos «daʿā» («suplicó»)',
+      ur: 'ایک ایسے لفظ کا مطالعہ جو عبادت اور سوال کو جمع کرتا ہے، اور اس بات کا کہ جہاں ہم «دعا» کی توقع کرتے ہیں وہاں قرآن «نادى» پر کیوں ٹھہر جاتا ہے',
     },
     excerpt: {
       ar: 'الدعاء في القرآن نداءٌ من العبد وجوابٌ من الرب: ﴿وَإِذَا سَأَلَكَ عِبَادِي عَنِّي فَإِنِّي قَرِيبٌ﴾. قراءة في دلالة اللفظ ومواضعه القرآنية، وفي أدب المناجاة بين العبد وربه.',
       en: 'Duʿāʾ in the Qurʾan is a call from the servant and an answer from the Lord: ﴿When My servants ask you about Me, I am near﴾. A reading of the term and its Qurʾanic occurrences, and of the manners of intimate address between servant and Lord.',
+      es: 'La raíz d-ʿ-w aparece 212 veces en el Corán, y el Corán la emplea tanto para la adoración como para la petición. El artículo sigue la súplica desde la llamada oculta de Zacarías y la aleya «Invocadme» hasta la confesión de Jonás en las tinieblas, y se pregunta por qué el Corán dice a veces nādā donde esperamos daʿā.',
+      ur: 'جذر «د ع و» قرآن میں 212 مرتبہ آیا ہے، اور قرآن اسے عبادت اور سوال دونوں کے لیے استعمال کرتا ہے۔ مضمون زکریا کی خفیہ پکار اور آیت «مجھے پکارو» سے لے کر یونس کے اندھیروں میں اعتراف تک دعا کا تعاقب کرتا ہے، اور پوچھتا ہے کہ قرآن کبھی «دعا» کی جگہ «نادى» کیوں کہتا ہے۔',
     },
   },
   {
@@ -2954,14 +2984,20 @@ export const articlesMeta: ArticleMeta[] = [
     title: {
       ar: 'الذكر في القرآن',
       en: 'Dhikr in the Qurʾan: A Presence Set Against Forgetting',
+      es: 'El dhikr en el Corán: presencia frente al olvido',
+      ur: 'قرآن میں ذکر: نسیان کے مقابل حضوری',
     },
     subtitle: {
       ar: 'حضورٌ يقابل النسيان ويتسع حتى يصير اسمًا للوحي',
-      en: 'A Presence Set Against Forgetting',
+      en: 'A study of a root that joins the heart\'s calling to mind, the tongue\'s speech, the sending down of the Book and the lasting of honour, and of its bearing on tranquillity and trembling',
+      es: 'Estudio de una raíz que reúne la evocación del corazón, la palabra de la lengua, el descenso del Libro y la permanencia del honor, y de su relación con el sosiego y el temblor',
+      ur: 'ایک ایسے مادّے کا مطالعہ جو دل کے استحضار، زبان کے کلام، کتاب کے نزول اور شرف کی بقا کو یکجا کرتا ہے، اور اطمینان و وجل سے اس کے تعلق کا بیان',
     },
     excerpt: {
       ar: 'يتسع الذكر في القرآن من حضور القلب واللسان حتى يصير اسمًا للوحي نفسه. قراءة في دلالة اللفظ ومقابله النسيان وأبرز مواضعه.',
       en: 'Dhikr in the Qurʾan widens from the presence of heart and tongue until it becomes a name for revelation itself. A reading of the term, of its opposite — forgetting — and of its principal occurrences.',
+      es: 'La raíz dh-k-r aparece 292 veces en el Corán, y el Corán opone el dhikr a un único contrario, el olvido. El artículo sigue el término mientras se ensancha desde el recuerdo del corazón hasta el nombre de la revelación y del honor, y mientras reúne el sosiego y el temblor.',
+      ur: 'جذر «ذ ك ر» قرآن میں 292 مرتبہ آیا ہے، اور قرآن ذکر کو ایک ہی ضد، یعنی نسیان، کے مقابل رکھتا ہے۔ مضمون دیکھتا ہے کہ یہ لفظ دل کی یاد سے پھیل کر وحی اور شرف کا نام کیسے بنتا ہے، اور اطمینان و وجل کو کیسے یکجا رکھتا ہے۔',
     },
   },
   {
@@ -2985,14 +3021,20 @@ export const articlesMeta: ArticleMeta[] = [
     title: {
       ar: 'الهوى في القرآن',
       en: 'Hawā in the Qurʾan: When Inclination Is Taken as a God',
+      es: 'Hawā en el Corán: la pasión tomada como dios',
+      ur: 'قرآن میں ہویٰ: خواہش کو معبود بنا لینا',
     },
     subtitle: {
       ar: 'حين يُتَّخذ الميل إلهًا',
-      en: 'When Inclination Is Taken as a God',
+      en: 'A study of a word that occurs thirty-eight times in the Qur\'an, and of its unique use between following, taking as a god, and prohibition',
+      es: 'Estudio de una palabra que aparece treinta y ocho veces en el Corán y de su empleo singular entre el seguimiento, la adopción como dios y la prohibición',
+      ur: 'ایک ایسے لفظ کا مطالعہ جو قرآن میں اڑتیس مرتبہ آیا ہے، اور اتباع، اتخاذ اور ممانعت کے درمیان اس کے منفرد استعمال کا بیان',
     },
     excerpt: {
       ar: 'في القرآن لا يقف الهوى عند الميل الطبيعي، بل يُتَّخذ إلهًا: ﴿أَفَرَأَيْتَ مَنِ اتَّخَذَ إِلَٰهَهُ هَوَاهُ﴾. نظر في الجذر وفي ما يقابل الهوى في الآيات من الحق والعلم والوحي وخشية المقام.',
       en: 'In the Qurʾan, hawā does not stop at natural inclination; it is taken as a god: ﴿Have you seen him who takes his own desire as his god?﴾ A study of the root and of what the verses set against hawā: truth, knowledge, revelation, and fear of standing before the Lord.',
+      es: 'La raíz h-w-y aparece treinta y ocho veces en el Corán y en veintisiete de ellas significa la inclinación del alma, casi siempre unida al seguimiento, a la adopción como dios o a la prohibición. El artículo recorre el hawā desde el tribunal de David hasta la Balanza final y muestra cómo el Corán lo opone a la verdad, al conocimiento y a la revelación.',
+      ur: 'مادہ «ه و ي» قرآن میں اڑتیس مرتبہ آیا ہے، اور ستائیس مواضع میں اس کا مطلب میلانِ نفس ہے جو تقریباً ہمیشہ پیروی، معبود بنانے یا ممانعت کے ساتھ آتا ہے۔ مقالہ ہویٰ کو داؤد علیہ السلام کی عدالت سے آخری میزان تک دیکھتا ہے اور بتاتا ہے کہ قرآن اسے حق، علم اور وحی کے مقابل کیسے رکھتا ہے۔',
     },
   },
   {
@@ -3016,14 +3058,20 @@ export const articlesMeta: ArticleMeta[] = [
     title: {
       ar: 'الغفلة في القرآن',
       en: 'Ghafla in the Qurʾan: A State Lived In Until the Veil Is Lifted',
+      es: 'El descuido (ghafla) en el Corán',
+      ur: 'قرآن میں غفلت',
     },
     subtitle: {
       ar: 'حالٌ يُسكَن فيها حتى ينكشف الغطاء',
-      en: 'A State Lived In Until the Veil Is Lifted',
+      en: 'A study of a root that occurs thirty-five times and is never affirmed of God in a single place',
+      es: 'Estudio de una raíz que aparece treinta y cinco veces y que no se atribuye a Dios en un solo pasaje',
+      ur: 'ایک ایسے مادے کا مطالعہ جو پینتیس مرتبہ آیا ہے اور ایک بھی مقام پر اللہ کی صفت کے طور پر ثابت نہیں کیا گیا',
     },
     excerpt: {
       ar: 'الغفلة في القرآن حالٌ يعيش فيها الإنسان دون أن يراها حتى يُكشف الغطاء. قراءة في دلالة اللفظ وصوره القرآنية وما يوقظ منه.',
       en: 'Ghafla in the Qurʾan is a state in which a person lives without seeing it until the veil is lifted. A reading of the term, its Qurʾanic scenes, and what awakens from it.',
+      es: 'La raíz gh-f-l aparece 35 veces en el Corán y en ningún pasaje se atribuye el descuido a Dios. El artículo lo presenta como un estado que se habita sin saberlo hasta que se retira el velo, y sigue su remedio en el recuerdo desde la sura de Qāf hasta el compañero Ḥanẓala.',
+      ur: 'مادہ «غ ف ل» قرآن میں 35 مرتبہ آیا ہے اور کسی ایک مقام پر بھی غفلت اللہ کی طرف منسوب نہیں۔ مضمون اسے ایسی حالت کے طور پر دکھاتا ہے جس میں آدمی بے خبری میں بسا رہتا ہے یہاں تک کہ پردہ اٹھ جائے، اور سورۂ ق سے صحابی حنظلہ رضی اللہ عنہ تک ذکر کو اس کا علاج ثابت کرتا ہے۔',
     },
   },
   {
@@ -3047,14 +3095,20 @@ export const articlesMeta: ArticleMeta[] = [
     title: {
       ar: 'الإيثار في القرآن',
       en: 'Īthār in the Qurʾan: Putting Before Yourself What Deserves Precedence',
+      es: 'El īthār en el Corán: preferir a otros antes que a uno mismo',
+      ur: 'قرآن میں ایثار: دوسروں کو اپنے اوپر ترجیح دینا',
     },
     subtitle: {
       ar: 'أن تُقدِّم على نفسك ما هو أحقُّ بالتقديم',
-      en: 'Putting Before Yourself What Deserves Precedence',
+      en: 'A study of a verb that occurs five times in the Qur\'an with a single meaning, to prefer one thing over another, where only the doer and the object preferred change',
+      es: 'Estudio de un verbo que aparece cinco veces en el Corán con un único sentido, preferir una cosa a otra, donde solo cambian el sujeto y el objeto preferido',
+      ur: 'ایک ایسے فعل کا مطالعہ جو قرآن میں پانچ بار ایک ہی معنی میں آیا ہے، یعنی ایک چیز کو دوسری پر ترجیح دینا، اور صرف فاعل اور مفعول بدلتے ہیں',
     },
     excerpt: {
       ar: 'ورد فعل «آثر» في القرآن خمس مرات بمعنى واحد هو تفضيل شيء على شيء، ويتغيّر الفاعل والمفعول: من إيثار الله ليوسف عليه السلام إلى إيثار الأنصار على أنفسهم وإيثار الدنيا على الآخرة.',
       en: 'The verb āthara occurs five times in the Qurʾan with one meaning, preferring one thing over another, while the subject and object change: from God preferring Yūsuf, to the Anṣār preferring others over themselves, to those who prefer this world over the next.',
+      es: 'El verbo «āthara» aparece cinco veces en el Corán y siempre significa elegir una cosa y anteponerla a otra; solo cambian su sujeto y su objeto: Dios prefiere a José, los magos se niegan a preferir al Faraón, los Ansar prefieren a sus hermanos antes que a sí mismos y los hombres prefieren este mundo. El artículo lee las cinco aleyas con al-Ṭabarī, Ibn Kathīr, al-Qurṭubī e Ibn ʿĀshūr y pregunta en cada una: ¿qué se prefiere a qué?',
+      ur: 'فعل «آثر» قرآن میں پانچ بار آیا ہے اور ہر جگہ اس کا معنی ایک چیز کو چن کر دوسری پر مقدّم کرنا ہے، صرف فاعل اور مفعول بدلتے ہیں: اللہ یوسف کو ترجیح دیتا ہے، جادوگر فرعون کو ترجیح دینے سے انکار کرتے ہیں، انصار اپنے بھائیوں کو اپنی جانوں پر ترجیح دیتے ہیں، اور لوگ دنیا کو ترجیح دیتے ہیں۔ مضمون طبری، ابن کثیر، قرطبی اور ابن عاشور کے ساتھ پانچوں آیات کو پڑھتا ہے اور ہر ایک میں پوچھتا ہے: کس چیز کو کس پر ترجیح دی گئی؟',
     },
   },
   {
@@ -3078,14 +3132,20 @@ export const articlesMeta: ArticleMeta[] = [
     title: {
       ar: 'الابتلاء في القرآن',
       en: 'Ibtilāʾ in the Qurʾan: A Test by Hardship and by Favour Alike',
+      es: 'El ibtilāʾ en el Corán: la prueba con la adversidad y con el don',
+      ur: 'قرآن میں ابتلاء: سختی اور عطا دونوں سے آزمائش',
     },
     subtitle: {
       ar: 'اختبارٌ بالمحنة والمنحة معًا',
-      en: 'A Test by Hardship and by Favour Alike',
+      en: 'A study of the root b-l-w: its purpose, the double sense in which it means both testing and blessing, and its effect on the formation of the believer',
+      es: 'Estudio de la raíz b-l-w: su finalidad, la doble significación por la que designa a la vez la prueba y el don, y su efecto en la formación del creyente',
+      ur: 'مادۂ «ب ل و» کا مطالعہ: اس کی غایت، آزمائش اور نعمت کے درمیان اس کی دوہری دلالت، اور مومن کی تربیت پر اس کا اثر',
     },
     excerpt: {
       ar: 'يرد جذر «ب ل و» في القرآن ثمانيًا وثلاثين مرة، ومعناه الاختبار بالشر والخير معًا. قراءة في غاية الابتلاء ﴿أَيُّكُمْ أَحْسَنُ عَمَلًا﴾، وفي ازدواج «البلاء» بين المحنة والمنحة، وفي ابتلاء إبراهيم عليه السلام.',
       en: 'The root b-l-w occurs thirty-eight times in the Qurʾan, meaning a test by evil and good alike. A reading of the purpose of the test, ﴿which of you is best in deed﴾, of the double sense of balāʾ as trial and favour, and of the testing of Ibrāhīm.',
+      es: 'La raíz b-l-w aparece 38 veces en el Corán en cinco formas, y su finalidad se declara desde el principio: ver cuál de nosotros es mejor en obras. El artículo muestra cómo el Corán llama prueba tanto a la adversidad como al don, desde Abraham y Salomón hasta la enseñanza del Profeta ﷺ, y qué implica esto para la manera en que el creyente lee su propia vida.',
+      ur: 'مادۂ «ب ل و» قرآن میں پانچ صیغوں میں 38 مرتبہ آیا ہے، اور اس کی غایت شروع ہی میں بیان کر دی گئی ہے: یہ دیکھنا کہ ہم میں سے عمل میں کون سب سے اچھا ہے۔ مضمون بتاتا ہے کہ قرآن سختی اور نعمت دونوں کو آزمائش کیوں کہتا ہے، ابراہیم اور سلیمان علیہما السلام سے لے کر نبی ﷺ کی تعلیم تک، اور اس کا مومن کے اپنی زندگی کو پڑھنے پر کیا اثر پڑتا ہے۔',
     },
   },
   {
