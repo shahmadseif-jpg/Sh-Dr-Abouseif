@@ -7,7 +7,7 @@ import { siteConfig } from '@/lib/site-config';
 
 // Force dynamic rendering so YouTube fetch happens at request-time.
 export const dynamic = 'force-dynamic';
-export const revalidate = 3600;
+export const revalidate = 86400;
 
 export async function generateMetadata({
   params,

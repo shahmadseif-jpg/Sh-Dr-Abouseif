@@ -12,7 +12,7 @@ import { Suspense } from 'react';
 import { pageMetadata } from '@/lib/seo';
 
 export const dynamic = 'force-dynamic';
-export const revalidate = 3600;
+export const revalidate = 86400;
 
 export async function generateMetadata({
   params,

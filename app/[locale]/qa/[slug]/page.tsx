@@ -19,8 +19,8 @@ import { parseMarkdown, prepareMarkdownBody, renderMarkdown } from '@/lib/markdo
 
 // Bodies are files shipped with each deployment, so pages need not be
 // rendered on every request: they are generated on first request, cached,
-// and revalidated hourly (ISR). Unknown or draft slugs still 404.
-export const revalidate = 3600;
+// and kept until the next deployment (no timed ISR rewrites). Unknown or draft slugs still 404.
+export const revalidate = false;
 export const dynamicParams = true;
 export function generateStaticParams() {
   return [];

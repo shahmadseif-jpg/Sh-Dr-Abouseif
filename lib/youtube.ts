@@ -117,7 +117,7 @@ export async function fetchLatestVideos(limit = 6): Promise<YouTubeVideo[]> {
 
   try {
     const response = await fetch(url, {
-      next: { revalidate: 3600 }, // Cache for 1 hour
+      next: { revalidate: 86400 }, // Cache for 1 day
     });
 
     if (!response.ok) {
