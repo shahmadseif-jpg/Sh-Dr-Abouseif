@@ -8,7 +8,7 @@ import { siteConfig } from '@/lib/site-config';
 import { getEstimatedLectureCount } from '@/lib/lecture-counter';
 
 // Refresh hourly so the lecture counter matches the homepage.
-export const revalidate = 86400;
+export const revalidate = false;
 import PrintButton from '@/components/PrintButton';
 import MediaBio from '@/components/MediaBio';
 import { findPublished, published } from '@/lib/publish';
