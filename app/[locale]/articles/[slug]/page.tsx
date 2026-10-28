@@ -15,13 +15,14 @@ import ArticleComments from '@/components/ArticleComments';
 import ContentLanguageNotice from '@/components/ContentLanguageNotice';
 import { getApprovedComments } from '@/lib/comments';
 
-// Bodies are files shipped with each deployment, so pages need not be
-// rendered on every request: they are generated on first request, cached,
-// and kept until the next deployment (no timed ISR rewrites). Unknown or draft slugs still 404.
+// Content and approved comments ship with the deployment. Build every
+// published slug up front instead of generating it on the first visit.
+// New content becomes available on the next deployment; unknown/draft
+// slugs return 404 without on-demand page generation.
 export const revalidate = false;
-export const dynamicParams = true;
+export const dynamicParams = false;
 export function generateStaticParams() {
-  return [];
+  return getAllArticles().map(({ slug }) => ({ slug }));
 }
 
 export async function generateMetadata({

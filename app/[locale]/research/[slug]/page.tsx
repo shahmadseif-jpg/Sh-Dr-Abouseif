@@ -19,6 +19,9 @@ import { availableLocales } from '@/lib/content-availability-server';
 import { authorName, pageMetadata } from '@/lib/seo';
 import { extractToc, parseMarkdown, prepareMarkdownBody, renderMarkdown } from '@/lib/markdown';
 
+// Research is bundled content: reject slugs outside the built catalog.
+export const dynamicParams = false;
+
 export async function generateStaticParams() {
   return getAllResearch().map((r) => ({ slug: r.slug }));
 }
