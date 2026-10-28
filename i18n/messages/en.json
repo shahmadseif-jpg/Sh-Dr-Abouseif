@@ -379,5 +379,18 @@
     "ask_title": "Didn’t find your question?",
     "ask_body": "Send your question to the Shaykh's inbox; if you allow it, the answer may be published here after anything that identifies you is removed.",
     "ask_cta": "Ask your question"
+  },
+  "articlePagination": {
+    "search": "Search all articles",
+    "category": "Reading path",
+    "all": "All paths",
+    "navigation": "Article pages",
+    "previous": "Previous",
+    "next": "Next",
+    "page": "Page",
+    "results": "{countText} — page {page} of {pages}",
+    "empty": "No matching articles. Try another word or reading path.",
+    "noScript": "Interactive filtering and searching require JavaScript. You can browse the archive pages and the full article links below without it.",
+    "pageTitle": "Articles — page {page}"
   }
 }

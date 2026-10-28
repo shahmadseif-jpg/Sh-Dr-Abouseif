@@ -379,5 +379,18 @@
     "ask_title": "¿No encontraste tu pregunta?",
     "ask_body": "Envía tu pregunta al buzón del Shaykh; si lo autorizas, la respuesta puede publicarse aquí tras eliminar lo que te identifique.",
     "ask_cta": "Envía tu pregunta"
+  },
+  "articlePagination": {
+    "search": "Buscar en todos los artículos",
+    "category": "Itinerario",
+    "all": "Todos los itinerarios",
+    "navigation": "Páginas de artículos",
+    "previous": "Anterior",
+    "next": "Siguiente",
+    "page": "Página",
+    "results": "{countText} — página {page} de {pages}",
+    "empty": "No hay artículos coincidentes. Pruebe otra palabra u otro itinerario.",
+    "noScript": "Los filtros y la búsqueda interactivos requieren JavaScript. Sin activarlo, puede recorrer las páginas del índice y los enlaces de todos los artículos que aparecen abajo.",
+    "pageTitle": "Artículos — página {page}"
   }
 }

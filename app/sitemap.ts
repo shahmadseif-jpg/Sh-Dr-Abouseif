@@ -1,4 +1,5 @@
 import type { MetadataRoute } from 'next';
+import { articlePageCount, articlePagePath } from '@/lib/article-pagination';
 import { getAllArticles } from '@/lib/articles';
 import { getAllKhawatir } from '@/lib/khawatir';
 import { getAllResearch } from '@/lib/research';
@@ -41,7 +42,8 @@ export default function sitemap(): MetadataRoute.Sitemap {
   const withAbsolute = (languages: Record<string, string>) =>
     Object.fromEntries(Object.entries(languages).map(([k, v]) => [k, abs(v)]));
 
-  for (const path of STATIC_PATHS) {
+  const archivePaths = Array.from({ length: articlePageCount(getAllArticles().length) - 1 }, (_, i) => articlePagePath(i + 2));
+  for (const path of [...STATIC_PATHS, ...archivePaths]) {
     for (const locale of SITE_LOCALES) {
       const policy = languagePolicy({ locale, path });
       entries.push({

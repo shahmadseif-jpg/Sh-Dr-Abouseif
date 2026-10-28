@@ -10,7 +10,8 @@ import { bodyLocales } from '@/lib/content-availability-server';
 //  - whole list as a server component: the 461 cards are serialized twice
 //    (HTML + inline RSC element tree, HTML 0.67 -> 1.49 MB) and list-page TBT
 //    rose 231 -> 391 ms.
-// Slim props keep the RSC payload to the visible text only.
+// The localized full index is retained for all-corpus client filtering.
+// Pagination limits rendered cards; it does not remove this index payload.
 import { useLocale, useTranslations } from 'next-intl';
 import { articlesMeta, categoryLabels, type ArticleCategory, type ArticleMeta } from '@/lib/articles';
 import { localize, localizedTextLocale, type Loc, type LocalizedText } from '@/lib/localize';
@@ -80,7 +81,7 @@ const PATH_DESC: Record<ArticleCategory, LocalizedText> = {
   },
 };
 
-export default function ArticlesList() {
+export default function ArticlesList({ initialPage = 1 }: { initialPage?: number }) {
   const locale = useLocale() as Loc;
   const ui = useTranslations('ui');
   // Plural-aware labels (Arabic: 1 / 2 / 3–10 / 11+ forms; EN/ES singular) — LANG-110/111.
@@ -138,5 +139,5 @@ export default function ArticlesList() {
     };
   }).filter((g) => g.total > 0);
 
-  return <ArticlesListView groups={groups} />;
+  return <ArticlesListView groups={groups} initialPage={initialPage} />;
 }
