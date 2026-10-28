@@ -1,3 +1,4 @@
+import { localizedTextLocale } from '@/lib/localize';
 import type { Metadata } from 'next';
 import { setRequestLocale, getTranslations } from 'next-intl/server';
 import { notFound } from 'next/navigation';
@@ -150,7 +151,7 @@ export default async function ArticlePage({
         </div>
 
         {/* Title + subtitle */}
-        <h1 className="text-3xl sm:text-4xl lg:text-5xl font-medium text-navy-700 leading-tight mb-3">
+        <h1 lang={localizedTextLocale(meta.title, locale)} dir={['ar', 'ur'].includes(localizedTextLocale(meta.title, locale)) ? 'rtl' : 'ltr'} className="text-3xl sm:text-4xl lg:text-5xl font-medium text-navy-700 leading-tight mb-3">
           {localize(meta.title, lang)}
         </h1>
         {meta.subtitle && (
@@ -197,7 +198,7 @@ export default async function ArticlePage({
           requestedLocale={content.requestedLocale}
           resolvedLocale={content.resolvedLocale}
         />
-        <div className={`article-prose ${bodyIsRtl ? 'article-rtl' : 'article-ltr'}`}>
+        <div lang={content.resolvedLocale} dir={bodyIsRtl ? 'rtl' : 'ltr'} className={`article-prose ${bodyIsRtl ? 'article-rtl' : 'article-ltr'}`}>
           {renderMarkdown(doc, { locale: content.resolvedLocale })}
         </div>
 

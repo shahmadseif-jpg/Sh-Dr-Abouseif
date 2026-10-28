@@ -16,6 +16,7 @@ const STATIC_PATHS = [
   '/khawatir',
   '/research',
   '/qa',
+  '/fatwa',
   '/how-we-answer',
   '/project',
   '/lectures',

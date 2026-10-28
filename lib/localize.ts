@@ -17,3 +17,9 @@ export function localize(text: LocalizedText | undefined, locale: string): strin
   const v = (text as Record<string, string | undefined>)[locale];
   return v ?? text.ar ?? text.en;
 }
+
+/** Language of the selected metadata value, including canonical fallback. */
+export function localizedTextLocale(text: LocalizedText | undefined, locale: string): string {
+  if (text && (text as Record<string, string | undefined>)[locale] != null) return locale;
+  return text?.ar != null ? 'ar' : 'en';
+}

@@ -1,6 +1,6 @@
 'use client';
 
-import { useState } from 'react';
+import { useId, useState } from 'react';
 
 interface Props {
   /** Stable, unique BibTeX key for this work (e.g. "abouseif2018-farewell-tawaf"). */
@@ -29,6 +29,7 @@ export default function CiteThis({
   url,
   locale,
 }: Props) {
+  const panelId = useId();
   const [open, setOpen] = useState(false);
   const [copied, setCopied] = useState<string>('');
 
@@ -81,6 +82,9 @@ export default function CiteThis({
   return (
     <div className="my-8 rounded-lg border border-navy-100 bg-navy-50/40 overflow-hidden">
       <button
+        type="button"
+        aria-expanded={open}
+        aria-controls={panelId}
         onClick={() => setOpen((v) => !v)}
         className="w-full flex items-center justify-between gap-2 px-5 py-3 text-sm font-medium text-navy-700 hover:bg-navy-50"
       >
@@ -92,7 +96,7 @@ export default function CiteThis({
       </button>
 
       {open && (
-        <div className="px-5 pb-5 space-y-4">
+        <div id={panelId} className="px-5 pb-5 space-y-4">
           {items.map(([label, text]) => (
             <div key={label}>
               <div className="flex items-center justify-between mb-1">

@@ -7,6 +7,9 @@ import Link from 'next/link';
 
 export interface ArticleCardData {
   slug: string;
+  titleLocale: string;
+  excerptLocale: string;
+  arabicFallback: boolean;
   title: string;
   excerpt: string;
   date: string;
@@ -42,17 +45,22 @@ function ArticleCard({
       href={`/${locale}/articles/${article.slug}`}
       className="bg-white border border-navy-100 rounded-lg p-6 card-hover flex flex-col group"
     >
+      {article.arabicFallback && (
+        <span className="text-xs text-navy-600 bg-navy-50 rounded px-2 py-1 mb-3 self-start" lang={locale}>
+          {locale === 'es' ? 'Original árabe; traducción no disponible' : locale === 'ur' ? 'عربی اصل؛ ترجمہ دستیاب نہیں' : locale === 'en' ? 'Arabic original; translation unavailable' : 'الأصل العربي؛ الترجمة غير متاحة'}
+        </span>
+      )}
       {article.episode != null && (
         <div className="text-xs font-medium text-gold-700 mb-2">
           {epLabel} {article.episode}
         </div>
       )}
 
-      <h3 className="text-lg font-medium text-navy-700 leading-snug mb-3 group-hover:text-gold-600 transition-colors">
+      <h3 lang={article.titleLocale} dir={['ar', 'ur'].includes(article.titleLocale) ? 'rtl' : 'ltr'} className="text-lg font-medium text-navy-700 leading-snug mb-3 group-hover:text-gold-600 transition-colors">
         {article.title}
       </h3>
 
-      <p className="text-sm text-navy-600 leading-relaxed mb-4 line-clamp-4 flex-1">
+      <p lang={article.excerptLocale} dir={['ar', 'ur'].includes(article.excerptLocale) ? 'rtl' : 'ltr'} className="text-sm text-navy-600 leading-relaxed mb-4 line-clamp-4 flex-1">
         {article.excerpt}
       </p>
 

@@ -32,6 +32,8 @@ export default function ResearchList() {
       {/* Filters */}
       <div className="mb-10 flex flex-wrap gap-2 justify-center">
         <button
+          type="button"
+          aria-pressed={filter === 'all'}
           onClick={() => setFilter('all')}
           className={`px-4 py-2 text-sm rounded-md transition-colors ${
             filter === 'all'
@@ -44,6 +46,8 @@ export default function ResearchList() {
         {availableTypes.map((tp) => (
           <button
             key={tp}
+            type="button"
+            aria-pressed={filter === tp}
             onClick={() => setFilter(tp)}
             className={`px-4 py-2 text-sm rounded-md transition-colors ${
               filter === tp
@@ -67,6 +71,7 @@ export default function ResearchList() {
               {r.coverImage && (
                 <Link
                   href={`/research/${r.slug}` as any}
+                  aria-label={localize(r.title, locale)}
                   className="hidden sm:block flex-shrink-0 self-start no-underline"
                 >
                   {/* eslint-disable-next-line @next/next/no-img-element */}

@@ -1,3 +1,4 @@
+import { localizedTextLocale } from '@/lib/localize';
 import type { Metadata } from 'next';
 import { setRequestLocale } from 'next-intl/server';
 import { notFound } from 'next/navigation';
@@ -125,7 +126,7 @@ export default async function QADetailPage({
         </div>
 
         {/* The question */}
-        <h1 className="text-2xl sm:text-3xl lg:text-4xl font-medium text-navy-700 leading-snug mb-4">
+        <h1 lang={localizedTextLocale(meta.question, locale)} dir={['ar', 'ur'].includes(localizedTextLocale(meta.question, locale)) ? 'rtl' : 'ltr'} className="text-2xl sm:text-3xl lg:text-4xl font-medium text-navy-700 leading-snug mb-4">
           {localize(meta.question, lang)}
         </h1>
 
@@ -161,7 +162,7 @@ export default async function QADetailPage({
           requestedLocale={content.requestedLocale}
           resolvedLocale={content.resolvedLocale}
         />
-        <div className={`article-prose ${bodyIsRtl ? 'article-rtl' : 'article-ltr'}`}>
+        <div lang={content.resolvedLocale} dir={bodyIsRtl ? 'rtl' : 'ltr'} className={`article-prose ${bodyIsRtl ? 'article-rtl' : 'article-ltr'}`}>
           {renderMarkdown(doc, { locale: content.resolvedLocale })}
         </div>
 

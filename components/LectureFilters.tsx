@@ -71,6 +71,7 @@ export default function LectureFilters({
           value={search}
           onChange={(e) => setSearch(e.target.value)}
           placeholder={t('search_placeholder')}
+          aria-label={t('search_placeholder')}
           className="w-full px-4 py-2 text-sm border border-navy-200 rounded-md focus:outline-none focus:border-navy-400"
         />
       </div>
@@ -79,24 +80,32 @@ export default function LectureFilters({
       <div className="flex flex-wrap items-center gap-2 mb-3">
         <span className="text-xs text-navy-500 me-1">{t('label_type')}:</span>
         <button
+          type="button"
+          aria-pressed={typeFilter === 'all'}
           onClick={() => setTypeFilter('all')}
           className={buttonStyle(typeFilter === 'all')}
         >
           {t('type_all')}
         </button>
         <button
+          type="button"
+          aria-pressed={typeFilter === 'lecture'}
           onClick={() => setTypeFilter('lecture')}
           className={buttonStyle(typeFilter === 'lecture')}
         >
           {t('type_lecture')}
         </button>
         <button
+          type="button"
+          aria-pressed={typeFilter === 'khutbah'}
           onClick={() => setTypeFilter('khutbah')}
           className={buttonStyle(typeFilter === 'khutbah')}
         >
           {t('type_khutbah')}
         </button>
         <button
+          type="button"
+          aria-pressed={typeFilter === 'khatira'}
           onClick={() => setTypeFilter('khatira')}
           className={buttonStyle(typeFilter === 'khatira')}
         >
@@ -108,18 +117,24 @@ export default function LectureFilters({
       <div className="flex flex-wrap items-center gap-2 mb-8">
         <span className="text-xs text-navy-500 me-1">{t('label_language')}:</span>
         <button
+          type="button"
+          aria-pressed={langFilter === 'all'}
           onClick={() => setLangFilter('all')}
           className={buttonStyle(langFilter === 'all')}
         >
           {t('filter_all')}
         </button>
         <button
+          type="button"
+          aria-pressed={langFilter === 'ar'}
           onClick={() => setLangFilter('ar')}
           className={buttonStyle(langFilter === 'ar')}
         >
           {t('filter_arabic')}
         </button>
         <button
+          type="button"
+          aria-pressed={langFilter === 'en'}
           onClick={() => setLangFilter('en')}
           className={buttonStyle(langFilter === 'en')}
         >

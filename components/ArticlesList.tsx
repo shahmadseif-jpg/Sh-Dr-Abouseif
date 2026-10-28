@@ -1,3 +1,4 @@
+import { bodyLocales } from '@/lib/content-availability-server';
 // Server component (PERF-02). Groups and localizes the article metadata on the
 // server and passes only the current locale's strings to ArticlesListView.
 //
@@ -12,7 +13,7 @@
 // Slim props keep the RSC payload to the visible text only.
 import { useLocale, useTranslations } from 'next-intl';
 import { articlesMeta, categoryLabels, type ArticleCategory, type ArticleMeta } from '@/lib/articles';
-import { localize, type Loc, type LocalizedText } from '@/lib/localize';
+import { localize, localizedTextLocale, type Loc, type LocalizedText } from '@/lib/localize';
 import { published } from '@/lib/publish';
 import ArticlesListView, { type ArticleCardData, type ArticleGroup } from './ArticlesListView';
 
@@ -88,6 +89,9 @@ export default function ArticlesList() {
 
   const card = (a: ArticleMeta, inSeries: boolean): ArticleCardData => ({
     slug: a.slug,
+    titleLocale: localizedTextLocale(a.title, locale),
+    excerptLocale: localizedTextLocale(a.excerpt, locale),
+    arabicFallback: !bodyLocales('articles', a.slug).includes(locale) && bodyLocales('articles', a.slug).includes('ar'),
     title: localize(a.title, locale),
     excerpt: localize(a.excerpt, locale),
     date: localize(a.date, locale),
