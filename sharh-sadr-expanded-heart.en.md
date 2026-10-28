@@ -56,6 +56,6 @@ Peace be upon you.
 ---
 [^1]: Editor's documentation: The description matches Sūrat al-Sharḥ: ﴿أَلَمْ نَشْرَحْ لَكَ صَدْرَكَ﴾ [al-Sharḥ: 1].
 [^2]: Editor's documentation: The reminder "Did We not find you an orphan" matches Sūrat al-Ḍuḥā: ﴿أَلَمْ يَجِدْكَ يَتِيمًا فَآوَىٰ﴾ [al-Ḍuḥā: 6]. The speaker's classification (spiritual, intellectual, financial) is given as he stated it.
-[^3]: Editor's documentation: The speaker relates the meaning of a hadith without citing it; no source is attributed here.
+[^3]: Editor's documentation: The speaker referred to the meaning of the hadith of Saʿd ibn Abī Waqqāṣ, may Allah be pleased with him, reported by al-Tirmidhī (2398), who graded it ḥasan ṣaḥīḥ, and by Ibn Mājah (4023). The wording in the body is a paraphrase, not a verbatim quotation.
 [^4]: Editor's documentation: The speaker's translation corresponds to Musa's supplication in Sūrat Ṭā Hā: ﴿قَالَ رَبِّ اشْرَحْ لِي صَدْرِي ۝ وَيَسِّرْ لِي أَمْرِي ۝ وَاحْلُلْ عُقْدَةً مِّن لِّسَانِي ۝ يَفْقَهُوا قَوْلِي ۝ وَاجْعَل لِّي وَزِيرًا مِّنْ أَهْلِي﴾ [طه: 25–29]. The speaker did not recite the Arabic, which is given for reference only.
 [^5]: Editor's documentation: For reference, the surah continues with the removal of the burden and the promise of ease with hardship: ﴿وَوَضَعْنَا عَنكَ وِزْرَكَ﴾ [al-Sharḥ: 2] and ﴿فَإِنَّ مَعَ الْعُسْرِ يُسْرًا﴾ [al-Sharḥ: 5].
