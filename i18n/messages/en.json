@@ -58,10 +58,11 @@
     }
   },
   "stats": {
-    "lectures": "Lectures",
+    "lectures": "Lectures & lessons (estimated)",
     "years": "Years of service",
-    "subscribers": "Subscribers",
-    "languages": "Languages"
+    "subscribers": "Approx. followers across Facebook & YouTube",
+    "languages": "Languages",
+    "estimateNote": "The lecture total is an estimate starting at 23,974 on May 13, 2026, with an automatic increase of 12 per week; it is not a verified archive count."
   },
   "latest_videos": {
     "title": "Latest Lectures",
@@ -128,7 +129,7 @@
   },
   "research": {
     "title": "Research & Publications",
-    "subtitle": "Peer-reviewed papers, international conference contributions, and books in Islamic jurisprudence and thought",
+    "subtitle": "Research, conference contributions, and books in Islamic jurisprudence and thought",
     "filter_all": "All",
     "featured": "Featured",
     "venue": "Venue",
@@ -221,7 +222,7 @@
     "requiredNote": "Fields marked * are required.",
     "policyLink": "How we handle and publish questions",
     "consentLegend": "Consent",
-    "consentProcessing": "I agree that my question and contact details are e-mailed to the Imam so it can be answered.",
+    "consentProcessing": "I agree that my question and contact details are sent through the external service FormSubmit to the Imam’s inbox so it can be answered.",
     "consentPublish": "Optional: I allow my question and its answer to be published in the site archive after my name, e-mail and any identifying details are removed.",
     "errRequired": "This field is required.",
     "errEmail": "Enter a valid e-mail address, e.g. name@example.com.",
@@ -229,11 +230,13 @@
     "errConsent": "The question cannot be sent without agreeing to it being e-mailed to the Imam.",
     "errSummary": "Please correct the highlighted fields and send again.",
     "activation": "Your question has not been delivered yet: the receiving inbox has not activated this form with the sending service. Your text is still in the fields — please try again later or write to us via the contact page.",
-    "timeout": "The sending service did not respond in time. Your text is still in the fields; please try again."
+    "timeout": "The sending service did not respond in time. Your text is still in the fields; please try again.",
+    "privacyNote": "The information you enter is sent through the external service FormSubmit for delivery to the Imam’s inbox. Do not send sensitive information or details that identify other people."
   },
   "footer": {
     "rights": "All rights reserved",
-    "made_with": "Crafted with care"
+    "made_with": "Crafted with care",
+    "privacy": "Privacy and question handling"
   },
   "maqasid": {
     "title": "Objective-Based Tafsīr",
@@ -268,7 +271,7 @@
     "success": "Your comment has been received and will be published after review, God willing. May Allah reward you.",
     "error": "Could not send. Your text is kept; please try again.",
     "empty": "No comments published yet. Be the first to comment.",
-    "moderationNote": "We hope the article has benefited you, and we welcome your comment and advice.",
+    "moderationNote": "We hope the article has benefited you, and we welcome your comment and advice. The information you enter is sent through the external service FormSubmit for delivery to the Imam’s inbox. Do not send sensitive information or details that identify other people.",
     "replyLabel": "Sheikh's reply",
     "errRequired": "This field is required.",
     "errEmail": "Enter a valid e-mail address or leave the field empty.",
@@ -320,7 +323,7 @@
   },
   "newsletter": {
     "title": "Newsletter",
-    "desc": "Leave your e-mail to ask to be told about new articles and research. The request goes to the Imam's inbox; there is no automatic mailing list yet.",
+    "desc": "Leave your e-mail to ask to be told about new articles and research. The request goes to the Imam's inbox; there is no automatic mailing list yet. The information you enter is sent through the external service FormSubmit for delivery to the Imam’s inbox. Do not send sensitive information or details that identify other people.",
     "label": "Your e-mail address",
     "ph": "Your email",
     "btn": "Send request",
@@ -334,7 +337,7 @@
   "consultationsPage": {
     "title": "Family Consultation Service",
     "subtitle": "Sponsored by Dr. Ahmed Abouseif",
-    "intro": "A confidential, specialized Islamic family-counseling service for our Muslim community. Brothers and sisters are welcome at two weekly slots at either masjid below — no fees, complete privacy.",
+    "intro": "A specialized Islamic family-counseling service for our Muslim community. Brothers and sisters are welcome at two weekly slots at either masjid below, after an appointment is confirmed through direct contact.",
     "select_location": "Choose your consultation location",
     "aia_name": "American Imams Academy Masjid",
     "aia_address": "American Imams Academy, USA",
@@ -351,19 +354,19 @@
     "type_marital": "Marital issue",
     "type_parenting": "Parenting",
     "type_other": "Other",
-    "message_label": "Brief description (kept fully confidential)",
-    "message_placeholder": "Write a brief note... (optional)",
+    "message_label": "Consultation topic in brief (optional; no sensitive details)",
+    "message_placeholder": "Give only the topic, without other people’s names or sensitive health, financial or family details.",
     "submit": "Open the e-mail draft",
     "note_title": "Important notes",
     "notes": [
-      "The service is completely free",
-      "All consultations are kept strictly confidential",
+      "Include only contact details and the consultation topic in your initial booking request",
+      "Email passes through the sender’s and recipient’s email providers; absolute confidentiality cannot be guaranteed through this channel",
       "Brothers meet the Sheikh; sisters are received by a female counselor",
       "Sessions may be rescheduled in case of emergencies",
       "Please book at least 24 hours in advance"
     ],
     "success": "An e-mail draft should now be open in your mail app. Your request is not sent until you send that e-mail, and no appointment is booked until you receive a confirmation reply. If no mail app opened, write to us directly at:",
-    "mailto_note": "This form does not book an appointment and sends nothing by itself: it prepares an e-mail in the mail app on your device, addressed to {email}. Nothing is sent until you press Send there, and an appointment is confirmed only when you receive a reply confirming it.",
+    "mailto_note": "This form does not book an appointment and sends nothing by itself: it prepares an e-mail in the mail app on your device, addressed to {email}. Nothing is sent until you press Send there, and an appointment is confirmed only when you receive a reply confirming it. Do not send sensitive personal information or details that identify other people. Email passes through the sender’s and recipient’s email providers; absolute confidentiality cannot be guaranteed.",
     "err_required": "This field is required.",
     "err_email": "Enter a valid e-mail address."
   },

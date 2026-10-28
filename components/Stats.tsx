@@ -39,6 +39,7 @@ export default function Stats() {
             </div>
           ))}
         </div>
+        <p className="mt-5 text-xs text-navy-500 leading-relaxed">{t('estimateNote')}</p>
       </div>
     </section>
   );

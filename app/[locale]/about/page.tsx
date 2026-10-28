@@ -22,13 +22,13 @@ const ui: Record<Loc, Record<string, string>> = {
     currentH: 'المناصب والمهام الحالية',
     eduH: 'التكوين والمؤهلات العلمية',
     formationH: 'الإجازات والتكوين التخصصي',
-    pubH: 'الأبحاث والمنشورات المحكَّمة',
+    pubH: 'الأبحاث والمؤلفات والمشاركات العلمية',
     teachingH: 'التدريس والدعوة والإعلام',
     leadershipH: 'الخبرات العملية والقيادية',
     membershipH: 'العضويات والمبادرات المؤسسية',
     articlesH: 'المقالات والسلاسل العلمية',
     viewAll: 'عرض جميع المقالات',
-    lecturesL: 'محاضرة ودرس',
+    lecturesL: 'محاضرات ودروس (تقديريًا)',
     yearsL: 'سنةَ خبرة',
     langsL: 'لغات',
     thesisL: 'موضوع الرسالة:',
@@ -39,13 +39,13 @@ const ui: Record<Loc, Record<string, string>> = {
     currentH: 'Current Roles',
     eduH: 'Education & Academic Qualifications',
     formationH: 'Ijāzas & Specialized Formation',
-    pubH: 'Peer-Reviewed Research & Publications',
+    pubH: 'Research, Books & Scholarly Contributions',
     teachingH: 'Teaching, Daʿwah & Media',
     leadershipH: 'Professional & Leadership Experience',
     membershipH: 'Memberships & Institutional Initiatives',
     articlesH: 'Articles & Scholarly Series',
     viewAll: 'View all articles',
-    lecturesL: 'lectures & lessons',
+    lecturesL: 'Lectures & lessons (estimated)',
     yearsL: 'years of experience',
     langsL: 'languages',
     thesisL: 'Thesis:',
@@ -56,13 +56,13 @@ const ui: Record<Loc, Record<string, string>> = {
     currentH: 'Cargos actuales',
     eduH: 'Formación y titulaciones académicas',
     formationH: 'Iŷāzas y formación especializada',
-    pubH: 'Investigaciones y publicaciones arbitradas',
+    pubH: 'Investigaciones, libros y contribuciones académicas',
     teachingH: 'Docencia, daʿwa y medios',
     leadershipH: 'Experiencia profesional y de liderazgo',
     membershipH: 'Membresías e iniciativas institucionales',
     articlesH: 'Artículos y series académicas',
     viewAll: 'Ver todos los artículos',
-    lecturesL: 'conferencias y lecciones',
+    lecturesL: 'Conferencias y clases (estimación)',
     yearsL: 'años de experiencia',
     langsL: 'idiomas',
     thesisL: 'Tesis:',
@@ -73,13 +73,13 @@ const ui: Record<Loc, Record<string, string>> = {
     currentH: 'موجودہ مناصب و ذمہ داریاں',
     eduH: 'تعلیم اور علمی اسناد',
     formationH: 'اجازات اور تخصصی تربیت',
-    pubH: 'ہم مرتبہ جائزہ شدہ تحقیقات و مطبوعات',
+    pubH: 'تحقیقات، تصانیف اور علمی مشارکات',
     teachingH: 'تدریس، دعوت اور ذرائع ابلاغ',
     leadershipH: 'عملی و قائدانہ تجربات',
     membershipH: 'رکنیتیں اور ادارہ جاتی اقدامات',
     articlesH: 'مقالات اور علمی سلسلے',
     viewAll: 'تمام مقالات دیکھیں',
-    lecturesL: 'لیکچر و دروس',
+    lecturesL: 'لیکچرز و دروس (تخمینہ)',
     yearsL: 'سالِ خدمت',
     langsL: 'زبانیں',
     thesisL: 'مقالے کا عنوان:',
@@ -316,6 +316,7 @@ function AboutContent() {
       : 'en';
   const data = content[loc];
   const labels = ui[loc];
+  const statsT = useTranslations('stats');
   const pubs = published(researchMeta)
     .sort((a, b) => b.year - a.year);
   const orderedCats: ArticleCategory[] = [
@@ -375,7 +376,7 @@ function AboutContent() {
           </Link>
         </p>
 
-        <div className="mb-14 grid grid-cols-3 gap-4">
+        <div className="mb-3 grid grid-cols-3 gap-4">
           {[
             {
               n: `+${getEstimatedLectureCount().toLocaleString(
@@ -399,6 +400,8 @@ function AboutContent() {
             </div>
           ))}
         </div>
+
+        <p className="mb-14 text-xs leading-relaxed text-navy-500">{statsT('estimateNote')}</p>
 
         <Section title={labels.currentH}>
           <div className="grid gap-4 sm:grid-cols-2">

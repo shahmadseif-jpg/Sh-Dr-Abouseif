@@ -17,6 +17,8 @@ interface Txt {
   basisIntro: string;
   ask: string;
   siteName: string;
+  privacyTitle: string;
+  privacyBody: string;
 }
 
 /** Research items that ground this methodology (titles come from lib/research.ts). */
@@ -24,6 +26,8 @@ const BASIS_SLUGS = ['fatwa-mufti-eligibility-2018', 'fatwa-us-ai-2025', 'fatwa-
 
 const TXT: Record<Locale, Txt> = {
   ar: {
+    privacyTitle: "الخدمات الخارجية وبياناتك",
+    privacyBody: "تمر الأسئلة والتعليقات وطلبات النشرة عبر FormSubmit لإرسالها إلى بريد الإمام. طلب الاستشارة يفتح مسودة في تطبيق بريدك؛ وعند إرسالها تمر بمزودي بريد المرسل والمستلم. يستخدم الموقع Google Fonts للخطوط ويحمّل برنامج Plausible للتحليلات، وقد تتصل الصور والمقاطع المضمنة بخدمات YouTube وFacebook. يُستخدم ملف ارتباط لحفظ اختيار اللغة. تجنب إرسال بيانات حساسة؛ ولا يُعد البريد ضمانًا للسرية المطلقة.",
     eyebrow: 'سؤال وجواب',
     title: 'كيف نجيب؟',
     intro:
@@ -64,6 +68,8 @@ const TXT: Record<Locale, Txt> = {
     siteName: 'د. أحمد أبو سيف',
   },
   en: {
+    privacyTitle: "External services and your information",
+    privacyBody: "Questions, comments and newsletter requests pass through FormSubmit for delivery to the Imam’s inbox. A consultation request opens a draft in your mail app; once sent, it passes through the sender’s and recipient’s email providers. The site uses Google Fonts and loads the Plausible analytics script; images and embedded media may connect to YouTube and Facebook. A cookie saves your language choice. Avoid sending sensitive information; email does not guarantee absolute confidentiality.",
     eyebrow: 'Questions & Answers',
     title: 'How We Answer',
     intro:
@@ -105,6 +111,8 @@ const TXT: Record<Locale, Txt> = {
     siteName: 'Dr. Ahmed Abouseif',
   },
   es: {
+    privacyTitle: "Servicios externos y sus datos",
+    privacyBody: "Las preguntas, los comentarios y las solicitudes del boletín pasan por FormSubmit para llegar al correo del imam. La solicitud de consulta abre un borrador en su aplicación de correo; al enviarlo, pasa por los proveedores del remitente y del destinatario. El sitio utiliza Google Fonts y carga el programa de análisis Plausible; las imágenes y los contenidos integrados pueden conectarse con YouTube y Facebook. Una cookie guarda su elección de idioma. Evite enviar datos sensibles; el correo no garantiza una confidencialidad absoluta.",
     eyebrow: 'Preguntas y Respuestas',
     title: 'Cómo respondemos',
     intro:
@@ -146,6 +154,8 @@ const TXT: Record<Locale, Txt> = {
     siteName: 'Dr. Ahmed Abouseif',
   },
   ur: {
+    privacyTitle: "بیرونی خدمات اور آپ کی معلومات",
+    privacyBody: "سوالات، تبصرے اور خبرنامے کی درخواستیں FormSubmit کے ذریعے امام کے ای میل پتے پر پہنچائی جاتی ہیں۔ مشاورت کی درخواست آپ کی ای میل ایپ میں مسودہ کھولتی ہے؛ بھیجنے کے بعد یہ بھیجنے اور وصول کرنے والے کے ای میل فراہم کنندگان سے گزرتی ہے۔ ویب سائٹ Google Fonts استعمال کرتی اور Plausible کا تجزیاتی پروگرام لوڈ کرتی ہے؛ تصاویر اور شامل شدہ میڈیا YouTube اور Facebook سے رابطہ کر سکتے ہیں۔ زبان کا انتخاب محفوظ رکھنے کے لیے کوکی استعمال ہوتی ہے۔ حساس معلومات نہ بھیجیں؛ ای میل مکمل رازداری کی ضمانت نہیں دیتی۔",
     eyebrow: 'سوال و جواب',
     title: 'ہم کیسے جواب دیتے ہیں؟',
     intro:
@@ -246,6 +256,11 @@ export default async function HowWeAnswerPage({
             </div>
           ))}
         </div>
+
+        <section id="privacy" className="mt-8 scroll-mt-24">
+          <h2 className="text-lg font-medium text-navy-700 mb-2">{t.privacyTitle}</h2>
+          <p className="text-navy-600 leading-relaxed">{t.privacyBody}</p>
+        </section>
 
         <div className="mt-8 rounded-lg border border-gold-200 bg-gold-50/60 p-6">
           <h2 className="text-lg font-medium text-navy-700 mb-2">{t.caseTitle}</h2>

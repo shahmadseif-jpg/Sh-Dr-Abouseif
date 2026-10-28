@@ -43,6 +43,7 @@ export default function Footer() {
               <li><Link href="/lectures" className="text-navy-600 hover:text-navy-700 no-underline">{t('nav.lectures')}</Link></li>
               <li><Link href="/articles" className="text-navy-600 hover:text-navy-700 no-underline">{t('nav.articles')}</Link></li>
               <li><Link href="/research" className="text-navy-600 hover:text-navy-700 no-underline">{t('nav.research')}</Link></li>
+              <li><Link href="/how-we-answer#privacy" className="text-navy-600 hover:text-navy-700 no-underline">{t('footer.privacy')}</Link></li>
               <li><Link href="/events" className="text-navy-600 hover:text-navy-700 no-underline">{t('nav.events')}</Link></li>
             </ul>
           </div>

@@ -150,6 +150,7 @@ export default function FatwaContent({ headingLevel = 'h1' }: { headingLevel?: '
           {/* noValidate: the browser bubbles are replaced by the localized,
               announced messages below; `required` is still enforced in onSubmit. */}
           <form onSubmit={onSubmit} noValidate aria-busy={sending}>
+            <p className="mb-6 text-sm text-navy-600 leading-relaxed">{t('privacyNote')}</p>
             <p className="text-xs text-navy-500">{t('requiredNote')}</p>
 
             <input

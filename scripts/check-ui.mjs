@@ -365,7 +365,7 @@ await section('form', async () => {
     r1.activation = { disabledWhileSending, statusText: statusText.slice(0, 80), preserved: !!preserved, payloadKeys: Object.keys(last).filter((k) => /consent|موافق|النشر|Consent/i.test(k)) };
     if (!disabledWhileSending) fail('form', `/${loc}: submit button not disabled while sending`);
     if (!preserved) fail('form', `/${loc}: inputs cleared after activation-required answer`);
-    if (!Object.values(last).includes('qa-consent-v2-2026-10-21')) fail('form', `/${loc}: consent policy version missing from payload`);
+    if (!Object.values(last).includes('qa-consent-v3-2026-10-28')) fail('form', `/${loc}: consent policy version missing from payload`);
     if (!Object.keys(last).some((k) => /Publish after anonymization/.test(k))) fail('form', `/${loc}: publication choice missing from payload`);
 
     mode = 'success';

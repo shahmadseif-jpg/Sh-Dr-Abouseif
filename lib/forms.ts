@@ -32,7 +32,7 @@ export const FORM_TIMEOUT_MS = 15000;
  * value carried in each submission identifies the wording the reader saw.
  * The policy itself is the public page /<locale>/how-we-answer.
  */
-export const CONSENT_POLICY_VERSION = 'qa-consent-v2-2026-10-21';
+export const CONSENT_POLICY_VERSION = 'qa-consent-v3-2026-10-28';
 
 /** Upper bounds mirrored by the (unused) API handlers. */
 export const FIELD_LIMITS = {

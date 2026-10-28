@@ -58,10 +58,11 @@
     }
   },
   "stats": {
-    "lectures": "Conferencias",
+    "lectures": "Conferencias y clases (estimación)",
     "years": "Años de servicio",
-    "subscribers": "Seguidores",
-    "languages": "Idiomas"
+    "subscribers": "Seguidores aproximados en Facebook y YouTube",
+    "languages": "Idiomas",
+    "estimateNote": "El total de conferencias es una estimación: parte de 23.974 el 13 de mayo de 2026 y aumenta automáticamente en 12 cada semana; no es un recuento verificado del archivo."
   },
   "latest_videos": {
     "title": "Últimas conferencias",
@@ -128,7 +129,7 @@
   },
   "research": {
     "title": "Investigación y Publicaciones",
-    "subtitle": "Artículos arbitrados, contribuciones a congresos internacionales y libros en jurisprudencia y pensamiento islámico",
+    "subtitle": "Investigaciones, contribuciones a congresos y libros sobre jurisprudencia y pensamiento islámico",
     "filter_all": "Todo",
     "featured": "Destacado",
     "venue": "Sede",
@@ -221,7 +222,7 @@
     "requiredNote": "Los campos marcados con * son obligatorios.",
     "policyLink": "Cómo tratamos y publicamos las preguntas",
     "consentLegend": "Consentimiento",
-    "consentProcessing": "Acepto que mi pregunta y mis datos de contacto se envíen por correo electrónico al Imam para que pueda responderla.",
+    "consentProcessing": "Acepto que mi pregunta y mis datos de contacto se envíen mediante el servicio externo FormSubmit al correo del imam para recibir una respuesta.",
     "consentPublish": "Opcional: autorizo que mi pregunta y su respuesta se publiquen en el archivo del sitio después de eliminar mi nombre, mi correo y cualquier dato que me identifique.",
     "errRequired": "Este campo es obligatorio.",
     "errEmail": "Escriba un correo electrónico válido, p. ej. nombre@ejemplo.com.",
@@ -229,11 +230,13 @@
     "errConsent": "No se puede enviar la pregunta sin aceptar que se envíe por correo al Imam.",
     "errSummary": "Corrija los campos señalados y vuelva a enviar.",
     "activation": "Su pregunta aún no se ha entregado: el buzón receptor no ha activado este formulario en el servicio de envío. Su texto sigue en los campos; inténtelo más tarde o escríbanos desde la página de contacto.",
-    "timeout": "El servicio de envío no respondió a tiempo. Su texto sigue en los campos; inténtelo de nuevo."
+    "timeout": "El servicio de envío no respondió a tiempo. Su texto sigue en los campos; inténtelo de nuevo.",
+    "privacyNote": "La información que introduce se envía mediante el servicio externo FormSubmit al correo del imam. No envíe datos sensibles ni detalles que identifiquen a otras personas."
   },
   "footer": {
     "rights": "Todos los derechos reservados",
-    "made_with": "Hecho con esmero"
+    "made_with": "Hecho con esmero",
+    "privacy": "Privacidad y tratamiento de las preguntas"
   },
   "maqasid": {
     "title": "Tafsīr orientado a los fines",
@@ -268,7 +271,7 @@
     "success": "Tu comentario ha sido recibido y se publicará tras su revisión, si Dios quiere. Que Dios te recompense.",
     "error": "No se pudo enviar. Tu texto se conserva; inténtalo de nuevo.",
     "empty": "Aún no hay comentarios publicados. Sé el primero en comentar.",
-    "moderationNote": "Esperamos que el artículo te haya sido de provecho, y agradecemos tu comentario y tu consejo.",
+    "moderationNote": "Esperamos que el artículo te haya sido de provecho, y agradecemos tu comentario y tu consejo. La información que introduce se envía mediante el servicio externo FormSubmit al correo del imam. No envíe datos sensibles ni detalles que identifiquen a otras personas.",
     "replyLabel": "Respuesta del jeque",
     "errRequired": "Este campo es obligatorio.",
     "errEmail": "Escribe un correo válido o deja el campo vacío.",
@@ -320,7 +323,7 @@
   },
   "newsletter": {
     "title": "Boletín",
-    "desc": "Deja tu correo para pedir que te avisemos de nuevos artículos e investigaciones. La solicitud llega al buzón del Imam; aún no hay una lista de correo automática.",
+    "desc": "Deja tu correo para pedir que te avisemos de nuevos artículos e investigaciones. La solicitud llega al buzón del Imam; aún no hay una lista de correo automática. La información que introduce se envía mediante el servicio externo FormSubmit al correo del imam. No envíe datos sensibles ni detalles que identifiquen a otras personas.",
     "label": "Tu correo electrónico",
     "ph": "Tu correo electrónico",
     "btn": "Enviar solicitud",
@@ -334,7 +337,7 @@
   "consultationsPage": {
     "title": "Servicio de Asesoramiento Familiar",
     "subtitle": "Patrocinado por el Dr. Ahmed Abouseif",
-    "intro": "Un servicio de asesoramiento familiar islámico, confidencial y especializado, al servicio de nuestra comunidad musulmana. Hermanos y hermanas son bienvenidos en dos franjas semanales en cualquiera de las dos mezquitas de abajo —sin honorarios y con plena privacidad.",
+    "intro": "Un servicio especializado de asesoramiento familiar islámico para nuestra comunidad musulmana. Se atiende a hermanos y hermanas en dos franjas semanales en cualquiera de las dos mezquitas indicadas, previa confirmación de la cita mediante contacto directo.",
     "select_location": "Elige el lugar de tu consulta",
     "aia_name": "Mezquita de la Academia Americana de Imames",
     "aia_address": "American Imams Academy, USA",
@@ -351,19 +354,19 @@
     "type_marital": "Problema conyugal",
     "type_parenting": "Crianza de los hijos",
     "type_other": "Otro",
-    "message_label": "Descripción breve (se mantiene totalmente confidencial)",
-    "message_placeholder": "Escribe una nota breve... (opcional)",
+    "message_label": "Tema de la consulta en breve (opcional; sin datos sensibles)",
+    "message_placeholder": "Indique solo el tema, sin nombres de otras personas ni detalles sensibles de salud, económicos o familiares.",
     "submit": "Abrir el borrador del correo",
     "note_title": "Notas importantes",
     "notes": [
-      "El servicio es completamente gratuito",
-      "Todas las consultas se mantienen estrictamente confidenciales",
+      "En la solicitud inicial, incluya solo sus datos de contacto y el tema de la consulta",
+      "El correo pasa por los proveedores del remitente y del destinatario; este medio no garantiza una confidencialidad absoluta",
       "A los hermanos los recibe el Shaij; a las hermanas las recibe una asesora",
       "Las sesiones pueden reprogramarse en caso de emergencia",
       "Por favor, reserva con al menos 24 horas de antelación"
     ],
     "success": "Ahora debería estar abierto un borrador en tu aplicación de correo. Tu solicitud no se envía hasta que envíes ese correo, y no hay cita reservada hasta recibir una respuesta de confirmación. Si no se abrió ninguna aplicación de correo, escríbenos directamente a:",
-    "mailto_note": "Este formulario no reserva una cita ni envía nada por sí mismo: prepara un correo en la aplicación de correo de tu dispositivo, dirigido a {email}. No se envía nada hasta que pulses Enviar allí, y la cita solo queda confirmada cuando recibas una respuesta que la confirme.",
+    "mailto_note": "Este formulario no reserva una cita ni envía nada por sí mismo: prepara un correo en la aplicación de correo de tu dispositivo, dirigido a {email}. No se envía nada hasta que pulses Enviar allí, y la cita solo queda confirmada cuando recibas una respuesta que la confirme. No envíe datos personales sensibles ni detalles que identifiquen a otras personas. El correo pasa por los proveedores del remitente y del destinatario; no se puede garantizar una confidencialidad absoluta.",
     "err_required": "Este campo es obligatorio.",
     "err_email": "Escribe un correo electrónico válido."
   },
