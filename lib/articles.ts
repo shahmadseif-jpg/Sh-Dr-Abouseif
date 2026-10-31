@@ -32,6 +32,32 @@ export interface ArticleMeta {
 
 export const articlesMeta: ArticleMeta[] = [
   ...lectureArticlesMeta,
+  {
+    slug: 'fatherhood-in-quran-ya-bunayya',
+    category: 'family',
+    isoDate: '2026-10-31',
+    date: { ar: '٣١ أكتوبر ٢٠٢٦', en: 'October 31, 2026', es: '31 de octubre de 2026', ur: '31 اکتوبر 2026' },
+    readingMinutes: 16,
+    title: { ar: 'يَا بُنَيَّ: الأبوة في القرآن', en: '“Dear Son”: Fatherhood in the Qurʾan' },
+    subtitle: { ar: 'من رعاية الأجساد إلى صناعة النفوس', en: 'From caring for bodies to shaping souls' },
+    excerpt: {
+      ar: 'من السهل أن يكون الإنسان أبًا بالميلاد، ولكن أن يكون أبًا بالرسالة والتربية والبناء، فذلك شأن آخر، ومسؤولية تتجاوز حدود الإنفاق والرعاية، وتمتد إلى عالم القلوب والعقول والمشاعر والضمائر.',
+      en: 'It is easy to be a father by birth; to be a father by mission, upbringing and formation is another matter: a responsibility that reaches beyond providing and caring into the world of hearts, minds, feelings and consciences.',
+    },
+  },
+  {
+    slug: 'motherhood-in-quran-a-good-growth',
+    category: 'family',
+    isoDate: '2026-10-31',
+    date: { ar: '٣١ أكتوبر ٢٠٢٦', en: 'October 31, 2026', es: '31 de octubre de 2026', ur: '31 اکتوبر 2026' },
+    readingMinutes: 16,
+    title: { ar: 'وَأَنبَتَهَا نَبَاتًا حَسَنًا: الأمومة في القرآن', en: '“And Made Her Grow in a Good Way”: Motherhood in the Qurʾan' },
+    subtitle: { ar: 'من آلام الحمل والوضع إلى بناء النفوس وصناعة الأجيال', en: 'From the pains of pregnancy and childbirth to building souls and shaping generations' },
+    excerpt: {
+      ar: 'ليست الأمومة مجرد رحلة تبدأ بالحمل وتنتهي بالولادة، ولا هي مسؤولية جسدية تنحصر في الإرضاع والإطعام والرعاية، وإنما هي علاقة إنسانية فريدة، تتداخل فيها الفطرة بالرحمة، والتضحية بالمحبة، والخوف بالرجاء، وتمتد آثارها من الجسد إلى النفس، ومن الطفولة إلى الكهولة، ومن حياة الأم إلى ما بعد رحيلها.',
+      en: 'Motherhood is not merely a journey that begins with pregnancy and ends with birth, nor a bodily duty confined to nursing and feeding; it is a unique human bond in which instinct meets mercy, sacrifice meets love, and fear meets hope.',
+    },
+  },
   // ===== بنك ٤: مفاهيم من سورة يوسف (سُجِّل 2026-10-07) =====
   {
     slug: 'murawadah-in-quran-drawing-a-person-away-from-himself',
