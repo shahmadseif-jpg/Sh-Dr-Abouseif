@@ -5,8 +5,8 @@ import LectureFilters from '@/components/LectureFilters';
 import { pageMetadata } from '@/lib/seo';
 import { siteConfig } from '@/lib/site-config';
 
-// Force dynamic rendering so YouTube fetch happens at request-time.
-export const dynamic = 'force-dynamic';
+// Static + ISR: the YouTube feed is fetched at regeneration time (once a day),
+// not on every visit.
 export const revalidate = 86400;
 
 export async function generateMetadata({

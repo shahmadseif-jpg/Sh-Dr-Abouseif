@@ -11,7 +11,9 @@ import { getTranslations, setRequestLocale } from 'next-intl/server';
 import { Suspense } from 'react';
 import { pageMetadata } from '@/lib/seo';
 
-export const dynamic = 'force-dynamic';
+// Static + ISR: regenerated at most once a day (YouTube RSS is fetched at
+// regeneration time, not per visit). force-dynamic here made every visit
+// run the server and drove Fast Origin Transfer past the free quota.
 export const revalidate = 86400;
 
 export async function generateMetadata({
